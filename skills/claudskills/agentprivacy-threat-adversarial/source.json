@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-threat-adversarial",
+  "slug": "agentprivacy-threat-adversarial",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-threat-adversarial/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-threat-adversarial/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Threat modelling and adversarial analysis for 0xagentprivacy. Activates when discussing R(d) adversarial bounds, attack surface analysis, red team methodologies, trusted setup attacks, side-channel vulnerabilities, or systematic approaches to finding privacy architecture weaknesses.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

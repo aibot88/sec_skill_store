@@ -1,0 +1,18 @@
+{
+  "name": "design-system-components",
+  "slug": "design-system-components",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/design-system-components/",
+  "download_url": "https://claudskills.com/skills/design-system-components/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Patterns for building design system components using Surface primitives, CVA variants, and consistent styling. Use when building reusable UI components that follow design token architecture. Triggers on Surface component, CVA, class-variance-authority, component variants, design tokens.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-system-ui",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

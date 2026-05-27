@@ -1,0 +1,18 @@
+{
+  "name": "constraint-identifier",
+  "slug": "constraint-identifier",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/constraint-identifier/",
+  "download_url": "https://claudskills.com/skills/constraint-identifier/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "System bottleneck identification and exploitation skill with throughput analysis and five focusing steps implementation",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

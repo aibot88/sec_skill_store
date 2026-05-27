@@ -1,0 +1,18 @@
+{
+  "name": "fastapi-router-py",
+  "slug": "fastapi-router-py",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastapi-router-py/",
+  "download_url": "https://claudskills.com/skills/fastapi-router-py/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create FastAPI routers following established patterns with proper authentication, response models, and HTTP status codes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "us-hipaa-security",
+  "slug": "us-hipaa-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/us-hipaa-security/",
+  "download_url": "https://claudskills.com/skills/us-hipaa-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "HIPAA Security Rule expert for US healthcare compliance. Deep knowledge of 45 CFR Part 164 Subpart C, Administrative/Physical/Technical Safeguards, Required vs Addressable specifications, Risk Analysis, Business Associate Agreements, and HHS OCR enforcement.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:31+00:00"
+}

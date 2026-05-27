@@ -1,0 +1,18 @@
+{
+  "name": "rewrite-plan",
+  "slug": "rewrite-plan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rewrite-plan/",
+  "download_url": "https://claudskills.com/skills/rewrite-plan/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Author a long-running multi-file rewrite plan that subsequent patch-edit + diff-review + build-test stages will execute, with explicit ownership boundaries and patch-safety guarantees.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

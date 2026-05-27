@@ -1,0 +1,19 @@
+{
+  "name": "grc",
+  "slug": "sherifeldeeb-agentskills-skills-cybersecurity-grc",
+  "source": "github",
+  "source_url": "https://github.com/SherifEldeeb/agentskills/blob/7f9db00ab2aee786927b390d208960f23288ab61/skills/cybersecurity/grc/SKILL.md",
+  "download_url": "https://github.com/SherifEldeeb/agentskills/blob/7f9db00ab2aee786927b390d208960f23288ab61/skills/cybersecurity/grc/SKILL.md",
+  "external_source_url": "https://github.com/SherifEldeeb/agentskills/blob/7f9db00ab2aee786927b390d208960f23288ab61/skills/cybersecurity/grc/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "SherifEldeeb/agentskills",
+    "path": "skills/cybersecurity/grc/SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

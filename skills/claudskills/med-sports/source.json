@@ -1,0 +1,18 @@
+{
+  "name": "med-sports",
+  "slug": "med-sports",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/med-sports/",
+  "download_url": "https://claudskills.com/skills/med-sports/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when the user wants to write a sports news piece — game recaps, athlete profiles, league/rule changes, injury reports, trade announcements, doping/discipline coverage — from supplied material (box scores, interviews, official statements, stats, medical updates). Specializes med-news-reporter for the sports beat: era-adjusted stats, source vetting for sports data, medical/injury disclosure limits, athlete-as-public-figure doctrine, doping allegations vs. allegations, sports-betting sensitivity, and on-field performance ≠ off-field authority. Triggers on phrases like 'write up this game', 'turn into a sports feature', 'cover this athlete trade', 'draft a piece on this injury', '寫一篇 MLB 賽季報導', '整理 NBA 交易消息', '寫一篇選手專訪', 'draft an Olympic piece', '報導棒球禁賽風波'. Do NOT use for fantasy sports tips (use fin-*), gambling advice, team marketing/press releases (use pr-*), or player agents' PR (use pr-press-release).",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "growth-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

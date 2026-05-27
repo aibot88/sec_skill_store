@@ -1,0 +1,18 @@
+{
+  "name": "lloydbriantech-ascent",
+  "slug": "lloydbriantech-ascent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lloydbriantech-ascent/",
+  "download_url": "https://claudskills.com/skills/lloydbriantech-ascent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "ASCENT engineering framework. Use to scaffold new projects, enhance existing ASCENT projects, migrate non-ASCENT projects to ASCENT standards, or answer questions about ASCENT's conventions, principles, or nine engineering roles (delivery-lead, architect, ui-ux-designer, developer, data-engineer, ai-engineer, tester, devops, cybersecurity).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

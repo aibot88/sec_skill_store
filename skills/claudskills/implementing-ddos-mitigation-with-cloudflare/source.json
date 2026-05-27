@@ -1,0 +1,18 @@
+{
+  "name": "implementing-ddos-mitigation-with-cloudflare",
+  "slug": "implementing-ddos-mitigation-with-cloudflare",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-ddos-mitigation-with-cloudflare/",
+  "download_url": "https://claudskills.com/skills/implementing-ddos-mitigation-with-cloudflare/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Configure Cloudflare DDoS protection with managed rulesets, rate limiting, WAF rules, Bot Management, and origin",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

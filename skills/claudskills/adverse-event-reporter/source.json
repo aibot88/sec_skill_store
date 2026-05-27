@@ -1,0 +1,18 @@
+{
+  "name": "adverse-event-reporter",
+  "slug": "adverse-event-reporter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/adverse-event-reporter/",
+  "download_url": "https://claudskills.com/skills/adverse-event-reporter/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Adverse event monitoring and reporting skill for MDR/MEDWATCH compliance",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

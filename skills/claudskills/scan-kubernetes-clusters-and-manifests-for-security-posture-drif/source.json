@@ -1,0 +1,18 @@
+{
+  "name": "scan-kubernetes-clusters-and-manifests-for-security-posture-drif",
+  "slug": "scan-kubernetes-clusters-and-manifests-for-security-posture-drif",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scan-kubernetes-clusters-and-manifests-for-security-posture-drif/",
+  "download_url": "https://claudskills.com/skills/scan-kubernetes-clusters-and-manifests-for-security-posture-drif/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run Kubernetes security and compliance scans against manifests or live clusters before rollout or audit.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

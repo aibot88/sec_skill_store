@@ -1,0 +1,18 @@
+{
+  "name": "specdd-debug",
+  "slug": "specdd-debug",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/specdd-debug/",
+  "download_url": "https://claudskills.com/skills/specdd-debug/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when Claude Code needs to diagnose or fix a bug in a SpecDD project by reproducing or inspecting failure, comparing observed behavior to active `.sdd` contracts, and applying the smallest authorized fix.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

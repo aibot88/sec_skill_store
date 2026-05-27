@@ -1,0 +1,18 @@
+{
+  "name": "humanizalo",
+  "slug": "humanizalo",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/humanizalo/",
+  "download_url": "https://claudskills.com/skills/humanizalo/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detects and eliminates 40 AI writing tells across vocabulary, structure, formatting, content inflation, and communication artifacts. Includes personality injection, 6-dimension scoring, and a self-audit loop. Use when editing or reviewing any text to make it sound unmistakably human.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

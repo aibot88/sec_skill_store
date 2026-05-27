@@ -1,0 +1,18 @@
+{
+  "name": "configuring-certificate-authority-with-openssl",
+  "slug": "configuring-certificate-authority-with-openssl",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/configuring-certificate-authority-with-openssl/",
+  "download_url": "https://claudskills.com/skills/configuring-certificate-authority-with-openssl/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "A Certificate Authority (CA) is the trust anchor in a PKI hierarchy, responsible for issuing, signing, and revoking",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "performing-kubernetes-etcd-security-assessment",
+  "slug": "performing-kubernetes-etcd-security-assessment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-kubernetes-etcd-security-assessment/",
+  "download_url": "https://claudskills.com/skills/performing-kubernetes-etcd-security-assessment/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Assess the security posture of Kubernetes etcd clusters by evaluating encryption at rest, TLS configuration,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

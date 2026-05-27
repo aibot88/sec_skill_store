@@ -1,0 +1,18 @@
+{
+  "name": "hotplex-arch-analyzer",
+  "slug": "hotplex-arch-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hotplex-arch-analyzer/",
+  "download_url": "https://claudskills.com/skills/hotplex-arch-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "HotPlex 项目架构和代码健康深度审计 — **立即调用此 skill 进行**：架构分析、代码质量审查、SOLID/DRY 合规检查、并发/性能审计、安全扫描、非功能分析、代码健康度改进、模块质量评估。**专为 HotPlex Gateway 多层架构优化**（WebSocket/Session/Worker/Messaging），自动创建 GitHub Issue 和验收标准。增量式模块分析 + 跨会话进度追踪 + 优先级排序 = **最有效的 /loop 循环执行工具**，适用于大型 Go 代码库的系统性审计。",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

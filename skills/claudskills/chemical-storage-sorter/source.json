@@ -1,0 +1,18 @@
+{
+  "name": "chemical-storage-sorter",
+  "slug": "chemical-storage-sorter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chemical-storage-sorter/",
+  "download_url": "https://claudskills.com/skills/chemical-storage-sorter/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Sort laboratory chemicals into safe storage groups by hazard classification (acids, bases, oxidizers, flammables, toxics). Identifies incompatible pairs, generates storage plans with warnings, and supports OSHA/NFPA compliance for lab safety.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "rest-api-patterns",
+  "slug": "rest-api-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rest-api-patterns/",
+  "download_url": "https://claudskills.com/skills/rest-api-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing, implementing, or reviewing Salesforce REST API integration — covering CRUD operations on sObjects, SOQL-based queries, paginated result sets, Composite requests, Composite Batch, and sObject Tree. Triggers: 'Salesforce REST API', 'composite API', 'nextRecordsUrl', 'sObject Tree', 'REST CRUD', 'REST pagination', 'API limits', 'OAuth Bearer token'. NOT for GraphQL API queries, Bulk API 2.0 large-data-load jobs, Metadata API deployments, or custom Apex REST endpoints.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "offensive-zigbee-thread-matter",
+  "slug": "offensive-zigbee-thread-matter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/offensive-zigbee-thread-matter/",
+  "download_url": "https://claudskills.com/skills/offensive-zigbee-thread-matter/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Zigbee, Thread, and Matter mesh-protocol attack methodology — IEEE 802.15.4 sniffing with TI CC2531 / CC2540 / Sonoff Zigbee Dongle E, KillerBee toolkit, Touchlink commissioning abuse with the well-known transport key, replay/injection attacks, Zigbee Cluster Library command abuse for door locks and bulbs, Thread network credential theft, Matter commissioning chain analysis, and 6LoWPAN/IPv6 routing exploitation. Use when targeting smart-home or commercial mesh deployments, Zigbee-based door locks, lighting, or sensor networks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

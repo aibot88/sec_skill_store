@@ -1,0 +1,18 @@
+{
+  "name": "clean-code-mastery",
+  "slug": "clean-code-mastery",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clean-code-mastery/",
+  "download_url": "https://claudskills.com/skills/clean-code-mastery/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "**CLEAN CODE MASTERY**: '코드 작성', '함수 만들어', '구현해', '개발해', '리팩토링', '개선해', '설계해', '클린코드', '코드품질' 요청 시 자동 발동. *.ts/*.py/*.go/*.java 등 모든 코드 파일 작업 시 자동 적용. SOLID/DRY/KISS + OWASP 보안 패턴. 언어별 선택적 로드.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

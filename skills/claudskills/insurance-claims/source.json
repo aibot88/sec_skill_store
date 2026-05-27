@@ -1,0 +1,18 @@
+{
+  "name": "insurance-claims",
+  "slug": "insurance-claims",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/insurance-claims/",
+  "download_url": "https://claudskills.com/skills/insurance-claims/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze an insurance claims processing system for lifecycle completeness, straight-through processing automation, fraud detection coverage, reserve estimation methodology, subrogation recovery workflows, and regulatory compliance with state prompt payment laws. Use when building or auditing claims platforms (auto, property, liability, workers comp, health), evaluating FNOL intake, or assessing SIU referral logic.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

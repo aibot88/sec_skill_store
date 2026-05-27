@@ -1,0 +1,18 @@
+{
+  "name": "sales-happyscribe",
+  "slug": "sales-happyscribe",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-happyscribe/",
+  "download_url": "https://claudskills.com/skills/sales-happyscribe/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "HappyScribe platform help — AI + human transcription, subtitle generation, and translation in 120+ languages with SOC 2 / GDPR compliance. Use when uploading audio or video for batch transcription across many languages, generating SRT/VTT/Premiere subtitles for video production, ordering human transcription for 99% accuracy on legal or broadcast content, integrating HappyScribe REST API into a transcript pipeline, troubleshooting accuracy with accents or multiple speakers, comparing HappyScribe vs Sonix vs Rev vs Trint for media transcription, choosing between AI and human transcription tiers, or debugging export format issues. Do NOT use for live meeting recording or real-time note-taking (HappyScribe is upload-only — use /sales-note-taker for live meeting tools).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

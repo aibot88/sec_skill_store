@@ -1,0 +1,18 @@
+{
+  "name": "court-divorce-proof-creator",
+  "slug": "court-divorce-proof-creator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/court-divorce-proof-creator/",
+  "download_url": "https://claudskills.com/skills/court-divorce-proof-creator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "이혼 소송 증거 자료 생성 도구. 영수증, 호텔 예약 확인서, 신용카드 내역서, 통화 내역서, 메시지 스크린샷 등 법적 증거로 활용 가능한 PDF 문서를 생성합니다. 실제와 유사한 형식으로 교육 및 시뮬레이션 목적으로 사용.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

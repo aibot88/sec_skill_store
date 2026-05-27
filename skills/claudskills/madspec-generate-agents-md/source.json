@@ -1,0 +1,18 @@
+{
+  "name": "madspec-generate-agents-md",
+  "slug": "madspec-generate-agents-md",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/madspec-generate-agents-md/",
+  "download_url": "https://claudskills.com/skills/madspec-generate-agents-md/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Генерирует для репозитория файл AGENTS.md (инструкции для coding-агентов) по лучшим практикам: коротко, детерминированно, с Persona/Architecture/Operations/Code Style/Boundaries & Security. Использовать, когда пользователь просит создать/обновить AGENTS.md, agent instructions, copilot instructions, cursor rules, CLAUDE.md.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "event-monitoring",
+  "slug": "event-monitoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/event-monitoring/",
+  "download_url": "https://claudskills.com/skills/event-monitoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Shield Event Monitoring: event log types, downloading logs via REST API and SOQL, real-time event monitoring with streaming API, and threat detection policies. NOT for debug logs (use debug-logs-and-developer-console). NOT for custom platform event publishing/subscribing (use platform-events-apex).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

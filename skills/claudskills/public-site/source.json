@@ -1,0 +1,18 @@
+{
+  "name": "tspoonbase",
+  "slug": "public-site",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/public-site/",
+  "download_url": "https://claudskills.com/skills/public-site/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "TspoonBase — a TypeScript backend-as-a-service with SQLite, auth, realtime, file storage, AI tools, vector search, and Admin UI. Use when a user wants to build a backend, scaffold a BaaS, add auth/CRUD/realtime to a project, deploy a PocketBase-like backend in TypeScript, or needs help with TspoonBase CLI commands, API usage, or deployment. TRIGGER when: code imports `tspoonbase`; user asks to create, deploy, or manage a backend; user mentions PocketBase, BaaS, SQLite backend, auth backend, realtime backend, or TspoonBase itself; project needs authentication, file uploads, realtime subscriptions, or an admin panel. SKIP: non-TypeScript projects, Go/Python/other language backends, general database questions not involving TspoonBase.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

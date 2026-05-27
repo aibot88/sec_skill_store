@@ -1,0 +1,18 @@
+{
+  "name": "rewrite-git-history-to-purge-secrets-binaries-or-accidental-path",
+  "slug": "rewrite-git-history-to-purge-secrets-binaries-or-accidental-path",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rewrite-git-history-to-purge-secrets-binaries-or-accidental-path/",
+  "download_url": "https://claudskills.com/skills/rewrite-git-history-to-purge-secrets-binaries-or-accidental-path/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use git-filter-repo when an agent needs to surgically rewrite repository history after a leaked secret, a huge binary commit, or a bad subtree split. The agent analyzes the problem, builds the rewrite command, and leaves a clean follow-up checklist for force-push, clone reset, and downstream cleanup.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "writing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

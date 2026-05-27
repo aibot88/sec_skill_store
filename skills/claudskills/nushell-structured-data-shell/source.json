@@ -1,0 +1,18 @@
+{
+  "name": "nushell-structured-data-shell",
+  "slug": "nushell-structured-data-shell",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nushell-structured-data-shell/",
+  "download_url": "https://claudskills.com/skills/nushell-structured-data-shell/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "A modern shell that treats all input as structured data rather than plain text streams. Nushell provides built-in support for JSON, YAML, TOML, CSV, SQLite, and Excel, with typed pipelines that enable safe filtering, sorting, and transformation without string parsing.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

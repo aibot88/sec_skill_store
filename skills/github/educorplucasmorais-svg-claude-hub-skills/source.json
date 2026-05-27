@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "educorplucasmorais-svg-claude-hub-skills",
+  "source": "github",
+  "source_url": "https://github.com/educorplucasmorais-svg/claude-hub/blob/31c86f7fb83b751d4267d476d04ae373629564d8/skills/security-audit.skill.md",
+  "download_url": "https://github.com/educorplucasmorais-svg/claude-hub/blob/31c86f7fb83b751d4267d476d04ae373629564d8/skills/security-audit.skill.md",
+  "external_source_url": "https://github.com/educorplucasmorais-svg/claude-hub/blob/31c86f7fb83b751d4267d476d04ae373629564d8/skills/security-audit.skill.md",
+  "license": "",
+  "description": "Hub centralizado com skills, agentes autonomos, Obsidian, NotebookLM e Gemini para Claude Code",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "educorplucasmorais-svg/claude-hub",
+    "path": "skills/security-audit.skill.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

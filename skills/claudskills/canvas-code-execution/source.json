@@ -1,0 +1,18 @@
+{
+  "name": "canvas-code-execution",
+  "slug": "canvas-code-execution",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/canvas-code-execution/",
+  "download_url": "https://claudskills.com/skills/canvas-code-execution/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Develops Canvas code execution features with Pyodide/iframe sandboxing. Use when working on Python/JS execution, package management, or sandbox security.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

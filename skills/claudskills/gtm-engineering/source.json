@@ -1,0 +1,18 @@
+{
+  "name": "gtm-engineering",
+  "slug": "gtm-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gtm-engineering/",
+  "download_url": "https://claudskills.com/skills/gtm-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "When the user wants to build GTM automation with code, design workflow architectures, use AI agents for GTM tasks, or implement the 'architecture over tools' principle. Also use when the user mentions 'GTM engineering,' 'GTM automation,' 'n8n,' 'Make,' 'Zapier,' 'workflow automation,' 'Clay API,' 'instruction stacks,' 'AI agents for GTM,' or 'revenue automation.' This skill covers technical GTM infrastructure from workflow design through agent orchestration. Do NOT use for technical implementation, code review, or software architecture.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

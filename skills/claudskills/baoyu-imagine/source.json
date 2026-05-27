@@ -1,0 +1,18 @@
+{
+  "name": "baoyu-imagine",
+  "slug": "baoyu-imagine",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/baoyu-imagine/",
+  "download_url": "https://claudskills.com/skills/baoyu-imagine/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "AI image generation with OpenAI GPT Image 2, Azure OpenAI, Google, OpenRouter, DashScope, Z.AI GLM-Image, MiniMax, Jimeng, Seedream and Replicate APIs. Supports text-to-image, reference images, aspect ratios, and batch generation from saved prompt files. Sequential by default; use batch parallel generation when the user already has multiple prompts or wants stable multi-image throughput. Use when user asks to generate, create, or draw images.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:03+00:00"
+}

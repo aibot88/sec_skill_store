@@ -1,0 +1,18 @@
+{
+  "name": "intercom-data-handling",
+  "slug": "intercom-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/intercom-data-handling/",
+  "download_url": "https://claudskills.com/skills/intercom-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Intercom data handling for GDPR, contact export, data retention, and PII. Use when handling sensitive data, implementing data export/deletion requests, or ensuring compliance with privacy regulations for Intercom integrations. Trigger with phrases like \"intercom data\", \"intercom PII\", \"intercom GDPR\", \"intercom data retention\", \"intercom privacy\", \"intercom CCPA\", \"intercom data export\", \"intercom delete contact\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

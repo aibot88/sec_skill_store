@@ -1,0 +1,18 @@
+{
+  "name": "audit-security-dependencies",
+  "slug": "audit-security-dependencies",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-security-dependencies/",
+  "download_url": "https://claudskills.com/skills/audit-security-dependencies/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when adding packages, bumping versions, or responding to security alerts. Enforces supply chain security and vulnerability remediation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

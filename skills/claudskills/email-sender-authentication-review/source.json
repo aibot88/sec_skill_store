@@ -1,0 +1,18 @@
+{
+  "name": "email-sender-authentication-review",
+  "slug": "email-sender-authentication-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/email-sender-authentication-review/",
+  "download_url": "https://claudskills.com/skills/email-sender-authentication-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing DNS sender-authentication records for a marketing domain to identify policy gaps exposing campaigns to rejection, spoofing, or inbox displacement. Trigger when a user provides DNS TXT record exports for SPF, DKIM, DMARC, or BIMI, or asks whether their email authentication posture meets Google/Yahoo bulk-sender requirements, DMARC enforcement standards, CISA BOD 18-01 obligations, PCI DSS v4.0 Req 5.3.3, or whether their transactional or marketing emails are at risk of spoofing or bulk-sender quarantine.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "growth-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "govconnect-api-testing",
+  "slug": "govconnect-api-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/govconnect-api-testing/",
+  "download_url": "https://claudskills.com/skills/govconnect-api-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Referensi lengkap semua API endpoint GovConnect untuk testing: auth, laporan/complaint, layanan/service request, kategori, nomor penting, AI webhook, knowledge base, superadmin, dan public forms. Termasuk contoh request PowerShell dan curl untuk setiap endpoint. Gunakan skill ini saat melakukan API testing GovConnect.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

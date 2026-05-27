@@ -1,0 +1,18 @@
+{
+  "name": "Electrobun Milady",
+  "slug": "electrobun-milady",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/electrobun-milady/",
+  "download_url": "https://claudskills.com/skills/electrobun-milady/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when building Electrobun features for the milady-ai/milady project, submitting PRs that will be reviewed by milady's agent-review system, or understanding how the electrobun-dev SDLC pipeline integrates with milady's trust scoring, CI/CD, and automated reviewer. Covers trust tiers, code quality standards, PR format requirements, Biome compliance, and the milady release-electrobun.yml workflow.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

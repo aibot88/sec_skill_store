@@ -1,0 +1,18 @@
+{
+  "name": "configuration-workbook-authoring",
+  "slug": "configuration-workbook-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/configuration-workbook-authoring/",
+  "download_url": "https://claudskills.com/skills/configuration-workbook-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Author the Salesforce Configuration Workbook — the structured, reviewable handoff document an admin uses to execute a feature across Objects/Fields, Page Layouts, Profiles/PSGs, Sharing, Validation, Automation, List Views, Reports, Integrations, and Data. Triggers: 'salesforce configuration workbook', 'admin handoff document', 'implementation workbook'. NOT for object design itself (use admin/custom-field-creation, admin/lookup-and-relationship-design, agents/object-designer/AGENT.md), NOT for permission set design (use admin/permission-set-architecture, agents/permission-set-architect/AGENT.md), NOT for Flow construction (use skills/flow/* and agents/flow-builder/AGENT.md), and NOT for the deployment manifest (use skills/devops/metadata-api-retrieve-deploy).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

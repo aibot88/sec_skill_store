@@ -1,0 +1,18 @@
+{
+  "name": "skill-metadata-maintainer",
+  "slug": "skill-metadata-maintainer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-metadata-maintainer/",
+  "download_url": "https://claudskills.com/skills/skill-metadata-maintainer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Initialize or update the metadata field in one specific skill's SKILL.md according to this repository's CONTRIBUTING.md rules. Use when Codex needs to maintain metadata for exactly one target skill, derive author and created from git history, and require explicit confirmation before overwriting existing metadata values.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

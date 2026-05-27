@@ -1,0 +1,18 @@
+{
+  "name": "semgrep-pattern-matching-auditor",
+  "slug": "semgrep-pattern-matching-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/semgrep-pattern-matching-auditor/",
+  "download_url": "https://claudskills.com/skills/semgrep-pattern-matching-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Leverages the Semgrep OSS engine and semgrep-rules registry to perform deep static analysis across 30+ languages. Combines taint tracking with pattern matching for OWASP Top 10 vulnerability detection.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

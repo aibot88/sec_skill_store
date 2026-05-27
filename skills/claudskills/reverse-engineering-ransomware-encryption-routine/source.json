@@ -1,0 +1,18 @@
+{
+  "name": "reverse-engineering-ransomware-encryption-routine",
+  "slug": "reverse-engineering-ransomware-encryption-routine",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/reverse-engineering-ransomware-encryption-routine/",
+  "download_url": "https://claudskills.com/skills/reverse-engineering-ransomware-encryption-routine/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Reverse engineer ransomware encryption routines to identify cryptographic algorithms, key generation flaws, and",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

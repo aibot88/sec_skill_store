@@ -1,0 +1,18 @@
+{
+  "name": "aws-cloudformation-ec2",
+  "slug": "aws-cloudformation-ec2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-cloudformation-ec2/",
+  "download_url": "https://claudskills.com/skills/aws-cloudformation-ec2/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AWS CloudFormation patterns for EC2 instances, Security Groups, IAM roles, and load balancers. Use when creating EC2 instances, SPOT instances, Security Groups, IAM roles for EC2, Application Load Balancers (ALB), Target Groups, and implementing template structure with Parameters, Outputs, Mappings, Conditions, and cross-stack references.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

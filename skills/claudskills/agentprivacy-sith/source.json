@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-sith",
+  "slug": "agentprivacy-sith",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-sith/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-sith/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Adversarial Researcher (red team) for 0xagentprivacy. Activates when testing privacy architectures for weaknesses, running attack simulations, stress-testing separation bounds, finding trusted setup vulnerabilities, modelling adversarial strategies, or any task requiring 'think like the attacker' methodology.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

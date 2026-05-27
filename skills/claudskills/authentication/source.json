@@ -1,0 +1,18 @@
+{
+  "name": "auth-comprehensive",
+  "slug": "authentication",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/authentication/",
+  "download_url": "https://claudskills.com/skills/authentication/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Production-grade authentication & authorization covering JWT, cookies, sessions, hashing, MFA, OAuth2, RBAC, and permissions across all frameworks (Next.js, Express.js, FastAPI, Django, Spring, etc.). Includes intelligent pattern selection, Better Auth integration, email verification, social login, token revocation, permission management, and 10+ years security expertise. Use when implementing authentication, authorization, user management, MFA, OAuth integration, or securing APIs in any framework.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:57+00:00"
+}

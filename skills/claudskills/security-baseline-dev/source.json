@@ -1,0 +1,18 @@
+{
+  "name": "security-baseline-dev",
+  "slug": "security-baseline-dev",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-baseline-dev/",
+  "download_url": "https://claudskills.com/skills/security-baseline-dev/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Базовая безопасность в реализации — валидация входных данных (Zod), secrets management, безопасные ошибки, auth/authz patterns, XSS/injection prevention, dependency audit, secure headers. DO/DON'T примеры. Активируй при написании любого кода, работающего с пользовательским вводом, auth, секретами, или при вопросах «как сделать безопасно».",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

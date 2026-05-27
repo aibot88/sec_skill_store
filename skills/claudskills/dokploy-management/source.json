@@ -1,0 +1,18 @@
+{
+  "name": "dokploy-management",
+  "slug": "dokploy-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dokploy-management/",
+  "download_url": "https://claudskills.com/skills/dokploy-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when deploying, managing, or troubleshooting Dokploy instances via the CLI (https://github.com/Dokploy/cli). Triggers: \"dokploy deploy\", \"manage dokploy\", \"dokploy app\", \"dokploy database\", \"push to dokploy\", \"dokploy CI/CD\", \"dokploy authentication\", \"zero-downtime deployment\", \"dokploy docker-compose\", \"dokploy environment variables\", \"dokploy health checks\". Provides comprehensive workflows for authentication, project/app/database management, environment variable sync, and production-ready CI/CD patterns with GitHub Actions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

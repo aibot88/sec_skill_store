@@ -1,0 +1,18 @@
+{
+  "name": "lci-agnt-companion",
+  "slug": "agnt-companion",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agnt-companion/",
+  "download_url": "https://claudskills.com/skills/agnt-companion/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when lci is installed and user needs dev server, reverse proxy, browser debugging, screenshots, or accessibility/performance/security audits of running page - points at sibling agnt plugin which lci does not duplicate. lci搜索代碼；運行代碼、觀其所為則用agnt。 Use when: dev server, browser errors, screenshots, a11y/perf/security audit, live DOM interaction.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "performance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

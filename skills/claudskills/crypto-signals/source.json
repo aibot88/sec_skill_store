@@ -1,0 +1,18 @@
+{
+  "name": "crypto-signals",
+  "slug": "crypto-signals",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crypto-signals/",
+  "download_url": "https://claudskills.com/skills/crypto-signals/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generate trading signals for cryptocurrency (BTC, ETH) and crypto-adjacent stocks (COIN, MSTR) using free market data APIs, technical analysis, and LLM interpretation. Use when asked to analyze crypto prices, generate buy/sell/hold signals, check portfolio status, or run the crypto signal workflow. Triggers on phrases like 'crypto signals', 'check my portfolio', 'analyze BTC', 'trading signals', 'market analysis', 'should I buy or sell'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

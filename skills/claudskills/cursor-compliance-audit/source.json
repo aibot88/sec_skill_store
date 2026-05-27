@@ -1,0 +1,18 @@
+{
+  "name": "cursor-compliance-audit",
+  "slug": "cursor-compliance-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cursor-compliance-audit/",
+  "download_url": "https://claudskills.com/skills/cursor-compliance-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Compliance and security auditing for Cursor IDE usage: SOC 2, GDPR, HIPAA assessment, evidence collection, and remediation. Triggers on \"cursor compliance\", \"cursor audit\", \"cursor security review\", \"cursor soc2\", \"cursor gdpr\", \"cursor data governance\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "nfr",
+  "slug": "nfr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nfr/",
+  "download_url": "https://claudskills.com/skills/nfr/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate Non-functional Requirements (NFR): performance, security, availability, scalability, compliance, localization. Use on /nfr command, or when the user asks for \"non-functional requirements\", \"NFR\", \"performance requirements\", \"security requirements\", \"SLA\", \"compliance requirements\", \"load requirements\", \"uptime requirements\", \"regulatory requirements\", \"GDPR\". Sixth step of the BA Toolkit pipeline.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

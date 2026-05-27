@@ -1,0 +1,18 @@
+{
+  "name": "deep-plan",
+  "slug": "deep-plan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deep-plan/",
+  "download_url": "https://claudskills.com/skills/deep-plan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Takes a rough, unpolished prompt idea and autonomously turns it into an implementation plan. Researches the project deeply, asks clarifying questions, generates a precise internal prompt, then executes it to produce a structured plan with todos. Designed for plan mode. Use when the user gives a vague feature request, rough idea, or \"dirty\" prompt and wants a ready-to-execute implementation plan — e.g. \"plan this\", \"deep plan\", \"turn this into a plan\", \"zaplanuj to\", \"zrób plan\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

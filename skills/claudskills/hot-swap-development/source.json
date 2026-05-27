@@ -1,0 +1,18 @@
+{
+  "name": "mcp-tester-hot-swap-development",
+  "slug": "hot-swap-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hot-swap-development/",
+  "download_url": "https://claudskills.com/skills/hot-swap-development/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Iterative MCP server replacement without client restart or session loss. 熱換伺服器，不斷客端，不失狀態。 Use when: developing MCP servers iteratively, replacing server binary mid-session, avoiding reconnection overhead.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

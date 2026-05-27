@@ -1,0 +1,18 @@
+{
+  "name": "42-init",
+  "slug": "42-init",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/42-init/",
+  "download_url": "https://claudskills.com/skills/42-init/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Bootstrap een klantproject voor 42-SEO-Skills. Vraagt naar profiel (content/ecom/technical/full), activeert alleen relevante skills via disabledSkills in .claude/settings.local.json, zet auth (.env) op, maakt de gedeelde Python venv in ~/.claude/venvs/42-seo/, en prikt 42-reports/<klant>/ neer. Use when user says \"init SEO project\", \"42-init\", \"setup SEO\", \"nieuw klantproject\", \"initialiseer SEO\".",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "seo",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

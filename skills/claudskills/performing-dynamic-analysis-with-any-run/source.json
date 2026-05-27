@@ -1,0 +1,18 @@
+{
+  "name": "performing-dynamic-analysis-with-any-run",
+  "slug": "performing-dynamic-analysis-with-any-run",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-dynamic-analysis-with-any-run/",
+  "download_url": "https://claudskills.com/skills/performing-dynamic-analysis-with-any-run/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Performs interactive dynamic malware analysis using the ANY.RUN cloud sandbox to observe real-time execution",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

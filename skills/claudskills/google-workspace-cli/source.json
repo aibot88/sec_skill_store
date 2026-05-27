@@ -1,0 +1,18 @@
+{
+  "name": "google-workspace-cli",
+  "slug": "google-workspace-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-workspace-cli/",
+  "download_url": "https://claudskills.com/skills/google-workspace-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Google Workspace administration via the gws CLI. Install, authenticate, and automate Gmail, Drive, Sheets, Calendar, Docs, Chat, and Tasks. Run security audits, execute 43 built-in recipes, and use 10 persona bundles. Use for Google Workspace admin, gws CLI setup, Gmail automation, Drive management, or Calendar scheduling.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

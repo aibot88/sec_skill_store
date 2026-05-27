@@ -1,0 +1,18 @@
+{
+  "name": "cors-policy-validator",
+  "slug": "cors-policy-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cors-policy-validator/",
+  "download_url": "https://claudskills.com/skills/cors-policy-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Cors Policy Validator - Auto-activating skill for Security Fundamentals. Triggers on: cors policy validator, cors policy validator Part of the Security Fundamentals skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

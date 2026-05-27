@@ -1,0 +1,18 @@
+{
+  "name": "convex-setup-auth",
+  "slug": "convex-setup-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/convex-setup-auth/",
+  "download_url": "https://claudskills.com/skills/convex-setup-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Sets up Convex authentication with user management, identity mapping, and access control. Use this skill when adding login or signup to a Convex app, configuring Convex Auth, Clerk, WorkOS AuthKit, Auth0, or custom JWT providers, wiring auth.config.ts, protecting queries and mutations with ctx.auth.getUserIdentity(), creating a users table with identity mapping, or setting up role-based access control, even if the user just says \"add auth\" or \"make it require login.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

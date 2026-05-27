@@ -1,0 +1,18 @@
+{
+  "name": "detecting-memory-corruption",
+  "slug": "detecting-memory-corruption",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-memory-corruption/",
+  "download_url": "https://claudskills.com/skills/detecting-memory-corruption/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detects various memory corruption vulnerabilities beyond simple buffer overflows including heap overflow, stack smashing, and double free. Use when analyzing complex memory management, heap operations, or investigating memory safety issues.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

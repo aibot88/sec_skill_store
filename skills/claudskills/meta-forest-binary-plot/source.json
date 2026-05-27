@@ -1,0 +1,18 @@
+{
+  "name": "meta-forest-binary-plot",
+  "slug": "meta-forest-binary-plot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/meta-forest-binary-plot/",
+  "download_url": "https://claudskills.com/skills/meta-forest-binary-plot/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generate meta-analysis forest plots for binary classification data. Input is a CSV file containing study names, event counts and sample sizes for experimental and control groups. Output includes forest plot PNG and data table CSV.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agentic-structure",
+  "slug": "agentic-structure",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentic-structure/",
+  "download_url": "https://claudskills.com/skills/agentic-structure/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Collaborative programming framework for production-ready development. Use when starting features, writing code, handling security/errors, adding comments, discussing requirements, or encountering knowledge gaps. Applies to all development tasks for clear, safe, maintainable code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

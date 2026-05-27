@@ -1,0 +1,18 @@
+{
+  "name": "etsy-listing-publisher",
+  "slug": "etsy-listing-publisher",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/etsy-listing-publisher/",
+  "download_url": "https://claudskills.com/skills/etsy-listing-publisher/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Publishes draft Etsy listings live via Etsy API v3 with mandatory compliance gates. Use when the user wants to publish an Etsy listing, push a draft live, or activate an inactive listing. Validates required fields, applies AI Disclosure tag where required, sets shipping profile + return policy + production partner. Refuses to publish if compliance gaps exist. Defaults to draft mode — operator must confirm before going live.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

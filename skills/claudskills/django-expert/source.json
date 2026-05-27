@@ -1,0 +1,18 @@
+{
+  "name": "django-expert",
+  "slug": "django-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/django-expert/",
+  "download_url": "https://claudskills.com/skills/django-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when building Django web applications or REST APIs with Django REST Framework. Invoke when working with settings.py, models.py, manage.py, or any Django project file. Creates Django models with proper indexes, optimizes ORM queries using select_related/prefetch_related, builds DRF serializers and viewsets, and configures JWT authentication. Trigger terms: Django, DRF, Django REST Framework, Django ORM, Django model, serializer, viewset, Python web.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

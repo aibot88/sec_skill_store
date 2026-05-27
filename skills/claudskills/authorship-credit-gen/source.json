@@ -1,0 +1,18 @@
+{
+  "name": "authorship-credit-gen",
+  "slug": "authorship-credit-gen",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/authorship-credit-gen/",
+  "download_url": "https://claudskills.com/skills/authorship-credit-gen/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when determining author order on research manuscripts, assigning CRediT contributor roles for transparency, documenting individual contributions to collaborative projects, or resolving authorship disputes in multi-institutional research. Generates fair and transparent authorship assignments following ICMJE guidelines and CRediT taxonomy. Helps research teams document contributions, resolve disputes, and ensure equitable credit distribution in academic publications.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

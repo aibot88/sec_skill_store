@@ -1,0 +1,18 @@
+{
+  "name": "implementing-service-mesh",
+  "slug": "implementing-service-mesh",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-service-mesh/",
+  "download_url": "https://claudskills.com/skills/implementing-service-mesh/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement production-ready service mesh deployments with Istio, Linkerd, or Cilium. Configure mTLS, authorization policies, traffic routing, and progressive delivery patterns for secure, observable microservices. Use when setting up service-to-service communication, implementing zero-trust security, or enabling canary deployments.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

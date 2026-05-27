@@ -1,0 +1,18 @@
+{
+  "name": "feishu-search-doc",
+  "slug": "feishu-search-doc",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/feishu-search-doc/",
+  "download_url": "https://claudskills.com/skills/feishu-search-doc/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "按关键词搜索飞书云文档、知识库空间/节点，或在指定云盘目录下列表并按名称筛选。使用当前用户个人 OAuth token，可配合 create-doc / fetch-doc / update-doc 等解析 folder_token 与 wiki 节点。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

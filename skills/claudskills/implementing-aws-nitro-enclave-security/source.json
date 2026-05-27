@@ -1,0 +1,18 @@
+{
+  "name": "implementing-aws-nitro-enclave-security",
+  "slug": "implementing-aws-nitro-enclave-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-aws-nitro-enclave-security/",
+  "download_url": "https://claudskills.com/skills/implementing-aws-nitro-enclave-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implements AWS Nitro Enclave-based confidential computing environments with cryptographic attestation, KMS policy",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

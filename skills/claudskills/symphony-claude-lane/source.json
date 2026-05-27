@@ -1,0 +1,18 @@
+{
+  "name": "symphony-claude-lane",
+  "slug": "symphony-claude-lane",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/symphony-claude-lane/",
+  "download_url": "https://claudskills.com/skills/symphony-claude-lane/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Teach an orchestrator smart multi-model dispatch for Symphony + Linear workflows. Use when an agent needs to route tasks to Claude or Codex based on task characteristics, create a durable routing profile, and define visual verification, privacy, and closeout rules for a mixed-model repo.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

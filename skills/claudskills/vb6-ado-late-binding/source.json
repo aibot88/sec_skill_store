@@ -1,0 +1,18 @@
+{
+  "name": "vb6-ado-late-binding",
+  "slug": "vb6-ado-late-binding",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vb6-ado-late-binding/",
+  "download_url": "https://claudskills.com/skills/vb6-ado-late-binding/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Applies the ADO late-binding pattern when writing or modifying database access code in Visual Basic 6, supporting both Microsoft SQL Server and PostgreSQL. Covers declaration as Object with CreateObject instantiation (never As ADODB.Connection or New ADODB.Recordset), ADO constants defined locally instead of referencing the type library, mandatory ConnectionTimeout before Open, the disconnected recordset pattern (CursorLocation client-side, then ActiveConnection = Nothing after Open), parameterized queries via ADODB.Command with Parameters.Append to prevent SQL injection and improve query plan caching, the AddADOParameter and SetADOCommandParameters helper functions that accumulate parameters in a Dictionary before applying them to a Command, multibank parameter naming (@param for MSSQL versus in_param/out_param for PostgreSQL) handled by SetParameter and GetParameter helpers, and structural SQL concatenation (table names, dynamic joins) versus value parameterization. Activates for any task involving ADODB, Connection, Recordset, Command, Parameters, SQL queries, database access, late binding, or CreateObject in VB6 context.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

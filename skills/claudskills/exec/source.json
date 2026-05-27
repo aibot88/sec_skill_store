@@ -1,0 +1,18 @@
+{
+  "name": "shannon-execution-verifier",
+  "slug": "exec",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/exec/",
+  "download_url": "https://claudskills.com/skills/exec/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive post-build verification of Shannon Framework's application outputs using three-layer methodology: Flow Verification (execution trace analysis), Artifact Verification (physical output inspection), and Functional Verification (runtime testing). Verifies Shannon built production-ready applications across all domains (Frontend, Backend, Database, Mobile, DevOps). Ensures NO MOCKS compliance, cross-platform functionality, and complete integration. Use after: Shannon builds any application via /shannon:wave, need to verify build quality, production readiness assessment.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

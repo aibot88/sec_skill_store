@@ -1,0 +1,18 @@
+{
+  "name": "add-whatsapp",
+  "slug": "add-whatsapp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/add-whatsapp/",
+  "download_url": "https://claudskills.com/skills/add-whatsapp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Add WhatsApp channel via native Baileys adapter. Direct connection — no Chat SDK bridge. Uses QR code or pairing code for authentication.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "communication",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

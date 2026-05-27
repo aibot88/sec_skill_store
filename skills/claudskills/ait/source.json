@@ -1,0 +1,18 @@
+{
+  "name": "ait",
+  "slug": "ait",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ait/",
+  "download_url": "https://claudskills.com/skills/ait/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Knowledge pack for AIt — a personal AI platform with monorepo architecture, RAG pipeline, OAuth connectors, and BullMQ scheduling.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

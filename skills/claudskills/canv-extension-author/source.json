@@ -1,0 +1,18 @@
+{
+  "name": "canv-extension-author",
+  "slug": "canv-extension-author",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/canv-extension-author/",
+  "download_url": "https://claudskills.com/skills/canv-extension-author/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user asks you to build, edit, or debug a Canv extension. Triggers on \"build me a Canv extension\", \"build me a Canv panel\", \"build me a fileHandler for X\", \"add a Canv extension that …\", \"write an extension for Canv that …\", or any explicit request to add UI or functionality to Canv via its extension system. Provides the manifest schema, all six contribution types, runtime constraints, CSP rules, and working recipes.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "plugins-extensions",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

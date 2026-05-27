@@ -1,0 +1,18 @@
+{
+  "name": "hybrid-memory",
+  "slug": "hybrid-memory",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hybrid-memory/",
+  "download_url": "https://claudskills.com/skills/hybrid-memory/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "LLM Wiki pattern + Cognee tarzı hibrit hafıza — Vector (ChromaDB) + Graph (Neo4j/NetworkX) + Relational (SQLite) üçlüsü. Oturumlar arası kalıcı bellek için kullan; kullanıcı \"hatırla\", \"not al\", \"önceki sohbet\", \"ne konuşmuştuk\" dediğinde. Retrieve-based RAG'den farklı — periyodik **compile** ederek Obsidian uyumlu wiki üretir.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

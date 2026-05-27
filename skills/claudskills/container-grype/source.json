@@ -1,0 +1,18 @@
+{
+  "name": "container-grype",
+  "slug": "container-grype",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/container-grype/",
+  "download_url": "https://claudskills.com/skills/container-grype/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Container vulnerability scanning and dependency risk assessment using Grype with CVSS severity ratings, EPSS exploit probability, and CISA KEV indicators. Use when: (1) Scanning container images and filesystems for known vulnerabilities, (2) Integrating vulnerability scanning into CI/CD pipelines with severity thresholds, (3) Analyzing SBOMs (Syft, SPDX, CycloneDX) for security risks, (4) Prioritizing remediation based on threat metrics (CVSS, EPSS, KEV), (5) Generating vulnerability reports in multiple formats (JSON, SARIF, CycloneDX) for security toolchain integration.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

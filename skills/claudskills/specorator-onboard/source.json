@@ -1,0 +1,18 @@
+{
+  "name": "specorator-onboard",
+  "slug": "specorator-onboard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/specorator-onboard/",
+  "download_url": "https://claudskills.com/skills/specorator-onboard/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Create the guided 5-step onboarding series. Always writes local markdown files with frontmatter in docs/onboarding/. Optionally creates GitHub issues when gh auth and a remote are available. Idempotent — skips if series exists.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

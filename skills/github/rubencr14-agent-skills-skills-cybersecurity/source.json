@@ -1,0 +1,19 @@
+{
+  "name": "cybersecurity",
+  "slug": "rubencr14-agent-skills-skills-cybersecurity",
+  "source": "github",
+  "source_url": "https://github.com/rubencr14/agent-skills/blob/d08e451502125cdca4e7bcd491c7828a08ef0e60/skills/cybersecurity/SKILL.md",
+  "download_url": "https://github.com/rubencr14/agent-skills/blob/d08e451502125cdca4e7bcd491c7828a08ef0e60/skills/cybersecurity/SKILL.md",
+  "external_source_url": "https://github.com/rubencr14/agent-skills/blob/d08e451502125cdca4e7bcd491c7828a08ef0e60/skills/cybersecurity/SKILL.md",
+  "license": "",
+  "description": "A curated collection of reusable skills for AI agents: backend, frontend, security, infrastructure, and development workflows.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "rubencr14/agent-skills",
+    "path": "skills/cybersecurity/SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "red-team-tactics",
+  "slug": "antigravity-red-team-tactics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/antigravity-red-team-tactics/",
+  "download_url": "https://claudskills.com/skills/antigravity-red-team-tactics/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Red team tactics principles based on MITRE ATT&CK. Attack phases, detection evasion, reporting.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

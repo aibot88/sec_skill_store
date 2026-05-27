@@ -1,0 +1,18 @@
+{
+  "name": "performing-ssl-stripping-attack",
+  "slug": "performing-ssl-stripping-attack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-ssl-stripping-attack/",
+  "download_url": "https://claudskills.com/skills/performing-ssl-stripping-attack/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Simulates SSL stripping attacks using sslstrip, Bettercap, and mitmproxy in authorized environments to test",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

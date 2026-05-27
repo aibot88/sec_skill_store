@@ -1,0 +1,18 @@
+{
+  "name": "deepgram-data-handling",
+  "slug": "deepgram-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deepgram-data-handling/",
+  "download_url": "https://claudskills.com/skills/deepgram-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement audio data handling best practices for Deepgram integrations. Use when managing audio file storage, implementing data retention, or ensuring GDPR/HIPAA compliance for transcription data. Trigger: \"deepgram data\", \"audio storage\", \"transcription data\", \"deepgram GDPR\", \"deepgram HIPAA\", \"deepgram privacy\", \"PII redaction\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "audio-podcast",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "error-handling-reviewer",
+  "slug": "error-handling-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/error-handling-reviewer/",
+  "download_url": "https://claudskills.com/skills/error-handling-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review test cases for OAuth/OIDC error handling. Covers authorization endpoint errors, token endpoint errors, error response formats, HTTP status codes, and all error codes per OAuth 2.1 and OIDC Core 1.0.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

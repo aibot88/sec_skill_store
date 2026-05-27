@@ -1,0 +1,18 @@
+{
+  "name": "fastapi-helper",
+  "slug": "fastapi-helper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastapi-helper/",
+  "download_url": "https://claudskills.com/skills/fastapi-helper/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "FastAPI development assistant for building modern Python web APIs. Provides guidance on routing, request/response handling, dependency injection, authentication, middleware, WebSockets, testing, and Pydantic models. Use when: (1) Creating FastAPI applications or endpoints, (2) Implementing CRUD operations, (3) Setting up authentication/authorization, (4) Working with request parameters (path, query, body, headers, cookies, forms, files), (5) Configuring middleware or CORS, (6) Implementing WebSocket connections, (7) Writing tests for FastAPI apps, (8) Defining Pydantic models for validation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

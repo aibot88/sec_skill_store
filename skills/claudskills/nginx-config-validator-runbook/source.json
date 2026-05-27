@@ -1,0 +1,18 @@
+{
+  "name": "nginx-config-validator-runbook",
+  "slug": "nginx-config-validator-runbook",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nginx-config-validator-runbook/",
+  "download_url": "https://claudskills.com/skills/nginx-config-validator-runbook/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validates Nginx configurations using nginx -t syntax checking, the crossplane Python parser for structural analysis, and gixy security analyzer. Detects misconfigurations, SSL issues, and security vulnerabilities.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

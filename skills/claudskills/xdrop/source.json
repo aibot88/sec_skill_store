@@ -1,0 +1,18 @@
+{
+  "name": "xdrop",
+  "slug": "xdrop",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/xdrop/",
+  "download_url": "https://claudskills.com/skills/xdrop/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this skill when the user wants to send or fetch files through an Xdrop server from the terminal, asks to automate encrypted Xdrop share-link workflows, provides an Xdrop `/t/:transferId#k=...` link to download and decrypt locally, or needs Xdrop CLI flags such as `--quiet`, `--json`, `--expires-in`, `--output`, or `--api-url`, even if they do not explicitly mention the skill name.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

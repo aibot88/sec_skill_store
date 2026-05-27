@@ -1,0 +1,18 @@
+{
+  "name": "yc-jobs-scraper",
+  "slug": "yc-jobs-scraper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/yc-jobs-scraper/",
+  "download_url": "https://claudskills.com/skills/yc-jobs-scraper/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Scrape daily job listings from YCombinator's Workatastartup platform without duplicates. Use this skill when asked to scrape YC jobs, update the YC companies list, or retrieve the latest startup jobs. It handles authentication, extracts company slugs via Inertia.js JSON payloads, falls back to public YC job pages when necessary, and maintains a local SQLite database to track historical jobs and prevent duplicates.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

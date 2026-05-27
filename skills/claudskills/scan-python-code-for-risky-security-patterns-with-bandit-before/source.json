@@ -1,0 +1,18 @@
+{
+  "name": "scan-python-code-for-risky-security-patterns-with-bandit-before-",
+  "slug": "scan-python-code-for-risky-security-patterns-with-bandit-before",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scan-python-code-for-risky-security-patterns-with-bandit-before-/",
+  "download_url": "https://claudskills.com/skills/scan-python-code-for-risky-security-patterns-with-bandit-before-/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Catch insecure Python calls, weak crypto usage, shell injection risks, and similar patterns before merge or release.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

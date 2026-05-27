@@ -1,0 +1,18 @@
+{
+  "name": "sast-xxe",
+  "slug": "sast-xxe",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sast-xxe/",
+  "download_url": "https://claudskills.com/skills/sast-xxe/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect XML External Entity (XXE) vulnerabilities in a codebase using a three-phase approach: recon (find XML parsing sites without external-entity hardening), batched verify (trace user input to each site in parallel subagents, 3 sites each), and merge (consolidate batch results). Requires sast/architecture.md (run sast-analysis first). Outputs findings to sast/xxe-results.md. Use when asked to find XXE or XML injection bugs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

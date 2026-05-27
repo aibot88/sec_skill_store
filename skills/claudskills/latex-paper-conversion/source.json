@@ -1,0 +1,18 @@
+{
+  "name": "latex-paper-conversion",
+  "slug": "latex-paper-conversion",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/latex-paper-conversion/",
+  "download_url": "https://claudskills.com/skills/latex-paper-conversion/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when the user asks to convert an academic paper in LaTeX from one format (e.g., Springer, IPOL) to another format (e.g., MDPI, IEEE, Nature). It automates extraction, injection, fixing formatting, and compiling.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

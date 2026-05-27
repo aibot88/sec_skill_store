@@ -1,0 +1,18 @@
+{
+  "name": "database-first",
+  "slug": "database-first",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/database-first/",
+  "download_url": "https://claudskills.com/skills/database-first/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "REQUIRED before implementing any game feature, scoring logic, state transition, or decision-making. ALL business logic lives in PostgreSQL - frontend is presentation only. Load this to understand where code belongs: database function vs component. Covers RPC patterns, SECURITY DEFINER, and anti-patterns.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

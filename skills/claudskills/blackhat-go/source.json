@@ -1,0 +1,18 @@
+{
+  "name": "blackhat-go",
+  "slug": "blackhat-go",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/blackhat-go/",
+  "download_url": "https://claudskills.com/skills/blackhat-go/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Go-based security techniques from \"Black Hat Go\" extended with macOS, Cloud, Mobile, IoT, Supply Chain, API, Web3, AI/ML, Red Team, ATT&CK, and LLM chapters. 186 techniques, 36 tools, 33 defenses across 37 chapters. Includes adversarial bisimulation games with Ungar (order-dependent) and join-semilattice structures. AAIF-compatible multiplayer agent games for human-agent security exercises.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

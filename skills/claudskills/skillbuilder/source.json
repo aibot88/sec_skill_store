@@ -1,0 +1,18 @@
+{
+  "name": "skillbuilder",
+  "slug": "skillbuilder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skillbuilder/",
+  "download_url": "https://claudskills.com/skills/skillbuilder/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Build flawless Claude Code skills. Studies existing skills as reference, ensures correct format, and pushes for genuine intelligence — skills that exploit something specific about how Claude works. SKIP for one-off scripts, prompts, or task helpers.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

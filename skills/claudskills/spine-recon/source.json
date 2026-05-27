@@ -1,0 +1,18 @@
+{
+  "name": "spine-recon",
+  "slug": "spine-recon",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spine-recon/",
+  "download_url": "https://claudskills.com/skills/spine-recon/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Backend reconnaissance — map all routes, middleware, models, dependencies, auth, and assess code quality for project takeover. Use when asked to \"understand this backend\", \"map the API\", or \"assess code quality\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

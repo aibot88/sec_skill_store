@@ -1,0 +1,18 @@
+{
+  "name": "performing-wireless-security-assessment-with-kismet",
+  "slug": "performing-wireless-security-assessment-with-kismet",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-wireless-security-assessment-with-kismet/",
+  "download_url": "https://claudskills.com/skills/performing-wireless-security-assessment-with-kismet/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Conduct wireless network security assessments using Kismet to detect rogue access points, hidden SSIDs, weak",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

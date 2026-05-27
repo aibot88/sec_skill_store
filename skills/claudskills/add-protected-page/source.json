@@ -1,0 +1,18 @@
+{
+  "name": "add-protected-page",
+  "slug": "add-protected-page",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/add-protected-page/",
+  "download_url": "https://claudskills.com/skills/add-protected-page/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Creates a protected page with Suspense loading pattern. Use when adding new pages that require authentication, creating dashboard pages, or setting up new routes.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

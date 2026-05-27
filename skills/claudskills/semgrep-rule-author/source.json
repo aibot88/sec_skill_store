@@ -1,0 +1,18 @@
+{
+  "name": "semgrep-rule-author",
+  "slug": "semgrep-rule-author",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/semgrep-rule-author/",
+  "download_url": "https://claudskills.com/skills/semgrep-rule-author/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generates custom Semgrep rules from natural language descriptions of vulnerability patterns. Uses semgrep --validate to verify rule syntax and semgrep --test to run against sample code fixtures automatically.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

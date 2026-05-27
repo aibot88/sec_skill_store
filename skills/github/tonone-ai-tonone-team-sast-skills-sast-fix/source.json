@@ -1,0 +1,19 @@
+{
+  "name": "sast-fix",
+  "slug": "tonone-ai-tonone-team-sast-skills-sast-fix",
+  "source": "github",
+  "source_url": "https://github.com/tonone-ai/tonone/blob/ba8c3e229e6c120b011c07f4eedf5be2d2d7a7df/team/sast/skills/sast-fix/SKILL.md",
+  "download_url": "https://github.com/tonone-ai/tonone/blob/ba8c3e229e6c120b011c07f4eedf5be2d2d7a7df/team/sast/skills/sast-fix/SKILL.md",
+  "external_source_url": "https://github.com/tonone-ai/tonone/blob/ba8c3e229e6c120b011c07f4eedf5be2d2d7a7df/team/sast/skills/sast-fix/SKILL.md",
+  "license": "",
+  "description": "One session. Two commands. Full team. Zero meetings.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "tonone-ai/tonone",
+    "path": "team/sast/skills/sast-fix/SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

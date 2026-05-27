@@ -1,0 +1,19 @@
+{
+  "name": "cli",
+  "slug": "yaklang-ssa.to-docs-cli",
+  "source": "github",
+  "source_url": "https://github.com/yaklang/ssa.to/blob/116838a3621f1cc5f637801fac73b27eecd46b57/docs/cli/skill.md",
+  "download_url": "https://github.com/yaklang/ssa.to/blob/116838a3621f1cc5f637801fac73b27eecd46b57/docs/cli/skill.md",
+  "external_source_url": "https://github.com/yaklang/ssa.to/blob/116838a3621f1cc5f637801fac73b27eecd46b57/docs/cli/skill.md",
+  "license": "",
+  "description": "https://ssa.to main page for ssa compiler utils",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "yaklang/ssa.to",
+    "path": "docs/cli/skill.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

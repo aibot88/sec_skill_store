@@ -1,0 +1,18 @@
+{
+  "name": "zapmail-domain-setup-public",
+  "slug": "zapmail-domain-setup-public",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/zapmail-domain-setup-public/",
+  "download_url": "https://claudskills.com/skills/zapmail-domain-setup-public/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Public guide: Generate short domain names, check availability, purchase on Dynadot, switch nameservers, set up on Zapmail, create inboxes, and export to your email sending platform. Requires your own Dynadot and Zapmail API keys. Use when someone wants to set up cold email domains end-to-end.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

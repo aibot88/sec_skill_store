@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "nakulnagariy-nnblogs-.claude-skills",
+  "source": "github",
+  "source_url": "https://github.com/nakulnagariy/nnblogs/blob/18753c934ea0d06fca04b73d9ff251484bfd81e6/.claude/skills/security-skill.md",
+  "download_url": "https://github.com/nakulnagariy/nnblogs/blob/18753c934ea0d06fca04b73d9ff251484bfd81e6/.claude/skills/security-skill.md",
+  "external_source_url": "https://github.com/nakulnagariy/nnblogs/blob/18753c934ea0d06fca04b73d9ff251484bfd81e6/.claude/skills/security-skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "nakulnagariy/nnblogs",
+    "path": ".claude/skills/security-skill.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

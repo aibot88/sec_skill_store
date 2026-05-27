@@ -1,0 +1,18 @@
+{
+  "name": "intercom-enterprise-rbac",
+  "slug": "intercom-enterprise-rbac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/intercom-enterprise-rbac/",
+  "download_url": "https://claudskills.com/skills/intercom-enterprise-rbac/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Intercom enterprise OAuth, admin roles, and app-level access control. Use when implementing OAuth integration, managing admin permissions, or setting up organization-level controls for Intercom. Trigger with phrases like \"intercom OAuth\", \"intercom RBAC\", \"intercom enterprise\", \"intercom roles\", \"intercom permissions\", \"intercom admin access\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "test-a11y",
+  "slug": "test-a11y",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/test-a11y/",
+  "download_url": "https://claudskills.com/skills/test-a11y/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "[Tier 2 — Non-Functional: Usability · ISO 25010] Accessibility test workflow — WCAG 2.1 AA compliance via axe-core + Playwright. Creates tests if missing, augments if exists. Run after Tier 1 functional tests pass.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agentic-cli-logging",
+  "slug": "agentic-cli-logging",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentic-cli-logging/",
+  "download_url": "https://claudskills.com/skills/agentic-cli-logging/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Yapılandırılmış log alanları, stderr vs dosya ve secret redaction kurallarını uygularken kullan.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

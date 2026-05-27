@@ -1,0 +1,18 @@
+{
+  "name": "playwright-e2e-builder",
+  "slug": "playwright-e2e-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/playwright-e2e-builder/",
+  "download_url": "https://claudskills.com/skills/playwright-e2e-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Plan and build comprehensive Playwright E2E test suites with Page Object Model, authentication state persistence, custom fixtures, visual regression, and CI integration. Uses interview-driven planning to clarify critical user flows, auth strategy, test data approach, and parallelization before writing any tests.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

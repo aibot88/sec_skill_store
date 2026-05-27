@@ -1,0 +1,18 @@
+{
+  "name": "fastapi-web-framework",
+  "slug": "fastapi-web-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastapi-web-framework/",
+  "download_url": "https://claudskills.com/skills/fastapi-web-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Create FastAPI web server with standard middleware, JWT authentication, and REST API endpoints",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

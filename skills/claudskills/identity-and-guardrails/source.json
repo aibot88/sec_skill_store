@@ -1,0 +1,18 @@
+{
+  "name": "identity-and-guardrails",
+  "slug": "identity-and-guardrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/identity-and-guardrails/",
+  "download_url": "https://claudskills.com/skills/identity-and-guardrails/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Enable prompt injection detection, PII masking, behavioral contracts, kill switch controls, and agent identity for safe production deployments.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

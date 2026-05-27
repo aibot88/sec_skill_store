@@ -1,0 +1,18 @@
+{
+  "name": "context-first",
+  "slug": "context-first",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/context-first/",
+  "download_url": "https://claudskills.com/skills/context-first/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Load relevant design documents and project context before working on any task. Use when user asks about features, requests implementation, discusses functionality, analyzes architecture, updates documentation, or mentions specific components like OAuth, authentication, Logto, sync, Happy Server, messaging, chat, terminal, command, zen mode, boxes, workspace. Ensures all work is grounded in documented design decisions. Prevents assumptions and misaligned solutions by loading context first.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

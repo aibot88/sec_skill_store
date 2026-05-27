@@ -1,0 +1,18 @@
+{
+  "name": "br-owned-resource-guards",
+  "slug": "br-owned-resource-guards",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/br-owned-resource-guards/",
+  "download_url": "https://claudskills.com/skills/br-owned-resource-guards/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Add better-route 0.5.0 ownership checks for user-owned REST resources. Use when a route or Resource DSL endpoint must ensure the authenticated user owns the order, record, token, subscription, membership, profile object, or other per-user object. Triggers on OwnershipGuardMiddleware, OwnedResourcePolicy, currentUserOwns, ownerResolver, bypassCapability, and customer-owned or user-owned API routes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

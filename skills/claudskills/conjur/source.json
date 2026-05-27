@@ -1,0 +1,18 @@
+{
+  "name": "conjur",
+  "slug": "conjur",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/conjur/",
+  "download_url": "https://claudskills.com/skills/conjur/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Conjur integration. Manage security and secrets-management data, records, and workflows. Use when the user wants to interact with Conjur data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "annas-archive-ebooks",
+  "slug": "annas-archive-ebooks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/annas-archive-ebooks/",
+  "download_url": "https://claudskills.com/skills/annas-archive-ebooks/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when needing to look up book content, find a book by title/author, download an ebook, or reference material from a published book. Triggers on book lookups, ebook downloads, \"find the book\", \"get the PDF/EPUB of\". Downloads produce PDF/EPUB/MOBI files - use ebook-extractor skill to convert to text.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

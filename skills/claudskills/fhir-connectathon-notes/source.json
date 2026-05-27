@@ -1,0 +1,18 @@
+{
+  "name": "fhir-connectathon-notes",
+  "slug": "fhir-connectathon-notes",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fhir-connectathon-notes/",
+  "download_url": "https://claudskills.com/skills/fhir-connectathon-notes/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Testing toolkit for the FHIR Writing Clinical Notes specification at connectathons. Use when the user needs to test FHIR DocumentReference write operations, validate conformance with the Writing Clinical Notes spec, or participate in a FHIR connectathon for clinical notes. Includes templates, OAuth helpers, and automated test scenarios for both provider-authored and patient-asserted notes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

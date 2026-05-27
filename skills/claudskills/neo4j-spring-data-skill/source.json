@@ -1,0 +1,18 @@
+{
+  "name": "neo4j-spring-data-skill",
+  "slug": "neo4j-spring-data-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/neo4j-spring-data-skill/",
+  "download_url": "https://claudskills.com/skills/neo4j-spring-data-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when building Spring Boot applications with Neo4j using Spring Data Neo4j (SDN): @Node entity mapping, @Relationship, Neo4jRepository, ReactiveNeo4jRepository, @Query annotations, application.yml configuration, projections, or Neo4j-OGM. Also covers Spring AI Neo4jVectorStore integration. Does NOT handle raw Java driver code (no Spring) — use neo4j-driver-java-skill. Does NOT handle Cypher query authoring — use neo4j-cypher-skill. Does NOT handle driver version upgrades — use neo4j-migration-skill.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

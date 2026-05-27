@@ -1,0 +1,18 @@
+{
+  "name": "Supabase Expert",
+  "slug": "supabase-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-expert/",
+  "download_url": "https://claudskills.com/skills/supabase-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Expert guide for Supabase integration - database schemas, RLS policies, auth, Edge Functions, and real-time subscriptions. Use when working with Supabase backend features.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

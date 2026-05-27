@@ -1,0 +1,18 @@
+{
+  "name": "speech-recognition",
+  "slug": "speech-recognition",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/speech-recognition/",
+  "download_url": "https://claudskills.com/skills/speech-recognition/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Transcribe speech to text using the Speech framework. Use when implementing live microphone transcription with AVAudioEngine, recognizing pre-recorded audio files, configuring on-device vs server-based recognition, handling authorization flows, or adopting the new SpeechAnalyzer API (iOS 26+) for modern async/await speech-to-text.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "audio-podcast",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

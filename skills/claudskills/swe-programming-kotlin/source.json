@@ -1,0 +1,18 @@
+{
+  "name": "swe-programming-kotlin",
+  "slug": "swe-programming-kotlin",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/swe-programming-kotlin/",
+  "download_url": "https://claudskills.com/skills/swe-programming-kotlin/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Kotlin coding standards from authoritative docs/explanation/software-engineering/programming-languages/kotlin/ documentation",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "docs-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

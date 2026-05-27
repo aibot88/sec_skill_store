@@ -1,0 +1,18 @@
+{
+  "name": "docx-feedback-tracker",
+  "slug": "docx-feedback-tracker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docx-feedback-tracker/",
+  "download_url": "https://claudskills.com/skills/docx-feedback-tracker/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Automatically detect DOCX track-changes history, version rounds, and author feedback to generate a Markdown modification explanation file when you run it on one or more DOCX versions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "korean-privacy-terms",
+  "slug": "kimlawtech-korean-privacy-terms",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kimlawtech-korean-privacy-terms/",
+  "download_url": "https://claudskills.com/skills/kimlawtech-korean-privacy-terms/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "처리방침·이용약관 자동 생성 스킬 패키지 (v4.0). 호출 시 privacy-kr·privacy-eu·privacy-us·privacy-global 4개 하위 스킬을 번호 메뉴로 제시하고 번호 입력 즉시 해당 스킬 인터뷰로 직행. 한국 PIPA + EU GDPR + US CCPA/CPRA 대응.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "language-learning",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

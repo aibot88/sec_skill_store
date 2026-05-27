@@ -1,0 +1,18 @@
+{
+  "name": "hm-deploy",
+  "slug": "hm-deploy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hm-deploy/",
+  "download_url": "https://claudskills.com/skills/hm-deploy/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Validação de deploy por distribution model. Use antes de subir pra produção pela primeira vez, quando o ambiente local parou de funcionar, quando mudou infra, ou para validar que qualquer pessoa consegue subir o projeto do zero. Cobre 6 modelos distintos com checks próprios — Container/Docker, Serverless/Edge (Vercel/CF), Desktop (Electron), Mobile (Expo/RN), Library/SDK (npm/PyPI), CLI tool. Security Gate primeiro: se falha, não continua.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

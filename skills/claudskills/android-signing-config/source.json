@@ -1,0 +1,18 @@
+{
+  "name": "android-signing-config",
+  "slug": "android-signing-config",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/android-signing-config/",
+  "download_url": "https://claudskills.com/skills/android-signing-config/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configure Android release build signing with dual-source credentials (env vars + gradle.properties)",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

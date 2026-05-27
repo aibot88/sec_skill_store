@@ -1,0 +1,18 @@
+{
+  "name": "cyber-risk-modeling",
+  "slug": "cyber-risk-modeling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cyber-risk-modeling/",
+  "download_url": "https://claudskills.com/skills/cyber-risk-modeling/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Quantify cyber risk using FAIR methodology with Monte Carlo simulation, assess control effectiveness against NIST CSF/CIS/ISO 27001 frameworks, evaluate risk appetite alignment, and analyze cyber insurance coverage adequacy. Covers threat landscape mapping, asset valuation, loss event frequency and magnitude estimation, annualized loss expectancy calculation, control gap analysis with ROI ranking, residual risk assessment, and insurance policy gap modeling at 90th/95th/99th percentile loss scenarios. Use when building risk registers, preparing board-level risk dashboards, evaluating security investment priorities, assessing cyber insurance coverage, or auditing any organization's risk quantification maturity per NIST RMF, ISO 27005, or FAIR standards.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

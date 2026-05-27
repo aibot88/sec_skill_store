@@ -1,0 +1,18 @@
+{
+  "name": "firebase-master",
+  "slug": "firebase-master",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-master/",
+  "download_url": "https://claudskills.com/skills/firebase-master/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive Firebase skill for TypeScript/Next.js 16 projects. Use when configuring Firebase services (Firestore Client SDK with aggregations/vector search, Authentication, Storage, Cloud Functions v2, FCM push notifications, App Check bot protection), implementing security rules and indexes, troubleshooting Firebase errors, setting up auth providers (email/password, Google Sign-In), configuring VAPID keys for notifications, custom action URLs, reCAPTCHA Enterprise, replay protection, or resolving permission issues. Covers TypeScript patterns, Next.js 16 SSR/App Router integration, and common pain points like CORS, duplicate documents, notification setup, and bot abuse prevention.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "robotics-software-principles",
+  "slug": "robotics-software-principles",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/robotics-software-principles/",
+  "download_url": "https://claudskills.com/skills/robotics-software-principles/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Foundational software design principles applied specifically to robotics module development. Use this skill when designing robot software modules, structuring codebases, making architecture decisions, reviewing robotics code, or building reusable robotics libraries. Trigger whenever the user mentions SOLID principles for robots, modular robotics software, clean architecture for robots, dependency injection in robotics, interface design for hardware, real-time design constraints, error handling strategies for robots, configuration management, separation of concerns in perception-planning- control, composability of robot behaviors, or any discussion of software craftsmanship in a robotics context. Also trigger for code reviews of robotics code, refactoring robot software, or designing APIs for robotics libraries.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

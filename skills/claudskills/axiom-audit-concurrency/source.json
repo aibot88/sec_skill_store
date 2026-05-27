@@ -1,0 +1,18 @@
+{
+  "name": "axiom-audit-concurrency",
+  "slug": "axiom-audit-concurrency",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/axiom-audit-concurrency/",
+  "download_url": "https://claudskills.com/skills/axiom-audit-concurrency/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user mentions concurrency checking, Swift 6 compliance, data race prevention, or async code review.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:00+00:00"
+}

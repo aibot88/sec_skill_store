@@ -1,0 +1,18 @@
+{
+  "name": "workspace-audit",
+  "slug": "workspace-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/workspace-audit/",
+  "download_url": "https://claudskills.com/skills/workspace-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit all git repos under ~/dev for dirty state, unpushed commits, exposed .env files, and tracked context files (CLAUDE.md, AGENTS.md, GEMINI.md). Use when the user wants to know if their workspace is clean, before a deploy, or when something feels off. Triggers on \"audit workspace\", \"check repos\", \"anything unpushed\", \"is my workspace clean\", \"check for dirty repos\", \"any exposed secrets\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

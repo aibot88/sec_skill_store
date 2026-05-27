@@ -1,0 +1,18 @@
+{
+  "name": "devops-infrastructure",
+  "slug": "devops-infrastructure",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/devops-infrastructure/",
+  "download_url": "https://claudskills.com/skills/devops-infrastructure/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage deployment, Docker, CI/CD, server hardening, and infrastructure security. EXCLUSIVE to devops-engineer agent.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

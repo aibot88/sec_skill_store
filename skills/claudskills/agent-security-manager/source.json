@@ -1,0 +1,18 @@
+{
+  "name": "agent-security-manager",
+  "slug": "agent-security-manager",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-security-manager/",
+  "download_url": "https://claudskills.com/skills/agent-security-manager/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Agent skill for security-manager - invoke with $agent-security-manager",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

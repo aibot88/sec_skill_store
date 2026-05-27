@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "xiaomingx-jsef-.",
+  "source": "github",
+  "source_url": "https://github.com/XiaomingX/JSEF/blob/8006e191a1ee8b80de7074339a9c075019b55b71/skill.md",
+  "download_url": "https://github.com/XiaomingX/JSEF/blob/8006e191a1ee8b80de7074339a9c075019b55b71/skill.md",
+  "external_source_url": "https://github.com/XiaomingX/JSEF/blob/8006e191a1ee8b80de7074339a9c075019b55b71/skill.md",
+  "license": "",
+  "description": "Java Security Education Framework (JSEF) 是基于Spring Boot 3.x构建的Web安全实践平台，专为开发者、安全研究员、高校学生及企业培训设计。通过35+种真实业务场景下的安全漏洞实例（含注入攻击、越权访问、敏感信息泄露等核心类型），提供“原理讲解→漏洞复现→代码对比→修复验证”的完整学习闭环，帮助学习者从“理论”到“实战”快速掌握Web安全核心能力。",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "XiaomingX/JSEF",
+    "path": "skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:59+00:00"
+}

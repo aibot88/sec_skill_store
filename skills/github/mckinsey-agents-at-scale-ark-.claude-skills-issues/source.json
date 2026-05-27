@@ -1,0 +1,19 @@
+{
+  "name": "issues",
+  "slug": "mckinsey-agents-at-scale-ark-.claude-skills-issues",
+  "source": "github",
+  "source_url": "https://github.com/mckinsey/agents-at-scale-ark/blob/95f7cd9b998e36c379d055bf2e93308907205d0c/.claude/skills/issues/SKILL.md",
+  "download_url": "https://github.com/mckinsey/agents-at-scale-ark/blob/95f7cd9b998e36c379d055bf2e93308907205d0c/.claude/skills/issues/SKILL.md",
+  "external_source_url": "https://github.com/mckinsey/agents-at-scale-ark/blob/95f7cd9b998e36c379d055bf2e93308907205d0c/.claude/skills/issues/SKILL.md",
+  "license": "",
+  "description": "Provider-agnostic operations for agentic resources. ARK codifies patterns and practices developed across dozens of agentic application projects.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "mckinsey/agents-at-scale-ark",
+    "path": ".claude/skills/issues/SKILL.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

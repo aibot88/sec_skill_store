@@ -1,0 +1,18 @@
+{
+  "name": "sc-diff-report",
+  "slug": "sc-diff-report",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sc-diff-report/",
+  "download_url": "https://claudskills.com/skills/sc-diff-report/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Incremental security scan for changed files only — optimized for PR and commit-level reviews",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

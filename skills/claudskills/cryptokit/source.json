@@ -1,0 +1,18 @@
+{
+  "name": "cryptokit",
+  "slug": "cryptokit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cryptokit/",
+  "download_url": "https://claudskills.com/skills/cryptokit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Perform cryptographic operations using Apple CryptoKit. Use when hashing data with SHA256/SHA384/SHA512, generating HMAC authentication codes, encrypting with AES-GCM or ChaChaPoly, signing with P256/P384/P521/Curve25519 keys, performing ECDH key agreement, storing keys in the Secure Enclave, or migrating from CommonCrypto to CryptoKit.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

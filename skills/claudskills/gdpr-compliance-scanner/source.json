@@ -1,0 +1,18 @@
+{
+  "name": "gdpr-compliance-scanner",
+  "slug": "gdpr-compliance-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gdpr-compliance-scanner/",
+  "download_url": "https://claudskills.com/skills/gdpr-compliance-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Gdpr Compliance Scanner - Auto-activating skill for Security Advanced. Triggers on: gdpr compliance scanner, gdpr compliance scanner Part of the Security Advanced skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

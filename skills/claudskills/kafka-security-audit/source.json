@@ -1,0 +1,18 @@
+{
+  "name": "kafka-security-audit",
+  "slug": "kafka-security-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kafka-security-audit/",
+  "download_url": "https://claudskills.com/skills/kafka-security-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit Kafka security configuration across the codebase and live cluster using the Lenses MCP server. Checks authentication (SASL), encryption (SSL/TLS), authorisation (ACLs), secrets management and environment tier mismatches. Use when user says \"audit Kafka security\", \"check security config\", \"is my cluster secure\" or asks about authentication, encryption or credentials. Do NOT use for configuring certificates, creating SASL users or setting up ACLs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

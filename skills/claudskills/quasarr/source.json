@@ -1,0 +1,18 @@
+{
+  "name": "quasarr",
+  "slug": "quasarr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/quasarr/",
+  "download_url": "https://claudskills.com/skills/quasarr/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Setup, configure, debug and extend Quasarr — the bridge that connects JDownloader with Radarr, Sonarr and LazyLibrarian via a fake Newznab indexer and SABnzbd client interface. Also handles CAPTCHA-protected link decryption. Use this skill whenever the user mentions Quasarr, asks about connecting JDownloader with Radarr/Sonarr, needs help with hostname configuration, FlareSolverr, download categories, notifications, SponsorsHelper, or any Quasarr-related topic.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

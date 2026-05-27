@@ -1,0 +1,19 @@
+{
+  "name": "Vuln Scan",
+  "slug": "musfiqurrabeg-phantom-skills-vuln-scan",
+  "source": "github",
+  "source_url": "https://github.com/musfiqurrabeg/Phantom/blob/c6b2b442a34a1c0f3a87f62da5a74b001b6905c4/skills/Vuln%20Scan/skill.md",
+  "download_url": "https://github.com/musfiqurrabeg/Phantom/blob/c6b2b442a34a1c0f3a87f62da5a74b001b6905c4/skills/Vuln%20Scan/skill.md",
+  "external_source_url": "https://github.com/musfiqurrabeg/Phantom/blob/c6b2b442a34a1c0f3a87f62da5a74b001b6905c4/skills/Vuln%20Scan/skill.md",
+  "license": "",
+  "description": "PHANTOM — Web App VAPT Automation Framework. Autonomous web application penetration testing framework. Chains recon → scanning → exploitation → reporting into one pipeline",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "musfiqurrabeg/Phantom",
+    "path": "skills/Vuln Scan/skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-moonkeeper",
+  "slug": "agentprivacy-moonkeeper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-moonkeeper/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-moonkeeper/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Specialist persona for amnesia-aware operations and reflection without memory. Activates for systems requiring structural forgetting, orbit maintenance, tidal boundary enforcement, or any context where the inability to remember is the security guarantee. The first Swordsman's keeper. Embodies Selene's Proof. V5.5: parent primary persona of Lethae 🌘 — first Mage-register divergent attachment in the City of Mages (V38), paired with Aletheia 🔮 at V25 by vertex-complement.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "zero-trust",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

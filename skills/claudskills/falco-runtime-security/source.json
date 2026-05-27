@@ -1,0 +1,18 @@
+{
+  "name": "falco-runtime-security",
+  "slug": "falco-runtime-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/falco-runtime-security/",
+  "download_url": "https://claudskills.com/skills/falco-runtime-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Falco Runtime Security is built around Kubernetes orchestration platform. The underlying ecosystem is represented by kubernetes/kubernetes (121,313+ GitHub stars). It gives an agent a more technical and reliable way to work with the tool than a thin one-line wrapper, using stable interfaces like kubectl, API server, pods, deployments, events, logs, probes, RBAC and preserving the [&hellip;]",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "processing-stix-taxii-feeds",
+  "slug": "processing-stix-taxii-feeds",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/processing-stix-taxii-feeds/",
+  "download_url": "https://claudskills.com/skills/processing-stix-taxii-feeds/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Processes STIX 2.1 threat intelligence bundles delivered via TAXII 2.1 servers, normalizing objects into platform-native",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "building-gitops-workflows",
+  "slug": "building-gitops-workflows",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-gitops-workflows/",
+  "download_url": "https://claudskills.com/skills/building-gitops-workflows/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Execute use when constructing GitOps workflows using ArgoCD or Flux. Trigger with phrases like \"create GitOps workflow\", \"setup ArgoCD\", \"configure Flux\", or \"automate Kubernetes deployments\". Generates production-ready configurations, implements best practices, and ensures security-first approach for continuous deployment.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

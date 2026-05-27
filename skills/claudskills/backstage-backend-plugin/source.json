@@ -1,0 +1,18 @@
+{
+  "name": "backstage-backend-plugin",
+  "slug": "backstage-backend-plugin",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backstage-backend-plugin/",
+  "download_url": "https://claudskills.com/skills/backstage-backend-plugin/SKILL.md",
+  "external_source_url": "",
+  "license": "Complete terms in LICENSE.txt",
+  "description": "Build Backstage backend plugins with createBackendPlugin and core services: DI, httpRouter, secure-by-default auth, Knex DB, routes, testing. Use for APIs and background jobs.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

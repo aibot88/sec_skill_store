@@ -1,0 +1,18 @@
+{
+  "name": "ethics-committee",
+  "slug": "ethics-committee",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ethics-committee/",
+  "download_url": "https://claudskills.com/skills/ethics-committee/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Act as a research ethics committee — stress-test a protocol the way an IRB / REC / HREC would. Reviews informed consent, risk-benefit balance, vulnerable populations, data privacy, deception, debriefing, payment, dual-use risks, AI/LLM use in research, and equity in recruitment. Produces a committee-style decision letter with required revisions, recommended changes, and approval pathway. Useful before IRB submission, when responding to IRB feedback, when drafting ethics sections of a paper or grant, or when a protocol changes mid-study. Trigger when: user mentions \"ethics review\", \"IRB\", \"REC\", \"HREC\", \"ethics committee\", \"ethics statement\", \"informed consent\", \"is this study ethical\", \"vulnerable population\", \"deception in research\", \"Belmont\", \"Helsinki\", \"GDPR research\", \"ethics approval\", \"ethics application\", or runs /ethics.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": true
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

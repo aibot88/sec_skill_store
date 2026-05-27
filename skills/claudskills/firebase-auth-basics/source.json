@@ -1,0 +1,18 @@
+{
+  "name": "firebase-auth-basics",
+  "slug": "firebase-auth-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-auth-basics/",
+  "download_url": "https://claudskills.com/skills/firebase-auth-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide for setting up and using Firebase Authentication. Use this skill when the user's app requires user sign-in, user management, or secure data access using auth rules.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

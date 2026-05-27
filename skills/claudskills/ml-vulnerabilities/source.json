@@ -1,0 +1,18 @@
+{
+  "name": "ml-vulnerabilities",
+  "slug": "ml-vulnerabilities",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ml-vulnerabilities/",
+  "download_url": "https://claudskills.com/skills/ml-vulnerabilities/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "OWASP Machine Learning Top 10 vulnerability knowledge base for identifying, assessing, and remediating security risks in machine learning systems.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

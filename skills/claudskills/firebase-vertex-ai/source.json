@@ -1,0 +1,18 @@
+{
+  "name": "firebase-vertex-ai",
+  "slug": "firebase-vertex-ai",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-vertex-ai/",
+  "download_url": "https://claudskills.com/skills/firebase-vertex-ai/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Execute firebase platform expert with Vertex AI Gemini integration for Authentication, Firestore, Storage, Functions, Hosting, and AI-powered features. Use when asked to \"setup firebase\", \"deploy to firebase\", or \"integrate vertex ai with firebase\". Trigger with relevant phrases based on skill purpose.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

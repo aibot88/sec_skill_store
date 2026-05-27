@@ -1,0 +1,18 @@
+{
+  "name": "clerk-performance-tuning",
+  "slug": "clerk-performance-tuning",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk-performance-tuning/",
+  "download_url": "https://claudskills.com/skills/clerk-performance-tuning/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Optimize Clerk authentication performance. Use when improving auth response times, reducing latency, or optimizing Clerk SDK usage. Trigger with phrases like \"clerk performance\", \"clerk optimization\", \"clerk slow\", \"clerk latency\", \"optimize clerk\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

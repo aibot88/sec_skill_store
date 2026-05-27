@@ -1,0 +1,18 @@
+{
+  "name": "eve-esi-api",
+  "slug": "eve-esi-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eve-esi-api/",
+  "download_url": "https://claudskills.com/skills/eve-esi-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "EVE Online ESI API patterns and zkillboard integration. Covers ESI endpoints, authentication, data models, zkillboard RedisQ listener, caching strategies, and EVE-specific IDs (characters, corporations, alliances, ships, systems, regions). Use when working with killmail data, fetching EVE universe info, or implementing ESI calls.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "performance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

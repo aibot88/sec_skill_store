@@ -1,0 +1,18 @@
+{
+  "name": "intercom-install-auth",
+  "slug": "intercom-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/intercom-install-auth/",
+  "download_url": "https://claudskills.com/skills/intercom-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Intercom API authentication with access tokens or OAuth. Use when setting up a new Intercom integration, configuring API credentials, or initializing the intercom-client SDK in your project. Trigger with phrases like \"install intercom\", \"setup intercom\", \"intercom auth\", \"configure intercom API key\", \"intercom access token\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

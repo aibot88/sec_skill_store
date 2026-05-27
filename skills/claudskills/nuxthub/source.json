@@ -1,0 +1,18 @@
+{
+  "name": "nuxthub",
+  "slug": "nuxthub",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nuxthub/",
+  "download_url": "https://claudskills.com/skills/nuxthub/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when building NuxtHub v0.10.6 applications - provides database (Drizzle ORM with sqlite/postgresql/mysql), KV storage, blob storage, and cache APIs. Covers configuration, schema definition, migrations, multi-cloud deployment (Cloudflare, Vercel), and the new hub:db, hub:kv, hub:blob virtual module imports.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

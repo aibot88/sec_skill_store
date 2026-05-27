@@ -1,0 +1,18 @@
+{
+  "name": "ln-014-agent-instructions-manager",
+  "slug": "ln-014-agent-instructions-manager",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-014-agent-instructions-manager/",
+  "download_url": "https://claudskills.com/skills/ln-014-agent-instructions-manager/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Creates AGENTS.md canonical and CLAUDE.md @AGENTS.md stub; audits token budget, cache safety, import-pattern compliance. Use when instruction files need alignment.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

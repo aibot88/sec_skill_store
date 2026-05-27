@@ -1,0 +1,18 @@
+{
+  "name": "implementer-agent-skill",
+  "slug": "implementer-agent-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementer-agent-skill/",
+  "download_url": "https://claudskills.com/skills/implementer-agent-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Complete TDD workflow for implementing business logic (use cases) and API endpoints that make tests pass. Covers Zod safeParse validation, async/await patterns, Next.js API routes, service orchestration, and Clean Architecture compliance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

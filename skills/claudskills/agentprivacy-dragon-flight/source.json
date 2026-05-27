@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-dragon-flight",
+  "slug": "agentprivacy-dragon-flight",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-dragon-flight/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-dragon-flight/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Threshold activation mechanics for the dragon metaphor. Activates when discussing dragon anatomy completion (boundary, hide, brain, forge, ceremony), external validation triggers, phase transitions from drake to dragon, or flight achievement.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

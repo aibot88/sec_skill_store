@@ -1,0 +1,19 @@
+{
+  "name": "secure-code-review",
+  "slug": "mahmutka-cybersecurity-claude-skills-secure-code-review",
+  "source": "github",
+  "source_url": "https://github.com/mahmutka/cybersecurity-claude-skills/blob/43d435cb856dc240228adc30c5b252ef453ca40c/secure-code-review/skill.md",
+  "download_url": "https://github.com/mahmutka/cybersecurity-claude-skills/blob/43d435cb856dc240228adc30c5b252ef453ca40c/secure-code-review/skill.md",
+  "external_source_url": "https://github.com/mahmutka/cybersecurity-claude-skills/blob/43d435cb856dc240228adc30c5b252ef453ca40c/secure-code-review/skill.md",
+  "license": "",
+  "description": "Cybersecurity expert skills for Claude Code — web hacking, pentest recon, secure code review, and CTF solver",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "mahmutka/cybersecurity-claude-skills",
+    "path": "secure-code-review/skill.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

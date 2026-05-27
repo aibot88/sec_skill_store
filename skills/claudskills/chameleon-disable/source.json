@@ -1,0 +1,18 @@
+{
+  "name": "chameleon-disable",
+  "slug": "chameleon-disable",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chameleon-disable/",
+  "download_url": "https://claudskills.com/skills/chameleon-disable/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user explicitly invokes /chameleon-disable to suppress chameleon's advisory injections for the rest of the current session",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

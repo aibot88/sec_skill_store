@@ -1,0 +1,18 @@
+{
+  "name": "env-and-assets-bootstrap",
+  "slug": "env-and-assets-bootstrap",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/env-and-assets-bootstrap/",
+  "download_url": "https://claudskills.com/skills/env-and-assets-bootstrap/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Environment and assets sub-skill for README-first AI repo reproduction. Use when the task is specifically to prepare a conservative conda-first environment, checkpoint and dataset path assumptions, cache location hints, and setup notes before any run on a README-documented repository. Do not use for repo scanning, full orchestration, paper interpretation, final run reporting, or generic environment setup that is not tied to a specific reproduction target.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

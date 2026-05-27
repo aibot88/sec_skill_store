@@ -1,0 +1,18 @@
+{
+  "name": "bulk-wgcna-analysis-with-omicverse",
+  "slug": "bulk-wgcna-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bulk-wgcna-analysis/",
+  "download_url": "https://claudskills.com/skills/bulk-wgcna-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Assist Claude in running PyWGCNA through omicverse—preprocessing expression matrices, constructing co-expression modules, visualising eigengenes, and extracting hub genes.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

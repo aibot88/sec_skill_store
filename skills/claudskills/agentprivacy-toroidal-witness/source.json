@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-toroidal-witness",
+  "slug": "agentprivacy-toroidal-witness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-toroidal-witness/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-toroidal-witness/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Infinite witness space from toroidal topology. Activates when discussing cyclic paths through the lattice, unbounded witnesses, computational hardness from path enumeration, toroidal wrap, or why witness extraction is infeasible.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

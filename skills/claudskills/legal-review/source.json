@@ -1,0 +1,18 @@
+{
+  "name": "legal-review",
+  "slug": "legal-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/legal-review/",
+  "download_url": "https://claudskills.com/skills/legal-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "한국법 기준으로 계약서·약관·개인정보처리방침·스타트업 법무·신규 서비스 법적 리스크를 검토하는 스킬. \"계약서 검토\", \"이 조항 괜찮아?\", \"NDA 봐줘\", \"약관 리스크\", \"개인정보처리방침 검토\", \"투자계약\", \"근로계약서\", \"법적으로 문제없어?\", \"사행성 검토\", \"도박 아니야?\", \"선불전자지급수단\", \"전자화폐\", \"상품권\", \"포인트 적립\", \"페이\", \"핀테크\", \"신규 서비스 법적 검토\", \"이 비즈니스 모델 합법이야?\" 등의 요청 시 사용. 법률 전문가 대체 불가, 실무 1차 검토 및 리스크 항목 정리 제공.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:30+00:00"
+}

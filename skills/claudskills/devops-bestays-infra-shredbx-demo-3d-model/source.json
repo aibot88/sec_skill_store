@@ -1,0 +1,18 @@
+{
+  "name": "devops-bestays-infra",
+  "slug": "devops-bestays-infra-shredbx-demo-3d-model",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/devops-bestays-infra-shredbx-demo-3d-model/",
+  "download_url": "https://claudskills.com/skills/devops-bestays-infra-shredbx-demo-3d-model/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manages Bestays infrastructure including Docker Compose, Dockerfile creation, Makefile workflows, service orchestration, production migrations, and backups. Use when managing containers, adding services, deploying to VPS, running migrations, or setting up infrastructure. Acts as a self-updating knowledge index that points to authoritative sources.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

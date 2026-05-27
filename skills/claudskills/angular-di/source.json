@@ -1,0 +1,18 @@
+{
+  "name": "angular-di",
+  "slug": "angular-di",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/angular-di/",
+  "download_url": "https://claudskills.com/skills/angular-di/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement dependency injection in Angular v20+ using inject(), injection tokens, and provider configuration. Use for service architecture, providing dependencies at different levels, creating injectable tokens, and managing singleton vs scoped services. Triggers on service creation, configuring providers, using injection tokens, or understanding DI hierarchy.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

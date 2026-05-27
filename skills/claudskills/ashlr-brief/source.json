@@ -1,0 +1,18 @@
+{
+  "name": "ashlr-brief",
+  "slug": "ashlr-brief",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ashlr-brief/",
+  "download_url": "https://claudskills.com/skills/ashlr-brief/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Tunable response-shortening skill for Claude Code. Trims filler from prose to reduce output tokens 30–55% while preserving grammar and code fidelity. Three intensity levels (lite / standard / concise). Auto-clarity exceptions for security, destructive actions, errors, and code blocks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

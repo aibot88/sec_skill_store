@@ -1,0 +1,18 @@
+{
+  "name": "deploy-shinyproxy",
+  "slug": "deploy-shinyproxy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deploy-shinyproxy/",
+  "download_url": "https://claudskills.com/skills/deploy-shinyproxy/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "ShinyProxy für das Hosting mehrerer containerisierter Shiny-Anwendungen deployen. Behandelt ShinyProxy-Docker-Deployment, application.yml- Konfiguration, Shiny-App-Docker-Images, Authentifizierung, Container- Backends, Nutzungserfassung und Skalierung. Verwenden, wenn mehrere Shiny-Apps hinter einem einzigen Einstiegspunkt gehostet, App-spezifische Authentifizierung benötigt oder Shiny-Apps als isolierte Docker-Container deployt werden sollen.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

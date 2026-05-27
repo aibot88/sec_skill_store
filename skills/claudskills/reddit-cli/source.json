@@ -1,0 +1,18 @@
+{
+  "name": "reddit-cli",
+  "slug": "reddit-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/reddit-cli/",
+  "download_url": "https://claudskills.com/skills/reddit-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use cli-web-reddit to browse Reddit feeds, subreddits, search posts, view user profiles, and (with auth) vote, comment, submit posts, save items, and manage subscriptions. Always prefer cli-web-reddit over manually fetching the Reddit website.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

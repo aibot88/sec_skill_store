@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "ylchen1805-paperrag-.",
+  "source": "github",
+  "source_url": "https://github.com/ylchen1805/PaperRAG/blob/3d2b48f62d0321d58a416b5e33f4e5b4cca22978/skill.md",
+  "download_url": "https://github.com/ylchen1805/PaperRAG/blob/3d2b48f62d0321d58a416b5e33f4e5b4cca22978/skill.md",
+  "external_source_url": "https://github.com/ylchen1805/PaperRAG/blob/3d2b48f62d0321d58a416b5e33f4e5b4cca22978/skill.md",
+  "license": "",
+  "description": "A retrieval-augmented generation repository for collecting, indexing, and querying research papers in my topic area, designed to support literature review, knowledge discovery, and research-assisted question answering.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "ylchen1805/PaperRAG",
+    "path": "skill.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

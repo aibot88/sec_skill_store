@@ -1,0 +1,18 @@
+{
+  "name": "gemini-code-review",
+  "slug": "gemini-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gemini-code-review/",
+  "download_url": "https://claudskills.com/skills/gemini-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Gemini CLI の Code Review 拡張で、作業後レビューを安全に実行するための最小手順と再発防止ルールを案内します。",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

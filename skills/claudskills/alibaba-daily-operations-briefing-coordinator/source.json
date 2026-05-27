@@ -1,0 +1,18 @@
+{
+  "name": "alibaba-daily-operations-briefing-coordinator",
+  "slug": "alibaba-daily-operations-briefing-coordinator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibaba-daily-operations-briefing-coordinator/",
+  "download_url": "https://claudskills.com/skills/alibaba-daily-operations-briefing-coordinator/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Coordinate the daily Alibaba Cloud operations standup — cost delta from Cost Manager, ActionTrail anomaly review, ACK pod failure triage, quota utilization warnings, Security Center finding review, and action item assignment.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "security-audit",
+  "slug": "x-89jobrien-security-audit",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/x-89jobrien-security-audit",
+  "download_url": "https://github.com/89jobrien/steve/tree/main/steve/skills/security-audit",
+  "external_source_url": "https://github.com/89jobrien/steve/tree/main/steve/skills/security-audit",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Security auditing and vulnerability assessment specialist. Use when conducting security reviews, analyzing code for vulnerabilities, performing OWASP assessments, or creating security audit reports.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "3 files",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/89jobrien/steve/tree/main/steve/skills/security-audit"
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

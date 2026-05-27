@@ -1,0 +1,18 @@
+{
+  "name": "structify",
+  "slug": "structify",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/structify/",
+  "download_url": "https://claudskills.com/skills/structify/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Contexto completo del proyecto Structify CLI. Leer SIEMPRE al inicio de cualquier sesión de trabajo en este proyecto antes de tocar código, planificar tareas, o responder preguntas sobre la arquitectura.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "julien-infra-hostinger-security",
+  "slug": "julien-infra-hostinger-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/julien-infra-hostinger-security/",
+  "download_url": "https://claudskills.com/skills/julien-infra-hostinger-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Security management for Hostinger VPS srv759970 - Fail2ban, WordPress security audits (25+ checks, 0-100% scoring), infrastructure audit. Use for security hardening, IP bans, or security assessments.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

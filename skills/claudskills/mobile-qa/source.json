@@ -1,0 +1,18 @@
+{
+  "name": "mobile-qa",
+  "slug": "mobile-qa",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mobile-qa/",
+  "download_url": "https://claudskills.com/skills/mobile-qa/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run a comprehensive mobile app QA audit covering permission flows, deep link verification, push notification delivery, offline mode resilience, background/foreground state preservation, memory leak detection, network condition simulation, accessibility compliance, and iOS/Android platform edge cases. Supports Flutter, React Native, and native iOS/Android. Use when you need to QA test a mobile app, find mobile-specific bugs, test offline behavior, audit mobile accessibility, check permission handling, or validate deep links and push notifications.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

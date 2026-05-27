@@ -1,0 +1,18 @@
+{
+  "name": "lease-compliance",
+  "slug": "lease-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lease-compliance/",
+  "download_url": "https://claudskills.com/skills/lease-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit commercial lease compliance systems -- CAM reconciliation accuracy (pro-rata share, caps, admin fees), lease abstraction completeness, critical date tracking and deadline alerting, clause compliance monitoring (insurance certificates, permitted use, co-tenancy), tenant obligation enforcement, and ASC 842/IFRS 16 lease accounting (ROU assets, lease liabilities, discount rates). Use when reviewing CRE property management software, lease administration platforms (Yardi, MRI, CoStar), or any codebase handling NNN leases, tenant billing, or lease portfolio analytics.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "lint-instructions",
+  "slug": "lint-instructions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lint-instructions/",
+  "download_url": "https://claudskills.com/skills/lint-instructions/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect and fix violations of project instructions defined in .claude/rules/. Use when checking code compliance, reviewing changes, or when the user asks about instruction violations.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

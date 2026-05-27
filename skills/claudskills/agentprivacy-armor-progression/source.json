@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-armor-progression",
+  "slug": "agentprivacy-armor-progression",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-armor-progression/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-armor-progression/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Armor progression system (Blade→Light→Heavy→Full Plate→Dragon) for 0xagentprivacy. Activates when discussing progressive privacy tiers, user onboarding through increasing protection levels, P(progressive) scaling, or how privacy capability evolves with understanding.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

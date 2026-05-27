@@ -1,0 +1,18 @@
+{
+  "name": "effect-dependency-injection",
+  "slug": "effect-dependency-injection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/effect-dependency-injection/",
+  "download_url": "https://claudskills.com/skills/effect-dependency-injection/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when Effect dependency injection patterns including Context, Layer, service definitions, and dependency composition. Use for managing dependencies in Effect applications.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

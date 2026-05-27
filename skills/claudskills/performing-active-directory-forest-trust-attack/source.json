@@ -1,0 +1,18 @@
+{
+  "name": "performing-active-directory-forest-trust-attack",
+  "slug": "performing-active-directory-forest-trust-attack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-active-directory-forest-trust-attack/",
+  "download_url": "https://claudskills.com/skills/performing-active-directory-forest-trust-attack/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Enumerate and audit Active Directory forest trust relationships using impacket for SID filtering analysis, trust",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:51+00:00"
+}

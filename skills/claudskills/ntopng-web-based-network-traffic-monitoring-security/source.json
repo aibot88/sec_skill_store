@@ -1,0 +1,18 @@
+{
+  "name": "ntopng-web-based-network-traffic-monitoring-security",
+  "slug": "ntopng-web-based-network-traffic-monitoring-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ntopng-web-based-network-traffic-monitoring-security/",
+  "download_url": "https://claudskills.com/skills/ntopng-web-based-network-traffic-monitoring-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "ntopng is a web-based network traffic monitoring application that provides real-time visibility into network flows, bandwidth usage, and security threats. With 7.7k+ GitHub stars and decades of development since the original ntop in 1998, it is a proven enterprise-grade network analysis platform.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "supabase-policy-guardrails",
+  "slug": "supabase-policy-guardrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-policy-guardrails/",
+  "download_url": "https://claudskills.com/skills/supabase-policy-guardrails/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Enforce organizational governance for Supabase projects: shared RLS policy library with reusable templates, table and column naming conventions, migration review process with CI checks, cost alert thresholds, and security audit scripts scanning for common misconfigurations. Use when establishing Supabase standards across teams, creating RLS policy templates, setting up migration review workflows, or auditing existing projects for security and cost issues. Trigger with phrases like \"supabase governance\", \"supabase policy library\", \"supabase naming convention\", \"supabase migration review\", \"supabase cost alert\", \"supabase security audit\", \"supabase RLS template\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

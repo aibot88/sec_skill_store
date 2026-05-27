@@ -1,0 +1,18 @@
+{
+  "name": "marketing-red-team",
+  "slug": "marketing-red-team",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/marketing-red-team/",
+  "download_url": "https://claudskills.com/skills/marketing-red-team/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "When the user wants to critically review marketing output for errors, inconsistencies, and risks. Also use when 'red team,' 'challenge,' 'devil's advocate,' 'tegenargumenten,' 'kritische review,' 'hallucinatie check,' 'fact check,' 'sanity check,' 'tegenstrijdigheden,' 'critical review,' 'challenge my assumptions.' For comprehensive QA scoring, see marketing-qa.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

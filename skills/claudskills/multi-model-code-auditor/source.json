@@ -1,0 +1,18 @@
+{
+  "name": "multi-model-code-auditor",
+  "slug": "multi-model-code-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/multi-model-code-auditor/",
+  "download_url": "https://claudskills.com/skills/multi-model-code-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Run a comprehensive security, privacy, and bug audit on any codebase using the absolute best frontier AI models via OpenRouter API. Dynamically discovers the latest models, uses model-specific elite prompt engineering, merges findings by consensus, implements fixes, and runs a verification re-audit. Use when the user requests a code audit, security review, vulnerability scan, bug audit, or asks to review code with multiple AI models.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

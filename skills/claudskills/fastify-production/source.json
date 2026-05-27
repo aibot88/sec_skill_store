@@ -1,0 +1,18 @@
+{
+  "name": "fastify-production",
+  "slug": "fastify-production",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastify-production/",
+  "download_url": "https://claudskills.com/skills/fastify-production/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when deploying Fastify to production, configuring Fastify security headers, setting up reverse proxy with Fastify, implementing graceful shutdown, configuring @fastify/helmet, @fastify/cors, @fastify/rate-limit, trustProxy settings, Kubernetes Fastify deployment, Fastify performance tuning, request timeouts, handler timeouts, return503OnClosing, prototype poisoning protection, production Fastify checklist, or hardening Fastify server.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

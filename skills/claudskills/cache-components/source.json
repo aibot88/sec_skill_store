@@ -1,0 +1,18 @@
+{
+  "name": "cache-components",
+  "slug": "cache-components",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cache-components/",
+  "download_url": "https://claudskills.com/skills/cache-components/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guidance for Next.js Cache Components and Partial Prerendering (PPR). Use when implementing 'use cache' directive, configuring cache lifetimes with cacheLife(), tagging cached data with cacheTag(), invalidating caches with updateTag()/revalidateTag(), optimizing static vs dynamic content boundaries, managing 'use cache: private' for compliance scenarios, pass-through/interleaving patterns, GET Route Handler caching, debugging cache issues, and reviewing Cache Component implementations.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "performance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

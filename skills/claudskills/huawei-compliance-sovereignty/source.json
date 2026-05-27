@@ -1,0 +1,18 @@
+{
+  "name": "huawei-compliance-sovereignty",
+  "slug": "huawei-compliance-sovereignty",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/huawei-compliance-sovereignty/",
+  "download_url": "https://claudskills.com/skills/huawei-compliance-sovereignty/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Advise on Huawei Cloud MLPS 2.0 Level 3 technical controls mapping, China data localization requirements, Trusted Cloud (CAICT) certification controls, and government cloud configuration requirements for sovereignty-aware workloads.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

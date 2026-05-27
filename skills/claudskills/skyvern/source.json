@@ -1,0 +1,18 @@
+{
+  "name": "skyvern",
+  "slug": "skyvern",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skyvern/",
+  "download_url": "https://claudskills.com/skills/skyvern/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AI-powered browser automation — navigate sites, fill forms, extract structured data, log in with stored credentials, and build reusable multi-step workflows using natural language. Install: pip install skyvern && skyvern setup",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

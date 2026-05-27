@@ -1,0 +1,18 @@
+{
+  "name": "telnyx-webrtc-client-ios",
+  "slug": "telnyx-webrtc-client-ios",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/telnyx-webrtc-client-ios/",
+  "download_url": "https://claudskills.com/skills/telnyx-webrtc-client-ios/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build VoIP calling apps on iOS using Telnyx WebRTC SDK. Covers authentication, making/receiving calls, CallKit integration, PushKit/APNS push notifications, call quality metrics, and AI Agent integration. Use when implementing real-time voice communication on iOS.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

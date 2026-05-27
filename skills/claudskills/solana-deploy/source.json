@@ -1,0 +1,18 @@
+{
+  "name": "solana-deploy",
+  "slug": "solana-deploy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/solana-deploy/",
+  "download_url": "https://claudskills.com/skills/solana-deploy/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when the user wants to deploy or upgrade a Solana program from devnet to mainnet — verifiable builds, buffer accounts, priority fees, upgrade authority management, IDL upload, program close.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "finance-personal",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

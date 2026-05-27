@@ -1,0 +1,18 @@
+{
+  "name": "pre-commit-guard",
+  "slug": "pre-commit-guard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pre-commit-guard/",
+  "download_url": "https://claudskills.com/skills/pre-commit-guard/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use before any git commit or PR. Runs format/lint/typecheck/tests, checks for secrets/large files/debug statements, validates commit message. Triggers готов к commit, проверь перед commit, можно ли пушить, ready to merge.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

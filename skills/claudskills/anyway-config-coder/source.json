@@ -1,0 +1,18 @@
+{
+  "name": "anyway-config-coder",
+  "slug": "anyway-config-coder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/anyway-config-coder/",
+  "download_url": "https://claudskills.com/skills/anyway-config-coder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement type-safe configuration with anyway_config gem. Use when creating configuration classes, replacing ENV access, or managing application settings. Triggers on configuration, environment variables, settings, secrets, or ENV patterns.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

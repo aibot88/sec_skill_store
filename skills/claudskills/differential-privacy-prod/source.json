@@ -1,0 +1,18 @@
+{
+  "name": "differential-privacy-prod",
+  "slug": "differential-privacy-prod",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/differential-privacy-prod/",
+  "download_url": "https://claudskills.com/skills/differential-privacy-prod/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy differential privacy in production systems including epsilon selection strategies, noise calibration with Laplace and Gaussian mechanisms, privacy budget tracking, composition theorems, and Python implementation patterns. Covers both central and local differential privacy models.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

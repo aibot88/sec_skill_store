@@ -1,0 +1,18 @@
+{
+  "name": "audio-injection-testing",
+  "slug": "audio-injection-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audio-injection-testing/",
+  "download_url": "https://claudskills.com/skills/audio-injection-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Test Bob The Skull with virtual audio injection instead of speaking. Use when testing wake word detection, STT accuracy, full conversation pipeline, or automated testing. Covers setup, configuration, injection methods, and troubleshooting.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "audio-podcast",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

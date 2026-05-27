@@ -1,0 +1,18 @@
+{
+  "name": "med-entertainment",
+  "slug": "med-entertainment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/med-entertainment/",
+  "download_url": "https://claudskills.com/skills/med-entertainment/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when writing entertainment news — reviews, box office analysis, streaming reports, festival coverage, casting news — from supplied material (junkets, studio PR, embargoed reviews, interviews). Activates beat-specific discipline: press-junket disclosure, embargo-compliance, PR-vs-news, entertainment-law, industry-data literacy. Triggers: '寫電影評論', 'draft streaming piece', '整理藝人新聞', 'cover premiere', 'analyze box office'. Defers general workflow to med-news-reporter. NOT for fan content, movie marketing (mkt-*), or press releases (pr-press-release).",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "growth-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

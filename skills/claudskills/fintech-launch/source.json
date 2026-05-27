@@ -1,0 +1,18 @@
+{
+  "name": "fintech-launch",
+  "slug": "fintech-launch",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fintech-launch/",
+  "download_url": "https://claudskills.com/skills/fintech-launch/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Pre-launch compliance and security gate for fintech apps: audit PCI DSS payment card handling, review financial API integrations for idempotency and error handling, evaluate fraud detection coverage, validate credit risk models for fairness, then run preflight checks. Use before launching a payments app, neobank, lending platform, BNPL product, or any money-movement system.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

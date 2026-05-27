@@ -1,0 +1,18 @@
+{
+  "name": "code-reviewer",
+  "slug": "code-reviewer-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-reviewer-skill/",
+  "download_url": "https://claudskills.com/skills/code-reviewer-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert at quality-focused code review with security emphasis. Use when reviewing code changes, performing security audits, identifying bugs, ensuring code quality and maintainability, or analyzing pull requests for issues.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

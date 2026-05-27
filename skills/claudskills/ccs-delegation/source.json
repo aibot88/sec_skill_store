@@ -1,0 +1,18 @@
+{
+  "name": "ccs-delegation",
+  "slug": "ccs-delegation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ccs-delegation/",
+  "download_url": "https://claudskills.com/skills/ccs-delegation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Auto-activate CCS CLI delegation for deterministic tasks. Parses user input, auto-selects optimal profile (glm/kimi/custom) from ~/.ccs/config.json, enhances prompts with context, executes via `ccs {profile} -p \"task\"` or `ccs {profile}:continue`, and reports results. Triggers on \"use ccs [task]\" patterns, typo/test/refactor keywords. Excludes complex architecture, security-critical code, performance optimization, breaking changes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

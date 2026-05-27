@@ -1,0 +1,18 @@
+{
+  "name": "java",
+  "slug": "java",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/java/",
+  "download_url": "https://claudskills.com/skills/java/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build, review, and refactor Java backend services (Spring Boot). Use for tasks like REST API design, controllers/services/repositories, PostgreSQL persistence (JPA/MyBatis), migrations, configuration, security (Spring Security), observability, testing, performance tuning, and production hardening.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "supabase-debug-bundle",
+  "slug": "supabase-debug-bundle",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-debug-bundle/",
+  "download_url": "https://claudskills.com/skills/supabase-debug-bundle/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Collect Supabase diagnostic info for troubleshooting and support tickets. Use when debugging connection failures, auth issues, Realtime drops, Storage errors, RLS misconfigurations, or preparing a support escalation. Trigger: \"supabase debug\", \"supabase diagnostics\", \"supabase support bundle\", \"collect supabase logs\", \"debug supabase connection\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

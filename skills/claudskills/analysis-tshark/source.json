@@ -1,0 +1,18 @@
+{
+  "name": "analysis-tshark",
+  "slug": "analysis-tshark",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analysis-tshark/",
+  "download_url": "https://claudskills.com/skills/analysis-tshark/SKILL.md",
+  "external_source_url": "",
+  "license": "NOASSERTION",
+  "description": "Network protocol analyzer and packet capture tool for traffic analysis, security investigations, and forensic examination using Wireshark's command-line interface. Use when: (1) Analyzing network traffic for security incidents and malware detection, (2) Capturing and filtering packets for forensic analysis, (3) Extracting credentials and sensitive data from network captures, (4) Investigating network anomalies and attack patterns, (5) Validating encryption and security controls, (6) Performing protocol analysis for vulnerability research.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

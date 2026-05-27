@@ -1,0 +1,18 @@
+{
+  "name": "firm-prompt-security-pack",
+  "slug": "firm-prompt-security-pack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firm-prompt-security-pack/",
+  "download_url": "https://claudskills.com/skills/firm-prompt-security-pack/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Prompt injection and jailbreak detection pack. 16 compiled regex patterns across 3 severity levels (CRITICAL, HIGH, MEDIUM). Supports single-prompt and batch scanning modes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

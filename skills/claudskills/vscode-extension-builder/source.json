@@ -1,0 +1,18 @@
+{
+  "name": "vscode-extension-builder",
+  "slug": "vscode-extension-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vscode-extension-builder/",
+  "download_url": "https://claudskills.com/skills/vscode-extension-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive VSCode extension development expert that guides you through creating extensions using the official Yeoman generator tool. Provides interactive setup, configuration guidance, and development workflow support. Covers scaffolding with yo code, extension anatomy, debugging, testing, publishing, and API reference. Features primary access to complete VS Code API documentation at `@source/vscode-docs/api/` for authoritative reference. Use when starting new VSCode extensions, setting up development environment, configuring extension manifests, debugging extensions, or when mentioning VSCode extension creation, TypeScript extensions, plugin development, or editor customization. Built with official VS Code documentation, generator best practices, and complete API reference.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ide-editor",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "define-deployment",
+  "slug": "define-deployment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/define-deployment/",
+  "download_url": "https://claudskills.com/skills/define-deployment/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Capture deployment characteristics for both production and development — hosting, IaC, CI/CD, secrets, observability, local dev environment, containerization, hot reload, and seed data. Use when the project-builder agent is gathering deployment information.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

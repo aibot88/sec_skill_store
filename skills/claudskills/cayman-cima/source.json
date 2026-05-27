@@ -1,0 +1,18 @@
+{
+  "name": "Cayman Islands — CIMA Lookup",
+  "slug": "cayman-cima",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cayman-cima/",
+  "download_url": "https://claudskills.com/skills/cayman-cima/SKILL.md",
+  "external_source_url": "",
+  "license": "CC-BY-4.0",
+  "description": "Live, real-time queries to **CIMA — Cayman Islands Monetary Authority** (Cayman Islands). Drops the OpenRegistry MCP toolset onto a single-country workflow when the user names CIMA, the country, or its registry directly. ID format: CIMA licence number (e.g. `123456` for a regulated mutual fund). Returns the registry's response unmodified — every field name, status string, and filing byte preserved verbatim. Use this skill when the user explicitly mentions: Cayman company, Cayman Islands fund, CIMA, KY fund, Cayman Limited Partnership, Cayman LP, Cayman SPC, hedge fund Cayman, who owns this Cayman company, BOTA. KYC Cayman Islands, AML Cayman Islands, due diligence Cayman Islands, company search Cayman Islands.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

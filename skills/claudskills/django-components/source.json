@@ -1,0 +1,18 @@
+{
+  "name": "django-components",
+  "slug": "django-components",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/django-components/",
+  "download_url": "https://claudskills.com/skills/django-components/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive reference for all 33 Django framework components with Python 3.10+ and Django 6.0 patterns. Use when the user asks to implement, configure, or troubleshoot any Django component including Models, QuerySets, Views, Templates, Forms, Admin, Authentication, Caching, Testing, Middleware, Signals, or Deployment. Covers ORM patterns, class-based views, template tags, form validation, admin customization, async support, and Django best practices.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "errorlog-review",
+  "slug": "errorlog-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/errorlog-review/",
+  "download_url": "https://claudskills.com/skills/errorlog-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Analyzes SQL Server ERRORLOG files for operational issues, availability group failures, memory pressure, I/O subsystem warnings, and security events. Use this skill whenever a SQL Server instance has experienced unexpected behavior, an AG failover, memory warnings, I/O latency alerts, or abnormal shutdown, and you need a structured timeline of what SQL Server recorded. Applies 28 checks (E1–E28) covering AG health, memory/resource pressure, I/O and storage, startup/shutdown, connectivity, and configuration signals.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dns-zonefile-config",
+  "slug": "dns-zonefile-config",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dns-zonefile-config/",
+  "download_url": "https://claudskills.com/skills/dns-zonefile-config/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configurez correctement vos zones DNS pour l'email deliverability (SPF, DKIM, DMARC), la sécurité (DNSSEC, CAA), et l'automatisation (OVH API, Cloudflare, Terraform), basé sur les best practices 2024-2025. Use when: **Configurer l'authentification email** - SPF, DKIM, DMARC pour éviter le spam folder; **Sécuriser un domaine** - DNSSEC, CAA records, protection contre le spoofing; **Automatiser la gestion DNS** - OVH API, Cloudflare API, Terraform; **Débugger des problèmes DNS** - dig, nslookup...",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

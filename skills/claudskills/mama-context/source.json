@@ -1,0 +1,18 @@
+{
+  "name": "mama-context",
+  "slug": "mama-context",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mama-context/",
+  "download_url": "https://claudskills.com/skills/mama-context/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Always-on background context injection from MAMA memory. Automatically surfaces relevant decisions when you work on code, without explicit invocation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

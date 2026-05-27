@@ -1,0 +1,18 @@
+{
+  "name": "alibaba-certificate-manager-issuer-review",
+  "slug": "alibaba-certificate-manager-issuer-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibaba-certificate-manager-issuer-review/",
+  "download_url": "https://claudskills.com/skills/alibaba-certificate-manager-issuer-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review Alibaba Cloud SSL Certificate Service — DV/OV/EV certificate lifecycle, auto-renewal configuration, certificate deployment to SLB/ALB/CDN/OSS, domain validation status, CAA record compliance, and expiry monitoring.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

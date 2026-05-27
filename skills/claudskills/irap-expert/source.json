@@ -1,0 +1,18 @@
+{
+  "name": "irap-expert",
+  "slug": "irap-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/irap-expert/",
+  "download_url": "https://claudskills.com/skills/irap-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Australian IRAP (Information Security Registered Assessors Program) expert. Provides guidance on ISM controls, Essential Eight maturity levels, ACSC guidelines, and Australian data sovereignty requirements.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

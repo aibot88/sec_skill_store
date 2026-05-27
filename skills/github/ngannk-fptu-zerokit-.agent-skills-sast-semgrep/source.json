@@ -1,0 +1,19 @@
+{
+  "name": "sast-semgrep",
+  "slug": "ngannk-fptu-zerokit-.agent-skills-sast-semgrep",
+  "source": "github",
+  "source_url": "https://github.com/ngannk-fptu/zerokit/blob/d4dd7bcb03c17d0a020fb2121aba9f539f16044c/.agent/skills/sast-semgrep/SKILL.md",
+  "download_url": "https://github.com/ngannk-fptu/zerokit/blob/d4dd7bcb03c17d0a020fb2121aba9f539f16044c/.agent/skills/sast-semgrep/SKILL.md",
+  "external_source_url": "https://github.com/ngannk-fptu/zerokit/blob/d4dd7bcb03c17d0a020fb2121aba9f539f16044c/.agent/skills/sast-semgrep/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "ngannk-fptu/zerokit",
+    "path": ".agent/skills/sast-semgrep/SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

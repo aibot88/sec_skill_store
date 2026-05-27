@@ -1,0 +1,18 @@
+{
+  "name": "firebase-security-rules-auditor",
+  "slug": "firebase-firebase-security-rules-auditor",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/firebase-firebase-security-rules-auditor",
+  "download_url": "https://github.com/firebase/agent-skills/blob/main/skills/firebase-security-rules-auditor//SKILL.md?plain=1#L19",
+  "external_source_url": "https://github.com/firebase/agent-skills/blob/main/skills/firebase-security-rules-auditor//SKILL.md?plain=1#L19",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "A skill to evaluate how secure Firestore security rules are. Use this when Firestore security rules are updated to ensure that the generated rules are extremely secure and robust.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/firebase/agent-skills/blob/main/skills/firebase-security-rules-auditor//SKILL.md?plain=1#L19"
+  },
+  "collected_at": "2026-05-27T03:44:44+00:00"
+}

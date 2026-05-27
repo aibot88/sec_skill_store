@@ -1,0 +1,18 @@
+{
+  "name": "red-team-verifier-patrick-munro",
+  "slug": "red-team-verifier-patrick-munro",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/red-team-verifier-patrick-munro/",
+  "download_url": "https://claudskills.com/skills/red-team-verifier-patrick-munro/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Adversarial verification for AI-generated legal content with systematic fact-checking, source validation, and quality control. Use when User requests verification of legal documents, fact-checking of regulatory content, red team review, or quality assurance before distribution to clients/stakeholders. Provides structured verification reports with severity-categorized errors, verified sources, and distribution readiness assessment.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

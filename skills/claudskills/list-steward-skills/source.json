@@ -1,0 +1,18 @@
+{
+  "name": "list-steward-skills",
+  "slug": "list-steward-skills",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/list-steward-skills/",
+  "download_url": "https://claudskills.com/skills/list-steward-skills/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Print a human-readable index of every skill in this repository, grouped by family prefix (`pr-management`, `security`, `setup`, …) with each skill's name and the first sentence of its `description`. The listing is generated on every run from the live `.claude/skills/*/SKILL.md` files, so it never goes stale when skills are added, removed, or rewritten.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

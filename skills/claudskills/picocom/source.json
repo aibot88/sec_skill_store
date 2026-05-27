@@ -1,0 +1,18 @@
+{
+  "name": "picocom",
+  "slug": "picocom",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/picocom/",
+  "download_url": "https://claudskills.com/skills/picocom/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use picocom to interact with IoT device UART consoles for pentesting operations including device enumeration, vulnerability discovery, bootloader manipulation, and gaining root shells. Use when the user needs to interact with embedded devices, IoT hardware, or serial consoles.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

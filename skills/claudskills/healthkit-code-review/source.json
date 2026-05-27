@@ -1,0 +1,18 @@
+{
+  "name": "healthkit-code-review",
+  "slug": "healthkit-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/healthkit-code-review/",
+  "download_url": "https://claudskills.com/skills/healthkit-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Reviews HealthKit code for authorization patterns, query usage, background delivery, and data type handling. Use when reviewing code with import HealthKit, HKHealthStore, HKSampleQuery, HKObserverQuery, or HKQuantityType.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

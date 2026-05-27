@@ -1,0 +1,18 @@
+{
+  "name": "validate-genie-learning-course",
+  "slug": "validate-genie-learning-course",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/validate-genie-learning-course/",
+  "download_url": "https://claudskills.com/skills/validate-genie-learning-course/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Valida artefatos gerados pelo Genie Learning após uma execução manual da skill `/genie-learn` no Claude Code, verificando estrutura, idioma, conteúdo, podcast, quizzes, segurança de secrets e sinais de falha de orquestração.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

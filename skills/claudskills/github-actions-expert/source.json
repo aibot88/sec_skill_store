@@ -1,0 +1,18 @@
+{
+  "name": "github-actions-expert",
+  "slug": "github-actions-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-actions-expert/",
+  "download_url": "https://claudskills.com/skills/github-actions-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Maîtrise de GitHub Actions — workflows CI/CD, actions custom, matrix builds, secrets, environments et reusable workflows. Se déclenche avec \"GitHub Actions\", \"workflow GitHub\", \"actions\", \"CI/CD GitHub\", \".github/workflows\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

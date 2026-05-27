@@ -1,0 +1,18 @@
+{
+  "name": "k8s-security-policies",
+  "slug": "k8s-security-policies",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/k8s-security-policies/",
+  "download_url": "https://claudskills.com/skills/k8s-security-policies/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive guide for implementing NetworkPolicy, PodSecurityPolicy, RBAC, and Pod Security Standards in Kubernetes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

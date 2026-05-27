@@ -1,0 +1,18 @@
+{
+  "name": "swe-programming-elixir",
+  "slug": "swe-programming-elixir",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/swe-programming-elixir/",
+  "download_url": "https://claudskills.com/skills/swe-programming-elixir/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Elixir, Phoenix Framework, and Phoenix LiveView coding standards from authoritative docs/explanation/ documentation",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

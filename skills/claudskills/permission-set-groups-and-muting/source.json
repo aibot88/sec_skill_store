@@ -1,0 +1,18 @@
+{
+  "name": "permission-set-groups-and-muting",
+  "slug": "permission-set-groups-and-muting",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/permission-set-groups-and-muting/",
+  "download_url": "https://claudskills.com/skills/permission-set-groups-and-muting/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing or reviewing permission-set-group architecture, especially profile minimization, group composition, muting strategy, and migration away from profile-heavy security models. Triggers: 'permission set group', 'muting permission set', 'profiles to permission sets', 'PSG architecture', 'muted permissions'. NOT for record-sharing design or CRUD/FLS review in Apex code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

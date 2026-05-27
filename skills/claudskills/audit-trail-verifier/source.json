@@ -1,0 +1,18 @@
+{
+  "name": "audit-trail-verifier",
+  "slug": "audit-trail-verifier",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-trail-verifier/",
+  "download_url": "https://claudskills.com/skills/audit-trail-verifier/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Verifies financial data against source documents, bank statements, contracts",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

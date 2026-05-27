@@ -1,0 +1,18 @@
+{
+  "name": "app-rejection-recovery",
+  "slug": "app-rejection-recovery",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/app-rejection-recovery/",
+  "download_url": "https://claudskills.com/skills/app-rejection-recovery/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "When the user's app or update was rejected by Apple App Review or Google Play Review and they need to diagnose why, fix it, and resubmit fast. Use when the user mentions \"app rejected\", \"App Review rejection\", \"guideline violation\", \"Apple rejected my app\", \"Google Play rejected\", \"Play policy violation\", \"Resolution Center\", \"metadata rejection\", \"binary rejection\", \"guideline 2.1\", \"guideline 4.3\", \"guideline 5.1.1\", \"Sign in with Apple required\", \"Apple ID rejection\", \"Play Store suspension\", \"appeal\", \"I need to respond to App Review\", or \"expedited review\". For pre-submission listing health, see aso-audit. For metadata-only fixes, see metadata-optimization.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

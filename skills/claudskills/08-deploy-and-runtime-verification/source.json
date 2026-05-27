@@ -1,0 +1,18 @@
+{
+  "name": "deploy-and-runtime-verification",
+  "slug": "08-deploy-and-runtime-verification",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/08-deploy-and-runtime-verification/",
+  "download_url": "https://claudskills.com/skills/08-deploy-and-runtime-verification/SKILL.md",
+  "external_source_url": "",
+  "license": "Rutgers",
+  "description": "MANDATORY deploy after every code change. Typecheck → deploy → purge CDN → E2E on production → visual verify → fix-forward loop. Workers Builds native CI/CD, D1 Time Travel PIT recovery, D1→R2 long-term backups, wrangler rollback, wrangler secrets management, structured observability, cross-browser smoke tests, rollback procedures, and GitHub auto-configuration.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

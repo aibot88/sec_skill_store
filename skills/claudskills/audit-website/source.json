@@ -1,0 +1,18 @@
+{
+  "name": "audit-website",
+  "slug": "audit-website",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-website/",
+  "download_url": "https://claudskills.com/skills/audit-website/SKILL.md",
+  "external_source_url": "",
+  "license": "See LICENSE file in repository root",
+  "description": "Audit websites for SEO, technical, content, and security issues using squirrelscan CLI. Returns LLM-optimized reports with health scores, broken links, meta tag analysis, and actionable recommendations. Use when analyzing websites, debugging SEO issues, or checking site health.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

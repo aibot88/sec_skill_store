@@ -1,0 +1,18 @@
+{
+  "name": "authentication-patterns",
+  "slug": "authentication-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/authentication-patterns/",
+  "download_url": "https://claudskills.com/skills/authentication-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive authentication implementation guidance including JWT best practices, OAuth 2.0/OIDC flows, Passkeys/FIDO2/WebAuthn, MFA patterns, and secure session management. Use when implementing login systems, token-based auth, SSO, passwordless authentication, or reviewing authentication security.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:57+00:00"
+}

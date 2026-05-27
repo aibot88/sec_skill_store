@@ -1,0 +1,18 @@
+{
+  "name": "chaos-engineer",
+  "slug": "chaos-engineer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chaos-engineer/",
+  "download_url": "https://claudskills.com/skills/chaos-engineer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Designs chaos experiments, creates failure injection frameworks, and facilitates game day exercises for distributed systems — producing runbooks, experiment manifests, rollback procedures, and post-mortem templates. Use when designing chaos experiments, implementing failure injection frameworks, or conducting game day exercises. Invoke for chaos experiments, resilience testing, blast radius control, game days, antifragile systems, fault injection, Chaos Monkey, Litmus Chaos.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

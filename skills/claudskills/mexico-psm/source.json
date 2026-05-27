@@ -1,0 +1,18 @@
+{
+  "name": "Mexico — PSM Mexico Lookup",
+  "slug": "mexico-psm",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mexico-psm/",
+  "download_url": "https://claudskills.com/skills/mexico-psm/SKILL.md",
+  "external_source_url": "",
+  "license": "CC-BY-4.0",
+  "description": "Live, real-time queries to **PSM — Sistema Electrónico de Publicaciones de Sociedades Mercantiles** (Mexico). Drops the OpenRegistry MCP toolset onto a single-country workflow when the user names PSM Mexico, the country, or its registry directly. ID format: PSM publication ID per filing; companies are identified by name + tax ID (RFC). Returns the registry's response unmodified — every field name, status string, and filing byte preserved verbatim. Use this skill when the user explicitly mentions: Mexican company, PSM, Sistema Electrónico, Secretaría de Economía, S.A. de C.V., S.A.P.I., S. de R.L., Mexican publication, who owns this Mexican company. KYC Mexico, AML Mexico, due diligence Mexico, company search Mexico.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

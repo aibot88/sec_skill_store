@@ -1,0 +1,18 @@
+{
+  "name": "tray-variacoes",
+  "slug": "variacoes",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/variacoes/",
+  "download_url": "https://claudskills.com/skills/variacoes/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "API de Variações de Produtos da Tray. Utilize quando o desenvolvedor precisar gerenciar variantes de produtos (SKUs) como diferentes tamanhos, cores ou modelos. Inclui listagem, consulta, cadastro, atualização, exclusão e informações sobre limitações de variações por produto.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

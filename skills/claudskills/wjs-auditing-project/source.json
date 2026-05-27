@@ -1,0 +1,18 @@
+{
+  "name": "wjs-auditing-project",
+  "slug": "wjs-auditing-project",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wjs-auditing-project/",
+  "download_url": "https://claudskills.com/skills/wjs-auditing-project/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user asks to audit what's wrong with a project, \"make it right\", \"看看项目出了什么问题\", \"为什么用户的需求还没上线\", \"为什么没提交App Store\", \"为什么没新build\", or wants a holistic state-of-the-project check covering unmerged branches, stalled PRs, failed GitHub Actions, stale builds, plan drift (TODOS.md / ROADMAP), unreleased commits, and log errors. Runs read-only investigation, presents a grouped checklist, fixes only after explicit user confirmation. Aware of the Cathier iOS app workflow (Xcode + fastlane + auto-merge @claude PRs from in-app feedback).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

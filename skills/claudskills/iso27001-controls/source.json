@@ -1,0 +1,18 @@
+{
+  "name": "iso27001-controls",
+  "slug": "iso27001-controls",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/iso27001-controls/",
+  "download_url": "https://claudskills.com/skills/iso27001-controls/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Эксперт ISO 27001. Используй для ISMS, security controls и compliance implementation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

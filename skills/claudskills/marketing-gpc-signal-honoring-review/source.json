@@ -1,0 +1,18 @@
+{
+  "name": "marketing-gpc-signal-honoring-review",
+  "slug": "marketing-gpc-signal-honoring-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/marketing-gpc-signal-honoring-review/",
+  "download_url": "https://claudskills.com/skills/marketing-gpc-signal-honoring-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing the technical path by which a Global Privacy Control opt-out signal travels through the tag stack and CMP to determine whether ad tags, server-side forwarding, and conversion APIs actually cease firing. Trigger when a user provides a tag-manager container export, a CMP opt-out configuration, a server-side tag configuration, or asks whether their GPC implementation actually stops ad tags from firing, whether CPRA opt-out obligations are met technically, or whether the CMP acknowledges GPC but fails to suppress downstream tag execution.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

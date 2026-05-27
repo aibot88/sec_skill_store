@@ -1,0 +1,18 @@
+{
+  "name": "modality-preserving-binary-offload",
+  "slug": "modality-preserving-binary-offload",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/modality-preserving-binary-offload/",
+  "download_url": "https://claudskills.com/skills/modality-preserving-binary-offload/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Persist binary output with a mime-derived extension and a matching saved-file message so downstream tools keep the right modality.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

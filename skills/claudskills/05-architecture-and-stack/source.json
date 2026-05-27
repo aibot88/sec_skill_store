@@ -1,0 +1,18 @@
+{
+  "name": "architecture-and-stack",
+  "slug": "05-architecture-and-stack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/05-architecture-and-stack/",
+  "download_url": "https://claudskills.com/skills/05-architecture-and-stack/SKILL.md",
+  "external_source_url": "",
+  "license": "Rutgers",
+  "description": "Cloudflare-first platform selection. Decision trees for Workers, D1, R2, KV, DO, Queues, Vectorize, Containers, Sandboxes, Flagship, Agent Memory, Workflows v2. Default stack, override conditions, auth, data patterns, reliability.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

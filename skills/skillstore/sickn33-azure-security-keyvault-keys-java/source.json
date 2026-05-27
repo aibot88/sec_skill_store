@@ -1,0 +1,18 @@
+{
+  "name": "azure-security-keyvault-keys-java",
+  "slug": "sickn33-azure-security-keyvault-keys-java",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-azure-security-keyvault-keys-java",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/azure-security-keyvault-keys-java/SKILL.md?plain=1#L309",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/azure-security-keyvault-keys-java/SKILL.md?plain=1#L309",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Azure Key Vault Keys Java SDK for cryptographic key management. Use when creating, managing, or using RSA/EC keys, performing encrypt/decrypt/sign/verify operations, or working with HSM-backed keys.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/azure-security-keyvault-keys-java/SKILL.md?plain=1#L309"
+  },
+  "collected_at": "2026-05-27T03:44:46+00:00"
+}

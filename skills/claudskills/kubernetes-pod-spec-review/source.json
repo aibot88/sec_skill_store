@@ -1,0 +1,18 @@
+{
+  "name": "kubernetes-pod-spec-review",
+  "slug": "kubernetes-pod-spec-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kubernetes-pod-spec-review/",
+  "download_url": "https://claudskills.com/skills/kubernetes-pod-spec-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing a Kubernetes Pod spec, Deployment spec, or StatefulSet spec for correctness, security posture, and production-readiness. Trigger on any request to audit, validate, or score a workload manifest.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

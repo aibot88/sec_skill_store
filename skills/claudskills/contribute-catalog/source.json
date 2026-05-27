@@ -1,0 +1,18 @@
+{
+  "name": "contribute-catalog",
+  "slug": "contribute-catalog",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/contribute-catalog/",
+  "download_url": "https://claudskills.com/skills/contribute-catalog/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Author a new HyperFrames registry block (caption style, VFX block, transition, lower third) or component (text effect, overlay, snippet) and ship it as an upstream PR to the hyperframes repo. Use ONLY when the user wants to CONTRIBUTE to the public catalog — for in-project caption/transition authoring use the `hyperframes` skill, for installing existing registry items use the `hyperframes-registry` skill.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

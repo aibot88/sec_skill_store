@@ -1,0 +1,18 @@
+{
+  "name": "eresus-python-audit",
+  "slug": "eresus-python-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eresus-python-audit/",
+  "download_url": "https://claudskills.com/skills/eresus-python-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deep Python-specific security audit skill with 50+ vulnerability class coverage across 7 categories. Trigger when auditing Python code: \"audit this Python app\", \"find Python security issues\", \"check Flask/Django for vulnerabilities\", \"Python SAST review\", \"check for pickle vulnerabilities\", \"review this FastAPI code\". Covers misconfiguration, injection, crypto, XSS, deserialization, and ML/AI attack surfaces. Includes scripts/rules.json for programmatic rule lookup.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

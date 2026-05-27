@@ -1,0 +1,18 @@
+{
+  "name": "medplum-rules",
+  "slug": "medplum-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/medplum-rules/",
+  "download_url": "https://claudskills.com/skills/medplum-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Medplum (FHIR healthcare) coding rules from ai-toolkit: coding-style, frameworks, patterns, security, testing. Triggers: medplum.config.mts, medplum.config.ts, FHIR, Medplum, Bot, Subscription, Questionnaire. Load when writing, reviewing, or editing Medplum (FHIR healthcare) code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

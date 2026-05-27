@@ -1,0 +1,18 @@
+{
+  "name": "remix-v2-meta-sessions-review",
+  "slug": "remix-v2-meta-sessions-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/remix-v2-meta-sessions-review/",
+  "download_url": "https://claudskills.com/skills/remix-v2-meta-sessions-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Reviews Remix v2 code for v1-shape meta exports (BREAKING in v2), cookie security gaps (httpOnly, secure, secrets rotation), auth gates in wrong layer, and missing CSRF. Use when reviewing meta/SEO, session, auth, or form-mutation code in a Remix v2 codebase.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

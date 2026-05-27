@@ -1,0 +1,18 @@
+{
+  "name": "security-awareness",
+  "slug": "security-awareness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-awareness/",
+  "download_url": "https://claudskills.com/skills/security-awareness/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Teaches agents to recognize and avoid security threats during normal activity. Covers phishing detection, credential protection, domain verification, and social engineering defense. Use when building or operating agents that access email, credential vaults, web browsers, or sensitive data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

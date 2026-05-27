@@ -1,0 +1,18 @@
+{
+  "name": "evidence-citation-builder",
+  "slug": "evidence-citation-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/evidence-citation-builder/",
+  "download_url": "https://claudskills.com/skills/evidence-citation-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Get citation records (source URL, retrieved_at, authority level) for a Kokai canonical record by record_id. Returns direct public source refs only (AI-derived evidence excluded).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

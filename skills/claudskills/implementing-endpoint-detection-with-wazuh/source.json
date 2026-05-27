@@ -1,0 +1,18 @@
+{
+  "name": "implementing-endpoint-detection-with-wazuh",
+  "slug": "implementing-endpoint-detection-with-wazuh",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-endpoint-detection-with-wazuh/",
+  "download_url": "https://claudskills.com/skills/implementing-endpoint-detection-with-wazuh/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Deploy and configure Wazuh SIEM/XDR for endpoint detection including agent management, custom decoder and rule",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

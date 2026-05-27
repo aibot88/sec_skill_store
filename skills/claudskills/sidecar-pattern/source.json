@@ -1,0 +1,18 @@
+{
+  "name": "sidecar-pattern",
+  "slug": "sidecar-pattern",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sidecar-pattern/",
+  "download_url": "https://claudskills.com/skills/sidecar-pattern/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache 2.0",
+  "description": "Auxiliary service sharing lifecycle with main service. Trigger: When adding logging, monitoring, or auth proxy to microservices without code changes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

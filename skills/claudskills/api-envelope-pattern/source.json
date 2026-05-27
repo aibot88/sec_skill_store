@@ -1,0 +1,18 @@
+{
+  "name": "api-envelope-pattern",
+  "slug": "api-envelope-pattern",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-envelope-pattern/",
+  "download_url": "https://claudskills.com/skills/api-envelope-pattern/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Standard API envelope pattern for all responses (success/list/error). Wraps data in consistent structure with sys metadata, automatic payload compaction (30-40% reduction), timestamp injection. Triggers on \"formatEntity\", \"formatEntityList\", \"formatErrorEntity\", \"API\", \"route handler\", \"dal\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:50+00:00"
+}

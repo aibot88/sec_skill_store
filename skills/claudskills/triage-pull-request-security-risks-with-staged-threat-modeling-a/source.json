@@ -1,0 +1,18 @@
+{
+  "name": "triage-pull-request-security-risks-with-staged-threat-modeling-a",
+  "slug": "triage-pull-request-security-risks-with-staged-threat-modeling-a",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/triage-pull-request-security-risks-with-staged-threat-modeling-a/",
+  "download_url": "https://claudskills.com/skills/triage-pull-request-security-risks-with-staged-threat-modeling-a/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze a GitHub pull request for security impact, run targeted vulnerability-investigation skills when Stage 1 finds credible threats, and return a structured verdict instead of doing an ad hoc manual review.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

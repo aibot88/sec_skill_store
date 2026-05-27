@@ -1,0 +1,18 @@
+{
+  "name": "clay-security-basics",
+  "slug": "clay-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clay-security-basics/",
+  "download_url": "https://claudskills.com/skills/clay-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Clay security best practices for API keys, webhook secrets, and data access control. Use when securing Clay integrations, rotating API keys, auditing access, or implementing webhook authentication. Trigger with phrases like \"clay security\", \"clay secrets\", \"secure clay\", \"clay API key security\", \"clay webhook security\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

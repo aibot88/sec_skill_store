@@ -1,0 +1,18 @@
+{
+  "name": "byan-fact-check",
+  "slug": "byan-fact-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/byan-fact-check/",
+  "download_url": "https://claudskills.com/skills/byan-fact-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fact-check scientifique BYAN (Demonstrable, Quantifiable, Reproductible). Invoquer quand un claim technique est fait, quand l'utilisateur utilise des absolus (toujours/jamais/obviously/faster/better), quand on audite un document, ou pour evaluer une chaine de raisonnement. Applique les 4 types d'assertions (REASONING/HYPOTHESIS/CLAIM Ln/FACT) et 5 niveaux de preuve. Domaines stricts (security/performance/compliance) = LEVEL-2 minimum.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "document-scanning",
+  "slug": "document-scanning",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/document-scanning/",
+  "download_url": "https://claudskills.com/skills/document-scanning/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Discover and inventory documents for accessibility audits. Scans folders for .docx, .xlsx, .pptx, and PDFs. Detects git changes and extracts title, author, and language metadata.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

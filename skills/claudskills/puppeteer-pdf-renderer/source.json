@@ -1,0 +1,18 @@
+{
+  "name": "puppeteer-pdf-renderer",
+  "slug": "puppeteer-pdf-renderer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/puppeteer-pdf-renderer/",
+  "download_url": "https://claudskills.com/skills/puppeteer-pdf-renderer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generates pixel-perfect PDFs from web pages using Puppeteer with custom headers, footers, and page breaks. Supports authenticated pages via cookie injection.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

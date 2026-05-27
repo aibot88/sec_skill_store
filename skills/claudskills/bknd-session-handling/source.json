@@ -1,0 +1,18 @@
+{
+  "name": "bknd-session-handling",
+  "slug": "bknd-session-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bknd-session-handling/",
+  "download_url": "https://claudskills.com/skills/bknd-session-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when managing user sessions in a Bknd application. Covers JWT token lifecycle, session persistence, automatic renewal, checking auth state, invalidating sessions, and handling expiration.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

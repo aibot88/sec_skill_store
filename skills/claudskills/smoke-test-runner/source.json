@@ -1,0 +1,18 @@
+{
+  "name": "running-smoke-tests",
+  "slug": "smoke-test-runner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/smoke-test-runner/",
+  "download_url": "https://claudskills.com/skills/smoke-test-runner/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill runs smoke tests to verify critical application functionality. It executes pre-defined test suites that check system health, authentication, core features, and external integrations. Use this skill after deployments, upgrades, or significant configuration changes to ensure the application is operational. Trigger this skill using the terms \"smoke test\" or \"st\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

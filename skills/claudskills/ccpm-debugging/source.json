@@ -1,0 +1,18 @@
+{
+  "name": "ccpm-debugging",
+  "slug": "ccpm-debugging",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ccpm-debugging/",
+  "download_url": "https://claudskills.com/skills/ccpm-debugging/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Systematic debugging with defense-in-depth approach (symptoms → immediate cause → root cause → systemic issues → prevention). Auto-activates when user mentions \"error\", \"failing\", \"broken\", \"debug\", \"bug\", \"issue\" or when /ccpm:verify runs. Uses Observe → Hypothesize → Test → Confirm → Fix → Verify → Document workflow. Updates Linear with findings and automatically logs blockers that require external fixes. Traces root causes instead of patching symptoms. Integrates with ccpm-code-review to verify fixes pass all gates before marking complete. Suggests binary search for intermittent issues and five-whys analysis for complex problems.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

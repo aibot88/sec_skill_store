@@ -1,0 +1,18 @@
+{
+  "name": "test-pen",
+  "slug": "vant-skill-test-pen",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vant-skill-test-pen/",
+  "download_url": "https://claudskills.com/skills/vant-skill-test-pen/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Penetration testing - find security vulnerabilities. Test for SQL injection, XSS, auth bypass, etc. Use when security auditing or before deployments.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "shodan-network-reconnaissance-agent",
+  "slug": "shodan-network-reconnaissance-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/shodan-network-reconnaissance-agent/",
+  "download_url": "https://claudskills.com/skills/shodan-network-reconnaissance-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Performs network reconnaissance using the Shodan REST API and Shodan InternetDB. Discovers exposed services, CVE mappings, and generates asset inventories with risk scores for security teams.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

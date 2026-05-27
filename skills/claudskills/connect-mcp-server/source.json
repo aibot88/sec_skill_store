@@ -1,0 +1,18 @@
+{
+  "name": "connect-mcp-server",
+  "slug": "connect-mcp-server",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/connect-mcp-server/",
+  "download_url": "https://claudskills.com/skills/connect-mcp-server/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide for connecting MCP (Model Context Protocol) servers to Claude Code with HTTP, stdio, and SSE transports. Covers installation, configuration, authentication, environment variables, and security. Use when the user wants to connect MCP servers, add integrations, configure external services, or mentions MCP, servers, integrations, or external tools.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

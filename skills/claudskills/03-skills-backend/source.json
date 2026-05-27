@@ -1,0 +1,18 @@
+{
+  "name": "Composio Toolkit - Integración de Servicios para Agentes IA",
+  "slug": "03-skills-backend",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/03-skills-backend/",
+  "download_url": "https://claudskills.com/skills/03-skills-backend/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guía técnica completa para integrar 250+ servicios externos con agentes IA usando Composio. Cubre instalación, autenticación OAuth, gestión de herramientas, triggers y flujos multi-servicio.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

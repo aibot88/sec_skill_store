@@ -1,0 +1,18 @@
+{
+  "name": "External Research",
+  "slug": "external-research",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/external-research/",
+  "download_url": "https://claudskills.com/skills/external-research/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive external research methodology using web search, URL fetching, and documentation APIs for authoritative, version-aware documentation gathering",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:53+00:00"
+}

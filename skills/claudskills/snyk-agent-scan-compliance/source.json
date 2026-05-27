@@ -1,0 +1,18 @@
+{
+  "name": "snyk-agent-scan-compliance",
+  "slug": "snyk-agent-scan-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/snyk-agent-scan-compliance/",
+  "download_url": "https://claudskills.com/skills/snyk-agent-scan-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Compliance expert for snyk-agent-scan — the agent skill file scanner — NOT for other Snyk CLI tools (snyk test, snyk code SAST, snyk iac, snyk container). Fixes alerts through content restructuring, never by suppressing or deleting information. Covers every file in a skill directory: SKILL.md, references/, assets/, and any secondary markdown. Apply when authoring a new skill, editing an existing one, triaging a failed snyk-agent-scan run locally or in CI, or unblocking a PR held by agent scanner failures. Not applicable to dependency vulnerabilities, code security findings, or infrastructure misconfigurations — those are out of scope.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

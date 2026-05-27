@@ -1,0 +1,18 @@
+{
+  "name": "data-lake-management",
+  "slug": "data-lake-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/data-lake-management/",
+  "download_url": "https://claudskills.com/skills/data-lake-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Data Lake architecture and management including medallion architecture (bronze/silver/gold zones), data catalog with AWS Glue, partitioning strategies, schema evolution, data quality, governance, cost optimization, S3 lifecycle policies, data retention, compliance, query optimization with Athena, data formats (Parquet, ORC, Avro), incremental processing, CDC patterns, and production best practices for scalable data lakes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "data-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

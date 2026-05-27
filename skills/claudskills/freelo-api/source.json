@@ -1,0 +1,18 @@
+{
+  "name": "freelo-api",
+  "slug": "freelo-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/freelo-api/",
+  "download_url": "https://claudskills.com/skills/freelo-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Práce s Freelo.io v1 REST API a webhooky — projekty, tasklists, tasky, subtasks, komentáře, time tracking, work reporty, custom fields, faktury, soubory. Spouštěj vždy když uživatel zmíní Freelo, freelo.io, app.freelo.io, api.freelo.io, integraci s Freelo, automatizaci tasků ve Freelu, time tracking přes API, Freelo webhooky, Freelo Make/Zapier/n8n integraci, nebo Freelo API key. Také pokud kód importuje volání na `api.freelo.io/v1/`. NEspouštěj pro nesouvisející project-management nástroje (Asana, Trello, Jira, ClickUp, Notion).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

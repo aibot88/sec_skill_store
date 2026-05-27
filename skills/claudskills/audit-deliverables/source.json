@@ -1,0 +1,18 @@
+{
+  "name": "audit-deliverables",
+  "slug": "audit-deliverables",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-deliverables/",
+  "download_url": "https://claudskills.com/skills/audit-deliverables/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "The \"Structural Critic\" that audits specialist output and issues a binary PASS or BLOCKED verdict. No track is complete until the Quality Gate approves. Read-only — never fixes, only judges.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

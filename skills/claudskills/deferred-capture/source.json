@@ -1,0 +1,18 @@
+{
+  "name": "deferred-capture",
+  "slug": "deferred-capture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deferred-capture/",
+  "download_url": "https://claudskills.com/skills/deferred-capture/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Contract for unified deferred-item capture across plugins. Defines CLI interface, issue template, label taxonomy, and compliance test.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

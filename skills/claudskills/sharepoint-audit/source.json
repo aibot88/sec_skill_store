@@ -1,0 +1,18 @@
+{
+  "name": "sharepoint-audit",
+  "slug": "sharepoint-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sharepoint-audit/",
+  "download_url": "https://claudskills.com/skills/sharepoint-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide and run a SharePoint audit locally. Collect inputs, confirm PowerShell 7.4+ and Python 3.10+ are available, call PowerShell with certificate auth via wrapper, parse audit.json, and render Markdown/HTML. Use only local shell commands.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

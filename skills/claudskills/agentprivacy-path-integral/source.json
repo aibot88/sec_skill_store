@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-path-integral",
+  "slug": "agentprivacy-path-integral",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-path-integral/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-path-integral/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Path integral edge value for 0xagentprivacy V5. Activates when discussing T_∫(π) replacing additive T(π), non-local correlations in paths, verification checkpoints, feedback loops in traversal, or why edges are not independent.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

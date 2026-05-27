@@ -1,0 +1,18 @@
+{
+  "name": "stitch-shadcn-ui",
+  "slug": "stitch-shadcn-ui",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/stitch-shadcn-ui/",
+  "download_url": "https://claudskills.com/skills/stitch-shadcn-ui/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Integrates shadcn/ui into React apps generated from Stitch designs. Component discovery and installation, token alignment with Stitch design system, customization patterns, and blocks (auth, dashboard, sidebar). Use with stitch-react-components or stitch-nextjs-components.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

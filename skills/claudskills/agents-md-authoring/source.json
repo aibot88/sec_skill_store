@@ -1,0 +1,18 @@
+{
+  "name": "agents-md-authoring",
+  "slug": "agents-md-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agents-md-authoring/",
+  "download_url": "https://claudskills.com/skills/agents-md-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Create or revise repository `AGENTS.md` files using a progressive-disclosure, dispatcher-style structure. Use when an agent needs to author or edit a top-level or directory-local `AGENTS.md`, convert a long instruction file into task-oriented \"Start Here for ...\" sections, add a concise \"Must Follow\" section with Always/Never rules, improve skill-discovery cues, or decide whether guidance belongs in root `AGENTS.md`, deeper docs, local `AGENTS.md`, or a repository-local skill.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "env-reference",
+  "slug": "env-reference",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/env-reference/",
+  "download_url": "https://claudskills.com/skills/env-reference/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Full environment variable reference for SAM. Use when adding, modifying, or documenting environment variables, configuring deployment, or working with Worker secrets. Trigger when asked about env vars, secrets, or configuration.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

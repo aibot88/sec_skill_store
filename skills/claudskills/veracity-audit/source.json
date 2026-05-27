@@ -1,0 +1,18 @@
+{
+  "name": "veracity-audit",
+  "slug": "veracity-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/veracity-audit/",
+  "download_url": "https://claudskills.com/skills/veracity-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit a data pipeline for Veracity and Value. Dispatches data-scientist, compliance-auditor, and data-engineer agents with project context injected at dispatch time. All source paths are supplied via flags — no defaults, no project assumptions. Subcommands: audit (full pipeline walk), score-check (scoring math only), gate-check (gate coverage only), source-trace <label> (single source end-to-end). Invoke when: \"audit pipeline\", \"veracity check\", \"scoring math correct?\", \"check gates\", \"trace source\", \"verify quality gates\", \"formula correct?\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ml-ai-eng",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

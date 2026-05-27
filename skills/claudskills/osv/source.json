@@ -1,0 +1,18 @@
+{
+  "name": "x-osv",
+  "slug": "osv",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/osv/",
+  "download_url": "https://claudskills.com/skills/osv/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "CLI for Google OSV database. Query vulnerabilities for packages, scan local projects for vulnerable dependencies. **Dependency**: This is an x-cmd module. Install x-cmd first (see x-cmd skill). **Required Tool**: Install osv-scanner for project scanning (see https://github.com/google/osv-scanner).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

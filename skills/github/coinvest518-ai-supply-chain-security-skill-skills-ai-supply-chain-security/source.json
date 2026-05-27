@@ -1,0 +1,19 @@
+{
+  "name": "ai-supply-chain-security",
+  "slug": "coinvest518-ai-supply-chain-security-skill-skills-ai-supply-chain-security",
+  "source": "github",
+  "source_url": "https://github.com/coinvest518/ai-supply-chain-security-skill/blob/5447a2cd6ee24c1d0191a25c87420f0dc8bef152/skills/ai-supply-chain-security/SKILL.md",
+  "download_url": "https://github.com/coinvest518/ai-supply-chain-security-skill/blob/5447a2cd6ee24c1d0191a25c87420f0dc8bef152/skills/ai-supply-chain-security/SKILL.md",
+  "external_source_url": "https://github.com/coinvest518/ai-supply-chain-security-skill/blob/5447a2cd6ee24c1d0191a25c87420f0dc8bef152/skills/ai-supply-chain-security/SKILL.md",
+  "license": "",
+  "description": "The open-source skill that would have stopped the Vercel April 2026 attack — one-click import, full GitHub reporting, VirusTotal threat intel, and exact OAuth IOC blocking.”",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "coinvest518/ai-supply-chain-security-skill",
+    "path": "skills/ai-supply-chain-security/SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

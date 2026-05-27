@@ -1,0 +1,18 @@
+{
+  "name": "shell-injection-prevention",
+  "slug": "shell-injection-prevention",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/shell-injection-prevention/",
+  "download_url": "https://claudskills.com/skills/shell-injection-prevention/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use execFileSync with args array instead of execSync with string concatenation to prevent shell injection",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "vulniq",
+  "slug": "vulniq",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vulniq/",
+  "download_url": "https://claudskills.com/skills/vulniq/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Autonomous security vulnerability scanner for codebases. Detects secrets, XSS, missing security headers, auth issues, OWASP Top 10 patterns, dependency vulnerabilities, PII exposure, CORS misconfiguration, and more. Aligned to OWASP APTS (Autonomous Penetration Testing Standard) Foundation tier. Outputs SARIF JSON, Markdown report, and APTS Conformance Claim. Use when the user wants a security audit, vulnerability scan, pen-test preparation, or code security review.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "validate-deploy",
+  "slug": "validate-deploy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/validate-deploy/",
+  "download_url": "https://claudskills.com/skills/validate-deploy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deployment validation pipeline — 4 fasi (static, security, smoke, score). Valida un deploy Vercel (preview o production) con TypeScript, ESLint, Jest coverage su file toccati, Semgrep, npm audit, Playwright smoke su TUTTE le 142 route del gestionale (8 gruppi: pubbliche, auth, dashboard, portal, onboarding, public-token, API health). Produce /tmp/deployment_validation.json e verdetto GO/NO-GO con confidence score. Opzionalmente posta commento su GitHub PR.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

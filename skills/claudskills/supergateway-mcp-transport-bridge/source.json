@@ -1,0 +1,18 @@
+{
+  "name": "supergateway-mcp-transport-bridge",
+  "slug": "supergateway-mcp-transport-bridge",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supergateway-mcp-transport-bridge/",
+  "download_url": "https://claudskills.com/skills/supergateway-mcp-transport-bridge/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Supergateway enables running MCP stdio-based servers over SSE, WebSockets, or Streamable HTTP with a single command. Essential infrastructure for remote MCP server access, debugging, and connecting clients across network boundaries with Docker and OAuth support.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

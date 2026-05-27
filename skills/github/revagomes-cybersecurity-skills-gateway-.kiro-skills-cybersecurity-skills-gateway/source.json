@@ -1,0 +1,19 @@
+{
+  "name": "cybersecurity-skills-gateway",
+  "slug": "revagomes-cybersecurity-skills-gateway-.kiro-skills-cybersecurity-skills-gateway",
+  "source": "github",
+  "source_url": "https://github.com/revagomes/cybersecurity-skills-gateway/blob/91bb8a865619e5aa97422597e53e907fc68a9183/.kiro/skills/cybersecurity-skills-gateway/SKILL.md",
+  "download_url": "https://github.com/revagomes/cybersecurity-skills-gateway/blob/91bb8a865619e5aa97422597e53e907fc68a9183/.kiro/skills/cybersecurity-skills-gateway/SKILL.md",
+  "external_source_url": "https://github.com/revagomes/cybersecurity-skills-gateway/blob/91bb8a865619e5aa97422597e53e907fc68a9183/.kiro/skills/cybersecurity-skills-gateway/SKILL.md",
+  "license": "",
+  "description": "Gateway skill giving any AI agent on-demand access to 754 cybersecurity skills — no local clone needed",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "revagomes/cybersecurity-skills-gateway",
+    "path": ".kiro/skills/cybersecurity-skills-gateway/SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

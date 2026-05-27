@@ -1,0 +1,18 @@
+{
+  "name": "create-webroles",
+  "slug": "create-webroles",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-webroles/",
+  "download_url": "https://claudskills.com/skills/create-webroles/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Creates and configures web roles for a Power Pages code site. Web roles control access and permissions for site users, including authenticated and anonymous roles. Use when the user wants to create, add, set up, or manage web roles for their site.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

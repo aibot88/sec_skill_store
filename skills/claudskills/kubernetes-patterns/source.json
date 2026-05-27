@@ -1,0 +1,18 @@
+{
+  "name": "kubernetes-patterns",
+  "slug": "kubernetes-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kubernetes-patterns/",
+  "download_url": "https://claudskills.com/skills/kubernetes-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides Kubernetes resource management, Helm chart patterns, service mesh configuration, and autoscaling strategies. Covers HPA, VPA, KEDA, operators, security contexts, and namespace isolation. Use when user mentions 'kubernetes', 'k8s', 'helm', 'istio', 'linkerd', 'service mesh', 'HPA', 'VPA', 'KEDA', 'pod security', 'resource quotas', 'operators'.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

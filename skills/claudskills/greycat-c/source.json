@@ -1,0 +1,18 @@
+{
+  "name": "greycat-c",
+  "slug": "greycat-c",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/greycat-c/",
+  "download_url": "https://claudskills.com/skills/greycat-c/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "GreyCat C API and GCL Standard Library reference. Use for: (1) Native C development with gc_machine_t context, tensors, objects, memory management, HTTP, crypto, I/O; (2) GCL Standard Library modules - std::core (Date/Time/Tuple/geospatial types), std::runtime (Scheduler/Task/Logger/User/Security/System/OpenAPI/MCP), std::io (CSV/JSON/XML/HTTP/Email/FileWalker), std::util (Queue/Stack/SlidingWindow/Gaussian/Histogram/Quantizers/Random/Plot). Keywords: GreyCat, GCL, native functions, tensors, task automation, scheduler.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:10+00:00"
+}

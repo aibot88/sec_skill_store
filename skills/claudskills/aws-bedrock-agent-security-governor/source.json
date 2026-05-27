@@ -1,0 +1,18 @@
+{
+  "name": "aws-bedrock-agent-security-governor",
+  "slug": "aws-bedrock-agent-security-governor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-bedrock-agent-security-governor/",
+  "download_url": "https://claudskills.com/skills/aws-bedrock-agent-security-governor/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review Amazon Bedrock agents, AgentCore, Guardrails, knowledge bases, action groups, memory, MCP/tool integrations, prompt-injection and prompt-leakage defenses, PII handling, encryption, logging, observability, and least-privilege IAM. Use for AWS-native GenAI and agent security posture.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

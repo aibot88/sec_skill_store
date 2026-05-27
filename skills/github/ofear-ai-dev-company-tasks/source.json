@@ -1,0 +1,19 @@
+{
+  "name": "tasks",
+  "slug": "ofear-ai-dev-company-tasks",
+  "source": "github",
+  "source_url": "https://github.com/Ofear/AI-Dev-Company/blob/eb578dfe17dcc5395066a4974b261eeac410d885/tasks/01-npm-audit-skill.md",
+  "download_url": "https://github.com/Ofear/AI-Dev-Company/blob/eb578dfe17dcc5395066a4974b261eeac410d885/tasks/01-npm-audit-skill.md",
+  "external_source_url": "https://github.com/Ofear/AI-Dev-Company/blob/eb578dfe17dcc5395066a4974b261eeac410d885/tasks/01-npm-audit-skill.md",
+  "license": "",
+  "description": "Autonomous AI software development company built on OpenClaw",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Ofear/AI-Dev-Company",
+    "path": "tasks/01-npm-audit-skill.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

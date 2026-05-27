@@ -1,0 +1,18 @@
+{
+  "name": "meta-pipeline-creator",
+  "slug": "meta-pipeline-creator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/meta-pipeline-creator/",
+  "download_url": "https://claudskills.com/skills/meta-pipeline-creator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Author or edit pipeline JSON files in pipelines/. Trigger: create a pipeline, automate a workflow, or add tasks to an existing pipeline.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "workflow-pipelines",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

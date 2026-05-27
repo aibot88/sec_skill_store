@@ -1,0 +1,18 @@
+{
+  "name": "context-authoring",
+  "slug": "context-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/context-authoring/",
+  "download_url": "https://claudskills.com/skills/context-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when filling in knowledge-layer context files — auth-model, tenant-boundaries, data-sensitivity, deployment-order, observability — interactive walkthrough that turns templates into reviewer fuel.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

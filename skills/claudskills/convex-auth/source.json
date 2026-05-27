@@ -1,0 +1,18 @@
+{
+  "name": "convex-auth",
+  "slug": "convex-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/convex-auth/",
+  "download_url": "https://claudskills.com/skills/convex-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Convex Auth - authentication, user management, protected functions, and session handling. Use when working with getAuthUserId, login, logout, authTables, @convex-dev/auth, loggedInUser, currentUser, sessions, or user permissions in Convex applications.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

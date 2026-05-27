@@ -1,0 +1,18 @@
+{
+  "name": "goth-providers",
+  "slug": "goth-providers",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/goth-providers/",
+  "download_url": "https://claudskills.com/skills/goth-providers/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill should be used when the user asks to \"add a provider\", \"configure google oauth\", \"set up microsoft login\", \"azure ad authentication\", \"oauth provider setup\", \"add social login\", or needs help with specific OAuth provider configuration in Goth.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

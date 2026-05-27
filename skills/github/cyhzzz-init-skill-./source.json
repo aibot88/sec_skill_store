@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "cyhzzz-init-skill-.",
+  "source": "github",
+  "source_url": "https://github.com/cyhzzz/init-skill/blob/8264caee934cfff4f38eeb1f58d69e8b02b30b18/SKILL.md",
+  "download_url": "https://github.com/cyhzzz/init-skill/blob/8264caee934cfff4f38eeb1f58d69e8b02b30b18/SKILL.md",
+  "external_source_url": "https://github.com/cyhzzz/init-skill/blob/8264caee934cfff4f38eeb1f58d69e8b02b30b18/SKILL.md",
+  "license": "",
+  "description": "用一个skill，替代/init命令，来构建一个自进化的更适合复杂系统的claude.md和相关项目背景内容。",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "cyhzzz/init-skill",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:59+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "developing-serverpod-backend",
+  "slug": "serverpod",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/serverpod/",
+  "download_url": "https://claudskills.com/skills/serverpod/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Develops full-stack Dart backends using the Serverpod framework with PostgreSQL, Redis, and Docker. Use when building type-safe API endpoints, defining YAML data models, configuring Serverpod auth, writing server-side tests, running database migrations, deploying to Docker/AWS/GCP, or using Serverpod Mini for database-less BFF proxy endpoints.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

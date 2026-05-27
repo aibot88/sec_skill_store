@@ -1,0 +1,18 @@
+{
+  "name": "supabase-sdk-patterns",
+  "slug": "supabase-sdk-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-sdk-patterns/",
+  "download_url": "https://claudskills.com/skills/supabase-sdk-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply production-ready Supabase SDK patterns for TypeScript and Python projects. Use when implementing queries, auth, realtime, storage, or RPC calls with @supabase/supabase-js or supabase-py. Trigger with phrases like \"supabase SDK patterns\", \"supabase query\", \"supabase typescript\", \"supabase python\", \"supabase client setup\", \"supabase realtime\", \"supabase auth\", \"supabase storage\".",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

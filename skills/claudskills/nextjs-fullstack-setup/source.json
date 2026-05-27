@@ -1,0 +1,18 @@
+{
+  "name": "nextjs-fullstack-setup",
+  "slug": "nextjs-fullstack-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nextjs-fullstack-setup/",
+  "download_url": "https://claudskills.com/skills/nextjs-fullstack-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Next.js App Router + Bun + Drizzle ORM + Better Auth + Tailwind CSS + Biome ile full-stack proje kurulumu, authentication entegrasyonu ve DB workflow'ları.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

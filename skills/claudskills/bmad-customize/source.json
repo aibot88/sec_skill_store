@@ -1,0 +1,18 @@
+{
+  "name": "bmad-customize",
+  "slug": "bmad-customize",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bmad-customize/",
+  "download_url": "https://claudskills.com/skills/bmad-customize/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authors and updates customization overrides for installed BMad skills. Use when the user says 'customize bmad', 'override a skill', 'change agent behavior', or 'customize a workflow'.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

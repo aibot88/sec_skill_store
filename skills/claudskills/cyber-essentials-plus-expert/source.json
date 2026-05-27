@@ -1,0 +1,18 @@
+{
+  "name": "cyber-essentials-plus-expert",
+  "slug": "cyber-essentials-plus-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cyber-essentials-plus-expert/",
+  "download_url": "https://claudskills.com/skills/cyber-essentials-plus-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "UK NCSC Cyber Essentials Plus (CE+) v3.3 Danzell expert. Reference-depth framework plugin with assessment, scope determination, and evidence checklist — backed by the SCF crosswalk. Five core controls: Firewalls, Secure Configuration, User Access Control (MFA mandatory for all cloud services), Malware Protection, and Patch Management.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

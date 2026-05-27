@@ -1,0 +1,18 @@
+{
+  "name": "offensive-lorawan-sub-ghz",
+  "slug": "offensive-lorawan-sub-ghz",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/offensive-lorawan-sub-ghz/",
+  "download_url": "https://claudskills.com/skills/offensive-lorawan-sub-ghz/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "LoRaWAN and sub-GHz (433 / 868 / 915 MHz) attack methodology — LoRaWAN ABP/OTAA join attack, network/session key reuse, frame counter replay, downlink injection on TTN/Helium-style networks, sub-GHz protocol replay (KeeLoq garage doors, fixed-code remotes, TPMS spoofing, smart plug telemetry), HackRF / RTL-SDR / Flipper Zero workflows, signal analysis with Inspectrum / Universal Radio Hacker, and reconstruction of proprietary packet formats. Use for LoRaWAN deployments (smart cities, asset tracking, industrial telemetry), or any wireless device using the unlicensed 433/868/915 MHz bands (garage openers, doorbells, IoT sensors, RC equipment).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

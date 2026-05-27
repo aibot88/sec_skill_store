@@ -1,0 +1,18 @@
+{
+  "name": "lookup-nsg",
+  "slug": "lookup-nsg",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lookup-nsg/",
+  "download_url": "https://claudskills.com/skills/lookup-nsg/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Finds the Network Interface Card (NIC) and associated Network Security Group (NSG) for a VM given its public IP address.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

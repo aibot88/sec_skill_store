@@ -1,0 +1,18 @@
+{
+  "name": "lend-ai-docs",
+  "slug": "lend-ai-docs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lend-ai-docs/",
+  "download_url": "https://claudskills.com/skills/lend-ai-docs/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Documentación senior — multi-archivo, Google-style docstrings, ADR. GATE OBLIGATORIO post-task: revisar si hay que actualizar docs del proyecto. Trigger: Siempre después de cada task (revisar si docs cambiaron), o al escribir documentación/generar docstrings/estructurar docs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

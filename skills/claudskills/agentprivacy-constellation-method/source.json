@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-constellation-method",
+  "slug": "agentprivacy-constellation-method",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-constellation-method/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-constellation-method/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Constellation identity method for 0xagentprivacy. Activates when discussing identity-as-constellation (different facets visible to different relationships), VRC constellation graphs, multi-guild identity resolution, or how privacy enables richer identity expression than surveillance-based profiles.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

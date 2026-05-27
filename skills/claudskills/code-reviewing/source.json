@@ -1,0 +1,18 @@
+{
+  "name": "code-reviewing",
+  "slug": "code-reviewing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-reviewing/",
+  "download_url": "https://claudskills.com/skills/code-reviewing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review code for quality, security, and maintainability. Use after code changes are completed and ready for review.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

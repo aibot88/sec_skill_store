@@ -1,0 +1,18 @@
+{
+  "name": "analytic-workbench",
+  "slug": "analytic-workbench",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analytic-workbench/",
+  "download_url": "https://claudskills.com/skills/analytic-workbench/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this skill for analytics and data-science workflow setup, exploratory analysis, notebook-first EDA, repo normalization for analysis projects, experiment comparison, AutoML, causal analysis, and promotion from ad hoc exploration into reusable pipelines. Trigger when the user asks for analysis best practices, how to structure an analytics repo, how to organize notebooks and runs, whether to use marimo or Quarto/qmd, how to handle experiment sweeps, how to compare models, or how to make analysis reproducible. Also trigger on phrases such as analytic workbench, EDA, exploratory analysis, notebook workflow, analytics pipeline, reproducible analysis, experiment sweep, hyperparameter comparison, comparison table, marimo, Quarto, qmd, Hamilton, sf-hamilton, dataflow, DAG driver, Hydra, DVC, Kedro, MLflow, AutoML, PyCaret, causal analysis, feature engineering, or model review.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

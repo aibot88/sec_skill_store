@@ -1,0 +1,18 @@
+{
+  "name": "firefox-bookmarks",
+  "slug": "firefox-bookmarks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firefox-bookmarks/",
+  "download_url": "https://claudskills.com/skills/firefox-bookmarks/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze Firefox bookmarks and tags directly from the places.sqlite database. Extract recent bookmarks, analyze tag popularity, find bookmark statistics, and explore bookmark metadata. Use when working with Firefox bookmarks, analyzing bookmark usage, organizing tags, or extracting bookmark data from Firefox profiles.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

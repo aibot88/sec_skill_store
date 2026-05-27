@@ -1,0 +1,18 @@
+{
+  "name": "build-with-move",
+  "slug": "build-with-move",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/build-with-move/",
+  "download_url": "https://claudskills.com/skills/build-with-move/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Author Sui Move modules and packages with a senior Move dev as your pair. Use when the user wants to write, build, author, add, or scaffold Move code, smart contracts, or Sui programs at the module or function level, in any phrasing.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

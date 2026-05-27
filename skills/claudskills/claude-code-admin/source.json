@@ -1,0 +1,18 @@
+{
+  "name": "claude-code-admin",
+  "slug": "claude-code-admin",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/claude-code-admin/",
+  "download_url": "https://claudskills.com/skills/claude-code-admin/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Администрирование Claude Code: OpenTelemetry мониторинг, безопасность, IAM (аутентификация, разрешения, managed settings), управление затратами, аналитика. Триггеры: 'monitoring claude', 'мониторинг claude', 'opentelemetry claude', 'otel', 'security claude', 'безопасность claude', 'IAM', 'access control claude', 'costs claude', 'затраты claude', 'rate limit', 'managed settings', 'enterprise claude', 'analytics claude', 'аналитика claude', 'permission architecture', 'credential management'. НЕ для мониторинга фреймворка — используй deployment.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "entrypoint",
+  "slug": "entrypoint",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/entrypoint/",
+  "download_url": "https://claudskills.com/skills/entrypoint/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generates entrypoint.sh script for Docker container runtime environment variable injection. Replaces placeholder values in built assets with actual environment variables at container startup.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

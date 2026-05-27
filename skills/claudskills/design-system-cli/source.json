@@ -1,0 +1,18 @@
+{
+  "name": "design-system-cli",
+  "slug": "design-system-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/design-system-cli/",
+  "download_url": "https://claudskills.com/skills/design-system-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Complete Design System Reverse Engineering (DSRE) + Functional Cloning CLI - Extract visual design (tokens, assets) AND functional behavior (workflows, state machines, business rules) from any web application",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-system-ui",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "clawsec-suite",
+  "slug": "clawsec-suite",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clawsec-suite/",
+  "download_url": "https://claudskills.com/skills/clawsec-suite/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "ClawSec suite manager with embedded advisory-feed monitoring, cryptographic signature verification, approval-gated malicious-skill response, and guided setup for additional security skills.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

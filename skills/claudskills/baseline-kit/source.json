@@ -1,0 +1,18 @@
+{
+  "name": "baseline-kit",
+  "slug": "baseline-kit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/baseline-kit/",
+  "download_url": "https://claudskills.com/skills/baseline-kit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "OpenClaw 安全配置基线生成器和审计工具。生成开发/团队/企业/隔离环境的安全配置模板，并审计现有配置的安全问题（网络暴露、认证限流、技能来源限制、审计日志、备份策略、密钥卫生）。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:03+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "apex-encoding-and-crypto",
+  "slug": "apex-encoding-and-crypto",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/apex-encoding-and-crypto/",
+  "download_url": "https://claudskills.com/skills/apex-encoding-and-crypto/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when Apex must sign, verify, encrypt, hash, encode, or decode payloads — including HMAC for webhook signatures, RSA/ECDSA signing for JWT bearer flows, AES for stored secrets, base64/hex/URL encoding, and digest comparisons for integration integrity. Triggers: 'Crypto.sign', 'Crypto.generateMac', 'EncodingUtil.base64Encode', 'JWT signing in Apex', 'verify webhook signature'. NOT for setting up Named Credentials or OAuth flows end-to-end — use apex-named-credentials-patterns; NOT for SOQL injection defense — use soql-security.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:50+00:00"
+}

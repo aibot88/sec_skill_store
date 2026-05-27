@@ -1,0 +1,18 @@
+{
+  "name": "myco:canopy-code-intelligence-development",
+  "slug": "canopy-code-intelligence-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/canopy-code-intelligence-development/",
+  "download_url": "https://claudskills.com/skills/canopy-code-intelligence-development/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Comprehensive procedures for building and extending Myco's Canopy code intelligence system. Covers agent harness task standardization, three-layer file exclusion models, context injection and attribution pipelines, hook response shape compatibility, local-only aggregation architecture, and scanner configuration workflows. Apply when developing file indexing capabilities, extending intelligence features, or integrating code analysis workflows, even if the user doesn't explicitly ask for canopy system development.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-vrc-identity",
+  "slug": "agentprivacy-vrc-identity",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-vrc-identity/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-vrc-identity/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Verifiable Relationship Credential (VRC) identity system for 0xagentprivacy. Activates when discussing A(τ) bilateral trust, VRC issuance/verification/revocation, Relationship Proverb Protocol (RPP), trust flow mechanics, ceremony-to-credential pipeline, or how identity is expressed through relationships rather than attributes.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

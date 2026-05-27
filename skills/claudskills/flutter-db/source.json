@@ -1,0 +1,18 @@
+{
+  "name": "flutter-db",
+  "slug": "flutter-db",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flutter-db/",
+  "download_url": "https://claudskills.com/skills/flutter-db/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Local database and persistence selection for Flutter including SharedPreferences, SecureStorage, Hive, and Drift. Use when implementing offline storage, encrypted data persistence, or choosing between key-value and relational local databases.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

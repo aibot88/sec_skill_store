@@ -1,0 +1,18 @@
+{
+  "name": "casdoor-open-source-iam-auth-platform",
+  "slug": "casdoor-open-source-iam-auth-platform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/casdoor-open-source-iam-auth-platform/",
+  "download_url": "https://claudskills.com/skills/casdoor-open-source-iam-auth-platform/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Casdoor is an open source AI-first Identity and Access Management (IAM) platform and auth server supporting OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, and MCP gateway integration with a web-based admin UI.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

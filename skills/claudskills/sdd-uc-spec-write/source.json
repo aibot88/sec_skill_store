@@ -1,0 +1,18 @@
+{
+  "name": "sdd-uc-spec-write",
+  "slug": "sdd-uc-spec-write",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sdd-uc-spec-write/",
+  "download_url": "https://claudskills.com/skills/sdd-uc-spec-write/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Rédige et met à jour les spécifications SDD par cas d'utilisation (UC) : spec racine (projet principal) ou spec d'extension (fonction ajoutée à une racine existante). Exploitable par des agents IA. En CLI écrit dans docs/, sur claude.ai livre des artefacts Markdown. S'active dès qu'on demande une spec SDD, à formaliser des UC, ou à étendre une spec racine.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

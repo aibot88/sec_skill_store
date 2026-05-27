@@ -1,0 +1,18 @@
+{
+  "name": "expo-rn-conventions",
+  "slug": "expo-rn-conventions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/expo-rn-conventions/",
+  "download_url": "https://claudskills.com/skills/expo-rn-conventions/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply consistent React Native + Expo conventions for project structure, Expo Router navigation, theming primitives, icons, sqlite data patterns, safe area handling, and bun/bunx tooling. Use when adding or updating screens, components, navigation, data, or dependencies in Expo/React Native apps so work matches these practices.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:53+00:00"
+}

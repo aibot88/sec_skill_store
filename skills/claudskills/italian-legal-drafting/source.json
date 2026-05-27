@@ -1,0 +1,18 @@
+{
+  "name": "italian-legal-drafting",
+  "slug": "italian-legal-drafting",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/italian-legal-drafting/",
+  "download_url": "https://claudskills.com/skills/italian-legal-drafting/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Specialista di redazione giuridica italiana — redige documenti legali italiani inclusi contratti, atti giudiziari, pareri legali e memorie con corretta formattazione delle citazioni. Attivazione quando: l'utente chiede di redigere, scrivere, preparare o creare un documento legale. NON attivare per: formattazione citazioni (usa italian-citation-formats), ricerca legale (usa italian-legal-research), o verifica conformità (usa compliance-frameworks).",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

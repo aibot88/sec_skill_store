@@ -1,0 +1,18 @@
+{
+  "name": "cpq-test-automation",
+  "slug": "cpq-test-automation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cpq-test-automation/",
+  "download_url": "https://claudskills.com/skills/cpq-test-automation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when writing, reviewing, or debugging test classes for Salesforce CPQ (Steelbrick) functionality — including quote creation, price rules, contracting, ordering, and CPQ API integration. Trigger keywords: CPQ test class, SBQQ test, quote calculation test, price rule test, CPQ Apex test, ServiceRouter test, QuoteCalculator test. NOT for standard Apex testing patterns unrelated to CPQ, nor for UI/Selenium test authoring outside the CPQ context.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

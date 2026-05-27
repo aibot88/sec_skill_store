@@ -1,0 +1,18 @@
+{
+  "name": "chief-investment-officer",
+  "slug": "chief-investment-officer-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chief-investment-officer-skill/",
+  "download_url": "https://claudskills.com/skills/chief-investment-officer-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Chief Investment Officer del Financial Intelligence System. Es el último agente en ejecutarse y el único con autoridad para emitir la recomendación final de inversión. ACTÍVALO siempre como último paso, después del scoring board, risk engine y report generator. Integra todos los outputs del sistema, resuelve los conflictos escalados, toma decisiones ejecutivas sobre portafolio y emite el veredicto final con convicción, claridad y responsabilidad. El CIO no analiza — decide. Tiene poder de veto sobre cualquier módulo y puede modificar recomendaciones si el contexto lo justifica. Su output es la palabra final del sistema.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

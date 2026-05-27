@@ -1,0 +1,18 @@
+{
+  "name": "loom-security-and-hardening",
+  "slug": "loom-security-and-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/loom-security-and-hardening/",
+  "download_url": "https://claudskills.com/skills/loom-security-and-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the work touches security-sensitive boundaries: untrusted input, authn/authz, secrets, sensitive data, uploads, webhooks, command/database execution, external integrations, dependencies, or hardening review.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:34+00:00"
+}

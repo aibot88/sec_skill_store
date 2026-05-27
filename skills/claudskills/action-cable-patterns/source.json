@@ -1,0 +1,18 @@
+{
+  "name": "Action Cable & WebSocket Patterns",
+  "slug": "action-cable-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/action-cable-patterns/",
+  "download_url": "https://claudskills.com/skills/action-cable-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Real-time WebSocket features with Action Cable in Rails. Use when: (1) Building real-time chat, (2) Live notifications/presence, (3) Broadcasting model updates, (4) WebSocket authorization. Trigger keywords: Action Cable, WebSocket, real-time, channels, broadcasting, stream, subscriptions, presence, cable",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "data-sql-optimization",
+  "slug": "data-sql-optimization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/data-sql-optimization/",
+  "download_url": "https://claudskills.com/skills/data-sql-optimization/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Production-grade SQL optimization for OLTP systems: EXPLAIN/plan analysis, balanced indexing, schema and query design, migrations, backup/recovery, HA, security, and safe performance tuning across PostgreSQL, MySQL, SQL Server, Oracle, SQLite.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

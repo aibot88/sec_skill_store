@@ -1,0 +1,18 @@
+{
+  "name": "soc-social-network",
+  "slug": "soc-social-network",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/soc-social-network/",
+  "download_url": "https://claudskills.com/skills/soc-social-network/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply social network analysis concepts including nodes, ties, centrality, structural holes, and strong/weak ties to map and analyze relationship structures. Use this skill when the user needs to understand influence patterns in an organization, identify key connectors, analyze information flow, or map stakeholder relationships — even if they say 'who are the influencers', 'how does information spread here', or 'map the relationships in our team'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

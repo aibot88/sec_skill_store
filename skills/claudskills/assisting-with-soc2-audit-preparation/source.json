@@ -1,0 +1,18 @@
+{
+  "name": "assisting-with-soc2-audit-preparation",
+  "slug": "assisting-with-soc2-audit-preparation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/assisting-with-soc2-audit-preparation/",
+  "download_url": "https://claudskills.com/skills/assisting-with-soc2-audit-preparation/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Execute automate SOC 2 audit preparation including evidence gathering, control assessment, and compliance gap identification. Use when you need to prepare for SOC 2 audits, assess Trust Service Criteria compliance, document security controls, or generate readiness reports. Trigger with phrases like \"SOC 2 audit preparation\", \"SOC 2 readiness assessment\", \"collect SOC 2 evidence\", or \"Trust Service Criteria compliance\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

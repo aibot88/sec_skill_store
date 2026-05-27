@@ -1,0 +1,18 @@
+{
+  "name": "security-snapshot",
+  "slug": "security-snapshot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-snapshot/",
+  "download_url": "https://claudskills.com/skills/security-snapshot/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate a client-ready security hygiene snapshot for a prospect domain. Free lead magnet for consulting practices. Outputs a markdown report covering SSL/TLS grade, HTTP security headers, email authentication (SPF/DMARC), and server fingerprint leaks. Use when the user says /security-snapshot, /snapshot [domain], \"run a security check on X\", or \"generate a security report for [company]\". Do NOT use for penetration testing, internal infrastructure audits, or application-layer vulnerability assessment. This is a passive, unauthenticated scan for conversation-starter value, not a full audit.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "azure-keyvault-keys-ts",
+  "slug": "azure-keyvault-keys-ts",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-keyvault-keys-ts/",
+  "download_url": "https://claudskills.com/skills/azure-keyvault-keys-ts/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@azure/keyvault-keys). Use when creating, encrypting/decrypting, signing, or rotating keys.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

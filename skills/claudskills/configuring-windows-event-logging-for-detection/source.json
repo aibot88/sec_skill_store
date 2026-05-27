@@ -1,0 +1,18 @@
+{
+  "name": "configuring-windows-event-logging-for-detection",
+  "slug": "configuring-windows-event-logging-for-detection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/configuring-windows-event-logging-for-detection/",
+  "download_url": "https://claudskills.com/skills/configuring-windows-event-logging-for-detection/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Configures Windows Event Logging with advanced audit policies to generate high-fidelity security events for",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

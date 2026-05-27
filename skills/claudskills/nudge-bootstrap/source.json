@@ -1,0 +1,18 @@
+{
+  "name": "nudge-bootstrap",
+  "slug": "nudge-bootstrap",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nudge-bootstrap/",
+  "download_url": "https://claudskills.com/skills/nudge-bootstrap/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Initialise le projet Nudge de zéro avec Expo, expo-router, TypeScript, NativeWind, Drizzle ORM, expo-sqlite, et configure WebStorm pour un confort optimal. Utilise ce skill UNIQUEMENT au tout premier démarrage du projet Nudge, quand l'utilisateur dit \"on commence\", \"j'initialise le projet\", \"crée le squelette\", \"setup du repo\", \"on fait T01\", ou équivalent. Ne pas utiliser pour ajouter des dépendances à un projet existant — ce skill est one-shot, pour la création initiale (correspond à la tâche T01 du skill `nudge-project`). Il fournit les commandes exactes à exécuter (pas une génération IA qui peut halluciner des versions), et termine par un commit initial `milestone-T01`.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "hwp",
+  "slug": "hwp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hwp/",
+  "download_url": "https://claudskills.com/skills/hwp/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use kordoc for agent-native HWP/HWPX document parsing, JSON extraction, diffing, form-field extraction, and Markdown→HWPX reverse conversion (read/convert only — for binary editing use rhwp-edit).",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "langfuse-extraction",
+  "slug": "langfuse-extraction",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/langfuse-extraction/",
+  "download_url": "https://claudskills.com/skills/langfuse-extraction/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Extracts traces, observations, and metrics from Langfuse Cloud (EU) API for debugging, telemetry analysis, and regulatory audit trails. Generates ALCOA+ compliant reports, exports to pandas DataFrame, and supports time-range/user/session filtering. Use when investigating production issues, generating compliance documentation, or analyzing LLM costs and performance. MUST BE USED for pharmaceutical audit trail generation requiring GAMP-5 traceability.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "performance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

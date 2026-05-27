@@ -1,0 +1,18 @@
+{
+  "name": "overnight-repo-auditor",
+  "slug": "overnight-repo-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/overnight-repo-auditor/",
+  "download_url": "https://claudskills.com/skills/overnight-repo-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Uses Managed Agents' 14.5-hour runtime to audit an entire codebase overnight. Security, performance, accessibility, dependency issues. You wake up to a full report.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

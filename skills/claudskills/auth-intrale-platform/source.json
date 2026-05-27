@@ -1,0 +1,18 @@
+{
+  "name": "auth-intrale-platform",
+  "slug": "auth-intrale-platform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-intrale-platform/",
+  "download_url": "https://claudskills.com/skills/auth-intrale-platform/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Auth — Auditoría y gestión de permisos de Claude Code",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

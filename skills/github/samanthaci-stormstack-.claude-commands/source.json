@@ -1,0 +1,19 @@
+{
+  "name": "commands",
+  "slug": "samanthaci-stormstack-.claude-commands",
+  "source": "github",
+  "source_url": "https://github.com/samanthaci/stormstack/blob/89641c7b30f9edd277f3618ec9fbad351b61afcf/.claude/commands/premerge-SKILL.md",
+  "download_url": "https://github.com/samanthaci/stormstack/blob/89641c7b30f9edd277f3618ec9fbad351b61afcf/.claude/commands/premerge-SKILL.md",
+  "external_source_url": "https://github.com/samanthaci/stormstack/blob/89641c7b30f9edd277f3618ec9fbad351b61afcf/.claude/commands/premerge-SKILL.md",
+  "license": "",
+  "description": "StormStack is a Java-based authoritative multiplayer game server platform. It enables hot-deployment of untrusted game logic at runtime, using JVM ClassLoader isolation and JWT-scoped ECS access to safely run multiple matches on shared infrastructure.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "samanthaci/stormstack",
+    "path": ".claude/commands/premerge-SKILL.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

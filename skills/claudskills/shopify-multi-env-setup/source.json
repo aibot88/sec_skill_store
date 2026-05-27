@@ -1,0 +1,18 @@
+{
+  "name": "shopify-multi-env-setup",
+  "slug": "shopify-multi-env-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/shopify-multi-env-setup/",
+  "download_url": "https://claudskills.com/skills/shopify-multi-env-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Shopify apps across development, staging, and production environments with separate stores, API credentials, and app instances. Use when setting up isolated dev/staging/prod environments for a Shopify app, managing multiple development stores, or configuring per-environment credentials. Trigger with phrases like \"shopify environments\", \"shopify staging\", \"shopify dev vs prod\", \"shopify multi-store\", \"shopify environment setup\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

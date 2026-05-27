@@ -1,0 +1,18 @@
+{
+  "name": "security-guidance",
+  "slug": "security-guidance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-guidance/",
+  "download_url": "https://claudskills.com/skills/security-guidance/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "PreToolUse security-anti-pattern hook for Claude Code. Catches 12 common security risks (command injection, XSS, SQL injection, unsafe deserialization, GitHub Actions workflow injection, eval/new Function code injection) BEFORE the Edit/Write/MultiEdit operation completes. Session-state caching prevents duplicate warnings on the same file+rule combo. Stdlib only — no dependencies. Use when you want a safety net during Claude Code sessions that touch security-sensitive code (auth, payments, user input handling, IaC). Disable with ENABLE_SECURITY_REMINDER=0 if you need to perform a verified-safe operation that would otherwise trip a pattern. Triggers — \"add security hook\", \"block unsafe code\", \"detect command injection before write\", \"prevent SQL injection patterns\", \"security warning hook\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

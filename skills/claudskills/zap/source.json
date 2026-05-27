@@ -1,0 +1,18 @@
+{
+  "name": "OWASP ZAP",
+  "slug": "zap",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/zap/",
+  "download_url": "https://claudskills.com/skills/zap/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Web application security scanner with proxy and active/passive scanning",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

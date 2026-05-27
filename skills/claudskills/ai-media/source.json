@@ -1,0 +1,18 @@
+{
+  "name": "ai-media",
+  "slug": "ai-media",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-media/",
+  "download_url": "https://claudskills.com/skills/ai-media/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AI Media Generator — generování produktových fotek a B-roll videí přes fal.ai. Expert-level prompting pro food/beverage/FMCG produkty. Image gen (FLUX, Seedream) + Image-to-Video (Kling, Veo). 5-vrstvá prompt anatomie pro konzistentně kvalitní výstupy. Trigger: \"ai media\", \"vygeneruj fotku\", \"rozpohybuj\", \"B-roll\", \"product shot\", \"ai obrázek\", \"ai video\", \"/ai-media\"",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gcp-security-posture-hardening",
+  "slug": "gcp-security-posture-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-security-posture-hardening/",
+  "download_url": "https://claudskills.com/skills/gcp-security-posture-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review GCP security posture via Security Command Center findings, CIS GCP Benchmark gaps, org policy enforcement baseline, Assured Workloads controls, Binary Authorization, and CSPM recommendations. Prefer gcp-iam-least-privilege-review for IAM binding surgery and gcp-vpc-service-controls-architect for VPC-SC perimeter design unless the request is primarily broad posture hardening.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gcp-iam-least-privilege-review",
+  "slug": "gcp-iam-least-privilege-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-iam-least-privilege-review/",
+  "download_url": "https://claudskills.com/skills/gcp-iam-least-privilege-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Audit GCP IAM bindings across the resource hierarchy (org/folder/project), identify overprivileged Service Accounts, review Workload Identity Federation configurations, evaluate org policy conditions, and recommend least-privilege remediation. Prefer gcp-secret-kms-lifecycle-steward for KMS/Secret Manager lifecycle design and gcp-vpc-service-controls-architect for perimeter access policy posture unless the request is primarily IAM binding surgery.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

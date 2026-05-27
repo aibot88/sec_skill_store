@@ -1,0 +1,18 @@
+{
+  "name": "automation-refactor",
+  "slug": "automation-refactor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/automation-refactor/",
+  "download_url": "https://claudskills.com/skills/automation-refactor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert automation workflow refactoring tool for Power Automate, n8n, Make, Zapier and other platforms. Optimizes existing flows by improving performance, reliability, maintainability, and best practices compliance. Triggers when user wants to improve, optimize, refactor, correct values, enhance, or modernize workflows. Analyzes JSON, suggests improvements, outputs refactored flow maintaining original functionality unless changes requested.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

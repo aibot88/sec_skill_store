@@ -1,0 +1,19 @@
+{
+  "name": "ctf-pwn",
+  "slug": "cyberkaida-reverse-engineering-assistant-reva-skills-ctf-pwn",
+  "source": "github",
+  "source_url": "https://github.com/cyberkaida/reverse-engineering-assistant/blob/395dbc83a7db8208838ad3619a9f0aeae095f451/ReVa/skills/ctf-pwn/SKILL.md",
+  "download_url": "https://github.com/cyberkaida/reverse-engineering-assistant/blob/395dbc83a7db8208838ad3619a9f0aeae095f451/ReVa/skills/ctf-pwn/SKILL.md",
+  "external_source_url": "https://github.com/cyberkaida/reverse-engineering-assistant/blob/395dbc83a7db8208838ad3619a9f0aeae095f451/ReVa/skills/ctf-pwn/SKILL.md",
+  "license": "",
+  "description": "MCP server for reverse engineering tasks in Ghidra 👩‍💻",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "cyberkaida/reverse-engineering-assistant",
+    "path": "ReVa/skills/ctf-pwn/SKILL.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

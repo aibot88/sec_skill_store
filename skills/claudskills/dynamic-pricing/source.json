@@ -1,0 +1,18 @@
+{
+  "name": "dynamic-pricing",
+  "slug": "dynamic-pricing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dynamic-pricing/",
+  "download_url": "https://claudskills.com/skills/dynamic-pricing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit a dynamic pricing engine for revenue optimization and fairness. Evaluates price elasticity models, competitive intelligence feeds, promotional ROI, markdown optimization, price image management, and legal compliance including Robinson-Patman and price gouging regulations. Use when building or reviewing retail pricing systems, e-commerce price optimization, or revenue management platforms.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

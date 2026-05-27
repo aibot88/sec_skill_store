@@ -1,0 +1,19 @@
+{
+  "name": "audit-report",
+  "slug": "majiayu000-claude-skill-registry-skills-data-audit-report",
+  "source": "github",
+  "source_url": "https://github.com/majiayu000/claude-skill-registry/blob/7b673f33e85a4b8dad21d603dbb541484d7a2c21/skills/data/audit-report/SKILL.md",
+  "download_url": "https://github.com/majiayu000/claude-skill-registry/blob/7b673f33e85a4b8dad21d603dbb541484d7a2c21/skills/data/audit-report/SKILL.md",
+  "external_source_url": "https://github.com/majiayu000/claude-skill-registry/blob/7b673f33e85a4b8dad21d603dbb541484d7a2c21/skills/data/audit-report/SKILL.md",
+  "license": "",
+  "description": "The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "majiayu000/claude-skill-registry",
+    "path": "skills/data/audit-report/SKILL.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

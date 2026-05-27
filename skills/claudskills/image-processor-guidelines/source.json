@@ -1,0 +1,18 @@
+{
+  "name": "image-processor-guidelines",
+  "slug": "image-processor-guidelines",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/image-processor-guidelines/",
+  "download_url": "https://claudskills.com/skills/image-processor-guidelines/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Development guidelines for Quantum Skincare's Python FastAPI image processor microservice. Covers FastAPI patterns, Perfect Corp API integration, MediaPipe FaceMesh validation, correlation headers, access control (CIDR + X-Internal-Secret), error handling, Pydantic models, structured logging, mock mode, provider normalization, and testing strategies. Use when working with image-processor code, routes, validation pipeline, Perfect Corp integration, or Python/FastAPI patterns.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "physics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

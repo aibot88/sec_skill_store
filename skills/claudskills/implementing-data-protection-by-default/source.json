@@ -1,0 +1,18 @@
+{
+  "name": "implementing-data-protection-by-default",
+  "slug": "implementing-data-protection-by-default",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-data-protection-by-default/",
+  "download_url": "https://claudskills.com/skills/implementing-data-protection-by-default/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Technical implementation of GDPR Article 25(2) data protection by default. Covers strictest privacy settings as default configuration, minimum data collection, limited storage duration, restricted accessibility, and opt-in rather than opt-out patterns. Includes implementation checklist and system design requirements.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

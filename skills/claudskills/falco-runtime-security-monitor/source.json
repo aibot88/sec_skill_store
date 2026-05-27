@@ -1,0 +1,18 @@
+{
+  "name": "falco-runtime-security-monitor",
+  "slug": "falco-runtime-security-monitor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/falco-runtime-security-monitor/",
+  "download_url": "https://claudskills.com/skills/falco-runtime-security-monitor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Monitors container runtime events using Falco sysdig libraries and sends alerts on suspicious syscall patterns. Integrates with Kubernetes audit logs and Prometheus AlertManager for real-time threat detection.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

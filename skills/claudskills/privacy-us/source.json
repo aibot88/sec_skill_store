@@ -1,0 +1,18 @@
+{
+  "name": "privacy-us",
+  "slug": "privacy-us",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/privacy-us/",
+  "download_url": "https://claudskills.com/skills/privacy-us/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "미국 CCPA/CPRA + 주요 주법(VCDPA·CPA·CTDPA·UCPA·ICDPA·KCDPA·RIDPA) 기반 Privacy Policy 자동 생성. 2026.1.1 CPPA 갱신 규정, Sensitive Personal Information, Do Not Sell/Share, ADMT 공개, GPC 브라우저 신호 대응. 캘리포니아 거주자 서비스·100K records 초과 서비스 대상.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

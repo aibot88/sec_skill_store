@@ -1,0 +1,18 @@
+{
+  "name": "browser-automation-safety",
+  "slug": "browser-automation-safety",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/browser-automation-safety/",
+  "download_url": "https://claudskills.com/skills/browser-automation-safety/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when validating rendered web pages, local dev servers, browser automation, screenshots, forms, auth sessions, or UI evidence with strict browser safety boundaries.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

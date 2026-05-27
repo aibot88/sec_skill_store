@@ -1,0 +1,18 @@
+{
+  "name": "oauth2-flow-debugger",
+  "slug": "oauth2-flow-debugger",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oauth2-flow-debugger/",
+  "download_url": "https://claudskills.com/skills/oauth2-flow-debugger/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Inspects and debugs OAuth 2.0 authorization flows including PKCE, client credentials, and device code grants. Uses jose JWT library and node-fetch to validate tokens, decode claims, and trace redirect chains.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

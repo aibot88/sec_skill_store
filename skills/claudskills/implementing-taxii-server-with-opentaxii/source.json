@@ -1,0 +1,18 @@
+{
+  "name": "implementing-taxii-server-with-opentaxii",
+  "slug": "implementing-taxii-server-with-opentaxii",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-taxii-server-with-opentaxii/",
+  "download_url": "https://claudskills.com/skills/implementing-taxii-server-with-opentaxii/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Deploy and configure an OpenTAXII server to share and consume STIX-formatted cyber threat intelligence using",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

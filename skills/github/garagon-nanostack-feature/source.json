@@ -1,0 +1,19 @@
+{
+  "name": "feature",
+  "slug": "garagon-nanostack-feature",
+  "source": "github",
+  "source_url": "https://github.com/garagon/nanostack/blob/76ee88e46616bc29edc68cbf951767547df7b0ce/feature/SKILL.md",
+  "download_url": "https://github.com/garagon/nanostack/blob/76ee88e46616bc29edc68cbf951767547df7b0ce/feature/SKILL.md",
+  "external_source_url": "https://github.com/garagon/nanostack/blob/76ee88e46616bc29edc68cbf951767547df7b0ce/feature/SKILL.md",
+  "license": "",
+  "description": "Minimal AI coding agent team skills for the full engineering workflow. ",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "garagon/nanostack",
+    "path": "feature/SKILL.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

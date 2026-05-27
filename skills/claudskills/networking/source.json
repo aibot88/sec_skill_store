@@ -1,0 +1,18 @@
+{
+  "name": "networking",
+  "slug": "networking",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/networking/",
+  "download_url": "https://claudskills.com/skills/networking/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "· Configure/troubleshoot Linux networking: DNS, proxies, VPNs, VLANs, nftables, routing. Triggers: 'dns', 'reverse proxy', 'vpn', 'wireguard', 'tailscale', 'vlan', 'nftables', 'mtr'. Not for OPNsense (use firewall-appliance).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

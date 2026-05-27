@@ -1,0 +1,18 @@
+{
+  "name": "webflow-multi-env-setup",
+  "slug": "webflow-multi-env-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/webflow-multi-env-setup/",
+  "download_url": "https://claudskills.com/skills/webflow-multi-env-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Webflow across development, staging, and production environments with per-environment API tokens, site IDs, and secret management via Vault/AWS/GCP. Trigger with phrases like \"webflow environments\", \"webflow staging\", \"webflow dev prod\", \"webflow environment setup\", \"webflow config by env\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

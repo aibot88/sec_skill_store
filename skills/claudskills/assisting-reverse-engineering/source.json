@@ -1,0 +1,18 @@
+{
+  "name": "assisting-reverse-engineering",
+  "slug": "assisting-reverse-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/assisting-reverse-engineering/",
+  "download_url": "https://claudskills.com/skills/assisting-reverse-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides reverse engineering analysis support including function identification, data structure analysis, and behavior understanding. Use when analyzing unknown binaries, understanding program structure, or investigating binary behavior.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "platform-strategist",
+  "slug": "platform-strategist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/platform-strategist/",
+  "download_url": "https://claudskills.com/skills/platform-strategist/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this agent when you need to make infrastructure and deployment strategy decisions before implementation. Evaluates build pipelines, CI/CD approaches, cloud resource selection, containerization strategies, and deployment topology. Use terraform-architect for generating Terraform configs after decisions are made; use infra-security for security auditing; use this agent for strategic infrastructure planning.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

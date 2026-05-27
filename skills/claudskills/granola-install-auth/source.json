@@ -1,0 +1,18 @@
+{
+  "name": "granola-install-auth",
+  "slug": "granola-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/granola-install-auth/",
+  "download_url": "https://claudskills.com/skills/granola-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Granola AI meeting notes with calendar and audio permissions. Use when setting up Granola for the first time, connecting Google/Outlook calendars, granting macOS Screen Recording permission, or configuring Windows audio capture. Trigger: \"install granola\", \"setup granola\", \"granola calendar\", \"granola permissions\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:10+00:00"
+}

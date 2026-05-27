@@ -1,0 +1,18 @@
+{
+  "name": "camsnap",
+  "slug": "camsnap",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/camsnap/",
+  "download_url": "https://claudskills.com/skills/camsnap/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Capture frames or clips from RTSP/ONVIF cameras. Grabs snapshots, video clips, and motion events from IP cameras, security cameras, and video streams. Use when the user wants to take a snapshot from a camera, record a clip from an RTSP stream, monitor motion on a security camera, discover ONVIF devices on the network, or configure camera access for automated surveillance capture.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

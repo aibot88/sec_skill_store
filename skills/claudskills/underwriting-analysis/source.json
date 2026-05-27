@@ -1,0 +1,18 @@
+{
+  "name": "underwriting-analysis",
+  "slug": "underwriting-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/underwriting-analysis/",
+  "download_url": "https://claudskills.com/skills/underwriting-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze insurance underwriting systems for risk assessment accuracy, pricing adequacy, and portfolio exposure management. Evaluates predictive models (GLM, GBM), rating algorithms, loss ratio performance by line of business, guideline automation engines, regulatory compliance (NAIC, SERFF filings), and model governance following SR 11-7 standards across personal, commercial, and specialty lines.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:31+00:00"
+}

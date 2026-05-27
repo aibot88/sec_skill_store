@@ -1,0 +1,18 @@
+{
+  "name": "myco:bun-binary-compilation-asset-management",
+  "slug": "bun-binary-compilation-asset-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bun-binary-compilation-asset-management/",
+  "download_url": "https://claudskills.com/skills/bun-binary-compilation-asset-management/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Procedures for Bun binary compilation, asset bundling strategies, virtual filesystem handling, build artifact packaging, multi-target compilation patterns, and binary entry point dispatch in Myco's build system. Use when compiling static binaries with Bun, managing package assets vs user files, resolving virtual filesystem paths, handling cross-platform builds, or debugging binary packaging issues, even if the user doesn't explicitly ask for Bun compilation help.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

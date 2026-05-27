@@ -1,0 +1,18 @@
+{
+  "name": "listmonk-self-hosted-newsletter-mailing-list",
+  "slug": "listmonk-self-hosted-newsletter-mailing-list",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/listmonk-self-hosted-newsletter-mailing-list/",
+  "download_url": "https://claudskills.com/skills/listmonk-self-hosted-newsletter-mailing-list/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "High-performance, self-hosted newsletter and mailing list manager packed into a single binary. Manages millions of subscribers with templated campaigns, analytics, and a REST API for programmatic email automation.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "email-marketing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

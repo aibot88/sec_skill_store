@@ -1,0 +1,18 @@
+{
+  "name": "scanning-kubernetes-manifests-with-kubesec",
+  "slug": "scanning-kubernetes-manifests-with-kubesec",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scanning-kubernetes-manifests-with-kubesec/",
+  "download_url": "https://claudskills.com/skills/scanning-kubernetes-manifests-with-kubesec/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Perform security risk analysis on Kubernetes resource manifests using Kubesec to identify misconfigurations,",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

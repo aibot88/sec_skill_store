@@ -1,0 +1,18 @@
+{
+  "name": "cloudflare-d1",
+  "slug": "cloudflare-d1",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloudflare-d1/",
+  "download_url": "https://claudskills.com/skills/cloudflare-d1/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Cloudflare D1 SQLite database - prepared statements, batch operations, Drizzle ORM essentials. Trigger: When working with D1 database, SQLite queries, Drizzle ORM, database bindings.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

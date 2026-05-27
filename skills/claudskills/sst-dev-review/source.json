@@ -1,0 +1,18 @@
+{
+  "name": "sst-dev-review",
+  "slug": "sst-dev-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sst-dev-review/",
+  "download_url": "https://claudskills.com/skills/sst-dev-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Post-cycle second-pass review of the last `/sst-dev-cycle` commit on any project. Reads what shipped (code + tests + spec + TODO + docs), evaluates it against the spec item it closed along several axes (spec parity, correctness, coverage, discoverability, production verification, security, style, performance), and appends concrete follow-up items to the project's spec AND the handoff TODO's \"Next up\" if critical, blocking, or medium-to-major gaps are found. If nothing substantive turns up, leaves both unchanged and reports \"clean.\" Does NOT fix issues — only names them and schedules them as spec work for the next `/sst-dev-cycle`. Pair with `/sst-dev-cycle` (chained via `bin/skill-chain.py sst-dev-cycle sst-dev-review`).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "mobile-security-review",
+  "slug": "mobile-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mobile-security-review/",
+  "download_url": "https://claudskills.com/skills/mobile-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit mobile apps against OWASP Mobile Top 10 (M1-M10): credential hardcoding, supply chain dependencies, insecure auth/token storage (Keychain/Keystore), input validation (deep links, WebView XSS), certificate pinning (OkHttp, TrustKit, Alamofire), privacy (PII in logs, clipboard, screenshots), binary protections (ProGuard/R8, obfuscation, anti-tampering), security misconfiguration (backup, exported components, permissions), data-at-rest encryption (SQLCipher, EncryptedSharedPreferences), root/jailbreak detection, and biometric authentication. Supports Flutter, React Native, native iOS, and native Android. Use when auditing mobile app security posture before release or pentest.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

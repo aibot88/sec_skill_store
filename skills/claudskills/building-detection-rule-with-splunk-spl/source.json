@@ -1,0 +1,18 @@
+{
+  "name": "building-detection-rule-with-splunk-spl",
+  "slug": "building-detection-rule-with-splunk-spl",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-detection-rule-with-splunk-spl/",
+  "download_url": "https://claudskills.com/skills/building-detection-rule-with-splunk-spl/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Build effective detection rules using Splunk Search Processing Language (SPL) correlation searches to identify",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

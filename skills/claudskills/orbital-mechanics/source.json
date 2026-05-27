@@ -1,0 +1,18 @@
+{
+  "name": "orbital-mechanics",
+  "slug": "orbital-mechanics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/orbital-mechanics/",
+  "download_url": "https://claudskills.com/skills/orbital-mechanics/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Classical orbital mechanics from Kepler to Hohmann. Covers the six orbital elements, Kepler's three laws, vis-viva, orbit types (circular, elliptical, parabolic, hyperbolic), transfer orbits, gravity assists, the two-body problem, and practical methods for computing ephemerides. Use when reasoning about planet motion, spacecraft trajectories, comet orbits, exoplanet transits, or binary star dynamics.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

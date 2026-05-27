@@ -1,0 +1,18 @@
+{
+  "name": "oma-scholar",
+  "slug": "oma-scholar",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oma-scholar/",
+  "download_url": "https://claudskills.com/skills/oma-scholar/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scholarly research companion using Knows sidecar spec (.knows.yaml). Generates, validates, reviews, queries, and compares structured research-paper sidecars, and fetches them from knows.academy. Use for academic literature search, survey synthesis, paper authoring assistance, and peer review with token-efficient claim/evidence/relation access.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

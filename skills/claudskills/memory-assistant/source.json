@@ -1,0 +1,18 @@
+{
+  "name": "memory-assistant",
+  "slug": "memory-assistant",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/memory-assistant/",
+  "download_url": "https://claudskills.com/skills/memory-assistant/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive memory management skill that guides memory capture and recall throughout sessions. Triggers when: user makes architectural decisions (\"let's use\", \"we should\", \"decided to\", \"choosing\"), discovers learnings (\"TIL\", \"learned that\", \"discovered\", \"found out\", \"realized\"), encounters blockers (\"stuck on\", \"blocked by\", \"cannot\", \"impediment\"), achieves progress (\"completed\", \"finished\", \"milestone\", \"done with\"), identifies patterns (\"pattern\", \"we always\", \"recurring\", \"common approach\"), asks about past work (\"what did we decide\", \"why did we\", \"how did we solve\", \"remember when\", \"previously\"), requests memory operations (\"capture this\", \"remember this\", \"save this decision\", \"recall\", \"search memories\"), or starts work on topics with likely stored context (\"working on authentication\", \"implementing database\", \"debugging\").",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

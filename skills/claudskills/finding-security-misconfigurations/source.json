@@ -1,0 +1,18 @@
+{
+  "name": "finding-security-misconfigurations",
+  "slug": "finding-security-misconfigurations",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/finding-security-misconfigurations/",
+  "download_url": "https://claudskills.com/skills/finding-security-misconfigurations/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure identify security misconfigurations in infrastructure-as-code, application settings, and system configurations. Use when you need to audit Terraform/CloudFormation templates, check application config files, validate system security settings, or ensure compliance with security best practices. Trigger with phrases like \"find security misconfigurations\", \"audit infrastructure security\", \"check config security\", or \"scan for misconfigured settings\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "eresus-sast-scanner",
+  "slug": "eresus-sast-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eresus-sast-scanner/",
+  "download_url": "https://claudskills.com/skills/eresus-sast-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "General-purpose Static Application Security Testing (SAST) skill for code vulnerability analysis. Trigger when the user asks to: \"analyze code for vulnerabilities\", \"review code security\", \"find security bugs\", \"do a SAST scan\", \"check for [vulnerability type] in code\", \"audit source code\", or requests a security code review of any language or framework. Covers 34 vulnerability classes across web, API, auth, mobile, and logic layers.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

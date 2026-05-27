@@ -1,0 +1,18 @@
+{
+  "name": "detecting-ransomware-precursors-in-network",
+  "slug": "detecting-ransomware-precursors-in-network",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-ransomware-precursors-in-network/",
+  "download_url": "https://claudskills.com/skills/detecting-ransomware-precursors-in-network/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detects early-stage ransomware indicators in network traffic before encryption begins, including initial access",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

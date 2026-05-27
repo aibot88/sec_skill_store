@@ -1,0 +1,18 @@
+{
+  "name": "fastapi-code-review",
+  "slug": "fastapi-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastapi-code-review/",
+  "download_url": "https://claudskills.com/skills/fastapi-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive code review skill for FastAPI projects. Analyzes codebase against industry best practices covering async patterns, project structure, Pydantic usage, dependency injection, database patterns, testing, and performance. Generates detailed refactor plans with prioritized recommendations. Use when reviewing FastAPI projects, auditing code quality, planning refactors, or ensuring adherence to FastAPI/async best practices.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

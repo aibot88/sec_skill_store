@@ -1,0 +1,18 @@
+{
+  "name": "defi-amm-security",
+  "slug": "defi-amm-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/defi-amm-security/",
+  "download_url": "https://claudskills.com/skills/defi-amm-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "中文优先：用于DeFiAMM安全相关任务，帮助识别、设计、实现或验证对应工作流。English keywords: Security checklist for Solidity AMM contracts, liquidity pools, and swap flows. Covers reentrancy, CEI ordering, donation or inflation attacks, oracle manipulation, slippage, admin controls, and integer math.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

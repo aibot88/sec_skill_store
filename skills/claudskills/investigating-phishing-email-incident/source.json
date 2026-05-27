@@ -1,0 +1,18 @@
+{
+  "name": "investigating-phishing-email-incident",
+  "slug": "investigating-phishing-email-incident",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/investigating-phishing-email-incident/",
+  "download_url": "https://claudskills.com/skills/investigating-phishing-email-incident/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Investigates phishing email incidents from initial user report through header analysis, URL/attachment detonation,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "incident-response",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

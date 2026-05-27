@@ -1,0 +1,18 @@
+{
+  "name": "framework",
+  "slug": "framework-anton-abyzov-specweave",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/framework-anton-abyzov-specweave/",
+  "download_url": "https://claudskills.com/skills/framework-anton-abyzov-specweave/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert on SpecWeave framework structure, rules, and spec-driven development conventions. Use when learning SpecWeave best practices, understanding increment lifecycle, or configuring hooks. Covers source-of-truth discipline, tasks.md/spec.md formats, living docs sync, and file organization patterns.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

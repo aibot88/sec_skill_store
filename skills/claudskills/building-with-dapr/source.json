@@ -1,0 +1,18 @@
+{
+  "name": "building-with-dapr",
+  "slug": "building-with-dapr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-with-dapr/",
+  "download_url": "https://claudskills.com/skills/building-with-dapr/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when building distributed microservices with Dapr sidecar architecture. Triggers include Dapr components, service invocation, state management, pub/sub, secrets, bindings, configuration, actors, and workflows. NOT for direct infrastructure clients (use building-with-kafka-strimzi instead).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "data-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

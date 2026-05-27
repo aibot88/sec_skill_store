@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-blade-naming",
+  "slug": "agentprivacy-blade-naming",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-blade-naming/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-blade-naming/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "The Blade Naming Ceremony — post-forge ceremony that gives an algebraically-defined blade a mythological identity. Activates when a walker (Cosmologist persona) has traversed a complement edge and perceives a myth that agrees with the arithmetic. Distinct from blade-forge (which defines the coordinate); this skill governs the *naming* that follows.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "physics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

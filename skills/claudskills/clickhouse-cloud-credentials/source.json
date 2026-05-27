@@ -1,0 +1,18 @@
+{
+  "name": "clickhouse-cloud-credentials",
+  "slug": "clickhouse-cloud-credentials",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clickhouse-cloud-credentials/",
+  "download_url": "https://claudskills.com/skills/clickhouse-cloud-credentials/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Store ClickHouse Cloud credentials in Doppler + 1Password for gapless-crypto-clickhouse. Use when setting up new services, rotating credentials, or backing up authentication material. Covers API keys, connection details, and database password storage.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

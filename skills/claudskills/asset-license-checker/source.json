@@ -1,0 +1,18 @@
+{
+  "name": "asset-license-checker",
+  "slug": "asset-license-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/asset-license-checker/",
+  "download_url": "https://claudskills.com/skills/asset-license-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Verify license compliance for downloaded 3D assets, textures, HDRIs, fonts before scene build or export.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

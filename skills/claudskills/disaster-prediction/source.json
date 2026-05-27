@@ -1,0 +1,18 @@
+{
+  "name": "disaster-prediction",
+  "slug": "disaster-prediction",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/disaster-prediction/",
+  "download_url": "https://claudskills.com/skills/disaster-prediction/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze disaster prediction and early warning systems — model accuracy for flood, earthquake, wildfire, hurricane, and tsunami hazards, data pipeline reliability from sensor networks and satellite feeds, alert distribution latency and channel coverage, false positive/negative rate calibration, evacuation planning integration, and system resilience under disaster conditions. Audit emergency management software for prediction quality and operational readiness.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

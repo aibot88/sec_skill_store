@@ -1,0 +1,18 @@
+{
+  "name": "crack-hashcat",
+  "slug": "crack-hashcat",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crack-hashcat/",
+  "download_url": "https://claudskills.com/skills/crack-hashcat/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Advanced password recovery and hash cracking tool supporting multiple algorithms and attack modes. Use when: (1) Performing authorized password auditing and security assessments, (2) Recovering passwords from captured hashes in forensic investigations, (3) Testing password policy strength and complexity, (4) Validating encryption implementations, (5) Conducting security research on cryptographic hash functions, (6) Demonstrating password weakness in penetration testing reports.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "claude-docs-consultant",
+  "slug": "claude-docs-consultant",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/claude-docs-consultant/",
+  "download_url": "https://claudskills.com/skills/claude-docs-consultant/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Consult official Claude Code documentation from code.claude.com using selective fetching. Use when working on hooks, skills, subagents, plugins, agent teams, MCP servers, permissions, settings, CI/CD (GitHub Actions, GitLab), IDE extensions (VS Code, JetBrains), desktop/web app features, scheduling, memory/CLAUDE.md, deployment (Bedrock, Vertex, Foundry), sandboxing, monitoring, or any Claude Code feature requiring official docs. Fetches only the specific docs needed per task.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

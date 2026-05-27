@@ -1,0 +1,18 @@
+{
+  "name": "api-gateway",
+  "slug": "api-gateway-itsmostafa-aws-agent-skills",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-gateway-itsmostafa-aws-agent-skills/",
+  "download_url": "https://claudskills.com/skills/api-gateway-itsmostafa-aws-agent-skills/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "AWS API Gateway for REST and HTTP API management. Use when creating APIs, configuring integrations, setting up authorization, managing stages, implementing rate limiting, or troubleshooting API issues.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

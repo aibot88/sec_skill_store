@@ -1,0 +1,18 @@
+{
+  "name": "figure-first-paper-reader",
+  "slug": "figure-first-paper-reader",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/figure-first-paper-reader/",
+  "download_url": "https://claudskills.com/skills/figure-first-paper-reader/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Reads a paper figure by figure before re-integrating the full narrative, so the user can identify the core findings quickly and check whether each visual actually supports the authors' main claims. Always separate figure content, figure-linked claim, evidentiary strength, and unsupported interpretation. Never fabricate references, PMIDs, DOIs, figure content, panel labels, result values, or study details that were not actually provided.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

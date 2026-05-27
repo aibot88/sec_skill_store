@@ -1,0 +1,18 @@
+{
+  "name": "sales-resourcefyi",
+  "slug": "sales-resourcefyi",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-resourcefyi/",
+  "download_url": "https://claudskills.com/skills/sales-resourcefyi/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Resource.fyi platform help — curated tools and resources directory for developers, designers, and marketers with 2,500+ listings across 25+ categories (AI, API, Design, Dev Tools, Marketing, No-Code, Web3). Covers free submission process (editorial review, social auth via Google/GitHub), community features (upvoting, bookmarking, trending), listing optimization for developer/designer audience, and category selection. Use when your dev tool needs more visibility with developers and designers, your Resource.fyi listing isn't getting traction, or you want to reach a technical audience through a curated directory. Do NOT use for multi-directory launch strategy (use /sales-launch-directory). Do NOT use for Product Hunt launches (use /sales-producthunt).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

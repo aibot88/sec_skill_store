@@ -1,0 +1,18 @@
+{
+  "name": "aoa-sanitized-share",
+  "slug": "aoa-sanitized-share",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aoa-sanitized-share/",
+  "download_url": "https://claudskills.com/skills/aoa-sanitized-share/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Turn raw technical material into a shareable public-safe artifact while keeping the raw source separate, placing the sanitized result in the canonical sharing surface, and preserving the lesson after redaction. Use when logs, configs, diagnostics, or reports may contain secrets, topology, or internal identifiers. Do not use when the material is already clearly public-safe or when the task is to perform the underlying operational change.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "education-learning",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

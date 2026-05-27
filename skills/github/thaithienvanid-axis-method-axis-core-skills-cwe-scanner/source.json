@@ -1,0 +1,19 @@
+{
+  "name": "cwe-scanner",
+  "slug": "thaithienvanid-axis-method-axis-core-skills-cwe-scanner",
+  "source": "github",
+  "source_url": "https://github.com/thaithienvanid/axis-method/blob/0b1d8d2038d8fc23055c32abf5bf549192a6f529/axis-core/skills/cwe-scanner/SKILL.md",
+  "download_url": "https://github.com/thaithienvanid/axis-method/blob/0b1d8d2038d8fc23055c32abf5bf549192a6f529/axis-core/skills/cwe-scanner/SKILL.md",
+  "external_source_url": "https://github.com/thaithienvanid/axis-method/blob/0b1d8d2038d8fc23055c32abf5bf549192a6f529/axis-core/skills/cwe-scanner/SKILL.md",
+  "license": "",
+  "description": "AXIS-26 v0.0.1: risk-gated spec-driven development for AI coding agents. Includes the AXIS specification, Claude Code/Codex plugin, portable commands, lifecycle gates, EARS requirements, CWE checks, evals, and adapters for Cursor, Gemini CLI, and Aider.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "thaithienvanid/axis-method",
+    "path": "axis-core/skills/cwe-scanner/SKILL.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

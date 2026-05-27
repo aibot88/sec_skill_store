@@ -1,0 +1,18 @@
+{
+  "name": "semgrep-pattern-matching-analyzer",
+  "slug": "semgrep-pattern-matching-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/semgrep-pattern-matching-analyzer/",
+  "download_url": "https://claudskills.com/skills/semgrep-pattern-matching-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Writes and deploys custom Semgrep rules using pattern, pattern-either, and metavariable-regex operators for multi-language SAST scanning. Manages rule bundles in semgrep.yml with autofix transformations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

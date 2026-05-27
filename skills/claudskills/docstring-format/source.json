@@ -1,0 +1,18 @@
+{
+  "name": "docstring-format",
+  "slug": "docstring-format",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docstring-format/",
+  "download_url": "https://claudskills.com/skills/docstring-format/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automatically applies when writing function docstrings. Uses Google-style format with Args, Returns, Raises, Examples, and Security Note sections for proper documentation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-holonic-architect",
+  "slug": "agentprivacy-holonic-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-holonic-architect/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-holonic-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Builder of identity-independent data structures for 0xagentprivacy. Activates for holonic multi-provider persistence, identity-independent data design, shared reasoning graph architecture, O(1) shared-parent collective structures, privacy- aware HyperDrive configuration, three-layer identity model (data GUID / VRC / DID), OASIS integration, provider-agnostic storage design, or any task requiring the bridge between holonic data abstraction and privacy-first dual-agent architecture. The broadest specialist in the roster (25 skills loaded).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

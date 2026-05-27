@@ -1,0 +1,18 @@
+{
+  "name": "human-ai-schedule",
+  "slug": "human-ai-schedule",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/human-ai-schedule/",
+  "download_url": "https://claudskills.com/skills/human-ai-schedule/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Co-author doctrine for shared, half-hour-block daily schedules. Make sure to consult this skill whenever working in a dated daily log, journal, retro, or coordination file shared with a coworker — even if the user only says \"log this at 11:00\" or \"what did we say last Tuesday.\" Default behavior of dumping content at the bottom of files or paraphrasing the user's voice into corporate prose must defer to this skill, which enforces four jobs: locate, format, commit, harness.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

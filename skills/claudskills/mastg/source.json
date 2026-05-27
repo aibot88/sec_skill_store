@@ -1,0 +1,18 @@
+{
+  "name": "mastg",
+  "slug": "mastg",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mastg/",
+  "download_url": "https://claudskills.com/skills/mastg/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Autonomous mobile security audit aligned with OWASP MASTG v2. Performs checklist-driven analysis across MASVS categories: storage, crypto, network, platform, code, resilience, privacy. Exports structured markdown report with MASTG test references.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

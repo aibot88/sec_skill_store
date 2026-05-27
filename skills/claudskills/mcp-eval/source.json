@@ -1,0 +1,18 @@
+{
+  "name": "mcp-eval",
+  "slug": "mcp-eval",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mcp-eval/",
+  "download_url": "https://claudskills.com/skills/mcp-eval/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Evaluate the attached MCP set by running agent-authored scenarios and producing an adversarial friction report. Claude exercises each MCP live, logs every tool call with justifications, then a fresh Sonnet critic audits the transcript.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

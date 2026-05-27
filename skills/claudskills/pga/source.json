@@ -1,0 +1,18 @@
+{
+  "name": "pga",
+  "slug": "pga",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pga/",
+  "download_url": "https://claudskills.com/skills/pga/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Screen products for FDA, EPA, USDA, CPSC, FCC, and other government agency requirements using AskRosetta. Use when checking regulatory compliance for US imports.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

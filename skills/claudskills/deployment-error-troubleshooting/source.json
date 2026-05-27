@@ -1,0 +1,18 @@
+{
+  "name": "deployment-error-troubleshooting",
+  "slug": "deployment-error-troubleshooting",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deployment-error-troubleshooting/",
+  "download_url": "https://claudskills.com/skills/deployment-error-troubleshooting/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when a Salesforce metadata deployment fails and you need to diagnose and fix the error. Trigger keywords: 'deployment failed', 'component failure', 'dependent class is invalid', 'code coverage failed', 'UNSUPPORTED_API_VERSION', 'deploy error', 'test failure blocking deploy', 'rollbackOnError', 'missing dependency deploy'. NOT for authoring destructive changes manifests (use destructive-changes-deployment). NOT for CI/CD pipeline setup (use github-actions-for-salesforce or gitlab-ci-for-salesforce). NOT for change set mechanics (use change-set-deployment).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

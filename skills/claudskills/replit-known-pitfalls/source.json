@@ -1,0 +1,18 @@
+{
+  "name": "replit-known-pitfalls",
+  "slug": "replit-known-pitfalls",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/replit-known-pitfalls/",
+  "download_url": "https://claudskills.com/skills/replit-known-pitfalls/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Avoid the top Replit anti-patterns: ephemeral filesystem, public secrets, port binding, Nix gotchas, and database limits. Use when reviewing Replit code, onboarding developers, or auditing existing Replit apps for common mistakes. Trigger with phrases like \"replit mistakes\", \"replit anti-patterns\", \"replit pitfalls\", \"replit what not to do\", \"replit code review\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

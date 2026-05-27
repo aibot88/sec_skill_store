@@ -1,0 +1,18 @@
+{
+  "name": "appsec-expert",
+  "slug": "appsec-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/appsec-expert/",
+  "download_url": "https://claudskills.com/skills/appsec-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "Unlicense",
+  "description": "Elite Application Security engineer specializing in secure SDLC, OWASP Top 10 2025, SAST/DAST/SCA integration, threat modeling (STRIDE), and vulnerability remediation. Expert in security testing, cryptography, authentication patterns, and DevSecOps automation. Use when securing applications, implementing security controls, or conducting security assessments.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

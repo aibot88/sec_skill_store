@@ -1,0 +1,18 @@
+{
+  "name": "azure-app-service-production-readiness",
+  "slug": "azure-app-service-production-readiness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-app-service-production-readiness/",
+  "download_url": "https://claudskills.com/skills/azure-app-service-production-readiness/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review Azure App Service and Web Apps for production readiness across plan tier fit, slots, networking, private ingress, identities, secrets, scaling, diagnostics, resilience, backup, rollback, and operator readiness. Use when a team wants a real go/no-go decision instead of shallow reassurance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "devsecops-lookup",
+  "slug": "devsecops-lookup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/devsecops-lookup/",
+  "download_url": "https://claudskills.com/skills/devsecops-lookup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Looks up OWASP DevSecOps Guideline phases, security tools, and pipeline checks. Returns tool configurations, CWE mappings, and integration patterns for CI/CD security. Use when user asks about \"DevSecOps\", \"SAST\", \"DAST\", \"SCA\", \"container security\", \"IaC security\", \"secret detection\", \"gitleaks\", \"semgrep\", \"trivy\", \"pipeline security\", \"シークレット検出\", \"静的解析\", \"動的解析\", \"コンテナセキュリティ\", \"セキュリティゲート\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

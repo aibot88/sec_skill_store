@@ -1,0 +1,18 @@
+{
+  "name": "implementing-api-threat-protection-with-apigee",
+  "slug": "implementing-api-threat-protection-with-apigee",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-api-threat-protection-with-apigee/",
+  "download_url": "https://claudskills.com/skills/implementing-api-threat-protection-with-apigee/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implement API threat protection using Google Apigee policies including JSON/XML threat protection, OAuth 2.0,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

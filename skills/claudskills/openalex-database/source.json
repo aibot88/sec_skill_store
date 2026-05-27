@@ -1,0 +1,18 @@
+{
+  "name": "openalex-database",
+  "slug": "openalex-database",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/openalex-database/",
+  "download_url": "https://claudskills.com/skills/openalex-database/SKILL.md",
+  "external_source_url": "",
+  "license": "CC0-1.0",
+  "description": "Query OpenAlex REST API for 250M+ scholarly works, authors, institutions, journals, concepts. Search by keyword, author, DOI, ORCID, or ID; filter by year, OA, citations, field; retrieve citations, references, author disambiguation. Free, no auth. For PubMed use pubmed-database; preprints use biorxiv-database.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

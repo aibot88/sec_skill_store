@@ -1,0 +1,18 @@
+{
+  "name": "therapy-outcomes",
+  "slug": "therapy-outcomes",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/therapy-outcomes/",
+  "download_url": "https://claudskills.com/skills/therapy-outcomes/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Evaluate therapy outcome measurement systems for rehabilitation and physical therapy. Analyzes functional improvement scoring (MCID, MDC, risk-adjusted residuals), treatment effectiveness comparison by therapist, diagnosis, and facility with case-mix adjustment, discharge readiness prediction (plateau detection, visit utilization trending), patient satisfaction correlation with clinical outcomes, and quality reporting compliance (CMS MIPS, CARF accreditation) using FOTO, AM-PAC, OPTIMAL, DASH, LEFS, ODI, and PHQ-9 outcome instruments.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "lab-management",
+  "slug": "lab-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lab-management/",
+  "download_url": "https://claudskills.com/skills/lab-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit laboratory management systems -- chemical inventory (SDS, GHS, CAS tracking), equipment lifecycle and calibration scheduling, safety compliance (OSHA 29 CFR 1910.1450, Chemical Hygiene Plans, biosafety levels), hazardous waste management (EPA 40 CFR 260-270), training record enforcement, and SOP/protocol version control. Use when reviewing university, corporate, or government lab software handling reagent tracking, instrument reservations, EH&S inspections, or waste stream classification.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

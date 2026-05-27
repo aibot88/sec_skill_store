@@ -1,0 +1,18 @@
+{
+  "name": "ios-testing",
+  "slug": "ios-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ios-testing/",
+  "download_url": "https://claudskills.com/skills/ios-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Invoke any time a user is writing iOS/Swift tests or asking why tests behave a certain way — including XCTest versus Swift Testing (@Test/#expect) choices, async ViewModel tests with @Observable or @Published, snapshot testing across device sizes, mocking protocols for dependency injection, setUp/tearDown lifecycle issues, tests that fail on CI but pass locally, flaky async tests, testing VIPER/TCA/MVVM architectures, and coverage gaps on error paths. The trigger is user intent: they are trying to verify, assert, or validate iOS/Swift behavior in a test context, whether they use the word 'testing' or not.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "mobile",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

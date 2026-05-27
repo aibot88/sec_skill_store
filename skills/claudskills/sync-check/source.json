@@ -1,0 +1,18 @@
+{
+  "name": "sync-check",
+  "slug": "sync-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sync-check/",
+  "download_url": "https://claudskills.com/skills/sync-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use after fixing a bug, adding a command, changing auth behavior, or modifying any CLI code to ensure all related documentation stays synchronized. Also use before committing changes, after refactoring, or when you notice documentation drift. Triggers on \"sync check\", \"update docs\", \"propagate changes\", \"did I forget to update\", \"what else needs updating\", or \"before I commit\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "docs-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

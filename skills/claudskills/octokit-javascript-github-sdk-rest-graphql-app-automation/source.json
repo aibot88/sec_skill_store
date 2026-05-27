@@ -1,0 +1,18 @@
+{
+  "name": "octokit-javascript-github-sdk-rest-graphql-app-automation",
+  "slug": "octokit-javascript-github-sdk-rest-graphql-app-automation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/octokit-javascript-github-sdk-rest-graphql-app-automation/",
+  "download_url": "https://claudskills.com/skills/octokit-javascript-github-sdk-rest-graphql-app-automation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Octokit is GitHub’s JavaScript SDK family for REST API requests, GraphQL queries, authentication, webhooks, and GitHub App workflows. It gives agents and automation systems a typed, maintained client for working with GitHub from Node.js, browsers, and Deno.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

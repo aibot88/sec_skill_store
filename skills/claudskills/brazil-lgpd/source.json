@@ -1,0 +1,18 @@
+{
+  "name": "brazil-lgpd",
+  "slug": "brazil-lgpd",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/brazil-lgpd/",
+  "download_url": "https://claudskills.com/skills/brazil-lgpd/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Guides compliance with Brazil''s Lei Geral de Proteção de Dados (LGPD, Lei 13.709/2018). Covers the 10 lawful bases under Art. 7, DPO appointment, ANPD enforcement, data subject rights under Arts. 17-22, and international transfer mechanisms. Keywords: LGPD, Brazil data protection, ANPD, lawful bases, data subject rights, international transfers.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

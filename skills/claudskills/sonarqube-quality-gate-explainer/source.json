@@ -1,0 +1,18 @@
+{
+  "name": "sonarqube-quality-gate-explainer",
+  "slug": "sonarqube-quality-gate-explainer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sonarqube-quality-gate-explainer/",
+  "download_url": "https://claudskills.com/skills/sonarqube-quality-gate-explainer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fetches the latest SonarQube project analysis result, explains why the Quality Gate failed in plain English, and links to specific issues. Covers coverage drops, new bugs, and security hotspots. Supports SonarQube Server and SonarCloud. Diagnostic only.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

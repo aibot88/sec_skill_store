@@ -1,0 +1,18 @@
+{
+  "name": "implementing-pod-security-admission-controller",
+  "slug": "implementing-pod-security-admission-controller",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-pod-security-admission-controller/",
+  "download_url": "https://claudskills.com/skills/implementing-pod-security-admission-controller/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implement Kubernetes Pod Security Admission to enforce baseline and restricted security profiles at namespace",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

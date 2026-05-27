@@ -1,0 +1,18 @@
+{
+  "name": "container-audit",
+  "slug": "container-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/container-audit/",
+  "download_url": "https://claudskills.com/skills/container-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit Dockerfiles and docker-compose files for base image, user privileges, secret leaks, layer efficiency, signal handling, healthchecks, and compose safety. One sub-agent per Dockerfile. Static, live (Trivy/Grype), and apply modes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

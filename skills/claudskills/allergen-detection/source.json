@@ -1,0 +1,18 @@
+{
+  "name": "allergen-detection",
+  "slug": "allergen-detection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/allergen-detection/",
+  "download_url": "https://claudskills.com/skills/allergen-detection/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Phát hiện 14 chất gây dị ứng theo luật EU 1169/2011 trong menu PDF và xuất PDF mới đã gắn nhãn allergen chuẩn. Trigger ngay khi user upload/mention một file menu PDF và muốn: gắn nhãn allergen, kiểm tra compliance EU, \"check dị ứng\", \"allergen menu\", \"EU 1169\", \"label menu\", \"đánh dấu chất gây dị ứng\", hoặc cần chuẩn bị menu cho thị trường châu Âu. Dùng khi user paste đường dẫn PDF và nói \"check allergen\", \"label này\", \"scan menu\" — kể cả khi không đề cập tên skill.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

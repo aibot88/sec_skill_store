@@ -1,0 +1,18 @@
+{
+  "name": "focus-spec-normalizer",
+  "slug": "focus-spec-normalizer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/focus-spec-normalizer/",
+  "download_url": "https://claudskills.com/skills/focus-spec-normalizer/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Normalize vendor-specific billing rows (AWS CUR, Azure Cost Management, GCP Billing Export, OCI) into FOCUS v1.2 columns from user-pasted CSV or JSON input. Refuses to invent column values not derivable from the input. No credentials accepted; operates on user-supplied data only.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

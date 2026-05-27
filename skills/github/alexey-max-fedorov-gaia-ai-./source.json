@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "alexey-max-fedorov-gaia-ai-.",
+  "source": "github",
+  "source_url": "https://github.com/alexey-max-fedorov/gaia-ai/blob/8b791c0e5ae9c01635d0124bf742eef8c5cbf371/HADES_SKILL.md",
+  "download_url": "https://github.com/alexey-max-fedorov/gaia-ai/blob/8b791c0e5ae9c01635d0124bf742eef8c5cbf371/HADES_SKILL.md",
+  "external_source_url": "https://github.com/alexey-max-fedorov/gaia-ai/blob/8b791c0e5ae9c01635d0124bf742eef8c5cbf371/HADES_SKILL.md",
+  "license": "",
+  "description": "Most powerful Perplexity Assistant for any programming and project/business management.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "alexey-max-fedorov/gaia-ai",
+    "path": "HADES_SKILL.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

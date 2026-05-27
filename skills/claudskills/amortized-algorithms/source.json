@@ -1,0 +1,18 @@
+{
+  "name": "amortized-algorithms",
+  "slug": "amortized-algorithms",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/amortized-algorithms/",
+  "download_url": "https://claudskills.com/skills/amortized-algorithms/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when analyzing sequences of data-structure operations with aggregate analysis, accounting credits, potential functions, binary counters, multipop stacks, dynamic tables, resizing policies, or amortized versus average-case reasoning",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

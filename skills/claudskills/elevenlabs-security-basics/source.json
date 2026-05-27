@@ -1,0 +1,18 @@
+{
+  "name": "elevenlabs-security-basics",
+  "slug": "elevenlabs-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/elevenlabs-security-basics/",
+  "download_url": "https://claudskills.com/skills/elevenlabs-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply ElevenLabs security best practices for API keys, webhook HMAC validation, and voice data protection. Use when securing API keys, validating webhook signatures, or auditing ElevenLabs security configuration. Trigger: \"elevenlabs security\", \"elevenlabs secrets\", \"secure elevenlabs\", \"elevenlabs API key security\", \"elevenlabs webhook signature\", \"elevenlabs HMAC\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

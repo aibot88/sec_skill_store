@@ -1,0 +1,18 @@
+{
+  "name": "implementing-ebpf-security-monitoring",
+  "slug": "implementing-ebpf-security-monitoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-ebpf-security-monitoring/",
+  "download_url": "https://claudskills.com/skills/implementing-ebpf-security-monitoring/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implements eBPF-based security monitoring using Cilium Tetragon for real-time process execution tracking, network",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

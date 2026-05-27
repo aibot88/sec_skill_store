@@ -1,0 +1,18 @@
+{
+  "name": "tw-ecom-compliance-consumer",
+  "slug": "tw-ecom-compliance-consumer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tw-ecom-compliance-consumer/",
+  "download_url": "https://claudskills.com/skills/tw-ecom-compliance-consumer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comply with Taiwan consumer protection law (消保法) — 7-day 鑑賞期 scope and exceptions (生鮮 / 客製化 / 數位商品 / 藥品), return / refund timing, disclosure requirements, and unfair-term invalidation. Use when drafting T&C, handling return disputes, or assessing if a SKU is exempt from 鑑賞期. Do NOT use for PDPA (use `tw-ecom-compliance-pdpa`). STATUS: SKELETON — body pending.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

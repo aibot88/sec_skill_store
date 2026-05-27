@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-grimoire-navigation",
+  "slug": "agentprivacy-grimoire-navigation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-grimoire-navigation/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-grimoire-navigation/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Spellbook interconnection and traversal methodology for 0xagentprivacy. Activates when designing constellation paths, choosing which grimoire to enter for a given question, constructing spellwebs across acts/chapters/tales, or understanding how the 5 spellbooks form a coherent navigation system. Triggers: \"which spellbook\", \"constellation path\", \"spellweb\", \"grimoire\", \"act sequence\", \"tale selection\", \"cross-grimoire\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

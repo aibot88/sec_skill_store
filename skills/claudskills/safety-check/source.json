@@ -1,0 +1,18 @@
+{
+  "name": "safety-check",
+  "slug": "safety-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/safety-check/",
+  "download_url": "https://claudskills.com/skills/safety-check/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "**WORKFLOW SKILL** — Risk awareness before action. USE FOR: assessing risks (security, data integrity, compatibility, operational, reversibility) of any task at variable depth. Accepts weight: Light (quick scan), Standard (dimensional analysis), Deep (full Risk Radar with evidence). Can be invoked multiple times in the same flow with increasing weight. DO NOT USE FOR: penetration testing, compliance audits, static security analysis tools.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

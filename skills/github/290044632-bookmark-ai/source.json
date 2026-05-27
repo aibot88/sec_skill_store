@@ -1,0 +1,19 @@
+{
+  "name": "AI",
+  "slug": "290044632-bookmark-ai",
+  "source": "github",
+  "source_url": "https://github.com/290044632/bookmark/blob/587e9ce17f0ad60df5a249742bc3b06afe5e4a9a/AI/Skill.md",
+  "download_url": "https://github.com/290044632/bookmark/blob/587e9ce17f0ad60df5a249742bc3b06afe5e4a9a/AI/Skill.md",
+  "external_source_url": "https://github.com/290044632/bookmark/blob/587e9ce17f0ad60df5a249742bc3b06afe5e4a9a/AI/Skill.md",
+  "license": "",
+  "description": "书籍索引",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "290044632/bookmark",
+    "path": "AI/Skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:59+00:00"
+}

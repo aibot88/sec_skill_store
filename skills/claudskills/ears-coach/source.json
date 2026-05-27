@@ -1,0 +1,18 @@
+{
+  "name": "ears-coach",
+  "slug": "ears-coach",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ears-coach/",
+  "download_url": "https://claudskills.com/skills/ears-coach/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Coach for EARS-formatted requirements. Activate when authoring or reviewing /specs/<cap>/spec.md, .axis/changes/<id>/delta.md, or any requirement statement.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

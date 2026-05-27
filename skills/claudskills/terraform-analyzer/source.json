@@ -1,0 +1,18 @@
+{
+  "name": "terraform-analyzer",
+  "slug": "terraform-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/terraform-analyzer/",
+  "download_url": "https://claudskills.com/skills/terraform-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Specialized skill for analyzing Terraform configurations. Supports parsing, security scanning (tfsec, checkov), cost estimation (infracost), drift detection, and plan visualization across AWS, Azure, and GCP.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

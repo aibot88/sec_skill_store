@@ -1,0 +1,18 @@
+{
+  "name": "block-unsafe-agent-actions-and-scan-newly-added-skills-with-agen",
+  "slug": "block-unsafe-agent-actions-and-scan-newly-added-skills-with-agen",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/block-unsafe-agent-actions-and-scan-newly-added-skills-with-agen/",
+  "download_url": "https://claudskills.com/skills/block-unsafe-agent-actions-and-scan-newly-added-skills-with-agen/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Add a runtime guard that evaluates agent actions, blocks dangerous commands or secret exposure, and audits new skills before they run.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

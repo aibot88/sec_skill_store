@@ -1,0 +1,18 @@
+{
+  "name": "openclaw-traffic-guardian",
+  "slug": "openclaw-traffic-guardian",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/openclaw-traffic-guardian/",
+  "download_url": "https://claudskills.com/skills/openclaw-traffic-guardian/SKILL.md",
+  "external_source_url": "",
+  "license": "AGPL-3.0",
+  "description": "OpenClaw runtime traffic monitoring baseline for opt-in HTTP/HTTPS proxy inspection, egress detection, and inbound injection detection.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

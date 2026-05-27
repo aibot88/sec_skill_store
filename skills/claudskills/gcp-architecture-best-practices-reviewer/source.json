@@ -1,0 +1,18 @@
+{
+  "name": "gcp-architecture-best-practices-reviewer",
+  "slug": "gcp-architecture-best-practices-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-architecture-best-practices-reviewer/",
+  "download_url": "https://claudskills.com/skills/gcp-architecture-best-practices-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Evidence-backed review of Google Cloud Platform architecture against GCP best practices and CIS GCP Foundation Benchmark concepts. Use when reviewing Terraform, Kubernetes/GKE manifests, network topology, IAM, Cloud SQL, KMS, Cloud Storage, Secret Manager, or CI/CD config for security, reliability, cost, and compliance gaps. Read-only — produces findings only.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "faustjs-headless-wordpress-toolkit-nextjs",
+  "slug": "faustjs-headless-wordpress-toolkit-nextjs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/faustjs-headless-wordpress-toolkit-nextjs/",
+  "download_url": "https://claudskills.com/skills/faustjs-headless-wordpress-toolkit-nextjs/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Faust.js by WP Engine is a JavaScript framework and WordPress plugin that streamlines building headless WordPress sites with Next.js. It handles data fetching via WPGraphQL, authentication, content previews, and server-side rendering, providing a production-ready bridge between WordPress as a CMS and React-based frontends.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

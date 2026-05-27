@@ -1,0 +1,18 @@
+{
+  "name": "sales-rimo",
+  "slug": "sales-rimo",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-rimo/",
+  "download_url": "https://claudskills.com/skills/sales-rimo/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Rimo Voice platform help — Japanese-optimized AI meeting transcription and summarization with ISO 27001/27017 compliance and Japan-hosted data. Use when evaluating Rimo Voice for a Japanese-first team, setting up bot recording for Zoom/Teams/Meet/Webex, configuring custom dictionaries for domain terminology, troubleshooting transcription accuracy for Japanese or English, comparing Rimo to other note-takers for Japanese meetings, or understanding Rimo pricing (Solo $9/mo, Business $15/mo launch). Do NOT use for general note-taker comparison across all tools (use /sales-note-taker) or sales coaching program design (use /sales-coaching).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-enablement",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

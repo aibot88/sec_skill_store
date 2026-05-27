@@ -1,0 +1,18 @@
+{
+  "name": "investigating-insider-threat-indicators",
+  "slug": "investigating-insider-threat-indicators",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/investigating-insider-threat-indicators/",
+  "download_url": "https://claudskills.com/skills/investigating-insider-threat-indicators/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Investigates insider threat indicators including data exfiltration attempts, unauthorized access patterns, policy",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "incident-response",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

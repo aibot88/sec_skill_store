@@ -1,0 +1,18 @@
+{
+  "name": "liku-orchestrator",
+  "slug": "liku-orchestrator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/liku-orchestrator/",
+  "download_url": "https://claudskills.com/skills/liku-orchestrator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Path-grounded multi-agent orchestration using the Liku directory hierarchy (skills.xml inheritance, todo.md + LikuErrors.md audit trail, SQLite memory). Use when you need to initialize Liku, generate an agent bundle for a specific Liku/* residence path, or expose Liku as an MCP server for Gemini-CLI, Claude Code, Copilot-CLI, or ChatGPT Codex.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

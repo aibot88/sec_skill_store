@@ -1,0 +1,18 @@
+{
+  "name": "app-store-review",
+  "slug": "app-store-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/app-store-review/",
+  "download_url": "https://claudskills.com/skills/app-store-review/SKILL.md",
+  "external_source_url": "",
+  "license": "NOASSERTION",
+  "description": "Prepare for App Store review and prevent rejections. Covers App Store review guidelines, app rejection reasons, PrivacyInfo.xcprivacy privacy manifest requirements, required API reason codes, in-app purchase IAP and StoreKit rules, App Store Guidelines compliance, ATT App Tracking Transparency, EU DMA Digital Markets Act, HIG compliance checklist, app submission preparation, review preparation, metadata requirements, entitlements, widgets, and Live Activities review rules. Use when preparing for App Store submission, fixing rejection reasons, auditing privacy manifests, implementing ATT consent flow, configuring StoreKit IAP, or checking HIG compliance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "operations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

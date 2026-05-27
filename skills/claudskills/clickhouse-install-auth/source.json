@@ -1,0 +1,18 @@
+{
+  "name": "clickhouse-install-auth",
+  "slug": "clickhouse-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clickhouse-install-auth/",
+  "download_url": "https://claudskills.com/skills/clickhouse-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install @clickhouse/client and configure authentication to ClickHouse Cloud or self-hosted. Use when setting up a new ClickHouse project, configuring connection strings, or initializing the official Node.js client. Trigger: \"install clickhouse\", \"setup clickhouse client\", \"clickhouse auth\", \"connect to clickhouse\", \"clickhouse credentials\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

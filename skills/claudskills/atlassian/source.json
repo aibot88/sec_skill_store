@@ -1,0 +1,18 @@
+{
+  "name": "atlassian",
+  "slug": "atlassian",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/atlassian/",
+  "download_url": "https://claudskills.com/skills/atlassian/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage Jira issues and Confluence wiki pages in Atlassian Cloud. Use when: (1) searching/creating/updating Jira issues with JQL, (2) searching/reading/creating Confluence pages with CQL, (3) managing Jira workflows, transitions, and comments, (4) browsing Confluence spaces and page hierarchies. Supports OAuth 2.1 via MCP server (recommended) or API token authentication (fallback).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "knowledge-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

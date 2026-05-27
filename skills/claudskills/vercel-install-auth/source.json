@@ -1,0 +1,18 @@
+{
+  "name": "vercel-install-auth",
+  "slug": "vercel-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vercel-install-auth/",
+  "download_url": "https://claudskills.com/skills/vercel-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install Vercel CLI and configure API token authentication. Use when setting up Vercel for the first time, creating access tokens, or initializing a project with vercel link. Trigger with phrases like \"install vercel\", \"setup vercel\", \"vercel auth\", \"configure vercel token\", \"vercel login\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

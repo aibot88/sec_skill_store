@@ -1,0 +1,18 @@
+{
+  "name": "security-issue-invalidate",
+  "slug": "security-issue-invalidate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-issue-invalidate/",
+  "download_url": "https://claudskills.com/skills/security-issue-invalidate/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Close an `<tracker>` tracking issue as invalid: apply the `invalid` label, remove the scope label, post a short closing comment, archive the item from the project board, and — for trackers imported from `<security-list>` — draft a polite-but-firm reply to the reporter on the original Gmail thread explaining the team's reasoning (extracted from the tracker's discussion). For trackers opened via `security-issue-import-from-pr`, the email-draft step is skipped per the *no outreach to the PR author* rule of that skill.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

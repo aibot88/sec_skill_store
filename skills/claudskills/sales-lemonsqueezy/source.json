@@ -1,0 +1,18 @@
+{
+  "name": "sales-lemonsqueezy",
+  "slug": "sales-lemonsqueezy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-lemonsqueezy/",
+  "download_url": "https://claudskills.com/skills/sales-lemonsqueezy/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Lemon Squeezy platform help — payments, subscriptions, tax compliance, digital product delivery, license keys, and checkout as a merchant of record. Use when setting up a Lemon Squeezy store, configuring subscriptions or usage-based billing, generating or validating license keys, webhooks aren't firing or Cloudflare is blocking them, payouts are delayed or frozen, or choosing between Lemon Squeezy vs Gumroad vs Paddle. Do NOT use for general email marketing strategy (use /sales-email-marketing) or checkout optimization strategy (use /sales-checkout).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dart-oss-fresh",
+  "slug": "dart-oss-fresh",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dart-oss-fresh/",
+  "download_url": "https://claudskills.com/skills/dart-oss-fresh/SKILL.md",
+  "external_source_url": "",
+  "license": "BSD-3-Clause",
+  "description": "学习 felangel/fresh 开源项目，通过 OAuth Token 自动刷新库理解 Dart 异步编程模式（Future、拦截器、Stream、网络请求链），掌握实际异步架构设计。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-creative",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

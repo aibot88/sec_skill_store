@@ -1,0 +1,18 @@
+{
+  "name": "bitrix-database",
+  "slug": "bitrix-database",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bitrix-database/",
+  "download_url": "https://claudskills.com/skills/bitrix-database/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Покрывает прямую работу с базой Bitrix — Application::getConnection(), Connection, MysqliConnection, SqlHelper, SqlExpression, сырые SQL-запросы через query()/queryExecute()/queryScalar(), транзакции (startTransaction/commitTransaction/rollbackTransaction), DDL и миграции схем, bulk-операции (insertBatch, addMulti), дополнительные подключения через секцию connections в .settings.php. Применяется когда ORM недостаточно — массовые операции, raw SQL, миграции, работа с внешними базами и построение кастомных запросов. Ключевые термины — Connection, SqlHelper, SqlExpression, transaction, raw SQL, bulk insert, DDL, migration.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

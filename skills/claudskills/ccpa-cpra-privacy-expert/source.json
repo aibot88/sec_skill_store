@@ -1,0 +1,18 @@
+{
+  "name": "ccpa-cpra-privacy-expert",
+  "slug": "ccpa-cpra-privacy-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ccpa-cpra-privacy-expert/",
+  "download_url": "https://claudskills.com/skills/ccpa-cpra-privacy-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT + Commons Clause",
+  "description": "CCPA and CPRA privacy compliance automation. Audits organizations for California privacy law compliance, maps personal information flows, validates consumer rights readiness, and checks technical safeguards. Use for CCPA compliance assessments, CPRA readiness checks, privacy policy review, consumer rights handling, data mapping, and California privacy audits.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

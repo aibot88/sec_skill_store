@@ -1,0 +1,19 @@
+{
+  "name": "book-app-project",
+  "slug": "infogram-yoshida-aiko-book-app-project-book-app-project",
+  "source": "github",
+  "source_url": "https://github.com/infogram-yoshida-aiko/book-app-project/blob/1b314ee8beef203a730fff3f395882ce5f4e6098/book-app-project/security-audit-skill.md",
+  "download_url": "https://github.com/infogram-yoshida-aiko/book-app-project/blob/1b314ee8beef203a730fff3f395882ce5f4e6098/book-app-project/security-audit-skill.md",
+  "external_source_url": "https://github.com/infogram-yoshida-aiko/book-app-project/blob/1b314ee8beef203a730fff3f395882ce5f4e6098/book-app-project/security-audit-skill.md",
+  "license": "",
+  "description": "本のコレクションを管理して表示するプロジェクト",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "infogram-yoshida-aiko/book-app-project",
+    "path": "book-app-project/security-audit-skill.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

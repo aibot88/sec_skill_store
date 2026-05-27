@@ -1,0 +1,18 @@
+{
+  "name": "organization-best-practices",
+  "slug": "organization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/organization/",
+  "download_url": "https://claudskills.com/skills/organization/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configure multi-tenant organizations, manage members and invitations, define custom roles and permissions, set up teams, and implement RBAC using Better Auth's organization plugin. Use when users need org setup, team management, member roles, access control, or the Better Auth organization plugin.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

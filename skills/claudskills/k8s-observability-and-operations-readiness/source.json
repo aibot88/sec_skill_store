@@ -1,0 +1,18 @@
+{
+  "name": "k8s-observability-and-operations-readiness",
+  "slug": "k8s-observability-and-operations-readiness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/k8s-observability-and-operations-readiness/",
+  "download_url": "https://claudskills.com/skills/k8s-observability-and-operations-readiness/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when wiring metrics, logs, traces, and operational readiness for a Kubernetes workload or namespace after operations and reliability have decided the observability substrate, SLOs, and runbook hooks. Produces ServiceMonitor/PodMonitor scrape wiring, kube-state-metrics and cAdvisor signal coverage, log-shipping configuration (Fluent Bit / Vector / Loki / cloud-native), OpenTelemetry collector wiring for traces, SLO alert rules, audit-log collection, and runbook inputs for pod-eviction storms, ImagePullBackOff sprees, and node-pressure incidents. Do not use for base manifest authoring, network/identity policy, autoscaler tuning, image hardening, or the observability backend/substrate decision and cluster provisioning; use the other Family G archetype skills (substrate selection is upstream; cluster provisioning is out of family).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

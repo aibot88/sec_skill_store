@@ -1,0 +1,18 @@
+{
+  "name": "notify-slack",
+  "slug": "notify-slack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/notify-slack/",
+  "download_url": "https://claudskills.com/skills/notify-slack/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Slack chat.postMessage を叩く共通シェル関数。~/.config/patrol/secrets.sh の SLACK_BOT_TOKEN / SLACK_CHANNEL_ID を読んで投稿する。メンション付き通知はユーザーの U08RPS2BLUD を文字列に含める。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

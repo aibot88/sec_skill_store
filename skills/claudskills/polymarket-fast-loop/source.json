@@ -1,0 +1,18 @@
+{
+  "name": "polymarket-fast-loop",
+  "slug": "polymarket-fast-loop",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/polymarket-fast-loop/",
+  "download_url": "https://claudskills.com/skills/polymarket-fast-loop/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Trade Polymarket BTC 5-minute and 15-minute fast markets using CEX price momentum signals via Simmer API. Default signal is Binance BTC/USDT klines. Use when user wants to trade sprint/fast markets, automate short-term crypto trading, or use CEX momentum as a Polymarket signal.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:56+00:00"
+}

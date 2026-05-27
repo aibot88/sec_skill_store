@@ -1,0 +1,18 @@
+{
+  "name": "figma-security-basics",
+  "slug": "figma-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/figma-security-basics/",
+  "download_url": "https://claudskills.com/skills/figma-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Secure Figma API tokens, configure scopes, and validate webhook signatures. Use when securing API keys, implementing least-privilege scopes, or auditing Figma security configuration. Trigger with phrases like \"figma security\", \"figma secrets\", \"secure figma token\", \"figma scopes\", \"figma webhook verify\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

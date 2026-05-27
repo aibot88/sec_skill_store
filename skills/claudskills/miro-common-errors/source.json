@@ -1,0 +1,18 @@
+{
+  "name": "miro-common-errors",
+  "slug": "miro-common-errors",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/miro-common-errors/",
+  "download_url": "https://claudskills.com/skills/miro-common-errors/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Diagnose and fix Miro REST API v2 errors by HTTP status code. Use when encountering Miro API errors, debugging failed requests, or troubleshooting authentication and permission issues. Trigger with phrases like \"miro error\", \"fix miro\", \"miro not working\", \"debug miro\", \"miro 401\", \"miro 403\", \"miro 429\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

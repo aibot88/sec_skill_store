@@ -1,0 +1,18 @@
+{
+  "name": "glean-security-basics",
+  "slug": "glean-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/glean-security-basics/",
+  "download_url": "https://claudskills.com/skills/glean-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Token security: Indexing tokens have write access -- never expose in frontend. Trigger: \"glean security basics\", \"security-basics\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

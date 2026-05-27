@@ -1,0 +1,18 @@
+{
+  "name": "sqlite-vec-vector-search-extension-sqlite",
+  "slug": "sqlite-vec-vector-search-extension-sqlite",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sqlite-vec-vector-search-extension-sqlite/",
+  "download_url": "https://claudskills.com/skills/sqlite-vec-vector-search-extension-sqlite/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "sqlite-vec is a lightweight SQLite extension for vector similarity search. Written in pure C with zero dependencies, it runs anywhere SQLite runs—Linux, macOS, Windows, WASM in browsers, and Raspberry Pis—and supports float, int8, and binary vector storage.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

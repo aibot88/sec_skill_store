@@ -1,0 +1,18 @@
+{
+  "name": "astro-accessibility",
+  "slug": "astro-accessibility",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/astro-accessibility/",
+  "download_url": "https://claudskills.com/skills/astro-accessibility/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when implementing accessibility in Astro, WCAG compliance in Astro, Astro ARIA patterns, keyboard navigation in Astro components, screen reader support in Astro, Astro semantic HTML, focus management in Astro, accessible forms in Astro, Astro accessibility testing, axe-core integration with Astro, accessible Astro islands, alt text for Astro images, focus trapping in modals, accessible view transitions, or color contrast requirements.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

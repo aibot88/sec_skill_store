@@ -1,0 +1,18 @@
+{
+  "name": "xlsx-author",
+  "slug": "xlsx-author",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/xlsx-author/",
+  "download_url": "https://claudskills.com/skills/xlsx-author/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Produce a .xlsx file on disk (headless) instead of driving a live Excel workbook — for managed-agent sessions with no open Office app.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

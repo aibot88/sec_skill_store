@@ -1,0 +1,18 @@
+{
+  "name": "threat-model-analyst",
+  "slug": "threat-model-analyst",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/threat-model-analyst/",
+  "download_url": "https://claudskills.com/skills/threat-model-analyst/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Full STRIDE-A threat model analysis and incremental update skill for repositories and systems. Supports two modes: (1) Single analysis — full STRIDE-A threat model of a repository, producing architecture overviews, DFD diagrams, STRIDE-A analysis, prioritized findings, and executive assessments. (2) Incremental analysis — takes a previous threat model report as baseline, compares the codebase at the latest (or a given commit), and produces an updated report with change tracking (new, resolved, still-present threats), STRIDE heatmap, findings diff, and an embedded HTML comparison. Only activate when the user explicitly requests a threat model analysis, incremental update, or invokes /threat-model-analyst directly.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "audit-and-normalize-spdx-license-headers-before-releasing-or-ope",
+  "slug": "audit-and-normalize-spdx-license-headers-before-releasing-or-ope",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-and-normalize-spdx-license-headers-before-releasing-or-ope/",
+  "download_url": "https://claudskills.com/skills/audit-and-normalize-spdx-license-headers-before-releasing-or-ope/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use REUSE when an agent needs file-level licensing clarity instead of guessing from a single top-level LICENSE file. The agent checks compliance, adds or verifies SPDX headers, pulls missing license texts into LICENSES/, and produces a concrete remediation list or SPDX export.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

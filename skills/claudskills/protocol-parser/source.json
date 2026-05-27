@@ -1,0 +1,18 @@
+{
+  "name": "protocol-parser",
+  "slug": "protocol-parser",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/protocol-parser/",
+  "download_url": "https://claudskills.com/skills/protocol-parser/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Specialized skill for binary and text protocol parsing and serialization. Design and validate protocol message formats, generate parser code from specifications, implement state machine parsing, and handle endianness and byte alignment.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

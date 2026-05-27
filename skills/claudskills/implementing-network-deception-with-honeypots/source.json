@@ -1,0 +1,18 @@
+{
+  "name": "implementing-network-deception-with-honeypots",
+  "slug": "implementing-network-deception-with-honeypots",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-network-deception-with-honeypots/",
+  "download_url": "https://claudskills.com/skills/implementing-network-deception-with-honeypots/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Deploy and manage network honeypots using OpenCanary, T-Pot, or Cowrie to detect unauthorized access, lateral",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

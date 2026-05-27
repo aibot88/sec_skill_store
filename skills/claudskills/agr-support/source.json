@@ -1,0 +1,18 @@
+{
+  "name": "agr-support",
+  "slug": "agr-support",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agr-support/",
+  "download_url": "https://claudskills.com/skills/agr-support/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Help users with agr/agrx CLI questions, troubleshooting, and best practices. Use when users ask about installing resources, syncing, local authoring, dependency management, repository setup, or troubleshooting agr/agrx commands. Provides guided, step-by-step instructions with examples.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

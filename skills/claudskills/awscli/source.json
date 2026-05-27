@@ -1,0 +1,18 @@
+{
+  "name": "awscli",
+  "slug": "awscli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/awscli/",
+  "download_url": "https://claudskills.com/skills/awscli/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Referência e guia de uso do AWS CLI para gerenciar recursos AWS: autenticação, IAM, EKS, ECR, S3, RDS, Secrets Manager e VPC. Use quando: provisionar ou gerenciar recursos AWS via linha de comando, scripts de automação ou pipelines CI/CD.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:00+00:00"
+}

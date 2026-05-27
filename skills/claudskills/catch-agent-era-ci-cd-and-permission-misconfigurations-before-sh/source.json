@@ -1,0 +1,18 @@
+{
+  "name": "catch-agent-era-ci-cd-and-permission-misconfigurations-before-sh",
+  "slug": "catch-agent-era-ci-cd-and-permission-misconfigurations-before-sh",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/catch-agent-era-ci-cd-and-permission-misconfigurations-before-sh/",
+  "download_url": "https://claudskills.com/skills/catch-agent-era-ci-cd-and-permission-misconfigurations-before-sh/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run Ship Safe before a release when an agent needs one pre-ship pass for CI/CD misconfigurations, permission risks, secrets exposure, MCP-related hazards, and dependency issues.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

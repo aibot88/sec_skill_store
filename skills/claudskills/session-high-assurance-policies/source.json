@@ -1,0 +1,18 @@
+{
+  "name": "session-high-assurance-policies",
+  "slug": "session-high-assurance-policies",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/session-high-assurance-policies/",
+  "download_url": "https://claudskills.com/skills/session-high-assurance-policies/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Enforce step-up authentication for sensitive pages/objects using High Assurance session level and login flow policies. NOT for initial MFA enrollment UX.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

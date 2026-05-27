@@ -1,0 +1,18 @@
+{
+  "name": "google-continuous-fuzzing",
+  "slug": "continuous-fuzzing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/continuous-fuzzing/",
+  "download_url": "https://claudskills.com/skills/continuous-fuzzing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply Google's continuous fuzzing methodology using OSS-Fuzz and ClusterFuzz. Emphasizes coverage-guided fuzzing, automated bug triage, and integration into CI/CD. Use when building robust testing infrastructure or finding security vulnerabilities at scale.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

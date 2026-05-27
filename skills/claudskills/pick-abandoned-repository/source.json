@@ -1,0 +1,18 @@
+{
+  "name": "pick-abandoned-repository",
+  "slug": "pick-abandoned-repository",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pick-abandoned-repository/",
+  "download_url": "https://claudskills.com/skills/pick-abandoned-repository/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill to pick exactly one GitHub repository that needs a refresh: scan a given list of owners, collect signals of neglect — long stretches without commits, failing or absent CI runs on the default branch, outdated or vulnerable dependencies — score every candidate, and pick the single most neglected repository. If every repository looks reasonably fresh, still pick one — the least fresh of the bunch — because the contract of this skill is to always end with exactly one repository chosen. One repository per run, then stop.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

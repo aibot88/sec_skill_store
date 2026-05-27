@@ -1,0 +1,18 @@
+{
+  "name": "convex-security-audit",
+  "slug": "convex-security-audit-blocknavi-convex-batch-process",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/convex-security-audit-blocknavi-convex-batch-process/",
+  "download_url": "https://claudskills.com/skills/convex-security-audit-blocknavi-convex-batch-process/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deep security review patterns for authorization logic, data access boundaries, action isolation, rate limiting, and protecting sensitive operations",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

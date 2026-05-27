@@ -1,0 +1,18 @@
+{
+  "name": "local-clickhouse",
+  "slug": "local-clickhouse",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/local-clickhouse/",
+  "download_url": "https://claudskills.com/skills/local-clickhouse/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Install, configure, and validate local ClickHouse for gapless-crypto-clickhouse development and backtesting. Use when setting up local development environment, enabling offline mode, improving query performance for backtesting, or running E2E validation. Includes mise/Homebrew/apt installation, mode detection, connection validation, and E2E workflow scripts.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

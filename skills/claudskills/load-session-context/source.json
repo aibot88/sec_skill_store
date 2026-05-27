@@ -1,0 +1,18 @@
+{
+  "name": "load-session-context",
+  "slug": "load-session-context",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/load-session-context/",
+  "download_url": "https://claudskills.com/skills/load-session-context/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "MemGPT-style virtual context-load egy 11.11 session indulásakor. B-2 sprint Week 3 rewrite (2026-05-13): a klasszikus aggressive 15-20K token-os cat-jel helyett **lean ~5K token** working+top-K episodic + semantic on-demand. B-1 Week 3-4 bővítés (2026-05-17): **KO-DB Top-K structured facts** réteg (13K+ fact, cross-source-corroboration ranking, instant SQLite). Production-stack v2 (2026-05-20): **RRF hybrid-fusion** retrieval (vault-search + agentmemory), 77.5% avg R@5 (+23pp), drop-in via `vault-search-fusion` CLI. Triggers: amikor a user 11.11start-ot használ, vagy \"load context for <projekt>\" kérés.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

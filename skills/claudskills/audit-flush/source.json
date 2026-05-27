@@ -1,0 +1,18 @@
+{
+  "name": "audit-flush",
+  "slug": "audit-flush",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-flush/",
+  "download_url": "https://claudskills.com/skills/audit-flush/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Inspect and flush staged audit-trail entries to the remote trail repository. Use when the user asks to \"flush audit trail\", \"show what's pending in audit trail\", \"dry-run audit flush\", \"retry audit pending\", or when diagnosing why a previous auto-flush was skipped (secret hit, push failure, manual mode).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "building-stories-with-tdd",
+  "slug": "building-stories-with-tdd",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-stories-with-tdd/",
+  "download_url": "https://claudskills.com/skills/building-stories-with-tdd/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert for building user stories using Test-Driven Development (TDD) with NestJS and @lenne.tech/nest-server. Implements new features by creating story tests first in tests/stories/, then uses generating-nest-servers skill to develop code until all tests pass. Ensures high code quality and security compliance. Use in projects with @lenne.tech/nest-server in package.json dependencies (supports monorepos with projects/*, packages/*, apps/* structure).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

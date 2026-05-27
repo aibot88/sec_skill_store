@@ -1,0 +1,18 @@
+{
+  "name": "mastra-system-check",
+  "slug": "mastra-system-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mastra-system-check/",
+  "download_url": "https://claudskills.com/skills/mastra-system-check/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive system check for Mastra AI agent projects. Validates configuration, agents, workflows, memory, tools, prompts, and security across 66 rules organized by priority. Use when setting up new projects, debugging issues, reviewing code, or preparing for production deployment.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

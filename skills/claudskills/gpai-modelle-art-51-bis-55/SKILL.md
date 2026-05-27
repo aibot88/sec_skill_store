@@ -1,0 +1,75 @@
+---
+name: gpai-modelle-art-51-bis-55
+description: "Pflichten fuer Anbieter von General-Purpose-KI-Modellen (GPAI) nach Art. 51 bis 55 KI-VO: technische Dokumentation Anhang XI Urheberrechts-Compliance-Strategie summary of training content. Abgrenzung GPAI-Modell versus GPAI-System."
+---
+
+# GPAI-Modelle — Art. 51 bis 55 KI-VO
+
+## Zweck
+
+Art. 51 bis 55 KI-VO enthalten einen eigenen Pflichtenkatalog für Anbieter von GPAI-Modellen (General-Purpose-KI-Modelle). Diese Pflichten gelten unabhängig davon, ob das GPAI-Modell als Hochrisiko-KI eingesetzt wird. Sie sind seit dem 2. August 2025 anwendbar.
+
+## Abgrenzung: GPAI-Modell versus GPAI-System
+
+**GPAI-Modell (Art. 3 Nr. 63 KI-VO):** Ein KI-Modell, das mit großer Datenmenge mit selbstüberwachtem Lernen in großem Maßstab trainiert wird und eine Reihe von allgemeinen Aufgaben erfüllen kann, auch wenn es für einen bestimmten spezifischeren Zweck eingesetzt wird.
+
+**GPAI-System (Art. 3 Nr. 66 KI-VO):** Ein KI-System, das auf einem GPAI-Modell basiert und für eine Vielzahl von Zwecken eingesetzt werden kann.
+
+**Praxisrelevanz:** Das GPAI-Modell ist die Grundlage (z.B. ein Foundation-Modell); das GPAI-System ist die Anwendung darauf (z.B. ein Chatbot oder eine spezifische Anwendung). Pflichten treffen primär den Modellanbieter.
+
+→ Detailprüfung: `gpai-vorliegen-art-3-nr-63`
+
+## Pflicht 1 — Technische Dokumentation (Art. 53 Abs. 1 lit. a KI-VO i.V.m. Anhang XI KI-VO)
+
+Anbieter von GPAI-Modellen müssen eine technische Dokumentation erstellen und aktuell halten. Der Inhalt richtet sich nach Anhang XI KI-VO und umfasst:
+
+- Allgemeine Beschreibung des GPAI-Modells einschließlich seines Bestimmungszwecks
+- Beschreibung der Modellarchitektur und der Anzahl der Parameter
+- Informationen über Trainingsverfahren und -daten (auf hoher Abstraktionsebene)
+- Beschreibung des Leistungsniveaus anhand geeigneter Metriken
+- Bekannte Grenzen und Schwächen
+
+**Prüffragen:**
+- Liegt eine vollständige technische Dokumentation nach Anhang XI vor?
+- Wurde die Dokumentation bei wesentlichen Modellanpassungen aktualisiert?
+
+## Pflicht 2 — Informationen und Dokumentation für nachgelagerte Anbieter (Art. 53 Abs. 1 lit. b KI-VO)
+
+Anbieter von GPAI-Modellen müssen nachgelagerten Anbietern, die das Modell in ihre KI-Systeme integrieren, ausreichende Informationen und Dokumentation bereitstellen, damit diese ihre eigenen Pflichten nach der KI-VO erfüllen können.
+
+**Prüffragen:**
+- Stellen Sie Ihren Nutzern (Entwicklern, Integrierern) ausreichende technische Informationen bereit?
+- Enthält Ihre Dokumentation Hinweise auf bekannte Risiken und Einschränkungen, die für Hochrisiko-Einsätze relevant sein könnten?
+
+## Pflicht 3 — Urheberrechts-Compliance-Strategie (Art. 53 Abs. 1 lit. c KI-VO)
+
+Anbieter von GPAI-Modellen müssen eine Strategie zur Einhaltung des Urheberrechts der Union implementieren. Diese Pflicht ist eng mit Art. 4 Abs. 3 der Richtlinie (EU) 2019/790 (DSM-Richtlinie) verknüpft.
+
+**Inhalt der Strategie:**
+- Maßnahmen zur Erkennung und Respektierung von Text-und-Data-Mining-Vorbehalten (TDM-Vorbehalte nach Art. 4 Abs. 3 DSM-Richtlinie)
+- Verfahren zur Überprüfung von Trainingsdaten auf urheberrechtlich geschützte Inhalte
+- Dokumentation, welche Quellen für das Training verwendet wurden
+
+**Prüffragen:**
+- Wurde bei der Datenerhebung für das Training geprüft, ob Webseiten oder Quellen einen TDM-Vorbehalt haben (z.B. robots.txt, Nutzungsbedingungen)?
+- Wie wird mit urheberrechtlich geschützten Trainingsdaten umgegangen?
+
+## Pflicht 4 — Summary of Training Content (Art. 53 Abs. 1 lit. d KI-VO)
+
+Anbieter von GPAI-Modellen müssen eine ausreichend detaillierte Zusammenfassung der für das Training verwendeten Inhalte veröffentlichen, gemäß einem Format, das das Europäische KI-Büro bereitstellt.
+
+**Inhalt:**
+- Wesentliche Datenquellen
+- Verarbeitungsschritte
+- Umfang der Trainingsdaten (Größenordnung)
+
+**Prüffragen:**
+- Liegt eine solche Zusammenfassung vor und ist sie veröffentlicht?
+
+## Open-Source-Erleichterungen (Art. 53 Abs. 2 KI-VO)
+
+Für GPAI-Modelle mit offenen Gewichten (Open-Source-Modelle) gelten reduzierte Dokumentationspflichten — sofern das Modell kein systemisches Risiko darstellt (unter 10e25 FLOP).
+
+---
+
+Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Die KI-VO ist in Auslegung und Konkretisierung dynamisch; Leitlinien der Kommission und Durchführungsrechtsakte sind laufend zu beobachten.

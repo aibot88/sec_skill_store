@@ -1,0 +1,18 @@
+{
+  "name": "wycheproof",
+  "slug": "wycheproof",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wycheproof/",
+  "download_url": "https://claudskills.com/skills/wycheproof/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Wycheproof provides test vectors for validating cryptographic implementations. Use when testing crypto code for known attacks and edge cases.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

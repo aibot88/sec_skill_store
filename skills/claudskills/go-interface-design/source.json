@@ -1,0 +1,18 @@
+{
+  "name": "go-interface-design",
+  "slug": "go-interface-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/go-interface-design/",
+  "download_url": "https://claudskills.com/skills/go-interface-design/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Go interface design patterns: implicit interfaces, consumer-side definition, interface compliance verification, composition, the accept-interfaces-return-structs principle, and common pitfalls. Use when designing interfaces, decoupling packages, defining contracts, reviewing interface usage, or refactoring for testability. Trigger examples: \"design interface\", \"accept interfaces return structs\", \"interface compliance\", \"consumer-side interface\", \"interface composition\". Do NOT use for HTTP handler patterns (use go-api-design) or general code review (use go-code-review).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

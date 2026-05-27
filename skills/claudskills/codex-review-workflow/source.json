@@ -1,0 +1,18 @@
+{
+  "name": "codex-review-workflow",
+  "slug": "codex-review-workflow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/codex-review-workflow/",
+  "download_url": "https://claudskills.com/skills/codex-review-workflow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automated code review workflow using OpenAI Codex CLI. Implements iterative fix-and-review cycles until code passes validation or reaches iteration limit. Use when building features requiring automated code validation, security checks, or quality assurance through Codex CLI.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

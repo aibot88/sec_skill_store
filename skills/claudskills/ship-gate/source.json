@@ -1,0 +1,18 @@
+{
+  "name": "ship-gate",
+  "slug": "ship-gate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ship-gate/",
+  "download_url": "https://claudskills.com/skills/ship-gate/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Pre-production audit that scans a codebase for security, database, deployment, code quality, AI/LLM, dependency, frontend, and observability issues. Intercepts deploy commands and blocks until critical items pass. Stack-agnostic. Use for \"run ship gate\", \"am I ready to ship\", \"pre-launch audit\", \"can I deploy\", \"push to production\", \"go live checklist\", \"preflight check\". Not for CI/CD setup or infra provisioning.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

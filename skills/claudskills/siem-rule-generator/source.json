@@ -1,0 +1,18 @@
+{
+  "name": "siem-rule-generator",
+  "slug": "siem-rule-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/siem-rule-generator/",
+  "download_url": "https://claudskills.com/skills/siem-rule-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Siem Rule Generator - Auto-activating skill for Security Advanced. Triggers on: siem rule generator, siem rule generator Part of the Security Advanced skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "statute-analysis",
+  "slug": "statute-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/statute-analysis/",
+  "download_url": "https://claudskills.com/skills/statute-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT + Commons Clause",
+  "description": "Statute and regulation interpretation framework. Use when reading statutes, classifying requirements, analyzing operative keywords, applying canons of construction, or mapping compliance obligations from legislative text.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "deploying-decoy-files-for-ransomware-detection",
+  "slug": "deploying-decoy-files-for-ransomware-detection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deploying-decoy-files-for-ransomware-detection/",
+  "download_url": "https://claudskills.com/skills/deploying-decoy-files-for-ransomware-detection/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Deploys canary files (honeytokens) across file systems to detect ransomware encryption activity in real time.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

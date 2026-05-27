@@ -1,0 +1,18 @@
+{
+  "name": "vera-stat-application-pipeline",
+  "slug": "vera-stat-application-pipeline",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vera-stat-application-pipeline/",
+  "download_url": "https://claudskills.com/skills/vera-stat-application-pipeline/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "End-to-end applied statistical research pipeline. Takes a research question and dataset, runs literature review, statistical analysis with parallel method tracks, and produces a complete manuscript (Markdown + LaTeX/PDF). Use when user says \"application pipeline\", \"applied analysis\", \"analyze my data and write paper\", \"end-to-end analysis\", or wants to go from raw data to manuscript. Covers all outcome types: continuous, binary, ordinal, nominal, count, survival, repeated measures, time series, multivariate, DOE, meta-analysis, and SEM. Human-in-the-loop by design: the skill handles the standardized workflow, while the user owns study framing, high-stakes judgment, and final sign-off.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "math-stats",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

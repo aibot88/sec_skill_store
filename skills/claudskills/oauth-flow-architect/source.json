@@ -1,0 +1,18 @@
+{
+  "name": "oauth-flow-architect",
+  "slug": "oauth-flow-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oauth-flow-architect/",
+  "download_url": "https://claudskills.com/skills/oauth-flow-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implements OAuth 2.0 and OpenID Connect authentication flows with proper security, token management, and common provider integrations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

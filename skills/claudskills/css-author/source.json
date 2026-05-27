@@ -1,0 +1,18 @@
+{
+  "name": "css-author",
+  "slug": "css-author",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/css-author/",
+  "download_url": "https://claudskills.com/skills/css-author/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Modern CSS organization with native @import, @layer cascade control, CSS nesting, design tokens, and element-focused selectors. AUTO-INVOKED when editing .css files.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "claimify",
+  "slug": "claimify",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/claimify/",
+  "download_url": "https://claudskills.com/skills/claimify/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Extract and structure claims from discourse into analyzable argument maps with logical relationships and assumptions. Use when analyzing arguments, red-teaming reasoning, synthesizing debates, or transforming conversations into structured claim networks. Triggers include \"what are the claims,\" \"analyze this argument,\" \"map the logic,\" or \"find contradictions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

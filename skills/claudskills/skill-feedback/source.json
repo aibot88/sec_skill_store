@@ -1,0 +1,18 @@
+{
+  "name": "skill-feedback",
+  "slug": "skill-feedback",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-feedback/",
+  "download_url": "https://claudskills.com/skills/skill-feedback/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Local-first self-assessment for Claude Code skills. After you use any skill (your own or someone else's), call `skill-feedback log <skill> --rating N --outcome ... [--friction \"...\"]` to append one entry to `.agent-plus/skill-feedback/<skill>.jsonl`. The skill author can then run `skill-feedback report` for an aggregate, or `skill-feedback submit <skill>` to bundle entries into a GitHub issue body for the skill's source repo. No telemetry leaves the machine unless the user explicitly runs `submit`.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

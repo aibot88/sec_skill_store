@@ -1,0 +1,18 @@
+{
+  "name": "entra-app-registration",
+  "slug": "entra-app-registration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/entra-app-registration/",
+  "download_url": "https://claudskills.com/skills/entra-app-registration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guides Microsoft Entra ID app registration, OAuth 2.0 authentication, and MSAL integration. USE FOR: create app registration, register Azure AD app, configure OAuth, set up authentication, add API permissions, generate service principal, MSAL example, console app auth, Entra ID setup, Azure AD authentication. DO NOT USE FOR: Azure RBAC or role assignments (use azure-rbac), Key Vault secrets (use azure-keyvault-expiration-audit), Azure resource security (use azure-security).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

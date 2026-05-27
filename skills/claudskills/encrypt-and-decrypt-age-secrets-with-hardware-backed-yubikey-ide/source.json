@@ -1,0 +1,18 @@
+{
+  "name": "encrypt-and-decrypt-age-secrets-with-hardware-backed-yubikey-ide",
+  "slug": "encrypt-and-decrypt-age-secrets-with-hardware-backed-yubikey-ide",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/encrypt-and-decrypt-age-secrets-with-hardware-backed-yubikey-ide/",
+  "download_url": "https://claudskills.com/skills/encrypt-and-decrypt-age-secrets-with-hardware-backed-yubikey-ide/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use age-plugin-yubikey when an agent needs age encryption tied to a physical YubiKey identity instead of software-only keys.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

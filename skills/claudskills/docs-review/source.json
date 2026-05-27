@@ -1,0 +1,18 @@
+{
+  "name": "docs-review",
+  "slug": "docs-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docs-review/",
+  "download_url": "https://claudskills.com/skills/docs-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review documentation changes for compliance with the Metabase writing style guide. Use when reviewing pull requests, files, or diffs containing documentation markdown files.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

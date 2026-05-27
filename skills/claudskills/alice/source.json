@@ -1,0 +1,18 @@
+{
+  "name": "alice",
+  "slug": "alice",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alice/",
+  "download_url": "https://claudskills.com/skills/alice/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Embrapa I/O compliance specialist. Use when user mentions 'verificar conformidade', 'Embrapa I/O compliance', 'docker compose compliance', 'conformidade', or 'alice'.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "tracking-crypto-prices",
+  "slug": "tracking-crypto-prices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tracking-crypto-prices/",
+  "download_url": "https://claudskills.com/skills/tracking-crypto-prices/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Track real-time cryptocurrency prices across exchanges with historical data and alerts. Provides price data infrastructure for dependent skills (portfolio, tax, DeFi, arbitrage). Use when checking crypto prices, monitoring markets, or fetching historical price data. Trigger with phrases like \"check price\", \"BTC price\", \"crypto prices\", \"price history\", \"get quote for\", \"what's ETH trading at\", \"show me top coins\", or \"track my watchlist\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

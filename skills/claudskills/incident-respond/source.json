@@ -1,0 +1,18 @@
+{
+  "name": "incident-respond",
+  "slug": "incident-respond",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/incident-respond/",
+  "download_url": "https://claudskills.com/skills/incident-respond/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "End-to-end incident-response playbook for a CVE actively in the wild — confirms urgency via KEV/EPSS/sightings, pulls IOCs and ATT&CK chain, fetches detection rules for installed families, evaluates patch path or workarounds, generates VEX attestation, posts a consolidated report. Use when a CVE goes hot, your dependency is named in a vendor advisory, or the team needs a one-conversation SOC response.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "operations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

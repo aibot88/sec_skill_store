@@ -1,0 +1,18 @@
+{
+  "name": "mandat-triage-versicherungsrecht",
+  "slug": "mandat-triage-versicherungsrecht",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mandat-triage-versicherungsrecht/",
+  "download_url": "https://claudskills.com/skills/mandat-triage-versicherungsrecht/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Strukturierte Eingangs-Abfrage fuer versicherungsrechtliche Mandate. Klaert Sparte (KFZ Haftpflicht Hausrat Gebaeude Lebensversicherung Berufsunfaehigkeit Krankenversicherung Rechtsschutz Industrieversicherung) Ereignis Stichtag Deckungsablehnung Hoehe der Forderung. Frist-Sofort-Check Verjaehrung drei Jahre § 195 BGB Klagefrist § 12 Abs. 3 VVG entfallen seit Reform 2008 aber AVB-Fristen pruefen Anzeigefrist Schadensmeldung. Eskalation Telefon-Sofort bei drohendem Existenzverlust (BU-Leistungsablehnung Krankheitskosten lebensbedrohlich). Routing zu deckungsanfrage-pruefen.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

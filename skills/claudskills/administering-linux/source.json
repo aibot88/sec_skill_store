@@ -1,0 +1,18 @@
+{
+  "name": "administering-linux",
+  "slug": "administering-linux",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/administering-linux/",
+  "download_url": "https://claudskills.com/skills/administering-linux/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Manage Linux systems covering systemd services, process management, filesystems, networking, performance tuning, and troubleshooting. Use when deploying applications, optimizing server performance, diagnosing production issues, or managing users and security on Linux servers.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

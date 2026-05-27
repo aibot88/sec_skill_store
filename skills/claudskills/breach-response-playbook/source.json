@@ -1,0 +1,18 @@
+{
+  "name": "breach-response-playbook",
+  "slug": "breach-response-playbook",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/breach-response-playbook/",
+  "download_url": "https://claudskills.com/skills/breach-response-playbook/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Builds a comprehensive breach response team playbook defining CSIRT and privacy team structure with named roles (incident commander, legal counsel, communications, IT forensics, DPO), escalation matrices, communication templates, pre-negotiated vendor contacts, and regulatory authority contacts organized by jurisdiction. Keywords: breach response playbook, CSIRT, incident response team, escalation matrix, communication templates, vendor contacts.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

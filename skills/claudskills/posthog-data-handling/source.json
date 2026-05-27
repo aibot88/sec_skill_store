@@ -1,0 +1,18 @@
+{
+  "name": "posthog-data-handling",
+  "slug": "posthog-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/posthog-data-handling/",
+  "download_url": "https://claudskills.com/skills/posthog-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "PostHog PII handling, GDPR compliance, consent management, data deletion, property sanitization, and privacy-safe analytics configuration. Trigger: \"posthog data\", \"posthog PII\", \"posthog GDPR\", \"posthog data retention\", \"posthog privacy\", \"posthog CCPA\", \"posthog consent\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

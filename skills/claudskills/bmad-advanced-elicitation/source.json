@@ -1,0 +1,18 @@
+{
+  "name": "bmad-advanced-elicitation",
+  "slug": "bmad-advanced-elicitation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bmad-advanced-elicitation/",
+  "download_url": "https://claudskills.com/skills/bmad-advanced-elicitation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Push the LLM to reconsider, refine, and improve its recent output. Use when user asks for deeper critique or mentions a known deeper critique method, e.g. socratic, first principles, pre-mortem, red team.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

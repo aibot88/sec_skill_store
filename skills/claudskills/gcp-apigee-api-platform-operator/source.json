@@ -1,0 +1,18 @@
+{
+  "name": "gcp-apigee-api-platform-operator",
+  "slug": "gcp-apigee-api-platform-operator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-apigee-api-platform-operator/",
+  "download_url": "https://claudskills.com/skills/gcp-apigee-api-platform-operator/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Design and operate Apigee X API proxies — rate limiting, OAuth/JWT security policies, quota plans, developer portal setup, and API product management.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

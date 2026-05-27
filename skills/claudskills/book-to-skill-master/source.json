@@ -1,0 +1,18 @@
+{
+  "name": "book-to-skill",
+  "slug": "book-to-skill-master",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/book-to-skill-master/",
+  "download_url": "https://claudskills.com/skills/book-to-skill-master/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Converts a technical book (PDF or EPUB) into a structured Claude Code skill — extracting frameworks, mental models, principles, techniques, and anti-patterns the author crystallized. Use when the user wants to study a book through Claude, apply an author's frameworks while working, or build a reusable knowledge base from any PDF or EPUB.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

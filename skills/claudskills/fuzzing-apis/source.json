@@ -1,0 +1,18 @@
+{
+  "name": "fuzzing-apis",
+  "slug": "fuzzing-apis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fuzzing-apis/",
+  "download_url": "https://claudskills.com/skills/fuzzing-apis/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure perform API fuzzing to discover edge cases, crashes, and security vulnerabilities. Use when performing specialized testing. Trigger with phrases like \"fuzz the API\", \"run fuzzing tests\", or \"discover edge cases\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:02+00:00"
+}

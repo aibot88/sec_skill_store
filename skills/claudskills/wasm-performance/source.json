@@ -1,0 +1,18 @@
+{
+  "name": "wasm-performance",
+  "slug": "wasm-performance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wasm-performance/",
+  "download_url": "https://claudskills.com/skills/wasm-performance/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "WebAssembly performance: wasm-opt binary optimization, size reduction (panic=abort, LTO, strip), profiling WASM in Chrome DevTools, memory management (linear memory, avoiding GC pressure), SIMD, and multi-threading with SharedArrayBuffer.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

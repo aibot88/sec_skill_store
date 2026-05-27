@@ -1,0 +1,18 @@
+{
+  "name": "keyarc-crypto-flows",
+  "slug": "keyarc-crypto-flows",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/keyarc-crypto-flows/",
+  "download_url": "https://claudskills.com/skills/keyarc-crypto-flows/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when implementing signup flow, login flow, team sharing, key derivation with Argon2, AES encryption operations, or RSA/ECC key management for KeyArc cryptographic workflows.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

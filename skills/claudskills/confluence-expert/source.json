@@ -1,0 +1,18 @@
+{
+  "name": "confluence-expert",
+  "slug": "confluence-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/confluence-expert/",
+  "download_url": "https://claudskills.com/skills/confluence-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Atlassian Confluence expert for creating and managing spaces, knowledge bases, and documentation. Configures space permissions and hierarchies, creates page templates with macros, sets up documentation taxonomies, designs page layouts, and manages content governance. Use when users need to build or restructure a Confluence space, design page hierarchies with permission structures, author or standardise documentation templates, embed Jira reports in pages, run knowledge base audits, or establish documentation standards and collaborative workflows.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "knowledge-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

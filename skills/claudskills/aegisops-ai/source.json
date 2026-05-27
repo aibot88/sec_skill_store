@@ -1,0 +1,18 @@
+{
+  "name": "aegisops-ai",
+  "slug": "aegisops-ai",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aegisops-ai/",
+  "download_url": "https://claudskills.com/skills/aegisops-ai/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Autonomous DevSecOps & FinOps Guardrails. Orchestrates Gemini 3 Flash to audit Linux Kernel patches, Terraform cost drifts, and K8s compliance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

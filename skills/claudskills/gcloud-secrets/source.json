@@ -1,0 +1,18 @@
+{
+  "name": "gcloud-secrets",
+  "slug": "gcloud-secrets",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcloud-secrets/",
+  "download_url": "https://claudskills.com/skills/gcloud-secrets/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage Google Cloud Secret Manager for storing and fetching environment secrets. Use when working with deployment, secrets, or gcloud commands.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

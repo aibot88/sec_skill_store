@@ -1,0 +1,18 @@
+{
+  "name": "physical-threat-modeling",
+  "slug": "physical-threat-modeling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/physical-threat-modeling/",
+  "download_url": "https://claudskills.com/skills/physical-threat-modeling/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Threat library for physical-access threats that STRIDE and OWASP Top 10 don't cover — evil-maid, DMA, hostile peripheral, travel-host, coercion, cold-boot, supply-chain implant, side-channel",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

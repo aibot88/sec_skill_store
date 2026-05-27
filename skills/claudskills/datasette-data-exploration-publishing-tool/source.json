@@ -1,0 +1,18 @@
+{
+  "name": "datasette-data-exploration-publishing-tool",
+  "slug": "datasette-data-exploration-publishing-tool",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/datasette-data-exploration-publishing-tool/",
+  "download_url": "https://claudskills.com/skills/datasette-data-exploration-publishing-tool/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Datasette is an open-source Python tool for exploring and publishing data. It turns any SQLite database into an interactive web interface with a JSON API, enabling data journalists, researchers, and developers to share datasets without writing application code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "firm-browser-audit-pack",
+  "slug": "firm-browser-audit-pack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firm-browser-audit-pack/",
+  "download_url": "https://claudskills.com/skills/firm-browser-audit-pack/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Browser automation security audit pack. Validates Playwright/Puppeteer headless configuration for dangerous arguments. 1 audit tool.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

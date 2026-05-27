@@ -1,0 +1,18 @@
+{
+  "name": "agentv-eval-review",
+  "slug": "agentv-eval-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentv-eval-review/",
+  "download_url": "https://claudskills.com/skills/agentv-eval-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when reviewing eval YAML files for quality issues, linting eval files before committing, checking eval schema compliance, or when asked to \"review these evals\", \"check eval quality\", \"lint eval files\", or \"validate eval structure\". Do NOT use for writing evals (use agentv-eval-writer) or running evals (use agentv-bench).",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

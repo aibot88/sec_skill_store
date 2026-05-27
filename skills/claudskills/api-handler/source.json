@@ -1,0 +1,18 @@
+{
+  "name": "api-handler",
+  "slug": "api-handler",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-handler/",
+  "download_url": "https://claudskills.com/skills/api-handler/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "StepLeague API route pattern using withApiHandler wrapper. Use when creating or modifying any API route in the /api directory. Keywords: API, route, endpoint, handler, auth, POST, GET, PUT, DELETE, validation.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "hashicorp-vault-secret-rotation-agent-2",
+  "slug": "hashicorp-vault-secret-rotation-agent-2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hashicorp-vault-secret-rotation-agent-2/",
+  "download_url": "https://claudskills.com/skills/hashicorp-vault-secret-rotation-agent-2/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Connects to HashiCorp Vault HTTP API for automated secret rotation workflows. Manages dynamic database credentials via Vault database secrets engine, handles PKI certificate renewal, and implements lease lifecycle management with TTL monitoring.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

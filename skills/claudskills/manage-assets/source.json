@@ -1,0 +1,18 @@
+{
+  "name": "manage-assets",
+  "slug": "manage-assets",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/manage-assets/",
+  "download_url": "https://claudskills.com/skills/manage-assets/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Finds oversized files, binary bloat, and accidental artifact commits in a repo — large files currently tracked, large blobs hiding in git history, LFS migration candidates, asset directories growing without a policy, duplicate binaries. Pure diagnosis — never edits, never deletes, never rewrites history. Hands off to manage-secrets-env if secrets are found inside blobs, to refactor-verify if history rewriting is required, to fight-repo-rot if assets are unused. Language-agnostic.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

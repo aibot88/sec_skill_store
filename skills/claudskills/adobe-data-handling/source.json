@@ -1,0 +1,18 @@
+{
+  "name": "adobe-data-handling",
+  "slug": "adobe-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/adobe-data-handling/",
+  "download_url": "https://claudskills.com/skills/adobe-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement data handling for Adobe APIs including PII redaction in logs, Firefly content policy compliance, PDF document data classification, and GDPR/CCPA data subject access requests via Adobe Privacy Service. Trigger with phrases like \"adobe data\", \"adobe PII\", \"adobe GDPR\", \"adobe data retention\", \"adobe privacy\", \"adobe content policy\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

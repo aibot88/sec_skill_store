@@ -1,0 +1,18 @@
+{
+  "name": "redirect",
+  "slug": "redirect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/redirect/",
+  "download_url": "https://claudskills.com/skills/redirect/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "AI pressure redirection — handling conflicting demands, tool failures, and competing constraints by blending with incoming force then reframing. Use when receiving contradictory instructions from different sources, during tool failure cascades where the planned approach becomes unviable, when scope pressure threatens to expand the task beyond what was asked, or when user frustration or correction needs to be absorbed rather than deflected.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

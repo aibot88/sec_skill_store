@@ -1,0 +1,18 @@
+{
+  "name": "atmos-auth",
+  "slug": "atmos-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/atmos-auth/",
+  "download_url": "https://claudskills.com/skills/atmos-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when authenticating with AWS via Atmos. Covers ATMOS_PROFILE setup, SSO login, and how Atmos automatically assumes the correct identity per stack. Use for authentication setup, SSO login issues, and permission errors.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

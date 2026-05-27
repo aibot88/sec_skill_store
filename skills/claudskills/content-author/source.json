@@ -1,0 +1,18 @@
+{
+  "name": "content-author",
+  "slug": "content-author",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/content-author/",
+  "download_url": "https://claudskills.com/skills/content-author/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Write quality content for HTML documents. Use when writing text content, prose, descriptions, or any human-readable content in HTML files. Ensures spelling and style quality.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

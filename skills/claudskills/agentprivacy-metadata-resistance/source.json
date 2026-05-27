@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-metadata-resistance",
+  "slug": "agentprivacy-metadata-resistance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-metadata-resistance/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-metadata-resistance/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Traffic analysis resistance, timing obfuscation, and metadata stripping for 0xagentprivacy swordsman operations. Activates when designing defences against metadata correlation, implementing mixnet routing, padding strategies, timing decorrelation, or any protection that targets the signals AROUND encrypted content rather than the content itself. Triggers: \"metadata\", \"traffic analysis\", \"timing attack\", \"correlation\", \"mixnet\", \"padding\", \"network fingerprint\", \"side channel\", \"metadata leakage\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

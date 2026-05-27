@@ -1,0 +1,18 @@
+{
+  "name": "specialist-review",
+  "slug": "specialist-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/specialist-review/",
+  "download_url": "https://claudskills.com/skills/specialist-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Conducts a focused review from ONE specific specialist's perspective (e.g., Security Specialist, Performance Expert). Use when the user requests \"Ask [specialist role] to review [target]\", \"Get [specialist]'s opinion on [topic]\", \"Have [role] review [code/component]\", or when they want deep expertise in ONE specific domain. Do NOT use for comprehensive multi-perspective reviews (use architecture-review instead) or for listing available specialists (use list-members instead).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

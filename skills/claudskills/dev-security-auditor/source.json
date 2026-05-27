@@ -1,0 +1,18 @@
+{
+  "name": "dev-security-auditor",
+  "slug": "dev-security-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-security-auditor/",
+  "download_url": "https://claudskills.com/skills/dev-security-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit de sécurité complet d'une application ou d'un code source. À utiliser quand l'utilisateur veut vérifier la sécurité de son projet. Se déclenche avec \"audit sécurité\", \"security audit\", \"vérifier la sécurité\", \"est-ce que mon code est sécurisé\", \"analyse de sécurité\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "threat-modeling",
+  "slug": "threat-modeling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/threat-modeling/",
+  "download_url": "https://claudskills.com/skills/threat-modeling/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Produces structured threat models for software systems using STRIDE on data flow diagrams. Generates DFDs with trust boundaries, identifies threats per element, scores risks, and defines concrete mitigations. Outputs a complete threat model Markdown document through phased, interactive delivery. Use when threat modeling a system, analyzing security threats, identifying attack surfaces, performing STRIDE analysis, assessing security risks in architecture, creating a threat model document, or when the user mentions threat model, attack surface, trust boundaries, STRIDE, or security risk analysis.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

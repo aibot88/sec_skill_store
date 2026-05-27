@@ -1,0 +1,18 @@
+{
+  "name": "salesforce-component-standards",
+  "slug": "salesforce-component-standards",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/salesforce-component-standards/",
+  "download_url": "https://claudskills.com/skills/salesforce-component-standards/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Quality standards for Salesforce Lightning Web Components (LWC), Aura components, and Visualforce pages. Covers SLDS 2 compliance, accessibility (WCAG 2.1 AA), data access pattern selection, component communication rules, XSS prevention, CSRF enforcement, FLS/CRUD in AuraEnabled methods, view state management, and Jest test requirements. Use this skill when building or reviewing any Salesforce UI component to enforce platform-specific security and quality standards.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:09+00:00"
+}

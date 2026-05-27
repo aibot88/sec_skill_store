@@ -1,0 +1,18 @@
+{
+  "name": "audit-integrity",
+  "slug": "audit-integrity",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-integrity/",
+  "download_url": "https://claudskills.com/skills/audit-integrity/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Shared audit integrity framework for all AppSec agents — enforces output quality, intellectual honesty, and continuous improvement through anti-rationalization guards, self-critique loops, retry protocols, non-negotiable behaviors, self-reflection quality gates (1-10 scoring, ≥8 threshold), and a self-learning system with lesson/memory governance for security analysis agents.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

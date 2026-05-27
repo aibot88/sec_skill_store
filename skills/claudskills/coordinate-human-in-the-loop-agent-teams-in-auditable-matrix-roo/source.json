@@ -1,0 +1,18 @@
+{
+  "name": "coordinate-human-in-the-loop-agent-teams-in-auditable-matrix-roo",
+  "slug": "coordinate-human-in-the-loop-agent-teams-in-auditable-matrix-roo",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/coordinate-human-in-the-loop-agent-teams-in-auditable-matrix-roo/",
+  "download_url": "https://claudskills.com/skills/coordinate-human-in-the-loop-agent-teams-in-auditable-matrix-roo/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run manager-worker agent collaboration in Matrix rooms where humans can watch, intervene, and keep credentials out of worker hands.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

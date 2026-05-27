@@ -1,0 +1,18 @@
+{
+  "name": "security-audit-standard",
+  "slug": "security-audit-standard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-audit-standard/",
+  "download_url": "https://claudskills.com/skills/security-audit-standard/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security audit methodology and checklist for codebases. Use when performing security reviews, auditing a project for vulnerabilities, or hardening an application before deployment. Covers secret scanning, input validation, authentication/authorization, cryptographic practices, dependency auditing, CSP configuration, rate limiting, OWASP Top 10 checks, and audit report format. Derived from production audit work.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

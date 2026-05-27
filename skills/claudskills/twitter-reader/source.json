@@ -1,0 +1,18 @@
+{
+  "name": "twitter-reader",
+  "slug": "twitter-reader",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/twitter-reader/",
+  "download_url": "https://claudskills.com/skills/twitter-reader/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fetch Twitter/X post content including long-form Articles with full images and metadata. Use when Claude needs to retrieve tweet/article content, author info, engagement metrics, and embedded media. Supports individual posts and X Articles (long-form content). Automatically downloads all images to local attachments folder and generates complete Markdown with proper image references. Preferred over Jina for X Articles with images.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "social-media",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

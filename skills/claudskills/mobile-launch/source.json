@@ -1,0 +1,18 @@
+{
+  "name": "mobile-launch",
+  "slug": "mobile-launch",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mobile-launch/",
+  "download_url": "https://claudskills.com/skills/mobile-launch/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run a complete mobile app pre-launch verification — chains performance audit, QA testing, OWASP mobile security review, App Store and Play Store compliance checks, and store listing optimization into a single launch-ready report. Use before submitting to TestFlight, App Store, or Google Play.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "exa-security-basics",
+  "slug": "exa-security-basics-helixdevelopment-helixagent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/exa-security-basics-helixdevelopment-helixagent/",
+  "download_url": "https://claudskills.com/skills/exa-security-basics-helixdevelopment-helixagent/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Exa security best practices for secrets and access control. Use when securing API keys, implementing least privilege access, or auditing Exa security configuration. Trigger with phrases like \"exa security\", \"exa secrets\", \"secure exa\", \"exa API key security\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

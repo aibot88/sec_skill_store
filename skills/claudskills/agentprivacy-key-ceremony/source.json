@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-key-ceremony",
+  "slug": "agentprivacy-key-ceremony",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-key-ceremony/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-key-ceremony/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Key generation, rotation, delegation, revocation, and hardware binding for the 0xagentprivacy dual-agent architecture. Activates when designing key hierarchies, implementing signing key operations, managing the swordsman's core material, or building ceremonies around key lifecycle events. The swordsman's most fundamental operational skill. Triggers: \"key generation\", \"key rotation\", \"key ceremony\", \"signing key\", \"key hierarchy\", \"hardware binding\", \"key delegation\", \"master key\", \"derivation path\", \"key material\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

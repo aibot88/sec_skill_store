@@ -1,0 +1,18 @@
+{
+  "name": "dokploy-skill",
+  "slug": "dokploy-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dokploy-skill/",
+  "download_url": "https://claudskills.com/skills/dokploy-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Dokploy 셀프호스팅 PaaS 플랫폼의 전체 관리 스킬. SSH 및 API를 통한 서버 관리, 애플리케이션 배포, Docker Compose/Swarm 관리, 데이터베이스(PostgreSQL, MySQL, MongoDB, Redis) 관리, Traefik 리버스 프록시 설정, SSL 인증서(Let's Encrypt, Cloudflare Origin CA), 도메인 설정, 볼륨 백업/복원, 컨테이너 모니터링, 서버 문제 해결 및 디버깅을 지원합니다.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

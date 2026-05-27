@@ -1,0 +1,18 @@
+{
+  "name": "maintainx-common-errors",
+  "slug": "maintainx-common-errors",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/maintainx-common-errors/",
+  "download_url": "https://claudskills.com/skills/maintainx-common-errors/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Debug and resolve common MaintainX API errors. Use when encountering API errors, authentication issues, or unexpected responses from the MaintainX API. Trigger with phrases like \"maintainx error\", \"maintainx 401\", \"maintainx api problem\", \"maintainx not working\", \"debug maintainx\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

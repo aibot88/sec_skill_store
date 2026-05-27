@@ -1,0 +1,18 @@
+{
+  "name": "@delon/auth Authentication & Authorization",
+  "slug": "x-7spade-delon-auth-authentication-authorization",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/x-7spade-delon-auth-authentication-authorization",
+  "download_url": "https://github.com/7Spade/ng-dragon/tree/main/.github/skills/delon-auth",
+  "external_source_url": "https://github.com/7Spade/ng-dragon/tree/main/.github/skills/delon-auth",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Implement authentication and authorization using @delon/auth. Use this skill when adding login/logout flows, JWT token management, role-based access control (RBAC), route guards, HTTP interceptors, and session management. Integrates with Firebase Auth and custom permission systems. Ensures secure token storage, automatic token refresh, and consistent authorization checks across components and services.",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/7Spade/ng-dragon/tree/main/.github/skills/delon-auth"
+  },
+  "collected_at": "2026-05-27T03:44:52+00:00"
+}

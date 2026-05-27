@@ -1,0 +1,18 @@
+{
+  "name": "agent-ops-critical-review",
+  "slug": "agent-ops-critical-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-ops-critical-review/",
+  "download_url": "https://claudskills.com/skills/agent-ops-critical-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deep, excruciating code review. Use anytime to analyze code for correctness, edge cases, security, performance, and design issues. Not tied to baseline—this is pure code analysis.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "middleware-patterns",
+  "slug": "middleware-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/middleware-patterns/",
+  "download_url": "https://claudskills.com/skills/middleware-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing or reviewing Next.js middleware (`middleware.ts`): cross-cutting request/response transforms before route resolution, Edge Runtime constraints, `matcher` config, `NextRequest`/`NextResponse` API, the four response shapes (next/rewrite/redirect/direct), canonical patterns (auth gate, locale routing, A/B testing, header injection, geo-routing, bot blocking), and the design rule that middleware is for cross-cutting concerns across many routes — never per-route business logic. Do NOT use for per-route HTTP endpoint logic (use route-handler-design), Server Action mutations (use server-actions-design), abstract HTTP semantics (use http-semantics), CSP and hardening (use security-fundamentals), or the cross-cutting streaming model (use streaming-architecture).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

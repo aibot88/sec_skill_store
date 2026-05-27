@@ -1,0 +1,18 @@
+{
+  "name": "customerio-security-basics",
+  "slug": "customerio-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/customerio-security-basics/",
+  "download_url": "https://claudskills.com/skills/customerio-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Customer.io security best practices. Use when implementing secure credential storage, PII handling, webhook signature verification, or GDPR/CCPA compliance. Trigger: \"customer.io security\", \"customer.io pii\", \"secure customer.io\", \"customer.io gdpr\", \"customer.io webhook verify\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

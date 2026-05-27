@@ -1,0 +1,18 @@
+{
+  "name": "wiki-authoring",
+  "slug": "wiki-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wiki-authoring/",
+  "download_url": "https://claudskills.com/skills/wiki-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when authoring or editing pages under /knowledge/ on the lab website (paper pages, topic pages, repo pages). Covers required frontmatter fields, slug rules, the h1-must-match-title invariant, finding anchors, git commit conventions, the wiki_janitor audit, and the preservation rule for category and papers_supporting fields.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "knowledge-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

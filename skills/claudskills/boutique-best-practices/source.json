@@ -1,0 +1,18 @@
+{
+  "name": "boutique-best-practices",
+  "slug": "boutique-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/boutique-best-practices/",
+  "download_url": "https://claudskills.com/skills/boutique-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Best practices for using Boutique with Swift 6 concurrency, @Observable, @ObservationIgnored, Sendable conformance, testing with preview stores, and dependency injection. Use when troubleshooting Boutique issues, migrating to Swift 6, or setting up tests.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

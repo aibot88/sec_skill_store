@@ -1,0 +1,18 @@
+{
+  "name": "change-reviewing",
+  "slug": "change-reviewing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/change-reviewing/",
+  "download_url": "https://claudskills.com/skills/change-reviewing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Diff-basierter Review von Code-Aenderungen. Identifiziert Risiken, Regressionen, Testluecken, Security-Nebenwirkungen und offene Folgearbeiten. Verwende diesen Skill wenn der User sagt: \"Review\", \"Code Review\", \"Aenderungen pruefen\", \"Was habe ich kaputt gemacht\", \"Diff Review\", \"change-reviewing\", \"/review\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "salesforce-apex-quality",
+  "slug": "salesforce-apex-quality",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/salesforce-apex-quality/",
+  "download_url": "https://claudskills.com/skills/salesforce-apex-quality/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apex code quality guardrails for Salesforce development. Enforces bulk-safety rules (no SOQL/DML in loops), sharing model requirements, CRUD/FLS security, SOQL injection prevention, PNB test coverage (Positive / Negative / Bulk), and modern Apex idioms. Use this skill when reviewing or generating Apex classes, trigger handlers, batch jobs, or test classes to catch governor limit risks, security gaps, and quality issues before deployment.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:09+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "add-feature-hook",
+  "slug": "add-feature-hook",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/add-feature-hook/",
+  "download_url": "https://claudskills.com/skills/add-feature-hook/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Creates TanStack Query hooks for API features with authentication. Use when connecting frontend to backend endpoints, creating data fetching hooks.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

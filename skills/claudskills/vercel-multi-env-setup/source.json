@@ -1,0 +1,18 @@
+{
+  "name": "vercel-multi-env-setup",
+  "slug": "vercel-multi-env-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vercel-multi-env-setup/",
+  "download_url": "https://claudskills.com/skills/vercel-multi-env-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Vercel across development, preview, and production environments with scoped secrets. Use when setting up per-environment configuration, managing environment-specific variables, or implementing environment isolation on Vercel. Trigger with phrases like \"vercel environments\", \"vercel staging\", \"vercel dev prod\", \"vercel environment setup\", \"vercel env scoping\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

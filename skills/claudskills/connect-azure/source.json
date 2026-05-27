@@ -1,0 +1,18 @@
+{
+  "name": "connect-azure",
+  "slug": "connect-azure",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/connect-azure/",
+  "download_url": "https://claudskills.com/skills/connect-azure/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Connect to an Azure subscription, validate credentials, and discover what services are in use.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "venv-manager",
+  "slug": "venv-manager",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/venv-manager/",
+  "download_url": "https://claudskills.com/skills/venv-manager/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage Python virtual environments in a consistent, organized way. Use when a skill needs Python packages installed, or when the user wants to create a venv following standard conventions. Provides the authoritative convention for venv location and naming that other skills should follow.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

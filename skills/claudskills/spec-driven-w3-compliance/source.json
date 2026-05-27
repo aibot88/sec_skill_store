@@ -1,0 +1,18 @@
+{
+  "name": "spec-driven-w3-compliance",
+  "slug": "spec-driven-w3-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spec-driven-w3-compliance/",
+  "download_url": "https://claudskills.com/skills/spec-driven-w3-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "W3 compliance scanning with structural anti-skip enforcement. Detects auto-skill chaining violations (skills/commands that auto-invoke other skills without user approval) using the Execute-Verify-Record pattern at every step. Designed to prevent token optimization bias through lean orchestration and binary CLI gate enforcement. Scans subagent files, skill files, and command files for unauthorized Skill() invocations. Use when auditing W3 compliance, checking for auto-skill chaining violations, or preparing for release validation. Always use this skill when the user runs /audit-w3 or mentions W3 compliance, skill chaining, or auto-invocation scanning.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "saas-security-checklist",
+  "slug": "saas-security-checklist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/saas-security-checklist/",
+  "download_url": "https://claudskills.com/skills/saas-security-checklist/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security checklist specifically for SaaS applications built with Next.js, Supabase, and Stripe. Covers authentication hardening, Row Level Security, Stripe webhook verification, secrets management, CSRF/CSP/CORS headers, input validation, rate limiting, DSGVO/GDPR compliance, and common anti-patterns found in real SaaS templates. Triggers on: SaaS security, Supabase security, Stripe security, SaaS checklist, secure SaaS, harden SaaS, SaaS audit, Next.js security, Supabase RLS audit, payment security, or any security review of a SaaS application.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

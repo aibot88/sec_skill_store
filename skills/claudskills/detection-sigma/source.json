@@ -1,0 +1,18 @@
+{
+  "name": "detection-sigma",
+  "slug": "detection-sigma",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detection-sigma/",
+  "download_url": "https://claudskills.com/skills/detection-sigma/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generic detection rule creation and management using Sigma, the universal SIEM rule format. Sigma provides vendor-agnostic detection logic for log analysis across multiple SIEM platforms. Use when: (1) Creating detection rules for security monitoring, (2) Converting rules between SIEM platforms (Splunk, Elastic, QRadar, Sentinel), (3) Threat hunting with standardized detection patterns, (4) Building detection-as-code pipelines, (5) Mapping detections to MITRE ATT&CK tactics, (6) Implementing compliance-based monitoring rules.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

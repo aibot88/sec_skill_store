@@ -1,0 +1,18 @@
+{
+  "name": "validate-mechanisms",
+  "slug": "validate-mechanisms",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/validate-mechanisms/",
+  "download_url": "https://claudskills.com/skills/validate-mechanisms/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Periodic smoke test for behavioral mechanism compliance. Scans the workspace for statically-detectable violations of rules in mechanism-registry.md. Use when: (1) user says \"validate mechanisms\", \"檢查機制\", \"/validate-mechanisms\", (2) as part of a periodic health check, (3) after major framework changes.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

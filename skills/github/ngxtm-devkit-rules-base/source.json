@@ -1,0 +1,19 @@
+{
+  "name": "base",
+  "slug": "ngxtm-devkit-rules-base",
+  "source": "github",
+  "source_url": "https://github.com/ngxtm/devkit/blob/9439f27ce3fa7fe53ff9278a1ee9a44bffa70eba/rules/base/auto-skill.md",
+  "download_url": "https://github.com/ngxtm/devkit/blob/9439f27ce3fa7fe53ff9278a1ee9a44bffa70eba/rules/base/auto-skill.md",
+  "external_source_url": "https://github.com/ngxtm/devkit/blob/9439f27ce3fa7fe53ff9278a1ee9a44bffa70eba/rules/base/auto-skill.md",
+  "license": "",
+  "description": "Unified multi-agent skill system for AI coding assistants (Claude Code, Cursor, Copilot, Gemini) with 414+ skills, 38 agents, and 57 commands. Features smart tech   detection, per-project installation, and auto-sync from upstream sources.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "ngxtm/devkit",
+    "path": "rules/base/auto-skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

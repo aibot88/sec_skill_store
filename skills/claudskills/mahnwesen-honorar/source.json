@@ -1,0 +1,18 @@
+{
+  "name": "mahnwesen-honorar",
+  "slug": "mahnwesen-honorar",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mahnwesen-honorar/",
+  "download_url": "https://claudskills.com/skills/mahnwesen-honorar/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Mahnwesen fuer eigene Honorarforderungen der Kanzlei. Stufen erste Zahlungserinnerung (vor Verzug) erste Mahnung mit Verzugsbeginn nach § 286 BGB zweite Mahnung mit konkreter Klagedrohung dritte Mahnung als letztes vorprozessuales Schreiben mit Verzugszinsen Mahnkosten und Aufforderung. Bei weiterhin Nichtzahlung Mandatsuebergabe ans Inkasso oder eigene Klage zum AG (sachliche Zustaendigkeit § 23 Nr. 1 GVG 10000 EUR ab 01.01.2026). Vermeidet kanzlei-interne Eskalationsschwaeche.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

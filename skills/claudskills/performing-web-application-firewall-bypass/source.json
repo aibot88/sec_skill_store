@@ -1,0 +1,18 @@
+{
+  "name": "performing-web-application-firewall-bypass",
+  "slug": "performing-web-application-firewall-bypass",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-web-application-firewall-bypass/",
+  "download_url": "https://claudskills.com/skills/performing-web-application-firewall-bypass/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Bypass Web Application Firewall protections using encoding techniques, HTTP method manipulation, parameter pollution,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

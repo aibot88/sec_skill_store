@@ -1,0 +1,18 @@
+{
+  "name": "the-center-dev",
+  "slug": "the-center-dev",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/the-center-dev/",
+  "download_url": "https://claudskills.com/skills/the-center-dev/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guía de desarrollo para el proyecto The Center (e-commerce Flask + React). Usar al implementar features, auth, API, estilos o cuando se pregunte por convenciones del proyecto.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

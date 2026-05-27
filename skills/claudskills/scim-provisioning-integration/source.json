@@ -1,0 +1,18 @@
+{
+  "name": "scim-provisioning-integration",
+  "slug": "scim-provisioning-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scim-provisioning-integration/",
+  "download_url": "https://claudskills.com/skills/scim-provisioning-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing or reviewing SCIM-based user lifecycle provisioning into Salesforce from Okta, Azure AD / Entra, or another IdP — create/update/deactivate, group-to-permission-set mapping, attribute mapping, and deprovisioning semantics. Triggers: 'scim provisioning', 'okta scim salesforce', 'entra salesforce provisioning', 'user deactivation automation', 'group to permission set mapping'. NOT for SSO/authentication setup (see single-sign-on skills).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

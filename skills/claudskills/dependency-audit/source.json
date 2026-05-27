@@ -1,0 +1,18 @@
+{
+  "name": "dependency-audit",
+  "slug": "dependency-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dependency-audit/",
+  "download_url": "https://claudskills.com/skills/dependency-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides dependency management and supply chain security practices for auditing vulnerabilities, checking licenses, assessing dependency health, and managing upgrades safely. Use when auditing packages, reviewing security, managing dependencies, or when user mentions 'audit', 'vulnerability', 'dependency', 'supply chain', 'npm audit', 'license', 'bundle size'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

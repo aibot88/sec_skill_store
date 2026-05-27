@@ -1,0 +1,18 @@
+{
+  "name": "moai-tool-ast-grep",
+  "slug": "moai-tool-ast-grep",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/moai-tool-ast-grep/",
+  "download_url": "https://claudskills.com/skills/moai-tool-ast-grep/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "AST-based structural code search, security scanning, and refactoring using ast-grep (sg CLI) with pattern matching and code transformation across 40+ languages. Use for structural search or codemod operations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

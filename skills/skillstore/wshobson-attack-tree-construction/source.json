@@ -1,0 +1,18 @@
+{
+  "name": "attack-tree-construction",
+  "slug": "wshobson-attack-tree-construction",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/wshobson-attack-tree-construction",
+  "download_url": "https://github.com/wshobson/agents/blob/main/plugins/security-scanning/skills/attack-tree-construction/SKILL.md?plain=1#L683",
+  "external_source_url": "https://github.com/wshobson/agents/blob/main/plugins/security-scanning/skills/attack-tree-construction/SKILL.md?plain=1#L683",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Build comprehensive attack trees to visualize threat paths. Use when mapping attack scenarios, identifying defense gaps, or communicating security risks to stakeholders.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/wshobson/agents/blob/main/plugins/security-scanning/skills/attack-tree-construction/SKILL.md?plain=1#L683"
+  },
+  "collected_at": "2026-05-27T03:44:51+00:00"
+}

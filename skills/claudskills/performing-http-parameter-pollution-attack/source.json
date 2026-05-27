@@ -1,0 +1,18 @@
+{
+  "name": "performing-http-parameter-pollution-attack",
+  "slug": "performing-http-parameter-pollution-attack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-http-parameter-pollution-attack/",
+  "download_url": "https://claudskills.com/skills/performing-http-parameter-pollution-attack/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Execute HTTP Parameter Pollution attacks to bypass input validation, WAF rules, and security controls by injecting",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

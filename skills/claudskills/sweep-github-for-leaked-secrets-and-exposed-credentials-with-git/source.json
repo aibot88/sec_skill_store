@@ -1,0 +1,18 @@
+{
+  "name": "sweep-github-for-leaked-secrets-and-exposed-credentials-with-git",
+  "slug": "sweep-github-for-leaked-secrets-and-exposed-credentials-with-git",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sweep-github-for-leaked-secrets-and-exposed-credentials-with-git/",
+  "download_url": "https://claudskills.com/skills/sweep-github-for-leaked-secrets-and-exposed-credentials-with-git/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Search public GitHub broadly for leaked secrets and triage exposures when the workflow is recon and remediation, not generic secret scanning.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

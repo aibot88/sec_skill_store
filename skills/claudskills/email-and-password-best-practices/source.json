@@ -1,0 +1,18 @@
+{
+  "name": "email-and-password-best-practices",
+  "slug": "email-and-password-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/email-and-password-best-practices/",
+  "download_url": "https://claudskills.com/skills/email-and-password-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configure email verification, implement password reset flows, set password policies, and customise hashing algorithms for Better Auth email/password authentication. Use when users need to set up login, sign-in, sign-up, credential authentication, or password security with Better Auth.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ctf-forensics",
+  "slug": "ctf-forensics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ctf-forensics/",
+  "download_url": "https://claudskills.com/skills/ctf-forensics/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Digital forensics and blockchain analysis for CTF challenges. Use when analyzing disk images, memory dumps, event logs, network captures, or cryptocurrency transactions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

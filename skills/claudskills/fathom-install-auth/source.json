@@ -1,0 +1,18 @@
+{
+  "name": "fathom-install-auth",
+  "slug": "fathom-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fathom-install-auth/",
+  "download_url": "https://claudskills.com/skills/fathom-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Fathom AI meeting assistant API access with API key authentication. Use when setting up Fathom API integration, generating API keys, or configuring webhook access for meeting data. Trigger with phrases like \"install fathom\", \"setup fathom api\", \"fathom auth\", \"fathom api key\", \"configure fathom\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "crypto-tracker",
+  "slug": "crypto-tracker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crypto-tracker/",
+  "download_url": "https://claudskills.com/skills/crypto-tracker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Krypto-Preis-Tracking für Bitcoin (BTC) und Ripple (XRP) via CoinGecko API. Zeigt aktuelle Kurse in USD/EUR mit 24h Änderungen.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

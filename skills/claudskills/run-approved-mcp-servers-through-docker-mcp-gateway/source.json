@@ -1,0 +1,18 @@
+{
+  "name": "run-approved-mcp-servers-through-docker-mcp-gateway",
+  "slug": "run-approved-mcp-servers-through-docker-mcp-gateway",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/run-approved-mcp-servers-through-docker-mcp-gateway/",
+  "download_url": "https://claudskills.com/skills/run-approved-mcp-servers-through-docker-mcp-gateway/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use Docker MCP Gateway to run MCP servers in isolated containers, centralize profiles, secrets, tools, and client connections.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

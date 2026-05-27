@@ -1,0 +1,18 @@
+{
+  "name": "linux-rhel",
+  "slug": "linux-rhel",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/linux-rhel/",
+  "download_url": "https://claudskills.com/skills/linux-rhel/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Red Hat Enterprise Linux (RHEL 7/8/9) and compatible distros (CentOS, AlmaLinux, Rocky). Covers systemd (units/targets/journald), LVM (pvcreate/vgcreate/lvcreate/extend/migrate), SELinux (enforcing/permissive/audit2allow/semanage/restorecon), firewalld/iptables, nmcli/nmtui network configuration, bonding/teaming/VLANs, dnf/rpm/subscription-manager, kdump/crash analysis, performance tuning (perf/sar/vmstat/iostat/tuned), and RHEL security hardening (PAM/auditd/FIPS). Use for RHEL admin tasks, systemd troubleshooting, storage expansion, SELinux policy issues, and performance investigation.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ux-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

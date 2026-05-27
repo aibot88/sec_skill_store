@@ -1,0 +1,18 @@
+{
+  "name": "supabase-upgrade-migration",
+  "slug": "supabase-upgrade-migration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-upgrade-migration/",
+  "download_url": "https://claudskills.com/skills/supabase-upgrade-migration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Upgrade Supabase SDK and CLI versions with breaking-change detection and automated code migration. Use when upgrading @supabase/supabase-js (v1→v2 or minor bumps), migrating auth/realtime/storage APIs, or updating the Supabase CLI. Trigger with phrases like \"upgrade supabase\", \"supabase breaking changes\", \"migrate supabase v2\", \"update supabase SDK\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

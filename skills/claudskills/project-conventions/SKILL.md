@@ -1,0 +1,200 @@
+---
+name: project-conventions
+description: Opinionated defaults for the lower-stakes structural conventions every project has to pick — branch strategy, directory layout, dependency pinning, path portability. The companion to manage-secrets-env (which owns the high-stakes secrets/env slice). Picks GitHub Flow, enforces pinned dependencies, nudges toward domain-first directory structure, and audits for hardcoded absolute paths. Adapts to repo type — app (exact pin + lockfile), library (semver range + compatibility matrix), monorepo (per-package). Language-agnostic.
+mutates: [direct]
+when_to_use: Trigger on "branch strategy", "main or dev", "GitHub Flow", "directory layout", "folder structure", "dependency version", "pin this", "Dependabot", "Renovate", "hardcoded path", "absolute path", "Windows path", "path portability", "lockfile", or when starting a new project that needs a baseline layout.
+allowed-tools: Read Write Edit Glob Grep Bash(grep *) Bash(git *) Bash(find *) Bash(ls *)
+---
+
+# project-conventions
+
+The operator has to make a handful of structural decisions on every new project that are not about secrets: which branch do I work on, where do files go, do I pin dependencies, how do I avoid hardcoding my home directory into source. Each one is a small tax on attention. Most of them have one answer that works for 95% of projects.
+
+This skill pre-pays that tax with one opinionated answer per question. The high-stakes slice — secrets, `.env`, secret-shaped gitignore entries, CI secret stores — lives in `manage-secrets-env`. Split this way so the operator can trigger the right depth of care for the right question.
+
+**The principle**: the best convention is the one the operator doesn't have to invent. When they ask *"should I make a dev branch?"*, answer in one sentence and move on. Don't present a decision framework; make the decision.
+
+## State assumptions — before acting
+
+Before starting the procedure, write an explicit Assumptions block. Don't pick silently between interpretations; surface the choice. If any assumption is wrong or ambiguous, pause and ask — do not proceed on a guess.
+
+Required block:
+
+```
+Assumptions:
+- Project maturity:  <new scaffold | active repo under audit | legacy repo with historical conventions to respect>
+- Branch strategy:   <GitHub Flow (main only) | main + dev | trunk-based | other — detected from CONTRIBUTING.md / recent branches>
+- Pinning strategy:  <exact-pin + lockfile | caret-range | no lockfile | mixed per-package (monorepo)>
+- Sweep scope:       <whole repo | single subdirectory | single concern (branches OR deps OR layout OR paths)>
+```
+
+Typical items for this skill:
+
+- Project maturity (new project being scaffolded / active project being audited / legacy project with historical conventions to respect)
+- Existing branch strategy (GitHub Flow with main only / long-lived dev branch / trunk-based / other)
+- Existing pinning strategy (exact-pin / caret-range / no lockfile / mixed)
+
+Stop-and-ask triggers:
+
+- Project has both `main` and `dev` branches with distinct purposes — never unilaterally switch, ask which is the integration target
+- Project is a monorepo with per-package pinning conventions — never apply a uniform rule without operator confirmation
+
+Silent picks are the most common failure mode: the skill runs, produces plausible output, and the operator doesn't notice the wrong interpretation was chosen. The Assumptions block is cheap insurance.
+
+## Repo type — app, library, or monorepo
+
+Pinning, branch strategy, and directory rules diverge by repo type. Detect once, surface in the Assumptions block, apply consistently.
+
+| Repo type | Detection signals | Pinning strategy |
+|---|---|---|
+| **app** (default) | `next.config.*`, `vite.config.*`, `Procfile`, `Dockerfile` at root, `package.json` with no `"main"`/`"exports"` fields | Exact pin every production dep + lockfile committed; CVE auditing in CI |
+| **library** | `package.json` with `"main"`/`"exports"`/`"types"`, `Cargo.toml` `[lib]`, `pyproject.toml` `[project]` with `name` matching publish target | Semver range for declared deps + lockfile committed *for tests only*; explicit compatibility matrix in CI (Node 18/20/22, Python 3.10/3.11/3.12, etc.) |
+| **monorepo** | `pnpm-workspace.yaml`, `lerna.json`, `nx.json`, `turbo.json`, `Cargo.toml` `[workspace]`, multiple `package.json` under `packages/` | Per-package strategy per the table above; shared lockfile at root |
+| **template** / **starter** | `.github/template-repo` marker, README declares "template", forks have diverged content | Exact pin + lockfile (downstream forks update at fork time) |
+| **docs-only** | No source code, only `.md`/`.mdx` and config | No production deps — only `devDependencies` (linters, doc tooling) |
+
+App-style pinning on a library leaks the dep range to every downstream consumer; library-style ranges on an app produce silent floating versions. Catch the mismatch in the audit.
+
+## Dependency versioning — pin or bleed
+
+Unpinned dependencies are time bombs. The rule is simple and per-language.
+
+**Required everywhere**: every production dependency is pinned to an exact version, and the lockfile is committed.
+
+- Python: `requirements.txt` with `package==1.2.3` or `pyproject.toml` + `uv.lock` / `poetry.lock`.
+- Node: `package.json` + `package-lock.json` / `pnpm-lock.yaml` / `yarn.lock` / `bun.lockb`.
+- Rust: `Cargo.toml` + committed `Cargo.lock` (yes, even for libraries now).
+- Go: `go.mod` + `go.sum`, both committed.
+- Ruby: `Gemfile` + `Gemfile.lock`.
+- PHP: `composer.json` + `composer.lock`.
+- Java / Kotlin: explicit versions in `pom.xml` / `build.gradle` — never `latest` or `+`.
+
+**Strongly recommended**: a dependency-update bot is active. GitHub ships Dependabot; Renovate works for GitLab and self-hosted. Weekly frequency for non-security updates, immediate for security. A starter `dependabot.yml` is in `templates/dependabot.yml.template`.
+
+**Optional**: CVE auditing in CI — `pip-audit` / `npm audit` / `cargo audit` / `govulncheck`. Add it as a warning first; promote to a hard fail once the baseline is clean.
+
+When the operator adds a new dependency, the skill confirms: (1) the version is pinned, (2) the lockfile is updated and committed, and (3) the dependency actually exists. LLM-recommended packages are occasionally hallucinations — catch them before they ship.
+
+## Branch strategy — GitHub Flow by default
+
+Most vibe-coder projects do not need `git-flow`. GitHub Flow is simpler, safer, and widely supported. Use it unless there's a specific reason not to:
+
+- **One long-lived branch**: `main`. Always deployable. Protected. No direct pushes after the first day.
+- **Short-lived feature branches**: `feature/<topic>`, `fix/<topic>`, `refactor/<topic>`, `chore/<topic>`, `docs/<topic>`, `hotfix/<topic>`. Lifetime: hours to days, never weeks.
+- **Merged via** pull request → review → squash or merge commit → delete the branch.
+- **Tags for releases** — optional for apps, recommended for libraries.
+
+The full discussion — when NOT to use GitHub Flow, what to do about inherited `dev` branches, staging environments, library maintainers with multiple major versions — lives in `references/branch-strategy.md`. Read it only if the operator has a specific reason to deviate from the default.
+
+## Directory layout — three quiet rules
+
+Directory structure is the most underrated form of documentation. A clean tree tells a cold reader (human or AI) what the project does in 30 seconds.
+
+Three cross-language rules the skill applies quietly:
+
+1. **Domain-first, type-second.** Group by feature (`auth/`, `billing/`), not by file type (`handlers/`, `services/`). Type-based layouts stop scaling around 20 domains.
+2. **No flat directory above ~15 files.** At the threshold, sub-group by intent or by date.
+3. **Names are predictions.** Every directory name should predict what's inside. Match the naming conventions the skill recommends — verbs for functions, nouns for types, `is_` / `has_` for booleans, `UPPER_SNAKE_CASE` for constants.
+
+The full naming table and structural-smell detection list is in `references/directory-layout.md`.
+
+## Path portability — the audit
+
+Every absolute path, IP literal, username, or platform separator in source is a time bomb. This sub-skill audits for them and offers one-line fixes.
+
+Core patterns to grep for: `C:\\`, `/Users/<name>`, `/home/<name>`, literal IPv4 addresses, `\\` in string literals, `/tmp/<specific>`. The full pattern-and-fix table with language-specific equivalents is in `references/path-portability.md`. When the audit finds more than a couple of files, hand off to `refactor-verify` for the 1:1 preservation work.
+
+## Output format — when asked a structural question
+
+Don't dump the entire skill. Answer the specific question in one paragraph and offer a concrete next step:
+
+**Operator:** *"Should I make a dev branch?"*
+**You:** *"Probably not — GitHub Flow (just `main` with short-lived feature branches) is simpler for 95% of projects. What's driving the question?"*
+
+**Operator:** *"Dependabot is annoying, can I turn it off?"*
+**You:** *"You can pause it, but I'd recommend keeping it on at a monthly cadence. Most CVE exposure on small projects comes from ignored dependency updates. Want me to switch it to monthly?"*
+
+**Operator:** *"Where does this helper function go?"*
+**You:** *"Group by feature, not file type — if it's part of auth, `src/auth/helpers.ts`; if it's generic, `src/lib/...`. Flat `utils/` folders stop scaling around 15 files."*
+
+## Things not to do
+
+- Don't offer multiple options when one is clearly better. Pick the default.
+- Don't teach git when the operator asked a branch question. Answer the branch question; they can learn git separately.
+- Don't silently change the existing layout. If the repo already has a specific structure, propose changes and wait for confirmation — this skill is advisory, not autonomous.
+- Don't touch `.env`, `.gitignore`, or any secret-shaped file. Those are `manage-secrets-env`'s responsibility.
+- Don't lecture about `git-flow` vs GitHub Flow vs trunk-based development. Pick GitHub Flow, state the reason in one sentence, move on.
+- **Don't impose conventions the operator didn't ask for.** If they asked about branch strategy, don't unilaterally switch their Dependabot cadence or re-layout their `src/` tree because "while you're here". Adjacent convention drift goes in the output as hand-off suggestions — conventions are opinions, and silent imposition is how this skill loses trust fastest.
+- **Don't propose a convention change without identifying why the existing one was set.** Run `git log` on the file (`CONTRIBUTING.md`, `package.json`, `tsconfig.json`, `eslint.config.*`, `.github/`) and check `docs/` for ADRs before recommending a switch — the "don't silently change" rule above asks for confirmation, this asks for *understanding* first. If origin is unclear, mark the proposal `candidate-with-context-needed`; recommending convention changes without context is how working setups get accidentally regressed.
+
+## Sweep mode — read-only audit
+
+When invoked from `/vibesubin` (the umbrella skill's parallel sweep), this skill runs in **read-only audit mode**. Do not scaffold any files, do not edit any config, do not touch the directory structure.
+
+Instead, produce a findings-only report:
+
+- Branch strategy: does the repo deviate from GitHub Flow, and if so, is the deviation documented anywhere?
+- Dependency pinning: unpinned prod dependencies, missing lockfile, unused packages in the manifest, Dependabot/Renovate not configured.
+- Directory layout smells: flat directories over 15 files, type-first grouping where domain-first would work better, orphaned top-level directories.
+- Hardcoded path audit: absolute paths, literal IPs, username references in source, Windows path separators in string literals.
+- Stoplight verdict: 🟢 conventions are clean / 🟡 drift or minor hygiene gaps / 🔴 unpinned prod deps, portability bugs that will break on another machine.
+- A one-line "fix with" pointer indicating `/project-conventions` will apply the scaffolds or fixes when invoked directly.
+
+The operator reviews the sweep report and, if they want the fixes applied, invokes `/project-conventions` directly.
+
+How to tell: the task context from the umbrella will include a `sweep=read-only` marker or an explicit "produce findings only, do not edit" instruction. Obey it. If the operator invokes this skill by name, the full procedure applies and editing is expected.
+
+## Harsh mode — no hedging
+
+When the task context contains the `tone=harsh` marker (usually set by the `/vibesubin harsh` umbrella invocation, but can also come from direct requests like *"don't sugarcoat"* / *"brutal review"* / *"매운 맛"*), switch output rules:
+
+- **Lead with the worst finding.** If production dependencies are unpinned or the repo has `/Users/alice/...` in source, that's the first line of the report — with file, line, and a one-sentence consequence.
+- **No softening words.** Drop *"consider pinning"*, *"might want to check"*, *"probably should"*. Replace with direct verbs: *"pin every dep in `requirements.txt` — `requests` is floating and broke last month"*, not *"you may want to consider pinning dependencies"*.
+- **Portability bugs get blast-radius framing.** Balanced mode says *"hardcoded path in `src/config.ts:42`"*. Harsh mode says *"`src/config.ts:42` hardcodes `/Users/alice/Projects/foo` — this repo does not run on any other machine."*
+- **Branch deviations get a verdict.** *"This repo uses `dev` branch for no documented reason. Either document why, or delete `dev` and move to GitHub Flow."* Not *"branch strategy deviates from GitHub Flow; consider documenting."*
+- **No *"nice to have"* trailing items.** If something is below MEDIUM severity, omit it entirely in harsh mode.
+- **Summary line is direct.** *"Three unpinned deps, one hardcoded home path, no lockfile — fix the three before the next deploy."* Not *"a few items to clean up when you have time."*
+
+Harsh mode does not invent findings, exaggerate severities, or become rude. Every harsh statement must still cite the same file, line, or lockfile absence the balanced version would cite. The change is framing, not substance.
+
+## Layperson mode — plain-language translation
+
+When the task context contains `explain=layperson` (from `/vibesubin explain`, `/vibesubin easy`, *"쉽게 설명해줘"*, *"일반인도 이해되게"*, *"explain like I'm non-technical"*, *"非開発者でも分かるように"*, *"用通俗的话解释"*), add a plain-language layer to every finding this skill emits. Combines freely with `tone=harsh`. Full rules at `/plugins/vibesubin/skills/vibesubin/references/layperson-translation.md`.
+
+### Three dimensions per finding
+
+Every finding gets three questions answered in plain language, in the operator's language (Korean / English / Japanese / Chinese):
+
+- **왜 이것을 해야 하나요? / Why should you do this?** — *"브랜치 이름·의존성 버전·폴더 구조 같은 '구조적인 기본값'이 들쭉날쭉하면 새 AI 세션이 매번 '어디 뭐가 있지?'부터 시작합니다."*
+- **왜 중요한 작업인가요? / Why is it an important task?** — *"작은 결정 10개를 매번 다시 고민하는 비용이 누적되면, 프로젝트는 '진짜 일'을 할 시간이 줄어요. 그리고 규칙이 없으면 AI가 매번 다른 답을 줍니다."*
+- **그래서 무엇을 하나요? / So what gets done?** — *"브랜치는 GitHub Flow(main + 짧은 feature), 의존성은 정확 핀고정 + 락파일 커밋, 폴더는 도메인 우선, 절대경로는 소스에 두지 않기 — 95% 프로젝트에 맞는 기본값을 감사하고, 규칙에서 벗어난 것만 고칩니다."*
+
+### Severity translation
+
+- 🔴 major → *"브랜치가 엉켜 있거나 의존성이 완전히 풀려 있음 — 다음 배포 전 정리 필수"*
+- 🟡 minor → *"대부분 규칙에 맞는데 한두 가지 빗나감"*
+- 🟢 clean → *"기본값 전부 부합 — 새 세션이 바로 따라갈 수 있음"*
+
+### Box format
+
+Wrap each finding in the box format from the shared reference. Header uses urgency phrase and the finding number. Footer names the hand-off skill.
+
+### What does NOT change
+
+Findings, counts, file:line references, evidence, and severity are identical to balanced/harsh output. Only the wrapping and dimension annotations are added.
+
+## Hand-offs
+
+- `.env`, secrets, `.gitignore` entries for secret-shaped files, anything where a mistake leaks a credential → `manage-secrets-env`. That skill owns the high-stakes slice.
+- Dependency audit finds CVEs → `audit-security` for severity, `refactor-verify` for the upgrade diff.
+- Layout refactor touching many files (directory rename, domain-first reorganization) → `refactor-verify` for the 1:1 preservation and symbol-level proof.
+- Hardcoded-path audit finds more than a couple of files → `refactor-verify` to apply fixes across the codebase safely.
+- Documentation of the chosen conventions in `CLAUDE.md` or `README.md` → `write-for-ai` with the rationale.
+- Binary bloat or oversized asset files found during the layout audit → `manage-assets`.
+
+## References and templates
+
+- `references/branch-strategy.md` — when NOT to use GitHub Flow, inherited `dev` branches, release branches
+- `references/directory-layout.md` — full naming table and structural-smell detection
+- `references/path-portability.md` — pattern-and-fix table with language-specific equivalents
+- `templates/dependabot.yml.template` — starter dependency-update config

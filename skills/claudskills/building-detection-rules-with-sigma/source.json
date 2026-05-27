@@ -1,0 +1,18 @@
+{
+  "name": "building-detection-rules-with-sigma",
+  "slug": "building-detection-rules-with-sigma",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-detection-rules-with-sigma/",
+  "download_url": "https://claudskills.com/skills/building-detection-rules-with-sigma/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Builds vendor-agnostic detection rules using the Sigma rule format for threat detection across SIEM platforms",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

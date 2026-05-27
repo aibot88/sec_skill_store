@@ -1,0 +1,18 @@
+{
+  "name": "aif-security-checklist",
+  "slug": "aif-security-checklist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aif-security-checklist/",
+  "download_url": "https://claudskills.com/skills/aif-security-checklist/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security audit checklist based on OWASP Top 10 and best practices. Covers authentication, injection, XSS, CSRF, secrets management, and more. Use when reviewing security, before deploy, asking \"is this secure\", \"security check\", \"vulnerability\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

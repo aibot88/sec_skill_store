@@ -1,0 +1,18 @@
+{
+  "name": "loom-code-review-and-quality",
+  "slug": "loom-code-review-and-quality",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/loom-code-review-and-quality/",
+  "download_url": "https://claudskills.com/skills/loom-code-review-and-quality/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when a code diff, branch, PR, worker output, or implementation-complete ticket needs a code-focused quality review across correctness, tests, architecture, security, performance, scope, and evidence before audit or closure.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:34+00:00"
+}

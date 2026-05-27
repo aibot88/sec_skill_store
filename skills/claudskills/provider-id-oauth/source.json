@@ -1,0 +1,18 @@
+{
+  "name": "provider-id-oauth",
+  "slug": "provider-id-oauth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/provider-id-oauth/",
+  "download_url": "https://claudskills.com/skills/provider-id-oauth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "ขั้นตอนการติดตั้งและตั้งค่า Provider ID OAuth (ผ่าน Health ID / moph.id.th) ด้วย Auth.js (next-auth v5) ใน Next.js App Router — ครอบคลุม: การติดตั้ง package, การสร้างปุ่ม Login, การ redirect ไปยัง OAuth Provider, การรับ callback พร้อม exchange token, การดึง profile จาก provider.id.th, และการสร้าง session ด้วย Auth.js Credentials Provider + JWT Strategy.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

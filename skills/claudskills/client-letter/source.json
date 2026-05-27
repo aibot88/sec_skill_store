@@ -1,0 +1,18 @@
+{
+  "name": "client-letter",
+  "slug": "client-letter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/client-letter/",
+  "download_url": "https://claudskills.com/skills/client-letter/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Erstellt Mandantenbriefe in einfacher, verständlicher Sprache – kein Juristenjargon. Übersetzt komplexe Bescheids-, Widerspruchs- oder Klageinhalte in klare, handlungsorientierte Briefe auf Niveau B1/B2. Aufrufen, wenn der Studierende dem Mandanten das Ergebnis einer Prüfung, den Stand des Verfahrens oder einen konkreten nächsten Schritt mitteilen will.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

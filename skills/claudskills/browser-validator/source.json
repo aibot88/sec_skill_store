@@ -1,0 +1,18 @@
+{
+  "name": "browser-validator",
+  "slug": "browser-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/browser-validator/",
+  "download_url": "https://claudskills.com/skills/browser-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automatically validate implementations in real browsers after code is written or when user says \"test this\". Uses Chrome DevTools MCP to test responsive breakpoints (320px, 768px, 1024px), check accessibility compliance (WCAG AA contrast, keyboard navigation, ARIA), validate interactions, and generate detailed technical reports with file paths and specific fixes.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

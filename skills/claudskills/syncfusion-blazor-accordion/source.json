@@ -1,0 +1,18 @@
+{
+  "name": "syncfusion-blazor-accordion",
+  "slug": "syncfusion-blazor-accordion",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/syncfusion-blazor-accordion/",
+  "download_url": "https://claudskills.com/skills/syncfusion-blazor-accordion/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide for implementing the Syncfusion Blazor Accordion component for creating collapsible panels with expandable content. Use this skill when users need to build accordions, implement collapsible sections, create expandable panels, organize content in navigation components, implement FAQs, build collapsible menus, add nested accordions, configure expand modes (single or multiple), handle accordion events, customize accordion styling, implement accessible accordions with WCAG compliance, integrate data binding, or work with any vertically collapsible content containers in Blazor applications.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

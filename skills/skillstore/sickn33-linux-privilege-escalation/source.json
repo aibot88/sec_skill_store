@@ -1,0 +1,18 @@
+{
+  "name": "linux-privilege-escalation",
+  "slug": "sickn33-linux-privilege-escalation",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-linux-privilege-escalation",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/linux-privilege-escalation/SKILL.md?plain=1#L85-L88",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/linux-privilege-escalation/SKILL.md?plain=1#L85-L88",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Systematic privilege escalation assessment skill for identifying and exploiting Linux misconfigurations, vulnerable services, and security weaknesses to elevate from low-privilege access to root-level control.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/linux-privilege-escalation/SKILL.md?plain=1#L85-L88"
+  },
+  "collected_at": "2026-05-27T03:44:47+00:00"
+}

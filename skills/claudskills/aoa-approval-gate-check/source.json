@@ -1,0 +1,18 @@
+{
+  "name": "aoa-approval-gate-check",
+  "slug": "aoa-approval-gate-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aoa-approval-gate-check/",
+  "download_url": "https://claudskills.com/skills/aoa-approval-gate-check/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Classify whether a requested action is safe to proceed, requires explicit approval, or should not be executed. Use when a task may be destructive, security-sensitive, or operationally sensitive and the authority boundary is unclear. Do not use for clearly low-risk work or when the main need is previewing a mutation rather than deciding whether it may proceed.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "zero-trust",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

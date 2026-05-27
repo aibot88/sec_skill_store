@@ -1,0 +1,18 @@
+{
+  "name": "api-best-practices",
+  "slug": "api-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-best-practices/",
+  "download_url": "https://claudskills.com/skills/api-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "REST API design patterns, OpenAPI specifications, versioning strategies, authentication, error handling, and security best practices. Use when designing APIs, creating endpoints, documenting APIs, or implementing backend services that expose HTTP APIs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:50+00:00"
+}

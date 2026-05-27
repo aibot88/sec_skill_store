@@ -1,0 +1,18 @@
+{
+  "name": "naabu-fast-port-scanner-projectdiscovery",
+  "slug": "naabu-fast-port-scanner-projectdiscovery",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/naabu-fast-port-scanner-projectdiscovery/",
+  "download_url": "https://claudskills.com/skills/naabu-fast-port-scanner-projectdiscovery/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Naabu is a fast and reliable port scanning tool written in Go by ProjectDiscovery. It supports SYN, CONNECT, and UDP scans, integrates with Nmap for service discovery, and handles IPv4/IPv6 targets with automatic deduplication for efficient attack surface enumeration.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:41+00:00"
+}

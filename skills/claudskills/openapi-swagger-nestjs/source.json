@@ -1,0 +1,18 @@
+{
+  "name": "openapi-swagger-nestjs",
+  "slug": "openapi-swagger-nestjs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/openapi-swagger-nestjs/",
+  "download_url": "https://claudskills.com/skills/openapi-swagger-nestjs/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Documentación de APIs REST con OpenAPI 3.0 y Swagger UI en NestJS usando @nestjs/swagger. Usar PROACTIVAMENTE cuando se escriban controllers, DTOs, o endpoints que necesiten documentación, cuando se configure el módulo Swagger, cuando se añadan decoradores de API a propiedades de DTOs, o cuando se genere un contrato OpenAPI para el frontend o equipos externos. Activar siempre que aparezcan las palabras clave: Swagger, OpenAPI, @ApiProperty, @ApiOperation, @ApiResponse, @ApiTags, @ApiBearerAuth, SwaggerModule, DocumentBuilder, @nestjs/swagger, swagger.json, api-docs, documentar endpoint, contrato de API, o schema de respuesta.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

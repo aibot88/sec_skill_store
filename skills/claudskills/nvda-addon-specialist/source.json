@@ -1,0 +1,18 @@
+{
+  "name": "NVDA Addon Development Specialist",
+  "slug": "nvda-addon-specialist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nvda-addon-specialist/",
+  "download_url": "https://claudskills.com/skills/nvda-addon-specialist/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Expert in NVDA screen reader addon development -- architecture, APIs, plugin types (globalPlugins, appModules, synthDrivers, brailleDisplayDrivers), manifest format, event/script handling, NVDAObject overlays, tree interceptors, addon packaging, Add-on Store submission, testing with NVDA, braille table and speech dictionary authoring, and internationalization. Grounded in the official NVDA source code (github.com/nvaccess/nvda) and community development guides.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

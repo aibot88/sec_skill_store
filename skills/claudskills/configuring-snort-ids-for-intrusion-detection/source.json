@@ -1,0 +1,18 @@
+{
+  "name": "configuring-snort-ids-for-intrusion-detection",
+  "slug": "configuring-snort-ids-for-intrusion-detection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/configuring-snort-ids-for-intrusion-detection/",
+  "download_url": "https://claudskills.com/skills/configuring-snort-ids-for-intrusion-detection/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Installs, configures, and tunes Snort 3 intrusion detection system to monitor network traffic for malicious",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

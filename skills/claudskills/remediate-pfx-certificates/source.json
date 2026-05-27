@@ -1,0 +1,18 @@
+{
+  "name": "remediate-pfx-certificates",
+  "slug": "remediate-pfx-certificates",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/remediate-pfx-certificates/",
+  "download_url": "https://claudskills.com/skills/remediate-pfx-certificates/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Skill helps user to remove checked-in certificates from source code in case of exposed secrets",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "finance-personal",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

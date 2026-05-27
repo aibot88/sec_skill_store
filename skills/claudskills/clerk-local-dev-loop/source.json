@@ -1,0 +1,18 @@
+{
+  "name": "clerk-local-dev-loop",
+  "slug": "clerk-local-dev-loop",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk-local-dev-loop/",
+  "download_url": "https://claudskills.com/skills/clerk-local-dev-loop/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Set up local development workflow with Clerk. Use when configuring development environment, testing auth locally, or setting up hot reload with Clerk. Trigger with phrases like \"clerk local dev\", \"clerk development\", \"test clerk locally\", \"clerk dev environment\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

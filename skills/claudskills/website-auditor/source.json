@@ -1,0 +1,18 @@
+{
+  "name": "website-auditor",
+  "slug": "website-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/website-auditor/",
+  "download_url": "https://claudskills.com/skills/website-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Launch a comprehensive website audit. Specify a URL or audit the current codebase. Optionally specify categories: seo, accessibility, performance, security, mobile, content, compliance — or run all. Triggers: 'audit my site', 'check this URL', 'how is my SEO', 'is my site accessible', 'security scan', 'WCAG check', 'core web vitals', 'GDPR compliance'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

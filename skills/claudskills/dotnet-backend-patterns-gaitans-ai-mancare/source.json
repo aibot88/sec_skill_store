@@ -1,0 +1,18 @@
+{
+  "name": "dotnet-backend-patterns",
+  "slug": "dotnet-backend-patterns-gaitans-ai-mancare",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dotnet-backend-patterns-gaitans-ai-mancare/",
+  "download_url": "https://claudskills.com/skills/dotnet-backend-patterns-gaitans-ai-mancare/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Master C#/.NET backend development patterns for building robust APIs, MCP servers, and enterprise applications. Covers async/await, dependency injection, Entity Framework Core, Dapper, configuration, caching, and testing with xUnit. Use when developing .NET backends, reviewing C# code, or designing API architectures.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

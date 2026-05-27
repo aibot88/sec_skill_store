@@ -1,0 +1,18 @@
+{
+  "name": "security-compliance-compliance-check",
+  "slug": "security-compliance-compliance-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-compliance-compliance-check/",
+  "download_url": "https://claudskills.com/skills/security-compliance-compliance-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "You are a compliance expert specializing in regulatory requirements for software systems including GDPR, HIPAA, SOC2, PCI-DSS, and other industry standards. Perform comprehensive compliance audits and provide implementation guidance for achieving and maintaining compliance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "region-config",
+  "slug": "region-config",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/region-config/",
+  "download_url": "https://claudskills.com/skills/region-config/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when the user wants to configure regional or market settings for a brand — timezone, language, compliance rules, local platform preferences, currency, and business hours.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

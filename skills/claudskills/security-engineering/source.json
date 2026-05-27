@@ -1,0 +1,18 @@
+{
+  "name": "security-engineering",
+  "slug": "security-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-engineering/",
+  "download_url": "https://claudskills.com/skills/security-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security architecture and implementation patterns. Use when designing",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "oma-deepsec",
+  "slug": "oma-deepsec",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oma-deepsec/",
+  "download_url": "https://claudskills.com/skills/oma-deepsec/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Drive Vercel's `deepsec` agent-powered vulnerability scanner end-to-end: installing the `.deepsec/` workspace, bootstrapping `INFO.md`, running cost-aware `scan` / `process` / `triage` / `revalidate` / `export` passes, gating PRs with `process --diff`, writing custom matchers, and triaging findings. Use whenever the user mentions deepsec, asks an agent to scan a repo for vulnerabilities, runs into `pnpm deepsec` / `bunx deepsec` commands, wants a CI-based PR security review, sees a `.deepsec/` directory, or asks about `INFO.md` / matchers / `process --diff` / `revalidate`, even when the tool name is not spoken. Deepsec scans are expensive (a single full scan can cost hundreds to tens of thousands of dollars) so the skill exists in part to keep the user from getting surprised.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

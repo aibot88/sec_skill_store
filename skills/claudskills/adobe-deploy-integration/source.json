@@ -1,0 +1,18 @@
+{
+  "name": "adobe-deploy-integration",
+  "slug": "adobe-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/adobe-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/adobe-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Adobe-powered applications to Vercel, Cloud Run, and Adobe App Builder with proper credential injection and health monitoring. Use when deploying Adobe API integrations to production platforms. Trigger with phrases like \"deploy adobe\", \"adobe Vercel\", \"adobe Cloud Run\", \"adobe App Builder deploy\", \"adobe production deploy\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

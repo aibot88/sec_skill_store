@@ -1,0 +1,18 @@
+{
+  "name": "healthcare-eval-harness",
+  "slug": "healthcare-eval-harness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/healthcare-eval-harness/",
+  "download_url": "https://claudskills.com/skills/healthcare-eval-harness/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "中文优先：用于医疗评估运行框架相关任务，帮助识别、设计、实现或验证对应工作流。English keywords: Patient safety evaluation harness for healthcare application deployments. Automated test suites for CDSS accuracy, PHI exposure, clinical workflow integrity, and integration compliance. Blocks deployments on safety failures.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

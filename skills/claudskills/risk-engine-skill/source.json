@@ -1,0 +1,18 @@
+{
+  "name": "risk-engine",
+  "slug": "risk-engine-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/risk-engine-skill/",
+  "download_url": "https://claudskills.com/skills/risk-engine-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Motor de gestión de riesgo institucional del Financial Intelligence System. ACTÍVALO siempre antes de cualquier recomendación final de inversión, cuando el usuario presente un portafolio real, cuando el scoring board detecte disenso, o cuando se evalúe una posición de alto riesgo. Cuantifica el riesgo total del portafolio usando VaR paramétrico, histórico y Monte Carlo, analiza correlaciones entre activos, calcula el drawdown máximo esperado, verifica el cumplimiento de límites de posición, detecta concentraciones peligrosas y emite señales de alerta antes de que el CIO emita su recomendación. Es la última línea de defensa del sistema antes de recomendar al usuario.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

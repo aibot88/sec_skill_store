@@ -1,0 +1,18 @@
+{
+  "name": "firm-platform-audit-pack",
+  "slug": "firm-platform-audit-pack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firm-platform-audit-pack/",
+  "download_url": "https://claudskills.com/skills/firm-platform-audit-pack/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Platform alignment audit pack for OpenClaw 2026.2. Secrets v2, agent routing, voice security, trust model, autoupdate, plugin SDK, content boundaries, and sqlite-vec. 8 platform tools.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

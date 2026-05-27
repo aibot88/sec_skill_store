@@ -1,0 +1,18 @@
+{
+  "name": "ship-loop",
+  "slug": "ship-loop",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ship-loop/",
+  "download_url": "https://claudskills.com/skills/ship-loop/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Full cycle: audit site, check Dependabot alerts, fix issues, push, verify CI, deploy, close. Prioritizes Security > Availability > New features. Parallel dispatch for speed.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

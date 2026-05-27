@@ -1,0 +1,18 @@
+{
+  "name": "spec-driven-coverage",
+  "slug": "spec-driven-coverage",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spec-driven-coverage/",
+  "download_url": "https://claudskills.com/skills/spec-driven-coverage/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate epic-to-story coverage with gap detection and batch story creation using structural anti-skip enforcement. Implements 6 phases of the DevForgeAI coverage workflow using the Execute-Verify-Gate pattern at every step. Designed to prevent token optimization bias through lean orchestration, fresh-context subagent delegation, and binary CLI gate enforcement. Detects coverage gaps between epics and stories, generates visual coverage reports, and orchestrates batch story creation with failure isolation. Use when validating epic coverage, detecting story gaps, or batch-creating stories for uncovered features. Always use this skill when the user runs /validate-epic-coverage or /create-missing-stories.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

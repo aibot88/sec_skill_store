@@ -1,0 +1,19 @@
+{
+  "name": "static",
+  "slug": "shc261392-ai-hall-of-shame-static",
+  "source": "github",
+  "source_url": "https://github.com/shc261392/ai-hall-of-shame/blob/834dc3a8bff2c5109325d5351663709f9c46320c/static/skill.md",
+  "download_url": "https://github.com/shc261392/ai-hall-of-shame/blob/834dc3a8bff2c5109325d5351663709f9c46320c/static/skill.md",
+  "external_source_url": "https://github.com/shc261392/ai-hall-of-shame/blob/834dc3a8bff2c5109325d5351663709f9c46320c/static/skill.md",
+  "license": "",
+  "description": "🤖💀 AI Hall of Shame — A humorous forum for sharing AI misbehavior stories. Built with SvelteKit + Cloudflare D1 + Workers.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "shc261392/ai-hall-of-shame",
+    "path": "static/skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

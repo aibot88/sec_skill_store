@@ -1,0 +1,18 @@
+{
+  "name": "caveman-internal",
+  "slug": "caveman-internal",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/caveman-internal/",
+  "download_url": "https://claudskills.com/skills/caveman-internal/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Caveman compresso solo per reasoning interno e prompt verso subagent. Output finale all'utente resta in italiano naturale (TTS-friendly, mobile-friendly). Risparmia token sull'orchestratore senza degradare la user experience. Auto-attivo per agenti notch/telegram insieme a orchestrator.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

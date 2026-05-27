@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "wjgoarxiv-autoresearch-skill-.",
+  "source": "github",
+  "source_url": "https://github.com/wjgoarxiv/autoresearch-skill/blob/5955c6a2ba443d3a6ca3a1587cce438405ba4902/SKILL.md",
+  "download_url": "https://github.com/wjgoarxiv/autoresearch-skill/blob/5955c6a2ba443d3a6ca3a1587cce438405ba4902/SKILL.md",
+  "external_source_url": "https://github.com/wjgoarxiv/autoresearch-skill/blob/5955c6a2ba443d3a6ca3a1587cce438405ba4902/SKILL.md",
+  "license": "",
+  "description": "Autonomous research loop skill for LLM agents — inspired by Karpathy's autoresearch. Define a goal, let the agent iterate.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "wjgoarxiv/autoresearch-skill",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "alchemy-install-auth",
+  "slug": "alchemy-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alchemy-install-auth/",
+  "download_url": "https://claudskills.com/skills/alchemy-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install the Alchemy SDK and configure API key authentication for Web3 development. Use when setting up blockchain API access, creating an Alchemy app, or configuring multi-chain RPC endpoints. Trigger: \"install alchemy\", \"setup alchemy\", \"alchemy auth\", \"alchemy API key\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

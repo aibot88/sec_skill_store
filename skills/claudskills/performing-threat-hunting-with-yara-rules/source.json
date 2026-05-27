@@ -1,0 +1,18 @@
+{
+  "name": "performing-threat-hunting-with-yara-rules",
+  "slug": "performing-threat-hunting-with-yara-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-threat-hunting-with-yara-rules/",
+  "download_url": "https://claudskills.com/skills/performing-threat-hunting-with-yara-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use YARA pattern-matching rules to hunt for malware, suspicious files, and indicators of compromise across filesystems",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

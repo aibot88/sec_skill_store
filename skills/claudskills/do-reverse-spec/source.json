@@ -1,0 +1,18 @@
+{
+  "name": "do-reverse-spec",
+  "slug": "do-reverse-spec",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/do-reverse-spec/",
+  "download_url": "https://claudskills.com/skills/do-reverse-spec/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "ALWAYS use when extracting functional specifications from existing code that lacks documentation. Supports two perspectives: (1) product-feature specs that analyze multiple source files to describe a product capability from the user's viewpoint, and (2) module-level technical specs for binary formats, protocols, state machines, algorithms, or APIs. Works with natural language ('로직 제어 기능 명세 작성해줘') or slash command arguments. ALWAYS use when user mentions: 역공학 명세, reverse engineering spec, 코드 기반 명세, code-based specification, 기능 명세 추출, extract functional spec, 바이너리 구조 명세, binary structure spec, 프로토콜 명세, protocol specification, 상태 머신 명세, state machine spec, 알고리즘 명세, algorithm specification, 코드에서 문서 생성, generate docs from code, 설계 의도 추출, design intent extraction, 명세서 역공학, spec reverse engineering, 제품 기능 명세, product feature spec, 기능 사양서, functional specification, 동작 명세, behavior specification, 코드 분석 후 명세 작성, 기능 스펙 문서, 사양서 작성. Do NOT use for: API header documentation (use do-apidoc), code quality audit (use plan-quality-audit), data flow tracing without spec output (use plan-dataflow), or designing new function contracts from scratch (use plan-function-spec).",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "prd-spec",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

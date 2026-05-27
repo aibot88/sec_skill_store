@@ -1,0 +1,18 @@
+{
+  "name": "qt-widget-accessibility-audit",
+  "slug": "qt-widget-accessibility-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/qt-widget-accessibility-audit/",
+  "download_url": "https://claudskills.com/skills/qt-widget-accessibility-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit Qt Widget applications for accessibility compliance using QAccessible interface and platform accessibility APIs",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

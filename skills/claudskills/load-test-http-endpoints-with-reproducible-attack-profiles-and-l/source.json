@@ -1,0 +1,18 @@
+{
+  "name": "load-test-http-endpoints-with-reproducible-attack-profiles-and-l",
+  "slug": "load-test-http-endpoints-with-reproducible-attack-profiles-and-l",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/load-test-http-endpoints-with-reproducible-attack-profiles-and-l/",
+  "download_url": "https://claudskills.com/skills/load-test-http-endpoints-with-reproducible-attack-profiles-and-l/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run constant-rate HTTP attacks, capture binary results, and generate reports or plots before capacity changes and releases.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

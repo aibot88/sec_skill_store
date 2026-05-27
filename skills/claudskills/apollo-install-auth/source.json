@@ -1,0 +1,18 @@
+{
+  "name": "apollo-install-auth",
+  "slug": "apollo-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/apollo-install-auth/",
+  "download_url": "https://claudskills.com/skills/apollo-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Apollo.io API authentication. Use when setting up a new Apollo integration, configuring API keys, or initializing Apollo client in your project. Trigger with phrases like \"install apollo\", \"setup apollo api\", \"apollo authentication\", \"configure apollo api key\".",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "prospecting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

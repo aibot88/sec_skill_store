@@ -1,0 +1,18 @@
+{
+  "name": "energy-efficiency",
+  "slug": "energy-efficiency",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/energy-efficiency/",
+  "download_url": "https://claudskills.com/skills/energy-efficiency/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit a manufacturing energy management system for monitoring quality, cost optimization, and compliance. Evaluates power metering infrastructure, energy baseline and EnPI calculations, peak demand management and load shifting, renewable energy and battery storage integration, GHG Protocol carbon footprint tracking (Scope 1/2/3), energy cost optimization, and ISO 50001 compliance. Use when building or reviewing industrial energy platforms, building management systems, or sustainability reporting tools.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

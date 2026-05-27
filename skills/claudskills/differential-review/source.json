@@ -1,0 +1,18 @@
+{
+  "name": "differential-review",
+  "slug": "differential-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/differential-review/",
+  "download_url": "https://claudskills.com/skills/differential-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Performs security-focused differential review of code changes (PRs, commits, diffs). Adapts analysis depth to codebase size, uses git history for context, calculates blast radius, checks test coverage, and generates comprehensive markdown reports. Automatically detects and prevents security regressions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

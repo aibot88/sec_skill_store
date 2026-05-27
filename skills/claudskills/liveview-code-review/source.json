@@ -1,0 +1,18 @@
+{
+  "name": "liveview-code-review",
+  "slug": "liveview-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/liveview-code-review/",
+  "download_url": "https://claudskills.com/skills/liveview-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Reviews Phoenix LiveView code for lifecycle patterns, assigns/streams usage, components, and security. Use when reviewing LiveView modules, .heex templates, or LiveComponents.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

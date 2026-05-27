@@ -1,0 +1,18 @@
+{
+  "name": "managing-container-registries",
+  "slug": "container-registry-manager",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/container-registry-manager/",
+  "download_url": "https://claudskills.com/skills/container-registry-manager/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill enables Claude to manage container registries, including ECR, GCR, and Harbor. It should be used when the user needs to create, configure, or manage container image registries. It helps generate production-ready configurations, implement best practices, and ensure a security-first approach. Use this skill when the user mentions terms like \"container registry,\" \"ECR,\" \"GCR,\" \"Harbor,\" \"image repository,\" or requests assistance with managing container images. It's also helpful for generating configuration code for DevOps pipelines related to container registries.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

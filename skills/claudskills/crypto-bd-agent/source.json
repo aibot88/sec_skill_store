@@ -1,0 +1,18 @@
+{
+  "name": "crypto-bd-agent",
+  "slug": "crypto-bd-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crypto-bd-agent/",
+  "download_url": "https://claudskills.com/skills/crypto-bd-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Production-tested patterns for building AI agents that autonomously discover, > evaluate, and acquire token listings for cryptocurrency exchanges.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

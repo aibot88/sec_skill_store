@@ -1,0 +1,18 @@
+{
+  "name": "dotnet-codeql",
+  "slug": "dotnet-codeql",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dotnet-codeql/",
+  "download_url": "https://claudskills.com/skills/dotnet-codeql/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use the open-source CodeQL ecosystem for .NET security analysis. Use when a repo needs CodeQL query packs, CLI-based analysis on open source codebases, or GitHub Action setup with explicit licensing caveats for private repositories.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

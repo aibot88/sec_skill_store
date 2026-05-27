@@ -1,0 +1,18 @@
+{
+  "name": "scaffolding-fastapi-dapr",
+  "slug": "scaffolding-fastapi-dapr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scaffolding-fastapi-dapr/",
+  "download_url": "https://claudskills.com/skills/scaffolding-fastapi-dapr/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build production-grade FastAPI backends with SQLModel, Dapr integration, and JWT authentication. Use when building REST APIs with Neon PostgreSQL, implementing event-driven microservices with Dapr pub/sub, scheduling jobs, or creating CRUD endpoints with JWT/JWKS verification. NOT when building simple scripts or non-microservice architectures.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

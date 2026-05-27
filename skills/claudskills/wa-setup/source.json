@@ -1,0 +1,18 @@
+{
+  "name": "wa-setup",
+  "slug": "wa-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wa-setup/",
+  "download_url": "https://claudskills.com/skills/wa-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Stage 1. Sign up at Wasender, get a Personal Access Token, create a WhatsApp session, scan the QR with the user's phone, and verify the connection works end-to-end. Saves credentials to .env.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

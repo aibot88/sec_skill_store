@@ -1,0 +1,18 @@
+{
+  "name": "go-database",
+  "slug": "go-database",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/go-database/",
+  "download_url": "https://claudskills.com/skills/go-database/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Database patterns for Go services: database/sql, connection management, transactions, migrations, query builders, and ORM usage (sqlc, GORM, ent). Use when: \"database access\", \"SQL query\", \"connection pool\", \"transactions\", \"database migration\", \"sqlc\", \"GORM\", \"ent\", \"prepared statement\", \"repository pattern\". Do NOT use for: in-memory data structures (use go-coding-standards), security aspects of SQL (use go-security-audit), or performance profiling of queries (use go-performance-review).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

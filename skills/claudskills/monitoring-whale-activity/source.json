@@ -1,0 +1,18 @@
+{
+  "name": "monitoring-whale-activity",
+  "slug": "monitoring-whale-activity",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/monitoring-whale-activity/",
+  "download_url": "https://claudskills.com/skills/monitoring-whale-activity/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Track large cryptocurrency transactions and whale wallet movements in real-time. Use when tracking large holder movements, exchange flows, or wallet activity. Trigger with phrases like \"track whales\", \"monitor large transfers\", \"check whale activity\", \"exchange inflows\", or \"watch wallet\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

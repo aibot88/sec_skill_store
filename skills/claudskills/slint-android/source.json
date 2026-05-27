@@ -1,0 +1,18 @@
+{
+  "name": "slint-android",
+  "slug": "slint-android",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/slint-android/",
+  "download_url": "https://claudskills.com/skills/slint-android/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guidance for building Android apps with Slint (Rust GUI toolkit). Use this skill whenever the user is working on a Slint UI — especially for Android targets — including .slint DSL syntax, component architecture, Cargo setup, Android backend configuration (cargo-apk, android-activity), Material Design 3 compliance, touch targets, dp/sp units, safe area insets, edge-to-edge layouts, dark mode, gestures, and responsive design for multiple Android screen densities. Trigger this skill when the user mentions Slint, .slint files, cargo-apk, slint Android, or asks about cross-platform Rust UI for mobile. Also trigger for any Android UI design questions involving density-independent pixels, Material 3 components, system bar insets, or gesture navigation.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "package-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

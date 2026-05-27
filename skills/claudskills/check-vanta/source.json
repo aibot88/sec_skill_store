@@ -1,0 +1,18 @@
+{
+  "name": "check-vanta",
+  "slug": "check-vanta",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/check-vanta/",
+  "download_url": "https://claudskills.com/skills/check-vanta/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fetches dependency vulnerabilities from Vanta, Snyk, Dependabot, or GitHub Security Advisories, creates a tracking issue in Jira/Linear/GitHub Issues, then fixes, commits, pushes, and opens PRs for each affected repo. Trigger on: vulnerabilities, security scan, Vanta, CVE, dependency audit, Snyk, Dependabot.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

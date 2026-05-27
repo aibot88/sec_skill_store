@@ -1,0 +1,18 @@
+{
+  "name": "scanit",
+  "slug": "scanit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scanit/",
+  "download_url": "https://claudskills.com/skills/scanit/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Packages and runs a local SAST pipeline scan to identify source code vulnerabilities.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

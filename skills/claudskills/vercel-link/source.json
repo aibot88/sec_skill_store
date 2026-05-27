@@ -1,0 +1,18 @@
+{
+  "name": "vercel-link",
+  "slug": "vercel-link",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vercel-link/",
+  "download_url": "https://claudskills.com/skills/vercel-link/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "vercel link、プロジェクト接続、Vercelプロジェクトをリンク、vercel連携、link Vercel project、connect to Vercel project に関連するリクエストで使用。vercel linkコマンドの安全な実行手順と注意事項を提供する。",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

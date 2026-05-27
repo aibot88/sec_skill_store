@@ -1,0 +1,18 @@
+{
+  "name": "calibre",
+  "slug": "calibre",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/calibre/",
+  "download_url": "https://claudskills.com/skills/calibre/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Search and query Calibre library databases. Use when the user asks about books, TBR (to-be-read), reading lists, Calibre library queries, book searches, or mentions Calibre. Also use for queries about book ratings, authors, reading status, or library statistics.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "math-stats",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

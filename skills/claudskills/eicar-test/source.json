@@ -1,0 +1,18 @@
+{
+  "name": "eicar-test",
+  "slug": "eicar-test",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eicar-test/",
+  "download_url": "https://claudskills.com/skills/eicar-test/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Test skill containing EICAR test file for malware detection",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

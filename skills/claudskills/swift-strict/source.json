@@ -1,0 +1,18 @@
+{
+  "name": "swift-strict",
+  "slug": "swift-strict",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/swift-strict/",
+  "download_url": "https://claudskills.com/skills/swift-strict/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Swift/SwiftUI strictness, clean code, and security rules. Use when writing, reviewing, or refactoring Swift code in iOS/macOS projects. Covers force unwrap prevention, @Observable vs ObservableObject patterns, access control, concurrency safety (@MainActor, actors, Sendable), error handling with typed enums, memory leak prevention, guard-first style, and naming conventions. Derived from production iOS apps.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "mobile",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

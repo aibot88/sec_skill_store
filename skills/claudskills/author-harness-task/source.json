@@ -1,0 +1,18 @@
+{
+  "name": "myco:author-harness-task",
+  "slug": "author-harness-task",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/author-harness-task/",
+  "download_url": "https://claudskills.com/skills/author-harness-task/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when designing, writing, configuring, or debugging a new phased executor task for the Myco agent harness — even if the user doesn't explicitly ask for a \"task authoring\" guide. Applies when adding a new intelligence task, modifying phase structure, tuning turn budgets or model routing, adjusting scheduling triggers or session-gating, designing a tool surface, or debugging silent phase failures or budget exhaustion. Covers: YAML task anatomy and registration; phase decomposition and the judgment/recipe gradient; model selection via the advisor pattern; turn budget calibration including local-model multipliers; scheduling triggers and session-gating; tool surface design and readOnly enforcement; Grove scope iteration patterns; per-project lifecycle management; and observability via the agent_runs audit table.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "observability",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:57+00:00"
+}

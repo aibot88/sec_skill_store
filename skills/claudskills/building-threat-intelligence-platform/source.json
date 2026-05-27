@@ -1,0 +1,18 @@
+{
+  "name": "building-threat-intelligence-platform",
+  "slug": "building-threat-intelligence-platform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-threat-intelligence-platform/",
+  "download_url": "https://claudskills.com/skills/building-threat-intelligence-platform/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Building a Threat Intelligence Platform (TIP) involves deploying and integrating multiple CTI tools into a unified",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

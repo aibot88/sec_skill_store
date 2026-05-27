@@ -1,0 +1,19 @@
+{
+  "name": ".agent",
+  "slug": "amit-srivatsa-personal-website-old-.agent",
+  "source": "github",
+  "source_url": "https://github.com/amit-srivatsa/personal-website-old/blob/c0d2e999b043c6f6cd8851569666d8d50328ab30/.agent/writing-skill.md",
+  "download_url": "https://github.com/amit-srivatsa/personal-website-old/blob/c0d2e999b043c6f6cd8851569666d8d50328ab30/.agent/writing-skill.md",
+  "external_source_url": "https://github.com/amit-srivatsa/personal-website-old/blob/c0d2e999b043c6f6cd8851569666d8d50328ab30/.agent/writing-skill.md",
+  "license": "",
+  "description": "Personal website portfolio",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "amit-srivatsa/personal-website-old",
+    "path": ".agent/writing-skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

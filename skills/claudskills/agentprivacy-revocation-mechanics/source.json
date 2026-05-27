@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-revocation-mechanics",
+  "slug": "agentprivacy-revocation-mechanics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-revocation-mechanics/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-revocation-mechanics/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Consent withdrawal, key revocation, credential invalidation, and data deletion enforcement for 0xagentprivacy swordsman operations. Activates when designing how to undo a previous delegation, implementing right-to- be-forgotten enforcement, building credential revocation infrastructure, or managing the lifecycle end of any trust relationship or authorisation. Triggers: \"revoke\", \"revocation\", \"withdraw consent\", \"delete data\", \"right to be forgotten\", \"nullifier\", \"credential invalidation\", \"undo delegation\", \"consent expiry\", \"relationship termination\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-dependencies",
+  "slug": "analyzing-dependencies",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-dependencies/",
+  "download_url": "https://claudskills.com/skills/analyzing-dependencies/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Analyze dependencies for known security vulnerabilities and outdated versions. Use when auditing third-party libraries. Trigger with 'check dependencies', 'scan for vulnerabilities', or 'audit packages'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

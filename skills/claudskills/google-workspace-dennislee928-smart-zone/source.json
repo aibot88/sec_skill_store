@@ -1,0 +1,18 @@
+{
+  "name": "google-workspace",
+  "slug": "google-workspace-dennislee928-smart-zone",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-workspace-dennislee928-smart-zone/",
+  "download_url": "https://claudskills.com/skills/google-workspace-dennislee928-smart-zone/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build integrations with Google Workspace APIs (Gmail, Calendar, Drive, Sheets, Docs, Chat, Meet, Forms, Tasks, Admin SDK). Covers OAuth 2.0, service accounts, rate limits, batch operations, and Cloudflare Workers patterns.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

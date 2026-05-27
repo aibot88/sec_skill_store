@@ -1,0 +1,18 @@
+{
+  "name": "ai-langchain4j",
+  "slug": "ai-langchain4j",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-langchain4j/",
+  "download_url": "https://claudskills.com/skills/ai-langchain4j/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "基于若依-vue-plus框架的LangChain4j AI大模型集成标准规范。全面规范模型配置管理、类型安全服务定义、RAG（检索增强生成）实现、流式响应处理及安全性保障。 触发场景： - 开发智能客服系统、文档问答助手、代码生成工具 - 集成LLM大模型接口（OpenAI、智谱AI、通义千问等） - 实现知识库问答、文档检索、语义搜索功能 - 开发需要流式响应的AI交互界面 - 构建RAG（检索增强生成）应用 触发词：AI集成、LangChain4j、大模型、RAG、流式输出、智谱AI、通义千问、OpenAI、向量检索、嵌入模型、Prompt工程",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

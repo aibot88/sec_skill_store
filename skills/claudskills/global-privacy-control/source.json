@@ -1,0 +1,18 @@
+{
+  "name": "global-privacy-control",
+  "slug": "global-privacy-control",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/global-privacy-control/",
+  "download_url": "https://claudskills.com/skills/global-privacy-control/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implementation guide for Global Privacy Control (GPC) automated opt-out signal per CPRA Section 1798.135(e). Covers Sec-GPC HTTP header detection, JavaScript navigator.globalPrivacyControl API, and state-specific requirements for CA, CO, CT, MT, TX, and OR. Includes server-side detection code and compliance mapping.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

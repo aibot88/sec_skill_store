@@ -1,0 +1,18 @@
+{
+  "name": "architecture-diagram",
+  "slug": "architecture-diagram",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/architecture-diagram/",
+  "download_url": "https://claudskills.com/skills/architecture-diagram/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Create professional, dark-themed architecture diagrams as standalone HTML files with SVG graphics. Use when the user asks for system architecture diagrams, infrastructure diagrams, cloud architecture visualizations, security diagrams, network topology diagrams, or any technical diagram showing system components and their relationships.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

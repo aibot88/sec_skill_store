@@ -1,0 +1,18 @@
+{
+  "name": "configuring-oauth2-authorization-flow",
+  "slug": "configuring-oauth2-authorization-flow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/configuring-oauth2-authorization-flow/",
+  "download_url": "https://claudskills.com/skills/configuring-oauth2-authorization-flow/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Configure secure OAuth 2.0 authorization flows including Authorization Code with PKCE, Client Credentials, and",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

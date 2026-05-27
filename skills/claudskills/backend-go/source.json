@@ -1,0 +1,18 @@
+{
+  "name": "backend-go",
+  "slug": "backend-go",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backend-go/",
+  "download_url": "https://claudskills.com/skills/backend-go/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Enforces Go backend best practices following clean architecture, dependency injection, and test-driven development. Automatically applied for Go backend implementation, API development, and microservices construction.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

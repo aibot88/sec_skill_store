@@ -1,0 +1,18 @@
+{
+  "name": "disk-forensics",
+  "slug": "disk-forensics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/disk-forensics/",
+  "download_url": "https://claudskills.com/skills/disk-forensics/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Analyze disk images and file systems for forensic investigation. Use when investigating data theft, insider threats, malware persistence, deleted file recovery, or any incident requiring analysis of storage media. Supports NTFS, FAT, EXT, HFS+, and APFS file systems.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

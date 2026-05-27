@@ -1,0 +1,18 @@
+{
+  "name": "tilt",
+  "slug": "tilt",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tilt/",
+  "download_url": "https://claudskills.com/skills/tilt/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manages Tilt development environments via CLI and Tiltfile authoring. Must use when working with Tilt or Tiltfiles.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

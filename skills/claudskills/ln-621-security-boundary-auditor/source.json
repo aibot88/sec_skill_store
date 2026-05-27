@@ -1,0 +1,18 @@
+{
+  "name": "ln-621-security-boundary-auditor",
+  "slug": "ln-621-security-boundary-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-621-security-boundary-auditor/",
+  "download_url": "https://claudskills.com/skills/ln-621-security-boundary-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Checks application security boundaries: secrets, injection, XSS, input validation, and sensitive env defaults. Use when auditing exploitable code paths.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "zero-trust",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

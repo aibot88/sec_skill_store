@@ -1,0 +1,18 @@
+{
+  "name": "swe-programming-dart",
+  "slug": "swe-programming-dart",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/swe-programming-dart/",
+  "download_url": "https://claudskills.com/skills/swe-programming-dart/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Dart coding standards from authoritative docs/explanation/software-engineering/programming-languages/dart/ documentation",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "docs-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

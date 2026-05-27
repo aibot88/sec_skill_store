@@ -1,0 +1,18 @@
+{
+  "name": "fal-serverless-guide",
+  "slug": "fal-serverless-guide",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fal-serverless-guide/",
+  "download_url": "https://claudskills.com/skills/fal-serverless-guide/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Complete fal.ai serverless deployment system. PROACTIVELY activate for: (1) Creating fal.App class, (2) GPU machine selection (T4/A10G/A100/H100), (3) setup() for model loading, (4) @fal.endpoint decorators, (5) Persistent volumes for weights, (6) Secrets management, (7) Scaling configuration (min/max concurrency), (8) Multi-GPU deployment, (9) fal deploy commands, (10) Local development with fal run. Provides: App structure, Dockerfile patterns, deployment commands, scaling config. Ensures production-ready serverless ML deployment.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

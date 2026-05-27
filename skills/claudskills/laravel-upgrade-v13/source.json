@@ -1,0 +1,18 @@
+{
+  "name": "laravel-upgrade-v13",
+  "slug": "laravel-upgrade-v13",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/laravel-upgrade-v13/",
+  "download_url": "https://claudskills.com/skills/laravel-upgrade-v13/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when upgrading a Laravel 12 application to Laravel 13.0. Covers PHP 8.3 requirement, composer commands, breaking changes (PHPUnit 12, Pest 4, VerifyCsrfToken → PreventRequestForgery, cache prefixes, serializable_classes, pheanstalk 8.0+), Attributes migration (Eloquent + Queue), Symfony 7.4/8.0 upgrade, and Laravel Boost MCP automated upgrade.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

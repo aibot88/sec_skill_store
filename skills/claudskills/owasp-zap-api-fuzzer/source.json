@@ -1,0 +1,18 @@
+{
+  "name": "owasp-zap-api-fuzzer",
+  "slug": "owasp-zap-api-fuzzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/owasp-zap-api-fuzzer/",
+  "download_url": "https://claudskills.com/skills/owasp-zap-api-fuzzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automates REST API security testing using the OWASP ZAP Python SDK. Runs active scans, SQL injection probes, and XSS tests against OpenAPI specs with structured vulnerability reports.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

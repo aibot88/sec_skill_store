@@ -1,0 +1,18 @@
+{
+  "name": "homelab-iac",
+  "slug": "homelab-iac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/homelab-iac/",
+  "download_url": "https://claudskills.com/skills/homelab-iac/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when working with Proxmox homelab infrastructure - Terraform provisioning, Ansible configuration, or Nix devshells. Covers LXC containers, services, secrets, and IaC workflows.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

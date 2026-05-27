@@ -1,0 +1,19 @@
+{
+  "name": "sast",
+  "slug": "rune-kit-rune-skills-sast",
+  "source": "github",
+  "source_url": "https://github.com/Rune-kit/rune/blob/659fb10e6e57c33f6d41c110022c797a5f255f77/skills/sast/SKILL.md",
+  "download_url": "https://github.com/Rune-kit/rune/blob/659fb10e6e57c33f6d41c110022c797a5f255f77/skills/sast/SKILL.md",
+  "external_source_url": "https://github.com/Rune-kit/rune/blob/659fb10e6e57c33f6d41c110022c797a5f255f77/skills/sast/SKILL.md",
+  "license": "",
+  "description": "Less skills. Deeper connections. A lean, interconnected skill ecosystem for Claude Code.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Rune-kit/rune",
+    "path": "skills/sast/SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

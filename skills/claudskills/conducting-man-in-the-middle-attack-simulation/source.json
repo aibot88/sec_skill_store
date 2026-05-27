@@ -1,0 +1,18 @@
+{
+  "name": "conducting-man-in-the-middle-attack-simulation",
+  "slug": "conducting-man-in-the-middle-attack-simulation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/conducting-man-in-the-middle-attack-simulation/",
+  "download_url": "https://claudskills.com/skills/conducting-man-in-the-middle-attack-simulation/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Simulates man-in-the-middle attacks using Ettercap, mitmproxy, and Bettercap in authorized environments to intercept,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

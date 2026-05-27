@@ -1,0 +1,18 @@
+{
+  "name": "supabase-enterprise-rbac",
+  "slug": "supabase-enterprise-rbac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-enterprise-rbac/",
+  "download_url": "https://claudskills.com/skills/supabase-enterprise-rbac/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement custom role-based access control via JWT claims in Supabase: app_metadata.role, RLS policies with auth.jwt() role extraction, organization-scoped access, and API key scoping. Use when implementing role-based permissions, configuring organization-level access, building admin/member/viewer hierarchies, or scoping API keys per role. Trigger: \"supabase RBAC\", \"supabase roles\", \"supabase permissions\", \"supabase JWT claims\", \"supabase organization access\", \"supabase custom roles\", \"supabase app_metadata\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

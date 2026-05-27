@@ -1,0 +1,18 @@
+{
+  "name": "checking-owasp-compliance",
+  "slug": "owasp-compliance-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/owasp-compliance-checker/",
+  "download_url": "https://claudskills.com/skills/owasp-compliance-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill uses the owasp-compliance-checker plugin to automatically identify potential security vulnerabilities based on the OWASP Top 10 (2021) list. It helps ensure your application adheres to industry-standard security practices by providing a detailed analysis of compliance gaps and offering remediation guidance. Use this skill when you need to audit your code for OWASP compliance, identify and fix vulnerabilities, or generate a compliance report. Trigger this skill by asking to \"check OWASP compliance\", \"scan for OWASP vulnerabilities\", or using the `/owasp` shortcut.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

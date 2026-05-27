@@ -1,0 +1,18 @@
+{
+  "name": "fix-all-tests",
+  "slug": "fix-all-tests",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fix-all-tests/",
+  "download_url": "https://claudskills.com/skills/fix-all-tests/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Systematically fixes all failing tests in a project by running test commands repeatedly until 100% pass with zero warnings. Use when tests are failing, validation is not passing, or when asked to fix test suites. Works with any testing framework (Jest, Pytest, Go test, etc.) and ensures complete test compliance without skipping or modifying tests.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

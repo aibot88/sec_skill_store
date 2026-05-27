@@ -1,0 +1,18 @@
+{
+  "name": "agent-script-dsl",
+  "slug": "agent-script-dsl",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-script-dsl/",
+  "download_url": "https://claudskills.com/skills/agent-script-dsl/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authoring and managing Agentforce agent definitions using the declarative Agent Script DSL (.agent files) and associated metadata types. Use when creating agents in source control, debugging agent metadata, or understanding the metadata lifecycle of GenAiPlugin/GenAiPlanner/BotVersion types. Triggers: 'how do I deploy an Agentforce agent using source control', 'what metadata types make up an Agentforce agent', 'agent test run command failing in CI pipeline', 'GenAiPlugin vs GenAiPlanner metadata relationship'. NOT for Apex-based agent actions (use custom-agent-actions-apex). NOT for UI-based agent creation (use agentforce-agent-creation).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

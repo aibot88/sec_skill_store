@@ -1,0 +1,18 @@
+{
+  "name": "implementing-continuous-security-validation-with-bas",
+  "slug": "implementing-continuous-security-validation-with-bas",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-continuous-security-validation-with-bas/",
+  "download_url": "https://claudskills.com/skills/implementing-continuous-security-validation-with-bas/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Deploy Breach and Attack Simulation tools to continuously validate security control effectiveness by safely emulating",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

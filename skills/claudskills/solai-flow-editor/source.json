@@ -1,0 +1,18 @@
+{
+  "name": "solai-flow-editor",
+  "slug": "solai-flow-editor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/solai-flow-editor/",
+  "download_url": "https://claudskills.com/skills/solai-flow-editor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Edit live Contextual flows in the Flow Editor — add, change, move, wire, delete, rename, configure, group, copy, or validate nodes / wires / properties / code in a flow open in the user's browser. Also the source-of-truth for node-level behavior, configuration, and authoring patterns — function-node logging (`await logger.*`), loop wiring, Native Object node TypedInput patterns, `http-response` status precedence, etc. (see `node-reference.md`). Required before any `mcp__ctxl-flow-editor__*` call other than `info`/`list_sessions` orientation. Use AFTER planning; do NOT plan architecture here — use plan-flow first.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

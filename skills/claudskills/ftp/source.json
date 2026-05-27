@@ -1,0 +1,18 @@
+{
+  "name": "ftp",
+  "slug": "ftp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ftp/",
+  "download_url": "https://claudskills.com/skills/ftp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deploys static site build output to GoDaddy shared hosting via FTP using basic-ftp in Node.js and SamKirkland/FTP-Deploy-Action in CI. Use when: modifying deploy.js, troubleshooting FTP upload failures, changing remote directory structure, configuring FTP credentials in .env or GitHub Secrets, editing deploy workflows, or adding pre/post-deploy steps.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

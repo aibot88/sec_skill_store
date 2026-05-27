@@ -1,0 +1,18 @@
+{
+  "name": "rehab-therapy",
+  "slug": "rehab-therapy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rehab-therapy/",
+  "download_url": "https://claudskills.com/skills/rehab-therapy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit a rehabilitation or physical therapy platform end-to-end -- evaluate recovery metrics tracking (ROM, strength, balance, gait), patient-reported outcomes (DASH, LEFS, NDI, ODI, PROMIS), home exercise program personalization and compliance tracking, setback prediction with risk stratification and plateau detection, therapist scheduling and caseload balancing, insurance authorization and 8-minute rule CPT billing, and outcome-based care measurement with MIPS quality reporting. Covers outpatient orthopedic, inpatient rehab, sports medicine, neuro rehab, and telerehab settings.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "biology-medicine",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

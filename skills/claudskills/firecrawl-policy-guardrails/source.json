@@ -1,0 +1,18 @@
+{
+  "name": "firecrawl-policy-guardrails",
+  "slug": "firecrawl-policy-guardrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firecrawl-policy-guardrails/",
+  "download_url": "https://claudskills.com/skills/firecrawl-policy-guardrails/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Firecrawl scraping policy enforcement: domain blocklists, credit budgets, content filtering, and robots.txt compliance guardrails. Use when setting up scraping policies, enforcing crawl limits, or preventing accidental scraping of prohibited domains. Trigger with phrases like \"firecrawl policy\", \"firecrawl guardrails\", \"firecrawl domain blocklist\", \"firecrawl scraping rules\", \"firecrawl compliance\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

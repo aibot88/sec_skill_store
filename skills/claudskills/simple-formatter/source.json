@@ -1,0 +1,18 @@
+{
+  "name": "simple-formatter",
+  "slug": "simple-formatter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/simple-formatter/",
+  "download_url": "https://claudskills.com/skills/simple-formatter/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Formats text according to specified style guidelines. A clean example skill with no security issues.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "linters-formatters",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

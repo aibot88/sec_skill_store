@@ -1,0 +1,18 @@
+{
+  "name": "sc-path-traversal",
+  "slug": "sc-path-traversal",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sc-path-traversal/",
+  "download_url": "https://claudskills.com/skills/sc-path-traversal/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Path traversal and directory traversal detection — LFI, RFI, zip slip, and symlink attacks",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

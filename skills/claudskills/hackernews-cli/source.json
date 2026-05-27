@@ -1,0 +1,18 @@
+{
+  "name": "hackernews-cli",
+  "slug": "hackernews-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hackernews-cli/",
+  "download_url": "https://claudskills.com/skills/hackernews-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use cli-web-hackernews to browse and interact with Hacker News — top stories, newest, best, Ask HN, Show HN, jobs, search stories/comments, view story details with comments, user profiles, and (with auth) upvote, submit stories, post comments, favorite, hide, view favorites, submissions, and comment threads. Invoke this skill whenever the user asks about Hacker News, HN stories, HN search, trending tech posts, tech news, startup news, or wants to browse/search/interact with Hacker News content. Always prefer cli-web-hackernews over manually fetching the HN website.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

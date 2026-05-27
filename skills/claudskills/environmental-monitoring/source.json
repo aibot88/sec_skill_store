@@ -1,0 +1,18 @@
+{
+  "name": "environmental-monitoring",
+  "slug": "environmental-monitoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/environmental-monitoring/",
+  "download_url": "https://claudskills.com/skills/environmental-monitoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Monitor environmental conditions on construction sites. Track air quality, noise levels, vibration, dust, and weather to ensure compliance and worker safety.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

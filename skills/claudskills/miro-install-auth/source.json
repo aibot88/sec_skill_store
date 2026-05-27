@@ -1,0 +1,18 @@
+{
+  "name": "miro-install-auth",
+  "slug": "miro-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/miro-install-auth/",
+  "download_url": "https://claudskills.com/skills/miro-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Miro REST API v2 authentication with OAuth 2.0. Use when setting up a new Miro app, configuring OAuth tokens, or initializing the @mirohq/miro-api Node.js client. Trigger with phrases like \"install miro\", \"setup miro\", \"miro auth\", \"miro OAuth\", \"configure miro API\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

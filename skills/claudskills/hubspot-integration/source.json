@@ -1,0 +1,18 @@
+{
+  "name": "hubspot-integration",
+  "slug": "hubspot-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hubspot-integration/",
+  "download_url": "https://claudskills.com/skills/hubspot-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert patterns for HubSpot CRM integration including OAuth authentication, CRM objects, associations, batch operations, webhooks, and custom objects. Covers Node.js and Python SDKs. Use when: hubspot, hubspot api, hubspot crm, hubspot integration, contacts api.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

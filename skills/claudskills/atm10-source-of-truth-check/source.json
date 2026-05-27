@@ -1,0 +1,18 @@
+{
+  "name": "atm10-source-of-truth-check",
+  "slug": "atm10-source-of-truth-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/atm10-source-of-truth-check/",
+  "download_url": "https://claudskills.com/skills/atm10-source-of-truth-check/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Apply the aoa-source-of-truth-check workflow inside an atm10-* repository using repo-relative document maps, canonical-file patterns, and local review posture. Use when contributors need a thin project overlay to identify authoritative docs inside an atm10-* repo. Do not use when the task is broader policy design, purely code-local, or better handled by the base skill without local adaptation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

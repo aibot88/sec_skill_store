@@ -1,0 +1,18 @@
+{
+  "name": "merchandising-analytics",
+  "slug": "merchandising-analytics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/merchandising-analytics/",
+  "download_url": "https://claudskills.com/skills/merchandising-analytics/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze retail merchandising systems including planogram optimization (space-to-sales alignment, fair share index, sales per linear foot), visual merchandising effectiveness for in-store displays and e-commerce product pages, market basket analysis with association rule mining (Apriori, FP-Growth), cross-sell and upsell recommendation engine performance, seasonal calendar and event planning execution, A/B testing infrastructure for merchandising decisions, and compliance monitoring with photo recognition AI.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

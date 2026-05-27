@@ -1,0 +1,18 @@
+{
+  "name": "notion-data-handling",
+  "slug": "notion-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/notion-data-handling/",
+  "download_url": "https://claudskills.com/skills/notion-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement data handling, PII protection, and GDPR/CCPA compliance for Notion integrations. Use when handling sensitive data from Notion pages, implementing data redaction, or ensuring compliance with privacy regulations. Trigger with phrases like \"notion data\", \"notion PII\", \"notion GDPR\", \"notion data retention\", \"notion privacy\", \"notion CCPA\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "knowledge-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

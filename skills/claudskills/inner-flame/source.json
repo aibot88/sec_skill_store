@@ -1,0 +1,18 @@
+{
+  "name": "inner-flame",
+  "slug": "inner-flame",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/inner-flame/",
+  "download_url": "https://claudskills.com/skills/inner-flame/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Universal self-review protocol for all Rune teammates. Adapts checklist per agent role (worker, fixer, reviewer, researcher, forger, aggregator). Enforces completeness verification, hallucination detection, codebase rule compliance, and value assessment before any task can be marked complete.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "data-science-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

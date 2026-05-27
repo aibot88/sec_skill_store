@@ -1,0 +1,18 @@
+{
+  "name": "rpa-workflow-resilience-review",
+  "slug": "rpa-workflow-resilience-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rpa-workflow-resilience-review/",
+  "download_url": "https://claudskills.com/skills/rpa-workflow-resilience-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing exported RPA workflow definitions for resilience and security defects that cause unattended bots to fail silently in production. Trigger when a user provides UiPath XAML files, Automation Anywhere bot exports, Power Automate Desktop flow definitions, Blue Prism process XML, or project dependency manifests, or asks why an unattended bot crashes silently, double-processes transactions, or times out under load. This skill reviews workflow definitions statically; it never connects to a live orchestrator, never runs a bot, and never requests runner credentials or orchestrator URLs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

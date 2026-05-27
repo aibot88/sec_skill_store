@@ -1,0 +1,18 @@
+{
+  "name": "clerk-hello-world",
+  "slug": "clerk-hello-world",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk-hello-world/",
+  "download_url": "https://claudskills.com/skills/clerk-hello-world/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Create your first authenticated request with Clerk. Use when making initial API calls, testing authentication, or verifying Clerk integration works correctly. Trigger with phrases like \"clerk hello world\", \"first clerk request\", \"test clerk auth\", \"verify clerk setup\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ast-grep-code-analysis",
+  "slug": "ast-grep-code-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ast-grep-code-analysis/",
+  "download_url": "https://claudskills.com/skills/ast-grep-code-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when analyzing complex codebases for security vulnerabilities, performance issues, and structural patterns - provides systematic AST-based approach using ast-grep for comprehensive code understanding beyond manual inspection",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

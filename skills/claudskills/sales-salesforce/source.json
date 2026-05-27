@@ -1,0 +1,18 @@
+{
+  "name": "sales-salesforce",
+  "slug": "sales-salesforce",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-salesforce/",
+  "download_url": "https://claudskills.com/skills/sales-salesforce/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Salesforce platform help — Sales Cloud, Service Cloud, Marketing Cloud, Commerce Cloud, Data Cloud, Agentforce AI, Platform (Lightning/Apex/Flow), AppExchange, and REST API (v66.0, OAuth 2.0, SOQL, Bulk API 2.0). Use when Salesforce workflows or Flows aren't firing, reports don't show the right numbers, lead assignment rules aren't working, Apex triggers are failing, AppExchange app won't install, need help with SOQL queries, implementation is stalling, data migration to or from Salesforce, or not sure which Salesforce edition you need. Do NOT use for CRM comparison and selection (use /sales-crm-selection) or CRM data cleanup strategy (use /sales-data-hygiene).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "webhook-inbound-patterns",
+  "slug": "webhook-inbound-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/webhook-inbound-patterns/",
+  "download_url": "https://claudskills.com/skills/webhook-inbound-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when implementing an inbound webhook receiver in Salesforce: routing via Apex REST and Salesforce Sites, authenticating webhook payloads via HMAC, ensuring idempotent processing, and handling the 5-second response window. NOT for outbound callouts from Salesforce to external systems (use callouts-and-http-integrations), NOT for general Apex REST service design (use apex-rest-services), NOT for platform events as inbound triggers.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

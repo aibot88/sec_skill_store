@@ -1,0 +1,18 @@
+{
+  "name": "skillpack-harvest",
+  "slug": "skillpack-harvest",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skillpack-harvest/",
+  "download_url": "https://claudskills.com/skills/skillpack-harvest/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Lift a proven skill from a host repo (e.g. your OpenClaw fork) back into gbrain's bundle so other clients can scaffold it. Editorial workflow: the CLI does the file copy + privacy lint; this skill drives the judgment-heavy genericization (scrub real names, generalize triggers, lift fork-specific conventions to references).",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "editorial",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

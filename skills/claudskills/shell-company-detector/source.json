@@ -1,0 +1,18 @@
+{
+  "name": "Shell Company Detector",
+  "slug": "shell-company-detector",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/shell-company-detector/",
+  "download_url": "https://claudskills.com/skills/shell-company-detector/SKILL.md",
+  "external_source_url": "",
+  "license": "CC-BY-4.0",
+  "description": "Detect shell-company signals from live government registry data — single director, no accounts ever filed, overseas registered-office concentration, no employees, nominee address patterns. Pulls live unmodified registry records and scores the shell-probability. Use this skill when the user asks to \"detect shell company\", \"is this a shell\", \"AML check\", \"flag suspicious entity\", \"money-laundering screening\", \"sanctions evasion indicator\", or is doing compliance / investigation / fraud-research work.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

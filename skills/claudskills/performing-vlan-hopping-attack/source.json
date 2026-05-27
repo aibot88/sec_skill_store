@@ -1,0 +1,18 @@
+{
+  "name": "performing-vlan-hopping-attack",
+  "slug": "performing-vlan-hopping-attack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-vlan-hopping-attack/",
+  "download_url": "https://claudskills.com/skills/performing-vlan-hopping-attack/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Simulates VLAN hopping attacks using switch spoofing and double tagging techniques in authorized environments",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

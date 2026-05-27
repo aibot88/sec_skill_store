@@ -1,0 +1,18 @@
+{
+  "name": "golang-database",
+  "slug": "golang-database",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/golang-database/",
+  "download_url": "https://claudskills.com/skills/golang-database/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive guide for Go database access. Covers parameterized queries, struct scanning, NULLable column handling, error patterns, transactions, isolation levels, SELECT FOR UPDATE, connection pool, batch processing, context propagation, and migration tooling. Use this skill whenever writing, reviewing, or debugging Golang code that interacts with PostgreSQL, MariaDB, MySQL, or SQLite. Also triggers for database testing or any question about database/sql, sqlx, pgx, or SQL queries in Golang. This skill explicitly does NOT generate database schemas or migration SQL.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

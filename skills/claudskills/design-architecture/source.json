@@ -1,0 +1,18 @@
+{
+  "name": "design-architecture",
+  "slug": "design-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/design-architecture/",
+  "download_url": "https://claudskills.com/skills/design-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "AGPL-3.0",
+  "description": "Define system architecture — components, boundaries, communication patterns, data flow, and compliance requirements.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

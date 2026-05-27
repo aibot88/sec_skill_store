@@ -1,0 +1,18 @@
+{
+  "name": "grumpy-review",
+  "slug": "grumpy-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/grumpy-review/",
+  "download_url": "https://claudskills.com/skills/grumpy-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Parallel-agent code review for quality, security, dependencies, and docs. Use for reviews, audits, or quality assessments. Produces deduplicated severity-ranked report.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:10+00:00"
+}

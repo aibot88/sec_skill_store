@@ -1,0 +1,18 @@
+{
+  "name": "audit-report",
+  "slug": "audit-report",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-report/",
+  "download_url": "https://claudskills.com/skills/audit-report/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Template and formatting guidelines for security audit reports. Provides consistent structure for findings, severity classification, ASVS mapping, and remediation recommendations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

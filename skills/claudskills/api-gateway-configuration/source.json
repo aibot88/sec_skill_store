@@ -1,0 +1,18 @@
+{
+  "name": "api-gateway-configuration",
+  "slug": "api-gateway-configuration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-gateway-configuration/",
+  "download_url": "https://claudskills.com/skills/api-gateway-configuration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configures API gateways for routing, authentication, rate limiting, and request transformation in microservice architectures. Use when setting up Kong, Nginx, AWS API Gateway, or Traefik for centralized API management.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

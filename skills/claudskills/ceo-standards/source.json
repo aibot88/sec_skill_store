@@ -1,0 +1,18 @@
+{
+  "name": "ceo-standards",
+  "slug": "ceo-standards",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ceo-standards/",
+  "download_url": "https://claudskills.com/skills/ceo-standards/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CEO Standards — Security policy, coding standards, performance patterns. Load this when reviewing security, writing code, or enforcing quality gates.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

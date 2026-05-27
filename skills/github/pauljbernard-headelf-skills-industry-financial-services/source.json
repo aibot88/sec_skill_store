@@ -1,0 +1,19 @@
+{
+  "name": "financial-services",
+  "slug": "pauljbernard-headelf-skills-industry-financial-services",
+  "source": "github",
+  "source_url": "https://github.com/pauljbernard/headElf/blob/2c1e23eb08d7ce7d74981661c8c51b1bcb277dcc/skills/industry/financial-services/skill.md",
+  "download_url": "https://github.com/pauljbernard/headElf/blob/2c1e23eb08d7ce7d74981661c8c51b1bcb277dcc/skills/industry/financial-services/skill.md",
+  "external_source_url": "https://github.com/pauljbernard/headElf/blob/2c1e23eb08d7ce7d74981661c8c51b1bcb277dcc/skills/industry/financial-services/skill.md",
+  "license": "",
+  "description": "HeadElf - A comprehensive agent framework for C-suite functions and capabilities.  ",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "pauljbernard/headElf",
+    "path": "skills/industry/financial-services/skill.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "chainstacklabs-polyclaw-.",
+  "source": "github",
+  "source_url": "https://github.com/chainstacklabs/polyclaw/blob/1f5a8ab02b9fd5aa2bbb5b88e5bca8b8947655d1/SKILL.md",
+  "download_url": "https://github.com/chainstacklabs/polyclaw/blob/1f5a8ab02b9fd5aa2bbb5b88e5bca8b8947655d1/SKILL.md",
+  "external_source_url": "https://github.com/chainstacklabs/polyclaw/blob/1f5a8ab02b9fd5aa2bbb5b88e5bca8b8947655d1/SKILL.md",
+  "license": "",
+  "description": "Trading-enabled Polymarket skill for OpenClaw - browse markets, execute trades, track positions, discover hedges",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "chainstacklabs/polyclaw",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

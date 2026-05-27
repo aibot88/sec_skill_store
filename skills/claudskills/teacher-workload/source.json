@@ -1,0 +1,18 @@
+{
+  "name": "teacher-workload",
+  "slug": "teacher-workload",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/teacher-workload/",
+  "download_url": "https://claudskills.com/skills/teacher-workload/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Evaluate edtech tools for their real impact on teacher time and administrative burden. Analyzes grading automation (auto-scoring, rubric-based feedback, batch workflows), lesson planning efficiency (template reuse, standards auto-tagging, pacing guide integration), parent communication systems (automated notifications, translation, conference scheduling), administrative task reduction (single-entry data flow, IEP/504 accommodation surfacing, compliance documentation), report generation (report cards, progress reports, data dashboards), and time-on-task optimization across platforms like Canvas, Schoology, PowerSchool, and Google Classroom.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "translation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "mongodb-mcp-server-database-atlas-management",
+  "slug": "mongodb-mcp-server-database-atlas-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mongodb-mcp-server-database-atlas-management/",
+  "download_url": "https://claudskills.com/skills/mongodb-mcp-server-database-atlas-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "The official MongoDB MCP server connects AI agents to MongoDB databases and Atlas clusters through the Model Context Protocol, enabling structured queries, collection management, Atlas API operations, and aggregation pipelines with built-in authentication and access control.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

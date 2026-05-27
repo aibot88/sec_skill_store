@@ -1,0 +1,18 @@
+{
+  "name": "brand-guidelines-enforcer",
+  "slug": "brand-guidelines-enforcer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/brand-guidelines-enforcer/",
+  "download_url": "https://claudskills.com/skills/brand-guidelines-enforcer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "[Design System] Lightweight brand guidelines enforcement for UI copy and visual motifs. Use when (1) checking UI labels/buttons/error messages against brand tone, (2) validating color usage in specific contexts, (3) ensuring reserved components are used correctly, (4) user asks to 'check brand guidelines', 'validate brand compliance', 'review copy tone', or 'enforce design rules'.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "branding",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gcp-serverless-production-readiness",
+  "slug": "gcp-serverless-production-readiness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-serverless-production-readiness/",
+  "download_url": "https://claudskills.com/skills/gcp-serverless-production-readiness/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review Cloud Run and Cloud Functions gen2 for production readiness — min-instances cold start, memory and CPU allocation, VPC connector configuration, Secret Manager injection, CMEK encryption, concurrency limits, and traffic splitting safety.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "a11y-playwright-testing",
+  "slug": "a11y-playwright-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/a11y-playwright-testing/",
+  "download_url": "https://claudskills.com/skills/a11y-playwright-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Accessibility testing for web applications using Playwright (@playwright/test) with TypeScript and axe-core. Use when asked to write, run, or debug automated accessibility checks, keyboard navigation tests, focus management, ARIA/semantic validations, screen reader compatibility, or WCAG 2.1 Level AA compliance testing. Covers axe-core integration, POUR principles (perceivable, operable, understandable, robust), color contrast, form labels, landmarks, and accessible names.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

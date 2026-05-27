@@ -1,0 +1,18 @@
+{
+  "name": "langfuse-dashboard",
+  "slug": "langfuse-dashboard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/langfuse-dashboard/",
+  "download_url": "https://claudskills.com/skills/langfuse-dashboard/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automates Langfuse Cloud dashboard interactions using Playwright MCP. Captures screenshots for documentation, extracts metrics for monitoring, navigates trace details for investigation, and handles authentication. Use when documenting workflows, creating compliance screenshots, monitoring dashboard metrics, or investigating traces visually. MUST use Playwright MCP tools (mcp__playwright__*) for browser automation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

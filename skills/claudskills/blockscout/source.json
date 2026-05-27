@@ -1,0 +1,18 @@
+{
+  "name": "blockscout",
+  "slug": "blockscout",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/blockscout/",
+  "download_url": "https://claudskills.com/skills/blockscout/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Blockscout MCP tool reference for on-chain data queries. Covers all 16 tools: address info, transactions, token transfers, NFTs, contract ABI/source, read-only calls, ENS resolution, and block data across 8+ chains. TRIGGER when: user asks about on-chain data, contract state, token balances, transaction history, ENS lookup, NFT holdings, or uses blockscout MCP tools. DO NOT TRIGGER when: user asks about crypto market prices or trading volume (use coingecko skill), or writing Solidity code (use solidity-audit skill).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

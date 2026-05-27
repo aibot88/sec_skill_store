@@ -1,0 +1,18 @@
+{
+  "name": "input-sanitization",
+  "slug": "input-sanitization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/input-sanitization/",
+  "download_url": "https://claudskills.com/skills/input-sanitization/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Эксперт по санитизации ввода. Используй для XSS prevention, encoding, validation и security headers.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "context-security-resolver",
+  "slug": "context-security-resolver",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/context-security-resolver/",
+  "download_url": "https://claudskills.com/skills/context-security-resolver/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authentication, authorization, Clerk integration, RLS policies, and security patterns. Use when working with security-resolver code, files, or integration. Invoke when navigating security-resolver codebase, searching for security-resolver files, debugging security-resolver errors, or discussing security-resolver patterns. Keywords: security-resolver, {{KEYWORDS}}",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

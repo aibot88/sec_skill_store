@@ -1,0 +1,18 @@
+{
+  "name": "orchestra-intake",
+  "slug": "orchestra-intake",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/orchestra-intake/",
+  "download_url": "https://claudskills.com/skills/orchestra-intake/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Classify and file every newly installed skill, plugin, MCP, connector, or agent into the right orchestra — never archive. Use whenever you install/add a new repo, skill, plugin, MCP server, or agent (\"I installed X\", \"added Y\", \"npx skills add Z\", \"new repo\", \"set up this MCP\"). Runs a security scan, classifies the tool, places it in an orchestra with usage notes, logs it, and reports back. This is the self-organizing layer of the orchestra system.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

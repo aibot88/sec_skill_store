@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "gredescerber-presentation-master-.",
+  "source": "github",
+  "source_url": "https://github.com/GredesCerber/presentation-master/blob/ed90724a77c4033fbedaa6556398b863c0ba8102/presentation-master.skill.md",
+  "download_url": "https://github.com/GredesCerber/presentation-master/blob/ed90724a77c4033fbedaa6556398b863c0ba8102/presentation-master.skill.md",
+  "external_source_url": "https://github.com/GredesCerber/presentation-master/blob/ed90724a77c4033fbedaa6556398b863c0ba8102/presentation-master.skill.md",
+  "license": "",
+  "description": "Private skill for generating professional HTML presentations with speaker notes. Automatically calculates slide count based on authors.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "GredesCerber/presentation-master",
+    "path": "presentation-master.skill.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

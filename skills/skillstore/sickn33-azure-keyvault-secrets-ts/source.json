@@ -1,0 +1,18 @@
+{
+  "name": "azure-keyvault-secrets-ts",
+  "slug": "sickn33-azure-keyvault-secrets-ts",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-azure-keyvault-secrets-ts",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/azure-keyvault-secrets-ts/SKILL.md?plain=1#L23",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/azure-keyvault-secrets-ts/SKILL.md?plain=1#L23",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Manage secrets using Azure Key Vault Secrets SDK for JavaScript (@azure/keyvault-secrets). Use when storing and retrieving application secrets or configuration values.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/azure-keyvault-secrets-ts/SKILL.md?plain=1#L23"
+  },
+  "collected_at": "2026-05-27T03:44:45+00:00"
+}

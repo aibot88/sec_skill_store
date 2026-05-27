@@ -1,0 +1,18 @@
+{
+  "name": "github-enterprise-eu-admin",
+  "slug": "github-enterprise-cloud-ghec-administrator-and-power-user",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-enterprise-cloud-ghec-administrator-and-power-user/",
+  "download_url": "https://claudskills.com/skills/github-enterprise-cloud-ghec-administrator-and-power-user/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "specialized protocol for GHEC on ghe.com with EU Data Residency. Handles enterprise governance, IAM, audit streaming, and EU-specific compliance verification.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "audit-trail-helper",
+  "slug": "audit-trail-helper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-trail-helper/",
+  "download_url": "https://claudskills.com/skills/audit-trail-helper/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit Trail Helper - Auto-activating skill for Enterprise Workflows. Triggers on: audit trail helper, audit trail helper Part of the Enterprise Workflows skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

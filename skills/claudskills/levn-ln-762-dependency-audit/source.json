@@ -1,0 +1,18 @@
+{
+  "name": "ln-762-dependency-audit",
+  "slug": "levn-ln-762-dependency-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/levn-ln-762-dependency-audit/",
+  "download_url": "https://claudskills.com/skills/levn-ln-762-dependency-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audits project dependencies for vulnerabilities. Multi-ecosystem support (npm, .NET, Python, Go). CVSS-based severity classification.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

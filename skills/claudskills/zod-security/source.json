@@ -1,0 +1,18 @@
+{
+  "name": "Zod Security",
+  "slug": "zod-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/zod-security/",
+  "download_url": "https://claudskills.com/skills/zod-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when the user asks about \"Zod security\", \"Zod over-posting attack\", \"mass assignment Zod\", \"z.strictObject security\", \"z.custom security\", \"Zod coercion vulnerability\", \"Zod default PATCH bug\", \"Zod data loss\", \"Zod reportInput PII\", \"exposing ZodError to client\", \"Zod security review\", \"reviewing Zod validation code\", or when performing a code review on TypeScript files that use Zod. Provides a comprehensive security model and review checklist for Zod usage.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:39+00:00"
+}

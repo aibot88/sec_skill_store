@@ -1,0 +1,18 @@
+{
+  "name": "gpg",
+  "slug": "gpg",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gpg/",
+  "download_url": "https://claudskills.com/skills/gpg/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "GPG (GNU Privacy Guard) encryption and signing reference. Covers key generation (Ed25519/RSA), export/import, keyservers, file encryption (symmetric + asymmetric), git commit signing, detached signatures, gpg-agent caching, SSH via GPG, and pass password manager.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crypto-keymgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

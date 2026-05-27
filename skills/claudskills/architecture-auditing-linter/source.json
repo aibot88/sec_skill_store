@@ -1,0 +1,18 @@
+{
+  "name": "architecture-auditing-linter",
+  "slug": "architecture-auditing-linter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/architecture-auditing-linter/",
+  "download_url": "https://claudskills.com/skills/architecture-auditing-linter/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Ensure every project remains compliant with these standards, use the built-in `linter` tool. It scans codebase for violations of the architecture rules using AST parsing.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

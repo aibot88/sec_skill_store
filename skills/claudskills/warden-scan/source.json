@@ -1,0 +1,18 @@
+{
+  "name": "warden-scan",
+  "slug": "warden-scan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/warden-scan/",
+  "download_url": "https://claudskills.com/skills/warden-scan/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Automated SAST + dependency vulnerability scan. Runs Semgrep (code vulnerabilities) and pip-audit (CVE-matched dependencies) and writes a structured JSON report. Use when asked to \"scan for vulnerabilities\", \"run a security scan\", \"check for CVEs\", or \"audit dependencies\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

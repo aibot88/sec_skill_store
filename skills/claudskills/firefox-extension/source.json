@@ -1,0 +1,18 @@
+{
+  "name": "firefox-extension",
+  "slug": "firefox-extension",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firefox-extension/",
+  "download_url": "https://claudskills.com/skills/firefox-extension/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive guide for developing WebExtensions (browser extensions) for Mozilla Firefox, including Manifest V2/V3 configuration, all WebExtension APIs, security practices, web-ext CLI, and AMO submission.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

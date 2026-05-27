@@ -1,0 +1,18 @@
+{
+  "name": "alibabacloud-cloudbackup-ecs-file-backup-essential-edition",
+  "slug": "alibabacloud-cloudbackup-ecs-file-backup-essential-edition",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibabacloud-cloudbackup-ecs-file-backup-essential-edition/",
+  "download_url": "https://claudskills.com/skills/alibabacloud-cloudbackup-ecs-file-backup-essential-edition/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Alibaba Cloud ECS File Backup Essential Edition (ECS文件备份基础版). One-click activation, daily automatic backup, 30-day file recovery, 100 GiB free quota. Trigger words: ECS file backup, HBR essential edition, Cloud Backup essential, file deletion recovery, free backup quota, ECS data protection, lightweight backup, affordable ECS backup Redirect words: ECS database backup, ECS full-machine backup, full-machine clone, cross-region backup, cross-account backup, KMS encrypted backup",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

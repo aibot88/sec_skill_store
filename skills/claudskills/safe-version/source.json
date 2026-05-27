@@ -1,0 +1,18 @@
+{
+  "name": "safe-version",
+  "slug": "safe-version",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/safe-version/",
+  "download_url": "https://claudskills.com/skills/safe-version/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Find the newest version of a package that is free of known vulnerabilities, capped by a `--max-major-bump` policy. Use when picking an upgrade target for a vulnerable dep, evaluating major-version churn risk, generating a \"safe pin\" for a lockfile, or building an `overrides` block.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

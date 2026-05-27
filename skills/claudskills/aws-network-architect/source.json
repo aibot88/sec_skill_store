@@ -1,0 +1,18 @@
+{
+  "name": "aws-network-architect",
+  "slug": "aws-network-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-network-architect/",
+  "download_url": "https://claudskills.com/skills/aws-network-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Design, review, and troubleshoot AWS network, hybrid, and multi-cloud connectivity across VPCs, Transit Gateway, Direct Connect, VPN, Cloud WAN, Route 53 Resolver, private DNS, CIDRs, route tables, endpoints, segmentation, ingress, egress, inspection, and failover. Prefer this for connectivity and routing; prefer API/edge, S3, or security skills for those specialized surfaces.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

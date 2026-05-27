@@ -1,0 +1,18 @@
+{
+  "name": "klingai-install-auth",
+  "slug": "klingai-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/klingai-install-auth/",
+  "download_url": "https://claudskills.com/skills/klingai-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Set up Kling AI API authentication with JWT tokens. Use when starting a new Kling AI integration or troubleshooting auth issues. Trigger with phrases like 'kling ai setup', 'klingai api key', 'kling ai authentication', 'configure klingai'.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

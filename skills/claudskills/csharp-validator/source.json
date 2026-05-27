@@ -1,0 +1,18 @@
+{
+  "name": "csharp-validator",
+  "slug": "csharp-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/csharp-validator/",
+  "download_url": "https://claudskills.com/skills/csharp-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive C# code validation, static analysis, and best practices verification for .NET applications. Use when validating C# code, checking SOLID principles, reviewing async/await patterns, verifying nullable reference types usage, checking Entity Framework queries, ensuring security best practices, or reviewing .NET code quality and architecture.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

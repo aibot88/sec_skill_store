@@ -1,0 +1,18 @@
+{
+  "name": "operator-identity-context",
+  "slug": "operator-identity-context",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/operator-identity-context/",
+  "download_url": "https://claudskills.com/skills/operator-identity-context/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Establishes the operator identity, access authority, and execution mandate for all agent sessions. Always load at session start. The agent is the full operator and executes responsibilities through single-thread baton handoff (Manager -> Collaborator -> Admin -> Consultant). The user is the client, consulted only for design decisions and UAT sign-off. Never ask the user to perform manual steps. Always automate.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

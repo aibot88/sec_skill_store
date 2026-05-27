@@ -1,0 +1,18 @@
+{
+  "name": "anchor-expert-2026",
+  "slug": "anchor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/anchor/",
+  "download_url": "https://claudskills.com/skills/anchor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert Anchor smart contract development for Solana (January 2026). Use when (1) Writing or auditing Solana programs, (2) Implementing security patterns, (3) Defining account structures and constraints, (4) Building CPI interactions, (5) Testing with Mollusk/LiteSVM, (6) Deploying programs, or any Anchor/Solana program development questions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gsd-secure",
+  "slug": "gsd-secure",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gsd-secure/",
+  "download_url": "https://claudskills.com/skills/gsd-secure/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Security audit of changes; enforce defense in depth and OWASP best practices",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

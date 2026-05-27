@@ -1,0 +1,18 @@
+{
+  "name": "solidity-audit",
+  "slug": "solidity-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/solidity-audit/",
+  "download_url": "https://claudskills.com/skills/solidity-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Solidity development standards and security auditing. TRIGGER when: working with .sol files, foundry.toml, hardhat.config.*, smart contract auditing, security review, or vulnerability analysis. Covers Foundry-first development patterns, vulnerability taxonomies, and audit methodology. DO NOT TRIGGER when: general Ethereum tooling/ecosystem questions (use ethskills skill), or Noir/ZK circuits (use noir skill).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

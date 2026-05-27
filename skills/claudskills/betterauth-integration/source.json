@@ -1,0 +1,18 @@
+{
+  "name": "BetterAuth Integration",
+  "slug": "betterauth-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/betterauth-integration/",
+  "download_url": "https://claudskills.com/skills/betterauth-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Handles user authentication, profile management, and personalized features using BetterAuth for the Physical AI & Humanoid Robotics textbook.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

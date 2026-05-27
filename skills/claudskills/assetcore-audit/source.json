@@ -1,0 +1,18 @@
+{
+  "name": "assetcore-audit",
+  "slug": "assetcore-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/assetcore-audit/",
+  "download_url": "https://claudskills.com/skills/assetcore-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit, tái cấu trúc và sửa lỗi AssetCore — kiểm tra production-readiness toàn module (BE 3-tier, FE views, workflow, fixtures, tests, docs, permissions, audit trail), đồng thời review security (RBAC, DocPerm, whitelist hygiene, SQL injection, CSRF, vendor isolation, compliance NĐ98/WHO HTM). Dùng khi user nói \"audit module\", \"module IMM-XX sẵn sàng chưa\", \"thiếu gì\", \"module gap analysis\", \"release checklist\", \"kiểm tra module\", \"tái cấu trúc\", \"refactor\", \"code bị lỗi\", \"fix bug IMM-XX\", \"phân quyền sai\", \"permission\", \"role\", \"audit trail\", \"security review\", \"vendor không được thấy data\", \"SQL injection\", \"CSRF\", \"rò rỉ data\", \"compliance\". Ưu tiên skill này trước mọi deployment module mới.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

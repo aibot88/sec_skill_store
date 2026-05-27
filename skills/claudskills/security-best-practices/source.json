@@ -1,0 +1,18 @@
+{
+  "name": "security-best-practices",
+  "slug": "security-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-best-practices/",
+  "download_url": "https://claudskills.com/skills/security-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement security best practices for web applications and infrastructure. Use when securing APIs, preventing common vulnerabilities, or implementing security policies. Handles HTTPS, CORS, XSS, SQL Injection, CSRF, rate limiting, and OWASP Top 10.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

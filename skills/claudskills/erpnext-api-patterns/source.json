@@ -1,0 +1,18 @@
+{
+  "name": "erpnext-api-patterns",
+  "slug": "erpnext-api-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/erpnext-api-patterns/",
+  "download_url": "https://claudskills.com/skills/erpnext-api-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Complete guide for ERPNext/Frappe API integrations (v14/v15/v16) including REST API, RPC API, authentication, webhooks, and rate limiting. Use when code is needed for external API calls to ERPNext, designing API endpoints, configuring webhooks, implementing authentication (token/OAuth2/session). Triggers: API integration, REST endpoint, webhook, token authentication, OAuth, frappe.call, external connection, API response, rate limiting.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

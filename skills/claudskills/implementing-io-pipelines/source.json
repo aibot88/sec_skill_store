@@ -1,0 +1,18 @@
+{
+  "name": "implementing-io-pipelines",
+  "slug": "implementing-io-pipelines",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-io-pipelines/",
+  "download_url": "https://claudskills.com/skills/implementing-io-pipelines/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implements high-performance streaming using System.IO.Pipelines in .NET. Use when building network protocols, parsing binary data, or processing large streams efficiently.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "configuring-better-auth",
+  "slug": "configuring-better-auth-abdullahmalik17-hacathan-2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/configuring-better-auth-abdullahmalik17-hacathan-2/",
+  "download_url": "https://claudskills.com/skills/configuring-better-auth-abdullahmalik17-hacathan-2/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement OAuth 2.1 / OIDC authentication using Better Auth with MCP assistance. Use when setting up a centralized auth server (SSO provider), implementing SSO clients in Next.js apps, configuring PKCE flows, or managing tokens with JWKS verification. Uses Better Auth MCP for guided setup. NOT when using simple session-only auth without OAuth/OIDC requirements.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

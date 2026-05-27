@@ -1,0 +1,18 @@
+{
+  "name": "accessibility-fix",
+  "slug": "accessibility-fix",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/accessibility-fix/",
+  "download_url": "https://claudskills.com/skills/accessibility-fix/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scan an AEM Edge Delivery Services page for WCAG 2.1 AA accessibility violations and generate specific fixes. Identifies missing alt text, heading hierarchy issues, link text problems, color contrast concerns, and EDS-specific accessibility patterns. Use when fixing accessibility issues, preparing for compliance audits, or remediating WCAG violations.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

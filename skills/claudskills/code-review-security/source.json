@@ -1,0 +1,18 @@
+{
+  "name": "code-review-security",
+  "slug": "code-review-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-review-security/",
+  "download_url": "https://claudskills.com/skills/code-review-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security-focused code review for OpenSite/Toastability platform. Use when reviewing PRs for security issues, auditing new API endpoints, checking for HIPAA/SOC2 compliance violations, reviewing Rust unsafe code, or scanning for injection vulnerabilities, data leakage, or auth bypasses. Auto-activates when reviewing code changes involving auth, LLM calls, user data, or external API integrations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

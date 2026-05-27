@@ -1,0 +1,18 @@
+{
+  "name": "ctf-kit",
+  "slug": "ctf-kit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ctf-kit/",
+  "download_url": "https://claudskills.com/skills/ctf-kit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "CTF 逆向工程解題工具箱 — 聚焦 Windows 應用程式驗證繞過。從開題偵察到 bypass 驗證的完整流程引導，內建實戰踩坑經驗。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

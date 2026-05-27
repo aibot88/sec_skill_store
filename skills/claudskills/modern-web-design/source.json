@@ -1,0 +1,18 @@
+{
+  "name": "modern-web-design",
+  "slug": "modern-web-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/modern-web-design/",
+  "download_url": "https://claudskills.com/skills/modern-web-design/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Modern web design trends, principles, and implementation patterns for 2024-2025. Use this skill when designing websites, creating interactive experiences, implementing design systems, ensuring accessibility, or building performance-first interfaces. Triggers on tasks involving modern design trends, micro-interactions, scrollytelling, bold minimalism, cursor UX, glassmorphism, accessibility compliance, performance optimization, or design system architecture. References animation skills (GSAP, Framer Motion, React Spring), 3D skills (Three.js, R3F, Babylon.js), and component libraries for implementation guidance.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

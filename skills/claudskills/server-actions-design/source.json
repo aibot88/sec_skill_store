@@ -1,0 +1,18 @@
+{
+  "name": "server-actions-design",
+  "slug": "server-actions-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/server-actions-design/",
+  "download_url": "https://claudskills.com/skills/server-actions-design/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing or reviewing Server Actions: the 'use server' directive contract, how a server-side function becomes invokable from the browser without an API route, form integration via the `action` attribute, the React 19 hooks useActionState / useFormStatus, progressive enhancement (works without JS), server-side validation and authorization as mandatory rather than optional, revalidation primitives (revalidatePath, revalidateTag, redirect), error handling and bound arguments, and the security boundary that makes Server Actions a public endpoint despite their function-like syntax. Covers Next.js App Router as the canonical implementation. Do NOT use for read-path data fetching with RSC (use server-components-design), for the broader 'use client' / 'use server' boundary semantics (use client-server-boundary), for designing externally-facing API contracts (use api-design), or for form UX patterns at the component level (use form-ux-architecture).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "zero-trust",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "bluesky",
+  "slug": "bluesky",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bluesky/",
+  "download_url": "https://claudskills.com/skills/bluesky/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Interact with Bluesky social media from the command line. Use this skill whenever the user wants to read or write Bluesky posts, search content or users on Bluesky, manage their Interact with Bluesky social media from the command line. Use this skill whenever the user wants to read or write Bluesky posts, search content or users on Bluesky, manage their Bluesky authentication, like or unlike posts, follow or unfollow users, list followers or following, view user profiles, create or delete posts, or automate any Bluesky workflow via CLI. Triggers on: \"post to Bluesky\", \"search Bluesky\", \"read my Bluesky feed\", \"reply to a Bluesky post\", \"like a post\", \"follow a user\", \"view a profile\", \"list followers\", \"list following\", \"who follows me\", \"who do I follow\", \"who is @handle on Bluesky\", \"who posted about X on Bluesky\", \"check my Bluesky status\", or any reference to bsky_client commands.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

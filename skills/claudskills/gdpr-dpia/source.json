@@ -1,0 +1,18 @@
+{
+  "name": "gdpr-dpia",
+  "slug": "gdpr-dpia",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gdpr-dpia/",
+  "download_url": "https://claudskills.com/skills/gdpr-dpia/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Helpt bij het opstellen en reviewen van Data Protection Impact Assessments (DPIA) onder de AVG/GDPR. Genereert DPIA-templates, checkt verwerkingsgrondslagen, valideert bewaartermijnen, reviewt verwerkersovereenkomsten, en helpt bij het opstellen van een verwerkingsregister. Toegesneden op Nederlandse overheidsorganisaties met BIO2 en AP-richtlijnen. Gebruik deze skill wanneer de gebruiker vraagt over 'DPIA', 'GEB', 'gegevensbeschermingseffectbeoordeling', 'privacy impact assessment', 'PIA', 'AVG verplichtingen', 'verwerkersovereenkomst', 'verwerkingsregister', 'verwerkingsverantwoordelijke', 'DPO', 'FG', 'functionaris gegevensbescherming', 'grondslag verwerking', 'gerechtvaardigd belang', 'toestemming', 'bewaartermijn', 'datalek melden', 'Autoriteit Persoonsgegevens', 'AP boete', 'privacy by design', 'privacy by default', 'gegevensminimalisatie', 'doelbinding', 'bijzondere persoonsgegevens', 'BSN', 'doorgifte derde landen', of wanneer de gebruiker gegevensbescherming wil implementeren voor een systeem.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "fabric",
+  "slug": "fabric-blackpwnguin-personal-ai",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fabric-blackpwnguin-personal-ai/",
+  "download_url": "https://claudskills.com/skills/fabric-blackpwnguin-personal-ai/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Native Fabric pattern execution for Claude Code. USE WHEN processing content with Fabric patterns (extract_wisdom, summarize, analyze_claims, threat modeling, etc.). Patterns run natively in Claude's context - no CLI spawning needed. Only use fabric CLI for YouTube transcripts (-y) or pattern updates (-U).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

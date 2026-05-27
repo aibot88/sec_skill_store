@@ -1,0 +1,18 @@
+{
+  "name": "soc-cialdini",
+  "slug": "soc-cialdini",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/soc-cialdini/",
+  "download_url": "https://claudskills.com/skills/soc-cialdini/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply Cialdini's six principles of persuasion — Reciprocity, Commitment/Consistency, Social Proof, Liking, Authority, and Scarcity — to analyze or design influence strategies. Use this skill when the user needs to make messaging more persuasive, analyze why a campaign works or doesn't, design sales or marketing copy, or understand social influence tactics — even if they say 'how do we convince people', 'why is this ad effective', or 'make this more persuasive'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

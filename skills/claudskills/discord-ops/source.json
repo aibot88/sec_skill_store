@@ -1,0 +1,18 @@
+{
+  "name": "discord-ops",
+  "slug": "discord-ops",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/discord-ops/",
+  "download_url": "https://claudskills.com/skills/discord-ops/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "TOS-compliant Discord notification monitor. Watches YOUR Discord server for security content forwarded by researchers, matches keywords, and pushes to paper-writer/dogpile via webhooks. Persists to graph-memory for semantic search.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

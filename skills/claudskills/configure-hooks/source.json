@@ -1,0 +1,18 @@
+{
+  "name": "configure-hooks",
+  "slug": "configure-hooks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/configure-hooks/",
+  "download_url": "https://claudskills.com/skills/configure-hooks/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when the user says \"configure hooks\", \"set up quality gates\", \"add PostToolUse hook\", \"set up permission hooks\", \"create hook configuration\", \"add typecheck hook\", \"set up secret-scan hook\", or wants to configure event-driven hooks for their Claude Code project. Validates against the documented Claude Code event list — catches fictional event names before they end up in settings.json.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

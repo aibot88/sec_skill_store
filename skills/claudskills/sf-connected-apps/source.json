@@ -1,0 +1,18 @@
+{
+  "name": "sf-connected-apps",
+  "slug": "sf-connected-apps",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sf-connected-apps/",
+  "download_url": "https://claudskills.com/skills/sf-connected-apps/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Salesforce Connected Apps and OAuth configuration with 120-point scoring. TRIGGER when: user configures OAuth flows, JWT bearer auth, Connected Apps, or touches .connectedApp-meta.xml / .eca-meta.xml files. DO NOT TRIGGER when: Named Credentials for callouts (use sf-integration), permission policies (use sf-permissions), or API endpoint code (use sf-apex).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

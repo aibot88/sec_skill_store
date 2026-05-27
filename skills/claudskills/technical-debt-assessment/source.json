@@ -1,0 +1,18 @@
+{
+  "name": "technical-debt-assessment",
+  "slug": "technical-debt-assessment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/technical-debt-assessment/",
+  "download_url": "https://claudskills.com/skills/technical-debt-assessment/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when auditing a Salesforce org for technical debt: dead code, unused automations, overlapping Flow and Apex triggers, deprecated features, configuration complexity, and legacy patterns. Triggers: technical debt review, org health check, dead code analysis, automation overlap, deprecated features, complexity audit. NOT for implementing the fixes identified (use role-specific skills) or for security-specific reviews (use security-architecture-review).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

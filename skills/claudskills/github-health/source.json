@@ -1,0 +1,18 @@
+{
+  "name": "github-health",
+  "slug": "github-health",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-health/",
+  "download_url": "https://claudskills.com/skills/github-health/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "GitHub platform health assessment with 7 phases, per-finding triage (Fix/Defer/Skip/Suppress), scoped single-phase mode, session-begin quick check, and inline fix execution. Covers security alerts, CI/CD, dependencies, config, releases, insights, and PR health.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

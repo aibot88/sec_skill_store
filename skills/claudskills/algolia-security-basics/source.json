@@ -1,0 +1,18 @@
+{
+  "name": "algolia-security-basics",
+  "slug": "algolia-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/algolia-security-basics/",
+  "download_url": "https://claudskills.com/skills/algolia-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Algolia security best practices: API key scoping, secured API keys, frontend vs backend key separation, and key rotation. Trigger: \"algolia security\", \"algolia API key security\", \"secure algolia\", \"algolia secrets\", \"algolia key rotation\", \"algolia secured key\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

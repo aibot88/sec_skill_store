@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-backend",
+  "slug": "nodejs-backend",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nodejs-backend/",
+  "download_url": "https://claudskills.com/skills/nodejs-backend/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Node.js backend patterns: layered architecture, TypeScript, validation, error handling, security, deployment. Use when building REST APIs, REST endpoints, middleware, Express/Fastify/Hono/NestJS/Koa servers, tRPC procedures, Bun servers, or server-side TypeScript.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

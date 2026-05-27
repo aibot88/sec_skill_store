@@ -1,0 +1,18 @@
+{
+  "name": "xss-html-injection",
+  "slug": "sickn33-xss-html-injection",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-xss-html-injection",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/xss-html-injection/SKILL.md?plain=1#L1-L505",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/xss-html-injection/SKILL.md?plain=1#L1-L505",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "This skill should be used when the user asks to \"test for XSS vulnerabilities\", \"perform cross-site scripting attacks\", \"identify HTML injection flaws\", \"exploit client-side injection...",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/xss-html-injection/SKILL.md?plain=1#L1-L505"
+  },
+  "collected_at": "2026-05-27T03:44:50+00:00"
+}

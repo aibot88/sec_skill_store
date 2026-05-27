@@ -1,0 +1,18 @@
+{
+  "name": "competitive-dynamics-analyser",
+  "slug": "competitive-dynamics-analyser",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/competitive-dynamics-analyser/",
+  "download_url": "https://claudskills.com/skills/competitive-dynamics-analyser/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Porter 5 Forces + game-theory primer for a specific market — equilibrium prediction, response-game tree, exit scenarios. Routes to red-team-strategist agent.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "navan-ci-integration",
+  "slug": "navan-ci-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/navan-ci-integration/",
+  "download_url": "https://claudskills.com/skills/navan-ci-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when setting up CI/CD pipelines that validate Navan API integrations, run booking data health checks, or generate automated compliance reports. Trigger with \"navan ci integration\" or \"navan pipeline\" or \"navan github actions\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:41+00:00"
+}

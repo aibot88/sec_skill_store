@@ -1,0 +1,18 @@
+{
+  "name": "deps",
+  "slug": "deps",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deps/",
+  "download_url": "https://claudskills.com/skills/deps/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when hardening npm supply chain, pinning dependency versions, adding .npmrc security flags, or setting up Renovate and audit workflows. Locks down install-time scripts, registries, version ranges, and CI checks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

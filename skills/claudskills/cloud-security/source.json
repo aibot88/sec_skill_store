@@ -1,0 +1,18 @@
+{
+  "name": "cloud-security",
+  "slug": "cloud-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloud-security/",
+  "download_url": "https://claudskills.com/skills/cloud-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when assessing cloud infrastructure for security misconfigurations, IAM privilege escalation paths, S3 public exposure, open security group rules, or IaC security gaps. Covers AWS, Azure, and GCP posture assessment with MITRE ATT&CK mapping.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

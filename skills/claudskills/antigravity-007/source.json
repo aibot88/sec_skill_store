@@ -1,0 +1,18 @@
+{
+  "name": "007",
+  "slug": "antigravity-007",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/antigravity-007/",
+  "download_url": "https://claudskills.com/skills/antigravity-007/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security audit, hardening, threat modeling (STRIDE/PASTA), Red/Blue Team, OWASP checks, code review, incident response, and infrastructure security for any project.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

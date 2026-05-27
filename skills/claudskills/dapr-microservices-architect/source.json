@@ -1,0 +1,18 @@
+{
+  "name": "dapr-microservices-architect",
+  "slug": "dapr-microservices-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dapr-microservices-architect/",
+  "download_url": "https://claudskills.com/skills/dapr-microservices-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert in building distributed systems using Dapr. Use this for implementing pub/sub, state management, jobs, and secrets abstraction.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

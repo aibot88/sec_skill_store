@@ -1,0 +1,18 @@
+{
+  "name": "vehicle-routing",
+  "slug": "vehicle-routing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vehicle-routing/",
+  "download_url": "https://claudskills.com/skills/vehicle-routing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze vehicle routing and fleet optimization systems for route planning algorithms, multi-stop sequencing, time window constraints, and last-mile delivery performance. Evaluates VRP solver strategies (OR-Tools, OptaPlanner, VROOM), CVRP/VRPTW constraint handling, FMCSA hours-of-service compliance, load balancing, fleet utilization metrics, cost-per-delivery tracking, and dynamic re-routing for delivery and logistics operations.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "accessibility-inclusive-design",
+  "slug": "accessibility-inclusive-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/accessibility-inclusive-design/",
+  "download_url": "https://claudskills.com/skills/accessibility-inclusive-design/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Design, audit, and improve accessibility and inclusive user experiences. Use when Codex is asked about WCAG, keyboard navigation, focus states, screen readers, ARIA, contrast, captions, reduced motion, forms, semantic HTML, accessible UI, game accessibility, inclusive design, accessibility QA, or compliance-sensitive accessibility work.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

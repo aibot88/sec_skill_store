@@ -1,0 +1,18 @@
+{
+  "name": "30x-seo-geo-technical",
+  "slug": "30x-seo-geo-technical",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/30x-seo-geo-technical/",
+  "download_url": "https://claudskills.com/skills/30x-seo-geo-technical/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Technical SEO for AI search engines. Checks AI crawler accessibility, llms.txt compliance, robots.txt configuration, server-side rendering. Outputs problems + fixes (generates llms.txt, robots.txt modifications). Use when user says \"AI crawlers\", \"llms.txt\", \"GPTBot\", \"GEO technical\".",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "seo",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

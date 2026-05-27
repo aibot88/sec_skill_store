@@ -1,0 +1,18 @@
+{
+  "name": "032-architecture-adr-non-functional-requirements",
+  "slug": "032-architecture-adr-non-functional-requirements",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/032-architecture-adr-non-functional-requirements/",
+  "download_url": "https://claudskills.com/skills/032-architecture-adr-non-functional-requirements/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Facilitates conversational discovery to create Architectural Decision Records (ADRs) for non-functional requirements using the ISO/IEC 25010:2023 quality model. Use when the user wants to document quality attributes, NFR decisions, security/performance/scalability architecture, or design systems with measurable quality criteria. This should trigger for requests such as Create ADR for Non-functional requirements; Document Non-functional requirements; Capture Non-functional requirements; Generate Non-functional requirements in an ADR. Part of cursor-rules-java project",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

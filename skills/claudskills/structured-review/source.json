@@ -1,0 +1,18 @@
+{
+  "name": "structured-code-review",
+  "slug": "structured-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/structured-review/",
+  "download_url": "https://claudskills.com/skills/structured-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Performs a structured five-stage code review covering requirements compliance, correctness, code quality, testing, and security/performance. Each stage uses targeted checklists and categorized feedback (Blocker/Major/Minor/Nit) with actionable suggestions and rationale. Use when the user asks for code review, PR feedback, pull request review, or wants their code checked for bugs, style issues, or vulnerabilities — triggered by phrases like \"review my code\", \"check this PR\", \"review my changes\", \"pull request review\", or \"code feedback\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

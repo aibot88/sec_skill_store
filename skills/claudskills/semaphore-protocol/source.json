@@ -1,0 +1,18 @@
+{
+  "name": "semaphore-protocol",
+  "slug": "semaphore-protocol",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/semaphore-protocol/",
+  "download_url": "https://claudskills.com/skills/semaphore-protocol/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive guide for integrating Semaphore V4 zero-knowledge protocol. Use when developing anonymous voting systems, privacy-preserving authentication, ZK proofs, smart contracts with group membership verification, or implementing Semaphore SDK features (Identity management, Group operations, Proof generation/verification). Also use when modifying, upgrading, or debugging existing Semaphore integrations.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

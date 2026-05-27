@@ -1,0 +1,18 @@
+{
+  "name": "gdpr-data-handling",
+  "slug": "gdpr-data-handling-pelan05-vscode-agents-folder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gdpr-data-handling-pelan05-vscode-agents-folder/",
+  "download_url": "https://claudskills.com/skills/gdpr-data-handling-pelan05-vscode-agents-folder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement GDPR-compliant data handling with consent management, data subject rights, and privacy by design. Use when building systems that process EU personal data, implementing privacy controls, or conducting GDPR compliance reviews.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ide-editor",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

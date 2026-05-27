@@ -1,0 +1,18 @@
+{
+  "name": "design-review-gate",
+  "slug": "design-review-gate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/design-review-gate/",
+  "download_url": "https://claudskills.com/skills/design-review-gate/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Parallel design review by 6 specialist agents (PM, Architect, Designer, Security Design, UX, CTO) with mandatory unanimous approval.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

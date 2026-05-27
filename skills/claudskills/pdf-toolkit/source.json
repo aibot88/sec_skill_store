@@ -1,0 +1,18 @@
+{
+  "name": "pdf-toolkit",
+  "slug": "pdf-toolkit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pdf-toolkit/",
+  "download_url": "https://claudskills.com/skills/pdf-toolkit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Process PDF files — read, merge, split, fill forms, watermark, encrypt, extract images, and OCR scanned documents. Use when the CEO mentions contracts, NDAs, term sheets, proposals, agreements, or any .pdf file operation. Triggers on 'pdf,' 'contract,' 'NDA,' 'term sheet,' 'agreement,' 'merge pdfs,' or 'sign document.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

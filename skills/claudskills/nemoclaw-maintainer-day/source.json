@@ -1,0 +1,18 @@
+{
+  "name": "nemoclaw-maintainer-day",
+  "slug": "nemoclaw-maintainer-day",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nemoclaw-maintainer-day/",
+  "download_url": "https://claudskills.com/skills/nemoclaw-maintainer-day/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Runs the daytime maintainer loop for NemoClaw, prioritizing items labeled with the current version target. Picks the highest-value item, executes the right workflow (merge gate, salvage, security sweep, test gaps, hotspot cooling, or sequencing), and reports progress. Use during the workday to land PRs and close issues. Designed for /loop (e.g. /loop 10m /nemoclaw-maintainer-day). Trigger keywords - maintainer day, work on PRs, land PRs, make progress, what's next, keep going, maintainer loop.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:41+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sast-xss",
+  "slug": "sast-xss",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sast-xss/",
+  "download_url": "https://claudskills.com/skills/sast-xss/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect Cross-Site Scripting (XSS) vulnerabilities in a codebase using a three-phase approach: recon (find HTML/JS/DOM sink sites), batched verify (trace user input to sinks in parallel subagents, 3 sink sites each), and merge (consolidate batch results). Requires sast/architecture.md (run sast-analysis first). Outputs findings to sast/xss-results.md. Use when asked to find XSS or cross-site scripting bugs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

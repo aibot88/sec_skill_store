@@ -1,0 +1,18 @@
+{
+  "name": "sdd-threat",
+  "slug": "sdd-threat",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sdd-threat/",
+  "download_url": "https://claudskills.com/skills/sdd-threat/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "STRIDE脅威モデリングに基づくthreat-model.mdを生成。保護対象資産・信頼境界・脅威・緩和策を定義し、セキュリティ要件を導出する。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

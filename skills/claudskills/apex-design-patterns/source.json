@@ -1,0 +1,18 @@
+{
+  "name": "apex-design-patterns",
+  "slug": "apex-design-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/apex-design-patterns/",
+  "download_url": "https://claudskills.com/skills/apex-design-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when structuring Apex into service, selector, domain, factory, and dependency-injection layers for maintainability and testability. Triggers: 'service layer', 'selector pattern', 'domain layer', 'dependency injection', 'fat trigger/controller'. NOT for installing a specific third-party framework or debating package-level architecture outside Apex code structure.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

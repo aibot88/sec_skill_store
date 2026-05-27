@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "digi604-swarmhook-.",
+  "source": "github",
+  "source_url": "https://github.com/digi604/swarmhook/blob/f12b19da6d481132e1042ff932e4452d3d653544/skill.md",
+  "download_url": "https://github.com/digi604/swarmhook/blob/f12b19da6d481132e1042ff932e4452d3d653544/skill.md",
+  "external_source_url": "https://github.com/digi604/swarmhook/blob/f12b19da6d481132e1042ff932e4452d3d653544/skill.md",
+  "license": "",
+  "description": "The inbox for your agent. 48h webhook endpoint with streaming.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "digi604/swarmhook",
+    "path": "skill.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

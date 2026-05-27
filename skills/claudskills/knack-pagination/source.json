@@ -1,0 +1,18 @@
+{
+  "name": "Knack Pagination",
+  "slug": "knack-pagination",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/knack-pagination/",
+  "download_url": "https://claudskills.com/skills/knack-pagination/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manages full data retrieval while respecting Knack's 1,000-record-per-page limit. Essential for HTI's 3,500+ laptop inventory and compliance report...",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

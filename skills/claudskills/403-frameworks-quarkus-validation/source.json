@@ -1,0 +1,18 @@
+{
+  "name": "403-frameworks-quarkus-validation",
+  "slug": "403-frameworks-quarkus-validation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/403-frameworks-quarkus-validation/",
+  "download_url": "https://claudskills.com/skills/403-frameworks-quarkus-validation/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when you need to design, review, or improve validation in Quarkus applications — including Bean Validation on JAX-RS resources, @Valid on parameters and CDI beans, constraint groups, @ConfigMapping validation, custom constraints, nested DTO validation, and ExceptionMapper-based error mapping. This should trigger for requests such as Add validation support in Quarkus; Review Quarkus validation rules; Improve request validation in Quarkus REST APIs; Add custom validation constraints in Quarkus; Validate Quarkus @ConfigMapping properties. Part of cursor-rules-java project",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

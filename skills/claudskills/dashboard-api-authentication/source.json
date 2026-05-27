@@ -1,0 +1,18 @@
+{
+  "name": "dashboard-api-authentication",
+  "slug": "dashboard-api-authentication",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dashboard-api-authentication/",
+  "download_url": "https://claudskills.com/skills/dashboard-api-authentication/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Proper authentication patterns for dashboard frontend API calls. Use when adding new API endpoints, creating components that fetch data, or debugging 401 Unauthorized errors. Covers JWT token handling, the apiRequest helper, and common pitfalls.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

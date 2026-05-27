@@ -1,0 +1,18 @@
+{
+  "name": "dependency-architecture",
+  "slug": "dependency-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dependency-architecture/",
+  "download_url": "https://claudskills.com/skills/dependency-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing or auditing dependency structure: package boundaries, runtime vs build dependencies, adapter layers, duplicate-purpose libraries, supply-chain risk, upgrade policy, lock-in, and dependency graph health. Do NOT use for choosing a major framework (use `framework-fit-analysis`), vulnerability-only review (use `owasp-security`), or routine refactoring without dependency boundary changes (use `refactor`).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

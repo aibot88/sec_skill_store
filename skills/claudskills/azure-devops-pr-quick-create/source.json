@@ -1,0 +1,18 @@
+{
+  "name": "azure-devops-pr-quick-create",
+  "slug": "azure-devops-pr-quick-create",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-devops-pr-quick-create/",
+  "download_url": "https://claudskills.com/skills/azure-devops-pr-quick-create/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create pull requests quickly in Azure DevOps repositories using Azure CLI (`az repos pr create`) with reliable auth fallbacks. Use this skill whenever the user asks to create/open/raise a PR for Azure DevOps, especially when they mention PAT auth, `TF_VAR_devops_user_pat_163ent`, `AZURE_DEVOPS_EXT_PAT`, or sourcing `~/dotfiles/sp/163ent-devops.sp`. Prefer this skill over GitHub CLI or GitKraken tools for Azure DevOps remotes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

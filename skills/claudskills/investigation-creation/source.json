@@ -1,0 +1,18 @@
+{
+  "name": "investigation-creation",
+  "slug": "investigation-creation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/investigation-creation/",
+  "download_url": "https://claudskills.com/skills/investigation-creation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create investigations from security events, detections, or LCQL queries. Performs HOLISTIC investigations - not just process trees, but initial access hunting, org-wide scope assessment, lateral movement detection, and full host context. Builds Investigation Hive records documenting findings with events, detections, entities, and analyst notes. Use for incident investigation, threat hunting, alert triage, or building SOC working reports.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

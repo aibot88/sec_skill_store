@@ -1,0 +1,18 @@
+{
+  "name": "google-master",
+  "slug": "google-master",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-master/",
+  "download_url": "https://claudskills.com/skills/google-master/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Shared resource library for Google integration skills. DO NOT load directly - provides common references (setup, API docs, error handling, authentication) and scripts used by gmail, google-docs, google-sheets, google-calendar, and future Google skills.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

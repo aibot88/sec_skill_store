@@ -1,0 +1,18 @@
+{
+  "name": "oma-image",
+  "slug": "oma-image",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oma-image/",
+  "download_url": "https://claudskills.com/skills/oma-image/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Multi-vendor AI image generation with authentication-aware parallel dispatch. Routes to Codex (gpt-image-2 via ChatGPT OAuth) and Pollinations (flux/zimage, free with signup). Gemini provider is present but disabled by default (requires billing). Use for image generation, image creation, visual asset generation, and AI art.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

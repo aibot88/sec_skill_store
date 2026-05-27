@@ -1,0 +1,19 @@
+{
+  "name": "cook",
+  "slug": "yunyoujun-cook-skills-cook",
+  "source": "github",
+  "source_url": "https://github.com/YunYouJun/cook/blob/76c1fcc69c4c9c9d388442828bb6d1fa8462dfdf/skills/cook/SKILL.md",
+  "download_url": "https://github.com/YunYouJun/cook/blob/76c1fcc69c4c9c9d388442828bb6d1fa8462dfdf/skills/cook/SKILL.md",
+  "external_source_url": "https://github.com/YunYouJun/cook/blob/76c1fcc69c4c9c9d388442828bb6d1fa8462dfdf/skills/cook/SKILL.md",
+  "license": "",
+  "description": "🍲 好的，今天我们来做菜！OK, Let's Cook!",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "YunYouJun/cook",
+    "path": "skills/cook/SKILL.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:59+00:00"
+}

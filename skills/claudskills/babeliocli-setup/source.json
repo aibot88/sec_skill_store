@@ -1,0 +1,18 @@
+{
+  "name": "babeliocli-setup",
+  "slug": "babeliocli-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/babeliocli-setup/",
+  "download_url": "https://claudskills.com/skills/babeliocli-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install babeliocli, authenticate against Babelio (password or SSO cookie import), and manage the local session file. Use this skill when a user asks to install, log in, set up, connect, or recover a Babelio CLI session — including cases where the Babelio account is linked to Google or Facebook and a classic login is impossible.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

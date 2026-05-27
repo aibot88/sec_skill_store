@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Sec Skills Store</title>
+    <meta name="description" content="A static catalog of cybersecurity-related Codex, Claude Code, and OpenClaw skills.">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Codex · Claude Code · OpenClaw</p>
+        <h1>Sec Skills Store</h1>
+      </div>
+      <nav aria-label="Repository links">
+        <a href="../data/skills.json">JSON</a>
+        <a href="../skills/">Skills</a>
+        <a href="https://github.com/aibot88/sec_skill_store">GitHub</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="summary-grid" aria-label="Catalog summary">
+        <div class="metric">
+          <span id="metric-total">0</span>
+          <strong>skills</strong>
+        </div>
+        <div class="metric">
+          <span id="metric-downloaded">0</span>
+          <strong>downloaded</strong>
+        </div>
+        <div class="metric">
+          <span id="metric-cwe">0</span>
+          <strong>CWE tags</strong>
+        </div>
+        <div class="metric">
+          <span id="metric-sources">0</span>
+          <strong>sources</strong>
+        </div>
+      </section>
+
+      <section class="controls" aria-label="Catalog filters">
+        <label class="search">
+          <span>Search</span>
+          <input id="search" type="search" placeholder="security, CWE-89, OWASP, privacy, skill guard">
+        </label>
+        <label>
+          <span>Source</span>
+          <select id="source-filter"></select>
+        </label>
+        <label>
+          <span>Security Domain</span>
+          <select id="security-filter"></select>
+        </label>
+        <label>
+          <span>Workflow</span>
+          <select id="business-filter"></select>
+        </label>
+        <label>
+          <span>Status</span>
+          <select id="status-filter">
+            <option value="">All statuses</option>
+            <option value="downloaded">Downloaded</option>
+            <option value="partial">Partial</option>
+            <option value="failed">Failed</option>
+          </select>
+        </label>
+      </section>
+
+      <section class="taxonomy">
+        <div>
+          <h2>CWE and OWASP Coverage</h2>
+          <div id="coverage-list" class="chip-list"></div>
+        </div>
+        <div>
+          <h2>Workflow Classes</h2>
+          <div id="workflow-list" class="chip-list"></div>
+        </div>
+      </section>
+
+      <section class="results-head">
+        <h2 id="results-count">Loading catalog...</h2>
+        <button id="reset" type="button">Reset filters</button>
+      </section>
+
+      <section id="cards" class="cards" aria-live="polite"></section>
+    </main>
+
+    <template id="card-template">
+      <article class="card">
+        <div class="card-top">
+          <div>
+            <p class="source"></p>
+            <h3></h3>
+          </div>
+          <span class="confidence"></span>
+        </div>
+        <p class="description"></p>
+        <div class="tags"></div>
+        <div class="links">
+          <a class="source-link">Source</a>
+          <a class="download-link">Download</a>
+          <a class="local-link">Local</a>
+        </div>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>

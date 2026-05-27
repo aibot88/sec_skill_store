@@ -1,0 +1,18 @@
+{
+  "name": "pitfalls-security",
+  "slug": "pitfalls-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pitfalls-security/",
+  "download_url": "https://claudskills.com/skills/pitfalls-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security patterns for session keys, caching, logging, and environment variables. Use when implementing authentication, caching sensitive data, or setting up logging. Triggers on: session key, private key, cache, logging, secrets, environment variable.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

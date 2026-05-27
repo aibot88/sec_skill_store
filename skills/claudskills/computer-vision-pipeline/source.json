@@ -1,0 +1,18 @@
+{
+  "name": "computer-vision-pipeline",
+  "slug": "computer-vision-pipeline",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/computer-vision-pipeline/",
+  "download_url": "https://claudskills.com/skills/computer-vision-pipeline/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build production computer vision pipelines for object detection, tracking, and video analysis. Handles drone footage, wildlife monitoring, and real-time detection. Supports YOLO, Detectron2, TensorFlow, PyTorch. Use for archaeological surveys, conservation, security. Activate on \"object detection\", \"video analysis\", \"YOLO\", \"tracking\", \"drone footage\". NOT for simple image filters, photo editing, or face recognition APIs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

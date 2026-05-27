@@ -1,0 +1,18 @@
+{
+  "name": "k8s-network-and-identity-policy",
+  "slug": "k8s-network-and-identity-policy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/k8s-network-and-identity-policy/",
+  "download_url": "https://claudskills.com/skills/k8s-network-and-identity-policy/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when authoring or hardening the Kubernetes network and workload-identity policy for a service after security and infrastructure-platform have decided the trust zones, identity model, and east-west posture. Produces default-deny NetworkPolicy (namespace-scoped, label-selected), least-privilege ServiceAccount + Role/ClusterRole bindings, Ingress / Gateway API exposure posture, mTLS or service-mesh wiring where adopted, image-pull secret and registry-auth handling, and Pod Security Standards namespace enforcement. Do not use for workload manifest authoring, autoscaling and resilience topology, observability wiring, image hardening / signing / admission-controller policy, or cluster provisioning; use the other Family G archetype skills (cluster provisioning is out of family).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "claude-plugins-marketplace",
+  "slug": "claude-plugins-marketplace",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/claude-plugins-marketplace/",
+  "download_url": "https://claudskills.com/skills/claude-plugins-marketplace/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Claude Code'u tam bir dev ekibine dönüştüren 6 plugin yönetimi - Planning, Design, Code Review, Security, Memory, Team Coordination. Kullanıcı \"claude plugin, dev team, claude takım, planlama ajanı\" dediğinde tetiklenir.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "offensive-bluetooth-classic",
+  "slug": "offensive-bluetooth-classic",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/offensive-bluetooth-classic/",
+  "download_url": "https://claudskills.com/skills/offensive-bluetooth-classic/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Bluetooth Classic (BR/EDR) attack methodology — device discovery, service enumeration via SDP, LMP/L2CAP layer attacks, legacy PIN cracking (BlueBorne / KNOB), Bluetooth file-transfer abuse (BlueSnarfing legacy), unauthenticated profile abuse (HSP, HFP, OPP), and modern relevance against older industrial / automotive / accessory targets. Use when in-scope devices use Bluetooth Classic (Bluetooth ≤ 4.0 BR/EDR) — common in legacy car kits, industrial sensors, older medical devices, and audio accessories.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

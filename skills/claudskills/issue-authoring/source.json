@@ -1,0 +1,18 @@
+{
+  "name": "issue-authoring",
+  "slug": "issue-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/issue-authoring/",
+  "download_url": "https://claudskills.com/skills/issue-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Draft or refine IDD-ready GitHub issues, roadmap issues, and sub-issues before the normal IDD execution loop begins. Use when a request is too large or ambiguous for one reviewable change, when work needs decomposition or dependency encoding, or when the user asks for issue drafting, roadmap planning, or parallelizable task breakdown.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "roadmap",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

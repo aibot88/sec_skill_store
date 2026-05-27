@@ -1,0 +1,19 @@
+{
+  "name": "commands",
+  "slug": "littlelingo-context-engine-commands",
+  "source": "github",
+  "source_url": "https://github.com/littlelingo/context-engine/blob/1fbcc0c261c57f0600b30f1fd054d3184bdcbc05/commands/update-skill.md",
+  "download_url": "https://github.com/littlelingo/context-engine/blob/1fbcc0c261c57f0600b30f1fd054d3184bdcbc05/commands/update-skill.md",
+  "external_source_url": "https://github.com/littlelingo/context-engine/blob/1fbcc0c261c57f0600b30f1fd054d3184bdcbc05/commands/update-skill.md",
+  "license": "",
+  "description": "A reusable contextual engineering framework for Claude Code. Structured workflows, Agent Teams for parallel execution, persistent project knowledge, and auto-learning from every session.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "littlelingo/context-engine",
+    "path": "commands/update-skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

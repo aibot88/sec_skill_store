@@ -1,0 +1,18 @@
+{
+  "name": "sf-docs",
+  "slug": "sf-docs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sf-docs/",
+  "download_url": "https://claudskills.com/skills/sf-docs/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Official Salesforce documentation retrieval guidance. Use when you need authoritative Salesforce docs from developer.salesforce.com or help.salesforce.com, especially when pages are JS-heavy, shell-rendered, or hard to extract with naive fetching.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

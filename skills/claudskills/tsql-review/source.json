@@ -1,0 +1,18 @@
+{
+  "name": "tsql-review",
+  "slug": "tsql-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tsql-review/",
+  "download_url": "https://claudskills.com/skills/tsql-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze raw T-SQL source code for anti-patterns, security risks, and static performance smells. Applies 50 checks (T1–T50) across structural, correctness, security, deprecated syntax, and performance categories. No execution plan required.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

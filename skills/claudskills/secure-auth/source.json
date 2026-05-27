@@ -1,0 +1,18 @@
+{
+  "name": "secure-auth",
+  "slug": "secure-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/secure-auth/",
+  "download_url": "https://claudskills.com/skills/secure-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Secure authentication implementation patterns. Use when implementing user login, registration, password reset, session management, JWT authentication, or OAuth integration. Provides production-ready patterns that avoid common tutorial pitfalls like insecure token storage, weak password hashing, and session fixation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

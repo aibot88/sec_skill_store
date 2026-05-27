@@ -1,0 +1,18 @@
+{
+  "name": "swe-programming-clojure",
+  "slug": "swe-programming-clojure",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/swe-programming-clojure/",
+  "download_url": "https://claudskills.com/skills/swe-programming-clojure/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Clojure coding standards from authoritative docs/explanation/software-engineering/programming-languages/clojure/ documentation",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "source-integration",
+  "slug": "source-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/source-integration/",
+  "download_url": "https://claudskills.com/skills/source-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fires when the task adds a new data source or changes an existing one (xtb, gold, bond, manual, future: crypto/IKE). Use proactively when user mentions a source name or /source.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

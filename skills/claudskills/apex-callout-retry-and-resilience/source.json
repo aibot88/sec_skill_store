@@ -1,0 +1,18 @@
+{
+  "name": "apex-callout-retry-and-resilience",
+  "slug": "apex-callout-retry-and-resilience",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/apex-callout-retry-and-resilience/",
+  "download_url": "https://claudskills.com/skills/apex-callout-retry-and-resilience/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Strategy layer for resilient Apex HTTP callouts: bounded retry with backoff, queueable async retry chains, circuit-breaker via Platform Cache, idempotency keys, dead-letter pattern. NOT for callout authentication — see apex-named-credentials-patterns. NOT for transaction-boundary rules — see callout-and-dml-transaction-boundaries. NOT a re-write of the HttpClient template — this is the policy and orchestration layer that calls it.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "zero-trust",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

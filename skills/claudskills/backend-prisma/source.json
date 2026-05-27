@@ -1,0 +1,18 @@
+{
+  "name": "backend-prisma",
+  "slug": "backend-prisma",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backend-prisma/",
+  "download_url": "https://claudskills.com/skills/backend-prisma/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Type-safe database ORM for TypeScript/Node.js. Use when you need database access with full TypeScript integration — auto-generated types from schema, migrations, and query builder. Best for PostgreSQL, MySQL, SQLite, MongoDB. Choose Prisma over raw SQL or Knex when type safety and developer experience are priorities.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

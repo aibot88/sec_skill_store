@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-consent-infrastructure",
+  "slug": "agentprivacy-consent-infrastructure",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-consent-infrastructure/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-consent-infrastructure/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Consent infrastructure and IEEE 7012 MyTerms integration for 0xagentprivacy. Activates when discussing bilateral consent, cookie-slashing, consent receipts, Customer Commons, MyTerms Alliance, or how P·C·Σ creates enforceable consent rather than checkbox compliance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "alibabacloud-ddoscoo-intercept-query",
+  "slug": "alibabacloud-ddoscoo-intercept-query",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibabacloud-ddoscoo-intercept-query/",
+  "download_url": "https://claudskills.com/skills/alibabacloud-ddoscoo-intercept-query/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Query Alibaba Cloud DDoS Pro (ddoscoo) block/intercept reasons via SLS full logs and ddoscoo CLI. Analyzes detailed information about intercepted requests including CC protection rules, precise access control rules, region blocking, and IP blacklist policies. Use when users report being blocked by DDoS Pro, encounter block pages, or need to investigate and remediate DDoS protection rules. Trigger words: \"DDoS block query\", \"blocked by DDoS Pro\", \"DDoS intercept\", \"ddoscoo intercept query\", \"CC block\", \"precise access control block\", \"高防拦截查询\", \"request blocked by anti-ddos\"",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

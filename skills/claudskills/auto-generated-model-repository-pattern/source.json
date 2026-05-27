@@ -1,0 +1,18 @@
+{
+  "name": "auto-generated-model-repository-pattern",
+  "slug": "auto-generated-model-repository-pattern",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auto-generated-model-repository-pattern/",
+  "download_url": "https://claudskills.com/skills/auto-generated-model-repository-pattern/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Database-backed model configuration with static fallback for this project. Hook-based reactive queries (useModels, useModel), static sync helpers, AUTO_MODEL injection, type depth workarounds. Triggers on \"useModels\", \"useModel\", \"model repository\", \"database models\", \"model queries\", \"model picker\", \"model config\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

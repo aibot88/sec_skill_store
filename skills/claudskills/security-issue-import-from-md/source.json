@@ -1,0 +1,18 @@
+{
+  "name": "security-issue-import-from-md",
+  "slug": "security-issue-import-from-md",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-issue-import-from-md/",
+  "download_url": "https://claudskills.com/skills/security-issue-import-from-md/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Open one or more `<tracker>` tracking issues from a markdown file containing a batch of security findings (typically the output of an AI security review or a third-party scanner). Each finding in the file becomes one tracker, landing in the `Needs triage` board column with the standard issue-template body fields populated from the markdown sections. Unlike `security-issue-import` (Gmail) and `security-issue-import-from-pr` (public PR), there is no inbound reporter to reply to and no PR to inspect — the file itself is the full report.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "security-and-hardening",
+  "slug": "security-and-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-and-hardening/",
+  "download_url": "https://claudskills.com/skills/security-and-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Hardens code against vulnerabilities. Use when handling user input, authentication, data storage, or external integrations. Use when building any feature that accepts untrusted data, manages user sessions, or interacts with third-party services.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "detecting-container-escape-with-falco-rules",
+  "slug": "detecting-container-escape-with-falco-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-container-escape-with-falco-rules/",
+  "download_url": "https://claudskills.com/skills/detecting-container-escape-with-falco-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect container escape attempts in real-time using Falco runtime security rules that monitor syscalls, file",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

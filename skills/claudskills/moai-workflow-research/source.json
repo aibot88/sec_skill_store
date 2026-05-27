@@ -1,0 +1,18 @@
+{
+  "name": "moai-workflow-research",
+  "slug": "moai-workflow-research",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/moai-workflow-research/",
+  "download_url": "https://claudskills.com/skills/moai-workflow-research/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Self-research workflow for optimizing moai-adk components through binary eval experimentation loops. Adapted from autoresearch pattern with 5-layer safety architecture.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

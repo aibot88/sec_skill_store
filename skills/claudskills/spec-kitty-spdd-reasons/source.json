@@ -1,0 +1,18 @@
+{
+  "name": "spec-kitty-spdd-reasons",
+  "slug": "spec-kitty-spdd-reasons",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spec-kitty-spdd-reasons/",
+  "download_url": "https://claudskills.com/skills/spec-kitty-spdd-reasons/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Drive REASONS Canvas authoring and review for Spec Kitty missions that opted in to Structured-Prompt-Driven Development (SPDD) via charter selection. Triggers: \"use SPDD\", \"use REASONS\", \"generate a REASONS canvas\", \"apply structured prompt driven development\", \"make this mission SPDD\". Does NOT handle: enforcing SPDD on projects whose charter has not selected the doctrine pack (escalate to charter workflow instead). Does NOT mirror code as prose; code remains the source of truth for current behavior.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

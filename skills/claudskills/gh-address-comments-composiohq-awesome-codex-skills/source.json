@@ -1,0 +1,18 @@
+{
+  "name": "gh-address-comments",
+  "slug": "gh-address-comments-composiohq-awesome-codex-skills",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gh-address-comments-composiohq-awesome-codex-skills/",
+  "download_url": "https://claudskills.com/skills/gh-address-comments-composiohq-awesome-codex-skills/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Help address review/issue comments on the open GitHub PR for the current branch using gh CLI; verify gh auth first and prompt the user to authenticate if not logged in.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

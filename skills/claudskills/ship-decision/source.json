@@ -1,0 +1,18 @@
+{
+  "name": "ship-decision",
+  "slug": "ship-decision",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ship-decision/",
+  "download_url": "https://claudskills.com/skills/ship-decision/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Force a fast, regret-minimizing product decision when a solo founder is stuck choosing between options. Use when the user is paralyzed by a binary or tri-way choice (build A vs B, ship now vs polish, free vs paid, etc.), says \"I can't decide\", \"should I\", or asks for a sanity check on a roadmap call.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "roadmap",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

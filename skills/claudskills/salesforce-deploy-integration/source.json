@@ -1,0 +1,18 @@
+{
+  "name": "salesforce-deploy-integration",
+  "slug": "salesforce-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/salesforce-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/salesforce-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Salesforce-connected applications to Heroku, Vercel, and Cloud Run with proper credential management. Use when deploying Salesforce-powered applications to production, configuring platform-specific secrets, or setting up Heroku Connect. Trigger with phrases like \"deploy salesforce app\", \"salesforce Heroku\", \"salesforce production deploy\", \"salesforce Cloud Run\", \"Heroku Connect\".",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:09+00:00"
+}

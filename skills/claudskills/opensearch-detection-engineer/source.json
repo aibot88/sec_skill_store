@@ -1,0 +1,18 @@
+{
+  "name": "opensearch-detection-engineer",
+  "slug": "opensearch-detection-engineer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/opensearch-detection-engineer/",
+  "download_url": "https://claudskills.com/skills/opensearch-detection-engineer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "OpenSearch detection engineering: SIGMA authoring, query DSL translation, MITRE ATT&CK mapping, anomaly detection, correlation rules, SOC incident escalation. Use for SIEM detection authoring, threshold tuning, alert validation, and Tier-1/Tier-2 escalation workflows.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

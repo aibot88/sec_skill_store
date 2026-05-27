@@ -1,0 +1,18 @@
+{
+  "name": "huawei-secmaster-security-operations",
+  "slug": "huawei-secmaster-security-operations",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/huawei-secmaster-security-operations/",
+  "download_url": "https://claudskills.com/skills/huawei-secmaster-security-operations/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Operate Huawei SecMaster (integrated SIEM/SOAR/threat intelligence), HSS (Host Security Service) host intrusion detection, CFW (Cloud Firewall), WAF (Web Application Firewall), Anti-DDoS, and VSS (Vulnerability Scan Service) for comprehensive cloud security operations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

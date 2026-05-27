@@ -1,0 +1,18 @@
+{
+  "name": "llm-governance",
+  "slug": "llm-governance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/llm-governance/",
+  "download_url": "https://claudskills.com/skills/llm-governance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "LLM content governance and compliance standards. Use when llm governance guidance is required.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "ho1ow-flow-sast-mcp-skills",
+  "source": "github",
+  "source_url": "https://github.com/ho1ow/flow-sast-mcp/blob/eb7fba95e7160e96b9c9678970053ddb715266e6/skills/special_skill.md",
+  "download_url": "https://github.com/ho1ow/flow-sast-mcp/blob/eb7fba95e7160e96b9c9678970053ddb715266e6/skills/special_skill.md",
+  "external_source_url": "https://github.com/ho1ow/flow-sast-mcp/blob/eb7fba95e7160e96b9c9678970053ddb715266e6/skills/special_skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "ho1ow/flow-sast-mcp",
+    "path": "skills/authz_skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

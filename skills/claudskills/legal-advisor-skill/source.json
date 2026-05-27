@@ -1,0 +1,18 @@
+{
+  "name": "legal-advisor",
+  "slug": "legal-advisor-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/legal-advisor-skill/",
+  "download_url": "https://claudskills.com/skills/legal-advisor-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides legal guidance for contracts, compliance, intellectual property, data privacy, and regulatory matters. Use when reviewing contracts, ensuring compliance, protecting IP, or navigating technology law. Triggers include \"contract review\", \"terms of service\", \"GDPR\", \"privacy policy\", \"intellectual property\", \"licensing\", \"compliance\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

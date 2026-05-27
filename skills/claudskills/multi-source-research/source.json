@@ -1,0 +1,18 @@
+{
+  "name": "multi-source-research",
+  "slug": "multi-source-research",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/multi-source-research/",
+  "download_url": "https://claudskills.com/skills/multi-source-research/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Pipeline for grounded research: gather (≥2 sources) → conflict-detect → synthesize-with-provenance. Cites K2 §3.1 (provenance per claim) + K2 §3.2 (multiview retrieval). Reuses the brainstorming <PROVENANCE-CONTRACT> (commit ebd136a) as the canonical provenance shape; reuses conflict-detector agent (this plugin) as the contradiction step. 多源研究管道：採集（≥2源）→衝突檢測→帶溯源綜合。 Use when: synthesizing claims from multiple docs/repos/papers, before writing a load-bearing assertion in a spec or design doc, fact-checking a load-bearing PR description, gathering evidence for an architectural decision, validating a claim that contradicts a Phase 0 high-confidence bullet. Skip when: a single authoritative source is sufficient (e.g., 'what is this function's signature' answered by lci:get_context alone), or the claim is non-load-bearing (typo fix, comment update).",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

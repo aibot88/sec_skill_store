@@ -1,0 +1,18 @@
+{
+  "name": "preboot-core",
+  "slug": "preboot-core",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/preboot-core/",
+  "download_url": "https://claudskills.com/skills/preboot-core/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Skill do używania biblioteki preboot-core. Użyj tego skilla zawsze gdy użytkownik chce cache z TTL, rate limiting, synchronizację dostępu po kluczu, transakcje programowe, hashowanie parametrów, walidację beanów, konfigurację Jacksona, lub pracuje z infrastrukturą współbieżności. Obejmuje: TTLMap, AccessSynchronizer, RateLimiter, TransactionWrapper, HashUtils, BeanValidator, JsonMapperFactory, JacksonCustomizerAutoConfiguration. Triggeruje się na: TTL cache, rate limiter, token bucket, key-based lock, synchronizacja po kluczu, ReentrantLock, virtual threads, transakcje programowe, REQUIRES_NEW, SHA-1 hash, bean validation, Jackson 3, JsonMapper, auto-configuration, preboot-core, concurrent access, cache eviction, composite key, fair lock.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

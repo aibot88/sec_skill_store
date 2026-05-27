@@ -1,0 +1,18 @@
+{
+  "name": "apex-named-credentials-patterns",
+  "slug": "apex-named-credentials-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/apex-named-credentials-patterns/",
+  "download_url": "https://claudskills.com/skills/apex-named-credentials-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when writing Apex that calls out to external endpoints via Named Credentials, working with custom header formula tokens ({!$Credential.OAuthToken}), querying per-user auth state through the UserExternalCredential SObject, or diagnosing why Named Credential callouts fail. Trigger keywords: 'callout: prefix', 'named credential header formula', 'UserExternalCredential', 'External Credential per-user principal', 'Named Credential oauth token apex'. NOT for Named Credential setup in the Salesforce Setup UI — use integration/named-credentials-setup. NOT for general HTTP callout mechanics (HttpRequest, HttpResponse, mock patterns) — use integration/callouts-and-http-integrations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:50+00:00"
+}

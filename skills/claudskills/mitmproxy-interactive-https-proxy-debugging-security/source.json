@@ -1,0 +1,18 @@
+{
+  "name": "mitmproxy-interactive-https-proxy-debugging-security",
+  "slug": "mitmproxy-interactive-https-proxy-debugging-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mitmproxy-interactive-https-proxy-debugging-security/",
+  "download_url": "https://claudskills.com/skills/mitmproxy-interactive-https-proxy-debugging-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "mitmproxy is an interactive, SSL/TLS-capable intercepting HTTP proxy for penetration testers and software developers. It supports HTTP/1, HTTP/2, HTTP/3, and WebSockets, offering console, command-line, and web-based interfaces for intercepting, inspecting, modifying, and replaying web traffic.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

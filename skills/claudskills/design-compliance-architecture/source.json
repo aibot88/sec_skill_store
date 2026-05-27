@@ -1,0 +1,18 @@
+{
+  "name": "design-compliance-architecture",
+  "slug": "design-compliance-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/design-compliance-architecture/",
+  "download_url": "https://claudskills.com/skills/design-compliance-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Diseñar una arquitectura de cumplimiento que mapee las regulaciones aplicables a los sistemas informatizados. Cubre inventario de sistemas, clasificación de criticidad (GxP-crítico, GxP-de soporte, no GxP), asignación de categoría GAMP 5, trazabilidad de requisitos regulatorios y definición de la estructura de gobernanza. Usar al establecer una nueva instalación regulada, al formalizar el cumplimiento en múltiples sistemas, al abordar un análisis de brechas regulatorias, al armonizar el cumplimiento tras fusiones o reorganizaciones, o al preparar un expediente de sitio que hace referencia a sistemas informatizados.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

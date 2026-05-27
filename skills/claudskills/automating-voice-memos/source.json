@@ -1,0 +1,18 @@
+{
+  "name": "automating-voice-memos",
+  "slug": "automating-voice-memos",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/automating-voice-memos/",
+  "download_url": "https://claudskills.com/skills/automating-voice-memos/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automates Apple Voice Memos (Mac Catalyst, no dictionary) via JXA using filesystem/SQLite access and System Events UI scripting. Use when asked to \"automate Voice Memos\", \"export voice recordings\", \"access Voice Memos database\", or \"transcribe voice memos\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "audio-podcast",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

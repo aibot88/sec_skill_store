@@ -1,0 +1,18 @@
+{
+  "name": "rootnode-domain-software-engineering",
+  "slug": "rootnode-domain-software-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rootnode-domain-software-engineering/",
+  "download_url": "https://claudskills.com/skills/rootnode-domain-software-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Specialized software engineering prompt methodology for Claude. Use when building prompts for system design, code review, incident response, security analysis, API design, architecture decisions, RFCs, ADRs, runbooks, or technical leadership. Trigger on: \"build a prompt for code review,\" \"system design prompt,\" \"SRE prompt,\" \"security review prompt,\" \"incident response prompt,\" \"API design prompt,\" \"architecture decision prompt,\" \"RFC prompt,\" \"runbook prompt.\" Provides 11 tested approaches across identity, reasoning, and output for engineering analysis. Do NOT use for general coding help, writing code, or debugging — this builds prompts that shape engineering analysis, not code itself. Do NOT use for evaluating existing prompts (use rootnode-prompt-validation if available).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "project-scanner",
+  "slug": "project-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/project-scanner/",
+  "download_url": "https://claudskills.com/skills/project-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Project introspection — detect languages, frameworks, database, structure, scale, auth, CI/CD",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

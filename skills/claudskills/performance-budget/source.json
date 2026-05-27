@@ -1,0 +1,18 @@
+{
+  "name": "performance-budget",
+  "slug": "performance-budget",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performance-budget/",
+  "download_url": "https://claudskills.com/skills/performance-budget/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Performance budget tanımı + CI enforcement. Web Vitals (LCP/INP/CLS), JS/CSS bundle size, API p95/p99 latency, DB query, memory/CPU, cost budget. PR-time gate (size-limit, Lighthouse CI, k6 threshold). RUM authoritative (CrUX/Datadog/SpeedCurve). Regression detection trend-based.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:51+00:00"
+}

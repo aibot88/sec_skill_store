@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "moeblack-comfyui-animatool-.",
+  "source": "github",
+  "source_url": "https://github.com/Moeblack/ComfyUI-AnimaTool/blob/2a9c5fcbbb5349956f93b16b74cfe94214e78b44/CURSOR_SKILL.md",
+  "download_url": "https://github.com/Moeblack/ComfyUI-AnimaTool/blob/2a9c5fcbbb5349956f93b16b74cfe94214e78b44/CURSOR_SKILL.md",
+  "external_source_url": "https://github.com/Moeblack/ComfyUI-AnimaTool/blob/2a9c5fcbbb5349956f93b16b74cfe94214e78b44/CURSOR_SKILL.md",
+  "license": "",
+  "description": "AI Tool Use API for Anima anime/illustration image generation. Supports MCP Server, HTTP API, and CLI.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Moeblack/ComfyUI-AnimaTool",
+    "path": "CURSOR_SKILL.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

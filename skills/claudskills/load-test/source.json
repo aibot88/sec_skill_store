@@ -1,0 +1,18 @@
+{
+  "name": "load-test",
+  "slug": "load-test",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/load-test/",
+  "download_url": "https://claudskills.com/skills/load-test/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate and run load tests with k6, Locust, or Artillery. Auto-detects API framework, creates realistic user behavior flows (browsing, authenticated CRUD, search-heavy), runs ramp-up, sustained, spike, and stress test profiles with defined latency and error-rate thresholds, then produces a bottleneck analysis with optimization recommendations. Use when you need to benchmark API performance, find breaking points under traffic, test auto-scaling, validate SLAs, or identify slow endpoints before production deploy.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

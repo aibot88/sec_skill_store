@@ -1,0 +1,18 @@
+{
+  "name": "ai-security",
+  "slug": "ai-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-security/",
+  "download_url": "https://claudskills.com/skills/ai-security/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when assessing AI/ML systems for prompt injection, jailbreak vulnerabilities, model inversion risk, data poisoning exposure, or agent tool abuse. Covers MITRE ATLAS technique mapping, injection signature detection, and adversarial robustness scoring.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

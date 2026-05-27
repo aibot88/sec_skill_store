@@ -1,0 +1,18 @@
+{
+  "name": "gcp-certificate-manager-issuer-review",
+  "slug": "gcp-certificate-manager-issuer-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-certificate-manager-issuer-review/",
+  "download_url": "https://claudskills.com/skills/gcp-certificate-manager-issuer-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review GCP Certificate Manager and classic Google-managed TLS certificates — certificate map configuration, DNS authorization, CAA record validation, certificate rotation automation, wildcard vs SAN design, and expiry monitoring.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

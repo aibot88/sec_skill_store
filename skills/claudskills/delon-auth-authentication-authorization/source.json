@@ -1,0 +1,18 @@
+{
+  "name": "delon-auth-authentication-authorization",
+  "slug": "delon-auth-authentication-authorization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/delon-auth-authentication-authorization/",
+  "download_url": "https://claudskills.com/skills/delon-auth-authentication-authorization/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement authentication and authorization using @delon/auth. Use this skill when adding login/logout flows, JWT token management, role-based access control (RBAC), route guards, HTTP interceptors, and session management. Integrates with Firebase Auth and custom permission systems. Ensures secure token storage, automatic token refresh, and consistent authorization checks across components and services.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

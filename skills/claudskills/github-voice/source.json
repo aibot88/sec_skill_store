@@ -1,0 +1,18 @@
+{
+  "name": "github-voice",
+  "slug": "github-voice",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-voice/",
+  "download_url": "https://claudskills.com/skills/github-voice/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Shared writing style rules for GitHub-facing output (PR comments, PR descriptions, PR titles). Differentiates insider vs outsider voice based on author association. Not typically invoked directly — loaded by other skills before composing GitHub text.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

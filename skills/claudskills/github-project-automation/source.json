@@ -1,0 +1,18 @@
+{
+  "name": "github-project-automation",
+  "slug": "github-project-automation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-project-automation/",
+  "download_url": "https://claudskills.com/skills/github-project-automation/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "GitHub repository automation (CI/CD, issue templates, Dependabot, CodeQL). Use for project setup, Actions workflows, security scanning, or encountering YAML syntax, workflow configuration, template structure errors.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

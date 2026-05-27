@@ -1,0 +1,18 @@
+{
+  "name": "chargebee-webhooks",
+  "slug": "chargebee-webhooks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chargebee-webhooks/",
+  "download_url": "https://claudskills.com/skills/chargebee-webhooks/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Receive and verify Chargebee webhooks. Use when setting up Chargebee webhook handlers, debugging Basic Auth verification, or handling subscription billing events.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

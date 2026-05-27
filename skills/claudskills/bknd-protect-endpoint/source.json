@@ -1,0 +1,18 @@
+{
+  "name": "bknd-protect-endpoint",
+  "slug": "bknd-protect-endpoint",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bknd-protect-endpoint/",
+  "download_url": "https://claudskills.com/skills/bknd-protect-endpoint/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when securing specific API endpoints in Bknd. Covers protecting custom HTTP triggers, plugin routes, auth middleware for Flows, checking permissions in custom endpoints, and role-based endpoint access.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

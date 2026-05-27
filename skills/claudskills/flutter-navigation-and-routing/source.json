@@ -1,0 +1,18 @@
+{
+  "name": "flutter-navigation-and-routing",
+  "slug": "flutter-navigation-and-routing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flutter-navigation-and-routing/",
+  "download_url": "https://claudskills.com/skills/flutter-navigation-and-routing/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when wiring the navigation graph, deep links, back-stack behavior, auth-gate routing, or OS-interruption state restoration into a Flutter application after the app scaffold exists and mobile architecture is approved or intentionally deferred. Produces the router named in mobile-architecture.md (extending the scaffold's router placeholder), the route hierarchy and tab/shell structure, validated deep-link / app-link handling, session-driven auth-gate redirects, modal strategy, back-stack and predictive-back behavior, state restoration across process death, and notification-payload-to-route resolution consuming the state layer's push seam. Do not use for app scaffolding, state management or token logic, push payload ingestion, design-system or accessibility integration, or performance budget enforcement; use the other Flutter archetype skills instead.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-system-ui",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

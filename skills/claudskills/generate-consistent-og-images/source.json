@@ -1,0 +1,18 @@
+{
+  "name": "generate-consistent-og-images",
+  "slug": "generate-consistent-og-images",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/generate-consistent-og-images/",
+  "download_url": "https://claudskills.com/skills/generate-consistent-og-images/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "How to generate share-imagery (OpenGraph banners, portraits, squares, tall WhatsApp/iMessage cards) for any Lossless site or splash page so the resulting images form a coherent visual family. Use whenever a site, splash, plugin page, or fundraise deck needs an OG image generated or refreshed; whenever the user says \"make an og image\", \"generate a banner\", \"we need a share image\", \"regenerate banners across formats\", \"the unfurl looks stale\"; whenever scaffolding a new Astro Knots site that doesn't yet have an `og:image` or a `DESIGN.md`; whenever per-page or per-component custom illustrative imagery is needed even if it deliberately departs from the OG-image canon. Encodes the pattern of (1) check / create a DESIGN.md following the Google Stitch open spec, (2) check / add an `imagery:` recipe block to that DESIGN.md, (3) call Ideogram v3 generate with every field locked except `prompt` and `aspect_ratio`, (4) save with the canonical naming convention, (5) treat WhatsApp + iMessage chat-preview as the primary share surface and other socials as secondary. The skill never sees an API key in source — `IDEOGRAM_API_KEY` lives in `~/.secrets` and is inherited from the shell, same pattern as the `crawl-fetch-ingest` skill.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:05+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "debug-zoom",
+  "slug": "debug-zoom",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/debug-zoom/",
+  "download_url": "https://claudskills.com/skills/debug-zoom/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Debug a broken Zoom integration by isolating the failure point and routing into the right Zoom references. Use when auth, API, webhook, SDK, or MCP behavior is failing and you need a ranked hypothesis list plus verification steps.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

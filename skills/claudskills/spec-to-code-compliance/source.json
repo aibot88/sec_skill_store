@@ -1,0 +1,18 @@
+{
+  "name": "spec-to-code-compliance",
+  "slug": "spec-to-code-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spec-to-code-compliance/",
+  "download_url": "https://claudskills.com/skills/spec-to-code-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Verifies code implements exactly what documentation specifies for blockchain audits. Use when comparing code against whitepapers, finding gaps between specs and implementation, or performing compliance checks for protocol implementations.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

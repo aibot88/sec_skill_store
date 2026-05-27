@@ -1,0 +1,18 @@
+{
+  "name": "pm-design-critic",
+  "slug": "pm-design-critic",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pm-design-critic/",
+  "download_url": "https://claudskills.com/skills/pm-design-critic/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Critically review the user-facing surface of a PRD, design spec, or feature proposal against behavioral and UX principles. Use when a PM has a solution in hand and wants the design layer pressure-tested — defaults, friction placement, choice architecture, information density, AI surface decisions, peak-and-end moments. Distinct from pm-red-team (strategy adversary) and pm-evaluator (rubric scoring); this skill stays at the design layer and asks whether the design works with human cognition or against it. Returns the three load-bearing design holes with specific re-writes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

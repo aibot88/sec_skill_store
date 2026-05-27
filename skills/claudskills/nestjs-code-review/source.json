@@ -1,0 +1,18 @@
+{
+  "name": "nestjs-code-review",
+  "slug": "nestjs-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nestjs-code-review/",
+  "download_url": "https://claudskills.com/skills/nestjs-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides comprehensive code review capability for NestJS applications, analyzing controllers, services, modules, guards, interceptors, pipes, dependency injection, and database integration patterns. Use when reviewing NestJS code changes, before merging pull requests, after implementing new features, or for architecture validation. Triggers on \"review NestJS code\", \"NestJS code review\", \"check my NestJS controller/service\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

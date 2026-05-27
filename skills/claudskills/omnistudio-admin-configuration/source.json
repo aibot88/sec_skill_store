@@ -1,0 +1,18 @@
+{
+  "name": "omnistudio-admin-configuration",
+  "slug": "omnistudio-admin-configuration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/omnistudio-admin-configuration/",
+  "download_url": "https://claudskills.com/skills/omnistudio-admin-configuration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when configuring OmniStudio at the org level: enabling Standard Runtime, selecting the Runtime Namespace, assigning Permission Set Licenses, toggling feature settings, and granting Experience Cloud community access. Trigger keywords: OmniStudio Settings, Standard OmniStudio Runtime, managed package runtime, runtime namespace, OmniStudio Permission Set, OmniStudio PSL. NOT for OmniScript design, DataRaptor authoring, or namespace migration away from Vlocity packages.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

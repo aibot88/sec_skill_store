@@ -1,0 +1,18 @@
+{
+  "name": "ncp-author",
+  "slug": "ncp-author",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ncp-author/",
+  "download_url": "https://claudskills.com/skills/ncp-author/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Schema cheatsheet, canonical vocabulary (463 appreciations + 144 narrative_functions), validation rules, 10-stage authoring workflow, and runnable schema validator for NCP (ncp-schema.json v1.3.0). Actively co-invokes dramatica-theory (storyform decisions, why a Class/Type/Variation is correct) and dramatica-vocabulary (Dynamic-Pair validation, KTAD coherence, Element-Quad checks) at explicit workflow checkpoints — this skill owns JSON-IO and enum-compliance; the two Dramatica skills own meaning. Use when the user mentions NCP, narrative-context-protocol, ncp-schema, .ncp.json, 'convert to NCP', 'validate NCP', 'storyform JSON', or Subtxt export. Trigger auch auf Deutsch — Storyform anlegen, NCP-Datei validieren, NCP-Skelett, Storyform aus Outline. Do NOT use for general Dramatica theory (defer to dramatica-theory or dramatica-vocabulary) or prose drafting. Path A per TODO T-1.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "storytelling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:41+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "claude-code",
+  "slug": "claude-code-anhxuanpham-astro-chart",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/claude-code-anhxuanpham-astro-chart/",
+  "download_url": "https://claudskills.com/skills/claude-code-anhxuanpham-astro-chart/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Activate when users ask about Claude Code installation, slash commands (/cook, /plan, /fix, /test, /docs, /design, /git), creating/managing Agent Skills, configuring MCP servers, setting up hooks/plugins, IDE integration (VS Code, JetBrains), CI/CD workflows, enterprise deployment (SSO, RBAC, sandboxing), troubleshooting authentication/performance issues, or advanced features (extended thinking, caching, checkpointing).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

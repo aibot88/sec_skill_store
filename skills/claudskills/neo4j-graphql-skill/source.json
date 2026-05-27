@@ -1,0 +1,18 @@
+{
+  "name": "neo4j-graphql-skill",
+  "slug": "neo4j-graphql-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/neo4j-graphql-skill/",
+  "download_url": "https://claudskills.com/skills/neo4j-graphql-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when building a GraphQL API backed by Neo4j using the Neo4j GraphQL Library: type definitions, @relationship directive, @cypher directive for custom resolvers, @authorization for field-level security, auto-generated queries and mutations, OGM (Object Graph Mapper) usage, or schema augmentation. Does NOT handle raw Cypher queries — use neo4j-cypher-skill. Does NOT handle Spring Data Neo4j entity mapping — use neo4j-spring-data-skill.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

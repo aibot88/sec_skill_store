@@ -1,0 +1,18 @@
+{
+  "name": "mobile-security-expert",
+  "slug": "mobile-security-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mobile-security-expert/",
+  "download_url": "https://claudskills.com/skills/mobile-security-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "移动安全漏洞挖掘知识库，基于HackerOne公开报告提供Android和iOS应用的漏洞挖掘手法、技术细节和代码模式分析；用于安全研究人员和漏洞挖掘者学习参考、代码审计和漏洞检测指导。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

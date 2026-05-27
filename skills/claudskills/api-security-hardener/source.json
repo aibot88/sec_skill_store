@@ -1,0 +1,18 @@
+{
+  "name": "api-security-hardener",
+  "slug": "api-security-hardener",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-security-hardener/",
+  "download_url": "https://claudskills.com/skills/api-security-hardener/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Durcissement de la sécurité des APIs — rate limiting, validation d'entrée, headers de sécurité, CORS, protection contre les attaques courantes. À utiliser quand l'utilisateur sécurise une API, configure des headers de sécurité ou implémente du rate limiting. Se déclenche aussi avec \"sécurité API\", \"rate limiting\", \"headers sécurité\", \"CORS\", \"API hardening\", \"protection API\", \"OWASP API\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

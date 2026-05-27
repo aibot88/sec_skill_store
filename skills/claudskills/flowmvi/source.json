@@ -1,0 +1,18 @@
+{
+  "name": "flowmvi",
+  "slug": "flowmvi",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flowmvi/",
+  "download_url": "https://claudskills.com/skills/flowmvi/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "FlowMVI usage guidance. Use when working with FlowMVI stores/containers, plugin pipelines, composing stores, decorators, or authoring plugins.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

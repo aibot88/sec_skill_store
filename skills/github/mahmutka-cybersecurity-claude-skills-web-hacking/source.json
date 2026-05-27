@@ -1,0 +1,19 @@
+{
+  "name": "web-hacking",
+  "slug": "mahmutka-cybersecurity-claude-skills-web-hacking",
+  "source": "github",
+  "source_url": "https://github.com/mahmutka/cybersecurity-claude-skills/blob/43d435cb856dc240228adc30c5b252ef453ca40c/web-hacking/skill.md",
+  "download_url": "https://github.com/mahmutka/cybersecurity-claude-skills/blob/43d435cb856dc240228adc30c5b252ef453ca40c/web-hacking/skill.md",
+  "external_source_url": "https://github.com/mahmutka/cybersecurity-claude-skills/blob/43d435cb856dc240228adc30c5b252ef453ca40c/web-hacking/skill.md",
+  "license": "",
+  "description": "Cybersecurity expert skills for Claude Code — web hacking, pentest recon, secure code review, and CTF solver",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "mahmutka/cybersecurity-claude-skills",
+    "path": "web-hacking/skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

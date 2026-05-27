@@ -1,0 +1,18 @@
+{
+  "name": "spec-driven-documentation",
+  "slug": "spec-driven-documentation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spec-driven-documentation/",
+  "download_url": "https://claudskills.com/skills/spec-driven-documentation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automated documentation generation, auditing, and remediation with structural anti-skip enforcement. Supports 3 workflows: Generation (greenfield/brownfield), Audit (4-dimension DevEx scoring), and Fix (automated/interactive remediation). Uses Execute-Verify-Gate pattern at every step. Designed to prevent token optimization bias through lean orchestration, fresh-context subagent delegation, per-phase reference loading, and binary CLI gate enforcement. Use when generating project documentation, updating docs after story completion, or analyzing documentation coverage.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

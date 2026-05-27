@@ -1,0 +1,18 @@
+{
+  "name": "celery-expert",
+  "slug": "celery-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/celery-expert/",
+  "download_url": "https://claudskills.com/skills/celery-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert Celery distributed task queue engineer specializing in async task processing, workflow orchestration, broker configuration (Redis/RabbitMQ), Celery Beat scheduling, and production monitoring. Deep expertise in task patterns (chains, groups, chords), retries, rate limiting, Flower monitoring, and security best practices. Use when designing distributed task systems, implementing background job processing, building workflow orchestration, or optimizing task queue performance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

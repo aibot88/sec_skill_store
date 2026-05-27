@@ -1,0 +1,18 @@
+{
+  "name": "hr-search",
+  "slug": "hr-search",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hr-search/",
+  "download_url": "https://claudskills.com/skills/hr-search/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "人事・労務に関する行政公式サイト限定の検索スキル。日本の行政・公的機関の公式サイトのみを対象に、人事・労務に関するユーザーの自然文の質問を検索し、結果をわかりやすくまとめて回答する。 雇用保険、社会保険、労働基準、年金、健康保険、育児休業、有給休暇、就業規則、労働契約、解雇、賃金、退職金、ハラスメント、労災、安全衛生、障害者雇用など人事・労務に関する質問には必ずこのスキルを使う。 「雇用保険」「社会保険」「労働基準」「年金」「健康保険」「育休」「有給」「就業規則」「解雇」「賃金」「退職金」「労災」「ハラスメント」「厚労省」「e-Gov」などのキーワードが含まれる質問には必ずこのスキルをトリガーする。 検索対象サイトの一覧表示・追加・削除の管理機能も含む。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

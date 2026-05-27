@@ -1,0 +1,18 @@
+{
+  "name": "developer-delphi-horse-cors",
+  "slug": "developer-delphi-horse-cors-v1-0-0",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/developer-delphi-horse-cors-v1-0-0/",
+  "download_url": "https://claudskills.com/skills/developer-delphi-horse-cors-v1-0-0/SKILL.md",
+  "external_source_url": "",
+  "license": "GPL-3.0",
+  "description": "Middleware CORS para Horse. Cobre HorseCORS/CORS, HorseCORSConfig (AllowedOrigin, AllowedMethods, AllowedHeaders, AllowedCredentials, ExposedHeaders), preflight OPTIONS (204) e ordem de registro. Fonte: app/package/docs/pacotes/horse-cors.md.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

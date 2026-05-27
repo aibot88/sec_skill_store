@@ -1,0 +1,18 @@
+{
+  "name": "component-definition-builder",
+  "slug": "component-definition-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/component-definition-builder/",
+  "download_url": "https://claudskills.com/skills/component-definition-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create and manage OSCAL component definitions for reusable security control implementations. Inspired by CivicActions components and community patterns. Use for building component libraries and shared control implementations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

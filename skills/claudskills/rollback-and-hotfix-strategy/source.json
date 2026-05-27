@@ -1,0 +1,18 @@
+{
+  "name": "rollback-and-hotfix-strategy",
+  "slug": "rollback-and-hotfix-strategy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rollback-and-hotfix-strategy/",
+  "download_url": "https://claudskills.com/skills/rollback-and-hotfix-strategy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Planning and executing metadata rollbacks and emergency hotfixes in Salesforce orgs. Use when a production deployment causes regression and needs to be reverted, or when an urgent fix must bypass the normal release pipeline. Covers pre-deploy archive bundles, quick deploy for hotfixes, non-rollbackable component handling, and hotfix branch isolation. NOT for routine CI/CD pipeline setup (use continuous-integration-testing). NOT for destructive changes authoring (use destructive-changes-deployment).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

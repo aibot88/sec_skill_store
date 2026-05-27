@@ -1,0 +1,18 @@
+{
+  "name": "bootstrapping-agent",
+  "slug": "bootstrapping-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bootstrapping-agent/",
+  "download_url": "https://claudskills.com/skills/bootstrapping-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Wires up an Airbyte connector for use in a PydanticAI or Claude SDK agent. Generates auth config, connector initialization, and tool_utils-decorated tool function. Use when adding a connector to an agent or setting up a new agent with a connector.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

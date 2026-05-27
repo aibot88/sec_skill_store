@@ -1,0 +1,18 @@
+{
+  "name": "GitLab Code Review",
+  "slug": "gitlab-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gitlab-code-review/",
+  "download_url": "https://claudskills.com/skills/gitlab-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Performs comprehensive code reviews of GitLab merge requests, analyzing code quality, security, performance, and best practices. Use when the user says \"review\" or \"code review\" or asks to review merge requests or analyze branch changes before merging.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

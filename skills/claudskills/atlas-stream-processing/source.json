@@ -1,0 +1,18 @@
+{
+  "name": "atlas-stream-processing",
+  "slug": "atlas-stream-processing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/atlas-stream-processing/",
+  "download_url": "https://claudskills.com/skills/atlas-stream-processing/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Manages MongoDB Atlas Stream Processing (ASP) workflows. Handles workspace provisioning, data source/sink connections, processor lifecycle operations, debugging diagnostics, and tier sizing. Supports Kafka, Atlas clusters, S3, HTTPS, and Lambda integrations for streaming data workloads and event processing. NOT for general MongoDB queries or Atlas cluster management. Requires MongoDB MCP Server with Atlas API credentials.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

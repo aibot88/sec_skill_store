@@ -1,0 +1,18 @@
+{
+  "name": "skill-commit",
+  "slug": "skill-commit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-commit/",
+  "download_url": "https://claudskills.com/skills/skill-commit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Buenas prácticas para crear commits de git claros, atómicos y bien estructurados en español. Activa esta skill siempre que el usuario pida hacer un commit, confirmar cambios, guardar cambios en git, o cualquier variación de \"haz commit\", \"commitea\", \"sube los cambios\", \"guarda en git\", \"git commit\", etc. También cuando el usuario pida revisar o mejorar un mensaje de commit existente.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "thai-government-form",
+  "slug": "thai-government-form",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/thai-government-form/",
+  "download_url": "https://claudskills.com/skills/thai-government-form/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill for any task involving Thai government letters, official correspondence, formal petitions, authorization letters, leave requests, or ราชการ forms. Trigger whenever the user asks to: write หนังสือราชการ, draft a คำร้อง, write an authorization (หนังสือมอบอำนาจ), submit a leave form (ใบลา), petition a government agency, or write a formal letter to a Thai official. Also trigger for requests like \"เขียนหนังสือราชการ\", \"ยื่นเรื่อง\", \"คำร้อง\", \"หนังสือถึงราชการ\", \"ทำหนังสือถึง\", \"ใบลา\", \"หนังสือมอบอำนาจ\", \"official Thai letter\", or any formal ราชการ document task.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

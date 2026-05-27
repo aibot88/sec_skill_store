@@ -1,0 +1,18 @@
+{
+  "name": "create-slash-commands",
+  "slug": "create-slash-commands-cedricfressin-claude-config",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-slash-commands-cedricfressin-claude-config/",
+  "download_url": "https://claudskills.com/skills/create-slash-commands-cedricfressin-claude-config/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guidance for creating Claude Code slash commands. Use when working with slash commands, creating custom commands, understanding command structure, or learning YAML configuration.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

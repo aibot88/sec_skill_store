@@ -1,0 +1,18 @@
+{
+  "name": "lwc-accessibility-patterns",
+  "slug": "lwc-accessibility-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lwc-accessibility-patterns/",
+  "download_url": "https://claudskills.com/skills/lwc-accessibility-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when implementing specific ARIA attributes, keyboard navigation patterns, screen reader live regions, WCAG 2.1 compliance, focus management, or accessible data tables in Lightning Web Components. Trigger keywords: ARIA, aria-live, aria-label, aria-labelledby, role=grid, tabindex, keydown handler, WCAG AA, focus trap, accessible datatable, shadow DOM ARIA boundary. NOT for general LWC styling, visual design, SLDS theming, or CSS that does not affect assistive-technology behavior.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

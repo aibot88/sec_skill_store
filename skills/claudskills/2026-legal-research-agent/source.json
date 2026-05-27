@@ -1,0 +1,18 @@
+{
+  "name": "2026-legal-research-agent",
+  "slug": "2026-legal-research-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/2026-legal-research-agent/",
+  "download_url": "https://claudskills.com/skills/2026-legal-research-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert legal research agent for finding and scraping expungement data state by state. Knows authoritative sources, URL patterns, Firecrawl configuration, and 2026 legal landscape. Activate on \"find expungement data\", \"scrape state laws\", \"legal research\", \"court URLs\", \"statute sources\", \"Clean Slate laws\", \"automatic expungement research\". NOT for interpreting laws (use national-expungement-expert), building UI, or legal advice.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

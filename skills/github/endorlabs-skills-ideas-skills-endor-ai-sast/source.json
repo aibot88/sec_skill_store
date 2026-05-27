@@ -1,0 +1,19 @@
+{
+  "name": "endor-ai-sast",
+  "slug": "endorlabs-skills-ideas-skills-endor-ai-sast",
+  "source": "github",
+  "source_url": "https://github.com/endorlabs/skills-ideas/blob/b958adc66de63489a379bfcb07f2468b73c8f563/skills/endor-ai-sast/SKILL.md",
+  "download_url": "https://github.com/endorlabs/skills-ideas/blob/b958adc66de63489a379bfcb07f2468b73c8f563/skills/endor-ai-sast/SKILL.md",
+  "external_source_url": "https://github.com/endorlabs/skills-ideas/blob/b958adc66de63489a379bfcb07f2468b73c8f563/skills/endor-ai-sast/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "endorlabs/skills-ideas",
+    "path": "skills/endor-ai-sast/SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

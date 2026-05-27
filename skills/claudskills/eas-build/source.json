@@ -1,0 +1,18 @@
+{
+  "name": "expo-eas-build-expert",
+  "slug": "eas-build",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eas-build/",
+  "download_url": "https://claudskills.com/skills/eas-build/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert on EAS Build cloud service for building iOS and Android apps. Covers build configuration, credentials management, custom builds, CI/CD integration, and troubleshooting. Invoke when user mentions EAS Build, cloud builds, app compilation, build workflows, or iOS/Android binary creation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

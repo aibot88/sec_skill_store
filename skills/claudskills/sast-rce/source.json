@@ -1,0 +1,18 @@
+{
+  "name": "sast-rce",
+  "slug": "sast-rce",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sast-rce/",
+  "download_url": "https://claudskills.com/skills/sast-rce/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect Remote Code Execution (RCE) vulnerabilities in a codebase using a three-phase approach: recon (find dangerous execution sinks), batched verify (trace user input to sinks in parallel subagents, 3 sinks each), and merge (consolidate batch results). Covers OS command injection, eval-like sinks, and unsafe deserialization. Requires sast/architecture.md (run sast-analysis first). Outputs findings to sast/rce-results.md. Use when asked to find RCE, command injection, or unsafe deserialization bugs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

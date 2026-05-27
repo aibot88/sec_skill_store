@@ -1,0 +1,18 @@
+{
+  "name": "super-geo-agent-readiness",
+  "slug": "super-geo-agent-readiness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/super-geo-agent-readiness/",
+  "download_url": "https://claudskills.com/skills/super-geo-agent-readiness/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generative Engine Optimization plus agent readiness. Use this skill whenever the user asks about GEO, AEO, LLMO, optimizing content for AI search engines (ChatGPT, Perplexity, Google AI Overviews, Claude, Gemini, Copilot), getting cited by LLMs, brand mentions in AI responses, llms.txt, robots.txt for AI crawlers, Schema.org JSON-LD, FAST framework, agent readiness, MCP server discovery, Web Bot Auth, OAuth for agents, API Catalog, agentic commerce (x402, ACP, UCP), Markdown content negotiation, or auditing a site or page for AI visibility. Also trigger when the user says \"AI SEO\", asks how to \"rank in ChatGPT\", \"show up in Perplexity\", \"appear in AI Overviews\", or wants a site to \"speak to AI agents\". Trigger even when the request is implicit, such as \"review this article so AI search picks it up\" or \"make our docs agent-friendly\".",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "seo",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

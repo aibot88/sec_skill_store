@@ -1,0 +1,18 @@
+{
+  "name": "don-data",
+  "slug": "don-data",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/don-data/",
+  "download_url": "https://claudskills.com/skills/don-data/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Data standards and practices for Dutch government applications. Use when working with government data formats, implementing data exchange standards, or ensuring data quality compliance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

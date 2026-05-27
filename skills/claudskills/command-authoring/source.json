@@ -1,0 +1,18 @@
+{
+  "name": "command-authoring",
+  "slug": "command-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/command-authoring/",
+  "download_url": "https://claudskills.com/skills/command-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide for authoring slash commands. Use when creating, building, reviewing, or improving commands, learning command best practices, or deciding when to use commands vs skills.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

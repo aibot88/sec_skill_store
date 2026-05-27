@@ -1,0 +1,18 @@
+{
+  "name": "detecting-business-email-compromise-with-ai",
+  "slug": "detecting-business-email-compromise-with-ai",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-business-email-compromise-with-ai/",
+  "download_url": "https://claudskills.com/skills/detecting-business-email-compromise-with-ai/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Deploy AI and NLP-powered detection systems to identify business email compromise attacks by analyzing writing",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

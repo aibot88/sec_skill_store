@@ -1,0 +1,18 @@
+{
+  "name": "solution-design-patterns",
+  "slug": "solution-design-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/solution-design-patterns/",
+  "download_url": "https://claudskills.com/skills/solution-design-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when selecting the right automation layer (Flow, Apex, LWC) for a new feature, reviewing an existing design for technical debt, or troubleshooting a mismatched automation architecture. Triggers: 'should I use Flow or Apex', 'declarative vs programmatic', 'which layer should handle this', 'automation design review', 'should I use LWC or standard components', 'is this over-engineered'. NOT for individual feature design (use role-specific skills), NOT for detailed Apex implementation (use apex/ skills), NOT for LWC component authoring (use lwc/ skills), NOT for Flow-specific build steps (use flow/ skills).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "axiom-ios-integration",
+  "slug": "axiom-ios-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/axiom-ios-integration/",
+  "download_url": "https://claudskills.com/skills/axiom-ios-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when integrating ANY iOS system feature - Siri, Shortcuts, Apple Intelligence, widgets, IAP, camera, photo library, photos picker, audio, axiom-haptics, axiom-localization, privacy. Covers App Intents, WidgetKit, StoreKit, AVFoundation, PHPicker, PhotosPicker, Core Haptics, App Shortcuts, Spotlight.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:00+00:00"
+}

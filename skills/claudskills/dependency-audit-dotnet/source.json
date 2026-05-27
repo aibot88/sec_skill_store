@@ -1,0 +1,18 @@
+{
+  "name": "dependency-audit-dotnet",
+  "slug": "dependency-audit-dotnet",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dependency-audit-dotnet/",
+  "download_url": "https://claudskills.com/skills/dependency-audit-dotnet/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit a .NET / NuGet project for outdated versions, known vulnerabilities, unused or missing declarations, lockfile drift, and duplicate versions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

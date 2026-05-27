@@ -1,0 +1,18 @@
+{
+  "name": "ottersec-prep",
+  "slug": "ottersec-prep",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ottersec-prep/",
+  "download_url": "https://claudskills.com/skills/ottersec-prep/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Prep a Sui Move package for an OtterSec security audit. Use when the user mentions OtterSec or wants audit prep.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

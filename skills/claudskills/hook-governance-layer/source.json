@@ -1,0 +1,18 @@
+{
+  "name": "hook-governance-layer",
+  "slug": "hook-governance-layer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hook-governance-layer/",
+  "download_url": "https://claudskills.com/skills/hook-governance-layer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design, review, or extend hook-based governance layers for tool runtimes with pre and post hooks, permission mediation, continuation control, additional context injection, and non-fatal hook errors. Use when Codex needs to build or audit hook systems, policy middleware, or execution governance around tools.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

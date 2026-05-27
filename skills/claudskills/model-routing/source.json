@@ -1,0 +1,18 @@
+{
+  "name": "model-routing",
+  "slug": "model-routing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/model-routing/",
+  "download_url": "https://claudskills.com/skills/model-routing/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Vendor-neutral routing guide for choosing the right model tier by task type. Mechanical work uses a smaller/faster model; implementation uses a standard model; architecture, security, and release audit use the most capable model.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

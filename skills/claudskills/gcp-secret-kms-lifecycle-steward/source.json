@@ -1,0 +1,18 @@
+{
+  "name": "gcp-secret-kms-lifecycle-steward",
+  "slug": "gcp-secret-kms-lifecycle-steward",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-secret-kms-lifecycle-steward/",
+  "download_url": "https://claudskills.com/skills/gcp-secret-kms-lifecycle-steward/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Audit and govern Cloud KMS key lifecycles, Secret Manager secrets, CMEK configurations across GCP services (Cloud SQL, BigQuery, GCS, Compute), key rotation schedules, and envelope encryption patterns. Prefer gcp-iam-least-privilege-review for IAM binding review on KMS keys and gcp-security-posture-hardening for broad org-level encryption policy gaps.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

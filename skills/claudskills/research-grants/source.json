@@ -1,0 +1,18 @@
+{
+  "name": "research-grants",
+  "slug": "research-grants",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/research-grants/",
+  "download_url": "https://claudskills.com/skills/research-grants/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT license",
+  "description": "Write competitive research proposals for NSF, NIH, DOE, DARPA, and Taiwan NSTC. Agency-specific formatting, review criteria, budget preparation, broader impacts, significance statements, innovation narratives, and compliance with submission requirements.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

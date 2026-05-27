@@ -1,0 +1,18 @@
+{
+  "name": "csrf-auth-debugger",
+  "slug": "csrf-auth-debugger",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/csrf-auth-debugger/",
+  "download_url": "https://claudskills.com/skills/csrf-auth-debugger/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Debug CSRF token issues and authentication problems including 403 Forbidden errors, cookie issues, JWT tokens, OAuth flows, and session management. Use when troubleshooting CSRF verification failed, 403 errors on POST requests, login not working, or token refresh issues.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

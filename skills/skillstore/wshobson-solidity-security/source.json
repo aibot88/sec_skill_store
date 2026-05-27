@@ -1,0 +1,18 @@
+{
+  "name": "solidity-security",
+  "slug": "wshobson-solidity-security",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/wshobson-solidity-security",
+  "download_url": "https://github.com/wshobson/agents/blob/main/plugins/blockchain-web3/skills/solidity-security/SKILL.md?plain=1#L36",
+  "external_source_url": "https://github.com/wshobson/agents/blob/main/plugins/blockchain-web3/skills/solidity-security/SKILL.md?plain=1#L36",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Master smart contract security best practices to prevent common vulnerabilities and implement secure Solidity patterns. Use when writing smart contracts, auditing existing contracts, or implementing security measures for blockchain applications.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/wshobson/agents/blob/main/plugins/blockchain-web3/skills/solidity-security/SKILL.md?plain=1#L36"
+  },
+  "collected_at": "2026-05-27T03:44:51+00:00"
+}

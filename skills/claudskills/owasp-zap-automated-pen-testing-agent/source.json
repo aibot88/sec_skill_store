@@ -1,0 +1,18 @@
+{
+  "name": "owasp-zap-automated-pen-testing-agent",
+  "slug": "owasp-zap-automated-pen-testing-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/owasp-zap-automated-pen-testing-agent/",
+  "download_url": "https://claudskills.com/skills/owasp-zap-automated-pen-testing-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Runs automated penetration tests using OWASP ZAP API with spider crawling, active scanning, and AJAX-aware testing. Generates SARIF and HTML reports with CWE-mapped findings for security review workflows.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

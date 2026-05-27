@@ -1,0 +1,18 @@
+{
+  "name": "nemoclaw-maintainer-security-code-review",
+  "slug": "nemoclaw-maintainer-security-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nemoclaw-maintainer-security-code-review/",
+  "download_url": "https://claudskills.com/skills/nemoclaw-maintainer-security-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Performs a comprehensive security review of code changes in a GitHub PR or issue. Checks out the branch, analyzes changed files against a 9-category security checklist, and produces PASS/WARNING/FAIL verdicts. Use when reviewing pull requests for security vulnerabilities, hardcoded secrets, injection flaws, auth bypasses, or insecure configurations. Trigger keywords - security review, code review, appsec, vulnerability assessment, security audit, review PR security.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

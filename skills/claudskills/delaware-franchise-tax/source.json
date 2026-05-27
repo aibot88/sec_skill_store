@@ -1,0 +1,18 @@
+{
+  "name": "delaware-franchise-tax",
+  "slug": "delaware-franchise-tax",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/delaware-franchise-tax/",
+  "download_url": "https://claudskills.com/skills/delaware-franchise-tax/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "File your Delaware annual franchise tax and annual report. Guides you through tax calculation (Authorized Shares and Assumed Par Value Capital methods), the eCorp portal filing process, and payment. For Delaware C-Corps (March 1 deadline) and LLCs/LPs/GPs (June 1 deadline). Use when user says \"Delaware franchise tax,\" \"annual report Delaware,\" \"file franchise tax,\" or \"eCorp portal.\"",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

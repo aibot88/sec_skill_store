@@ -1,0 +1,18 @@
+{
+  "name": "zero-tech-debt",
+  "slug": "zero-tech-debt",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/zero-tech-debt/",
+  "download_url": "https://claudskills.com/skills/zero-tech-debt/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Rebuild a feature as if the correct product architecture existed from day one — remove compatibility cruft, dead abstractions, and historical compromises instead of preserving them. Use when the operator says \"refactor properly,\" \"clean up,\" \"rewrite,\" \"modernize,\" \"remove legacy,\" \"simplify,\" \"rethink,\" \"pay down tech debt,\" or signals frustration with accumulated complexity. Do NOT use for hotfixes, bug repros, surgical patches, or security backports — blast-radius minimization wins there. Trigger with \"/zero-tech-debt\", \"do it right this time\", \"the way it should have been built\", \"refactor toward intent\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:39+00:00"
+}

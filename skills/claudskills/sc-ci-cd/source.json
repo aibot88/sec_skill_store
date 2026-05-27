@@ -1,0 +1,18 @@
+{
+  "name": "sc-ci-cd",
+  "slug": "sc-ci-cd",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sc-ci-cd/",
+  "download_url": "https://claudskills.com/skills/sc-ci-cd/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "CI/CD pipeline security — GitHub Actions injection, secret exposure, untrusted actions, and artifact poisoning",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

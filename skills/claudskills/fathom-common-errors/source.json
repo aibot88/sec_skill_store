@@ -1,0 +1,18 @@
+{
+  "name": "fathom-common-errors",
+  "slug": "fathom-common-errors",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fathom-common-errors/",
+  "download_url": "https://claudskills.com/skills/fathom-common-errors/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Diagnose and fix Fathom API errors including auth failures and missing data. Use when API calls fail, transcripts are empty, or webhooks are not firing. Trigger with phrases like \"fathom error\", \"fathom not working\", \"fathom api failure\", \"fix fathom\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

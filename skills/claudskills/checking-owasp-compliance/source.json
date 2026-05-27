@@ -1,0 +1,18 @@
+{
+  "name": "checking-owasp-compliance",
+  "slug": "checking-owasp-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/checking-owasp-compliance/",
+  "download_url": "https://claudskills.com/skills/checking-owasp-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Check compliance with OWASP Top 10 security risks and best practices. Use when performing comprehensive security audits. Trigger with 'check OWASP compliance', 'audit web security', or 'validate OWASP'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

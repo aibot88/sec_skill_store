@@ -1,0 +1,18 @@
+{
+  "name": "check-secrets",
+  "slug": "check-secrets",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/check-secrets/",
+  "download_url": "https://claudskills.com/skills/check-secrets/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scan the codebase for potential secret leaks including API keys, tokens, passwords, hardcoded project IDs, and sensitive identifiers. Use when the user says \"check for secrets\", \"scan for leaks\", \"security check\", or before committing sensitive changes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

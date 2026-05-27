@@ -1,0 +1,18 @@
+{
+  "name": "raymon",
+  "slug": "raymon",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/raymon/",
+  "download_url": "https://claudskills.com/skills/raymon/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use Raymon’s MCP server to search and inspect Ray-style logs. Use when you need to (1) set up Raymon as an MCP server (local or remote with auth), (2) search stored entries with filters/pagination, or (3) fetch full entry payloads by UUID for debugging/triage.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

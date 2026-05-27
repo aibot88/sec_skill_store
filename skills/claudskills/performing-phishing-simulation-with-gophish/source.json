@@ -1,0 +1,18 @@
+{
+  "name": "performing-phishing-simulation-with-gophish",
+  "slug": "performing-phishing-simulation-with-gophish",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-phishing-simulation-with-gophish/",
+  "download_url": "https://claudskills.com/skills/performing-phishing-simulation-with-gophish/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "GoPhish is an open-source phishing simulation framework used by security teams to conduct authorized phishing",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

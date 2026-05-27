@@ -1,0 +1,19 @@
+{
+  "name": "articles",
+  "slug": "tanin-t-security-awareness-articles-articles",
+  "source": "github",
+  "source_url": "https://github.com/tanin-t/security-awareness-articles/blob/be2e0b6c9326b5355b58f7088b93fb57601551e2/articles/01-cybersecurity-is-a-life-skill.md",
+  "download_url": "https://github.com/tanin-t/security-awareness-articles/blob/be2e0b6c9326b5355b58f7088b93fb57601551e2/articles/01-cybersecurity-is-a-life-skill.md",
+  "external_source_url": "https://github.com/tanin-t/security-awareness-articles/blob/be2e0b6c9326b5355b58f7088b93fb57601551e2/articles/01-cybersecurity-is-a-life-skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "tanin-t/security-awareness-articles",
+    "path": "articles/01-cybersecurity-is-a-life-skill.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

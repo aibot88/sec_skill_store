@@ -1,0 +1,18 @@
+{
+  "name": "istio-expert",
+  "slug": "istio-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/istio-expert/",
+  "download_url": "https://claudskills.com/skills/istio-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Expert-level Istio service mesh management, traffic control, security, and observability for Kubernetes",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

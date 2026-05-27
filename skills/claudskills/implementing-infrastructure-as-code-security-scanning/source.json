@@ -1,0 +1,18 @@
+{
+  "name": "implementing-infrastructure-as-code-security-scanning",
+  "slug": "implementing-infrastructure-as-code-security-scanning",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-infrastructure-as-code-security-scanning/",
+  "download_url": "https://claudskills.com/skills/implementing-infrastructure-as-code-security-scanning/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill covers implementing automated security scanning for Infrastructure as Code (IaC) templates using",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

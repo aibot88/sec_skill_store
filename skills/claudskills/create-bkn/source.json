@@ -1,0 +1,18 @@
+{
+  "name": "create-bkn",
+  "slug": "create-bkn",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-bkn/",
+  "download_url": "https://claudskills.com/skills/create-bkn/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guides creation of BKN (Business Knowledge Network) definition files following v2.0.1 spec. Covers network, object_type, relation_type, action_type, concept_group. Use when creating knowledge networks, BKN files, object types, relation types, action types, concept groups, or when user asks to model business knowledge in BKN format. When kweaver-core is also loaded, use it to run kweaver CLI (auth, bkn push) after files exist.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

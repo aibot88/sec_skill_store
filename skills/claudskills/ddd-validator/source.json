@@ -1,0 +1,18 @@
+{
+  "name": "ddd-validator",
+  "slug": "ddd-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ddd-validator/",
+  "download_url": "https://claudskills.com/skills/ddd-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate DDD architecture compliance including layer separation, dependency rules, and patterns. Use when validating context before commit, checking new features, reviewing refactored code, or ensuring layer isolation (e.g., \"Validate User context\", \"Check Product domain layer\").",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

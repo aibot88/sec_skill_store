@@ -1,0 +1,18 @@
+{
+  "name": "hedis-nlp",
+  "slug": "hedis-nlp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hedis-nlp/",
+  "download_url": "https://claudskills.com/skills/hedis-nlp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build, evaluate, and document per-measure HEDIS extraction pipelines (NLP engineering, not chart review). Use when asked to \"build a HEDIS extractor\", \"HEDIS NLP\", \"quality measure NLP\", \"NCQA HEDIS extractor\", \"extract HEDIS data with NLP\", \"set up date-of-service attribution for [measure]\", \"handle assertion or negation for HEDIS NLP\", \"evaluate a HEDIS NLP model\", \"write annotation guidelines for HEDIS\", \"build a model card for [measure]\", \"design MRRV-ready NLP\", \"set up extraction for GSD / BCS-E / FUH / MRP / TRC / COA / CBP / [any HEDIS measure]\", \"supplemental data NLP\", \"MRRV audit prep\", or any data-science task targeting HEDIS measure extraction. DO NOT USE FOR clinical chart review (use medical-chart-review skill). DO NOT USE FOR HCC / risk-adjustment NLP (use hcc-nlp skill). DO NOT USE FOR HIPAA compliance program work like BAA review, breach response, or OCR audit prep (use the hipaa-compliance skill). DO NOT USE FOR handling real identifiable PHI without explicit user confirmation that data is de-identified or that the environment is HIPAA-compliant.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "biology-medicine",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

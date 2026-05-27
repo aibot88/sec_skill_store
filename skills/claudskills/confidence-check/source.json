@@ -1,0 +1,18 @@
+{
+  "name": "Confidence Check",
+  "slug": "confidence-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/confidence-check/",
+  "download_url": "https://claudskills.com/skills/confidence-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Pre-implementation confidence assessment (≥90% required). Use before starting any implementation to verify readiness with duplicate check, architecture compliance, official docs verification, OSS references, and root cause identification.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

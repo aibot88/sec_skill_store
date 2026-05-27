@@ -1,0 +1,18 @@
+{
+  "name": "dev-supabase",
+  "slug": "dev-supabase",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-supabase/",
+  "download_url": "https://claudskills.com/skills/dev-supabase/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Backend development with Supabase. Trigger when the user wants to configure auth, the database, or Supabase storage.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

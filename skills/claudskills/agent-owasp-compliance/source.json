@@ -1,0 +1,18 @@
+{
+  "name": "agent-owasp-compliance",
+  "slug": "agent-owasp-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-owasp-compliance/",
+  "download_url": "https://claudskills.com/skills/agent-owasp-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Check any AI agent codebase against the OWASP Agentic Security Initiative (ASI) Top 10 risks. Use this skill when: - Evaluating an agent system's security posture before production deployment - Running a compliance check against OWASP ASI 2026 standards - Mapping existing security controls to the 10 agentic risks - Generating a compliance report for security review or audit - Comparing agent framework security features against the standard - Any request like \"is my agent OWASP compliant?\", \"check ASI compliance\", or \"agentic security audit\"",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

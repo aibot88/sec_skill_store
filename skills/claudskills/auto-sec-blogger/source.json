@@ -1,0 +1,18 @@
+{
+  "name": "auto-sec-blogger",
+  "slug": "auto-sec-blogger",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auto-sec-blogger/",
+  "download_url": "https://claudskills.com/skills/auto-sec-blogger/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AI-powered security blog automation system (identical to github.com/rebugui/intelligence-agent). Collects news from Google News, arXiv, HackerNews → generates blog posts with GLM-4.7 → publishes to Notion → auto-deploys to GitHub Pages via Git. Features Human-in-the-Loop approval workflow. Use when you want to automate blog writing, news collection, or content generation with the exact functionality of the original intelligence-agent repository. Triggers: \\\"블로그 글 작성\\\", \\\"보안 뉴스 발행\\\", \\\"깃헙 블로그 발행\\\", \\\"intelligence agent\\\", \\\"지능형 에이전트\\\", \\\"자동 글쓰기\\\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

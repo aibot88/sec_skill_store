@@ -1,0 +1,18 @@
+{
+  "name": "onenote-security-basics",
+  "slug": "onenote-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/onenote-security-basics/",
+  "download_url": "https://claudskills.com/skills/onenote-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement secure authentication, token management, and permission scoping for OneNote Graph API. Use when hardening OneNote integrations, implementing least-privilege permissions, or managing token lifecycle. Trigger with \"onenote security\", \"onenote permissions\", \"onenote token management\", \"onenote least privilege\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

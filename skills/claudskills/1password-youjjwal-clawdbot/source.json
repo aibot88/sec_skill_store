@@ -1,0 +1,18 @@
+{
+  "name": "1password",
+  "slug": "1password-youjjwal-clawdbot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/1password-youjjwal-clawdbot/",
+  "download_url": "https://claudskills.com/skills/1password-youjjwal-clawdbot/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Set up and use 1Password CLI (op). Use when installing the CLI, enabling desktop app integration, signing in (single or multi-account), or reading/injecting/running secrets via op.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

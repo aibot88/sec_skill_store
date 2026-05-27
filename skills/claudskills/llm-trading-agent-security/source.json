@@ -1,0 +1,18 @@
+{
+  "name": "llm-trading-agent-security",
+  "slug": "llm-trading-agent-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/llm-trading-agent-security/",
+  "download_url": "https://claudskills.com/skills/llm-trading-agent-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "中文优先：用于LLMtrading智能体安全相关任务，帮助识别、设计、实现或验证对应工作流。English keywords: Security patterns for autonomous trading agents with wallet or transaction authority. Covers prompt injection, spend limits, pre-send simulation, circuit breakers, MEV protection, and key handling.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

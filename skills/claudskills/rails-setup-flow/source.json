@@ -1,0 +1,18 @@
+{
+  "name": "rails-setup-flow",
+  "slug": "rails-setup-flow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rails-setup-flow/",
+  "download_url": "https://claudskills.com/skills/rails-setup-flow/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Complete Rails project setup workflow. Installs dependencies via Bundler, configures database connections, generates Rails app scaffold, validates the dev environment, and generates GitHub Actions or GitLab CI pipelines with linting, testing, and security scanning. Use when starting a new Rails project, running `rails new`, configuring a Gemfile or .ruby-version, setting up a development environment, or wiring up CI/CD for a Ruby on Rails app. Trigger: setup project, new Rails app, configure CI/CD, dev environment setup, rails new, Gemfile setup, .ruby-version, Ruby on Rails project bootstrap.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "single-cell-rna-qc",
+  "slug": "single-cell-rna-qc",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/single-cell-rna-qc/",
+  "download_url": "https://claudskills.com/skills/single-cell-rna-qc/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Performs quality control on single-cell RNA-seq data (.h5ad or .h5 files) using scverse best practices with MAD-based filtering and comprehensive visualizations. Use when users request QC analysis, filtering low-quality cells, assessing data quality, or following scverse/scanpy best practices for single-cell analysis.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

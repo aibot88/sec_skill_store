@@ -1,0 +1,18 @@
+{
+  "name": "patent-review",
+  "slug": "patent-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/patent-review/",
+  "download_url": "https://claudskills.com/skills/patent-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Get an external patent examiner review of a patent application. Use when user says \\\"专利审查\\\", \\\"patent review\\\", \\\"审查意见\\\", \\\"examiner review\\\", or wants critical feedback on patent claims and specification.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "supply-chain-audit",
+  "slug": "supply-chain-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supply-chain-audit/",
+  "download_url": "https://claudskills.com/skills/supply-chain-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze project dependencies for supply chain risks. Checks maintainer count, commit frequency, CVE history, abandonment signals, bus factor, and security policy presence for each direct dependency. Supports npm, pip, cargo, go mod, and composer. Use when: \"supply chain audit\", \"dependency risk\", \"check dependencies\", \"maintainer risk\", \"abandoned packages\", \"dependency health\", \"package security\", \"supply chain risk\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

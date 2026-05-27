@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "iyolrymtn-kku-adeo-newgen-.claude-skills",
+  "source": "github",
+  "source_url": "https://github.com/IyolrymTN-kku/Adeo-NewGen/blob/421e8b35fbd0fe689f215e86513df719729cc634/.claude/skills/Skill.md",
+  "download_url": "https://github.com/IyolrymTN-kku/Adeo-NewGen/blob/421e8b35fbd0fe689f215e86513df719729cc634/.claude/skills/Skill.md",
+  "external_source_url": "https://github.com/IyolrymTN-kku/Adeo-NewGen/blob/421e8b35fbd0fe689f215e86513df719729cc634/.claude/skills/Skill.md",
+  "license": "",
+  "description": "New Style Web site For Adeo Solution Company",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "IyolrymTN-kku/Adeo-NewGen",
+    "path": ".claude/skills/Skill.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

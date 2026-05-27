@@ -1,0 +1,18 @@
+{
+  "name": "omnistudio-security",
+  "slug": "omnistudio-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/omnistudio-security/",
+  "download_url": "https://claudskills.com/skills/omnistudio-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing or reviewing OmniStudio security across OmniScripts, Integration Procedures, DataRaptors, custom LWCs, Apex actions, guest-user exposure, and outbound HTTP actions. Triggers: 'OmniStudio security', 'guest user omniscript', 'DataRaptor CRUD FLS', 'OmniStudio Apex security', 'HTTP action data exposure'. NOT for general portal identity architecture or generic Apex security reviews when OmniStudio is not the main surface.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

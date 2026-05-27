@@ -1,0 +1,18 @@
+{
+  "name": "openai-tool-calling-runtime",
+  "slug": "openai-tool-calling-runtime",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/openai-tool-calling-runtime/",
+  "download_url": "https://claudskills.com/skills/openai-tool-calling-runtime/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when implementing OpenAI tool or function calling from an approved ai-architecture.md tool surface. Produces tool schemas, provider SDK wiring, execution adapters, authorization checks, idempotency rules, audit logging, tool failure handling, and tests for allowed, denied, failed, and retried tool calls. Do not use for AI architecture, generic chat, RAG, structured extraction without tools, or agent framework orchestration.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ml-ai-eng",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

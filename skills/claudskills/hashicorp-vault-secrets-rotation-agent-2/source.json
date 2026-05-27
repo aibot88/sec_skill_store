@@ -1,0 +1,18 @@
+{
+  "name": "hashicorp-vault-secrets-rotation-agent-2",
+  "slug": "hashicorp-vault-secrets-rotation-agent-2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hashicorp-vault-secrets-rotation-agent-2/",
+  "download_url": "https://claudskills.com/skills/hashicorp-vault-secrets-rotation-agent-2/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automates secret rotation in HashiCorp Vault using the Vault API and dynamic secrets engines. Manages database credential leases, PKI certificate renewal, and AWS STS token generation with TTL policies.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "perch",
+  "slug": "perch",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/perch/",
+  "download_url": "https://claudskills.com/skills/perch/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Server intelligence layer for RunCloud-managed Linux servers. Use when the user mentions Perch, /perch_*, RunCloud, nginx-rc, server intelligence, server diagnosis, WordPress site auditing, plugin vulnerability scanning, or any time they want to investigate, monitor, or heal a server they own.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:51+00:00"
+}

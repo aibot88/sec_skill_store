@@ -1,0 +1,18 @@
+{
+  "name": "atlas-agent-security",
+  "slug": "atlas-agent-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/atlas-agent-security/",
+  "download_url": "https://claudskills.com/skills/atlas-agent-security/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Security audits, vulnerability analysis, and security best practices enforcement",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

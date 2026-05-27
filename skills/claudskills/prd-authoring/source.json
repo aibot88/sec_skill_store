@@ -1,0 +1,18 @@
+{
+  "name": "prd-authoring",
+  "slug": "prd-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prd-authoring/",
+  "download_url": "https://claudskills.com/skills/prd-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide for authoring comprehensive PRDs with parallel planning support. Use for drafting technical specifications, defining requirements, and synthesizing planner outputs. Use proactively when creating PRDs, architecture designs, or implementation plans. Examples: - user: \"Draft a PRD for user auth\" → create PRD with purpose, requirements, and scenarios - user: \"Analyze these PRD requirements\" → verify SHALL/MUST usage and scenario structure - user: \"Synthesize planner outputs\" → merge the strongest parts of multiple generated PRDs - user: \"Create a PRD template\" → setup standard sections and placeholder content",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "prd-spec",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

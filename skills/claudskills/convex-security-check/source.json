@@ -1,0 +1,18 @@
+{
+  "name": "convex-security-check",
+  "slug": "convex-security-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/convex-security-check/",
+  "download_url": "https://claudskills.com/skills/convex-security-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Quick security audit checklist covering authentication, function exposure, argument validation, row-level access control, and environment variable handling",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

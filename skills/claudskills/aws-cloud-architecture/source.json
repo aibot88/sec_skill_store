@@ -1,0 +1,18 @@
+{
+  "name": "aws-cloud-architecture",
+  "slug": "aws-cloud-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-cloud-architecture/",
+  "download_url": "https://claudskills.com/skills/aws-cloud-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive guide to AWS cloud architecture covering compute, storage, databases, networking, security, serverless, and cost optimization with production-ready patterns",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "fix-guardrails",
+  "slug": "fix-guardrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fix-guardrails/",
+  "download_url": "https://claudskills.com/skills/fix-guardrails/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fix all guardrail findings (make lint, make test, make sast) across repositories. Use when the user asks to fix linting errors, test failures, SAST findings, or run the full guardrail remediation workflow.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

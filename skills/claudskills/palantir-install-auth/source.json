@@ -1,0 +1,18 @@
+{
+  "name": "palantir-install-auth",
+  "slug": "palantir-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/palantir-install-auth/",
+  "download_url": "https://claudskills.com/skills/palantir-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Palantir Foundry SDK authentication with OAuth2 or token auth. Use when setting up a new Foundry integration, configuring API credentials, or initializing the foundry-platform-sdk in your project. Trigger with phrases like \"install palantir\", \"setup palantir\", \"palantir auth\", \"configure palantir API key\", \"foundry SDK setup\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "react-code-review",
+  "slug": "react-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/react-code-review/",
+  "download_url": "https://claudskills.com/skills/react-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides comprehensive code review capability for React applications, validates component architecture, hooks usage, React 19 patterns, state management, performance optimization, accessibility compliance, and TypeScript integration. Use when reviewing React code changes, before merging pull requests, after implementing new features, or for component architecture validation. Triggers on \"review React code\", \"React code review\", \"check my React components\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

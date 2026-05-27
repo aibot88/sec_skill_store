@@ -1,0 +1,18 @@
+{
+  "name": "audit-trail",
+  "slug": "audit-trail",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-trail/",
+  "download_url": "https://claudskills.com/skills/audit-trail/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "모든 사용자 발화·agent 행동·phase 전환·gate 판정을 ISO 8601 타임스탬프와 함께 감사 로그에 기록한다. 사용자 입력은 축약·요약 없이 verbatim blockquote로 보존하며, SOC2·ISMS-P 감사 요구사항에 매핑되는 보존 정책(30·90·365일)을 프로젝트별로 선택한다. 모든 AIDLC skill이 호출 가능한 공통 감사 계층을 제공한다.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

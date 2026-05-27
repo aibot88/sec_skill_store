@@ -1,0 +1,18 @@
+{
+  "name": "camera-movements",
+  "slug": "camera-movements",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/camera-movements/",
+  "download_url": "https://claudskills.com/skills/camera-movements/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Standardized camera movement vocabulary for Veo 3 video generation. Use when creating video prompts that require specific camera movements, cinematography terminology, or when validating camera movement specifications. Provides authoritative reference for 50+ camera movements (Dolly, Arc, Crane, FPV Drone, Whip Pan, etc.) to ensure consistent, production-ready terminology.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

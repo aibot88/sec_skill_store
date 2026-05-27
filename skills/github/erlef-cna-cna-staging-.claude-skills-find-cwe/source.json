@@ -1,0 +1,19 @@
+{
+  "name": "find-cwe",
+  "slug": "erlef-cna-cna-staging-.claude-skills-find-cwe",
+  "source": "github",
+  "source_url": "https://github.com/erlef-cna/cna-staging/blob/eead2ed95c3c1a0dc48681d788b7f5e51dbb721a/.claude/skills/find-cwe/SKILL.md",
+  "download_url": "https://github.com/erlef-cna/cna-staging/blob/eead2ed95c3c1a0dc48681d788b7f5e51dbb721a/.claude/skills/find-cwe/SKILL.md",
+  "external_source_url": "https://github.com/erlef-cna/cna-staging/blob/eead2ed95c3c1a0dc48681d788b7f5e51dbb721a/.claude/skills/find-cwe/SKILL.md",
+  "license": "",
+  "description": "Staging CNA to test the CVE Services Integration",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "erlef-cna/cna-staging",
+    "path": ".claude/skills/find-cwe/SKILL.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "tray-multicd",
+  "slug": "multicd",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/multicd/",
+  "download_url": "https://claudskills.com/skills/multicd/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "API de Multi-CD (Centros de Distribuição) da Tray. Utilize quando o desenvolvedor precisar gerenciar múltiplos centros de distribuição, incluindo cadastro, atualização, exclusão de CDs, gestão de estoque por produto/variação em cada CD, e configuração de prioridade e cobertura regional. Inclui documentação de webhooks para sincronização de estoque entre sistemas.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:41+00:00"
+}

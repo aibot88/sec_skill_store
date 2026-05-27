@@ -1,0 +1,18 @@
+{
+  "name": "backend-api",
+  "slug": "backend-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backend-api/",
+  "download_url": "https://claudskills.com/skills/backend-api/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "· Design/review HTTP APIs for FastAPI, Express, NestJS: REST, OpenAPI, pagination, OAuth/JWT. Triggers: 'fastapi', 'express', 'nestjs', 'openapi', 'pagination', 'idempotency'. Not for schemas (use databases).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

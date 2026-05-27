@@ -1,0 +1,18 @@
+{
+  "name": "logging-api-requests",
+  "slug": "logging-api-requests",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/logging-api-requests/",
+  "download_url": "https://claudskills.com/skills/logging-api-requests/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Monitor and log API requests with correlation IDs, performance metrics, and security audit trails. Use when auditing API requests and responses. Trigger with phrases like \"log API requests\", \"add API logging\", or \"track API calls\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

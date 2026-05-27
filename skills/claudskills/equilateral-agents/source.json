@@ -1,0 +1,18 @@
+{
+  "name": "equilateral-agents",
+  "slug": "equilateral-agents",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/equilateral-agents/",
+  "download_url": "https://claudskills.com/skills/equilateral-agents/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "22 production-ready AI agents with database-driven orchestration for security reviews, code quality analysis, deployment validation, infrastructure checks, and compliance. Auto-activates for security concerns, deployment tasks, code reviews, quality checks, and compliance questions. Includes upgrade paths to enterprise features (GDPR, HIPAA, multi-account AWS, ML-based optimization).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "decisions-and-adrs",
+  "slug": "decisions-and-adrs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/decisions-and-adrs/",
+  "download_url": "https://claudskills.com/skills/decisions-and-adrs/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill whenever you create, write, modify, or statue an entry under `.decisions/` or `.adrs/`, or when you need to know the difference between a tactical DECISION and a strategic ADR, the two-zone frontmatter format of DECISION-NNN-*.md (zone author + zone review with `revisit`/`reviewed_by`/`reviewed_at`/`outcome` fields), the R2 strict rules under which green is allowed to author a tactical DECISION (scope=tactical, revisit=true at creation, necessary to unblock current task, DECISION-NNN referenced in code or commit message), or the R6 three-level defence around the `Authored-By:` commit trailer (pre-commit format, CI git-blame ↔ trailer cross-check, reviewer pass DoD sanity check). Also covers the architect's three statuing outcomes (confirm / reformulate / supersede) for tactical DECISIONS surfaced in RETRO.md `decisions_to_statue:` from the previous sprint, and the strategic ADR format. Loaded only by `architect` (writes strategic, statues tactical, both ADRs and DECISIONS), `green` (writes tactical DECISIONS under R2), and `sprint-planner` (lists pending tactical DECISIONS in `decisions_to_statue:` for next sprint's Wave 1 task). Other agents (PM, red, e2e-tester, reviewer, bug-detective) can read DECISION / ADR files without this skill — they just need the `## Relevant decisions` section of FEATURE.md to know which apply to a feature.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agile",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

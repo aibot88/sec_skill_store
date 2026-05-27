@@ -1,0 +1,18 @@
+{
+  "name": "architecture-validation",
+  "slug": "architecture-validation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/architecture-validation/",
+  "download_url": "https://claudskills.com/skills/architecture-validation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Dynamically validate codebase compliance with architectural decisions and constraints",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

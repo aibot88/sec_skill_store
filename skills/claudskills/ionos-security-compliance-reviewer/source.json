@@ -1,0 +1,18 @@
+{
+  "name": "ionos-security-compliance-reviewer",
+  "slug": "ionos-security-compliance-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ionos-security-compliance-reviewer/",
+  "download_url": "https://claudskills.com/skills/ionos-security-compliance-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Audit IONOS Cloud security and compliance posture covering GDPR data residency and data sovereignty, ISO 27001 control alignment, encryption at rest and in transit, private LAN isolation, IAM role and bearer token hygiene, regional endpoint correctness, audit trail coverage, and vulnerability posture. Use when the user asks to assess, improve, or evidence IONOS Cloud security or GDPR compliance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

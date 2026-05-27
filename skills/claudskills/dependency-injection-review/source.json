@@ -1,0 +1,18 @@
+{
+  "name": "dependency-injection-review",
+  "slug": "dependency-injection-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dependency-injection-review/",
+  "download_url": "https://claudskills.com/skills/dependency-injection-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review code for proper DI patterns using DryIoc. Ensures no static singletons, validates constructor injection and service lifetimes. Use when reviewing code, refactoring static access, or debugging DI issues.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

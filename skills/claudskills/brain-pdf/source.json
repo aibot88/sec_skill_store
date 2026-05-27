@@ -1,0 +1,18 @@
+{
+  "name": "brain-pdf",
+  "slug": "brain-pdf",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/brain-pdf/",
+  "download_url": "https://claudskills.com/skills/brain-pdf/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generate a publication-quality PDF from any brain page via the gstack make-pdf binary. Strips YAML frontmatter, sanitizes emoji, applies running headers and page numbers. Brain page is always the source of truth; PDF is a rendering.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "claude-md-optimizer",
+  "slug": "claude-md-optimizer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/claude-md-optimizer/",
+  "download_url": "https://claudskills.com/skills/claude-md-optimizer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Optimize oversized CLAUDE.md files using progressive disclosure. Analyzes content tiers, detects encryption constraints, creates sub-documents, and rewrites the main file with a Sub-Documentation Table. Triggers: optimize CLAUDE.md, reduce CLAUDE.md size, CLAUDE.md too long, apply progressive disclosure to CLAUDE.md",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

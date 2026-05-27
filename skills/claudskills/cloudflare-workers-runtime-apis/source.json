@@ -1,0 +1,18 @@
+{
+  "name": "workers-runtime-apis",
+  "slug": "cloudflare-workers-runtime-apis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloudflare-workers-runtime-apis/",
+  "download_url": "https://claudskills.com/skills/cloudflare-workers-runtime-apis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Cloudflare Workers Runtime APIs including Fetch, Streams, Crypto, Cache, WebSockets, and Encoding. Use for HTTP requests, streaming, encryption, caching, real-time connections, or encountering API compatibility, response handling, stream processing errors.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

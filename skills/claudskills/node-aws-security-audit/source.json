@@ -1,0 +1,18 @@
+{
+  "name": "node-aws-security-audit",
+  "slug": "node-aws-security-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/node-aws-security-audit/",
+  "download_url": "https://claudskills.com/skills/node-aws-security-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Perform comprehensive security audits on Node.js, JavaScript, and TypeScript codebases. Scans source code for OWASP Top 10 vulnerabilities, insecure patterns, dependency risks, and generates a prioritized Markdown audit report with severity levels (Critical, High, Medium, Low), code citations, and remediation guidance. Use when asked to audit, review, scan, or check security of a Node.js/JS/TS project, find vulnerabilities, check for OWASP compliance, or generate a security report. Also triggers on: security review, pentest, vulnerability scan, is my code secure, check for injection, check dependencies. Do NOT trigger for: general code reviews, bugfix assistance, feature development, refactoring, performance optimization, or non-security tasks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

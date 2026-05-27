@@ -1,0 +1,18 @@
+{
+  "name": "odoo-api-query",
+  "slug": "odoo-api-query",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/odoo-api-query/",
+  "download_url": "https://claudskills.com/skills/odoo-api-query/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Query any Odoo 18 instance via REST/JSON APIs with bearer token auth. Implements a discovery-first approach that prevents invalid queries by introspecting models, fields, and methods before executing. Supports /json/2 (modern RPC for any ORM method), /doc-bearer (model/field/method introspection), and /json/1 (read-only views). Use when performing any data operation on Odoo - reading, writing, searching, or exploring the schema. Always run discovery scripts before composing queries.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "discovery",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "language-expert",
+  "slug": "language-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/language-expert/",
+  "download_url": "https://claudskills.com/skills/language-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use for language design questions including syntax decisions, semantics, grammar authoring, and comparing DomainLang with other DSLs. Activate when designing new language features, evaluating syntax alternatives, or discussing DDD pattern representation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

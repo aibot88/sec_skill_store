@@ -1,0 +1,18 @@
+{
+  "name": "identity-access",
+  "slug": "identity-access",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/identity-access/",
+  "download_url": "https://claudskills.com/skills/identity-access/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement identity and access management. Use when designing authentication, authorization, or user management. Covers OAuth2, OIDC, and RBAC.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

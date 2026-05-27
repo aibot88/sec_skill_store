@@ -1,0 +1,18 @@
+{
+  "name": "fly-deploy",
+  "slug": "fly-deploy-aaronbassett-paneful",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fly-deploy-aaronbassett-paneful/",
+  "download_url": "https://claudskills.com/skills/fly-deploy-aaronbassett-paneful/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Quick MVP deployment to fly.io for JavaScript (Next.js, RedwoodSDK, Express), Rust (Axum, Rocket), Python (FastAPI), and generic Dockerfiles. Use when deploying applications to fly.io, setting up databases (Postgres, volumes, Tigris object storage), managing secrets, configuring custom domains, setting up GitHub Actions workflows, creating review apps for pull requests, or troubleshooting fly.io deployments. Covers complete deployment workflows from initial setup through production.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

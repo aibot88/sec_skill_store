@@ -1,0 +1,18 @@
+{
+  "name": "detecting-sql-injection-vulnerabilities",
+  "slug": "detecting-sql-injection-vulnerabilities",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-sql-injection-vulnerabilities/",
+  "download_url": "https://claudskills.com/skills/detecting-sql-injection-vulnerabilities/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Detect and analyze SQL injection vulnerabilities in application code and database queries. Use when you need to scan code for SQL injection risks, review query construction, validate input sanitization, or implement secure query patterns. Trigger with phrases like \"detect SQL injection\", \"scan for SQLi vulnerabilities\", \"review database queries\", or \"check SQL security\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

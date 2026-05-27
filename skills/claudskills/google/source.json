@@ -1,0 +1,18 @@
+{
+  "name": "Google",
+  "slug": "google",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google/",
+  "download_url": "https://claudskills.com/skills/google/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Gmail, Calendar, Tasks, Drive, Contacts (People), and Photos via Google APIs with OAuth refresh tokens.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "personal-productivity",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

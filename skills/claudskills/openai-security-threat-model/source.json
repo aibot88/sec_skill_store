@@ -1,0 +1,18 @@
+{
+  "name": "openai-security-threat-model",
+  "slug": "openai-security-threat-model",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/openai-security-threat-model/",
+  "download_url": "https://claudskills.com/skills/openai-security-threat-model/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

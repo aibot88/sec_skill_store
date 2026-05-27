@@ -1,0 +1,18 @@
+{
+  "name": "external-sync-wizard",
+  "slug": "external-sync-wizard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/external-sync-wizard/",
+  "download_url": "https://claudskills.com/skills/external-sync-wizard/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guide for setting up bidirectional sync between SpecWeave and GitHub Issues, JIRA, or Azure DevOps. Use when configuring external tool integration, mapping fields between systems, or troubleshooting sync issues. Covers webhook setup, authentication, and conflict resolution strategies.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:53+00:00"
+}

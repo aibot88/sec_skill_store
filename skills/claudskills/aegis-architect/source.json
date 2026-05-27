@@ -1,0 +1,18 @@
+{
+  "name": "aegis-architect",
+  "slug": "aegis-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aegis-architect/",
+  "download_url": "https://claudskills.com/skills/aegis-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Enhanced architecture guidance for voice-first Brazilian fintech applications. Use when designing voice interfaces, implementing PIX/Boletos, optimizing financial systems, or making technology stack decisions for Brazilian market applications. Integrates with docs/ content, MCP tools for Brazilian market research, enhanced validation scripts, and comprehensive Brazilian compliance patterns.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

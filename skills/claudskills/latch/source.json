@@ -1,0 +1,18 @@
+{
+  "name": "latch",
+  "slug": "latch",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/latch/",
+  "download_url": "https://claudskills.com/skills/latch/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Propose, configure, debug, and maintain Claude Code hooks (PreToolUse/PostToolUse/Stop and other lifecycle events). Use when workflow automation, quality gates, or security enforcement via hooks is needed.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

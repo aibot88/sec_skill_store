@@ -1,0 +1,18 @@
+{
+  "name": "purify-water",
+  "slug": "purify-water",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/purify-water/",
+  "download_url": "https://claudskills.com/skills/purify-water/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Purificar agua de fuentes silvestres usando ebullición, filtración, desinfección química y destilación solar. Cubre evaluación de fuentes de agua, eliminación de sedimentos, eliminación de patógenos, pruebas de seguridad y almacenamiento. Usar cuando necesites agua potable de arroyos, ríos o lagos, cuando practiques habilidades de supervivencia en bushcraft, o cuando necesites agua de emergencia durante desastres naturales.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

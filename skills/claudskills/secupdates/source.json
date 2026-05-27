@@ -1,0 +1,18 @@
+{
+  "name": "SECUpdates",
+  "slug": "secupdates",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/secupdates/",
+  "download_url": "https://claudskills.com/skills/secupdates/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security news aggregation from tldrsec, no.security, and other sources. USE WHEN security news, security updates, what's new in security, breaches, security research, sec updates. SkillSearch('secupdates') for docs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

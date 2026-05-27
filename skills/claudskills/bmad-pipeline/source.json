@@ -1,0 +1,18 @@
+{
+  "name": "bmad-pipeline",
+  "slug": "bmad-pipeline",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bmad-pipeline/",
+  "download_url": "https://claudskills.com/skills/bmad-pipeline/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Orchestriert den kompletten BMAD-Entwicklungszyklus als automatische Pipeline: bmad-create-story → bmad-testarch-atdd → bmad-dev-story → bmad-testarch-test-review → bmad-code-review → bmad-security-review (Kassandra, conditional), jeweils in frischem Kontext. Führt git add nach dev-story aus. Der Code-Review-Skill fixt Minor Issues selbst (\"fixe minor issues instantly\"). Pausiert nur bei Major/Critical Issues (User-Entscheidung), am Epic-Ende zwingend mit Kassandra-Security-Review und danach für die Retrospektive (liest sprint-status.yaml). Trigger: \"bmad pipeline\", \"bmad run\", \"bmad start\", \"story pipeline\", \"neues feature\", \"story durchlaufen\", \"pipeline starten\", immer wenn der User den kompletten BMAD-Flow starten will ohne jeden Schritt einzeln aufzurufen.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

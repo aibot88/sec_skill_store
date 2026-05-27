@@ -1,0 +1,18 @@
+{
+  "name": "gpg-encryption-key-management-agent",
+  "slug": "gpg-encryption-key-management-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gpg-encryption-key-management-agent/",
+  "download_url": "https://claudskills.com/skills/gpg-encryption-key-management-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manages GPG key lifecycle and file encryption operations using GnuPG CLI and GPGME library. Handles keyserver synchronization, trust model management, and automated encrypted backup workflows.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crypto-keymgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

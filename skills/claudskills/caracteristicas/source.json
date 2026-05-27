@@ -1,0 +1,18 @@
+{
+  "name": "tray-caracteristicas",
+  "slug": "caracteristicas",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/caracteristicas/",
+  "download_url": "https://claudskills.com/skills/caracteristicas/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "API de Características de Produtos da Tray. Utilize quando o desenvolvedor precisar gerenciar características (propriedades) dos produtos, incluindo cadastro, atualização, consulta e exclusão. Permite criar características globais reutilizáveis e associar valores específicos a cada produto (ex: cor, tamanho, material, voltagem).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

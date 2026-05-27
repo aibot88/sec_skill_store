@@ -1,0 +1,18 @@
+{
+  "name": "github-actions-workflow-composer-2",
+  "slug": "github-actions-workflow-composer-2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-actions-workflow-composer-2/",
+  "download_url": "https://claudskills.com/skills/github-actions-workflow-composer-2/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Composes GitHub Actions workflow YAML files from modular job templates, resolving action version pins and secret references. Validates against the GitHub Actions schema and checks for known action CVEs.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

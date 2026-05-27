@@ -1,0 +1,18 @@
+{
+  "name": "api-security-testing",
+  "slug": "sickn33-api-security-testing",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-api-security-testing",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/api-security-testing",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/api-security-testing",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "API security testing workflow for REST and GraphQL APIs covering authentication, authorization, rate limiting, input validation, and security best practices.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 files",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/api-security-testing"
+  },
+  "collected_at": "2026-05-27T03:44:45+00:00"
+}

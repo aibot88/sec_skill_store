@@ -1,0 +1,18 @@
+{
+  "name": "ci-pipeline",
+  "slug": "ci-pipeline-1ambda-dataops-platform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ci-pipeline-1ambda-dataops-platform/",
+  "download_url": "https://claudskills.com/skills/ci-pipeline-1ambda-dataops-platform/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "GitHub Actions CI/CD pipelines with caching, matrix builds, and deployment strategies. Focuses on build speed, reliability, and security. Use when creating or optimizing CI/CD workflows, debugging pipeline failures, or implementing deployment automation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

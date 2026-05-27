@@ -1,0 +1,18 @@
+{
+  "name": "attack-mapping",
+  "slug": "attack-mapping",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/attack-mapping/",
+  "download_url": "https://claudskills.com/skills/attack-mapping/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "MITRE ATT&CK technique mapping for a CVE or every entry in `.vulnetix/memory.yaml`. Use when planning detection coverage gaps, mapping a CVE to defender controls, building an executive heatmap of repo risk by tactic, or correlating with internal D3FEND counter-techniques.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

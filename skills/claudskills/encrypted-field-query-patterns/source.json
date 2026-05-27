@@ -1,0 +1,18 @@
+{
+  "name": "encrypted-field-query-patterns",
+  "slug": "encrypted-field-query-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/encrypted-field-query-patterns/",
+  "download_url": "https://claudskills.com/skills/encrypted-field-query-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design SOQL, filters, reporting, and indexes against Shield Platform Encryption fields. Trigger keywords: Shield Platform Encryption, encrypted field query, probabilistic vs deterministic encryption, encrypted SOQL filter, encrypted field index. Does NOT cover: Classic Encryption (deprecated), field-level security policy, or tenant secret key rotation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

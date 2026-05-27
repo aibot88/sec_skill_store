@@ -1,0 +1,18 @@
+{
+  "name": "keyvault-csi-driver",
+  "slug": "keyvault-csi-driver",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/keyvault-csi-driver/",
+  "download_url": "https://claudskills.com/skills/keyvault-csi-driver/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Azure Key Vault + CSI Driver integration for Kubernetes secrets management. Use when creating SecretProviderClass resources, mounting secrets from Key Vault, troubleshooting 403 errors, syncing secrets to K8s, or configuring applications to use Key Vault secrets.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

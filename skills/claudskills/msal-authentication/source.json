@@ -1,0 +1,18 @@
+{
+  "name": "msal-authentication",
+  "slug": "msal-authentication",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/msal-authentication/",
+  "download_url": "https://claudskills.com/skills/msal-authentication/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Microsoft Authentication Library (MSAL) patterns for React/SPA applications with Entra ID",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

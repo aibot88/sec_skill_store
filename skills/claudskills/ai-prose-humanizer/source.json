@@ -1,0 +1,18 @@
+{
+  "name": "ai-prose-humanizer",
+  "slug": "ai-prose-humanizer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-prose-humanizer/",
+  "download_url": "https://claudskills.com/skills/ai-prose-humanizer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Evidence-based editorial pipeline that detects and removes AI writing patterns using a research-grounded rubric, preserves author facts, and gates on high-severity issues.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "writing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

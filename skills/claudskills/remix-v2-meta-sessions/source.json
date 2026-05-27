@@ -1,0 +1,18 @@
+{
+  "name": "remix-v2-meta-sessions",
+  "slug": "remix-v2-meta-sessions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/remix-v2-meta-sessions/",
+  "download_url": "https://claudskills.com/skills/remix-v2-meta-sessions/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Remix v2 meta/SEO, sessions, auth, and CSRF. Use when working with document head, cookie sessions, auth gates, or CSRF protection. Triggers on meta export (v2 array shape), links export, createCookieSessionStorage, commitSession, destroySession, requireUserId, remix-utils/csrf, remix-auth.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

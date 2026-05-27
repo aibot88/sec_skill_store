@@ -1,0 +1,18 @@
+{
+  "name": "nfr-checklist",
+  "slug": "nfr-checklist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nfr-checklist/",
+  "download_url": "https://claudskills.com/skills/nfr-checklist/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Systematische Erhebung, Dokumentation und Priorisierung von Non-Functional Requirements (NFRs) nach ISO 25010 und TOGAF-Qualitätsattributen. Interaktiver Dialog zur Erfassung, Ableitung konkreter Architekturmaßnahmen und Ausgabe als strukturierter NFR-Katalog mit Messkriterien. Verwende diesen Skill bei: NFR erheben, Non-Functional Requirements erstellen, Qualitätsanforderungen dokumentieren, Nicht-funktionale Anforderungen erfassen, Performance-Anforderungen definieren, Skalierbarkeitsanforderungen, Verfügbarkeits-SLA, Sicherheitsanforderungen spezifizieren, Wartbarkeitsanforderungen, NFR-Katalog erstellen. Löst auch aus bei: NFR, Qualitätsattribute, Quality Attributes, Non-Functional Requirements, Nicht-funktionale Anforderungen, Performance Requirements, Availability SLA, Scalability Requirements, Security Requirements, Maintainability, Portability, Compliance Requirements, ISO 25010, TOGAF Quality, Architektur-treibende Anforderungen, Architecture Significant Requirements, ASR, Systemqualität, Quality of Service, QoS, Betriebsanforderungen, Operational Requirements, Recovery Time Objective, RTO, RPO, Latenz-Anforderung, Throughput-Anforderung, Verfügbarkeit 99.9, SLA definieren, Disaster Recovery Anforderungen, Datenschutz-Anforderungen, Barrierefreiheit, WCAG, Testbarkeit, Deployability, Observability, Monitoring-Anforderungen.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

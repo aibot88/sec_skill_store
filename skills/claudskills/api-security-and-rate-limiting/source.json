@@ -1,0 +1,18 @@
+{
+  "name": "api-security-and-rate-limiting",
+  "slug": "api-security-and-rate-limiting",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-security-and-rate-limiting/",
+  "download_url": "https://claudskills.com/skills/api-security-and-rate-limiting/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when configuring, auditing, or troubleshooting API rate limits, Connected App OAuth scope restriction, Connected App IP restrictions, API session policies, or API usage monitoring in a Salesforce org. Trigger keywords: 'API rate limit', '429 error', 'OAuth scope restriction', 'Connected App IP restriction', 'API usage monitoring', 'concurrent API limits', 'Bulk API limits'. NOT for OAuth flow implementation, token exchange mechanics, or general Connected App setup — use security/oauth-flows-and-connected-apps for those.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

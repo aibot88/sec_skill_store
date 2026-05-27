@@ -1,0 +1,18 @@
+{
+  "name": "duet",
+  "slug": "duet",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/duet/",
+  "download_url": "https://claudskills.com/skills/duet/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Two-party working posture — user as director, agent as executor. Every fork, tradeoff, and taste choice is surfaced via batched AskUserQuestion with structural framing, a recommended default, and concrete previews when comparison is visual, so the human steers direction while the agent handles implementation. Eliminates the review-bottleneck (no giant diff to approve at the end — review is distributed across picks) and prevents codebase-understanding debt (the user remembers the architecture because they picked it). Use whenever the user invokes /duet, or says \"work with me\", \"ask before\", \"check with me\", \"I want to decide\", \"don't assume\", \"human-in-the-loop\", \"co-author\", \"pair with me\", \"duet\", or whenever a task clearly involves aesthetic, architectural, or irreversible strategic decisions — even without those exact words. Pair with the Duet output style to minimize cognitive load between picks.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

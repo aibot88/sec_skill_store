@@ -1,0 +1,18 @@
+{
+  "name": "codex-collaborator",
+  "slug": "codex-collaborator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/codex-collaborator/",
+  "download_url": "https://claudskills.com/skills/codex-collaborator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Codex MCP 协作流程。触发场景：(1) 新功能开发 (2) 重构 (3) 复杂业务逻辑 (4) 代码审查。提供三阶段协作：需求分析→原型获取→审查，强调批判性思考与只读安全。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

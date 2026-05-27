@@ -1,0 +1,18 @@
+{
+  "name": "huawei-obs-storage-steward",
+  "slug": "huawei-obs-storage-steward",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/huawei-obs-storage-steward/",
+  "download_url": "https://claudskills.com/skills/huawei-obs-storage-steward/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Manage Huawei OBS lifecycle policies, bucket ACL and policy governance, SFS (Scalable File Service) NFS shares, EVS (Elastic Volume Service) block storage, and CBR (Cloud Backup and Recovery) backup strategy for data protection compliance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

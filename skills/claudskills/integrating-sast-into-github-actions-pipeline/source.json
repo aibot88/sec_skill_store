@@ -1,0 +1,18 @@
+{
+  "name": "integrating-sast-into-github-actions-pipeline",
+  "slug": "integrating-sast-into-github-actions-pipeline",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/integrating-sast-into-github-actions-pipeline/",
+  "download_url": "https://claudskills.com/skills/integrating-sast-into-github-actions-pipeline/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill covers integrating Static Application Security Testing (SAST) tools—CodeQL and Semgrep—into GitHub",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

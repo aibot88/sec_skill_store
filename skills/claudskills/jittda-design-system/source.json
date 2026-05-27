@@ -1,0 +1,18 @@
+{
+  "name": "jittda-design-system",
+  "slug": "jittda-design-system",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jittda-design-system/",
+  "download_url": "https://claudskills.com/skills/jittda-design-system/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Jittda Design System Context Injection. UI 컴포넌트 생성/수정 시 Seed Design 컴포넌트 + Jittda 브랜드 토큰을 강제 적용.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-system-ui",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

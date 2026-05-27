@@ -1,0 +1,18 @@
+{
+  "name": "k8s-helm",
+  "slug": "k8s-helm",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/k8s-helm/",
+  "download_url": "https://claudskills.com/skills/k8s-helm/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Kubernetes and Helm patterns - use for deployment configs, service definitions, ConfigMaps, Secrets, and Helm chart management",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

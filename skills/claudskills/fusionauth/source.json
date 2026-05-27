@@ -1,0 +1,18 @@
+{
+  "name": "fusionauth",
+  "slug": "fusionauth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fusionauth/",
+  "download_url": "https://claudskills.com/skills/fusionauth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "FusionAuth integration. Manage data, records, and automate workflows. Use when the user wants to interact with FusionAuth data.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:02+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "detecting-sql-injection-via-waf-logs",
+  "slug": "detecting-sql-injection-via-waf-logs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-sql-injection-via-waf-logs/",
+  "download_url": "https://claudskills.com/skills/detecting-sql-injection-via-waf-logs/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Analyze WAF (ModSecurity/AWS WAF/Cloudflare) logs to detect SQL injection attack campaigns. Parses ModSecurity",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

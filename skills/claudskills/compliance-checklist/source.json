@@ -1,0 +1,18 @@
+{
+  "name": "compliance-checklist",
+  "slug": "compliance-checklist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/compliance-checklist/",
+  "download_url": "https://claudskills.com/skills/compliance-checklist/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides a checklist framework for surfacing potentially applicable application-compliance obligations across declared jurisdictions (Japan / EU / US-CA / platform stores). The Skill is invoked by product-manager, security-reviewer, and technical-writer when a capability that may have legal exposure is added (chat / payments / PII collection / data export). It emits a checklist with primary-source citations and a mandatory disclaimer block; it never marks items as \"complied with\" — only the human reviewer can.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

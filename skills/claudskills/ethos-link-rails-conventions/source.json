@@ -1,0 +1,18 @@
+{
+  "name": "rails-conventions",
+  "slug": "ethos-link-rails-conventions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ethos-link-rails-conventions/",
+  "download_url": "https://claudskills.com/skills/ethos-link-rails-conventions/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Rails 8.x application architecture, implementation, and review guidance for production codebases. Use when building or reviewing Ruby on Rails 8 features across models, controllers, routes, Hotwire, jobs, APIs, performance, security, and testing. Trigger for requests mentioning Rails 8, Active Record, Active Job, GoodJob, Solid Queue, Turbo/Stimulus, REST resources, migrations, code quality, naming, and production readiness.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gate-exchange-spot",
+  "slug": "gate-exchange-spot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gate-exchange-spot/",
+  "download_url": "https://claudskills.com/skills/gate-exchange-spot/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Gate spot trading and account operations skill. Use this skill whenever the user asks to buy/sell crypto, check account value, cancel/amend spot orders, place conditional buy/sell plans, verify fills, or perform coin-to-coin swaps in Gate spot trading. Trigger phrases include 'buy coin', 'sell coin', 'monitor market', 'cancel order', 'amend order', 'break-even price', 'rebalance', 'spot trading', 'buy/sell', or any request that combines spot order execution with account checks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

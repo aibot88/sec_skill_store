@@ -1,0 +1,18 @@
+{
+  "name": "geo-lint",
+  "slug": "geo-lint",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/geo-lint/",
+  "download_url": "https://claudskills.com/skills/geo-lint/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "SEO & GEO content linter — validates Markdown/MDX files for AI search visibility using 92 deterministic rules (35 GEO, 32 SEO, 14 content quality, 8 technical, 3 i18n). Runs an autonomous lint-fix loop: scan content, read structured violations, fix them, re-lint until clean. Use when optimizing content for AI citations, auditing SEO compliance, checking GEO readiness, or running pre-publish content validation. Triggers on: \"geo-lint\", \"lint content\", \"SEO audit\", \"GEO\", \"content optimization\", \"AI search\", \"citation readiness\".",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "seo",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:05+00:00"
+}

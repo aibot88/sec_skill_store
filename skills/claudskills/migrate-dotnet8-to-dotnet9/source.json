@@ -1,0 +1,18 @@
+{
+  "name": "migrate-dotnet8-to-dotnet9",
+  "slug": "migrate-dotnet8-to-dotnet9",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/migrate-dotnet8-to-dotnet9/",
+  "download_url": "https://claudskills.com/skills/migrate-dotnet8-to-dotnet9/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Migrate a .NET 8 project to .NET 9 and resolve all breaking changes. USE FOR: upgrading TargetFramework from net8.0 to net9.0, fixing build errors after updating the .NET 9 SDK, resolving behavioral changes in .NET 9 / C# 13 / ASP.NET Core 9 / EF Core 9, replacing BinaryFormatter (now always throws), resolving SYSLIB0054-SYSLIB0057, adapting to params span overload resolution, fixing C# 13 compiler changes, updating HttpClientFactory for SocketsHttpHandler, and resolving EF Core 9 migration/Cosmos DB changes. DO NOT USE FOR: .NET Framework migrations, upgrading from .NET 7 or earlier, greenfield .NET 9 projects, or cosmetic modernization unrelated to the upgrade.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

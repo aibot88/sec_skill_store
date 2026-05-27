@@ -1,0 +1,18 @@
+{
+  "name": "springboot-security",
+  "slug": "springboot-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/springboot-security/",
+  "download_url": "https://claudskills.com/skills/springboot-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "中文优先：用于Spring Boot安全相关任务，帮助识别、设计、实现或验证对应工作流。English keywords: Spring Security best practices for authn/authz, validation, CSRF, secrets, headers, rate limiting, and dependency security in Java Spring Boot services.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

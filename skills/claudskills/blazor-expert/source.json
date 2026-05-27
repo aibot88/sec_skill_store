@@ -1,0 +1,18 @@
+{
+  "name": "blazor-expert",
+  "slug": "blazor-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/blazor-expert/",
+  "download_url": "https://claudskills.com/skills/blazor-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive Blazor development expertise covering Blazor Server, WebAssembly, and Hybrid apps. Use when building Blazor components, implementing state management, handling routing, JavaScript interop, forms and validation, authentication, or optimizing Blazor applications. Includes best practices, architecture patterns, and troubleshooting guidance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

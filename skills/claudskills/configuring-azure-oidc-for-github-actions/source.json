@@ -1,0 +1,18 @@
+{
+  "name": "configuring-azure-oidc-for-github-actions",
+  "slug": "configuring-azure-oidc-for-github-actions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/configuring-azure-oidc-for-github-actions/",
+  "download_url": "https://claudskills.com/skills/configuring-azure-oidc-for-github-actions/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Sets up branch-scoped Azure OIDC for GitHub Actions — creates service principals, federated credentials bound to each branch's refs/heads/{branch}, generates SQL passwords, and sets GitHub secrets. Use when bootstrapping CI/CD, onboarding a new environment branch, or fixing AADSTS70021 subject mismatches.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "account-takeover",
+  "slug": "account-takeover",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/account-takeover/",
+  "download_url": "https://claudskills.com/skills/account-takeover/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "How to identify and test for account takeover vulnerabilities in web applications. Use this skill whenever the user mentions account takeover, authentication bypass, password reset attacks, email verification bypass, session hijacking, or any technique to compromise user accounts. This includes testing authorization issues, unicode normalization attacks, reset token reuse, CORS/CSRF/XSS exploitation, cookie manipulation, and OAuth vulnerabilities.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

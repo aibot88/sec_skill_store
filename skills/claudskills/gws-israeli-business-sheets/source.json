@@ -1,0 +1,18 @@
+{
+  "name": "gws-israeli-business-sheets",
+  "slug": "gws-israeli-business-sheets",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gws-israeli-business-sheets/",
+  "download_url": "https://claudskills.com/skills/gws-israeli-business-sheets/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Google Sheets financial tracking and automation for Israeli freelancers and small businesses using the Google Workspace CLI (gws). Use when user asks to create income/expense sheets with Shekel formatting, track VAT (18%) calculations, generate tax-period summaries for accountants, backup spreadsheets as CSV, or auto-log payments. Do NOT use for direct bank API integrations, payroll processing, or filing taxes with the Israel Tax Authority.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

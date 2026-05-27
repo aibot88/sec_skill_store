@@ -1,0 +1,18 @@
+{
+  "name": "security-threat-model",
+  "slug": "security-threat-model",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-threat-model/",
+  "download_url": "https://claudskills.com/skills/security-threat-model/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Repository-grounded threat modeling that enumerates trust boundaries, assets, attacker capabilities, abuse paths, and mitigations, and writes a concise Markdown threat model. Trigger only when the user explicitly asks to threat model a codebase or path, enumerate threats/abuse paths, or perform AppSec threat modeling. Do not trigger for general architecture summaries, code review, or non-security design work.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

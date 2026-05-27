@@ -1,0 +1,18 @@
+{
+  "name": "alibabacloud-analyticdb-postgresql-supabase-ops",
+  "slug": "alibabacloud-analyticdb-postgresql-supabase-ops",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibabacloud-analyticdb-postgresql-supabase-ops/",
+  "download_url": "https://claudskills.com/skills/alibabacloud-analyticdb-postgresql-supabase-ops/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage the full lifecycle of ADBPG Supabase projects. Use for listing/querying projects, create, pause/resume, reset password, API Keys, and security IP management. Triggers: \"Supabase\", \"supabase project\", \"spb-xxx\", \"ADBPG Supabase\"",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

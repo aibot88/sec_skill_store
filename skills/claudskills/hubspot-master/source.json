@@ -1,0 +1,18 @@
+{
+  "name": "hubspot-master",
+  "slug": "hubspot-master",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hubspot-master/",
+  "download_url": "https://claudskills.com/skills/hubspot-master/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Shared resource library for HubSpot integration skills. DO NOT load directly - provides common references (setup, API docs, error handling, authentication) and scripts used by hubspot-connect and individual HubSpot skills.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

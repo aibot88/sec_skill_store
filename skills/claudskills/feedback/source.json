@@ -1,0 +1,18 @@
+{
+  "name": "feedback",
+  "slug": "feedback",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/feedback/",
+  "download_url": "https://claudskills.com/skills/feedback/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Manages OrchestKit learning system including feedback status, usage pattern tracking, and privacy/analytics consent. Supports pause/resume learning, data export, privacy policy display, and bug reporting. Tracks learned patterns and agent performance metrics. Use when reviewing learned patterns, pausing learning, or managing data consent.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

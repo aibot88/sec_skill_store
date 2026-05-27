@@ -1,0 +1,18 @@
+{
+  "name": "txt-core-text",
+  "slug": "txt-core-text",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/txt-core-text/",
+  "download_url": "https://claudskills.com/skills/txt-core-text/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use Core Text directly — CTLine, CTRun, CTFramesetter, CTTypesetter, CTFont, CTRunDelegate — for glyph-level access, custom typesetting, hit testing outside a text container, font tables, or per-glyph Core Graphics rendering. Use when you need glyph IDs and positions, custom line breaking, drawing text into a CGContext, OpenType feature inspection, or inline non-text elements with custom metrics. Read the actual rendering pipeline (especially the coordinate flip) before reciting fixes — most Core Text bugs are inverted axes or attribute-key type mismatches. Do NOT use when TextKit 2 already exposes the APIs you need — see txt-textkit2.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

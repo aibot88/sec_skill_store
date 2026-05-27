@@ -1,0 +1,18 @@
+{
+  "name": "ring:using-lib-commons",
+  "slug": "using-lib-commons",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/using-lib-commons/",
+  "download_url": "https://claudskills.com/skills/using-lib-commons/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Dual-mode skill for github.com/LerianStudio/lib-commons v5, Lerian's shared Go library — the non-observability surface. Sweep Mode dispatches parallel explorers to detect DIY implementations that should use lib-commons, with file:line replacement precision. Reference Mode catalogs lib-commons packages for lifecycle (Launcher), outbox repository, circuit breakers, tenant management, idempotency, security/TLS, database, messaging, HTTP toolkit. Observability (log, metrics, tracing, assertions, panic recovery, redaction) moved out of lib-commons into lib-observability v1.0.0 — see [[using-lib-observability]] and its sub-skills [[using-tracing]], [[using-runtime]], [[using-assert]]. Skip for non-Go code or Ring itself.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

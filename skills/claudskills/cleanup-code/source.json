@@ -1,0 +1,18 @@
+{
+  "name": "cleanup-code",
+  "slug": "cleanup-code",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cleanup-code/",
+  "download_url": "https://claudskills.com/skills/cleanup-code/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive codebase cleanup across 11 quality dimensions: dead code, duplication, weak types, circular deps, defensive cruft, legacy code, AI slop, type consolidation, security, performance, and async patterns. Analyzes code with confidence scoring and verifies changes with build/test gates. Use when codebase has accumulated tech debt, after major feature work, before releases, or when code quality metrics are declining. Trigger with \"/cleanup-code-code\", \"clean up the codebase\", \"remove dead code\", \"fix code quality\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

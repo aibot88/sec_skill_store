@@ -1,0 +1,18 @@
+{
+  "name": "ips-anlagenpaket",
+  "slug": "ips-anlagenpaket",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ips-anlagenpaket/",
+  "download_url": "https://claudskills.com/skills/ips-anlagenpaket/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Stellt Anlagen für Insolvenzplan und StaRUG zusammen: Vermögensübersicht, Ergebnis und Finanzplan, Erklärungen, Beteiligtenlisten und Belege.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

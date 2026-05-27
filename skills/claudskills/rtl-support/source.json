@@ -1,0 +1,18 @@
+{
+  "name": "rtl-support",
+  "slug": "rtl-support",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rtl-support/",
+  "download_url": "https://claudskills.com/skills/rtl-support/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Add right-to-left (RTL) text support to web projects for Hebrew, Arabic, and Farsi. Use when the user asks about RTL layout, Hebrew/Arabic text direction, bidirectional text, CSS direction, unicode-bidi, or wants to make a web app support RTL languages. Provides automatic direction detection, CSS injection, and JavaScript utilities.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "prtsc",
+  "slug": "prtsc",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prtsc/",
+  "download_url": "https://claudskills.com/skills/prtsc/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Podiva se na posledni screenshoty z OneDrive Screenshots slozky a precte jejich obsah pomoci token-free OCR (Windows OCR API nebo Tesseract). Trigger: 'prtsc', '/prtsc', 'podivej se na screenshoty', 'co je na poslednim screenshotu', 'precti posledni screenshot'. Pouzij kdykoli uzivatel chce precist nebo popsat obsah nedavnych screenshotu.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

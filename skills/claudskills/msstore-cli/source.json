@@ -1,0 +1,18 @@
+{
+  "name": "msstore-cli",
+  "slug": "msstore-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/msstore-cli/",
+  "download_url": "https://claudskills.com/skills/msstore-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Microsoft Store Developer CLI (msstore) for publishing Windows applications to the Microsoft Store. Use when asked to configure Store credentials, list Store apps, check submission status, publish submissions, manage package flights, set up CI/CD for Store publishing, or integrate with Partner Center. Supports Windows App SDK/WinUI, UWP, .NET MAUI, Flutter, Electron, React Native, and PWA applications.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

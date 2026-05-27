@@ -1,0 +1,18 @@
+{
+  "name": "performing-ssl-certificate-lifecycle-management",
+  "slug": "performing-ssl-certificate-lifecycle-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-ssl-certificate-lifecycle-management/",
+  "download_url": "https://claudskills.com/skills/performing-ssl-certificate-lifecycle-management/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "SSL/TLS certificate lifecycle management encompasses the full process of requesting, issuing, deploying, monitoring,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

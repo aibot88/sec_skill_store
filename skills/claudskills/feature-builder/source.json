@@ -1,0 +1,18 @@
+{
+  "name": "feature-builder",
+  "slug": "feature-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/feature-builder/",
+  "download_url": "https://claudskills.com/skills/feature-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Add features by description. User says WHAT, AI figures out HOW. Use when: user wants to add functionality to existing app. Triggers: \"add auth\", \"add payments\", \"add search\", \"добавь\", \"integrate\", \"connect\".",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

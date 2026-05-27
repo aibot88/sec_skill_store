@@ -1,0 +1,18 @@
+{
+  "name": "implementing-anti-ransomware-group-policy",
+  "slug": "implementing-anti-ransomware-group-policy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-anti-ransomware-group-policy/",
+  "download_url": "https://claudskills.com/skills/implementing-anti-ransomware-group-policy/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Configures Windows Group Policy Objects (GPO) to prevent ransomware execution and limit its spread. Implements",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

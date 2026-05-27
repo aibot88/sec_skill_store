@@ -1,0 +1,18 @@
+{
+  "name": "iac-checkov",
+  "slug": "iac-checkov",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/iac-checkov/",
+  "download_url": "https://claudskills.com/skills/iac-checkov/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Infrastructure as Code (IaC) security scanning using Checkov with 750+ built-in policies for Terraform, CloudFormation, Kubernetes, Dockerfile, and ARM templates. Use when: (1) Scanning IaC files for security misconfigurations and compliance violations, (2) Validating cloud infrastructure against CIS, PCI-DSS, HIPAA, and SOC2 benchmarks, (3) Detecting secrets and hardcoded credentials in IaC, (4) Implementing policy-as-code in CI/CD pipelines, (5) Generating compliance reports with remediation guidance for cloud security posture management.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

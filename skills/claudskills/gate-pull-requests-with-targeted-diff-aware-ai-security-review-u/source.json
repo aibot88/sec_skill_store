@@ -1,0 +1,18 @@
+{
+  "name": "gate-pull-requests-with-targeted-diff-aware-ai-security-review-u",
+  "slug": "gate-pull-requests-with-targeted-diff-aware-ai-security-review-u",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gate-pull-requests-with-targeted-diff-aware-ai-security-review-u/",
+  "download_url": "https://claudskills.com/skills/gate-pull-requests-with-targeted-diff-aware-ai-security-review-u/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run a Claude Code powered security review pass on trusted pull requests so suspicious auth, secret, injection, and unsafe logic changes surface before merge.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

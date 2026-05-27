@@ -1,0 +1,18 @@
+{
+  "name": "commit.lint",
+  "slug": "commit-lint-unsupervisedcom-deepwork",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/commit-lint-unsupervisedcom-deepwork/",
+  "download_url": "https://claudskills.com/skills/commit-lint-unsupervisedcom-deepwork/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Formats and lints code with ruff using a sub-agent. Use after tests pass to ensure code style compliance.\"user-invocable: false",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

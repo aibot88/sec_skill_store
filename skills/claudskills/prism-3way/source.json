@@ -1,0 +1,18 @@
+{
+  "name": "prism-3way",
+  "slug": "prism-3way",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prism-3way/",
+  "download_url": "https://claudskills.com/skills/prism-3way/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Three orthogonal analytical operations (WHERE/WHEN/WHY) + cross-operation synthesis. Each operation attacks the problem from a fundamentally different angle. The disagreements between the three ARE the valuable output. Works on any domain — code, business, strategy, design, text.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

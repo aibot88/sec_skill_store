@@ -1,0 +1,18 @@
+{
+  "name": "expense-bot-architecture",
+  "slug": "expense-bot-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/expense-bot-architecture/",
+  "download_url": "https://claudskills.com/skills/expense-bot-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Production-ready LINE bot with AI-powered expense tracking using TypeScript, Prisma, and Google Gemini. Comprehensive guide covering backend development, database design, AI integration, security, testing, and deployment.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

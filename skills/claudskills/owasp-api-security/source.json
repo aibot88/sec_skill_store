@@ -1,0 +1,18 @@
+{
+  "name": "owasp-api-security",
+  "slug": "owasp-api-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/owasp-api-security/",
+  "download_url": "https://claudskills.com/skills/owasp-api-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "OWASP API Security Top 10 testing patterns, injection payloads, auth bypass vectors, and security test generation for REST APIs. Use when writing security tests, reviewing API endpoints for vulnerabilities, or auditing input validation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

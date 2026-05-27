@@ -1,0 +1,18 @@
+{
+  "name": "emblemai-crypto-wallet",
+  "slug": "emblemai-crypto-wallet",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/emblemai-crypto-wallet/",
+  "download_url": "https://claudskills.com/skills/emblemai-crypto-wallet/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Crypto wallet management across 7 blockchains via EmblemAI Agent Hustle API. Balance checks, token swaps, portfolio analysis, and transaction execution for Solana, Ethereum, Base, BSC, Polygon, Hedera, and Bitcoin.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

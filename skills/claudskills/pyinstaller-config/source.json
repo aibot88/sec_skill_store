@@ -1,0 +1,18 @@
+{
+  "name": "pyinstaller-config",
+  "slug": "pyinstaller-config",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pyinstaller-config/",
+  "download_url": "https://claudskills.com/skills/pyinstaller-config/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configure PyInstaller for Python binary builds with spec files and bundling options.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

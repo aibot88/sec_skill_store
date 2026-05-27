@@ -1,0 +1,18 @@
+{
+  "name": "so-me-studio",
+  "slug": "so-me-studio",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/so-me-studio/",
+  "download_url": "https://claudskills.com/skills/so-me-studio/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Schedule posts, manage drafts, reply to inbox messages, generate AI captions/images/UGC videos, query analytics, and automate social-media operations across Twitter/X, LinkedIn, Instagram, Facebook, TikTok, YouTube, Threads, WhatsApp, Pinterest, and Dribbble — driven from the Hermes Agent CLI via the `so-me` binary.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "social-media",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

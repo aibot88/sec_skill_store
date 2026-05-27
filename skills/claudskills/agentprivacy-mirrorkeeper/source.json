@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-mirrorkeeper",
+  "slug": "agentprivacy-mirrorkeeper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-mirrorkeeper/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-mirrorkeeper/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Dihedral convergence navigator persona. Activates when discussing UOR-grimoire convergence, 2D to manifold transitions, the dihedral mirror pattern, or cross-framework translation between mathematical and narrative architectures.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "fairlearn-bias-detector",
+  "slug": "fairlearn-bias-detector",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fairlearn-bias-detector/",
+  "download_url": "https://claudskills.com/skills/fairlearn-bias-detector/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fairness assessment skill using Fairlearn for bias detection, mitigation, and compliance reporting.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

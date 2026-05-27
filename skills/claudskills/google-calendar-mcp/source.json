@@ -1,0 +1,18 @@
+{
+  "name": "google-calendar-mcp",
+  "slug": "google-calendar-mcp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-calendar-mcp/",
+  "download_url": "https://claudskills.com/skills/google-calendar-mcp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Step-by-step guide for setting up Google Calendar MCP server in Claude Code CLI. Use when users want to (1) connect Google Calendar to Claude Code, (2) set up the @cocal/google-calendar-mcp server, (3) configure OAuth credentials for Google Calendar API, or (4) troubleshoot Google Calendar MCP connection issues.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

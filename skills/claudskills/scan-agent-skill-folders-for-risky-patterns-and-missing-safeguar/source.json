@@ -1,0 +1,18 @@
+{
+  "name": "scan-agent-skill-folders-for-risky-patterns-and-missing-safeguar",
+  "slug": "scan-agent-skill-folders-for-risky-patterns-and-missing-safeguar",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scan-agent-skill-folders-for-risky-patterns-and-missing-safeguar/",
+  "download_url": "https://claudskills.com/skills/scan-agent-skill-folders-for-risky-patterns-and-missing-safeguar/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run a pre-trust security pass over skill packs and prompt bundles before they get shared, merged, or deployed.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

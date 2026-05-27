@@ -1,0 +1,18 @@
+{
+  "name": "blog-notebooklm",
+  "slug": "blog-notebooklm",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/blog-notebooklm/",
+  "download_url": "https://claudskills.com/skills/blog-notebooklm/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Query Google NotebookLM notebooks for source-grounded, citation-backed answers from user-uploaded documents. Manages notebook library, handles Google authentication, and supports smart discovery. Works standalone via /blog notebooklm or internally from blog-write and blog-researcher for Tier 1 research data. Falls back gracefully when not configured. Use when user says \"notebooklm\", \"notebook\", \"query notebook\", \"ask notebook\", \"notebook research\", \"source grounded research\", \"document query\", \"notebook library\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

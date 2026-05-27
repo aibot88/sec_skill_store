@@ -1,0 +1,18 @@
+{
+  "name": "linddun-threat-model",
+  "slug": "linddun-threat-model",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/linddun-threat-model/",
+  "download_url": "https://claudskills.com/skills/linddun-threat-model/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Conduct LINDDUN privacy threat modeling across all seven categories: Linking, Identifying, Non-repudiation, Detecting, Data Disclosure, Unawareness, and Non-compliance. Includes DFD-based analysis, threat trees, privacy-specific mitigation strategies, and integration with STRIDE security threat modeling.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

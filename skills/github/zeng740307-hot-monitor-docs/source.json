@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "slug": "zeng740307-hot-monitor-docs",
+  "source": "github",
+  "source_url": "https://github.com/zeng740307/hot-monitor/blob/3f0c6e39d4a54d795d57a11e5d688355b981ca5b/docs/agent-skill.md",
+  "download_url": "https://github.com/zeng740307/hot-monitor/blob/3f0c6e39d4a54d795d57a11e5d688355b981ca5b/docs/agent-skill.md",
+  "external_source_url": "https://github.com/zeng740307/hot-monitor/blob/3f0c6e39d4a54d795d57a11e5d688355b981ca5b/docs/agent-skill.md",
+  "license": "",
+  "description": "AI热点情报站",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "zeng740307/hot-monitor",
+    "path": "docs/agent-skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-queue-and-event-integration",
+  "slug": "nodejs-queue-and-event-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nodejs-queue-and-event-integration/",
+  "download_url": "https://claudskills.com/skills/nodejs-queue-and-event-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when adding asynchronous work or event integration to a scaffolded Node.js service — wiring BullMQ, KafkaJS, or SQS producers and consumers with explicit delivery semantics, a transactional outbox, idempotent consumers, retry with backoff, and dead-letter handling, plus integration tests against a real broker via Testcontainers — after the service scaffold exists and the broker and contracts are declared in backend-architecture. Do not use for the service shell or config, auth or security review, observability vendor wiring, or performance and resilience gating; use the other Node.js archetype skills instead.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

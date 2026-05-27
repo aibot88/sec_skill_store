@@ -1,0 +1,18 @@
+{
+  "name": "inter-agent-chat",
+  "slug": "inter-agent-chat",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/inter-agent-chat/",
+  "download_url": "https://claudskills.com/skills/inter-agent-chat/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when you need to send a message to another Claude Code agent, broadcast to all agents, or when you receive a message prefixed with [@agentName]. Covers terminal injection via TIOCSTI, pts discovery, message format, and kill switch.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

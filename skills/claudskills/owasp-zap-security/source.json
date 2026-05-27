@@ -1,0 +1,18 @@
+{
+  "name": "owasp-zap-security",
+  "slug": "owasp-zap-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/owasp-zap-security/",
+  "download_url": "https://claudskills.com/skills/owasp-zap-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deep integration with OWASP ZAP for automated security scanning, vulnerability detection, and API security testing. Execute spider/active scans, analyze alerts, generate security reports, and integrate with CI/CD pipelines.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

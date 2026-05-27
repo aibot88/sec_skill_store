@@ -1,0 +1,18 @@
+{
+  "name": "agentic-skill-authoring-standard",
+  "slug": "agentic-skill-authoring-standard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentic-skill-authoring-standard/",
+  "download_url": "https://claudskills.com/skills/agentic-skill-authoring-standard/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Yeni agentic-* veya proje skill eklerken frontmatter, bölüm sırası ve katalog uyumunu denetlerken kullan.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

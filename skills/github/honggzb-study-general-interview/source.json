@@ -1,0 +1,19 @@
+{
+  "name": "Interview",
+  "slug": "honggzb-study-general-interview",
+  "source": "github",
+  "source_url": "https://github.com/honggzb/Study-General/blob/752509fcfdf07e24bf6ae916946a086eee9a0a90/Interview/Soft-skill.md",
+  "download_url": "https://github.com/honggzb/Study-General/blob/752509fcfdf07e24bf6ae916946a086eee9a0a90/Interview/Soft-skill.md",
+  "external_source_url": "https://github.com/honggzb/Study-General/blob/752509fcfdf07e24bf6ae916946a086eee9a0a90/Interview/Soft-skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "honggzb/Study-General",
+    "path": "Interview/Soft-skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cloud-finops",
+  "slug": "cloud-finops",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloud-finops/",
+  "download_url": "https://claudskills.com/skills/cloud-finops/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert FinOps guidance covering cloud, AI, and SaaS technology spend. Includes AI cost management, GenAI capacity planning, Anthropic billing, AWS (EC2, Bedrock, Savings Plans, CUR, commitment strategy), Azure (reservations, Savings Plans, AHB, OpenAI PTUs, portfolio liquidity), GCP (Vertex AI, Compute Engine, BigQuery), tagging governance, SaaS management (SAM, licence optimisation, SMPs, shadow IT), AI coding tools (Cursor, Claude Code, Copilot, Windsurf, Codex), ITAM, Databricks, Snowflake, OCI, and GreenOps. Use for any query about technology cost, commitment portfolio management, rightsizing, cost allocation, SaaS sprawl, AI dev tool spend, or connecting spend to business value. Built by OptimNow.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

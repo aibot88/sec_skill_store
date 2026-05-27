@@ -1,0 +1,18 @@
+{
+  "name": "web-design-guidelines",
+  "slug": "web-design-guidelines",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/web-design-guidelines/",
+  "download_url": "https://claudskills.com/skills/web-design-guidelines/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review UI code for Web Interface Guidelines compliance. Use when asked to \"review my UI\", \"check accessibility\", \"audit design\", \"review UX\", or \"check my site against best practices\".",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "codex-flow-project-wrap-up",
+  "slug": "codex-flow-project-wrap-up",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/codex-flow-project-wrap-up/",
+  "download_url": "https://claudskills.com/skills/codex-flow-project-wrap-up/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Użyj, gdy kończysz sesję pracy nad projektem i chcesz uporządkować stan dokumentacji operacyjnej bez implementacji nowych zmian: zaktualizować ROADMAP.md, STATUS.md oraz w razie potrzeby README.md, a następnie upewnić się, że bieżący stan jest zapisany w repo. Ten skill nie służy do wdrażania funkcji ani do tworzenia nowego planu.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

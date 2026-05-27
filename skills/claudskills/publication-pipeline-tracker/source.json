@@ -1,0 +1,18 @@
+{
+  "name": "publication-pipeline-tracker",
+  "slug": "publication-pipeline-tracker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/publication-pipeline-tracker/",
+  "download_url": "https://claudskills.com/skills/publication-pipeline-tracker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Tracks every manuscript, paper, and research output currently in the publication pipeline from email — where each is in the review and submission process, what reviewer feedback is outstanding, what revisions are due, and what co-author actions are needed. Use when a researcher wants a full view of their publication pipeline without checking each journal portal manually. Triggers on \"publication pipeline\", \"manuscript status\", \"paper submission status\", \"reviewer feedback\", \"revisions due\", \"where are my papers\".",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

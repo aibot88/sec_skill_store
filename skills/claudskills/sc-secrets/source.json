@@ -1,0 +1,18 @@
+{
+  "name": "sc-secrets",
+  "slug": "sc-secrets",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sc-secrets/",
+  "download_url": "https://claudskills.com/skills/sc-secrets/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Hardcoded secrets, API keys, tokens, credentials, and private key detection in source code",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

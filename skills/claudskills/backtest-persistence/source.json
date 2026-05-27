@@ -1,0 +1,18 @@
+{
+  "name": "backtest-persistence",
+  "slug": "backtest-persistence",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backtest-persistence/",
+  "download_url": "https://claudskills.com/skills/backtest-persistence/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Save backtest results to SQLite database for comparison. Trigger when: (1) tracking backtest history, (2) comparing model performance, (3) querying best backtests.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

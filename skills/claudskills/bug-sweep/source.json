@@ -1,0 +1,18 @@
+{
+  "name": "bug-sweep",
+  "slug": "bug-sweep",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bug-sweep/",
+  "download_url": "https://claudskills.com/skills/bug-sweep/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Methodically walks a running app — every public route, every interactive control, every state (empty/loading/error/auth/un-auth) — to find real bugs, then root-causes, fixes, adds a regression test, and verifies each one before moving to the next. Use when: 'find bugs in the app', 'sweep for regressions', 'methodically hunt and fix bugs', 'audit user flows', 'find broken buttons / forms / links'. Distinct from /hotfix (one known bug, speed) and /triage (read-only ranked plan).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "operations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

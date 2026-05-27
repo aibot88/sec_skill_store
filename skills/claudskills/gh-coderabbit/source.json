@@ -1,0 +1,18 @@
+{
+  "name": "gh:coderabbit",
+  "slug": "gh-coderabbit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gh-coderabbit/",
+  "download_url": "https://claudskills.com/skills/gh-coderabbit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Python向け統合コードレビュー。Quality/Security/Performance/Architecture/Anti-Fallback + CodeRabbitパターンを全検出",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

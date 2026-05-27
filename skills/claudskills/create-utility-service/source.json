@@ -1,0 +1,18 @@
+{
+  "name": "create-utility-service",
+  "slug": "create-utility-service",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-utility-service/",
+  "download_url": "https://claudskills.com/skills/create-utility-service/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create a utility service for cross-cutting concerns. Use when creating services for authentication, authorization, email, notifications, or other shared functionality that doesn't directly map to a domain entity.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

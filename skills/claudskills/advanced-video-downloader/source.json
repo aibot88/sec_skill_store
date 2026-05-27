@@ -1,0 +1,18 @@
+{
+  "name": "advanced-video-downloader",
+  "slug": "advanced-video-downloader",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/advanced-video-downloader/",
+  "download_url": "https://claudskills.com/skills/advanced-video-downloader/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Download and transcribe videos from YouTube, Bilibili, TikTok and 1000+ platforms. Use when user requests video download, transcription (转录/字幕提取), or converting video to text/markdown. Supports quality selection, audio extraction, playlist downloads, cookie-based authentication, and AI-powered transcription via SiliconFlow API (免费转录).",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "video",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

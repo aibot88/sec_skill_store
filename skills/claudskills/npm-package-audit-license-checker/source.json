@@ -1,0 +1,18 @@
+{
+  "name": "npm-package-audit-license-checker",
+  "slug": "npm-package-audit-license-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/npm-package-audit-license-checker/",
+  "download_url": "https://claudskills.com/skills/npm-package-audit-license-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audits npm dependencies using npm audit, license-checker-rspack, and the npm registry API (registry.npmjs.org). Reports CVE vulnerabilities with CVSS scores, license compatibility matrices, and identifies abandoned packages via download trend analysis.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "package-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

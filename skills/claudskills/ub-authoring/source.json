@@ -1,0 +1,18 @@
+{
+  "name": "ub-authoring",
+  "slug": "ub-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ub-authoring/",
+  "download_url": "https://claudskills.com/skills/ub-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this skill when the task involves creating, reviewing, or refactoring installable skills, shared skill references, or reusable agent-authoring guidance; when the work depends on routing-quality descriptions, non-use boundaries, naming, progressive disclosure, or cross-skill authoring conventions; or when you want to normalize skill and guidance structure without turning the task into a full customization-builder workflow. Do not use it for end-to-end customization generation, normal code implementation, or general repository planning.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

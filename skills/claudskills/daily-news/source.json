@@ -1,0 +1,18 @@
+{
+  "name": "daily-news",
+  "slug": "daily-news",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/daily-news/",
+  "download_url": "https://claudskills.com/skills/daily-news/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill should be used when the user asks to \"run daily news\", \"publish today's news\", \"draft today's vatt-ghern roundup\", \"do the daily-news routine\", invokes `/vatt-ghern:daily-news`, or asks Claude to author tech-news posts for the vatt-ghern blog. The skill produces one daily-roundup HTML (10 items) plus up to three daily-deep-story HTML posts under `src/posts/YYYY/MM/DD/`, runs anti-duplication checks against the past 7 days, and opens a PR to `main`. Always use this skill (instead of authoring news posts ad-hoc) so output stays consistent with the archetype rules, design system, and dedup conventions.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "health-checker",
+  "slug": "health-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/health-checker/",
+  "download_url": "https://claudskills.com/skills/health-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Project health dashboard — compilation, tests, TODOs, API spec drift, migration pairs, deps, security, docs, bundle",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

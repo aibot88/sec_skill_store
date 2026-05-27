@@ -1,0 +1,18 @@
+{
+  "name": "security-auditing",
+  "slug": "security-auditing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-auditing/",
+  "download_url": "https://claudskills.com/skills/security-auditing/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "[METHODOLOGY] Comprehensive security analysis against OWASP Top 10 standards (authentication, user input, database queries, external APIs). Preloaded by security-auditor agent.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

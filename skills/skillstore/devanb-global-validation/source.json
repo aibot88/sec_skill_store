@@ -1,0 +1,18 @@
+{
+  "name": "global-validation",
+  "slug": "devanb-global-validation",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/devanb-global-validation",
+  "download_url": "https://github.com/DevanB/lucidlog/tree/master/.claude/skills/global-validation",
+  "external_source_url": "https://github.com/DevanB/lucidlog/tree/master/.claude/skills/global-validation",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Implement server-side validation with allowlists, specific error messages, type checking, and sanitization to prevent security vulnerabilities and ensure data integrity. Use this skill when creating or editing form request classes, when validating API inputs, when implementing validation rules in controllers or services, when writing client-side validation for user experience, when sanitizing user input to prevent injection attacks, when validating business rules, when implementing error message display, or when ensuring consistent validation across all application entry points.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 files",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/DevanB/lucidlog/tree/master/.claude/skills/global-validation"
+  },
+  "collected_at": "2026-05-27T03:44:44+00:00"
+}

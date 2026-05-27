@@ -1,0 +1,18 @@
+{
+  "name": "crl",
+  "slug": "crl",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crl/",
+  "download_url": "https://claudskills.com/skills/crl/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Crl reference tool. Use when working with crl in security contexts.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

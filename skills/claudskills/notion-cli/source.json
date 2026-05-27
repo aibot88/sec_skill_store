@@ -1,0 +1,18 @@
+{
+  "name": "notion-cli",
+  "slug": "notion-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/notion-cli/",
+  "download_url": "https://claudskills.com/skills/notion-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Access Notion via the 4ier/notion-cli Go binary. Use when user wants to search Notion, query databases, read pages, export data, manage blocks, or add comments from the command line. TRIGGERS - notion search, query database, read page, notion export, notion blocks, notion comments, notion cli.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "knowledge-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

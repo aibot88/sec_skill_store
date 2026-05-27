@@ -1,0 +1,18 @@
+{
+  "name": "contract-manifest",
+  "slug": "contract-manifest",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/contract-manifest/",
+  "download_url": "https://claudskills.com/skills/contract-manifest/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate a human-readable manifest for a chain of AIWG skills, showing agent assignments, contract fields (requires:/ensures:), data flow between steps, and parallelization opportunities. Makes orchestration graphs debuggable and auditable.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

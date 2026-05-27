@@ -1,0 +1,18 @@
+{
+  "name": "implementing-compliance",
+  "slug": "implementing-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-compliance/",
+  "download_url": "https://claudskills.com/skills/implementing-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement and maintain compliance with SOC 2, HIPAA, PCI-DSS, and GDPR using unified control mapping, policy-as-code enforcement, and automated evidence collection. Use when building systems requiring regulatory compliance, implementing security controls across multiple frameworks, or automating audit preparation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "jwt-auth",
+  "slug": "jwt-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jwt-auth/",
+  "download_url": "https://claudskills.com/skills/jwt-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when implementing JWT authentication in FastAPI or Python projects. Triggers for: token generation, verification middleware, current user extraction, access token creation, token decoding, or role-based auth. NOT for: OAuth2 provider setup, OpenID Connect, or non-Python backends.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

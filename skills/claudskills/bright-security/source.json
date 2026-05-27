@@ -1,0 +1,18 @@
+{
+  "name": "bright-security",
+  "slug": "bright-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bright-security/",
+  "download_url": "https://claudskills.com/skills/bright-security/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Bright Security integration. Manage data, records, and automate workflows. Use when the user wants to interact with Bright Security data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

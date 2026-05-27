@@ -1,0 +1,18 @@
+{
+  "name": "effect-schema",
+  "slug": "effect-schema",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/effect-schema/",
+  "download_url": "https://claudskills.com/skills/effect-schema/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Define Effect schemas that are verified against domain types. Use when authoring or updating Effect Schema definitions, or when the user mentions schema/type parity, satisfies, or tsafe Equals checks.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

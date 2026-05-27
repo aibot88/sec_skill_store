@@ -1,0 +1,18 @@
+{
+  "name": "agent-governance",
+  "slug": "agent-governance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-governance/",
+  "download_url": "https://claudskills.com/skills/agent-governance/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement hooks for permission control and security in custom agents. Use when adding security controls, blocking dangerous operations, implementing audit trails, or designing permission governance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

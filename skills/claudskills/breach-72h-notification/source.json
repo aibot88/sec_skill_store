@@ -1,0 +1,18 @@
+{
+  "name": "breach-72h-notification",
+  "slug": "breach-72h-notification",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/breach-72h-notification/",
+  "download_url": "https://claudskills.com/skills/breach-72h-notification/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Executes the GDPR Article 33 mandatory breach notification to the supervisory authority within 72 hours of becoming aware of a personal data breach. Covers required notification content, deadline calculation, risk assessment for notification threshold, and DPO involvement. Keywords: GDPR, Article 33, breach notification, 72 hours, supervisory authority, DPO, EDPB.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

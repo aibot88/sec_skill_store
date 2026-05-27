@@ -1,0 +1,18 @@
+{
+  "name": "anima-install-auth",
+  "slug": "anima-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/anima-install-auth/",
+  "download_url": "https://claudskills.com/skills/anima-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install the Anima SDK and configure authentication for Figma-to-code generation. Use when setting up design-to-code automation, configuring Figma token access, or initializing the @animaapp/anima-sdk for server-side code generation. Trigger: \"install anima\", \"setup anima\", \"anima auth\", \"anima figma token\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

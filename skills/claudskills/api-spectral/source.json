@@ -1,0 +1,18 @@
+{
+  "name": "api-spectral",
+  "slug": "api-spectral",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-spectral/",
+  "download_url": "https://claudskills.com/skills/api-spectral/SKILL.md",
+  "external_source_url": "",
+  "license": "NOASSERTION",
+  "description": "API specification linting and security validation using Stoplight's Spectral with support for OpenAPI, AsyncAPI, and Arazzo specifications. Validates API definitions against security best practices, OWASP API Security Top 10, and custom organizational standards. Use when: (1) Validating OpenAPI/AsyncAPI specifications for security issues and design flaws, (2) Enforcing API design standards and governance policies across API portfolios, (3) Creating custom security rules for API specifications in CI/CD pipelines, (4) Detecting authentication, authorization, and data exposure issues in API definitions, (5) Ensuring API specifications comply with organizational security standards and regulatory requirements.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

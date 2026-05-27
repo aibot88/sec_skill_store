@@ -1,0 +1,18 @@
+{
+  "name": "cpp-rules",
+  "slug": "cpp-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cpp-rules/",
+  "download_url": "https://claudskills.com/skills/cpp-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "C++ coding rules from ai-toolkit: coding-style, frameworks, patterns, security, testing. Triggers: .cpp, .cc, .cxx, .hpp, .h, CMakeLists.txt, Makefile, GoogleTest, clang-tidy. Load when writing, reviewing, or editing C++ code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

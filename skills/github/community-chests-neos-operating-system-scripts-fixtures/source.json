@@ -1,0 +1,19 @@
+{
+  "name": "fixtures",
+  "slug": "community-chests-neos-operating-system-scripts-fixtures",
+  "source": "github",
+  "source_url": "https://github.com/Community-Chests/neos-operating-system/blob/bf5a81276fc61f8af4b38710a47dc97898c62ada/scripts/fixtures/valid_skill.md",
+  "download_url": "https://github.com/Community-Chests/neos-operating-system/blob/bf5a81276fc61f8af4b38710a47dc97898c62ada/scripts/fixtures/valid_skill.md",
+  "external_source_url": "https://github.com/Community-Chests/neos-operating-system/blob/bf5a81276fc61f8af4b38710a47dc97898c62ada/scripts/fixtures/valid_skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Community-Chests/neos-operating-system",
+    "path": "scripts/fixtures/valid_skill.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

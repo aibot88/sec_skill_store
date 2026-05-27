@@ -1,0 +1,18 @@
+{
+  "name": "granola-webhooks-events",
+  "slug": "granola-webhooks-events",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/granola-webhooks-events/",
+  "download_url": "https://claudskills.com/skills/granola-webhooks-events/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Build event-driven automations with Granola's Zapier webhook triggers. Use when creating real-time notification systems, processing meeting events, or building custom integrations that react to Granola note creation. Trigger: \"granola webhooks\", \"granola events\", \"granola triggers\", \"granola real-time\", \"granola event-driven\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:10+00:00"
+}

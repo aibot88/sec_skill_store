@@ -1,0 +1,18 @@
+{
+  "name": "book-architect",
+  "slug": "book-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/book-architect/",
+  "download_url": "https://claudskills.com/skills/book-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design the structural and emotional architecture for nonfiction books. Use when an author has a validated book concept and needs to create the blueprint before drafting. Triggers include requests to structure a book, create a chapter outline, design a table of contents, map the reader's journey, or plan book organization. Requires upstream documents from book-ideation (Book Concept Document) and optionally from idea-validator (Validation Report) and market-research (Market Research Report).",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

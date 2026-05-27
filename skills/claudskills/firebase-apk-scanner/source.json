@@ -1,0 +1,18 @@
+{
+  "name": "firebase-apk-scanner",
+  "slug": "firebase-apk-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-apk-scanner/",
+  "download_url": "https://claudskills.com/skills/firebase-apk-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scans Android APKs for Firebase security misconfigurations including open databases, storage buckets, authentication issues, and exposed cloud functions. Use when analyzing APK files for Firebase vulnerabilities, performing mobile app security audits, or testing Firebase endpoint security. For authorized security research only.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

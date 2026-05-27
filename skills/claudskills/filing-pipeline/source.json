@@ -1,0 +1,18 @@
+{
+  "name": "filing-pipeline",
+  "slug": "filing-pipeline",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/filing-pipeline/",
+  "download_url": "https://claudskills.com/skills/filing-pipeline/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Kompletni pipeline pro pripravu pravniho podani. Phase 1 = Build (konsolidace, struktura, zestihleni, podpurne materialy). Phase 2 = Verify (5x seriova kontrola jinou instanci: validation, compliance, opposition, security, legal+law). Phase 3 = 5 LOCKS + send. Trigger: 'filing pipeline', 'priprav podani', 'konsoliduj', 'kontrola podani'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

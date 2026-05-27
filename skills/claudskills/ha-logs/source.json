@@ -1,0 +1,18 @@
+{
+  "name": "ha-logs",
+  "slug": "ha-logs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ha-logs/",
+  "download_url": "https://claudskills.com/skills/ha-logs/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Self-service diagnostics — query Hope Agent's local SQLite databases (logs / sessions / async jobs) directly via the `exec` tool to investigate problems, analyze usage, and locate root causes. Trigger on: user reports something broken / failing / slow / stuck / not responding ('X 不工作', 'X 报错', 'X 卡住', '为什么 X 失败', 'why did X fail', 'show me the logs', 'check what happened'); ad-hoc data analysis ('this week's token usage', '最近调用最多的工具', 'how many subagent runs failed', 'tool error rate', 'find sessions where X happened'); verifying a fix ('did the error stop after I changed Y'). Use BEFORE asking the user to paste log snippets — the data is on disk, query it directly. Read-only — SELECT only, never UPDATE/DELETE/INSERT/DROP.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "tidy-docs",
+  "slug": "tidy-docs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tidy-docs/",
+  "download_url": "https://claudskills.com/skills/tidy-docs/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Mechanical documentation hygiene. Spawns a doc-maintainer agent to audit all project documentation and fix correctness, completeness, freshness, and consistency issues autonomously within its authority. Surfaces anything requiring user judgment for approval.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

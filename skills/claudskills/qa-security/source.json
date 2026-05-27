@@ -1,0 +1,18 @@
+{
+  "name": "qa-security",
+  "slug": "qa-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/qa-security/",
+  "download_url": "https://claudskills.com/skills/qa-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Perform a security audit based on OWASP. Use when the user wants to verify security, look for vulnerabilities, or before a production deployment.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "clasp-master",
+  "slug": "clasp-master",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clasp-master/",
+  "download_url": "https://claudskills.com/skills/clasp-master/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Full-stack CLASP (Command Line Apps Script) orchestration — from local dev to deployed Google Workspace automation. Use this skill whenever the user mentions clasp, Apps Script CLI, GAS local development, deploying Google Apps Script, syncing scripts with Drive, automating Sheets/Docs/Forms/Slides from the terminal, Google Workspace automation via code, or any workflow that involves clasp push/pull/deploy/run. Also trigger when the user says things like \"quiero automatizar con AppScript\", \"deploy un script de Sheets\", \"versionar mi Apps Script\", or \"conectar clasp a Drive/Notion/Calendar\". This skill covers installation, auth, multi-account, project lifecycle, version/deployment management, remote execution, TypeScript, Git integration, .claspignore, MCP mode, and enterprise patterns (ADC, service accounts). When in doubt, use this skill.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

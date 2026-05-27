@@ -1,0 +1,18 @@
+{
+  "name": "bunny",
+  "slug": "bunny",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bunny/",
+  "download_url": "https://claudskills.com/skills/bunny/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Integrate Bunny.net services (CDN, Storage, Stream, DNS, Edge Scripting, Shield, Magic Containers, Optimizer, Database). Use when building with Bunny.net APIs, deploying to Bunny CDN, uploading files to Edge Storage, managing video streaming, configuring DNS zones, writing edge scripts, setting up WAF/DDoS protection, deploying containers, or optimizing images. Triggers on \"bunny\", \"bunnycdn\", \"b-cdn\", \"pull zone\", \"edge storage\", \"bunny stream\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

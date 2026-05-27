@@ -1,0 +1,18 @@
+{
+  "name": "huawei-waf-security-review",
+  "slug": "huawei-waf-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/huawei-waf-security-review/",
+  "download_url": "https://claudskills.com/skills/huawei-waf-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Assess Huawei Cloud workload security using the Well-Architected Framework Security pillar: IAM SCP governance, VPC isolation, DEW key management, SecMaster SIEM/SOAR, and MLPS 2.0 technical controls for China-resident workloads.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

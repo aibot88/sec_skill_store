@@ -1,0 +1,18 @@
+{
+  "name": "excel-author",
+  "slug": "excel-author",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/excel-author/",
+  "download_url": "https://claudskills.com/skills/excel-author/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Build auditable Excel workbooks headless with openpyxl — blue/black/green cell conventions, formulas over hardcodes, named ranges, balance checks, sensitivity tables. Use for financial models, audit outputs, reconciliations.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

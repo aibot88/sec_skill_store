@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-kubernetes-audit-logs",
+  "slug": "analyzing-kubernetes-audit-logs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-kubernetes-audit-logs/",
+  "download_url": "https://claudskills.com/skills/analyzing-kubernetes-audit-logs/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Parses Kubernetes API server audit logs (JSON lines) to detect exec-into-pod, secret access, RBAC modifications,",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

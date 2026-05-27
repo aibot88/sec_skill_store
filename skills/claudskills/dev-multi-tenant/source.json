@@ -1,0 +1,18 @@
+{
+  "name": "ring:dev-multi-tenant",
+  "slug": "dev-multi-tenant",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-multi-tenant/",
+  "download_url": "https://claudskills.com/skills/dev-multi-tenant/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Multi-tenant development cycle orchestrator following Ring Standards. Auto-detects service stack (PostgreSQL, MongoDB, Redis, RabbitMQ, S3) and executes gate-based implementation using tenantId from JWT for database-per-tenant isolation via the lib-commons v5 dispatch layer with event-driven tenant discovery (Redis Pub/Sub). Use to add tenant isolation to a Go service. Requires lib-commons v5 + lib-auth v2.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

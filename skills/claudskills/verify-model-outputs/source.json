@@ -1,0 +1,18 @@
+{
+  "name": "verify-model-outputs",
+  "slug": "verify-model-outputs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/verify-model-outputs/",
+  "download_url": "https://claudskills.com/skills/verify-model-outputs/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "The Reviewer subagent's playbook for checking a finished CRE build. Audit-cell checks, error-value scans, convention compliance, structural integrity. Returns a structured critique.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

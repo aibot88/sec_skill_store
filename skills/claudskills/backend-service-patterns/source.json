@@ -1,0 +1,18 @@
+{
+  "name": "backend-service-patterns",
+  "slug": "backend-service-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backend-service-patterns/",
+  "download_url": "https://claudskills.com/skills/backend-service-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Architect scalable backend services using layered architecture, dependency injection, middleware patterns, service classes, and separation of concerns. Use when building API services, implementing business logic layers, creating service classes, setting up middleware chains, implementing dependency injection, designing controller-service-repository patterns, handling cross-cutting concerns, creating domain models, implementing CQRS patterns, or establishing backend architecture standards.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

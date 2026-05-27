@@ -1,0 +1,19 @@
+{
+  "name": "Skills",
+  "slug": "subham007ai-share-room-skills",
+  "source": "github",
+  "source_url": "https://github.com/subham007ai/share-room/blob/02107e5a4b1a05938565f3d2a0499d5d1abf815f/Skills/DEBUG_SKILL.md",
+  "download_url": "https://github.com/subham007ai/share-room/blob/02107e5a4b1a05938565f3d2a0499d5d1abf815f/Skills/DEBUG_SKILL.md",
+  "external_source_url": "https://github.com/subham007ai/share-room/blob/02107e5a4b1a05938565f3d2a0499d5d1abf815f/Skills/DEBUG_SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "subham007ai/share-room",
+    "path": "Skills/DEBUG_SKILL.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "terraform-module-and-repository-scaffold",
+  "slug": "terraform-module-and-repository-scaffold",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/terraform-module-and-repository-scaffold/",
+  "download_url": "https://claudskills.com/skills/terraform-module-and-repository-scaffold/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when creating, restructuring, or reviewing the Terraform repository and module layout after infrastructure-platform has decided the environment ladder, module boundaries, and blast-radius tiers. Produces the repo structure (root + modules/ + environments/<env>/), provider and required_version constraints, module input/output and documentation conventions, an examples/ directory for consumers, and code-owner and review rules tied to environment and blast-radius tier. Do not use for state backend or secret handling, plan/policy gates, apply and promotion orchestration, or module-registry supply chain; use the other terraform archetype skills instead.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

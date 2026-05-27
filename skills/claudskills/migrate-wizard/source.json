@@ -1,0 +1,18 @@
+{
+  "name": "migrate-wizard",
+  "slug": "migrate-wizard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/migrate-wizard/",
+  "download_url": "https://claudskills.com/skills/migrate-wizard/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when migrating an AI Studio project to production in one pass. Orchestrates all migration steps (analyze, export, repo setup, graduation, monitoring, security) with upfront configuration and automatic step detection. Trigger examples - \"AI Studioから本番に移行して\", \"migrate to production\", \"ワンパスでマイグレーション\", \"production migration wizard",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "mongodb-security-and-data-access-hardening",
+  "slug": "mongodb-security-and-data-access-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mongodb-security-and-data-access-hardening/",
+  "download_url": "https://claudskills.com/skills/mongodb-security-and-data-access-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when hardening MongoDB authentication, authorization, encryption, and audit after the data model and PII classification exist and security and data-architecture have set the auth model and PII posture. Produces the authentication mechanism (SCRAM / x.509 / LDAP / Kerberos), least-privilege RBAC roles (built-in vs custom), field-level redaction posture, client-side field-level encryption for PII, TLS for client and intra-cluster traffic, IP allowlists, and audit-log configuration. Do not use for document modeling, query tuning, replica topology, backup procedure, or KMS/secret-store provisioning; use the other Family B archetype skills (KMS provisioning is infrastructure).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

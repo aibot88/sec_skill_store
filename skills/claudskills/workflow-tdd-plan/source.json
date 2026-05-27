@@ -1,0 +1,18 @@
+{
+  "name": "workflow-tdd-plan-plan",
+  "slug": "workflow-tdd-plan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/workflow-tdd-plan/",
+  "download_url": "https://claudskills.com/skills/workflow-tdd-plan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Unified TDD workflow skill combining 6-phase TDD planning with Red-Green-Refactor task chain generation, and 4-phase TDD verification with compliance reporting. Triggers on \"workflow-tdd-plan\", \"workflow-tdd-verify\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

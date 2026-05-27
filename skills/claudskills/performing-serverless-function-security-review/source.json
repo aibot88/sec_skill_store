@@ -1,0 +1,18 @@
+{
+  "name": "performing-serverless-function-security-review",
+  "slug": "performing-serverless-function-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-serverless-function-security-review/",
+  "download_url": "https://claudskills.com/skills/performing-serverless-function-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Performing security reviews of serverless functions across AWS Lambda, Azure Functions, and GCP Cloud Functions",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

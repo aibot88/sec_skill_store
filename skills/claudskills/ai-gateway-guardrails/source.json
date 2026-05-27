@@ -1,0 +1,18 @@
+{
+  "name": "ai-gateway-guardrails",
+  "slug": "ai-gateway-guardrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-gateway-guardrails/",
+  "download_url": "https://claudskills.com/skills/ai-gateway-guardrails/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Enforce Input/Output Guardrails at the LLM Gateway layer — PII redaction, Prompt Injection defense, Jailbreak detection, Toxicity filter, and Tool Allow-list. Integrates Bedrock Guardrails, NeMo Guardrails, Llama Guard 3, and regex/regex-ML policies on Bifrost/LiteLLM with Langfuse audit trail.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

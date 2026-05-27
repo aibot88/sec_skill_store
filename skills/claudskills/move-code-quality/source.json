@@ -1,0 +1,18 @@
+{
+  "name": "move-code-quality",
+  "slug": "move-code-quality",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/move-code-quality/",
+  "download_url": "https://claudskills.com/skills/move-code-quality/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Analyzes Move language packages against the official Move Book Code Quality Checklist. Use this skill when reviewing Move code, checking Move 2024 Edition compliance, or analyzing Move packages for best practices. Activates automatically when working with .move files or Move.toml manifests.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "operations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

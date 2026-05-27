@@ -1,0 +1,18 @@
+{
+  "name": "payment-integration",
+  "slug": "payment-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/payment-integration/",
+  "download_url": "https://claudskills.com/skills/payment-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

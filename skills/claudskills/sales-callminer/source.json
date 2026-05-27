@@ -1,0 +1,18 @@
+{
+  "name": "sales-callminer",
+  "slug": "sales-callminer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-callminer/",
+  "download_url": "https://claudskills.com/skills/sales-callminer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "CallMiner platform help — enterprise conversation analytics (Eureka) with omnichannel interaction capture, automated QA scoring, agent coaching, real-time alerts, compliance monitoring, and CX automation. Use when QA scoring is inconsistent or takes too long across agents, when needing to analyze 100% of customer interactions instead of sampling, when setting up automated compliance monitoring for regulated industries (healthcare, finance, collections), when CallMiner Coach scorecards aren't surfacing the right coaching moments, when CallMiner RealTime alerts aren't triggering during live calls, when ingesting audio or text into CallMiner via the Ingestion API, when CallMiner Analyze categories aren't matching expected interactions, or when evaluating CallMiner vs Observe.AI or NICE CXone analytics. Do NOT use for CCaaS platform selection (use /sales-ccaas-selection) or for sales-specific coaching strategy (use /sales-coaching).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "deal-management",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "auth-system-design",
+  "slug": "auth-system-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-system-design/",
+  "download_url": "https://claudskills.com/skills/auth-system-design/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authentication system design and implementation guidance with Python examples using strict typing. Use when: (1) Designing authentication flows (signup, login, logout, refresh), (2) Selecting between session vs token-based auth, (3) Designing JWT structure and claims, (4) Implementing OAuth 2.0 flows, (5) Setting up multi-service authentication patterns, (6) Creating password reset and email verification flows, (7) Implementing role-based access control (RBAC), (8) Creating security checklists for auth systems, (9) Planning frontend/backend auth integration. All examples follow Python typing standards and security best practices.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

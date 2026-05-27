@@ -1,0 +1,18 @@
+{
+  "name": "sales-cognism",
+  "slug": "sales-cognism",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-cognism/",
+  "download_url": "https://claudskills.com/skills/sales-cognism/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Cognism platform help — B2B sales intelligence with Diamond Data phone-verified mobiles, Bombora intent signals, CRM enrichment, and GDPR/DNC compliance across 13 European lists. Use when contacts have missing or outdated phone numbers in EMEA, enrichment data keeps bouncing in Europe, you need phone-verified mobile numbers for cold calling, intent signals aren't translating to pipeline, CRM records are decaying and need automated refresh, or prospects are on Do Not Call lists and you need compliant data. Do NOT use for building prospect lists from scratch across tools (use /sales-prospect-list), general enrichment strategy across providers (use /sales-enrich), interpreting intent signals across platforms (use /sales-intent).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "prospecting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

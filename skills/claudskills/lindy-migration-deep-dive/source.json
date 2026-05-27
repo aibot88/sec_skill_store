@@ -1,0 +1,18 @@
+{
+  "name": "lindy-migration-deep-dive",
+  "slug": "lindy-migration-deep-dive",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lindy-migration-deep-dive/",
+  "download_url": "https://claudskills.com/skills/lindy-migration-deep-dive/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Advanced migration strategies for moving to Lindy AI from other platforms. Use when migrating from Zapier, Make, n8n, custom automations, or consolidating fragmented agent systems. Trigger with phrases like \"lindy migration\", \"migrate to lindy\", \"zapier to lindy\", \"switch to lindy\", \"consolidate automations\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

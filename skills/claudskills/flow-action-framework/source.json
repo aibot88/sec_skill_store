@@ -1,0 +1,18 @@
+{
+  "name": "flow-action-framework",
+  "slug": "flow-action-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flow-action-framework/",
+  "download_url": "https://claudskills.com/skills/flow-action-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing or troubleshooting Salesforce Flow actions in Flow Builder: standard and core actions, the Apex action element for @InvocableMethod classes, how list-shaped inputs and outputs map at the Flow–Apex boundary, subflows, and choosing between declarative actions versus custom Apex versus packaged invocables. Triggers: 'Flow Apex action', 'add Apex to Flow', 'InvocableMethod in Flow', 'Flow action palette', 'map Flow variables to Apex invocable inputs'. NOT for authoring or testing Apex @InvocableMethod bodies (use the Apex invocable-methods skill), External Services or HTTP callout registration (use flow-external-services), OmniStudio action packs, or LWC screen component local actions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

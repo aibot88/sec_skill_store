@@ -1,0 +1,18 @@
+{
+  "name": "digikoppeling",
+  "slug": "digikoppeling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/digikoppeling/",
+  "download_url": "https://claudskills.com/skills/digikoppeling/SKILL.md",
+  "external_source_url": "",
+  "license": "EUPL-1.2",
+  "description": "Helpt bij het implementeren van Digikoppeling voor beveiligde system-to-system communicatie tussen overheidsorganisaties. Begeleidt bij het kiezen en implementeren van het juiste koppelvlakprofiel (REST API, WUS, ebMS2), PKIoverheid-certificaten, OIN-registratie en aansluiting op Diginetwerk. Gebruik deze skill wanneer de gebruiker vraagt over 'Digikoppeling', 'koppelvlak overheid', 'system-to-system', 'REST profiel', 'WUS profiel', 'ebMS2 profiel', 'PKIoverheid certificaat', 'Diginetwerk', 'OIN', 'CPA', 'beveiligde berichtenuitwisseling', 'MSH', 'MSH configuratie', 'MSH koppeling', 'MSH profiel', 'Logius koppelvlak', 'SOAP overheid', 'WS-Security overheid', 'overheid-API beveiliging', 'reliable messaging overheid', of wanneer de gebruiker beveiligde berichtenuitwisseling tussen overheidssystemen wil implementeren.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

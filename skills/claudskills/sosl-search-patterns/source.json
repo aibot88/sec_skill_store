@@ -1,0 +1,18 @@
+{
+  "name": "sosl-search-patterns",
+  "slug": "sosl-search-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sosl-search-patterns/",
+  "download_url": "https://claudskills.com/skills/sosl-search-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when choosing or implementing SOSL for cross-object or full-text search, especially around SOSL vs SOQL, search groups, result shaping, and injection-safe dynamic search. Triggers: 'SOSL', 'FIND clause', 'cross object search', 'Search.query', 'SOSL injection'. NOT for structured record retrieval where ordinary SOQL filters are the right tool.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

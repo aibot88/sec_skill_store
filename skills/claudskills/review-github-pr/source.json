@@ -1,0 +1,18 @@
+{
+  "name": "review-github-pr",
+  "slug": "review-github-pr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/review-github-pr/",
+  "download_url": "https://claudskills.com/skills/review-github-pr/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "GitHub PR code review - fetches the diff, runs automated checks, launches 3 parallel review agents (correctness, convention compliance, efficiency) to analyze changes, validates findings against actual code, and drafts a GitHub review. Use when reviewing pull requests. Triggers on \"review this PR\", \"review PR #123\", \"review github.com/owner/repo/pull/N\", \"check this pull request\", \"review changes in PR\", \"give feedback on this PR\", \"PR review\", \"look at this pull request\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

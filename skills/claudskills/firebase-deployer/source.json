@@ -1,0 +1,18 @@
+{
+  "name": "firebase-deployer",
+  "slug": "firebase-deployer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-deployer/",
+  "download_url": "https://claudskills.com/skills/firebase-deployer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deploy Firebase Firestore security rules and indexes automatically. Use when Firestore query errors mention \"requires an index\", when firestore.rules or firestore.indexes.json are modified, or when user requests Firebase deployment.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

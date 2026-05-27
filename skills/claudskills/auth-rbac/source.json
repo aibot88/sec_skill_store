@@ -1,0 +1,18 @@
+{
+  "name": "auth-rbac",
+  "slug": "auth-rbac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-rbac/",
+  "download_url": "https://claudskills.com/skills/auth-rbac/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implementação de autenticação e controle de acesso baseado em roles (RBAC) em Laravel incluindo Guards, Policies, Gates, Permissions, Middleware de autorização, e integração com pacotes como Spatie Permission. Usar para implementar login/registro, controle de acesso por perfil, permissões granulares, proteção de rotas, e auditoria de acessos.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

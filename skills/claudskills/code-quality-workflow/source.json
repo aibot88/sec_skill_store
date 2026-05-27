@@ -1,0 +1,18 @@
+{
+  "name": "code-quality-workflow",
+  "slug": "code-quality-workflow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-quality-workflow/",
+  "download_url": "https://claudskills.com/skills/code-quality-workflow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when assessing or improving code quality, maintainability, performance, or security hygiene - provides workflows for analysis, code review, and systematic improvements with validation steps.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

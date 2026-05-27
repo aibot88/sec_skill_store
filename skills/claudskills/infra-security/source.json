@@ -1,0 +1,18 @@
+{
+  "name": "infra-security",
+  "slug": "infra-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/infra-security/",
+  "download_url": "https://claudskills.com/skills/infra-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this agent when you need to audit domain security posture, configure DNS records, or manage Cloudflare security features (WAF, Workers, Zero Trust) via the Cloudflare MCP server. Use terraform-architect for IaC generation; use this agent for live Cloudflare configuration and security auditing.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

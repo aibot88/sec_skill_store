@@ -1,0 +1,18 @@
+{
+  "name": "ai-federated-learning",
+  "slug": "ai-federated-learning",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-federated-learning/",
+  "download_url": "https://claudskills.com/skills/ai-federated-learning/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implements federated learning architecture patterns for GDPR compliance. Covers secure aggregation protocols, differential privacy integration, communication protocols, and privacy-by-design distributed ML training. Keywords: federated learning, distributed training, secure aggregation, differential privacy, privacy-preserving ML.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

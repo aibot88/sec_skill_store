@@ -1,0 +1,18 @@
+{
+  "name": "digitalocean-doks",
+  "slug": "digitalocean-doks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/digitalocean-doks/",
+  "download_url": "https://claudskills.com/skills/digitalocean-doks/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "DigitalOcean Kubernetes (DOKS) disipline — cluster provisioning (HA control plane, VPC, surge upgrade, maintenance window), node pool design (auto-scale, multi-pool, label/taint, dedicated vs shared CPU), networking (DO Load Balancer annotation, Cilium NetworkPolicy, proxy protocol), storage (DO Block Storage RWO, Spaces RWX), security (PAT scope, kubeconfig rotation, audit log), observability (DO Monitoring + Prometheus), cost (LB bandwidth, block storage, egress), backup (Velero + Spaces), CI/CD (doctl + DOCR), DR drill, K8s sürüm yönetimi.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

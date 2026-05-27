@@ -1,0 +1,18 @@
+{
+  "name": "lintstagedrc",
+  "slug": "lintstagedrc",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lintstagedrc/",
+  "download_url": "https://claudskills.com/skills/lintstagedrc/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generates .lintstagedrc configuration to automatically fix and format staged files before commit. Runs ESLint, Stylelint, and Prettier on staged files.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

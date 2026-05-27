@@ -1,0 +1,18 @@
+{
+  "name": "lbo-model",
+  "slug": "lbo-model",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lbo-model/",
+  "download_url": "https://claudskills.com/skills/lbo-model/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Build leveraged buyout models in Excel — sources & uses, debt schedule, cash sweep, exit multiple, IRR/MOIC sensitivity. Pairs with excel-author. Use for PE screening, sponsor-case valuation, or illustrative LBO in a pitch.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

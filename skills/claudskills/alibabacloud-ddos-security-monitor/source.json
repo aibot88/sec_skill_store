@@ -1,0 +1,18 @@
+{
+  "name": "alibabacloud-ddos-security-monitor",
+  "slug": "alibabacloud-ddos-security-monitor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibabacloud-ddos-security-monitor/",
+  "download_url": "https://claudskills.com/skills/alibabacloud-ddos-security-monitor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "[user] Perform security inspection and monitoring for Alibaba Cloud DDoS security products, covering DDoS Basic Protection, DDoS Native Protection, and DDoS Anti-DDoS Pro/Premium. Supports querying blackhole/scrubbing events, QPS spikes/drops, L4 traffic anomalies, HTTP status code (4xx/5xx) period-over-period surges, origin status code anomalies, and instance asset inventory. Use this Skill when users need security inspection, DDoS protection status checks, attack event queries, traffic anomaly investigation, or to confirm whether DDoS security products are provisioned. Triggers: \"DDoS inspection\", \"security check\", \"DDoS protection check\", \"attack event query\", \"traffic anomaly\"",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

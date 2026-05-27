@@ -1,0 +1,18 @@
+{
+  "name": "c-review",
+  "slug": "c-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/c-review/",
+  "download_url": "https://claudskills.com/skills/c-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Performs comprehensive C/C++ security review for memory corruption, integer overflows, race conditions, and platform-specific vulnerabilities. Use when auditing native C/C++ applications, reviewing daemons or services for memory safety, or hunting integer overflow / use-after-free / race conditions in userspace code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

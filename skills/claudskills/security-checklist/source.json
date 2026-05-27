@@ -1,0 +1,18 @@
+{
+  "name": "security-checklist",
+  "slug": "security-checklist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-checklist/",
+  "download_url": "https://claudskills.com/skills/security-checklist/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "OWASP-based security checklist any agent can reference when reviewing or writing code",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

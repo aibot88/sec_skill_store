@@ -1,0 +1,18 @@
+{
+  "name": "permit-compliance",
+  "slug": "permit-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/permit-compliance/",
+  "download_url": "https://claudskills.com/skills/permit-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit construction permit tracking, building code compliance, and inspection management software. Reviews permit lifecycle workflows (building, electrical, plumbing, mechanical, demolition, zoning, certificate of occupancy), IBC code reference systems, ADA and Fair Housing accessibility checks, fire and life safety compliance, NEPA and CWA environmental review, stormwater NPDES/SWPPP tracking, LEED and ENERGY STAR sustainability, plan review and RFI management, submittal workflows, inspector scheduling and coordination, and jurisdiction-specific regulatory reporting. Supports Procore, PlanGrid, e-Builder, Accela, Tyler Technologies, and custom platforms.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "performing-kubernetes-cis-benchmark-with-kube-bench",
+  "slug": "performing-kubernetes-cis-benchmark-with-kube-bench",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-kubernetes-cis-benchmark-with-kube-bench/",
+  "download_url": "https://claudskills.com/skills/performing-kubernetes-cis-benchmark-with-kube-bench/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Audit Kubernetes cluster security posture against CIS benchmarks using kube-bench with automated checks for control",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

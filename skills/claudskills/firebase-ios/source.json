@@ -1,0 +1,18 @@
+{
+  "name": "firebase-ios",
+  "slug": "firebase-ios",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-ios/",
+  "download_url": "https://claudskills.com/skills/firebase-ios/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Firebase SDK documentation for iOS and Swift development, covering authentication, databases, cloud messaging, analytics, and more.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

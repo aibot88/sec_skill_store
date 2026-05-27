@@ -1,0 +1,18 @@
+{
+  "name": "getnote",
+  "slug": "getnote",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/getnote/",
+  "download_url": "https://claudskills.com/skills/getnote/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Save, search, list, and organize Get 笔记 notes, images, tags, and knowledge resources through the Get 笔记 OpenAPI. Use when storing text or links as notes, uploading an image into a note workflow, recalling prior notes, inspecting note details, managing tags or knowledge bases, or recovering from Get 笔记 authentication failures with the local auth.json setup.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:05+00:00"
+}

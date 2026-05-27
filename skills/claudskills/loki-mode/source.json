@@ -1,0 +1,18 @@
+{
+  "name": "loki-mode",
+  "slug": "loki-mode",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/loki-mode/",
+  "download_url": "https://claudskills.com/skills/loki-mode/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Version 2.35.0 | PRD to Production | Zero Human Intervention > Research-enhanced: OpenAI SDK, DeepMind, Anthropic, AWS Bedrock, Agent SDK, HN Production (2025)",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

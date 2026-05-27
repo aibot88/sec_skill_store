@@ -1,0 +1,18 @@
+{
+  "name": "op-secrets-injection",
+  "slug": "op-secrets-injection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/op-secrets-injection/",
+  "download_url": "https://claudskills.com/skills/op-secrets-injection/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when the user is loading 1Password secrets into a running process or config file — anything involving `op run`, `op inject`, `op read`, `.env` files containing `op://...` references, secret-reference template syntax, the `{{ op://... }}` placeholder format, populating YAML/JSON/TOML config from a template, or wiring 1Password into Docker/Kubernetes/CI/CD. Also use when the user asks how to keep secrets out of `.env`, source control, or shell history.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

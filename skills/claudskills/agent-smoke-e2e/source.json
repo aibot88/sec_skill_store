@@ -1,0 +1,18 @@
+{
+  "name": "agent-smoke-e2e",
+  "slug": "agent-smoke-e2e",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-smoke-e2e/",
+  "download_url": "https://claudskills.com/skills/agent-smoke-e2e/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "End-to-end smoke check of the moraine MCP server. Exercises every MCP tool against a live moraine stack and prints a per-tool PASS/FAIL matrix. Use inside the dev sandbox after a fresh build to confirm the MCP binary actually serves its tools and returns shaped responses.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

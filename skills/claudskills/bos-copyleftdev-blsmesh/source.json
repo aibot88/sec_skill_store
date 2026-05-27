@@ -1,0 +1,18 @@
+{
+  "name": "bos-concurrency-rust",
+  "slug": "bos-copyleftdev-blsmesh",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bos-copyleftdev-blsmesh/",
+  "download_url": "https://claudskills.com/skills/bos-copyleftdev-blsmesh/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Write Rust code in the style of Mara Bos, Rust library team lead and author of \"Rust Atomics and Locks.\" Emphasizes low-level concurrency, atomics, and understanding the memory model. Use when writing concurrent or lock-free code.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

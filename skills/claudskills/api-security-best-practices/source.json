@@ -1,0 +1,18 @@
+{
+  "name": "api-security-best-practices",
+  "slug": "api-security-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-security-best-practices/",
+  "download_url": "https://claudskills.com/skills/api-security-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement secure API design patterns including authentication, authorization, input validation, rate limiting, and protection against common API vulnerabilities",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

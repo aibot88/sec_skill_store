@@ -1,0 +1,18 @@
+{
+  "name": "hv-review",
+  "slug": "hv-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hv-review/",
+  "download_url": "https://claudskills.com/skills/hv-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Staff-engineer review of a feature branch before merge or PR — reads commits, diff, referenced item IDs, and matching KNOWLEDGE.md topics; dispatches an Opus reviewer that checks intent match, convention compliance, and quality. Returns PASS / CONCERNS / FAIL. Use on \"review this\", \"check before I ship\", \"look over the branch\", or implicitly from /hv-ship.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

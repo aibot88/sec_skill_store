@@ -1,0 +1,18 @@
+{
+  "name": "golang-google-wire",
+  "slug": "golang-google-wire",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/golang-google-wire/",
+  "download_url": "https://claudskills.com/skills/golang-google-wire/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Compile-time dependency injection in Golang using google/wire — wire.NewSet, wire.Build, wire.Bind (interface→concrete), wire.Struct, wire.Value, wire.InterfaceValue, wire.FieldsOf, cleanup functions, //go:build wireinject injector files, and generated wire_gen.go. Apply when using or adopting google/wire, when the codebase imports `github.com/google/wire`, or when wiring an application graph at compile time via `wire.Build`. For runtime DI with reflection, see `samber/cc-skills-golang@golang-uber-dig` skill.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

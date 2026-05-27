@@ -1,0 +1,18 @@
+{
+  "name": "red-team-eval-authoring",
+  "slug": "red-team-eval-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/red-team-eval-authoring/",
+  "download_url": "https://claudskills.com/skills/red-team-eval-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when creating or reviewing red-team eval plugins, attack templates, grader rubrics, safety fixtures, or model-risk test metadata.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "securitytrails",
+  "slug": "securitytrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/securitytrails/",
+  "download_url": "https://claudskills.com/skills/securitytrails/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "SecurityTrails integration. Manage data, records, and automate workflows. Use when the user wants to interact with SecurityTrails data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

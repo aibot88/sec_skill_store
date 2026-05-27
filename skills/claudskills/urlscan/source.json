@@ -1,0 +1,18 @@
+{
+  "name": "urlscan",
+  "slug": "urlscan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/urlscan/",
+  "download_url": "https://claudskills.com/skills/urlscan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Submit URLs for automated malware and phishing analysis, then retrieve safety verdicts and screenshots via urlscan.io",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:31+00:00"
+}

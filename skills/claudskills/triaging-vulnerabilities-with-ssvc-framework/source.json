@@ -1,0 +1,18 @@
+{
+  "name": "triaging-vulnerabilities-with-ssvc-framework",
+  "slug": "triaging-vulnerabilities-with-ssvc-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/triaging-vulnerabilities-with-ssvc-framework/",
+  "download_url": "https://claudskills.com/skills/triaging-vulnerabilities-with-ssvc-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Triage and prioritize vulnerabilities using CISA's Stakeholder-Specific Vulnerability Categorization (SSVC) decision",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

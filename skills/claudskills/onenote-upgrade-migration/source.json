@@ -1,0 +1,18 @@
+{
+  "name": "onenote-upgrade-migration",
+  "slug": "onenote-upgrade-migration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/onenote-upgrade-migration/",
+  "download_url": "https://claudskills.com/skills/onenote-upgrade-migration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Migrate OneNote integrations across Graph SDK versions, auth deprecations, and API changes. Use when upgrading Graph SDK, migrating from app-only to delegated auth, or handling deprecated endpoints. Trigger with \"onenote upgrade\", \"onenote migration\", \"graph sdk upgrade\", \"onenote breaking changes\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

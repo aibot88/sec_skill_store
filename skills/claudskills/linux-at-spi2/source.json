@@ -1,0 +1,18 @@
+{
+  "name": "linux-at-spi2",
+  "slug": "linux-at-spi2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/linux-at-spi2/",
+  "download_url": "https://claudskills.com/skills/linux-at-spi2/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert in AT-SPI2 (Assistive Technology Service Provider Interface) for Linux desktop automation. Specializes in accessible automation of GTK/Qt applications via D-Bus accessibility interface. HIGH-RISK skill requiring security controls for system-wide access.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ux-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

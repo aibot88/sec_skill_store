@@ -1,0 +1,18 @@
+{
+  "name": "mastra-typescript-ai-agent-framework",
+  "slug": "mastra-typescript-ai-agent-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mastra-typescript-ai-agent-framework/",
+  "download_url": "https://claudskills.com/skills/mastra-typescript-ai-agent-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Mastra is an open-source TypeScript framework for building AI-powered applications and agents. Created by the team behind Gatsby, it provides model routing across 40+ providers, graph-based workflows, human-in-the-loop suspension, and MCP server authoring in a single cohesive package.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

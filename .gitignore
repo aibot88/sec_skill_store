@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+.cache/
+.venv/
+node_modules/
+dist/
+tmp/
+site-preview*.png

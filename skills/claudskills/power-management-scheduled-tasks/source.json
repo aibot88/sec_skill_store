@@ -1,0 +1,18 @@
+{
+  "name": "myco:power-management-scheduled-tasks",
+  "slug": "power-management-scheduled-tasks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/power-management-scheduled-tasks/",
+  "download_url": "https://claudskills.com/skills/power-management-scheduled-tasks/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Comprehensive procedures for authoring, configuring, and maintaining Myco's PowerManager infrastructure and scheduled task system. Covers PowerManager job registration and lifecycle, task scheduler architecture and configuration, per-project power state tracking implementation, scheduled task fan-out across Groves, cold-project gating and threshold management, and fire-and-forget dispatch patterns for long-running tasks.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "github-copilot-agent-tips-and-tricks",
+  "slug": "github-copilot-agent-tips-and-tricks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-copilot-agent-tips-and-tricks/",
+  "download_url": "https://claudskills.com/skills/github-copilot-agent-tips-and-tricks/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Tips and Tricks for Working with GitHub Copilot Agent PRs",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

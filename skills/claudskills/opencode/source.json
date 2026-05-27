@@ -1,0 +1,18 @@
+{
+  "name": "opencode",
+  "slug": "opencode",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/opencode/",
+  "download_url": "https://claudskills.com/skills/opencode/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Delegate coding tasks to OpenCode CLI agent for feature implementation, refactoring, PR review, and long-running autonomous sessions. Requires the opencode CLI installed and authenticated.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

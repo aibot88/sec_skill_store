@@ -1,0 +1,18 @@
+{
+  "name": "bmad-testarch-nfr",
+  "slug": "bmad-testarch-nfr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bmad-testarch-nfr/",
+  "download_url": "https://claudskills.com/skills/bmad-testarch-nfr/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Assess NFRs like performance security and reliability. Use when the user says \"lets assess NFRs\" or \"I want to evaluate non-functional requirements",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

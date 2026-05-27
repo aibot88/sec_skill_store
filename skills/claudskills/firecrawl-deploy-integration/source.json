@@ -1,0 +1,18 @@
+{
+  "name": "firecrawl-deploy-integration",
+  "slug": "firecrawl-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firecrawl-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/firecrawl-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Firecrawl integrations to Vercel, Cloud Run, and Docker platforms. Use when deploying Firecrawl-powered applications to production, configuring platform-specific secrets, or setting up self-hosted Firecrawl. Trigger with phrases like \"deploy firecrawl\", \"firecrawl Vercel\", \"firecrawl production deploy\", \"firecrawl Cloud Run\", \"firecrawl Docker\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

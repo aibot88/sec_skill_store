@@ -1,0 +1,18 @@
+{
+  "name": "research-fact-checker",
+  "slug": "research-fact-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/research-fact-checker/",
+  "download_url": "https://claudskills.com/skills/research-fact-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Assists authors in researching topics, verifying facts, and ensuring accuracy in their writing. Particularly useful for historical fiction, non-fiction, science fiction, and any genre requiring real-world accuracy. Use when the user needs help with research or fact-checking.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

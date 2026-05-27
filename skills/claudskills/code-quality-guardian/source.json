@@ -1,0 +1,18 @@
+{
+  "name": "code-quality-guardian",
+  "slug": "code-quality-guardian",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-quality-guardian/",
+  "download_url": "https://claudskills.com/skills/code-quality-guardian/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Expert code reviewer that enforces best practices, clean code principles, strong typing (TypeScript), architecture guidelines, and security standards. Reviews PRs and code snippets for bugs, code smells, anti-patterns, maintainability risks, performance issues, and security vulnerabilities. Use when reviewing pull requests, analyzing code quality, conducting code audits, or improving TypeScript/JavaScript codebases.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

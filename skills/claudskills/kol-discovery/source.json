@@ -1,0 +1,18 @@
+{
+  "name": "kol-discovery",
+  "slug": "kol-discovery",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kol-discovery/",
+  "download_url": "https://claudskills.com/skills/kol-discovery/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Find Key Opinion Leaders (KOLs) in a given domain by combining web research with LinkedIn post search. Given a company/idea and target domain, generates authority keywords, searches LinkedIn posts to find prolific authors with high engagement, and merges with web-researched influencers. Use when someone wants to \"find influencers in X space\" or \"who are the KOLs for Y industry.\"",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "influencer",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

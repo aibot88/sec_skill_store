@@ -1,0 +1,18 @@
+{
+  "name": "accessorysetupkit",
+  "slug": "accessorysetupkit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/accessorysetupkit/",
+  "download_url": "https://claudskills.com/skills/accessorysetupkit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Discover and configure Bluetooth and Wi-Fi accessories using AccessorySetupKit. Use when presenting a privacy-preserving accessory picker, defining discovery descriptors for BLE or Wi-Fi devices, handling accessory session events, migrating from CoreBluetooth permission-based scanning, or setting up accessories without requiring broad Bluetooth permissions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

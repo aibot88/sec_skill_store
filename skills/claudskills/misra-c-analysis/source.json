@@ -1,0 +1,18 @@
+{
+  "name": "misra-c-analysis",
+  "slug": "misra-c-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/misra-c-analysis/",
+  "download_url": "https://claudskills.com/skills/misra-c-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "MISRA C compliance checking and static analysis integration",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

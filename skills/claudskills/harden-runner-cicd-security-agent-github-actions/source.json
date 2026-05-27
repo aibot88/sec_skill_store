@@ -1,0 +1,18 @@
+{
+  "name": "harden-runner-cicd-security-agent-github-actions",
+  "slug": "harden-runner-cicd-security-agent-github-actions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/harden-runner-cicd-security-agent-github-actions/",
+  "download_url": "https://claudskills.com/skills/harden-runner-cicd-security-agent-github-actions/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Harden-Runner by StepSecurity is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity in real-time, detecting supply chain attacks such as the tj-actions and Codecov compromises.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

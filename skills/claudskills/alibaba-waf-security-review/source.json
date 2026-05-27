@@ -1,0 +1,18 @@
+{
+  "name": "alibaba-waf-security-review",
+  "slug": "alibaba-waf-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibaba-waf-security-review/",
+  "download_url": "https://claudskills.com/skills/alibaba-waf-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Assess Alibaba Cloud workload security posture: RAM least-privilege, VPC isolation, KMS/HSM encryption, Cloud Security Center threat detection, ActionTrail audit, WAF/Anti-DDoS web protection, and Chinese regulatory compliance (MLPS 2.0, DSL, PIPL).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

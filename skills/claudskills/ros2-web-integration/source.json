@@ -1,0 +1,18 @@
+{
+  "name": "ros2-web-integration",
+  "slug": "ros2-web-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ros2-web-integration/",
+  "download_url": "https://claudskills.com/skills/ros2-web-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Patterns and best practices for integrating ROS2 systems with web technologies including REST APIs, WebSocket bridges, and browser-based robot interfaces. Use this skill when building web dashboards for robots, streaming camera feeds to browsers, exposing ROS2 services as REST endpoints, or implementing bidirectional WebSocket communication between web UIs and ROS2 nodes. Trigger whenever the user mentions rosbridge, rosbridge_suite, roslibjs, FastAPI with ROS2, Flask with rclpy, WebSocket for robot telemetry, MJPEG streaming, WebRTC for robots, REST API wrapping ROS2 services, web-based robot control, browser robot interface, robot dashboard, CORS configuration for robots, or any web-to-ROS2 bridge pattern. Also trigger for authentication on robot web interfaces, rate limiting sensor streams, video streaming from robot cameras to browsers, or running async web frameworks alongside the ROS2 executor. Covers rosbridge_suite, FastAPI, Flask, WebSocket, and WebRTC approaches.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "azure-static-web-apps",
+  "slug": "azure-static-web-apps-beel-collab-presets-dev",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-static-web-apps-beel-collab-presets-dev/",
+  "download_url": "https://claudskills.com/skills/azure-static-web-apps-beel-collab-presets-dev/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Helps create, configure, and deploy Azure Static Web Apps using the SWA CLI. Use when deploying static sites to Azure, setting up SWA local development, configuring staticwebapp.config.json, adding Azure Functions APIs to SWA, or setting up GitHub Actions CI/CD for Static Web Apps.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

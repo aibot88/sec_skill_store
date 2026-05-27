@@ -1,0 +1,18 @@
+{
+  "name": "visao-produto",
+  "slug": "visao-produto",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/visao-produto/",
+  "download_url": "https://claudskills.com/skills/visao-produto/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Visao 360 de produto - agrega dados de cadastro, estoque, custo, faturamento, carteira e producao em uma consulta unificada.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

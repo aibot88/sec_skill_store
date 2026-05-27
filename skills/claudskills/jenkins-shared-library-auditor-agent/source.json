@@ -1,0 +1,18 @@
+{
+  "name": "jenkins-shared-library-auditor-agent",
+  "slug": "jenkins-shared-library-auditor-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jenkins-shared-library-auditor-agent/",
+  "download_url": "https://claudskills.com/skills/jenkins-shared-library-auditor-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audits Jenkins shared libraries for security vulnerabilities using the Jenkins Script Console API and Groovy AST analysis. Detects unsafe method calls, credential leaks, and sandbox escapes in pipeline libraries.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

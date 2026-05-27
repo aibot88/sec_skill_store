@@ -1,0 +1,18 @@
+{
+  "name": "plan-completion-audit",
+  "slug": "plan-completion-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/plan-completion-audit/",
+  "download_url": "https://claudskills.com/skills/plan-completion-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit a project plan against the actual implementation — verifying code, types, security, and Supabase backend alignment.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "code-review-for-pms",
+  "slug": "code-review-for-pms",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-review-for-pms/",
+  "download_url": "https://claudskills.com/skills/code-review-for-pms/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review AI-generated code from a PM perspective: spec compliance, security red flags, data model soundness, UX issues in frontend code, and error handling against product requirements.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

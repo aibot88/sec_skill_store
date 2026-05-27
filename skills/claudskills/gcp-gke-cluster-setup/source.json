@@ -1,0 +1,18 @@
+{
+  "name": "gcp-gke-cluster-setup",
+  "slug": "gcp-gke-cluster-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-gke-cluster-setup/",
+  "download_url": "https://claudskills.com/skills/gcp-gke-cluster-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Sets up and configures Google Kubernetes Engine (GKE) clusters for production use. Use when creating new GKE clusters, choosing between Autopilot vs Standard modes, configuring networking (VPC-native, private clusters), setting up node pools, or planning cluster architecture for Spring Boot microservices. Includes regional vs zonal decisions, security hardening, and resource provisioning guidance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

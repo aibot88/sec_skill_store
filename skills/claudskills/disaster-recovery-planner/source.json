@@ -1,0 +1,18 @@
+{
+  "name": "planning-disaster-recovery",
+  "slug": "disaster-recovery-planner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/disaster-recovery-planner/",
+  "download_url": "https://claudskills.com/skills/disaster-recovery-planner/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill enables Claude to plan and implement disaster recovery (DR) procedures. It generates configurations and setup code based on specific requirements and infrastructure. Use this skill when the user requests assistance with disaster recovery planning, business continuity, or related DevOps tasks. Trigger this skill when the user mentions \"disaster recovery\", \"DR plan\", \"business continuity\", or requests help with setting up a recovery strategy. It provides production-ready configurations, implements best practices, and supports multi-platform environments.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

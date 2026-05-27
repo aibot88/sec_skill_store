@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-amnesia-protocol",
+  "slug": "agentprivacy-amnesia-protocol",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-amnesia-protocol/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-amnesia-protocol/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Foundational skill for amnesia-as-ZK-primitive patterns. Applies when designing systems where forgetting is the proof, separation creates trust, and the inability to reconstruct origin is the security guarantee. Core to Act XXXI cosmological closure.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

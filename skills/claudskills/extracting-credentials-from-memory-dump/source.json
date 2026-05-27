@@ -1,0 +1,18 @@
+{
+  "name": "extracting-credentials-from-memory-dump",
+  "slug": "extracting-credentials-from-memory-dump",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/extracting-credentials-from-memory-dump/",
+  "download_url": "https://claudskills.com/skills/extracting-credentials-from-memory-dump/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Extract cached credentials, password hashes, Kerberos tickets, and authentication tokens from memory dumps using",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

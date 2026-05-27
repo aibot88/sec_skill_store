@@ -1,0 +1,18 @@
+{
+  "name": "miro-security-basics",
+  "slug": "miro-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/miro-security-basics/",
+  "download_url": "https://claudskills.com/skills/miro-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Miro REST API v2 security best practices — OAuth scope minimization, token storage, webhook signature validation, and secret rotation. Trigger with phrases like \"miro security\", \"miro secrets\", \"secure miro\", \"miro token security\", \"miro webhook signature\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "player-analytics",
+  "slug": "player-analytics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/player-analytics/",
+  "download_url": "https://claudskills.com/skills/player-analytics/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit game analytics and telemetry implementation -- event tracking completeness, FTUE and monetization funnel coverage, retention metric infrastructure, A/B testing framework, heatmap data collection, churn prediction signals, and LTV modeling support. Covers Firebase Analytics, Unity Analytics, GameAnalytics, Amplitude, Mixpanel, Adjust, and custom pipelines. Use when verifying event tracking coverage, debugging missing funnel steps, auditing A/B test variant assignment, checking for PII in analytics events, or evaluating GDPR/COPPA compliance of tracking code.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

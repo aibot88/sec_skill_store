@@ -1,0 +1,18 @@
+{
+  "name": "ci-cd-pipeline-builder",
+  "slug": "ci-cd-pipeline-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ci-cd-pipeline-builder/",
+  "download_url": "https://claudskills.com/skills/ci-cd-pipeline-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT + Commons Clause",
+  "description": "Design and generate CI/CD pipelines from detected project stack signals. Covers GitHub Actions, GitLab CI, CircleCI, and Buildkite with caching, matrix builds, deployment strategies (blue-green, canary, rolling), environment gates, and security scanning. Use when bootstrapping CI, migrating pipelines, or optimizing build times.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "preview-testing",
+  "slug": "preview-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/preview-testing/",
+  "download_url": "https://claudskills.com/skills/preview-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive E2E + Security Tests for Vercel Preview Deployments. Combines Playwright automation with Claude-in-Chrome MCP for interactive debugging. Activate on PR creation, before merge, or manual /preview-test.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

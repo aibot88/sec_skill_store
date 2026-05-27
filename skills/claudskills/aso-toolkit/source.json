@@ -1,0 +1,18 @@
+{
+  "name": "aso-toolkit",
+  "slug": "aso-toolkit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aso-toolkit/",
+  "download_url": "https://claudskills.com/skills/aso-toolkit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "ASO frameworks for generating, auditing, and optimising App Store and Google Play marketing copy. Covers keyword research, metadata optimisation across every field, competitor analysis, and audit scoring. Run this whenever authoring or refining store text for any app — /store-spec consults it for every copy field. Inspired by Eronred's open-source aso-skills toolkit; optionally pairs with the Appeeky MCP for live App Store data.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "seo",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

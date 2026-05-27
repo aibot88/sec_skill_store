@@ -1,0 +1,18 @@
+{
+  "name": "catz-challenge-evaluator",
+  "slug": "catz-challenge-evaluator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/catz-challenge-evaluator/",
+  "download_url": "https://claudskills.com/skills/catz-challenge-evaluator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Evaluates Catz Android coding challenge submissions against SWORD Health requirements. Use when reviewing or assessing this coding challenge. Produces a structured markdown report with seniority level assessment (Junior/Mid/Senior/Staff) and confidence rating, covering requirements compliance, architecture, code quality, testing, and documentation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

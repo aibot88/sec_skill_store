@@ -1,0 +1,18 @@
+{
+  "name": "secret-detection-scanner",
+  "slug": "secret-detection-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/secret-detection-scanner/",
+  "download_url": "https://claudskills.com/skills/secret-detection-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect secrets, credentials, and sensitive data in code and configurations. Scan git history for secrets, detect API keys, tokens, passwords, check environment files, monitor CI/CD logs for exposure, generate remediation steps, and track secret rotation status.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

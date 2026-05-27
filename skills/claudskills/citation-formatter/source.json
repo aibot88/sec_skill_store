@@ -1,0 +1,18 @@
+{
+  "name": "citation-formatter",
+  "slug": "citation-formatter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/citation-formatter/",
+  "download_url": "https://claudskills.com/skills/citation-formatter/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when formatting references for journal submission, converting between citation styles (APA, MLA, Vancouver, Chicago), generating bibliographies for manuscripts, or ensuring consistent reference formatting. Automatically formats citations and bibliographies in 1000+ academic styles. Ensures reference accuracy, completeness, and compliance with journal requirements. Supports batch conversion and integration with reference managers.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "linters-formatters",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

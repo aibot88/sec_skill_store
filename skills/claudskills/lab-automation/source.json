@@ -1,0 +1,18 @@
+{
+  "name": "lab-automation",
+  "slug": "lab-automation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lab-automation/",
+  "download_url": "https://claudskills.com/skills/lab-automation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit laboratory automation systems -- LIMS architecture, instrument connectivity (SiLA 2, OPC-UA, serial drivers), sample tracking and chain of custody, protocol workflow engines, data acquisition pipelines, and regulatory compliance (21 CFR Part 11 electronic records/signatures, GAMP 5 software categorization, ALCOA+ data integrity). Use when reviewing pharma, biotech, clinical, or research lab codebases with liquid handlers, plate readers, sequencers, or automated workcells.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

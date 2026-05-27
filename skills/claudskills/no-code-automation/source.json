@@ -1,0 +1,18 @@
+{
+  "name": "no-code-automation",
+  "slug": "no-code-automation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/no-code-automation/",
+  "download_url": "https://claudskills.com/skills/no-code-automation/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when building workflow automations with Zapier, Make (Integromat), n8n, or similar no-code/low-code platforms. Triggers on workflow automation, Zap creation, Make scenario design, n8n workflow building, webhook routing, internal tooling automation, app integration, trigger-action patterns, and any task requiring connecting SaaS tools without writing full applications.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

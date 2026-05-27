@@ -1,0 +1,18 @@
+{
+  "name": "hunt-help",
+  "slug": "hunt-help",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hunt-help/",
+  "download_url": "https://claudskills.com/skills/hunt-help/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Show available THRUNT threat hunting commands and artifact layout",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

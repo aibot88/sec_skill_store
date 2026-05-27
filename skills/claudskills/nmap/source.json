@@ -1,0 +1,18 @@
+{
+  "name": "nmap",
+  "slug": "nmap",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nmap/",
+  "download_url": "https://claudskills.com/skills/nmap/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Professional network reconnaissance and port scanning using nmap. Supports various scan types (quick, full, UDP, stealth), service detection, vulnerability scanning, and NSE scripts. Use when you need to enumerate network services, detect versions, or perform network reconnaissance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

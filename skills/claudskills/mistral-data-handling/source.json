@@ -1,0 +1,18 @@
+{
+  "name": "mistral-data-handling",
+  "slug": "mistral-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mistral-data-handling/",
+  "download_url": "https://claudskills.com/skills/mistral-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Mistral AI PII handling, data retention, and GDPR/CCPA compliance patterns. Use when handling sensitive data, implementing data redaction, configuring retention policies, or ensuring compliance with privacy regulations for Mistral AI integrations. Trigger with phrases like \"mistral data\", \"mistral PII\", \"mistral GDPR\", \"mistral data retention\", \"mistral privacy\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

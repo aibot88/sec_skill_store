@@ -1,0 +1,18 @@
+{
+  "name": "echidna-fuzzer",
+  "slug": "echidna-fuzzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/echidna-fuzzer/",
+  "download_url": "https://claudskills.com/skills/echidna-fuzzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Property-based testing and fuzzing using Echidna for smart contracts. Includes invariant definition, corpus management, coverage analysis, and CI/CD integration for comprehensive security testing.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

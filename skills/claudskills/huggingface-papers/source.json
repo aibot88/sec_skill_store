@@ -1,0 +1,18 @@
+{
+  "name": "huggingface-papers",
+  "slug": "huggingface-papers",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/huggingface-papers/",
+  "download_url": "https://claudskills.com/skills/huggingface-papers/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Look up and read Hugging Face paper pages in markdown, and use the papers API for structured metadata such as authors, linked models/datasets/spaces, Github repo and project page. Use when the user shares a Hugging Face paper page URL, an arXiv URL or ID, or asks to summarize, explain, or analyze an AI research paper.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

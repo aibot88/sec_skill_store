@@ -1,0 +1,18 @@
+{
+  "name": "soc-triage",
+  "slug": "soc-triage",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/soc-triage/",
+  "download_url": "https://claudskills.com/skills/soc-triage/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "SOC daily-pull triage feed — Vulnetix''s score-driven queue cross-referenced with installed dependencies. Use when starting a SOC shift, prioritising the queue by EPSS × KEV × repo-impact, filtering by severity / ecosystem / KEV-only / since-date, producing a P1–P4 action list grouped by package manager, or handing off a watchlist to the next shift.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

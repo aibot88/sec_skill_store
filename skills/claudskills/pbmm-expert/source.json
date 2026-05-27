@@ -1,0 +1,18 @@
+{
+  "name": "pbmm-expert",
+  "slug": "pbmm-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pbmm-expert/",
+  "download_url": "https://claudskills.com/skills/pbmm-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Canadian PBMM (Protected B, Medium Integrity, Medium Availability) expert. Provides comprehensive guidance on ITSG-33 controls, CCCS assessment, Canadian data residency, and Government of Canada cloud security requirements.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

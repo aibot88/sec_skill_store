@@ -1,0 +1,18 @@
+{
+  "name": "aws-waf-reliability-review",
+  "slug": "aws-waf-reliability-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-waf-reliability-review/",
+  "download_url": "https://claudskills.com/skills/aws-waf-reliability-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review AWS workload reliability posture against the Well-Architected Framework Reliability Pillar. Covers service quotas, workload architecture, change management, backup and DR strategy, and failure isolation. Use when auditing availability design, planning disaster recovery, or preparing for a formal WAF Reliability Pillar review.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "hipaa-compliance",
+  "slug": "hipaa-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hipaa-compliance/",
+  "download_url": "https://claudskills.com/skills/hipaa-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Ensure HIPAA compliance when handling PHI (Protected Health Information). Use when writing code that accesses user health data, check-ins, journal entries, or any sensitive information. Activates for audit logging, data access, security events, and compliance questions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

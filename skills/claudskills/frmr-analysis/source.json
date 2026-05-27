@@ -1,0 +1,18 @@
+{
+  "name": "frmr-analysis",
+  "slug": "frmr-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/frmr-analysis/",
+  "download_url": "https://claudskills.com/skills/frmr-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyzes FedRAMP FRMR documents to extract control mappings, KSI entries, and version changes. Use when the user asks about FedRAMP requirements, control mappings, compliance data, or needs to understand FRMR document content.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

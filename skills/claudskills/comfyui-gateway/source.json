@@ -1,0 +1,18 @@
+{
+  "name": "comfyui-gateway",
+  "slug": "comfyui-gateway",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/comfyui-gateway/",
+  "download_url": "https://claudskills.com/skills/comfyui-gateway/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "REST API gateway for ComfyUI servers. Workflow management, job queuing, webhooks, caching, auth, rate limiting, and image delivery (URL + base64).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "performance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

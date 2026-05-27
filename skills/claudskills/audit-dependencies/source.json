@@ -1,0 +1,18 @@
+{
+  "name": "audit-dependencies",
+  "slug": "audit-dependencies",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-dependencies/",
+  "download_url": "https://claudskills.com/skills/audit-dependencies/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Run npm audit and check for outdated/vulnerable dependencies. Returns structured output with vulnerability counts by severity, outdated packages, and recommended updates. Used for security validation and dependency health checks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

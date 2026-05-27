@@ -1,0 +1,18 @@
+{
+  "name": "changelog-conventions",
+  "slug": "changelog-conventions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/changelog-conventions/",
+  "download_url": "https://claudskills.com/skills/changelog-conventions/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "How The Lossless Group writes and structures changelog/ entries across all repos (projects, true monorepos, pseudomonorepos). Use whenever shipping or pushing a coherent chunk of work, when scaffolding a new repo's changelog/ directory, when authoring a product release message, when the user says \"log this\", \"write a changelog\", or \"ship note\", or when reviewing a changelog/ file. Encodes the strict frontmatter (publish, lede, ISO dates), filename pattern, \"it exists\" priority, and the show-don't-enforce ethos.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

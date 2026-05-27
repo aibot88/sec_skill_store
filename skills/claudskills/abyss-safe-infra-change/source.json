@@ -1,0 +1,18 @@
+{
+  "name": "abyss-safe-infra-change",
+  "slug": "abyss-safe-infra-change",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/abyss-safe-infra-change/",
+  "download_url": "https://claudskills.com/skills/abyss-safe-infra-change/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Apply the aoa-safe-infra-change workflow inside an abyss-* repository using repo-relative operational surfaces, explicit local authority notes, rollback posture, and local validation commands. Use when the base infra-change workflow is correct but a thin project overlay is needed for one abyss repo. Do not use when the base skill is sufficient without local adaptation or when the task is really about producing a shareable artifact.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

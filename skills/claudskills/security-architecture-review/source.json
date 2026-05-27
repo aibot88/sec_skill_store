@@ -1,0 +1,18 @@
+{
+  "name": "security-architecture-review",
+  "slug": "security-architecture-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-architecture-review/",
+  "download_url": "https://claudskills.com/skills/security-architecture-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when conducting a dedicated security architecture review of a Salesforce org — assessing sharing model completeness, FLS/CRUD enforcement, Apex security patterns, exposed API surface, Connected App policies, and Shield readiness. Produces a structured findings report with severity ratings (Critical/High/Medium/Low) and a 20+ point review checklist. Triggers: security architecture review, org security posture, sharing model audit, FLS coverage review, Connected App security, Shield assessment, org security health deep-dive, HIPAA or PCI security controls Salesforce. NOT for implementing security fixes (use security/* skills). NOT for the Salesforce Security Health Check UI (use security-health-check skill). NOT for a full WAF review across all pillars (use well-architected-review).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

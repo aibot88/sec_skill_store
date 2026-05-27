@@ -1,0 +1,18 @@
+{
+  "name": "laravel-security",
+  "slug": "laravel-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/laravel-security/",
+  "download_url": "https://claudskills.com/skills/laravel-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Laravel security best practices for authn/authz, validation, CSRF, mass assignment, file uploads, secrets, rate limiting, and secure deployment.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

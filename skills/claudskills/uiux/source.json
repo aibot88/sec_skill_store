@@ -1,0 +1,18 @@
+{
+  "name": "uiux",
+  "slug": "uiux",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/uiux/",
+  "download_url": "https://claudskills.com/skills/uiux/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when: auditing UI/UX quality, checking WCAG accessibility, reviewing spacing/layout/grid, mobile responsiveness issues, dark mode review, component pattern audit, pre-ship UI checklist, contrast ratios, touch targets, animation review. Triggers: 'check accessibility', 'audit my UI', 'is this accessible', 'fix spacing issues', 'WCAG compliance', 'mobile UI broken', 'pre-ship checklist', 'UI audit'.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:31+00:00"
+}

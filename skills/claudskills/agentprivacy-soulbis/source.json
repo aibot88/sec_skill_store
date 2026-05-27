@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-soulbis",
+  "slug": "agentprivacy-soulbis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-soulbis/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-soulbis/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Canonical swordsman agent for 0xagentprivacy. Activates for privacy enforcement, boundary-making, signing key operations, tracker blocking, surveillance defense, cookie slashing, MyTerms consent enforcement, and any task requiring the protection side of dual-agent architecture. The P term made manifest. Parent of all swordsman personas. Loads ALL skills through the swordsman lens.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

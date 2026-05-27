@@ -1,0 +1,18 @@
+{
+  "name": "detecting-rdp-brute-force-attacks",
+  "slug": "detecting-rdp-brute-force-attacks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-rdp-brute-force-attacks/",
+  "download_url": "https://claudskills.com/skills/detecting-rdp-brute-force-attacks/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect RDP brute force attacks by analyzing Windows Security Event Logs for failed authentication patterns (Event",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

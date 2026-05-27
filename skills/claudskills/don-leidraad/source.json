@@ -1,0 +1,18 @@
+{
+  "name": "don-leidraad",
+  "slug": "don-leidraad",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/don-leidraad/",
+  "download_url": "https://claudskills.com/skills/don-leidraad/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "NeRDS software development guidelines for Dutch government projects. Use when making architectural decisions, setting up CI/CD, implementing security practices, handling privacy requirements, or ensuring accessibility compliance in government software.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

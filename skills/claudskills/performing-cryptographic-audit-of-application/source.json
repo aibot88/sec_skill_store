@@ -1,0 +1,18 @@
+{
+  "name": "performing-cryptographic-audit-of-application",
+  "slug": "performing-cryptographic-audit-of-application",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-cryptographic-audit-of-application/",
+  "download_url": "https://claudskills.com/skills/performing-cryptographic-audit-of-application/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "A cryptographic audit systematically reviews an application's use of cryptographic primitives, protocols, and",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

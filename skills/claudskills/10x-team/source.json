@@ -1,0 +1,18 @@
+{
+  "name": "10x-team",
+  "slug": "10x-team",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/10x-team/",
+  "download_url": "https://claudskills.com/skills/10x-team/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "You MUST use this when building projects end-to-end. Orchestrates all 12 team roles — automatically switches between CTO, architect, PM, engineers, SRE, security, DBA, QA, and EM based on the current phase of work. Starts with brainstorming before any implementation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

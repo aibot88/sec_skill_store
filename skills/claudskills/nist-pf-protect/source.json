@@ -1,0 +1,18 @@
+{
+  "name": "nist-pf-protect",
+  "slug": "nist-pf-protect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nist-pf-protect/",
+  "download_url": "https://claudskills.com/skills/nist-pf-protect/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement the NIST Privacy Framework PROTECT function covering PR.AC access control, PR.DS data security, and PR.PO protective policies. Provides technical control implementation guidance, encryption standards, access management architectures, and security-privacy integration patterns.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

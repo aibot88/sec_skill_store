@@ -1,0 +1,19 @@
+{
+  "name": "AEP-main-skill",
+  "slug": "thepm001-aep-agent-element-protocol-aep-main-skill",
+  "source": "github",
+  "source_url": "https://github.com/thePM001/AEP-agent-element-protocol/blob/c91b63927f227f7fcfcdda19d0f2f3d7b195a3b1/AEP-main-skill/skill.md",
+  "download_url": "https://github.com/thePM001/AEP-agent-element-protocol/blob/c91b63927f227f7fcfcdda19d0f2f3d7b195a3b1/AEP-main-skill/skill.md",
+  "external_source_url": "https://github.com/thePM001/AEP-agent-element-protocol/blob/c91b63927f227f7fcfcdda19d0f2f3d7b195a3b1/AEP-main-skill/skill.md",
+  "license": "",
+  "description": "AEP (Agent Element Protocol) v2.6 | Deterministic zero-trust total control and governance protocol for AI agents. | Reduce hallucinations to zero through architecure in all constrained domains of application. | LLMs gave you the engines, AEP gives you the control thrusters.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "thePM001/AEP-agent-element-protocol",
+    "path": "AEP-main-skill/skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

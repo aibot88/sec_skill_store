@@ -1,0 +1,18 @@
+{
+  "name": "deploying-software-defined-perimeter",
+  "slug": "deploying-software-defined-perimeter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deploying-software-defined-perimeter/",
+  "download_url": "https://claudskills.com/skills/deploying-software-defined-perimeter/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Deploy a Software-Defined Perimeter using the CSA v2.0 specification with Single Packet Authorization, mutual",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

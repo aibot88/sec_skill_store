@@ -1,0 +1,18 @@
+{
+  "name": "intercom-ci-integration",
+  "slug": "intercom-ci-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/intercom-ci-integration/",
+  "download_url": "https://claudskills.com/skills/intercom-ci-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure CI/CD pipelines for Intercom integrations with GitHub Actions. Use when setting up automated testing, configuring CI with Intercom secrets, or integrating Intercom API tests into your build process. Trigger with phrases like \"intercom CI\", \"intercom GitHub Actions\", \"intercom automated tests\", \"CI intercom\", \"intercom pipeline\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

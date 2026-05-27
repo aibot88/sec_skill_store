@@ -1,0 +1,18 @@
+{
+  "name": "lex-uk-law",
+  "slug": "lex-uk-law",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lex-uk-law/",
+  "download_url": "https://claudskills.com/skills/lex-uk-law/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "UK legal research using the Lex API. Search UK legislation and legal provisions. Use when researching UK law, analysing statutory instruments, or grounding responses in authoritative legal sources.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

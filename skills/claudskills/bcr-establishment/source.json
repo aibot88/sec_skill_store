@@ -1,0 +1,18 @@
+{
+  "name": "bcr-establishment",
+  "slug": "bcr-establishment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bcr-establishment/",
+  "download_url": "https://claudskills.com/skills/bcr-establishment/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Guides development and approval of Binding Corporate Rules under GDPR Article 47 for intra-group international data transfers. Covers Art. 47(2)(a)-(n) content requirements, BCR approval process with lead supervisory authority, and WP256/WP257 referentials. Keywords: BCR, binding corporate rules, intra-group transfers, Art. 47.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:04+00:00"
+}

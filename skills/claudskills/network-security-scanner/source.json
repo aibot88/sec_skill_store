@@ -1,0 +1,18 @@
+{
+  "name": "network-security-scanner",
+  "slug": "network-security-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/network-security-scanner/",
+  "download_url": "https://claudskills.com/skills/network-security-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Network Security Scanner - Auto-activating skill for Security Advanced. Triggers on: network security scanner, network security scanner Part of the Security Advanced skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

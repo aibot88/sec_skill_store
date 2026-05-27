@@ -1,0 +1,18 @@
+{
+  "name": "algorithms-data-structures",
+  "slug": "algorithms-data-structures",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/algorithms-data-structures/",
+  "download_url": "https://claudskills.com/skills/algorithms-data-structures/SKILL.md",
+  "external_source_url": "",
+  "license": "NOASSERTION",
+  "description": "Algorithms and data structures from first principles through advanced analysis. Covers sorting (bubble, insertion, selection, merge, quick, heap, radix), searching (linear, binary, BFS, DFS, Dijkstra, A*), fundamental data structures (arrays, linked lists, stacks, queues, hash tables, trees, heaps, graphs, tries), complexity analysis (Big-O, Big-Omega, Big-Theta, amortized), recurrence relations, and algorithm design paradigms (divide-and-conquer, greedy, dynamic programming, backtracking). Use when analyzing, selecting, implementing, or comparing algorithms and data structures.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ide-editor",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

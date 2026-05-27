@@ -1,0 +1,18 @@
+{
+  "name": "kubernetes-rbac-analyzer",
+  "slug": "kubernetes-rbac-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kubernetes-rbac-analyzer/",
+  "download_url": "https://claudskills.com/skills/kubernetes-rbac-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Kubernetes Rbac Analyzer - Auto-activating skill for Security Advanced. Triggers on: kubernetes rbac analyzer, kubernetes rbac analyzer Part of the Security Advanced skill category.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

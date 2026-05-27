@@ -1,0 +1,18 @@
+{
+  "name": "secret-detector",
+  "slug": "secret-detector",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/secret-detector/",
+  "download_url": "https://claudskills.com/skills/secret-detector/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "機密情報検出スキル。APIキー、パスワード、トークン等の機密情報をコードから検出。git-secrets/truffleHog/gitleaks等のツールを統合。漏洩防止と早期発見に使用。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

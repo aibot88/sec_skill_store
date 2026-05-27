@@ -1,0 +1,18 @@
+{
+  "name": "securite-anssi",
+  "slug": "securite-anssi",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/securite-anssi/",
+  "download_url": "https://claudskills.com/skills/securite-anssi/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Règles essentielles de sécurité ANSSI pour le développement d'applications de l'État. 12 règles couvrant TLS, secrets, authentification, headers, dépendances, entrées, logs et durcissement. Utiliser cette skill quand l'utilisateur développe une application web, une API, ou tout service exposé, quand il mentionne la sécurité, l'ANSSI, le durcissement, ou quand on configure un serveur, un reverse proxy ou un pipeline CI/CD.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

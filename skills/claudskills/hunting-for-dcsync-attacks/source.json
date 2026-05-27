@@ -1,0 +1,18 @@
+{
+  "name": "hunting-for-dcsync-attacks",
+  "slug": "hunting-for-dcsync-attacks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hunting-for-dcsync-attacks/",
+  "download_url": "https://claudskills.com/skills/hunting-for-dcsync-attacks/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect DCSync attacks by analyzing Windows Event ID 4662 for unauthorized DS-Replication-Get-Changes requests",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

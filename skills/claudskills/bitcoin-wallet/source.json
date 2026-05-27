@@ -1,0 +1,18 @@
+{
+  "name": "bitcoin-wallet",
+  "slug": "bitcoin-wallet",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bitcoin-wallet/",
+  "download_url": "https://claudskills.com/skills/bitcoin-wallet/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when implementing Bitcoin wallet features - provides complete architecture for on-chain Bitcoin transactions, UTXO management, address derivation from Nostr keys, and transaction handling with proper security patterns",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

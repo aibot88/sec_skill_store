@@ -1,0 +1,18 @@
+{
+  "name": "printing-press-retro",
+  "slug": "printing-press-retro",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/printing-press-retro/",
+  "download_url": "https://claudskills.com/skills/printing-press-retro/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Run a retrospective after generating a CLI. Identifies systemic improvements to the Printing Press — templates, Go binary, skill instructions, catalog — so the next CLI comes out better. Creates a GitHub issue with actionable findings when there are Printing Press fixes to make. Use after any /printing-press run. Trigger phrases: \"retro\", \"retrospective\", \"what went wrong\", \"improve the press\", \"post-mortem\", \"lessons learned\", \"what can we improve\", \"file a retro\", \"submit findings\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "education-learning",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

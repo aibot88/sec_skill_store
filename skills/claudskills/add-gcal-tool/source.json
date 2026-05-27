@@ -1,0 +1,18 @@
+{
+  "name": "add-gcal-tool",
+  "slug": "add-gcal-tool",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/add-gcal-tool/",
+  "download_url": "https://claudskills.com/skills/add-gcal-tool/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Add Google Calendar as an MCP tool (list calendars, list/search/create events, free/busy queries) using OneCLI-managed OAuth. Multi-calendar and multi-account supported. Mirrors /add-gmail-tool's stub pattern — no raw credentials ever reach the container; OneCLI injects real tokens at request time.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

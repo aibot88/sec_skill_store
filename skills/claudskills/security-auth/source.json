@@ -1,0 +1,18 @@
+{
+  "name": "security-auth",
+  "slug": "security-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-auth/",
+  "download_url": "https://claudskills.com/skills/security-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Specialista na autentizaci a autorizaci. MUSÍ být použit při analýze bezpečnosti kódu — hledá slabé hashování hesel (MD5/SHA1) a chybějící autorizační kontroly.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

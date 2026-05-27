@@ -1,0 +1,18 @@
+{
+  "name": "discover-books",
+  "slug": "discover-books",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/discover-books/",
+  "download_url": "https://claudskills.com/skills/discover-books/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Discover new books using OpenLibrary API with Federated Taxonomy integration. Recommends books based on subjects, authors, and HMT bridge attributes. Can be invoked via /dogpile books.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

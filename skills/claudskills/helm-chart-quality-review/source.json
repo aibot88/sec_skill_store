@@ -1,0 +1,18 @@
+{
+  "name": "helm-chart-quality-review",
+  "slug": "helm-chart-quality-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/helm-chart-quality-review/",
+  "download_url": "https://claudskills.com/skills/helm-chart-quality-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when a user provides a Helm chart or asks to review Helm chart quality, security, or testability — including Chart.yaml, values.yaml, templates/, tests/, or chart-testing CI configuration.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

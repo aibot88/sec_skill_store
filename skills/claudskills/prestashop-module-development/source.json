@@ -1,0 +1,18 @@
+{
+  "name": "prestashop-module-development",
+  "slug": "prestashop-module-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prestashop-module-development/",
+  "download_url": "https://claudskills.com/skills/prestashop-module-development/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Complete PrestaShop module development workflow using modern architecture and best practices. Use when: creating new PrestaShop modules, updating legacy modules to modern code, implementing hooks and actions, setting up module configuration pages, adding front office features, handling database operations, implementing security measures, managing translations, or modernizing existing PrestaShop modules from legacy patterns to current standards.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "di-migration",
+  "slug": "di-migration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/di-migration/",
+  "download_url": "https://claudskills.com/skills/di-migration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automate migration between Kotlin/Android dependency injection frameworks. Covers Hilt → Koin, Dagger → Koin, Toothpick → Koin, Kodein → Koin, Koin 3.x → Koin 4.x upgrades, Koin DSL → Koin 4.x Safe DSL with Compiler Plugin, and Koin KSP Annotations → Koin Compiler Plugin. Use this skill whenever the user mentions migrating, converting, or switching DI frameworks, refactoring from Hilt/Dagger/Toothpick/Kodein to Koin, removing Hilt/Dagger/Toothpick/Kodein, upgrading Koin versions, migrating from classic Koin DSL to Koin Safe DSL or annotations with Compiler Plugin, or moving from KSP-based annotations to the Koin Compiler Plugin. Also trigger when the user pastes Hilt/Dagger/Toothpick/Kodein module code and asks to convert it, when they want compile-time verification for Koin modules, or when they mention \"dependency injection migration\", \"replace Hilt with Koin\", \"move away from Dagger\", \"migrate from Toothpick\", \"migrate from Kodein\", \"Kodein to Koin\", \"convert DSL to annotations\", \"add Koin compiler\", \"Koin KSP\", \"Koin compiler plugin\", \"remove KSP\", \"move to Koin compiler\", or any variation involving DI framework changes in Kotlin/Android/KMP projects. For greenfield projects or manual-DI code, this skill is not needed — point the user at the official Koin docs at https://insert-koin.io and apply the same Safe DSL + Compiler Plugin rules directly.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

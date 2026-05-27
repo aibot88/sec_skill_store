@@ -1,0 +1,18 @@
+{
+  "name": "firecrawl-install-auth",
+  "slug": "firecrawl-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firecrawl-install-auth/",
+  "download_url": "https://claudskills.com/skills/firecrawl-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Firecrawl SDK authentication for web scraping. Use when setting up a new Firecrawl integration, configuring API keys, or initializing Firecrawl in your project. Trigger with phrases like \"install firecrawl\", \"setup firecrawl\", \"firecrawl auth\", \"configure firecrawl API key\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

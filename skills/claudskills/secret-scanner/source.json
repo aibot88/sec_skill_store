@@ -1,0 +1,18 @@
+{
+  "name": "secret-scanner",
+  "slug": "secret-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/secret-scanner/",
+  "download_url": "https://claudskills.com/skills/secret-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect accidentally committed secrets, credentials, and sensitive information in code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

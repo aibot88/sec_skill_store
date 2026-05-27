@@ -1,0 +1,18 @@
+{
+  "name": "ios-security",
+  "slug": "ios-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ios-security/",
+  "download_url": "https://claudskills.com/skills/ios-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "iOSアプリのセキュリティレビュー。OWASP Mobile Top 10、App Transport Security、Keychain使用をチェック。Use when: セキュリティ、脆弱性、認証、Keychain、ATS を依頼された時。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

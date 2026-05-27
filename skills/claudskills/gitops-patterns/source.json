@@ -1,0 +1,18 @@
+{
+  "name": "gitops-patterns",
+  "slug": "gitops-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gitops-patterns/",
+  "download_url": "https://claudskills.com/skills/gitops-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides GitOps best practices for ArgoCD, Flux, Argo Rollouts, and progressive delivery strategies. Use when setting up GitOps workflows, configuring continuous delivery, managing Kubernetes deployments declaratively, or when user mentions 'gitops', 'argocd', 'flux', 'progressive delivery', 'reconciliation', 'argo rollouts', 'canary', 'sealed secrets'.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

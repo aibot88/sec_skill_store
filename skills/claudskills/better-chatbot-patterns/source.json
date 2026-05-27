@@ -1,0 +1,18 @@
+{
+  "name": "better-chatbot-patterns",
+  "slug": "better-chatbot-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/better-chatbot-patterns/",
+  "download_url": "https://claudskills.com/skills/better-chatbot-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Reusable better-chatbot patterns for custom deployments. Use for server action validators, tool abstraction, multi-AI providers, or encountering auth validation, FormData parsing, workflow execution errors.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

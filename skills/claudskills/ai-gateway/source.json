@@ -1,0 +1,18 @@
+{
+  "name": "truefoundry-ai-gateway",
+  "slug": "ai-gateway",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-gateway/",
+  "download_url": "https://claudskills.com/skills/ai-gateway/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configures TrueFoundry AI Gateway for unified OpenAI-compatible LLM access. Covers auth (PAT/VAT), model routing, rate limiting, and budget controls.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

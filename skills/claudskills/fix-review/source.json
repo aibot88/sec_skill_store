@@ -1,0 +1,18 @@
+{
+  "name": "fix-review",
+  "slug": "fix-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fix-review/",
+  "download_url": "https://claudskills.com/skills/fix-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Verifies that git commits address security audit findings without introducing bugs. This skill should be used when the user asks to \"verify these commits fix the audit findings\", \"check if TOB-XXX was addressed\", \"review the fix branch\", \"validate remediation commits\", \"did these changes address the security report\", \"post-audit remediation review\", \"compare fix commits to audit report\", or when reviewing commits against security audit reports.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

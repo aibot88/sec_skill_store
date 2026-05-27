@@ -1,0 +1,18 @@
+{
+  "name": "neon-drizzle",
+  "slug": "neon-drizzle",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/neon-drizzle/",
+  "download_url": "https://claudskills.com/skills/neon-drizzle/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Creates a fully functional Drizzle ORM setup with a provisioned Neon database. Installs dependencies, provisions database credentials, configures connections, generates schemas, and runs migrations. Results in working code that can immediately connect to and query the database. Use when creating new projects with Drizzle, adding ORM to existing applications, or modifying database schemas.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

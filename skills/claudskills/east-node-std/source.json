@@ -1,0 +1,18 @@
+{
+  "name": "east-node-std",
+  "slug": "east-node-std",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/east-node-std/",
+  "download_url": "https://claudskills.com/skills/east-node-std/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Node.js platform functions for the East language. Use when writing East programs that need Console I/O, FileSystem operations, HTTP Fetch requests, Cryptography, Time operations, Path manipulation, Random number generation, or Testing. Triggers for: (1) Writing East programs with @elaraai/east-node-std, (2) Using platform functions like Console.log, FileSystem.readFile, Fetch.get, Crypto.uuid, Time.now, Path.join, Random.normal, (3) Testing East code with describeEast and Assert.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

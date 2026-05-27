@@ -1,0 +1,18 @@
+{
+  "name": "speak-prod-checklist",
+  "slug": "speak-prod-checklist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/speak-prod-checklist/",
+  "download_url": "https://claudskills.com/skills/speak-prod-checklist/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Production readiness checklist for Speak language learning integrations: auth, audio pipeline, monitoring, and compliance. Use when implementing prod checklist features, or troubleshooting Speak language learning integration issues. Trigger with phrases like \"speak prod checklist\", \"speak prod checklist\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "operations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

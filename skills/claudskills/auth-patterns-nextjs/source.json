@@ -1,0 +1,18 @@
+{
+  "name": "auth-patterns-nextjs",
+  "slug": "auth-patterns-nextjs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-patterns-nextjs/",
+  "download_url": "https://claudskills.com/skills/auth-patterns-nextjs/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authentication patterns for Next.js applications using NextAuth.js (Auth.js) v5. Covers OAuth providers, credentials auth, middleware protection, session management, and role-based access control. Use when implementing auth in Next.js App Router projects with email/password, social login, JWT, or database sessions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

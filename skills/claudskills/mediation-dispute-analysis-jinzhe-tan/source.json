@@ -1,0 +1,18 @@
+{
+  "name": "mediation-dispute-analysis",
+  "slug": "mediation-dispute-analysis-jinzhe-tan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mediation-dispute-analysis-jinzhe-tan/",
+  "download_url": "https://claudskills.com/skills/mediation-dispute-analysis-jinzhe-tan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this skill whenever a lawyer or mediator needs help analyzing a dispute for mediation purposes. This includes: reviewing case materials (pleadings, contracts, correspondence, evidence) to identify issues in dispute, summarizing each party's position and interests, conducting legal analysis of the key issues, proposing mediation strategies or settlement directions, and preparing for mediation sessions. Trigger this skill when the user mentions 'mediation', 'dispute analysis', 'settlement', 'dispute resolution', 'identify issues in dispute', 'party positions', 'mediation brief', 'case analysis for mediation', 'ADR', 'mediation preparation', 'caucus strategy', 'settlement options', or any request to analyze a conflict between two or more parties with the goal of finding resolution. Also trigger when the user uploads case files and asks for a structured breakdown of who wants what, what the core disagreements are, or how the case might settle. Even if the user doesn't explicitly say 'mediation', trigger when the context involves analyzing opposing positions in a dispute with a resolution-oriented (rather than litigation-oriented) goal.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

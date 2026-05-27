@@ -1,0 +1,18 @@
+{
+  "name": "vbs-scan-security",
+  "slug": "vbs-scan-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vbs-scan-security/",
+  "download_url": "https://claudskills.com/skills/vbs-scan-security/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when scanning code for security vulnerabilities. Use when user says \"scan security\", \"kiểm tra bảo mật\", \"security audit\", \"review security\", or invokes `/vbs-scan-security`. For large scans (>20 main-language files OR >30 total OR >14 days) processes chunks sequentially. Outputs bilingual reports (vi/en).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "tinman",
+  "slug": "tinman",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tinman/",
+  "download_url": "https://claudskills.com/skills/tinman/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security auditing and hardening for OpenClaw and system infrastructure.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

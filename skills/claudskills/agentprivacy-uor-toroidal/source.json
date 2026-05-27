@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-uor-toroidal",
+  "slug": "agentprivacy-uor-toroidal",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-uor-toroidal/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-uor-toroidal/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "UOR toroidal correspondence and manifold conjecture for 0xagentprivacy. Activates when discussing the toroidal manifold mapping, 96 vs 192 edge structures, conjectured ~3,000× ZKP reduction from lattice constraints, or the relationship between sovereignty geometry and proof efficiency. Speculative — marks conjectured claims clearly.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

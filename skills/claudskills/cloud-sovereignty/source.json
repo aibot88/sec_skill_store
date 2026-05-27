@@ -1,0 +1,18 @@
+{
+  "name": "cloud-sovereignty",
+  "slug": "cloud-sovereignty",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloud-sovereignty/",
+  "download_url": "https://claudskills.com/skills/cloud-sovereignty/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyseert cloud-architecturen op digitale soevereiniteitsrisico's, met focus op de Amerikaanse CLOUD Act, FISA 702, en extraterritoriale jurisdictie. Identificeert blootstellingspunten in dataflows, classificeert clouddiensten volgens het Nederlandse cloudbeleid (BZK CIO-Rijk), en adviseert BIO2-conforme soevereine alternatieven. Gebruik voor technische due diligence, vendor assessment, en architectuurreviews van cloud-migraties en SaaS-oplossingen met overheidsdata. Gebruik deze skill wanneer de gebruiker vraagt over 'CLOUD Act', 'soevereiniteit', 'digitale soevereiniteit', 'cloud classificatie', 'cloud governance', 'hyperscaler risico', 'extraterritoriale jurisdictie', 'FISA 702', 'data residency', 'data lokalisatie', 'soevereine cloud', 'BIO2 cloud', 'overheidscloud', 'cloud vendor lock-in', 'SaaS soevereiniteit', 'Amerikaanse cloudwetgeving', 'Patriot Act cloud', 'Executive Order 12333', 'GAIA-X', 'Franse cloud', 'SecNumCloud', 'EUCS', 'European Cybersecurity Certification', 'BBN cloud', 'BIO cloud maatregelen', 'vendor assessment overheid', 'DPIA cloud', 'DPF cloud', 'Data Privacy Framework', 'Schrems cloud', 'NDS cloud', of wanneer de gebruiker een cloud-architectuur wil toetsen op jurisdictierisico's of soevereine alternatieven wil evalueren.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

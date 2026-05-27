@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-forensic-defense",
+  "slug": "agentprivacy-forensic-defense",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-forensic-defense/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-forensic-defense/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Incident response, breach containment, damage assessment, and evidence preservation for 0xagentprivacy swordsman operations. Activates when a privacy breach is detected or suspected, when designing post-compromise recovery procedures, when building forensic audit capabilities, or when the swordsman must shift from prevention to damage control. Triggers: \"breach\", \"incident response\", \"compromise\", \"forensic\", \"damage assessment\", \"evidence preservation\", \"post-compromise\", \"breach containment\", \"data exposure\", \"leak detection\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

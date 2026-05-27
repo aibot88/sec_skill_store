@@ -1,0 +1,18 @@
+{
+  "name": "cryptotokenkit",
+  "slug": "cryptotokenkit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cryptotokenkit/",
+  "download_url": "https://claudskills.com/skills/cryptotokenkit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Access security tokens and smart cards using CryptoTokenKit. Use when building token driver extensions with TKTokenDriver and TKToken, communicating with smart cards via TKSmartCard, implementing certificate-based authentication, managing token sessions, or integrating hardware security tokens with the system keychain.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

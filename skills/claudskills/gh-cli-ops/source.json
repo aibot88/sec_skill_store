@@ -1,0 +1,18 @@
+{
+  "name": "gh-cli-ops",
+  "slug": "gh-cli-ops",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gh-cli-ops/",
+  "download_url": "https://claudskills.com/skills/gh-cli-ops/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "GitHub CLI (gh) operations for repos, PRs/issues, workflows/runs, secrets/variables, releases/tags, and deployment-related automation. Use when a request involves gh commands, GitHub Actions workflows/runs, secrets or variables, releases, deployments/environments, or coordinating git with GitHub.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

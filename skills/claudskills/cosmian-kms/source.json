@@ -1,0 +1,18 @@
+{
+  "name": "Cosmian KMS",
+  "slug": "cosmian-kms",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cosmian-kms/",
+  "download_url": "https://claudskills.com/skills/cosmian-kms/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guidance for Cosmian Key Management System including key generation, certificate management, encryption operations, access policies, and KMS CLI operations. Use this when working with Cosmian KMS, cryptographic key management, or Cosmian-specific PKI operations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

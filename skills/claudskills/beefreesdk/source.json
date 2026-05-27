@@ -1,0 +1,18 @@
+{
+  "name": "beefreesdk",
+  "slug": "beefreesdk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/beefreesdk/",
+  "download_url": "https://claudskills.com/skills/beefreesdk/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guidelines and best practices for building applications with [Beefree SDK](https://docs.beefree.io/beefree-sdk), including installation, authentication, configuration, customization, and template mana",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

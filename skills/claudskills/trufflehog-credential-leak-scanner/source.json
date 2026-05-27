@@ -1,0 +1,18 @@
+{
+  "name": "trufflehog-credential-leak-scanner",
+  "slug": "trufflehog-credential-leak-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/trufflehog-credential-leak-scanner/",
+  "download_url": "https://claudskills.com/skills/trufflehog-credential-leak-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Find, verify, and analyze leaked credentials across Git repositories, Slack, Jira, Docker images, and more using TruffleHog. Classifies 800+ secret types and validates whether discovered credentials are live.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

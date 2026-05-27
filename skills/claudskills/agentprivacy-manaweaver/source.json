@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-manaweaver",
+  "slug": "agentprivacy-manaweaver",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-manaweaver/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-manaweaver/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Pretext librarian and measurement-dark operator persona. Activates when discussing DOM-free measurement, pretext library integration, mana flow mechanics, or privacy-preserving browser rendering without fingerprinting.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

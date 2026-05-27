@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "hcassar93-meta-ads-cli-.",
+  "source": "github",
+  "source_url": "https://github.com/hcassar93/meta-ads-cli/blob/1e7f6b85cf48b7fb1e8b9e08adceba4451d46494/skill.md",
+  "download_url": "https://github.com/hcassar93/meta-ads-cli/blob/1e7f6b85cf48b7fb1e8b9e08adceba4451d46494/skill.md",
+  "external_source_url": "https://github.com/hcassar93/meta-ads-cli/blob/1e7f6b85cf48b7fb1e8b9e08adceba4451d46494/skill.md",
+  "license": "",
+  "description": "CLI tool for Meta Ads API on macOS with OAuth. Multi-profile management with campaigns and ad set insights.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "hcassar93/meta-ads-cli",
+    "path": "skill.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

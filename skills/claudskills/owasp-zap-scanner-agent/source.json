@@ -1,0 +1,18 @@
+{
+  "name": "owasp-zap-scanner-agent",
+  "slug": "owasp-zap-scanner-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/owasp-zap-scanner-agent/",
+  "download_url": "https://claudskills.com/skills/owasp-zap-scanner-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Integrates the OWASP ZAP API to run automated DAST scans against web applications. Parses ZAP JSON reports, triages alerts by CVSS severity, and generates remediation tickets via Jira REST API.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

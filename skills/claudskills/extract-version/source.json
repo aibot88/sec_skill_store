@@ -1,0 +1,18 @@
+{
+  "name": "extract-version",
+  "slug": "extract-version",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/extract-version/",
+  "download_url": "https://claudskills.com/skills/extract-version/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Parse and validate semantic version strings from various formats. Use for extracting versions from text, validating semver compliance, or comparing version numbers.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "healthcheck",
+  "slug": "healthcheck",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/healthcheck/",
+  "download_url": "https://claudskills.com/skills/healthcheck/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Host security hardening and risk-tolerance configuration for Otto deployments. Use when a user asks for security audits, firewall/SSH/update hardening, risk posture, exposure review, Otto cron scheduling for periodic checks, or version status checks on a machine running Otto (laptop, workstation, Pi, VPS).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

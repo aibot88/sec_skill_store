@@ -1,0 +1,18 @@
+{
+  "name": "waaseyaa:access-control",
+  "slug": "access-control",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/access-control/",
+  "download_url": "https://claudskills.com/skills/access-control/SKILL.md",
+  "external_source_url": "",
+  "license": "GPL-2.0",
+  "description": "Use when working with access policies, field access, authorization middleware, gates, route access control, AccessResult semantics, permission handlers, or files in packages/access/, packages/routing/src/AccessChecker.php, packages/user/src/Middleware/. Covers entity-level access (deny-by-default via isAllowed), field-level access (open-by-default via !isForbidden), the Gate system, route options (_public, _permission, _role, _gate), and the SessionMiddleware/AuthorizationMiddleware pipeline in public/index.php.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

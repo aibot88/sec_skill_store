@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "cholakovvv-foundry-poc-mainnet-fork-.",
+  "source": "github",
+  "source_url": "https://github.com/cholakovvv/foundry-poc-mainnet-fork/blob/e02ebcb75d41575eb69127039da3de85a7b72da5/SKILL.md",
+  "download_url": "https://github.com/cholakovvv/foundry-poc-mainnet-fork/blob/e02ebcb75d41575eb69127039da3de85a7b72da5/SKILL.md",
+  "external_source_url": "https://github.com/cholakovvv/foundry-poc-mainnet-fork/blob/e02ebcb75d41575eb69127039da3de85a7b72da5/SKILL.md",
+  "license": "",
+  "description": "Claude Code skill that produces submission-ready Foundry PoCs against mainnet-forked deployed contracts.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "cholakovvv/foundry-poc-mainnet-fork",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

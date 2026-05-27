@@ -1,0 +1,18 @@
+{
+  "name": "myco:add-symbiont",
+  "slug": "add-symbiont",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/add-symbiont/",
+  "download_url": "https://claudskills.com/skills/add-symbiont/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when adding a new symbiont (agent integration) to Myco's SymbiontInstaller — the component that manages agent lifecycle operations (init, update, remove, doctor) for all registered agents. Activates whenever you need to onboard a new AI agent (Claude Code, Cursor, Windsurf, a custom agent, etc.) so that `myco init`, `myco update`, and `myco doctor` manage its installation. Apply this skill even if the user doesn't explicitly mention SymbiontInstaller — any time you're adding a new agent type, creating a symbiont manifest, wiring new hook templates, or extending the supported agents list, this skill applies. Also relevant when a new symbiont needs the cross-platform hook guard or environment variable injection.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

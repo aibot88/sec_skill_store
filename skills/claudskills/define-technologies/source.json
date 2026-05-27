@@ -1,0 +1,18 @@
+{
+  "name": "define-technologies",
+  "slug": "define-technologies",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/define-technologies/",
+  "download_url": "https://claudskills.com/skills/define-technologies/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Capture the technology choices for the project — languages, frameworks, data stores, auth, and key libraries. Stack-neutral; presents options with tradeoffs. Use when the project-builder agent is gathering technology information.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

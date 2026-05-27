@@ -1,0 +1,18 @@
+{
+  "name": "implementing-devsecops-security-scanning",
+  "slug": "implementing-devsecops-security-scanning",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-devsecops-security-scanning/",
+  "download_url": "https://claudskills.com/skills/implementing-devsecops-security-scanning/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Integrates Static Application Security Testing (SAST), Dynamic Application Security Testing (DAST), and Software",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

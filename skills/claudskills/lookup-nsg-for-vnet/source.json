@@ -1,0 +1,18 @@
+{
+  "name": "lookup-nsg-for-vnet",
+  "slug": "lookup-nsg-for-vnet",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lookup-nsg-for-vnet/",
+  "download_url": "https://claudskills.com/skills/lookup-nsg-for-vnet/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Checks every subnet in a Virtual Network for an associated Network Security Group, and also inspects each NIC attached to those subnets for NIC-level NSG coverage.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "slug": "inf1n1tydes0ul-oneinfinity-docs",
+  "source": "github",
+  "source_url": "https://github.com/Inf1n1tyDeS0ul/oneinfinity/blob/ffe9b6e1cc0689a9e8a1d1fc271e799156548e36/docs/skill.md",
+  "download_url": "https://github.com/Inf1n1tyDeS0ul/oneinfinity/blob/ffe9b6e1cc0689a9e8a1d1fc271e799156548e36/docs/skill.md",
+  "external_source_url": "https://github.com/Inf1n1tyDeS0ul/oneinfinity/blob/ffe9b6e1cc0689a9e8a1d1fc271e799156548e36/docs/skill.md",
+  "license": "",
+  "description": "One&Infinity — Autonomous Penetration Testing & Bug Bounty AI Framework",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Inf1n1tyDeS0ul/oneinfinity",
+    "path": "docs/skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

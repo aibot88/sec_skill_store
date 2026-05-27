@@ -1,0 +1,18 @@
+{
+  "name": "data-cloud-provisioning",
+  "slug": "data-cloud-provisioning",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/data-cloud-provisioning/",
+  "download_url": "https://claudskills.com/skills/data-cloud-provisioning/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when enabling Data Cloud (Data 360) in an org, creating data spaces, assigning permission sets, registering ingestion API sources, or configuring activation targets. Triggers: 'enable data cloud', 'data spaces setup', 'data cloud permission sets', 'ingestion API connected app', 'activation target setup', 'data cloud licensing', 'dedicated home org vs existing org'. NOT for CRM Analytics configuration, SAQL/recipe authoring, or Data Cloud data model design after provisioning is complete.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

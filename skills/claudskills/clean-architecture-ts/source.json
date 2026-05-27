@@ -1,0 +1,18 @@
+{
+  "name": "clean-architecture-ts",
+  "slug": "clean-architecture-ts",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clean-architecture-ts/",
+  "download_url": "https://claudskills.com/skills/clean-architecture-ts/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Best practices for implementing Clean Architecture in Remix/TypeScript apps. Covers Service Layer, Repository Pattern, and Dependency Injection.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

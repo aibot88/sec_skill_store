@@ -1,0 +1,18 @@
+{
+  "name": "performing-log-analysis-for-forensic-investigation",
+  "slug": "performing-log-analysis-for-forensic-investigation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-log-analysis-for-forensic-investigation/",
+  "download_url": "https://claudskills.com/skills/performing-log-analysis-for-forensic-investigation/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Collect, parse, and correlate system, application, and security logs to reconstruct events and establish timelines",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

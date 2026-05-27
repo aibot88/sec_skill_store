@@ -1,0 +1,18 @@
+{
+  "name": "detecting-t1548-abuse-elevation-control-mechanism",
+  "slug": "detecting-t1548-abuse-elevation-control-mechanism",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-t1548-abuse-elevation-control-mechanism/",
+  "download_url": "https://claudskills.com/skills/detecting-t1548-abuse-elevation-control-mechanism/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect abuse of elevation control mechanisms including UAC bypass, sudo exploitation, and setuid/setgid manipulation",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

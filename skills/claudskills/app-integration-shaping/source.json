@@ -1,0 +1,18 @@
+{
+  "name": "app-integration-shaping",
+  "slug": "app-integration-shaping",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/app-integration-shaping/",
+  "download_url": "https://claudskills.com/skills/app-integration-shaping/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Decide how an external app or service should be integrated, including boundaries, auth scopes, ownership, and failure handling.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "brief",
+  "slug": "brief",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/brief/",
+  "download_url": "https://claudskills.com/skills/brief/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate contextual briefings for legal work — daily summary, topic research, or incident response. Use when starting your day and need a scan of legal-relevant items across email, calendar, and contracts, when researching a specific legal question across internal sources, or when a developing situation (data breach, litigation threat, regulatory inquiry) needs rapid context.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

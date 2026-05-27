@@ -1,0 +1,18 @@
+{
+  "name": "anth-data-handling",
+  "slug": "anth-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/anth-data-handling/",
+  "download_url": "https://claudskills.com/skills/anth-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement data privacy, PII handling, and compliance patterns for Claude API. Use when handling sensitive data, implementing PII redaction, or configuring data retention for GDPR/CCPA compliance with Claude. Trigger with phrases like \"anthropic data privacy\", \"claude PII\", \"anthropic gdpr\", \"claude data handling\", \"redact data claude\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Identity & Authentication",
+  "slug": "identity-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/identity-auth/",
+  "download_url": "https://claudskills.com/skills/identity-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Identity management and authentication systems. Activate when: (1) Configuring Keycloak realms/clients, (2) Writing OPA policies, (3) Managing Vault secrets, (4) Implementing OIDC/OAuth2 flows, or (5) Setting up RBAC/ABAC authorization.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

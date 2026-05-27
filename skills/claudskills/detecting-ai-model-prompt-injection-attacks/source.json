@@ -1,0 +1,18 @@
+{
+  "name": "detecting-ai-model-prompt-injection-attacks",
+  "slug": "detecting-ai-model-prompt-injection-attacks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-ai-model-prompt-injection-attacks/",
+  "download_url": "https://claudskills.com/skills/detecting-ai-model-prompt-injection-attacks/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detects prompt injection attacks targeting LLM-based applications using a multi-layered defense combining regex",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

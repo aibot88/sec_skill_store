@@ -1,0 +1,18 @@
+{
+  "name": "prism-full",
+  "slug": "prism-full",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prism-full/",
+  "download_url": "https://claudskills.com/skills/prism-full/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Full Prism: multi-pass structural analysis with mandatory adversarial self-correction. Designs custom analytical passes, executes them with chaining, then attacks its own findings before synthesizing. Use for maximum depth on important code or artifacts.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

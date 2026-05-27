@@ -1,0 +1,18 @@
+{
+  "name": "groq-security-basics",
+  "slug": "groq-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/groq-security-basics/",
+  "download_url": "https://claudskills.com/skills/groq-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Groq security best practices for API key management and data protection. Use when securing API keys, implementing least privilege access, or auditing Groq security configuration. Trigger with phrases like \"groq security\", \"groq secrets\", \"secure groq\", \"groq API key security\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:10+00:00"
+}

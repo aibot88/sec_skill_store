@@ -1,0 +1,18 @@
+{
+  "name": "snarkvm-review",
+  "slug": "snarkvm-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/snarkvm-review/",
+  "download_url": "https://claudskills.com/skills/snarkvm-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Security-focused PR review for snarkVM codebase. WHEN: User says \"review PR\", \"audit PR\", \"security review\", \"check PR changes\", or wants thorough analysis of PR changes for bugs/vulnerabilities. WHEN NOT: Fixing review feedback (use snarkvm-fix pr), fetching context only (use snarkvm-github), or fixing issues (use snarkvm-fix).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

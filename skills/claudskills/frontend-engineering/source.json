@@ -1,0 +1,18 @@
+{
+  "name": "frontend-engineering",
+  "slug": "frontend-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/frontend-engineering/",
+  "download_url": "https://claudskills.com/skills/frontend-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Domain specialist for frontend architecture, state management, accessibility, and performance. Scope: component architecture, state management (Pinia, Vuex, Redux), accessibility (WCAG), responsive design, lazy loading, asset optimization, XSS prevention, CSP, frontend performance. Excludes: backend code, infrastructure, API design, security beyond XSS, performance profiling beyond frontend. Triggers: \"frontend\", \"React\", \"Vue\", \"Angular\", \"component\", \"state management\", \"accessibility\", \"WCAG\", \"responsive\", \"XSS\", \"CSP\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

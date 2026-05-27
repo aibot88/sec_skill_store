@@ -1,0 +1,18 @@
+{
+  "name": "AnnualReports",
+  "slug": "annualreports",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/annualreports/",
+  "download_url": "https://claudskills.com/skills/annualreports/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Annual security report aggregation and analysis. USE WHEN annual reports, security reports, threat reports, industry reports, update reports, analyze reports, vendor reports, threat landscape.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

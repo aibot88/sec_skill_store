@@ -1,0 +1,18 @@
+{
+  "name": "azure-cost-optimization",
+  "slug": "azure-cost-optimization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-cost-optimization/",
+  "download_url": "https://claudskills.com/skills/azure-cost-optimization/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Identify and quantify cost savings across Azure subscriptions by analyzing actual costs, utilization metrics, and generating actionable optimization recommendations. USE FOR: optimize Azure costs, reduce Azure spending, reduce Azure expenses, analyze Azure costs, find cost savings, generate cost optimization report, find orphaned resources, rightsize VMs, cost analysis, reduce waste, Azure spending analysis, find unused resources, optimize Redis costs. DO NOT USE FOR: deploying resources (use azure-deploy), general Azure diagnostics (use azure-diagnostics), security issues (use azure-security)",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

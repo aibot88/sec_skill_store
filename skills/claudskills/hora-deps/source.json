@@ -1,0 +1,18 @@
+{
+  "name": "hora-deps",
+  "slug": "hora-deps",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hora-deps/",
+  "download_url": "https://claudskills.com/skills/hora-deps/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Dependency audit and smart update — scan outdated packages, check vulnerabilities, update with automatic testing. Use when user says deps, dependencies, outdated, update packages, npm audit, vulnerabilities, security audit deps, upgrade, bump versions. Do NOT use for security code audit — use hora-security. Do NOT use for installing new packages — just npm install.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

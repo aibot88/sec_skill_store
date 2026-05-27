@@ -1,0 +1,18 @@
+{
+  "name": "windows-hook-debugging",
+  "slug": "windows-hook-debugging",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/windows-hook-debugging/",
+  "download_url": "https://claudskills.com/skills/windows-hook-debugging/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Windows环境下Claude Code插件Hook执行错误的诊断与修复。当遇到hook error、cannot execute binary file、.sh regex误匹配、WSL/Git Bash冲突时使用。",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

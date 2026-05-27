@@ -1,0 +1,18 @@
+{
+  "name": "enterprise-code-analyzer",
+  "slug": "enterprise-code-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/enterprise-code-analyzer/",
+  "download_url": "https://claudskills.com/skills/enterprise-code-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Three-tier enterprise code analysis system. Tier 1 analyzes individual repositories (structure, patterns, dependencies, memory). Tier 2 maps cross-repository relationships (API contracts, shared libraries, service coupling). Tier 3 provides enterprise governance (technology portfolio, technical debt, security audit, strategic recommendations). Generates local .memory folders, .cursorrules files, and governance reports.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

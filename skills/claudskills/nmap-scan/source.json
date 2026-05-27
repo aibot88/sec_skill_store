@@ -1,0 +1,18 @@
+{
+  "name": "nmap-scan",
+  "slug": "nmap-scan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nmap-scan/",
+  "download_url": "https://claudskills.com/skills/nmap-scan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "使用 nmap 进行端口扫描和服务识别。当需要对目标进行精细端口扫描、服务版本探测、操作系统指纹识别、NSE 脚本漏洞扫描时使用。nmap 是最经典的网络扫描器，支持 SYN/TCP/UDP/ACK 等多种扫描模式，内置 600+ NSE 脚本。任何涉及端口扫描、服务识别、漏洞脚本扫描、操作系统指纹的场景都应使用此技能。速度不如 naabu，但功能远超 naabu",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

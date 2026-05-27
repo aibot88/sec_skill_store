@@ -1,0 +1,18 @@
+{
+  "name": "monocloud-auth-nextjs",
+  "slug": "monocloud-auth-nextjs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/monocloud-auth-nextjs/",
+  "download_url": "https://claudskills.com/skills/monocloud-auth-nextjs/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when integrating MonoCloud authentication into a Next.js application — installing or configuring `@monocloud/auth-nextjs`, wiring `authMiddleware()` in `proxy.ts`/`middleware.ts`, reading sessions with `getSession()`/`useAuth()`, protecting routes/pages/APIs with `protect()`/`protectApi()`/`protectPage()`/`protectClientPage()`, rendering `<SignIn>`/`<SignUp>`/`<SignOut>`/`<Protected>`/`<RedirectToSignIn>`, calling `getTokens()`, or troubleshooting MonoCloud env vars (`MONOCLOUD_AUTH_*`), cookie sessions, or auth routes (`/api/auth/signin`, `/callback`, `/userinfo`, `/signout`).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

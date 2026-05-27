@@ -1,0 +1,18 @@
+{
+  "name": "maintenance-scheduling",
+  "slug": "maintenance-scheduling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/maintenance-scheduling/",
+  "download_url": "https://claudskills.com/skills/maintenance-scheduling/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze preventive and predictive maintenance scheduling systems including CMMS/EAM work order optimization, asset condition scoring with Facility Condition Index, PM compliance tracking, maintenance backlog reduction, reliability-centered maintenance strategy, spare parts inventory management, and regulatory compliance for fire/life safety and elevator inspections per ASHRAE and BOMA standards.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

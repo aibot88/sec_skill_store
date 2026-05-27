@@ -1,0 +1,18 @@
+{
+  "name": "audit-deps",
+  "slug": "audit-deps",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-deps/",
+  "download_url": "https://claudskills.com/skills/audit-deps/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit open dependabot PRs in this repo. Spawns one investigator per PR (each with a codebase-walk sub-agent), produces a comparison table with per-PR risk + recommendation, and proposes a merge order that minimizes rebase churn. Audit-only — stops at recommendations; user authorizes execution. Use when dependabot has stacked up multiple open PRs and you want a structured pass before merging.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

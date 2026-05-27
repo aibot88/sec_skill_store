@@ -1,0 +1,18 @@
+{
+  "name": "firebase",
+  "slug": "firebase",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase/",
+  "download_url": "https://claudskills.com/skills/firebase/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Firebase gives you a complete backend in minutes - auth, database, storage, functions, hosting. But the ease of setup hides real complexity. Security rules are your last line of defense, and they'r...",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "manage-kubernetes-secrets",
+  "slug": "manage-kubernetes-secrets",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/manage-kubernetes-secrets/",
+  "download_url": "https://claudskills.com/skills/manage-kubernetes-secrets/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Sicheres Secrets-Management in Kubernetes implementieren — mit SealedSecrets fuer GitOps, External Secrets Operator fuer Cloud-Secret-Manager und Rotationsstrategien. TLS-Zertifikate, API-Schluessel und Credentials mit Verschluesselung im Ruhezustand und RBAC-Kontrollen verwalten. Einsatz beim Speichern sensibler Konfiguration fuer Kubernetes-Anwendungen, beim Implementieren von GitOps wo Secrets versioniert werden muessen, bei der Integration mit AWS Secrets Manager oder Azure Key Vault, beim Rotieren von Credentials ohne Ausfallzeit oder bei der Migration von Klartext-Secrets zu verschluesselten Loesungen.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

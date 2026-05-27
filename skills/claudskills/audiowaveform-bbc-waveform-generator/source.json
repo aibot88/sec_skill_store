@@ -1,0 +1,18 @@
+{
+  "name": "audiowaveform-bbc-waveform-generator",
+  "slug": "audiowaveform-bbc-waveform-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audiowaveform-bbc-waveform-generator/",
+  "download_url": "https://claudskills.com/skills/audiowaveform-bbc-waveform-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "audiowaveform is a BBC open-source C++ CLI tool that generates waveform data from MP3, WAV, FLAC, Ogg Vorbis, and Opus audio files. It outputs binary or JSON waveform data and renders PNG waveform images at configurable zoom levels.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

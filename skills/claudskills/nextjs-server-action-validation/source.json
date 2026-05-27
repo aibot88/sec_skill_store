@@ -1,0 +1,18 @@
+{
+  "name": "nextjs-server-action-validation",
+  "slug": "nextjs-server-action-validation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nextjs-server-action-validation/",
+  "download_url": "https://claudskills.com/skills/nextjs-server-action-validation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when writing a Next.js Server Action that accepts user-submitted form data, mutation parameters, or any client-originated input. Every Server Action is a public HTTP endpoint regardless of how it is called — validate with Zod and check authentication as the first two operations before touching the database. Do NOT use for GET route handlers or Server Components that fetch data (those have no user-supplied input); do NOT use for Stripe webhook handlers (use stripe-webhook-signature-verification instead).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

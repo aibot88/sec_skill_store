@@ -1,0 +1,19 @@
+{
+  "name": "elicit",
+  "slug": "4797pnkkx5-gif-ai-augmented-re-skills-elicit",
+  "source": "github",
+  "source_url": "https://github.com/4797pnkkx5-gif/AI-Augmented-RE/blob/c19785a3df14dc819ff9b2cc113347c5bac403ad/skills/elicit/skill.md",
+  "download_url": "https://github.com/4797pnkkx5-gif/AI-Augmented-RE/blob/c19785a3df14dc819ff9b2cc113347c5bac403ad/skills/elicit/skill.md",
+  "external_source_url": "https://github.com/4797pnkkx5-gif/AI-Augmented-RE/blob/c19785a3df14dc819ff9b2cc113347c5bac403ad/skills/elicit/skill.md",
+  "license": "",
+  "description": "AI-Augmented Requirements Engineering — portable RE framework for Claude Code and GitHub Copilot",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "4797pnkkx5-gif/AI-Augmented-RE",
+    "path": "skills/elicit/skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

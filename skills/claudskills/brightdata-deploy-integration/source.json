@@ -1,0 +1,18 @@
+{
+  "name": "brightdata-deploy-integration",
+  "slug": "brightdata-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/brightdata-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/brightdata-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Bright Data integrations to Vercel, Fly.io, and Cloud Run platforms. Use when deploying Bright Data-powered applications to production, configuring platform-specific secrets, or setting up deployment pipelines. Trigger with phrases like \"deploy brightdata\", \"brightdata Vercel\", \"brightdata production deploy\", \"brightdata Cloud Run\", \"brightdata Fly.io\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

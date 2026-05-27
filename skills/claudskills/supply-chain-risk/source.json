@@ -1,0 +1,18 @@
+{
+  "name": "supply-chain-risk",
+  "slug": "supply-chain-risk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supply-chain-risk/",
+  "download_url": "https://claudskills.com/skills/supply-chain-risk/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Assess supply chain risk exposure and resilience posture. Analyzes supplier dependency mapping (Tier 1/2/3), geographic concentration risk, single-source vulnerability, disruption scenario modeling (pandemic, trade war, port closure), Monte Carlo simulation, financial health monitoring (Altman Z-score), early warning systems, compliance tracking (UFLPA, conflict minerals, sanctions), ESG supply chain scoring, and mitigation strategy evaluation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

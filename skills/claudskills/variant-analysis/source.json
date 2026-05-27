@@ -1,0 +1,18 @@
+{
+  "name": "variant-analysis",
+  "slug": "variant-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/variant-analysis/",
+  "download_url": "https://claudskills.com/skills/variant-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Find similar vulnerabilities and bugs across codebases using pattern-based analysis. Use when hunting bug variants, building CodeQL/Semgrep queries, analyzing security vulnerabilities, or performing systematic code audits after finding an initial issue.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

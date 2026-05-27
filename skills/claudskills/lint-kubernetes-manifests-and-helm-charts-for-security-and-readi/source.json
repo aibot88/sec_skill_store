@@ -1,0 +1,18 @@
+{
+  "name": "lint-kubernetes-manifests-and-helm-charts-for-security-and-readi",
+  "slug": "lint-kubernetes-manifests-and-helm-charts-for-security-and-readi",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lint-kubernetes-manifests-and-helm-charts-for-security-and-readi/",
+  "download_url": "https://claudskills.com/skills/lint-kubernetes-manifests-and-helm-charts-for-security-and-readi/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run a static policy pass over Kubernetes YAML before misconfigurations, missing limits, or risky defaults reach a cluster.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

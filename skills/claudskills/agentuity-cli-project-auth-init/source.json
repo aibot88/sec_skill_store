@@ -1,0 +1,18 @@
+{
+  "name": "agentuity-cli-project-auth-init",
+  "slug": "agentuity-cli-project-auth-init",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentuity-cli-project-auth-init/",
+  "download_url": "https://claudskills.com/skills/agentuity-cli-project-auth-init/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Set up Agentuity Auth for your project. Requires authentication. Use for managing authentication credentials",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

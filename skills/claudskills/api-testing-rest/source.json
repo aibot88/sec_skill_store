@@ -1,0 +1,18 @@
+{
+  "name": "API Testing REST",
+  "slug": "api-testing-rest",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-testing-rest/",
+  "download_url": "https://claudskills.com/skills/api-testing-rest/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive RESTful API testing patterns covering HTTP methods, status codes, request/response validation, authentication, error handling, and contract testing.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

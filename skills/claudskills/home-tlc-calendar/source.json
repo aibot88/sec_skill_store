@@ -1,0 +1,18 @@
+{
+  "name": "home-tlc-calendar",
+  "slug": "home-tlc-calendar",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/home-tlc-calendar/",
+  "download_url": "https://claudskills.com/skills/home-tlc-calendar/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Annual home-maintenance calendar by home type (apartment / freestanding / period / coastal), AU-state-specific compliance tasks (smoke alarms, gutters, pool).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "personal-productivity",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

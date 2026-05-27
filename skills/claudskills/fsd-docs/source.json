@@ -1,0 +1,18 @@
+{
+  "name": "fsd-docs",
+  "slug": "fsd-docs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fsd-docs/",
+  "download_url": "https://claudskills.com/skills/fsd-docs/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Feature-Sliced Design (FSD) v2.1 공식 문서를 Progressive Disclosure 방식으로 제공하는 지식 스킬. 레이어/슬라이스/세그먼트, Public API, cross-imports, v2.0→v2.1 pages-first 마이그레이션, Next.js·NuxtJS·React Query·SvelteKit·Electron 통합, Authentication·i18n·Types·Theme·SSR 등 실무 가이드를 포함한다. 사용자가 FSD·Feature-Sliced·레이어 구조·슬라이스·pages-first·FSD 도입/마이그레이션을 언급하거나, 프론트엔드 폴더 구조·아키텍처 방법론에 대해 질문할 때 참고할 관련 섹션을 references/ 에서 로드해 답한다. Triggers — \"FSD\", \"Feature-Sliced\", \"레이어\", \"슬라이스\", \"pages-first\", \"v2.1 마이그레이션\", \"FSD 도입\", \"프론트엔드 아키텍처\".",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "env-health",
+  "slug": "env-health",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/env-health/",
+  "download_url": "https://claudskills.com/skills/env-health/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Diagnose and fix Laravel environment configuration issues, cache problems, and database connection errors. Use when user reports \"configuration not applied\", \"database connection error\", \"SQLite connection attempt\", \"hosts array is empty\", or any environment-related issues. Also use after .env file modifications.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

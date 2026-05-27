@@ -1,0 +1,18 @@
+{
+  "name": "raam-audit",
+  "slug": "raam-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/raam-audit/",
+  "download_url": "https://claudskills.com/skills/raam-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit mobile applications (iOS and Android) against RAAM 1.1 (Luxembourg Mobile Accessibility Assessment Framework). Use when reviewing existing mobile app code for accessibility compliance, generating audit reports, checking conformance levels, or preparing for Luxembourg accessibility certification. Covers all 15 themes with platform-specific test procedures. Default target: Level AA.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

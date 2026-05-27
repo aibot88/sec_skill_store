@@ -1,0 +1,18 @@
+{
+  "name": "drizzle-migrations",
+  "slug": "drizzle-migrations",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/drizzle-migrations/",
+  "download_url": "https://claudskills.com/skills/drizzle-migrations/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage database schema with Drizzle ORM and SQLite migrations. Use when adding tables, modifying columns, creating indexes, or running migrations. Activates for database schema changes, migration generation, and Drizzle query patterns.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

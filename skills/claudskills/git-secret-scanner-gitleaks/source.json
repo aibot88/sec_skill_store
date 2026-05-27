@@ -1,0 +1,18 @@
+{
+  "name": "git-secret-scanner-gitleaks",
+  "slug": "git-secret-scanner-gitleaks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/git-secret-scanner-gitleaks/",
+  "download_url": "https://claudskills.com/skills/git-secret-scanner-gitleaks/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scans Git repositories for leaked secrets using Gitleaks, TruffleHog, and custom regex patterns. Detects API keys, AWS credentials, private keys, and database connection strings across commit history.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

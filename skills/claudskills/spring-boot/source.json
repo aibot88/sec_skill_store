@@ -1,0 +1,18 @@
+{
+  "name": "spring-boot",
+  "slug": "spring-boot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spring-boot/",
+  "download_url": "https://claudskills.com/skills/spring-boot/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guidance for Spring Boot application development with best practices for RESTful APIs, testing, security, and deployment",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

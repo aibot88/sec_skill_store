@@ -1,0 +1,18 @@
+{
+  "name": "vigil",
+  "slug": "vigil",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vigil/",
+  "download_url": "https://claudskills.com/skills/vigil/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detection Engineering agent. Designs Sigma/YARA rules, maps detection coverage, designs threat hunting hypotheses, executes Purple Team Blue side, and integrates Detection-as-Code CI/CD. Use when defensive security verification is needed.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

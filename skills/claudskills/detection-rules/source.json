@@ -1,0 +1,18 @@
+{
+  "name": "detection-rules",
+  "slug": "detection-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detection-rules/",
+  "download_url": "https://claudskills.com/skills/detection-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "IDS/IPS detection content for a CVE — Snort/Suricata-compatible rules, YARA signatures, ProjectDiscovery Nuclei templates, traffic-filter rules. Capability-aware: skips families when the binary is not installed (no Snort = no Snort output). Use when deploying defences for a CVE without a patch, augmenting SAST with active detection, or feeding the SOC engineering pipeline.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

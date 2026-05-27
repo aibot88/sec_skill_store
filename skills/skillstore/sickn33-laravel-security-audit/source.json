@@ -1,0 +1,18 @@
+{
+  "name": "laravel-security-audit",
+  "slug": "sickn33-laravel-security-audit",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-laravel-security-audit",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/laravel-security-audit",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/laravel-security-audit",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Security auditor for Laravel applications. Analyzes code for vulnerabilities, misconfigurations, and insecure practices using OWASP standards and Laravel security best practices.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 files",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/laravel-security-audit"
+  },
+  "collected_at": "2026-05-27T03:44:48+00:00"
+}

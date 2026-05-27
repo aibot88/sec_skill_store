@@ -1,0 +1,18 @@
+{
+  "name": "vps-security-hardening",
+  "slug": "vps-security-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vps-security-hardening/",
+  "download_url": "https://claudskills.com/skills/vps-security-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit and harden VPS security — fail2ban, SSH hardening, firewall setup",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

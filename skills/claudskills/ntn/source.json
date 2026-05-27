@@ -1,0 +1,18 @@
+{
+  "name": "Notion CLI (ntn)",
+  "slug": "ntn",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ntn/",
+  "download_url": "https://claudskills.com/skills/ntn/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CLI for Notion — authenticate, manage Workers, interact with the Notion API, and upload files. Use when an agent needs to create or query Notion pages, manage databases, upload files to Notion, or deploy Notion Workers.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

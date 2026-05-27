@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-enclave-operations",
+  "slug": "agentprivacy-enclave-operations",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-enclave-operations/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-enclave-operations/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Trusted Execution Environment operations for 0xagentprivacy swordsman agents. Activates when designing hardware-backed computation, implementing remote attestation, managing sealed storage, or building agent operations within TEE boundaries where even the host OS is untrusted. Triggers: \"TEE\", \"enclave\", \"trusted execution\", \"attestation\", \"sealed storage\", \"secure enclave\", \"SGX\", \"TrustZone\", \"SEV\", \"confidential computing\", \"hardware trust\", \"NEAR TEE\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

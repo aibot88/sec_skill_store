@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-swordsman-browser",
+  "slug": "agentprivacy-swordsman-browser",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-swordsman-browser/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-swordsman-browser/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Swordsman browser agent for 0xagentprivacy MyTerms integration. Activates when discussing browser extension architecture, cookie-slashing implementation, tracker blocking, consent enforcement at the browser level, or the Warden's operational domain.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "api-key-auth-setup",
+  "slug": "api-key-auth-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-key-auth-setup/",
+  "download_url": "https://claudskills.com/skills/api-key-auth-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Api Key Auth Setup - Auto-activating skill for API Development. Triggers on: api key auth setup, api key auth setup Part of the API Development skill category.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

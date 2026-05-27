@@ -1,0 +1,18 @@
+{
+  "name": "gemini-session-management",
+  "slug": "gemini-session-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gemini-session-management/",
+  "download_url": "https://claudskills.com/skills/gemini-session-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Central authority for Gemini CLI session management. Covers session resume, retention policies, session browser, and cleanup. Use when resuming Gemini sessions, configuring retention, browsing past sessions, or managing session storage. Delegates 100% to gemini-cli-docs for official documentation.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

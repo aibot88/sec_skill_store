@@ -1,0 +1,18 @@
+{
+  "name": "discover-api",
+  "slug": "cc-polymath-discover-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cc-polymath-discover-api/",
+  "download_url": "https://claudskills.com/skills/cc-polymath-discover-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automatically discover API design skills when working with REST APIs, GraphQL schemas, API authentication, OAuth, JWT, rate limiting, API versioning, error handling, or endpoint design. Activates for backend API development tasks.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "math-stats",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ctf-solve",
+  "slug": "ctf-solve",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ctf-solve/",
+  "download_url": "https://claudskills.com/skills/ctf-solve/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CTF 综合解题编排器。当面对未知类型的 CTF 挑战、需要自动分析挑战类型并选择正确解题路径时使用。自动调度对应的专项 skill（pwn/crypto/web/reverse/forensics/osint/malware/misc），适合给定挑战文件或服务端点但不确定属于哪个类别的场景",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "firebase-authentication-patterns",
+  "slug": "firebase-authentication-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-authentication-patterns/",
+  "download_url": "https://claudskills.com/skills/firebase-authentication-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Firebase Authentication implementation patterns including sign-in/sign-up flows, OAuth providers, session management, protected routes, password reset, email verification, and error handling. Keywords: \"auth\", \"authentication\", \"sign-in\", \"sign-up\", \"oauth\", \"session\", \"protected route\"",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

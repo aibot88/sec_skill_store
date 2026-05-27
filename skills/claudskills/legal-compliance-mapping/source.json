@@ -1,0 +1,18 @@
+{
+  "name": "legal-compliance-mapping",
+  "slug": "legal-compliance-mapping",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/legal-compliance-mapping/",
+  "download_url": "https://claudskills.com/skills/legal-compliance-mapping/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Map accessibility audit results to legal frameworks: Section 508, ADA, EN 301 549, EAA, AODA. Generate VPAT 2.5 conformance tables.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:30+00:00"
+}

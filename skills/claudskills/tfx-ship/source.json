@@ -1,0 +1,18 @@
+{
+  "name": "tfx-ship",
+  "slug": "tfx-ship",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tfx-ship/",
+  "download_url": "https://claudskills.com/skills/tfx-ship/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "triflux 전용 릴리즈 자동화. 기존 scripts/release/* 래퍼 + AskUserQuestion 기반 버전 선택 + CHANGELOG 편집 게이트 + Co-Authored-By/AI trailer 금지 강제. 'ship', '배포', '릴리즈', 'release', 'tfx-ship', 'publish' 같은 요청에 반드시 사용.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "finance-personal",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

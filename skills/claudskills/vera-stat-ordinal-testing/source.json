@@ -1,0 +1,18 @@
+{
+  "name": "vera-stat-ordinal-testing",
+  "slug": "vera-stat-ordinal-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vera-stat-ordinal-testing/",
+  "download_url": "https://claudskills.com/skills/vera-stat-ordinal-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Runs distribution diagnostics and primary hypothesis tests for ordinal outcome variables. Produces frequency tables, cumulative proportions, ordinal bar chart, and one fully interpreted nonparametric group comparison (Mann-Whitney U for 2 groups or Kruskal-Wallis for 3+ groups) with effect sizes (rank-biserial r or Cliff's delta) and Jonckheere-Terpstra trend test. Ends with a recommendation block listing additional analyses available. Outputs .R and .py scripts with 2 publication-quality plots. Triggered when user has an ordinal outcome and says \"ordinal outcome,\" \"Likert scale,\" \"ordered categories,\" \"rating scale,\" \"severity levels,\" \"none/mild/moderate/ severe,\" \"low/medium/high,\" \"improvement levels,\" \"ranked outcome,\" \"ordered factor,\" or names an ordinal variable like satisfaction, severity, agreement, stage, grade, rating. Does not handle continuous, binary, count, survival, repeated measures, or SEM outcomes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

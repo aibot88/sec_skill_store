@@ -1,0 +1,18 @@
+{
+  "name": "audit-python-environments-and-requirements-files-for-known-vulne",
+  "slug": "audit-python-environments-and-requirements-files-for-known-vulne",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-python-environments-and-requirements-files-for-known-vulne/",
+  "download_url": "https://claudskills.com/skills/audit-python-environments-and-requirements-files-for-known-vulne/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Check Python environments and requirements files for published vulnerabilities before shipping, upgrading, or approving dependency changes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

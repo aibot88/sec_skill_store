@@ -1,0 +1,18 @@
+{
+  "name": "chatbot-multilingual",
+  "slug": "chatbot-multilingual",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chatbot-multilingual/",
+  "download_url": "https://claudskills.com/skills/chatbot-multilingual/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Architecture for locale-routed chatbot system prompts and per-locale context files in this portfolio. Use when modifying src/app/api/chat/route.ts, when the chatbot is producing off-register or wrong-language replies, when adding a new locale to the chatbot, when authoring or translating src/content/chatbot-context*.md files, or when debugging why the chatbot \"sounds English\" in non-EN locales.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

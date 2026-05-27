@@ -1,0 +1,18 @@
+{
+  "name": "boofuzz",
+  "slug": "boofuzz-fuzzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/boofuzz-fuzzer/",
+  "download_url": "https://claudskills.com/skills/boofuzz-fuzzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Protocol fuzzer script development using boofuzz framework. Use when creating network protocol fuzzers, defining protocol PDUs (Protocol Data Units), writing mutation-based fuzzing scripts, or contributing to the boofuzz project. Covers binary protocol definitions, session management, crash detection, and reporting findings.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

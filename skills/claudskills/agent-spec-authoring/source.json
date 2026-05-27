@@ -1,0 +1,18 @@
+{
+  "name": "agent-spec-authoring",
+  "slug": "agent-spec-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-spec-authoring/",
+  "download_url": "https://claudskills.com/skills/agent-spec-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CRITICAL: Use for writing and editing agent-spec .spec/.spec.md files. Triggers on: write spec, create spec, edit spec, new spec, spec authoring, task contract, .spec file, .spec.md file, BDD scenario, acceptance criteria, completion criteria, test selector, boundary, constraint, intent, decision, out of scope, \"how to write a spec\", \"spec format\", \"spec syntax\", \"contract quality\", 写 spec, 创建规格, 编辑合约, 任务合约, 验收标准, 完成条件, BDD 场景, 测试选择器, 约束, 意图, 决策, 边界, 排除范围, \"怎么写 spec\", \"spec 格式\", \"spec 语法\", \"合约质量\"",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

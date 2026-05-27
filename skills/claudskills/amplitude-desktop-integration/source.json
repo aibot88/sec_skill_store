@@ -1,0 +1,18 @@
+{
+  "name": "amplitude-desktop-integration",
+  "slug": "amplitude-desktop-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/amplitude-desktop-integration/",
+  "download_url": "https://claudskills.com/skills/amplitude-desktop-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Integrate Amplitude analytics with privacy controls for desktop applications",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

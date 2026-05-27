@@ -1,0 +1,18 @@
+{
+  "name": "parallel-dispatch",
+  "slug": "parallel-dispatch",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/parallel-dispatch/",
+  "download_url": "https://claudskills.com/skills/parallel-dispatch/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "把工作拆成安全、独立、可并行的子任务，并协调 subagent 避免重复劳动和冲突修改。适用于 Claude Code 通过清晰 delegation 能显著加速复杂任务时。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "performing-memory-forensics-with-volatility3-plugins",
+  "slug": "performing-memory-forensics-with-volatility3-plugins",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-memory-forensics-with-volatility3-plugins/",
+  "download_url": "https://claudskills.com/skills/performing-memory-forensics-with-volatility3-plugins/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Analyze memory dumps using Volatility3 plugins to detect injected code, rootkits, credential theft, and malware",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agent-payment-integration",
+  "slug": "agent-payment-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-payment-integration/",
+  "download_url": "https://claudskills.com/skills/agent-payment-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Expert payment integration specialist mastering payment gateway integration, PCI compliance, and financial transaction processing. Specializes in secure payment flows, multi-currency support, and fraud prevention with focus on reliability, compliance, and seamless user experience.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

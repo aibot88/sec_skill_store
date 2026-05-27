@@ -1,0 +1,18 @@
+{
+  "name": "workflow-pr-review",
+  "slug": "workflow-pr-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/workflow-pr-review/",
+  "download_url": "https://claudskills.com/skills/workflow-pr-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when reviewing a remote GitHub PR — fetches into an ephemeral worktree, runs the reviewer agent with a Review Decision footer instruction, deduplicates findings against existing review threads (±5-line fuzzy match + Jaccard ≥ 0.4 against any author), posts new inline comments via gh-api, adds 👍 reactions on dedup matches, and submits the review with APPROVE or COMMENT. Counterpart of local-diff review (which workflow-development Phase 4 keeps using).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-holographic-bound",
+  "slug": "agentprivacy-holographic-bound",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-holographic-bound/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-holographic-bound/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Holographic boundary principle for 0xagentprivacy V5. Activates when discussing the 96/64 resolution, boundary-encodes-volume, differential form computation on ∂M, P^1.5 ↔ 96/64 conjecture (C6), boundary sufficiency, or how the lattice surface IS the holographic encoding of the bulk.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-creative",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ecosystem-authoritative-sources",
+  "slug": "ecosystem-authoritative-sources",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ecosystem-authoritative-sources/",
+  "download_url": "https://claudskills.com/skills/ecosystem-authoritative-sources/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides information about how to create, structure, install, and audit Agent Skills, Plugins, Antigravity Workflows, and Sub-agents. Trigger this when specifications, rules, or best practices for the ecosystem are required.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

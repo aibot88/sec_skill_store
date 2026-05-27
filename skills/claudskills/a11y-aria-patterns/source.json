@@ -1,0 +1,18 @@
+{
+  "name": "a11y-aria-patterns",
+  "slug": "a11y-aria-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/a11y-aria-patterns/",
+  "download_url": "https://claudskills.com/skills/a11y-aria-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when the user asks about ARIA, ARIA roles, ARIA attributes, aria-label, aria-labelledby, aria-describedby, aria-expanded, aria-hidden, aria-live, aria-required, aria-invalid, \"WAI-ARIA\", \"ARIA Authoring Practices\", \"APG pattern\", \"accessible name\", \"accessible description\", live regions, custom widgets, dialogs, menus, tabs, accordions, comboboxes, tooltips, tree views, carousels, or is building any custom interactive component that requires ARIA roles and keyboard behavior beyond native HTML elements.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "kompliance-x",
+  "slug": "kompliance-x",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kompliance-x/",
+  "download_url": "https://claudskills.com/skills/kompliance-x/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Performs intelligent compliance audits for software projects. Automatically detects which regulatory frameworks (GDPR, HIPAA, PCI-DSS, CCPA, SOC 2) apply based on project analysis and user context. Provides tiered reports with executive summaries and detailed technical findings. Use when the user asks about compliance, regulatory requirements, security standards, data protection, or wants to audit their codebase for legal/regulatory adherence.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

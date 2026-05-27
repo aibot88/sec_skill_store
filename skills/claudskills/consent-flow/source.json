@@ -1,0 +1,18 @@
+{
+  "name": "consent-flow",
+  "slug": "consent-flow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/consent-flow/",
+  "download_url": "https://claudskills.com/skills/consent-flow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generates GDPR/CCPA/DPDP privacy consent flows with granular category preferences, consent state persistence, audit logging, and ATT (App Tracking Transparency) integration. Use when user needs privacy consent UI, cookie/tracking consent, or compliance management.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

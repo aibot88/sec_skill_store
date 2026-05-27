@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "kevinrabun-judges-skills",
+  "source": "github",
+  "source_url": "https://github.com/KevinRabun/judges/blob/8432a667142535f2e7fa4126d7b6e18d7c9a7978/skills/release-gate.skill.md",
+  "download_url": "https://github.com/KevinRabun/judges/blob/8432a667142535f2e7fa4126d7b6e18d7c9a7978/skills/release-gate.skill.md",
+  "external_source_url": "https://github.com/KevinRabun/judges/blob/8432a667142535f2e7fa4126d7b6e18d7c9a7978/skills/release-gate.skill.md",
+  "license": "",
+  "description": "MCP server with specialized judges to evaluate AI-generated code for security, cost, scalability, cloud readiness, and best practices.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "KevinRabun/judges",
+    "path": "skills/release-gate.skill.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

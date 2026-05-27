@@ -1,0 +1,18 @@
+{
+  "name": "google-chat",
+  "slug": "google-chat",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-chat/",
+  "download_url": "https://claudskills.com/skills/google-chat/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Interact with Google Chat - list spaces, send messages, read conversations, and manage DMs. Use when user asks to: send a message on Google Chat, read chat messages, list chat spaces, find a chat room, send a DM, or create a new chat space. Lightweight alternative to full Google Workspace MCP server with standalone OAuth authentication.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "communication",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

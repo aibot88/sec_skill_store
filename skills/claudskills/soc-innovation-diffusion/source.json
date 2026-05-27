@@ -1,0 +1,18 @@
+{
+  "name": "soc-innovation-diffusion",
+  "slug": "soc-innovation-diffusion",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/soc-innovation-diffusion/",
+  "download_url": "https://claudskills.com/skills/soc-innovation-diffusion/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply Rogers' Diffusion of Innovations theory to analyze how new products, ideas, or technologies spread through populations. Use this skill when the user needs to plan adoption strategy, segment adopters, cross the chasm from early adopters to mainstream, or predict adoption curves — even if they say 'how do we get more people to use this', 'why isn't our product taking off', or 'how do we reach the mainstream'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

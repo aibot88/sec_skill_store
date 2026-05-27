@@ -1,0 +1,18 @@
+{
+  "name": "build-perf-diagnostics",
+  "slug": "build-perf-diagnostics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/build-perf-diagnostics/",
+  "download_url": "https://claudskills.com/skills/build-perf-diagnostics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Diagnose MSBuild build performance bottlenecks using binary log analysis. Only activate in MSBuild/.NET build context. USE FOR: identifying why builds are slow by analyzing binlog performance summaries, detecting ResolveAssemblyReference (RAR) taking >5s, Roslyn analyzers consuming >30% of Csc time, single targets dominating >50% of build time, node utilization below 80%, excessive Copy tasks, NuGet restore running every build. Covers timeline analysis, Target/Task Performance Summary interpretation, and 7 common bottleneck categories. Use after build-perf-baseline has established measurements. DO NOT USE FOR: establishing initial baselines (use build-perf-baseline first), fixing incremental build issues (use incremental-build), parallelism tuning (use build-parallelism), non-MSBuild build systems. INVOKES: dotnet msbuild binlog replay with performancesummary, grep for analysis.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "performance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "toolchain-utilities-interpreter",
+  "slug": "toolchain-utilities-interpreter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/toolchain-utilities-interpreter/",
+  "download_url": "https://claudskills.com/skills/toolchain-utilities-interpreter/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Explica el propósito y uso de cada herramienta comprimida y utilidad del repositorio de fabricante en el contexto del desarrollo de proyectos de domótica. Activa cuando el usuario menciona: tool, herramienta, utility, utilidad, toolchain, development environment, entorno de desarrollo, CH340, WinHex, serial monitor, serial terminal, flash tool, JPGCompact, sscom, network debug, red debug, flash download tool, esptool, Arduino IDE, ESP-IDF, image compression, hex editor, firmware inspection, driver installation, o cuando se necesita entender qué hace una herramienta del repositorio y cómo configurarla. Usar SIEMPRE después de document-structure-mapper cuando se detecten herramientas comprimidas o utilidades en el repositorio.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

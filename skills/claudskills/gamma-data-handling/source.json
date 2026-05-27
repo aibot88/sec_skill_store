@@ -1,0 +1,18 @@
+{
+  "name": "gamma-data-handling",
+  "slug": "gamma-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gamma-data-handling/",
+  "download_url": "https://claudskills.com/skills/gamma-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Handle data privacy, retention, and compliance for Gamma integrations. Use when implementing GDPR compliance, data retention policies, or managing user data within Gamma workflows. Trigger with phrases like \"gamma data\", \"gamma privacy\", \"gamma GDPR\", \"gamma data retention\", \"gamma compliance\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

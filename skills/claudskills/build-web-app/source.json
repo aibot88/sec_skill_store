@@ -1,0 +1,18 @@
+{
+  "name": "build-web-app",
+  "slug": "build-web-app",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/build-web-app/",
+  "download_url": "https://claudskills.com/skills/build-web-app/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build a SaaS web application using the Fireact framework (Firebase + React + TypeScript + Stripe). Triggers on \"build a web app\", \"create a SaaS app\", \"scaffold SaaS application\", \"fireact app\", \"SaaS with auth and billing\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

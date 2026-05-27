@@ -1,0 +1,18 @@
+{
+  "name": "postgres-rls",
+  "slug": "postgres-rls",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/postgres-rls/",
+  "download_url": "https://claudskills.com/skills/postgres-rls/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guides agents implementing or auditing PostgreSQL Row Level Security in a multi-tenant SaaS codebase. Covers ENABLE+FORCE pairing, USING+WITH CHECK policies, view bypass via security_invoker, SET LOCAL for connection pool safety, superuser/owner bypass detection, and materialized view risks. Do NOT use for application-level authorization logic (use nextauth-patterns), non-PostgreSQL databases, or application query tier questions (use multi-tenancy-rls for orgQuery() usage).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:56+00:00"
+}

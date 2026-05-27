@@ -1,0 +1,18 @@
+{
+  "name": "diagrams-architect",
+  "slug": "diagrams-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/diagrams-architect/",
+  "download_url": "https://claudskills.com/skills/diagrams-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Mermaid diagrams following C4 Model and SpecWeave conventions - system architecture, sequence, ER, deployment diagrams. Use for architecture visualization.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

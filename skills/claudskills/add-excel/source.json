@@ -1,0 +1,18 @@
+{
+  "name": "add-excel",
+  "slug": "add-excel",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/add-excel/",
+  "download_url": "https://claudskills.com/skills/add-excel/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Adds Excel Online (Business) connector to a Power Apps code app. Use when reading or writing Excel workbook data from OneDrive or SharePoint.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

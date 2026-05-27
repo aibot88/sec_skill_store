@@ -1,0 +1,18 @@
+{
+  "name": "performing-soap-web-service-security-testing",
+  "slug": "performing-soap-web-service-security-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-soap-web-service-security-testing/",
+  "download_url": "https://claudskills.com/skills/performing-soap-web-service-security-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Perform security testing of SOAP web services by analyzing WSDL definitions and testing for XML injection, XXE,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

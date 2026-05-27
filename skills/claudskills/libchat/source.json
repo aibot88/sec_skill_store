@@ -1,0 +1,18 @@
+{
+  "name": "libchat",
+  "slug": "libchat",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/libchat/",
+  "download_url": "https://claudskills.com/skills/libchat/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "libchat - Chat web components library. ChatClient provides composed client for authentication, API communication, and state management. ChatDrawerElement and ChatPageElement are custom elements for embedding chat interfaces. Framework-agnostic using Web Components standard. Use for building chat UIs, embedding conversational AI in websites, and creating dedicated chat pages.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

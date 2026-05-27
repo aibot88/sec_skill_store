@@ -1,0 +1,18 @@
+{
+  "name": "bkend-auth",
+  "slug": "bkend-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bkend-auth/",
+  "download_url": "https://claudskills.com/skills/bkend-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "bkend.ai authentication — email/social login, JWT tokens, RBAC, session management. Triggers: bkend auth, login, signup, JWT, RBAC, 인증, 로그인, 회원가입.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

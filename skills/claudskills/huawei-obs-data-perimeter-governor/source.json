@@ -1,0 +1,18 @@
+{
+  "name": "huawei-obs-data-perimeter-governor",
+  "slug": "huawei-obs-data-perimeter-governor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/huawei-obs-data-perimeter-governor/",
+  "download_url": "https://claudskills.com/skills/huawei-obs-data-perimeter-governor/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Govern Huawei Cloud OBS (Object Storage Service) data perimeters — bucket policy and ACL public exposure, Block Public Access configuration, VPC endpoint binding for private access, WORM (Object Lock), cross-region replication compliance, and MLPS 2.0 data residency enforcement.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gamma-deploy-integration",
+  "slug": "gamma-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gamma-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/gamma-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Gamma-integrated applications to production environments. Use when deploying to Vercel, AWS, GCP, or other cloud platforms with proper secret management and configuration. Trigger with phrases like \"gamma deploy\", \"gamma production\", \"gamma vercel\", \"gamma AWS\", \"gamma cloud deployment\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

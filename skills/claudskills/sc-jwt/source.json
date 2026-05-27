@@ -1,0 +1,18 @@
+{
+  "name": "sc-jwt",
+  "slug": "sc-jwt",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sc-jwt/",
+  "download_url": "https://claudskills.com/skills/sc-jwt/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "JWT implementation flaw detection — algorithm confusion, weak secrets, missing validation, and storage issues",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

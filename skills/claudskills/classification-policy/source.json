@@ -1,0 +1,18 @@
+{
+  "name": "classification-policy",
+  "slug": "classification-policy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/classification-policy/",
+  "download_url": "https://claudskills.com/skills/classification-policy/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Develops data classification policies with tiered handling (public, internal, confidential, restricted), labeling requirements, enforcement mechanisms, and procedures per tier. Covers policy governance, exception handling, and compliance monitoring. Keywords: classification policy, data tiers, handling procedures, labeling, enforcement, data governance, information security.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

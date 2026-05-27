@@ -1,0 +1,18 @@
+{
+  "name": "connected-apps-and-auth",
+  "slug": "connected-apps-and-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/connected-apps-and-auth/",
+  "download_url": "https://claudskills.com/skills/connected-apps-and-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing, reviewing, or troubleshooting Salesforce connected apps, Named Credentials, External Credentials, and OAuth-based integration access. Triggers: 'connected app', 'OAuth flow', 'client credentials', 'JWT bearer', 'Named Credential', 'External Credential', 'integration user', 'IP restrictions'. NOT for business-user sharing or field permissions unless the auth design depends on them.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

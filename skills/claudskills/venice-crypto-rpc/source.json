@@ -1,0 +1,18 @@
+{
+  "name": "venice-crypto-rpc",
+  "slug": "venice-crypto-rpc",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/venice-crypto-rpc/",
+  "download_url": "https://claudskills.com/skills/venice-crypto-rpc/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use Venice as a pay-per-call JSON-RPC proxy to 20+ EVM and Starknet networks. Covers GET /crypto/rpc/networks, POST /crypto/rpc/{network}, the 1×/2×/4× method-tier pricing model, per-minute + 24-hour credit rate limits, idempotency keys for safe retries, single vs batch requests, and the unsupported stateful/WebSocket methods (eth_subscribe, eth_newFilter, etc.).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

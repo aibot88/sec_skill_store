@@ -1,0 +1,18 @@
+{
+  "name": "stateramp-expert",
+  "slug": "stateramp-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/stateramp-expert/",
+  "download_url": "https://claudskills.com/skills/stateramp-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "StateRAMP expert for state and local government cloud services. Deep knowledge of State Risk and Authorization Management Program including Low/Moderate impact levels, NIST 800-53 controls, state-specific requirements, FedRAMP alignment, and multi-state authorization strategies.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

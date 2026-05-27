@@ -1,0 +1,18 @@
+{
+  "name": "github-actions-security-hardening",
+  "slug": "github-actions-security-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-actions-security-hardening/",
+  "download_url": "https://claudskills.com/skills/github-actions-security-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Enforce secure GitHub Actions posture with least-privilege tokens, pinned dependencies, runner risk controls, and workflow supply-chain checks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

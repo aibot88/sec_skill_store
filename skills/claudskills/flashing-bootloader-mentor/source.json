@@ -1,0 +1,18 @@
+{
+  "name": "flashing-bootloader-mentor",
+  "slug": "flashing-bootloader-mentor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flashing-bootloader-mentor/",
+  "download_url": "https://claudskills.com/skills/flashing-bootloader-mentor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Procesa las herramientas e instrucciones de flasheo de un repositorio de fabricante y crea guías interactivas paso a paso para flashear firmware en microcontroladores ESP32 sin errores. Activa cuando el usuario menciona: flashing, grabación, firmware upload, bootloader, esptool, flash download tool, COM port, serial port, firmware update, burn firmware, grabar firmware, ESP32 flash, boot mode, download mode, UART download, grabar dispositivo, flashear, o cuando un estudiante necesita instrucciones para cargar firmware en un microcontrolador. Usar SIEMPRE después de peripheral-code-wizard cuando el código generado necesita ser flasheado en el dispositivo.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

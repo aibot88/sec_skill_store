@@ -1,0 +1,18 @@
+{
+  "name": "access-control-rbac",
+  "slug": "access-control-rbac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/access-control-rbac/",
+  "download_url": "https://claudskills.com/skills/access-control-rbac/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Role-Based Access Control (RBAC), permissions management, and authorization policies. Use when building secure access control systems with fine-grained permissions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

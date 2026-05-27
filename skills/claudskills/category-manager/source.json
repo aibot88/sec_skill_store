@@ -1,0 +1,18 @@
+{
+  "name": "category-manager",
+  "slug": "category-manager",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/category-manager/",
+  "download_url": "https://claudskills.com/skills/category-manager/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Branch skill for building and improving categories. Use when creating new categories, validating category structure, improving existing categories, or migrating categories to new standard. Triggers: 'create category', 'improve category', 'validate category structure', 'fix category', 'category compliance', 'migrate category', 'JARVIS-XX structure', 'CLAUDE.md structure', 'settings.json format', 'self-improvement cycle'.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

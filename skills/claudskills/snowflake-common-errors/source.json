@@ -1,0 +1,18 @@
+{
+  "name": "snowflake-common-errors",
+  "slug": "snowflake-common-errors",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/snowflake-common-errors/",
+  "download_url": "https://claudskills.com/skills/snowflake-common-errors/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Diagnose and fix common Snowflake errors and SQL compilation failures. Use when encountering Snowflake error codes, failed queries, authentication issues, or warehouse/connection problems. Trigger with phrases like \"snowflake error\", \"fix snowflake\", \"snowflake not working\", \"snowflake SQL error\", \"snowflake 002003\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

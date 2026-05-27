@@ -1,0 +1,18 @@
+{
+  "name": "google-workspace-access",
+  "slug": "google-workspace-access",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-workspace-access/",
+  "download_url": "https://claudskills.com/skills/google-workspace-access/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Master credential reference for all Google Workspace APIs — Gmail (IMAP/SMTP), Google Drive, Sheets, Docs, and Calendar. Covers Service Account delegation, OAuth flows, and API-first rules. Use when: connecting to any Google API. Skip when: you already have the right auth method.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "personal-productivity",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

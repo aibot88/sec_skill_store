@@ -1,0 +1,18 @@
+{
+  "name": "vault-secrets-rotation-orchestrator",
+  "slug": "vault-secrets-rotation-orchestrator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vault-secrets-rotation-orchestrator/",
+  "download_url": "https://claudskills.com/skills/vault-secrets-rotation-orchestrator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automates HashiCorp Vault secret rotation using the Vault HTTP API and dynamic secrets engines. Manages database credential leases, PKI certificate renewal, and AWS STS token rotation with zero-downtime rollover.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "knowledge-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

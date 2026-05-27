@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "ercan-er-htmx-claude-skill-.",
+  "source": "github",
+  "source_url": "https://github.com/ercan-er/htmx-claude-skill/blob/c2c86e1f00b612f60fb983eb3a21a3514f0b5e14/SKILL.md",
+  "download_url": "https://github.com/ercan-er/htmx-claude-skill/blob/c2c86e1f00b612f60fb983eb3a21a3514f0b5e14/SKILL.md",
+  "external_source_url": "https://github.com/ercan-er/htmx-claude-skill/blob/c2c86e1f00b612f60fb983eb3a21a3514f0b5e14/SKILL.md",
+  "license": "",
+  "description": "Strict production-grade HTMX skill for Claude, Cursor & Codex. Enforces HTML-over-the-wire, server-driven UI, fragment architecture and anti-SPA best practices.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "ercan-er/htmx-claude-skill",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

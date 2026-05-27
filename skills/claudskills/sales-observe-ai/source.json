@@ -1,0 +1,18 @@
+{
+  "name": "sales-observe-ai",
+  "slug": "sales-observe-ai",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-observe-ai/",
+  "download_url": "https://claudskills.com/skills/sales-observe-ai/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Observe.AI platform help — enterprise contact center intelligence with Auto QA scoring on 100% of interactions, Agent Copilot real-time guidance, Coaching Copilot post-call performance management, VoiceAI and ChatAI virtual agents, screen recording, Insights Copilot. Use when setting up Observe.AI Auto QA scorecards for contact center agents, Agent Copilot not surfacing guidance during live calls, transcription accuracy issues or speaker attribution errors, comparing Observe.AI vs Balto or Cresta or CallMiner for contact center QA, integrating Observe.AI with Five9 or Amazon Connect or Talkdesk, or configuring compliance monitoring and regulatory audit trails. Do NOT use for building a general coaching program (use /sales-coaching) or reviewing a specific call transcript (use /sales-call-review).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "deal-management",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

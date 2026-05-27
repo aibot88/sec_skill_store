@@ -1,0 +1,18 @@
+{
+  "name": "keycloak-administration",
+  "slug": "keycloak-administration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/keycloak-administration/",
+  "download_url": "https://claudskills.com/skills/keycloak-administration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides comprehensive KeyCloak administration guidance including realm management, user/group administration, client configuration, authentication flows, identity brokering, authorization policies, security hardening, and troubleshooting. Covers SSO configuration, SAML/OIDC setup, role-based access control (RBAC), user federation (LDAP/AD), social login integration, multi-factor authentication (MFA), and high availability deployments. Use when configuring KeyCloak, setting up SSO, managing realms and clients, troubleshooting authentication issues, implementing RBAC, or when users mention \"KeyCloak\", \"SSO\", \"OIDC\", \"SAML\", \"identity provider\", \"IAM\", \"authentication flow\", \"user federation\", \"realm configuration\", or \"access management\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

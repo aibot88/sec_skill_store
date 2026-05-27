@@ -1,0 +1,18 @@
+{
+  "name": "attio-install-auth",
+  "slug": "attio-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/attio-install-auth/",
+  "download_url": "https://claudskills.com/skills/attio-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Set up Attio REST API authentication with access tokens or OAuth 2.0. Use when configuring API keys, setting token scopes, initializing the Attio client, or connecting an app via OAuth. Trigger: \"install attio\", \"setup attio\", \"attio auth\", \"attio API key\", \"attio OAuth\", \"attio access token\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

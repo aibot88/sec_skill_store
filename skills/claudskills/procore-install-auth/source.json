@@ -1,0 +1,18 @@
+{
+  "name": "procore-install-auth",
+  "slug": "procore-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/procore-install-auth/",
+  "download_url": "https://claudskills.com/skills/procore-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Procore install auth — construction management platform integration. Use when working with Procore API for project management, RFIs, or submittals. Trigger with phrases like \"procore install auth\", \"procore-install-auth\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

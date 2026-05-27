@@ -1,0 +1,18 @@
+{
+  "name": "techsmith-install-auth",
+  "slug": "techsmith-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/techsmith-install-auth/",
+  "download_url": "https://claudskills.com/skills/techsmith-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install TechSmith Snagit COM API and register the COM server for automation. Use when setting up Snagit automation, configuring COM interop, or initializing Camtasia batch processing. Trigger: \"install techsmith, setup snagit, techsmith COM API\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

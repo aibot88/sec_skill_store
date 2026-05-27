@@ -1,0 +1,18 @@
+{
+  "name": "squad",
+  "slug": "squad",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/squad/",
+  "download_url": "https://claudskills.com/skills/squad/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Multi-agent advisory squad workflow for implementing or reviewing code changes. Two modes — implement (default) runs classify → score risk → select agents → planner → Gate 1 → advisory squad → Gate 2 → implementer → consolidator → verdict; review runs advisory-only on an existing diff/branch/PR/commit. Dispatches named subagents (architect, dba, developer, reviewer, security, qa, tech-lead-planner, tech-lead-consolidator, product-owner); each scores its dimension 0-100 and the consolidator weights them into a rubric scorecard with APPROVED/CHANGES_REQUIRED/REJECTED verdict. Triggers: \"run the squad\", \"advisory review\", \"implement with squad\", \"code review by specialists\", \"review this PR\", \"review my diff\", \"review my branch\", \"implement this feature\", \"build this with the squad\", \"/squad:implement\", \"/squad:review\". Example: \"/squad:implement --normal add OAuth login flow\" or \"/squad:review --deep main..feature/auth-rewrite\". For decision-only (no code yet), use /brainstorm. For plan stress-test, use /squad:grillme.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

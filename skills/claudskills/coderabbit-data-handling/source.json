@@ -1,0 +1,18 @@
+{
+  "name": "coderabbit-data-handling",
+  "slug": "coderabbit-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/coderabbit-data-handling/",
+  "download_url": "https://claudskills.com/skills/coderabbit-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement CodeRabbit PII handling, data retention, and GDPR/CCPA compliance patterns. Use when handling sensitive data, implementing data redaction, configuring retention policies, or ensuring compliance with privacy regulations for CodeRabbit integrations. Trigger with phrases like \"coderabbit data\", \"coderabbit PII\", \"coderabbit GDPR\", \"coderabbit data retention\", \"coderabbit privacy\", \"coderabbit CCPA\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

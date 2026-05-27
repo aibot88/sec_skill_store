@@ -1,0 +1,18 @@
+{
+  "name": "infrastructure-verification",
+  "slug": "infrastructure-verification-awannaphasch2016-agent-kernel-mcp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/infrastructure-verification-awannaphasch2016-agent-kernel-mcp/",
+  "download_url": "https://claudskills.com/skills/infrastructure-verification-awannaphasch2016-agent-kernel-mcp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Verify AWS infrastructure configuration before deployment. Use when validating VPC endpoints, NAT Gateway capacity, security groups, or debugging network path issues that cause Lambda connection timeouts.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

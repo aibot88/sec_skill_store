@@ -1,0 +1,18 @@
+{
+  "name": "finalize-pr",
+  "slug": "finalize-pr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/finalize-pr/",
+  "download_url": "https://claudskills.com/skills/finalize-pr/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automatically finalize pull requests for merge by resolving CodeQL violations, review threads, merge conflicts, and CI failures. Handles single PR (current branch or by number), all open PRs in the repo, or all open PRs across the org. Includes bot-authored PRs in all modes.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

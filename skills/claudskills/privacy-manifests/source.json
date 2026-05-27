@@ -1,0 +1,18 @@
+{
+  "name": "privacy-manifests",
+  "slug": "privacy-manifests",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/privacy-manifests/",
+  "download_url": "https://claudskills.com/skills/privacy-manifests/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Privacy manifest (PrivacyInfo.xcprivacy) implementation including required reason APIs, tracking domains, third-party SDK declarations, and App Tracking Transparency. Use when preparing apps for App Store privacy requirements.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "1c-ssl-patterns",
+  "slug": "1c-ssl-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/1c-ssl-patterns/",
+  "download_url": "https://claudskills.com/skills/1c-ssl-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "SSL/БСП subsystems guidance and search via 1c-mcp_ssl_server MCP. Use when working with standard library subsystems - users, files, print forms, background jobs, email, common utilities.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

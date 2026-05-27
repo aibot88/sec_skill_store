@@ -1,0 +1,18 @@
+{
+  "name": "test-detect",
+  "slug": "test-detect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/test-detect/",
+  "download_url": "https://claudskills.com/skills/test-detect/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Auto-detect testing framework and run relevant tests. Identifies Jest, Vitest, Playwright, Cypress, pytest, Go test, and others. Can run all tests, specific file tests, or generate basic tests for new code. Usage - /test-detect, /test-detect src/auth/login.ts, /test-detect generate src/utils.ts",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

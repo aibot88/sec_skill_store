@@ -1,0 +1,18 @@
+{
+  "name": "convex-authentication",
+  "slug": "convex-authentication",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/convex-authentication/",
+  "download_url": "https://claudskills.com/skills/convex-authentication/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Set up and manage user authentication using Convex Auth with login, signup, password reset, and user profile initialization. Use when implementing auth flows, managing user sessions, initializing user profiles, or handling authentication state.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

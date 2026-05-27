@@ -1,0 +1,18 @@
+{
+  "name": "generate-report-header",
+  "slug": "generate-report-header",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/generate-report-header/",
+  "download_url": "https://claudskills.com/skills/generate-report-header/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create standardized report headers with metadata for all agent-generated reports. Use when generating bug reports, security audits, dependency reports, or any worker output requiring consistent formatting.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:05+00:00"
+}

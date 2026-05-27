@@ -1,0 +1,18 @@
+{
+  "name": "oauth-token-management",
+  "slug": "oauth-token-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oauth-token-management/",
+  "download_url": "https://claudskills.com/skills/oauth-token-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when work depends on how Salesforce OAuth access and refresh tokens are issued, refreshed, rotated, revoked, or introspected for a Connected App or API client—including unexpected logouts, invalid_grant after refresh, or designing token incident response. NOT for choosing which OAuth grant or Connected App flow to implement (use integration/oauth-flows-and-connected-apps), Named Credential packaging (use integration/named-credentials-setup), or broad Connected App IP and PKCE policy hardening without a token-lifecycle angle (use security/connected-app-security-policies).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

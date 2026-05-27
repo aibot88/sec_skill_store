@@ -1,0 +1,18 @@
+{
+  "name": "auditing-milestones",
+  "slug": "auditing-milestones",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auditing-milestones/",
+  "download_url": "https://claudskills.com/skills/auditing-milestones/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this skill to verify milestone achievement against its definition of done, checking requirements coverage, cross-phase integration, and end-to-end flows. Triggers include \"audit milestone\", \"verify milestone\", \"check milestone\", and \"milestone audit\". This skill reads existing phase verification files, aggregates technical debt and gaps, and spawns an integration checker for cross-phase wiring.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

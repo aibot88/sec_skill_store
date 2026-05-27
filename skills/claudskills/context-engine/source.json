@@ -1,0 +1,18 @@
+{
+  "name": "context-engine",
+  "slug": "context-engine",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/context-engine/",
+  "download_url": "https://claudskills.com/skills/context-engine/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Loads and manages company context for all C-suite advisor skills. Reads ~/.claude/company-context.md, detects stale context (>90 days), enriches context during conversations, and enforces privacy/anonymization rules before external API calls.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

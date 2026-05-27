@@ -1,0 +1,17 @@
+{
+  "name": "test-audit-badge",
+  "slug": "test-audit-badge-1deayq",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/test-audit-badge-1deayq",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/tezatezaz/test-audit-badge/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/tezatezaz/test-audit-badge/SKILL.md",
+  "license": "",
+  "description": "Test skill to demonstrate the audit badge; do not use",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=1"
+  },
+  "collected_at": "2026-05-27T03:44:40+00:00"
+}

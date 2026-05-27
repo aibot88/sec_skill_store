@@ -1,0 +1,18 @@
+{
+  "name": "ai-check",
+  "slug": "ai-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-check/",
+  "download_url": "https://claudskills.com/skills/ai-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect AI/LLM-generated text patterns in research writing. Use when: (1) Reviewing manuscript drafts before submission, (2) Pre-commit validation of documentation, (3) Quality assurance checks on research artifacts, (4) Ensuring natural academic writing style, (5) Tracking writing authenticity over time. Analyzes grammar perfection, sentence uniformity, paragraph structure, word frequency (AI-typical words like 'delve', 'leverage', 'robust'), punctuation patterns, and transition word overuse.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

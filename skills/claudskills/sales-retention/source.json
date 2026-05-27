@@ -1,0 +1,18 @@
+{
+  "name": "sales-retention",
+  "slug": "sales-retention",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-retention/",
+  "download_url": "https://claudskills.com/skills/sales-retention/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Retention.com platform help — ecommerce identity resolution that identifies anonymous website visitors and converts them to email/SMS contacts. Covers Grow (10x email list growth from identified visitors), Reclaim (abandonment flow recovery for events missed by Klaviyo/Elevar), retargeting activation across email/SMS/push/paid channels, tracking pixel setup, Shopify integration, compliance (CCPA, implicit consent model), and API (suppression uploads, webhooks). Use when most site visitors leave anonymous and you can't email them, Klaviyo is missing abandonment events, identified contacts are hitting spam, or you're not sure if Retention.com is worth it vs RB2B or Opensend. Do NOT use for B2B visitor identification (use /sales-rb2b), email marketing strategy (use /sales-email-marketing), or email list growth strategy across tools (use /sales-audience-growth).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

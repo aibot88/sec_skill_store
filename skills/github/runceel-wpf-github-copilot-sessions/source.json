@@ -1,0 +1,19 @@
+{
+  "name": "sessions",
+  "slug": "runceel-wpf-github-copilot-sessions",
+  "source": "github",
+  "source_url": "https://github.com/runceel/wpf-github-copilot/blob/e5b3f1d5dcf37574f3d41d72aa36655ad9bb8224/sessions/002-skill.md",
+  "download_url": "https://github.com/runceel/wpf-github-copilot/blob/e5b3f1d5dcf37574f3d41d72aa36655ad9bb8224/sessions/002-skill.md",
+  "external_source_url": "https://github.com/runceel/wpf-github-copilot/blob/e5b3f1d5dcf37574f3d41d72aa36655ad9bb8224/sessions/002-skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "runceel/wpf-github-copilot",
+    "path": "sessions/002-skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

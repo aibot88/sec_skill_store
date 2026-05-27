@@ -1,0 +1,18 @@
+{
+  "name": "project-logger",
+  "slug": "project-logger",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/project-logger/",
+  "download_url": "https://claudskills.com/skills/project-logger/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "SQLite-based project documentation logger for tracking API references, components, and project progress. Use this skill when documenting code changes, adding API documentation, recording component updates, or tracking project milestones. Automatically invoked when user mentions documentation, changelog, API docs, component docs, or project updates.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

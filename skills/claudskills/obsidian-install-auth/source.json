@@ -1,0 +1,18 @@
+{
+  "name": "obsidian-install-auth",
+  "slug": "obsidian-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/obsidian-install-auth/",
+  "download_url": "https://claudskills.com/skills/obsidian-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Set up Obsidian plugin development environment with Node.js and TypeScript. Use when starting a new plugin project, configuring the dev environment, or initializing Obsidian plugin development from scratch. Trigger with phrases like \"obsidian setup\", \"obsidian plugin dev\", \"create obsidian plugin\", \"obsidian development environment\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

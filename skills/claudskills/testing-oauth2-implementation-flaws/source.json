@@ -1,0 +1,18 @@
+{
+  "name": "testing-oauth2-implementation-flaws",
+  "slug": "testing-oauth2-implementation-flaws",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/testing-oauth2-implementation-flaws/",
+  "download_url": "https://claudskills.com/skills/testing-oauth2-implementation-flaws/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Tests OAuth 2.0 and OpenID Connect implementations for security flaws including authorization code interception,",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

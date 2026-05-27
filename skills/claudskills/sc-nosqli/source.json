@@ -1,0 +1,18 @@
+{
+  "name": "sc-nosqli",
+  "slug": "sc-nosqli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sc-nosqli/",
+  "download_url": "https://claudskills.com/skills/sc-nosqli/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "NoSQL Injection detection for MongoDB, Redis, CouchDB, and Elasticsearch",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

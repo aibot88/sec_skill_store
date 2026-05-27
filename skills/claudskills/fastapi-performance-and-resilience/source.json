@@ -1,0 +1,18 @@
+{
+  "name": "fastapi-performance-and-resilience",
+  "slug": "fastapi-performance-and-resilience",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastapi-performance-and-resilience/",
+  "download_url": "https://claudskills.com/skills/fastapi-performance-and-resilience/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when hardening a scaffolded FastAPI service for load and failure after performance budgets and SLO targets are approved or deferred. Adds async-path discipline, the worker model, pool sizing, caching, breakers/bulkheads, retry budgets, and a CI load-test gate. Not for the shell, auth, observability, or tasks.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

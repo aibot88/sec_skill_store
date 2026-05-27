@@ -1,0 +1,18 @@
+{
+  "name": "api-fuzzing-for-bug-bounty",
+  "slug": "api-fuzzing-for-bug-bounty",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-fuzzing-for-bug-bounty/",
+  "download_url": "https://claudskills.com/skills/api-fuzzing-for-bug-bounty/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when the user asks to \"test API security\", \"fuzz APIs\", \"find IDOR vulnerabilities\", \"test REST API\", \"test GraphQL\", \"API penetration testing\", \"bug bounty API testing\", or needs guidance on API security assessment techniques.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

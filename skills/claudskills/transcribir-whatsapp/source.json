@@ -1,0 +1,18 @@
+{
+  "name": "transcribir-whatsapp",
+  "slug": "transcribir-whatsapp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/transcribir-whatsapp/",
+  "download_url": "https://claudskills.com/skills/transcribir-whatsapp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Transcribe audios (notas de voz de WhatsApp y otros formatos: .ogg, .opus, .mp3, .m4a, .wav, .webm) a texto en español, y encadena automáticamente con el flujo procesos/procesar-audio.md para crear las actividades CRM en Holded y actualizar las fichas del brain. Usar SIEMPRE que el usuario adjunte uno o varios archivos de audio o pida \"transcribe esto\", \"pásalo a texto\", \"transcribe el audio de X\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

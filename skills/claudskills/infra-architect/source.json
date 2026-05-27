@@ -1,0 +1,18 @@
+{
+  "name": "infra-architect",
+  "slug": "infra-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/infra-architect/",
+  "download_url": "https://claudskills.com/skills/infra-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design infrastructure solutions - analyze requirements, design cloud architecture, create comprehensive design documents with resource specifications, security considerations, cost estimates, and implementation plans. Designs S3 buckets, Lambda functions, DynamoDB tables, API Gateway endpoints, CloudFront distributions, and other AWS services based on feature requirements.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "iOS Voice Input Implementation",
+  "slug": "ios-voice-input",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ios-voice-input/",
+  "download_url": "https://claudskills.com/skills/ios-voice-input/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when the user asks to \"implement voice input\", \"add speech recognition\", \"use SFSpeechRecognizer\", \"configure microphone permissions\", \"音声入力を実装したい\", \"Speech Frameworkの使い方\", \"マイク権限の設定\", \"音声認識機能を追加\", \"ディクテーション機能\", or needs guidance on Apple Speech Framework, AVAudioSession configuration, speech recognition authorization, real-time transcription, on-device recognition, or iOS voice input best practices for SwiftUI applications targeting iOS 17+.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "audio-podcast",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

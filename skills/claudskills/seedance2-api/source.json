@@ -1,0 +1,18 @@
+{
+  "name": "seedance2-api",
+  "slug": "seedance2-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/seedance2-api/",
+  "download_url": "https://claudskills.com/skills/seedance2-api/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Out-of-the-box Seedance 2.0 API skill — just one API key to generate AI videos. Builds storyboards, generates reference images with Seedream 4.5, submits video tasks, and polls results. Supports both MCP and standalone Python script mode. Use when the user mentions seedance, AI video, storyboard, or video generation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "living-docs-navigator",
+  "slug": "living-docs-navigator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/living-docs-navigator/",
+  "download_url": "https://claudskills.com/skills/living-docs-navigator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Navigate and load project living documentation for context from .specweave/docs/internal/. Use when implementing features and needing project context, referencing ADRs for design decisions, or accessing specs and architecture docs. Provides table of contents for all documentation types.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "docs-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

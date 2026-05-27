@@ -1,0 +1,18 @@
+{
+  "name": "sales-genesys",
+  "slug": "sales-genesys",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-genesys/",
+  "download_url": "https://claudskills.com/skills/sales-genesys/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Genesys Cloud CX platform help — enterprise CCaaS with AI-powered experience orchestration, omnichannel ACD routing (voice + digital), Architect IVR/flow builder, workforce management (WFM forecasting/scheduling/adherence), quality management (evaluations/scoring), predictive routing, agent assist, virtual agents, outbound dialer, Interaction Analytics, AppFoundry marketplace (450+ apps), REST Platform API with OAuth 2.0 and 15 regional endpoints, deep Salesforce integration (CX Cloud joint product + Service Cloud Voice BYOT), 4 tiers CX1 $75/CX2 $115/CX3 $155/CX4 $240 per user/mo + telephony minutes. Use when setting up Genesys Cloud routing or Architect flows, WFM forecasting not matching actual volume, quality management evaluations not triggering coaching, dropped calls or audio quality issues, comparing Genesys pricing tiers, integrating Genesys with Salesforce or ServiceNow, Genesys reporting hard to navigate, MFA management confusing, Genesys API integration, or evaluating enterprise CCaaS platforms. Do NOT use for building a general coaching program (use /sales-coaching) or comparing CCaaS platforms (use /sales-ccaas-selection).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-enablement",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

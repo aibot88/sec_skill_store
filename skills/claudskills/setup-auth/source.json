@@ -1,0 +1,18 @@
+{
+  "name": "setup-auth",
+  "slug": "setup-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/setup-auth/",
+  "download_url": "https://claudskills.com/skills/setup-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Sets up authentication (login/logout via Microsoft Entra ID) and role-based authorization for a Power Pages code site. Configures identity providers, protected routes, and access control. Use when the user wants to add login, configure Entra ID, enable authentication, or add role-based access to their site.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

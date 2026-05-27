@@ -1,0 +1,18 @@
+{
+  "name": "chaos-engineering",
+  "slug": "chaos-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chaos-engineering/",
+  "download_url": "https://claudskills.com/skills/chaos-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides chaos engineering best practices for resilience testing, fault injection, and game day planning. Use when designing resilience experiments, configuring chaos tools, planning game days, or when user mentions 'chaos engineering', 'resilience', 'litmus', 'game day', 'fault injection', 'chaos monkey', 'blast radius', 'steady state', 'failure mode'.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

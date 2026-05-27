@@ -1,0 +1,18 @@
+{
+  "name": "sales-parsestream",
+  "slug": "sales-parsestream",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-parsestream/",
+  "download_url": "https://claudskills.com/skills/sales-parsestream/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "ParseStream platform help — multi-platform keyword monitoring across Reddit, X, LinkedIn, Quora, and Hacker News with AI reply drafts and auto-reply via Reddit OAuth. Use when ParseStream alerts are returning too much noise and you need to narrow keywords or subreddits, AI-generated replies sound robotic and don't match your brand voice, auto-reply timing feels unnatural and you're worried about Reddit spam detection, you're not getting email notifications for keywords you know are being discussed, you want to monitor multiple platforms but only see results from one, you need to restrict monitoring to specific subreddits or exclude communities, or you're comparing ParseStream vs KeyMentions vs RedShip vs Syften for multi-platform monitoring. Do NOT use for social listening strategy across tools (use /sales-social-listening) or choosing between monitoring platforms (use /sales-social-listening).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

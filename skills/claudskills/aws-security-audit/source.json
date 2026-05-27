@@ -1,0 +1,18 @@
+{
+  "name": "aws-security-audit",
+  "slug": "aws-security-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-security-audit/",
+  "download_url": "https://claudskills.com/skills/aws-security-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive AWS security posture assessment using AWS CLI and security best practices",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "regulatory-compliance",
+  "slug": "regulatory-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/regulatory-compliance/",
+  "download_url": "https://claudskills.com/skills/regulatory-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit codebases for cross-industry regulatory compliance across SOX, GDPR, HIPAA, PCI-DSS, CCPA/CPRA, FedRAMP, FISMA, COPPA, and FERPA. Reviews audit trail completeness (who/what/when/where/why with tamper-evident storage), data retention policies and right-to-erasure workflows, RBAC/ABAC access control with least-privilege enforcement, privileged access management and JIT elevation, change management controls (branch protection, deployment gates, emergency change process), DSAR and ROPA reporting, breach detection and 72-hour notification pipelines, incident response procedures, and whistleblower anonymous reporting with anti-retaliation safeguards. Produces a compliance matrix with per-regulation scores.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

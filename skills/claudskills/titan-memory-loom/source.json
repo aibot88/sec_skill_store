@@ -1,0 +1,18 @@
+{
+  "name": "titan-memory-loom",
+  "slug": "titan-memory-loom",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/titan-memory-loom/",
+  "download_url": "https://claudskills.com/skills/titan-memory-loom/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Initialize or update Titan Memory Loom records as candidate memory with source refs, confidence, and authority warnings. Use when a Titan service-cohort route needs this explicit bounded step. Do not use for hidden background agents, silent mutation, unreviewed proof sovereignty, or memory canonization without owner confirmation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "knowledge-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

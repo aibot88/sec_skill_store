@@ -1,0 +1,18 @@
+{
+  "name": "Top 100 Web Vulnerabilities Reference",
+  "slug": "sickn33-top-100-web-vulnerabilities-reference",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-top-100-web-vulnerabilities-reference",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/web-app/public/skills/top-web-vulnerabilities",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/web-app/public/skills/top-web-vulnerabilities",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Comprehensive reference for 100 critical web application vulnerabilities organized by category with definitions, root causes, impacts, and mitigation strategies aligned with OWASP standards.",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/web-app/public/skills/top-web-vulnerabilities"
+  },
+  "collected_at": "2026-05-27T03:44:50+00:00"
+}

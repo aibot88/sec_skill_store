@@ -1,0 +1,18 @@
+{
+  "name": "langchain-otel-observability",
+  "slug": "langchain-otel-observability",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/langchain-otel-observability/",
+  "download_url": "https://claudskills.com/skills/langchain-otel-observability/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Wire LangChain 1.0 / LangGraph 1.0 traces into an OpenTelemetry-native backend (Jaeger, Honeycomb, Grafana Tempo, Datadog) with LLM-specific SLOs, safe prompt-content policy, and subgraph-aware span propagation. Use when LangSmith is not the right fit (existing OTEL stack, compliance, multi-cloud) or alongside LangSmith for deep-system traces. Trigger with \"langchain OTEL\", \"langchain opentelemetry\", \"langchain jaeger\", \"langchain honeycomb\", \"langchain SLO\", \"LLM span\", \"langchain tempo\", \"langchain datadog tracing\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

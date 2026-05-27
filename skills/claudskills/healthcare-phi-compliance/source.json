@@ -1,0 +1,18 @@
+{
+  "name": "healthcare-phi-compliance",
+  "slug": "healthcare-phi-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/healthcare-phi-compliance/",
+  "download_url": "https://claudskills.com/skills/healthcare-phi-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "中文优先：用于医疗PHI合规相关任务，帮助识别、设计、实现或验证对应工作流。English keywords: Protected Health Information (PHI) and Personally Identifiable Information (PII) compliance patterns for healthcare applications. Covers data classification, access control, audit trails, encryption, and common leak vectors.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

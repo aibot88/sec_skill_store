@@ -1,0 +1,18 @@
+{
+  "name": "powersync",
+  "slug": "powersync",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/powersync/",
+  "download_url": "https://claudskills.com/skills/powersync/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Guided onboarding and best practices for building applications with PowerSync — Cloud and self-hosted setup, sync configuration, client SDK usage, backend integration (Supabase, custom Postgres, MongoDB, MySQL, MSSQL), and debugging. Use this skill whenever the user mentions PowerSync, offline-first sync, local-first architecture, sync rules, sync streams, uploadData, fetchCredentials, real-time data replication, or wants to add offline-capable sync to a mobile or web app — even if they don't explicitly name PowerSync.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

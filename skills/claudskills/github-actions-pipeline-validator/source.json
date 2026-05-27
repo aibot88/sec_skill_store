@@ -1,0 +1,18 @@
+{
+  "name": "github-actions-pipeline-validator",
+  "slug": "github-actions-pipeline-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-actions-pipeline-validator/",
+  "download_url": "https://claudskills.com/skills/github-actions-pipeline-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validates GitHub Actions workflow YAML files against the Actions schema, checks for deprecated action versions, and ensures proper secret handling. Integrates with actions/checkout, actions/setup-node, and dorny/paths-filter APIs.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

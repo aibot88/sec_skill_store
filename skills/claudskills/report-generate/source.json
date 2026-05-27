@@ -1,0 +1,18 @@
+{
+  "name": "report-generate",
+  "slug": "report-generate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/report-generate/",
+  "download_url": "https://claudskills.com/skills/report-generate/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "渗透测试报告生成。当完成安全评估需要输出正式报告时使用。覆盖报告结构模板、风险评级标准（CVSS）、漏洞描述写法、修复建议规范。适用于正式渗透测试报告和红队评估报告",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "loom-dependency-scan",
+  "slug": "loom-dependency-scan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/loom-dependency-scan/",
+  "download_url": "https://claudskills.com/skills/loom-dependency-scan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scan project dependencies for CVEs, outdated packages, and license compliance across npm, pip, cargo, go, maven, and other ecosystems. Use for vulnerability scanning, SBOM generation, supply chain analysis, and automated dependency updates.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:34+00:00"
+}

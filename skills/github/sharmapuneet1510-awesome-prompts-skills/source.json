@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "sharmapuneet1510-awesome-prompts-skills",
+  "source": "github",
+  "source_url": "https://github.com/sharmapuneet1510/awesome-prompts/blob/9132250f866f96cf57d0f399f5a0cf878ab06a1e/skills/sonarqube_vulnerability_skill.md",
+  "download_url": "https://github.com/sharmapuneet1510/awesome-prompts/blob/9132250f866f96cf57d0f399f5a0cf878ab06a1e/skills/sonarqube_vulnerability_skill.md",
+  "external_source_url": "https://github.com/sharmapuneet1510/awesome-prompts/blob/9132250f866f96cf57d0f399f5a0cf878ab06a1e/skills/sonarqube_vulnerability_skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "sharmapuneet1510/awesome-prompts",
+    "path": "skills/sonarqube_vulnerability_skill.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

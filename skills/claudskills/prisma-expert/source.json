@@ -1,0 +1,18 @@
+{
+  "name": "prisma-expert",
+  "slug": "prisma-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prisma-expert/",
+  "download_url": "https://claudskills.com/skills/prisma-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "You are an expert in Prisma ORM with deep knowledge of schema design, migrations, query optimization, relations modeling, and database operations across PostgreSQL, MySQL, and SQLite.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

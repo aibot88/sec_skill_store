@@ -1,0 +1,18 @@
+{
+  "name": "backend-validation",
+  "slug": "backend-validation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backend-validation/",
+  "download_url": "https://claudskills.com/skills/backend-validation/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when validating a backend API or WebSocket endpoint end-to-end, including acquiring an OIDC bearer token for authenticated calls. Trigger whenever the user asks to test/validate/smoke-check a backend, write a Hurl test, hit a WebSocket, acquire an access token, exercise an OIDC flow, debug a 401, or verify an endpoint works with real auth. Applies to projects that use Hurl for HTTP tests, websocat for WebSocket probes, and oauth2c or curl-based flows for token acquisition (Authentik, Keycloak, Okta, Auth0, any RFC 6749 / OIDC Core provider). Prefer this skill over ad-hoc curl + bash when the user has more than one endpoint to check, chained auth flows, or anything resembling a regression test — because the Hurl + cached-refresh-token pattern is 10× less code and survives the next session.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

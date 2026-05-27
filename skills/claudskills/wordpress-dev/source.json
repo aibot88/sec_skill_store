@@ -1,0 +1,18 @@
+{
+  "name": "wordpress-dev",
+  "slug": "wordpress-dev",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wordpress-dev/",
+  "download_url": "https://claudskills.com/skills/wordpress-dev/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "WordPress development best practices - coding standards, custom post types, security, performance, hooks/filters, and template hierarchy. Use for any WordPress theme or plugin development guidance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

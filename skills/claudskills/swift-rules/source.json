@@ -1,0 +1,18 @@
+{
+  "name": "swift-rules",
+  "slug": "swift-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/swift-rules/",
+  "download_url": "https://claudskills.com/skills/swift-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Swift coding rules from ai-toolkit: coding-style, frameworks, patterns, security, testing. Triggers: .swift, Package.swift, .xcodeproj, SwiftUI, Combine, async/await, XCTest. Load when writing, reviewing, or editing Swift code.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "mobile",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

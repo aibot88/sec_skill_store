@@ -1,0 +1,18 @@
+{
+  "name": "databricks-sdk-foundation",
+  "slug": "databricks-sdk-foundation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/databricks-sdk-foundation/",
+  "download_url": "https://claudskills.com/skills/databricks-sdk-foundation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Foundation patterns for all Databricks SDK skills -- auth, client init, retry, error handling. Referenced by other skills, not used standalone.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

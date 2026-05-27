@@ -1,0 +1,18 @@
+{
+  "name": "authentication",
+  "slug": "authentication-lobbi-docs-claude",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/authentication-lobbi-docs-claude/",
+  "download_url": "https://claudskills.com/skills/authentication-lobbi-docs-claude/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authentication and authorization including JWT, OAuth2, OIDC, sessions, RBAC, and security analysis. Activate for login, auth flows, security audits, threat modeling, access control, and identity management.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:57+00:00"
+}

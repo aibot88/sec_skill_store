@@ -1,0 +1,19 @@
+{
+  "name": "collection",
+  "slug": "mattnigh-skills_collection-collection",
+  "source": "github",
+  "source_url": "https://github.com/mattnigh/skills_collection/blob/adf1a27eb51d9278eeb84d556fbccd56531cf34b/collection/nikhillinit__Updog_restore__claude__skills__workflow-engine__security-scanner__SKILL.md",
+  "download_url": "https://github.com/mattnigh/skills_collection/blob/adf1a27eb51d9278eeb84d556fbccd56531cf34b/collection/nikhillinit__Updog_restore__claude__skills__workflow-engine__security-scanner__SKILL.md",
+  "external_source_url": "https://github.com/mattnigh/skills_collection/blob/adf1a27eb51d9278eeb84d556fbccd56531cf34b/collection/nikhillinit__Updog_restore__claude__skills__workflow-engine__security-scanner__SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "mattnigh/skills_collection",
+    "path": "collection/nikhillinit__Updog_restore__claude__skills__workflow-engine__security-scanner__SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

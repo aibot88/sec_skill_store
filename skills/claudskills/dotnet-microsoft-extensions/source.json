@@ -1,0 +1,18 @@
+{
+  "name": "dotnet-microsoft-extensions",
+  "slug": "dotnet-microsoft-extensions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dotnet-microsoft-extensions/",
+  "download_url": "https://claudskills.com/skills/dotnet-microsoft-extensions/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use the Microsoft.Extensions stack correctly across Generic Host, dependency injection, configuration, logging, options, HttpClientFactory, and other shared infrastructure patterns.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "observability",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

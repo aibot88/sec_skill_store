@@ -1,0 +1,18 @@
+{
+  "name": "reddit-skill",
+  "slug": "reddit-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/reddit-skill/",
+  "download_url": "https://claudskills.com/skills/reddit-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reddit API: пользователи, сабреддиты, посты, комментарии, поиск. OAuth2 (app-only / user mode), кеш-first, опциональные write-операции с двойным предохранителем (REDDIT_ENABLE_WRITE=1 + --confirm). Triggers: reddit, reddit api, reddit subreddit, reddit user, reddit post, reddit search, парсинг reddit, посты reddit, комментарии reddit, реддит.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

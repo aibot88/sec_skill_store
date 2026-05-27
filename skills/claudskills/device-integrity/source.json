@@ -1,0 +1,18 @@
+{
+  "name": "device-integrity",
+  "slug": "device-integrity",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/device-integrity/",
+  "download_url": "https://claudskills.com/skills/device-integrity/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Verify device legitimacy and app integrity using DeviceCheck (DCDevice per-device bits) and App Attest (DCAppAttestService key generation, attestation, and assertion flows). Use when implementing fraud prevention, detecting compromised devices, validating app authenticity with Apple's servers, protecting sensitive API endpoints with attested requests, or adding device verification to a backend architecture.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

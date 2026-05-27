@@ -1,0 +1,18 @@
+{
+  "name": "codebase-audit-pre-push",
+  "slug": "codebase-audit-pre-push",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/codebase-audit-pre-push/",
+  "download_url": "https://claudskills.com/skills/codebase-audit-pre-push/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deep audit before GitHub push: removes junk files, dead code, security holes, and optimization issues. Checks every file line-by-line for production readiness.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

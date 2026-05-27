@@ -1,0 +1,18 @@
+{
+  "name": "gamma-install-auth",
+  "slug": "gamma-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gamma-install-auth/",
+  "download_url": "https://claudskills.com/skills/gamma-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Set up Gamma API v1.0 authentication and first request. Use when configuring API keys, setting up X-API-KEY header, or initializing Gamma REST API access in a project. Trigger: \"install gamma\", \"setup gamma API\", \"gamma auth\", \"gamma API key\", \"configure gamma\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

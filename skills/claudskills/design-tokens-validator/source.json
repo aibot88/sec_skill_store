@@ -1,0 +1,18 @@
+{
+  "name": "design-tokens-validator",
+  "slug": "design-tokens-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/design-tokens-validator/",
+  "download_url": "https://claudskills.com/skills/design-tokens-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "[Design System] Validate that code and styles use official design tokens instead of hard-coded values. Use when (1) reviewing CSS/SCSS/Tailwind/styled-components for hard-coded colors/spacing, (2) checking SwiftUI/UIKit for raw color/font values, (3) auditing Unity styles for magic numbers, (4) enforcing design system compliance, (5) user asks to 'check design tokens', 'validate tokens', 'find hard-coded values', or 'audit design system usage'.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-creative",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

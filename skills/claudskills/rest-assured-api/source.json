@@ -1,0 +1,18 @@
+{
+  "name": "REST Assured API Testing",
+  "slug": "rest-assured-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rest-assured-api/",
+  "download_url": "https://claudskills.com/skills/rest-assured-api/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "API testing skill using REST Assured for Java, covering request specifications, response validation, authentication, JSON schema validation, and serialization.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

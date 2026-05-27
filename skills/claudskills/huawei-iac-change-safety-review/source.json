@@ -1,0 +1,18 @@
+{
+  "name": "huawei-iac-change-safety-review",
+  "slug": "huawei-iac-change-safety-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/huawei-iac-change-safety-review/",
+  "download_url": "https://claudskills.com/skills/huawei-iac-change-safety-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review Terraform and RFS (Resource Formation Service) changes targeting Huawei Cloud — blast radius analysis, resource deletion detection, Organizations SCP cascade scope, cross-stack dependency impact, state file security, and rollback plan completeness.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

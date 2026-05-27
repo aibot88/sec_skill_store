@@ -1,0 +1,18 @@
+{
+  "name": "windows-local-ai-services",
+  "slug": "windows-local-ai-services",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/windows-local-ai-services/",
+  "download_url": "https://claudskills.com/skills/windows-local-ai-services/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Run local AI services on Windows — port binding, firewall, WSL2 networking, and common pitfalls.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

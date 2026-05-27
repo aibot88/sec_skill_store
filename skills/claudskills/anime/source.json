@@ -1,0 +1,18 @@
+{
+  "name": "anime",
+  "slug": "anime",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/anime/",
+  "download_url": "https://claudskills.com/skills/anime/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CLI for AI agents to search and lookup anime info for their humans. Uses Jikan (unofficial MyAnimeList API). No auth required.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "mistral-install-auth",
+  "slug": "mistral-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mistral-install-auth/",
+  "download_url": "https://claudskills.com/skills/mistral-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure the Mistral AI SDK with authentication. Use when setting up a new Mistral integration, configuring API keys, or initializing Mistral AI in your project. Trigger with phrases like \"install mistral\", \"setup mistral\", \"mistral auth\", \"configure mistral API key\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

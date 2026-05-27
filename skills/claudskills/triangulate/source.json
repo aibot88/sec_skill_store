@@ -1,0 +1,18 @@
+{
+  "name": "triangulate",
+  "slug": "triangulate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/triangulate/",
+  "download_url": "https://claudskills.com/skills/triangulate/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use BEFORE shipping high-stakes output, considering an architectural alternative, working with compliance/legal/safety-critical content, or stuck in a debug loop >2 cycles — fork the question to an independent source of truth (different model, fresh subagent, docs) before trusting your first answer. The meta-decision skill that fires existing review skills (second-opinion, adversarial-reviewer, dispatching-parallel-agents) at the right moments. Anchoring on first instinct is a known LLM failure mode; the cost of a 30-second outside review is far lower than the cost of shipping the wrong pattern.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

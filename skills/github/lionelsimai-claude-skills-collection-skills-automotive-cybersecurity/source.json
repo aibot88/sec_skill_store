@@ -1,0 +1,19 @@
+{
+  "name": "automotive-cybersecurity",
+  "slug": "lionelsimai-claude-skills-collection-skills-automotive-cybersecurity",
+  "source": "github",
+  "source_url": "https://github.com/lionelsimai/claude-skills-collection/blob/5c3b481f1879c5ff119dfd350987d250531a49eb/skills/automotive-cybersecurity/SKILL.md",
+  "download_url": "https://github.com/lionelsimai/claude-skills-collection/blob/5c3b481f1879c5ff119dfd350987d250531a49eb/skills/automotive-cybersecurity/SKILL.md",
+  "external_source_url": "https://github.com/lionelsimai/claude-skills-collection/blob/5c3b481f1879c5ff119dfd350987d250531a49eb/skills/automotive-cybersecurity/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "lionelsimai/claude-skills-collection",
+    "path": "skills/automotive-cybersecurity/SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

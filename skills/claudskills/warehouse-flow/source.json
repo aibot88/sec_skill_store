@@ -1,0 +1,18 @@
+{
+  "name": "warehouse-flow",
+  "slug": "warehouse-flow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/warehouse-flow/",
+  "download_url": "https://claudskills.com/skills/warehouse-flow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit warehouse flow design and material movement -- evaluate pick path optimization algorithms, ABC velocity-based slotting compliance, zone configuration and boundary balancing, conveyor merge point and sortation system capacity, wave planning logic, and throughput bottleneck identification. Covers S-pattern and serpentine routing, golden zone placement, goods-to-person vs. pick-to-light vs. voice-directed picking, inbound-to-outbound flow path modeling, replenishment timing, Theory of Constraints drum-buffer-rope analysis, and labor planning with engineered standards for distribution centers and fulfillment operations.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

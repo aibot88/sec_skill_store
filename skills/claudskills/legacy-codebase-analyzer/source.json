@@ -1,0 +1,18 @@
+{
+  "name": "legacy-codebase-analyzer",
+  "slug": "legacy-codebase-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/legacy-codebase-analyzer/",
+  "download_url": "https://claudskills.com/skills/legacy-codebase-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive legacy codebase analysis skill for technical debt assessment, security vulnerability scanning, performance bottleneck detection, and modernization roadmap generation. Includes 7 Python tools for automated codebase inventory, architecture health analysis, and strategic modernization planning.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

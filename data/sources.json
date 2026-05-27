@@ -1,0 +1,105 @@
+{
+  "generated_at": "2026-05-27T03:45:04+00:00",
+  "candidate_count": 9719,
+  "entry_count": 9719,
+  "sources": {
+    "claudskills": {
+      "url": "https://claudskills.com/data/skills.json",
+      "total": 71766,
+      "candidates": 9172,
+      "collected_at": "2026-05-27T03:40:04+00:00"
+    },
+    "openclawdir": {
+      "urls": [
+        "https://openclawdir.com/skills?category=Security&sort=popular&page=1",
+        "https://openclawdir.com/skills?category=Security&sort=popular&page=2",
+        "https://openclawdir.com/skills?category=Security&sort=popular&page=3",
+        "https://openclawdir.com/skills?category=Security&sort=popular&page=4",
+        "https://openclawdir.com/skills?category=Security&sort=popular&page=5"
+      ],
+      "candidates": 74,
+      "collected_at": "2026-05-27T03:40:16+00:00"
+    },
+    "skillstore": {
+      "urls": [
+        "https://skillstore.io/skills?category=security&tools=codex&page=1",
+        "https://skillstore.io/skills?category=security&tools=codex&page=2",
+        "https://skillstore.io/skills?category=security&tools=codex&page=3",
+        "https://skillstore.io/skills?category=security&tools=codex&page=4",
+        "https://skillstore.io/skills?category=security&tools=codex&page=5",
+        "https://skillstore.io/skills?category=security&tools=codex&page=6",
+        "https://skillstore.io/skills?category=security&tools=codex&page=7",
+        "https://skillstore.io/zh-hans/skills?category=security&tools=codex&page=1",
+        "https://skillstore.io/zh-hans/skills?category=security&tools=codex&page=2",
+        "https://skillstore.io/skills?search=security&tools=codex&page=1",
+        "https://skillstore.io/skills?search=security&tools=codex&page=2",
+        "https://skillstore.io/skills?search=security&tools=codex&page=3",
+        "https://skillstore.io/skills?search=security&tools=codex&page=4",
+        "https://skillstore.io/skills?search=security&tools=codex&page=5",
+        "https://skillstore.io/skills?search=security&tools=codex&page=6",
+        "https://skillstore.io/skills?search=security&tools=codex&page=7",
+        "https://skillstore.io/skills?search=cybersecurity&tools=codex&page=1",
+        "https://skillstore.io/skills?search=cybersecurity&tools=codex&page=2",
+        "https://skillstore.io/skills?search=code+security&tools=codex&page=1",
+        "https://skillstore.io/skills?search=code+security&tools=codex&page=2",
+        "https://skillstore.io/skills?search=cwe&tools=codex&page=1",
+        "https://skillstore.io/skills?search=cwe&tools=codex&page=2",
+        "https://skillstore.io/skills?search=owasp&tools=codex&page=1",
+        "https://skillstore.io/skills?search=owasp&tools=codex&page=2",
+        "https://skillstore.io/skills?search=sast&tools=codex&page=1",
+        "https://skillstore.io/skills?search=sast&tools=codex&page=2",
+        "https://skillstore.io/skills?search=vulnerability&tools=codex&page=1",
+        "https://skillstore.io/skills?search=vulnerability&tools=codex&page=2"
+      ],
+      "candidates": 127,
+      "collected_at": "2026-05-27T03:41:09+00:00"
+    },
+    "github": {
+      "enabled": true,
+      "queries": [
+        "filename:SKILL.md \"security\"",
+        "filename:SKILL.md \"OWASP\"",
+        "filename:SKILL.md \"CWE\"",
+        "filename:SKILL.md \"CVE\"",
+        "filename:SKILL.md \"SAST\"",
+        "filename:SKILL.md \"vulnerability\"",
+        "filename:SKILL.md \"cybersecurity\"",
+        "filename:SKILL.md \"安全\""
+      ],
+      "raw_items": 400,
+      "candidates": 400,
+      "collected_at": "2026-05-27T03:41:33+00:00"
+    }
+  },
+  "classification_axes": {
+    "cwe": "CWE identifiers extracted from text plus keyword inference",
+    "owasp": "OWASP Top 10 2021 categories inferred from security keywords",
+    "security_domains": [
+      "Application Security",
+      "Supply Chain",
+      "Secrets Management",
+      "Identity and Access",
+      "Cloud and IaC",
+      "AI and Agent Security",
+      "Privacy and Data Protection",
+      "Reverse Engineering and Malware",
+      "Offensive Security",
+      "Detection and Response",
+      "Compliance",
+      "Cryptography"
+    ],
+    "business_domains": [
+      "Code Audit",
+      "Secure Coding",
+      "Dependency Scanning",
+      "Compliance",
+      "Incident Response",
+      "Pentest and Red Team",
+      "Binary and RE",
+      "Skill and Agent Security",
+      "Privacy Operations",
+      "Cloud Security",
+      "Security Architecture"
+    ]
+  }
+}

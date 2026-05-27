@@ -1,0 +1,18 @@
+{
+  "name": "pptx-author",
+  "slug": "pptx-author",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pptx-author/",
+  "download_url": "https://claudskills.com/skills/pptx-author/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Build PowerPoint decks headless with python-pptx. Pairs with excel-author for model-backed decks where every number traces to a workbook cell. Use for pitch decks, IC memos, earnings notes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

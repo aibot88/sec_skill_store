@@ -1,0 +1,18 @@
+{
+  "name": "skill-name",
+  "slug": "skill-name",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-name/",
+  "download_url": "https://claudskills.com/skills/skill-name/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "[REQUIRED] Comprehensive description of what this skill does and when to use it. Include: (1) Primary functionality, (2) Specific use cases, (3) Security operations context. Must include specific \"Use when:\" clause for skill discovery. Example: \"SAST vulnerability analysis and remediation guidance using Semgrep and industry security standards. Use when: (1) Analyzing static code for security vulnerabilities, (2) Prioritizing security findings by severity, (3) Providing secure coding remediation, (4) Integrating security checks into CI/CD pipelines.\" Maximum 1024 characters.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

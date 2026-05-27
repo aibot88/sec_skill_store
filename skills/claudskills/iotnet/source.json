@@ -1,0 +1,18 @@
+{
+  "name": "iotnet",
+  "slug": "iotnet",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/iotnet/",
+  "download_url": "https://claudskills.com/skills/iotnet/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "IoT network traffic analyzer for detecting IoT protocols and identifying security vulnerabilities in network communications. Use when you need to analyze network traffic, identify IoT protocols, or assess network security of IoT devices.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

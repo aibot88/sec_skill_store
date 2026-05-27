@@ -1,0 +1,18 @@
+{
+  "name": "agents-build",
+  "slug": "agents-build",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agents-build/",
+  "download_url": "https://claudskills.com/skills/agents-build/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when adding capabilities to an existing agent project — memory, app integration, VPC, multi-agent, migration, model changes, browser, code interpreter, or resource removal. Triggers on: \"add memory\", \"remember across sessions\", \"call agent from app\", \"invoke agent from code\", \"auth to call agent\", \"streaming responses\", \"VPC\", \"VPC connectivity\", \"VPC error\", \"can't reach from VPC\", \"multi-agent\", \"A2A\", \"A2A auth\", \"orchestrator not delegating\", \"specialist not called\", \"migrate Bedrock Agent\", \"after import\", \"migration issue\", \"framework for migration\", \"change model\", \"browser tool\", \"code interpreter\", \"delete agent\", \"tear down\", \"agentcore remove\", \"cross-account memory\", \"resource-based policy on memory\". Not for connecting to external APIs via Gateway — use agents-connect. Not for scaffolding a new project — use agents-get-started. Not for CLI/dev server errors — use agents-debug. Strands vs LangGraph in a migration context routes here.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

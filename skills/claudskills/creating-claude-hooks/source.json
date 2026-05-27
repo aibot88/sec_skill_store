@@ -1,0 +1,18 @@
+{
+  "name": "creating-claude-hooks",
+  "slug": "creating-claude-hooks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/creating-claude-hooks/",
+  "download_url": "https://claudskills.com/skills/creating-claude-hooks/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when creating or publishing Claude Code hooks - covers executable format, event types, JSON I/O, exit codes, security requirements, and PRPM package structure",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

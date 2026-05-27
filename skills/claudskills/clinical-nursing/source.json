@@ -1,0 +1,18 @@
+{
+  "name": "clinical-nursing",
+  "slug": "clinical-nursing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clinical-nursing/",
+  "download_url": "https://claudskills.com/skills/clinical-nursing/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Nursing assessment, NANDA-I taxonomy, NIC/NOC classification, medication administration documentation, and vital signs interpretation",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

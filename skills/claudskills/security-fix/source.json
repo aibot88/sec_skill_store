@@ -1,0 +1,18 @@
+{
+  "name": "security-fix",
+  "slug": "security-fix",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-fix/",
+  "download_url": "https://claudskills.com/skills/security-fix/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security remediation en vulnerability fix skill. Past fixes toe voor kwetsbaarheden uit security check-rapporten. Automatische dependency updates, configuratie-patches, code fixes via Edit tool, en PR-creatie. Gebruik na een security audit/scan om kritieke en hoge severity issues op te lossen.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

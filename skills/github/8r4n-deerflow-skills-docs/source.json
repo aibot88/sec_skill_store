@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "slug": "8r4n-deerflow-skills-docs",
+  "source": "github",
+  "source_url": "https://github.com/8r4n/deerflow-skills/blob/4b0533f42e8366e9d8344f8763e982472726e5ff/docs/adding-a-skill.md",
+  "download_url": "https://github.com/8r4n/deerflow-skills/blob/4b0533f42e8366e9d8344f8763e982472726e5ff/docs/adding-a-skill.md",
+  "external_source_url": "https://github.com/8r4n/deerflow-skills/blob/4b0533f42e8366e9d8344f8763e982472726e5ff/docs/adding-a-skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "8r4n/deerflow-skills",
+    "path": "docs/adding-a-skill.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

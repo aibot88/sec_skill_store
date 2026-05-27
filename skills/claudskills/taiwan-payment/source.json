@@ -1,0 +1,18 @@
+{
+  "name": "taiwan-payment",
+  "slug": "taiwan-payment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/taiwan-payment/",
+  "download_url": "https://claudskills.com/skills/taiwan-payment/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Taiwan Payment API integration specialist for ECPay, NewebPay, PAYUNi, SmilePay, PChomePay, ezPay, PayNow, Shopline Payments, LINE Pay v4, and TapPay payment gateways. Use when developing payment systems, implementing credit card, ATM, CVS, e-wallet, LINE Pay, Apple Pay, Google Pay, or BNPL payments, or working with Taiwan payment gateway APIs. Handles encryption (SHA256, AES-256-CBC, AES-256-GCM, dynamic AES-256, JWT, HMAC-SHA256, Basic Auth → token, Prime token), API requests, and service provider differences.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

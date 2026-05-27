@@ -1,0 +1,18 @@
+{
+  "name": "vastai-data-handling",
+  "slug": "vastai-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vastai-data-handling/",
+  "download_url": "https://claudskills.com/skills/vastai-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Manage training data and model artifacts securely on Vast.ai GPU instances. Use when transferring data to instances, managing checkpoints, or implementing secure data lifecycle on rented hardware. Trigger with phrases like \"vastai data\", \"vastai upload data\", \"vastai checkpoints\", \"vastai data security\", \"vastai artifacts\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

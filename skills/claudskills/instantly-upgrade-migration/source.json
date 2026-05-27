@@ -1,0 +1,18 @@
+{
+  "name": "instantly-upgrade-migration",
+  "slug": "instantly-upgrade-migration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/instantly-upgrade-migration/",
+  "download_url": "https://claudskills.com/skills/instantly-upgrade-migration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Migrate Instantly.ai integrations from API v1 to v2. Use when upgrading from deprecated v1 endpoints, updating authentication, or migrating endpoint paths and request formats. Trigger with phrases like \"instantly v1 to v2\", \"instantly api migration\", \"instantly upgrade\", \"instantly deprecated\", \"migrate instantly api\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

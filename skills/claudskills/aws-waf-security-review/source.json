@@ -1,0 +1,18 @@
+{
+  "name": "aws-waf-security-review",
+  "slug": "aws-waf-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-waf-security-review/",
+  "download_url": "https://claudskills.com/skills/aws-waf-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review AWS workloads against the Well-Architected Framework Security Pillar: identity foundations, detective controls, infrastructure protection, data protection, and incident response readiness.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:00+00:00"
+}

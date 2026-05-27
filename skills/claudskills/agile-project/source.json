@@ -1,0 +1,18 @@
+{
+  "name": "agile-project",
+  "slug": "agile-project",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agile-project/",
+  "download_url": "https://claudskills.com/skills/agile-project/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill whenever you are working on a Go project following the agile-team-v2 workflow — features in .features/, sprints in .sprints/, strategic ADRs in .adrs/, tactical/strategic decisions log in .decisions/, global architecture in .architecture/ (VISION.md + ARCHITECTURE.md + CONVENTIONS.md + INTEGRATIONS.md). The architect absorbs the ex-scaffolder role: scaffolds Go contracts (signatures with `panic(\\\"not implemented\\\")` bodies), inlines `// AC: <criterion>` + `// TODO(impl-<feat>, ac-<NNN>)` markers above each scaffolded body, and decides the `mechanical: true|false` flag in FEATURE.md frontmatter. The PM has two passes: passe 1 (FEATURE.md narrative — Why/Context/User journey/Out of scope/Open questions), passe 2 (inline `// SCENARIO:` + `t.Skip(\\\"not implemented\\\")` in business test skeletons within `pm_test_territories`, skipped if `mechanical: true`). The sprint-planner lists tasks **by code marker** in SPRINT.md (no separate TASK.md / TASK-red.md / TASK-green.md / SCAFFOLD.md / TASKS.md files — those v1 artifacts no longer exist). Spec isolation between red and green is preserved by **discipline**: red reads `// AC:` + `// SCENARIO:`, green reads `// AC:` + red's committed test assertions. There is one `red` agent and one `green` agent (no per-tier variants — anticipates bloc 3). Tactical DECISIONS authored by green during a sprint (under R2 strict rules) are surfaced in RETRO.md `decisions_to_statue:` and statued by the architect at the start of the next sprint via a Wave 1 task. The reviewer runs three passes (DoD via `scripts/check.sh`, Scenarios narrative-vs-tests, Security checklist). The `## Human override` section of REVIEW.md is human-only with strict 5-field format; security findings cannot be overridden without a Decision reference. Triggers: any Go file editing in this kind of project (must use go-surgeon — never generic Edit/Write/Read), sprint planning, feature breakdown, FEATURE.md / SPRINT.md / REVIEW.md / RETRO.md / DECISION-NNN-*.md mentions, dispute files in .disputes/, any of the product-manager/architect/sprint-planner/red/green/e2e-tester/reviewer/bug-detective agents, `Authored-By:` commit trailer, the `// AC:` / `// SCENARIO:` / `TODO(impl-...)` markers, or any repository containing .features/ / .sprints/ / .adrs/ / .architecture/ / .decisions/ directories. Consult before planning a sprint, before starting any task, before writing a commit, before responding to a dispute, or whenever you need to know what artifact goes where. Detailed marker conventions and lifecycle live in `markers` skill. Decision-log format and R2/R6 rules live in the separate `decisions-and-adrs` skill (loaded by architect/green/sprint-planner only).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

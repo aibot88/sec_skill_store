@@ -1,0 +1,18 @@
+{
+  "name": "datadog-slo-monitor",
+  "slug": "datadog-slo-monitor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/datadog-slo-monitor/",
+  "download_url": "https://claudskills.com/skills/datadog-slo-monitor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Monitors Datadog Service Level Objectives and burn rate alerts via the Datadog API v2. Generates SLO compliance reports and triggers remediation workflows when error budgets are exhausted.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

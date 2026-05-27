@@ -1,0 +1,18 @@
+{
+  "name": "code-audit",
+  "slug": "code-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-audit/",
+  "download_url": "https://claudskills.com/skills/code-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audits the entire codebase for bugs, security vulnerabilities, CLAUDE.md violations, dead code, duplicate code, and test quality issues. Use when asked to \"audit code\", \"find bugs\", \"review codebase\", \"check for security issues\", or \"find dead code\". Writes prioritized findings to TODO.md without suggesting fixes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gitlab-mr-inline-comment",
+  "slug": "gitlab-mr-inline-comment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gitlab-mr-inline-comment/",
+  "download_url": "https://claudskills.com/skills/gitlab-mr-inline-comment/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Publish a single inline comment on a GitLab merge request by anchoring it to a valid diff line with `glab api`. Use when Codex needs to place one review comment on a specific MR file and line, while reusing the user's existing `glab` authentication and stopping on invalid anchors instead of falling back to a general comment.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

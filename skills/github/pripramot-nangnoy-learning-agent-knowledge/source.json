@@ -1,0 +1,19 @@
+{
+  "name": "knowledge",
+  "slug": "pripramot-nangnoy-learning-agent-knowledge",
+  "source": "github",
+  "source_url": "https://github.com/pripramot/nangnoy-learning-agent/blob/980294fda296b8cd9bcd885fb113bd9518e62cfe/knowledge/nangnoy-persona_skill.md",
+  "download_url": "https://github.com/pripramot/nangnoy-learning-agent/blob/980294fda296b8cd9bcd885fb113bd9518e62cfe/knowledge/nangnoy-persona_skill.md",
+  "external_source_url": "https://github.com/pripramot/nangnoy-learning-agent/blob/980294fda296b8cd9bcd885fb113bd9518e62cfe/knowledge/nangnoy-persona_skill.md",
+  "license": "",
+  "description": "\"The official repository for Nangnoy, a Goal-Based Learning Agent and AI Arsenal Switcher. Developed by Father & Nangnoy.\"",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "pripramot/nangnoy-learning-agent",
+    "path": "knowledge/nangnoy-persona_skill.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

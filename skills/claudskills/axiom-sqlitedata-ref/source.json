@@ -1,0 +1,18 @@
+{
+  "name": "axiom-sqlitedata-ref",
+  "slug": "axiom-sqlitedata-ref",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/axiom-sqlitedata-ref/",
+  "download_url": "https://claudskills.com/skills/axiom-sqlitedata-ref/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "SQLiteData advanced patterns, @Selection column groups, single-table inheritance, recursive CTEs, database views, custom aggregates, TableAlias self-joins, JSON/string aggregation",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:00+00:00"
+}

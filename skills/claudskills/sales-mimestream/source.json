@@ -1,0 +1,18 @@
+{
+  "name": "sales-mimestream",
+  "slug": "sales-mimestream",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-mimestream/",
+  "download_url": "https://claudskills.com/skills/sales-mimestream/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Mimestream platform help — native macOS email client built exclusively for Gmail using the Gmail API, with tracking prevention, email templates, Markdown compose, multi-account unified inbox, snooze, and deep macOS integration ($50/yr, no free tier). Use when setting up Mimestream for multiple Gmail accounts, Mimestream not showing labels or categories correctly, wondering if Mimestream is worth it over Gmail web or Apple Mail, comparing Mimestream to Superhuman or Airmail or Spark Mail for Mac, Mimestream notifications not working or delayed, Mimestream templates or Markdown formatting issues, frustrated by no Mimestream iOS app and stuck on Gmail mobile, or evaluating Mimestream privacy and tracking prevention. Do NOT use for AI email triage or AI-drafted replies (Mimestream has no AI features — use /sales-superhuman or /sales-fyxer). Do NOT use for team shared inbox or collaboration (use /sales-missive or /sales-hiver).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

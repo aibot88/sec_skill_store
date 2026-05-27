@@ -1,0 +1,18 @@
+{
+  "name": "write-path-mapping",
+  "slug": "write-path-mapping",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/write-path-mapping/",
+  "download_url": "https://claudskills.com/skills/write-path-mapping/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Map the write path of a project across multiple frameworks — entry points, validation, auth, persistence, side-effects. Outputs report, Mermaid diagrams, JSON sidecar. Flags unauth writes, missing RLS, cache gaps. Use for write path, mutation audit, RLS audit.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ide-editor",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

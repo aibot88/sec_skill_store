@@ -1,0 +1,18 @@
+{
+  "name": "web3-audit",
+  "slug": "web3-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/web3-audit/",
+  "download_url": "https://claudskills.com/skills/web3-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Smart contract security audit — 10 DeFi bug classes (accounting desync, access control, incomplete path, off-by-one, oracle, ERC4626, reentrancy, flash loan, signature replay, proxy), pre-dive kill signals (TVL < $500K etc), Foundry PoC template, grep patterns for each class, and real Immunefi paid examples. Use for any Solidity/Rust contract audit or when deciding whether a DeFi target is worth hunting.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

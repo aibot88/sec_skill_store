@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "hikaruegashira-parsentry-.",
+  "source": "github",
+  "source_url": "https://github.com/HikaruEgashira/parsentry/blob/11c1426d66275eeacf19bc244de9c8e4334ee71f/SKILL.md",
+  "download_url": "https://github.com/HikaruEgashira/parsentry/blob/11c1426d66275eeacf19bc244de9c8e4334ee71f/SKILL.md",
+  "external_source_url": "https://github.com/HikaruEgashira/parsentry/blob/11c1426d66275eeacf19bc244de9c8e4334ee71f/SKILL.md",
+  "license": "",
+  "description": "Security Scan orchestrator for AI Agents 🎯",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "HikaruEgashira/parsentry",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

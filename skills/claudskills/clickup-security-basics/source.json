@@ -1,0 +1,18 @@
+{
+  "name": "clickup-security-basics",
+  "slug": "clickup-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clickup-security-basics/",
+  "download_url": "https://claudskills.com/skills/clickup-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Secure ClickUp API tokens, implement least-privilege access, and audit usage. Use when securing API keys, rotating tokens, configuring per-environment credentials, or auditing ClickUp API access patterns. Trigger: \"clickup security\", \"clickup secrets\", \"secure clickup token\", \"clickup API key rotation\", \"clickup access audit\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

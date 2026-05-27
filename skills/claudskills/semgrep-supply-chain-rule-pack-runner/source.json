@@ -1,0 +1,18 @@
+{
+  "name": "semgrep-supply-chain-rule-pack-runner",
+  "slug": "semgrep-supply-chain-rule-pack-runner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/semgrep-supply-chain-rule-pack-runner/",
+  "download_url": "https://claudskills.com/skills/semgrep-supply-chain-rule-pack-runner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Runs Semgrep code and supply-chain checks with `semgrep scan`, registry rule packs, and dependency-aware findings to surface risky patterns early. Useful when agents need to summarize security results in repo terms developers can act on immediately.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

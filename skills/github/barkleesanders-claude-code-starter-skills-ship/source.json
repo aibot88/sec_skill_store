@@ -1,0 +1,19 @@
+{
+  "name": "ship",
+  "slug": "barkleesanders-claude-code-starter-skills-ship",
+  "source": "github",
+  "source_url": "https://github.com/barkleesanders/claude-code-starter/blob/c193efde1b4a1f74980a156d116d05f48b128b3a/skills/ship/skill.md",
+  "download_url": "https://github.com/barkleesanders/claude-code-starter/blob/c193efde1b4a1f74980a156d116d05f48b128b3a/skills/ship/skill.md",
+  "external_source_url": "https://github.com/barkleesanders/claude-code-starter/blob/c193efde1b4a1f74980a156d116d05f48b128b3a/skills/ship/skill.md",
+  "license": "",
+  "description": "Production-ready Claude Code config: 35 agents, 48 skills, 21 commands, hooks, and permissions",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "barkleesanders/claude-code-starter",
+    "path": "skills/ship/skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

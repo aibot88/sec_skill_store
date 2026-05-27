@@ -1,0 +1,18 @@
+{
+  "name": "paper-lookup",
+  "slug": "paper-lookup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/paper-lookup/",
+  "download_url": "https://claudskills.com/skills/paper-lookup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Search 10 academic paper databases via REST APIs for research papers, preprints, and scholarly articles. Covers PubMed, PMC (full text), bioRxiv, medRxiv, arXiv, OpenAlex, Crossref, Semantic Scholar, CORE, Unpaywall. Use when searching for papers, citations, DOI/PMID lookups, abstracts, full text, open access, preprints, citation graphs, author search, or any scholarly literature query. Triggers on mentions of any supported database or requests like \"find papers on X\" or \"look up this DOI\".",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

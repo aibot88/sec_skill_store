@@ -1,0 +1,18 @@
+{
+  "name": "bulk-rna-seq-deseq2-analysis-with-omicverse",
+  "slug": "bulk-deseq2-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bulk-deseq2-analysis/",
+  "download_url": "https://claudskills.com/skills/bulk-deseq2-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Walk Claude through PyDESeq2-based differential expression, including ID mapping, DE testing, fold-change thresholding, and enrichment visualisation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

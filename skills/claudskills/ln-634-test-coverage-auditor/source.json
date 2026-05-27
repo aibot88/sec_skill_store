@@ -1,0 +1,18 @@
+{
+  "name": "ln-634-test-coverage-auditor",
+  "slug": "ln-634-test-coverage-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-634-test-coverage-auditor/",
+  "download_url": "https://claudskills.com/skills/ln-634-test-coverage-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Identifies missing tests for critical paths (money, security, data integrity, core flows). Use when auditing test coverage gaps.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

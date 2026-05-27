@@ -1,0 +1,18 @@
+{
+  "name": "hooks-builder",
+  "slug": "hooks-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hooks-builder/",
+  "download_url": "https://claudskills.com/skills/hooks-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create event-driven hooks for Claude Code automation. Use when the user wants to create hooks, automate tool validation, add pre/post processing, enforce security policies, or configure settings.json hooks. Triggers: create hook, build hook, PreToolUse, PostToolUse, event automation, tool validation, security hook",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

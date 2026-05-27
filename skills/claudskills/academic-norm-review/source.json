@@ -1,0 +1,18 @@
+{
+  "name": "academic-norm-review",
+  "slug": "academic-norm-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/academic-norm-review/",
+  "download_url": "https://claudskills.com/skills/academic-norm-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Detects content similarity, verifies standardized citations and abbreviations, and flags potential academic integrity risks; use it before submission, during academic writing QA, or for compliance reviews.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

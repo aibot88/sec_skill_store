@@ -1,0 +1,18 @@
+{
+  "name": "usql-universal-sql-client",
+  "slug": "usql-universal-sql-client",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/usql-universal-sql-client/",
+  "download_url": "https://claudskills.com/skills/usql-universal-sql-client/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "usql is a universal command-line interface for SQL databases including PostgreSQL, MySQL, SQLite, Oracle, SQL Server, and dozens more. It provides a consistent psql-like experience with syntax highlighting, tab completion, and cross-database copying.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "custom-field-creation",
+  "slug": "custom-field-creation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/custom-field-creation/",
+  "download_url": "https://claudskills.com/skills/custom-field-creation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when creating a new custom field on any Salesforce object: choosing field type, setting API name, configuring Field-Level Security, adding to page layouts, and deploying. Triggers: 'add a field', 'new custom field', 'what field type should I use', 'FLS not working', 'field not showing on page layout'. NOT for formula field logic (use formula-fields skill), picklist value set management (use picklist-and-value-sets skill), or object creation decisions (use object-creation-and-design skill).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

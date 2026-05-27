@@ -1,0 +1,18 @@
+{
+  "name": "classroom-setup",
+  "slug": "classroom-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/classroom-setup/",
+  "download_url": "https://claudskills.com/skills/classroom-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Google Classroom 연동 초기 설정. 패키지 설치, OAuth 인증을 자동으로 처리합니다.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

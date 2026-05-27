@@ -1,0 +1,18 @@
+{
+  "name": "mistral-security-basics",
+  "slug": "mistral-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mistral-security-basics/",
+  "download_url": "https://claudskills.com/skills/mistral-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Mistral AI security best practices for secrets, prompt injection, and access control. Use when securing API keys, defending against prompt injection, or auditing Mistral AI security configuration. Trigger with phrases like \"mistral security\", \"mistral secrets\", \"secure mistral\", \"mistral prompt injection\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

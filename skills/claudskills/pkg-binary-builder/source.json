@@ -1,0 +1,18 @@
+{
+  "name": "pkg-binary-builder",
+  "slug": "pkg-binary-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pkg-binary-builder/",
+  "download_url": "https://claudskills.com/skills/pkg-binary-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configure pkg for Node.js binary builds with asset bundling and cross-platform targets.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

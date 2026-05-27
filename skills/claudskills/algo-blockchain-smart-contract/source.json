@@ -1,0 +1,18 @@
+{
+  "name": "algo-blockchain-smart-contract",
+  "slug": "algo-blockchain-smart-contract",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/algo-blockchain-smart-contract/",
+  "download_url": "https://claudskills.com/skills/algo-blockchain-smart-contract/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Design and implement smart contracts as self-executing programmatic agreements on blockchain. Use this skill when the user needs to build automated on-chain logic, evaluate smart contract security, or design tokenized business rules — even if they say 'smart contract development', 'automated agreement', or 'on-chain logic'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

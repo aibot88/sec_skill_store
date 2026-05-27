@@ -1,0 +1,18 @@
+{
+  "name": "qa-plan",
+  "slug": "qa-plan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/qa-plan/",
+  "download_url": "https://claudskills.com/skills/qa-plan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "[QA Process · ISTQB CTFL v4.0] Test Plan creation — objectives, schedule, resources, entry/exit criteria, and risk mitigation. Run after qa-strategy, before test execution.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

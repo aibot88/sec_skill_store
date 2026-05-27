@@ -1,0 +1,18 @@
+{
+  "name": "pruefer-uebergabe-paket",
+  "slug": "pruefer-uebergabe-paket",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pruefer-uebergabe-paket/",
+  "download_url": "https://claudskills.com/skills/pruefer-uebergabe-paket/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Schnuert das vollstaendige Pruefer-Paket nach Abschluss eines Wuerfellaufs — Excel-Wuerfel-Datei aus Skill `excel-multi-sheet-export` PDF-Bericht aus `pdf-bericht-erzeugen` Belegketten-CSV aus `belegkette-rueckverfolgung` Audit-Trail-Auszug aus `audit-trail-protokoll` Prompt-Versionen aus `prompt-versionierung` Widerspruchsbericht aus `kreuzblatt-konsistenzpruefung` Ampel-Aggregat aus `risikoampel-aggregation` Pruefer-Flag-Arbeitsliste. Erzeugt ein ZIP-Paket plus Begleitschreiben. Pflichtschritt vor Mandatsabnahme. Ohne Pruefer-Unterschrift kein Versand an Mandant.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

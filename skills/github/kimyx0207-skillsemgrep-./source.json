@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "kimyx0207-skillsemgrep-.",
+  "source": "github",
+  "source_url": "https://github.com/KimYx0207/SkillSemgrep/blob/eb6dd5127f5dedc325b9364edf71a2034e5e35b1/SKILL.md",
+  "download_url": "https://github.com/KimYx0207/SkillSemgrep/blob/eb6dd5127f5dedc325b9364edf71a2034e5e35b1/SKILL.md",
+  "external_source_url": "https://github.com/KimYx0207/SkillSemgrep/blob/eb6dd5127f5dedc325b9364edf71a2034e5e35b1/SKILL.md",
+  "license": "",
+  "description": "Claude Code安全扫描Skill：说句中文就能扫漏洞，基于Semgrep | Security scanning skill for Claude Code, powered by Semgrep",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "KimYx0207/SkillSemgrep",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

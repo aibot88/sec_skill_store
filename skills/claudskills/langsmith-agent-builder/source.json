@@ -1,0 +1,18 @@
+{
+  "name": "langsmith-agent-builder",
+  "slug": "langsmith-agent-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/langsmith-agent-builder/",
+  "download_url": "https://claudskills.com/skills/langsmith-agent-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "LangSmith Agent Builder - No-code platform for creating AI agents with built-in tools (Gmail, Slack, GitHub, Linear), OAuth integrations, MCP server support, Slack deployment, and programmatic invocation via LangGraph SDK",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

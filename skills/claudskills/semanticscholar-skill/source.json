@@ -1,0 +1,18 @@
+{
+  "name": "semanticscholar-skill",
+  "slug": "semanticscholar-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/semanticscholar-skill/",
+  "download_url": "https://claudskills.com/skills/semanticscholar-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when searching academic papers, looking up citations, finding authors, or getting paper recommendations using the Semantic Scholar API. Triggers on queries about research papers, academic search, citation analysis, or literature discovery.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "azure-salesforce-patterns",
+  "slug": "azure-salesforce-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-salesforce-patterns/",
+  "download_url": "https://claudskills.com/skills/azure-salesforce-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Azure integration patterns for Salesforce — pick between the native Azure Service Bus Connector, Azure Functions / API Management as the callout target, Data 360 (Data Cloud) Azure Blob Storage ingestion, Azure AD as IdP via SAML/OIDC, and the Power Platform Salesforce connector. Decision matrix + auth model guidance (Named Credentials with External Credentials, OAuth 2.0 client-credentials, JWT Bearer, SAML). NOT for AWS integration (see integration/aws-salesforce-patterns), NOT for MuleSoft as the integration backbone, NOT for in-Azure architecture details (Function code style, Service Bus topic/queue topology), NOT for Marketing Cloud-to-Azure data shares.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

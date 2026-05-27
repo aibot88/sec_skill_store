@@ -1,0 +1,18 @@
+{
+  "name": "security-ownership-map",
+  "slug": "security-ownership-map",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-ownership-map/",
+  "download_url": "https://claudskills.com/skills/security-ownership-map/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze git repositories to build a security ownership topology (people-to-file), compute bus factor and sensitive-code ownership, and export CSV/JSON for graph databases and visualization. Trigger only when the user explicitly wants a security-oriented ownership or bus-factor analysis grounded in git history (for example: orphaned sensitive code, security maintainers, CODEOWNERS reality checks for risk, sensitive hotspots, or ownership clusters). Do not trigger for general maintainer lists or non-security ownership questions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

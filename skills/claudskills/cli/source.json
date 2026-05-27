@@ -1,0 +1,18 @@
+{
+  "name": "inference-sh-cli",
+  "slug": "cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cli/",
+  "download_url": "https://claudskills.com/skills/cli/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Run 150+ AI apps via inference.sh CLI (infsh) — image generation, video creation, LLMs, search, 3D, social automation. Uses the terminal tool. Triggers: inference.sh, infsh, ai apps, flux, veo, image generation, video generation, seedream, seedance, tavily",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": ".claude/skills/encryption-key-lifecycle/SKILL.md",
+  "slug": "claude-skills-encryption-key-lifecycle-skill-md",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/claude-skills-encryption-key-lifecycle-skill-md/",
+  "download_url": "https://claudskills.com/skills/claude-skills-encryption-key-lifecycle-skill-md/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "暗号化と鍵ライフサイクル管理スキル。暗号化アルゴリズム選定、 鍵生成、保管、ローテーション、廃棄の全フェーズを網羅します。 保存時・転送時・使用時の暗号化戦略を提供します。 📖 参照書籍: - 『The Pragmatic Programmer』（Andrew Hunt, David Thomas）: 実践的改善 📚 リソース参照: - `resources/Level1_basics.md`: レベル1の基礎ガイド - `resources/Level2_intermediate.md`: レベル2の実務ガイド - `resources/Level3_advanced.md`: レベル3の応用ガイド - `resources/Level4_expert.md`: レベル4の専門ガイド - `resources/legacy-skill.md`: 旧SKILL.mdの全文 - `resources/rotation-procedures.md`: rotation-procedures の詳細ガイド - `scripts/generate-keys.mjs`: keysを生成するスクリプト - `scripts/log_usage.mjs`: 使用記録・自動評価スクリプト - `scripts/validate-skill.mjs`: スキル構造検証スクリプト Use proactively when handling encryption key lifecycle tasks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

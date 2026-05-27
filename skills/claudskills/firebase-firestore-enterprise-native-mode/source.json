@@ -1,0 +1,18 @@
+{
+  "name": "firebase-firestore-enterprise-native-mode",
+  "slug": "firebase-firestore-enterprise-native-mode",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-firestore-enterprise-native-mode/",
+  "download_url": "https://claudskills.com/skills/firebase-firestore-enterprise-native-mode/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive guide for Firestore enterprise native including provisioning, data model, security rules, and SDK usage. Use this skill when the user needs help setting up Firestore Enterprise with the Native mode, writing security rules, or using the Firestore SDK in their application.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "automattic-wordpress-remote-mcp",
+  "slug": "automattic-wordpress-remote-mcp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/automattic-wordpress-remote-mcp/",
+  "download_url": "https://claudskills.com/skills/automattic-wordpress-remote-mcp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automattic WordPress Remote MCP connects MCP clients to live WordPress sites using OAuth, JWT, or application passwords. It is aimed at agents that need to read or operate against WordPress content and site features through a maintained remote MCP bridge.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

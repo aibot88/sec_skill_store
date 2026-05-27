@@ -1,0 +1,18 @@
+{
+  "name": "py",
+  "slug": "py",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/py/",
+  "download_url": "https://claudskills.com/skills/py/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive Python programming reference covering syntax, concurrency, networking, databases, ML/LLM development, and HPC. Use for: Python questions, Python interview preparation, debugging, performance optimization, async patterns, library examples, code review, best practices, MLOps workflows, distributed computing, security implementations, and any Python development tasks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

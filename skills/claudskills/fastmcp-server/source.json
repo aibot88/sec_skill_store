@@ -1,0 +1,18 @@
+{
+  "name": "fastmcp-server",
+  "slug": "fastmcp-server",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastmcp-server/",
+  "download_url": "https://claudskills.com/skills/fastmcp-server/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Complete guide for building MCP servers with FastMCP 3.0 - tools, resources, authentication, providers, middleware, and deployment. Use when creating Python MCP servers or integrating AI models with external tools and data.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

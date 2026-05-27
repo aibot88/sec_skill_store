@@ -1,0 +1,18 @@
+{
+  "name": "implementing-identity-verification-for-zero-trust",
+  "slug": "implementing-identity-verification-for-zero-trust",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-identity-verification-for-zero-trust/",
+  "download_url": "https://claudskills.com/skills/implementing-identity-verification-for-zero-trust/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implement continuous identity verification for zero trust using phishing-resistant MFA (FIDO2/WebAuthn), risk-based",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "zero-trust",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

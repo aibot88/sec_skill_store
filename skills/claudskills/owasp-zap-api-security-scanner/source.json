@@ -1,0 +1,18 @@
+{
+  "name": "owasp-zap-api-security-scanner",
+  "slug": "owasp-zap-api-security-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/owasp-zap-api-security-scanner/",
+  "download_url": "https://claudskills.com/skills/owasp-zap-api-security-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automates OWASP ZAP scans against REST APIs using the ZAP Python API client. Imports OpenAPI/Swagger specs for targeted scanning and generates SARIF-format reports for GitHub Security tab integration.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

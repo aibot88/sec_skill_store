@@ -1,0 +1,18 @@
+{
+  "name": "freshie-inventory",
+  "slug": "freshie-inventory",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/freshie-inventory/",
+  "download_url": "https://claudskills.com/skills/freshie-inventory/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Manage the freshie ecosystem inventory database — a CMDB tracking all plugins, skills, packs, and compliance grades across 50 SQLite tables. Use when checking ecosystem health, running discovery scans, validating compliance, remediating issues, querying inventory data, comparing runs, exporting data, or generating status reports. Trigger with \"freshie status\", \"inventory scan\", \"ecosystem audit\", \"grade report\", \"compliance check\", \"remediate skills\", \"query freshie\", \"compare runs\", \"export grades\", or \"freshie report\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

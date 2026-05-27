@@ -1,0 +1,18 @@
+{
+  "name": "implementing-azure-defender-for-cloud",
+  "slug": "implementing-azure-defender-for-cloud",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-azure-defender-for-cloud/",
+  "download_url": "https://claudskills.com/skills/implementing-azure-defender-for-cloud/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implementing Microsoft Defender for Cloud to enable cloud security posture management, workload protection across",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

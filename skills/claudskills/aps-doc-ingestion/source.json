@@ -1,0 +1,18 @@
+{
+  "name": "aps-doc-ingestion",
+  "slug": "aps-doc-ingestion",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aps-doc-ingestion/",
+  "download_url": "https://claudskills.com/skills/aps-doc-ingestion/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert documentation generation for ingestion layers. Automatically detects connector types (REST API, Database, File, Streaming), documents authentication patterns, rate limiting strategies, and incremental load patterns. Use when documenting data source ingestion workflows.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

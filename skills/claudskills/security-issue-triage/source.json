@@ -1,0 +1,18 @@
+{
+  "name": "security-issue-triage",
+  "slug": "security-issue-triage",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-issue-triage/",
+  "download_url": "https://claudskills.com/skills/security-issue-triage/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "For each open `<tracker>` issue carrying the `needs triage` label, read body + comments and classify the candidate disposition into one of five classes: VALID / DEFENSE-IN-DEPTH / INFO-ONLY / INVALID / PROBABLE-DUP. On user confirmation, posts a triage-proposal comment that invites the security team to react. Read-only on tracker state — no label flips, closes, or CVE allocations. Supports `--retriage` for re-litigating passed-triage decisions when substantive new activity lands.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "don-front-end",
+  "slug": "don-front-end",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/don-front-end/",
+  "download_url": "https://claudskills.com/skills/don-front-end/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Front-end development standards for Dutch government websites. Use when building accessible government web applications, implementing NL Design System components, or ensuring WCAG compliance.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "implementing-siem-correlation-rules-for-apt",
+  "slug": "implementing-siem-correlation-rules-for-apt",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-siem-correlation-rules-for-apt/",
+  "download_url": "https://claudskills.com/skills/implementing-siem-correlation-rules-for-apt/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Write multi-event correlation rules that detect APT lateral movement by chaining Windows authentication events,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "inahd-atlas_core-docs-skills",
+  "source": "github",
+  "source_url": "https://github.com/inahd/atlas_core/blob/28c6d73ece435cd04ee7c3e3e6a3f0cd68695c63/docs/skills/atlas-state-SKILL.md",
+  "download_url": "https://github.com/inahd/atlas_core/blob/28c6d73ece435cd04ee7c3e3e6a3f0cd68695c63/docs/skills/atlas-state-SKILL.md",
+  "external_source_url": "https://github.com/inahd/atlas_core/blob/28c6d73ece435cd04ee7c3e3e6a3f0cd68695c63/docs/skills/atlas-state-SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "inahd/atlas_core",
+    "path": "docs/skills/atlas-state-SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cheatsheets",
+  "slug": "cheatsheets",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cheatsheets/",
+  "download_url": "https://claudskills.com/skills/cheatsheets/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Quick reference cheatsheets for Kailash SDK patterns, nodes, workflows, and best practices. Use when asking about 'quick tips', 'cheat sheet', 'quick reference', 'common mistakes', 'node selection', 'workflow patterns library', 'cycle patterns', 'production patterns', 'performance optimization', 'monitoring', 'security config', 'multi-tenancy', 'distributed transactions', 'saga pattern', 'custom nodes', 'PythonCode data science', 'ollama integration', 'directoryreader patterns', or 'environment variables'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

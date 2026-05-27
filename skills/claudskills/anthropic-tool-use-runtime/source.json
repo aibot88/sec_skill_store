@@ -1,0 +1,18 @@
+{
+  "name": "anthropic-tool-use-runtime",
+  "slug": "anthropic-tool-use-runtime",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/anthropic-tool-use-runtime/",
+  "download_url": "https://claudskills.com/skills/anthropic-tool-use-runtime/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when an approved ai-architecture.md defines an Anthropic Claude capability whose model calls tools or takes side-effecting actions. Produces tool schemas, an auth-enforcing execution adapter, idempotency, audit logging, and failure tests. Not for schema-only output, RAG, or agent design.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ide-editor",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "mcloud-auth",
+  "slug": "mcloud-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mcloud-auth/",
+  "download_url": "https://claudskills.com/skills/mcloud-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Execute mcloud authentication and context commands: login, logout, whoami, use, version, and signup. Use when setting up the CLI, switching accounts, verifying auth state, setting the active org/project/environment context, or checking the CLI version.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

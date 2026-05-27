@@ -1,0 +1,18 @@
+{
+  "name": "fullstory-privacy-strategy",
+  "slug": "fullstory-privacy-strategy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fullstory-privacy-strategy/",
+  "download_url": "https://claudskills.com/skills/fullstory-privacy-strategy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Strategic guide for data privacy in Fullstory implementations. Teaches developers how to decide what data to send, mask, exclude, hash, or replace with joinable keys. Covers regulatory compliance (GDPR, HIPAA, PCI, CCPA), privacy-by-design principles, and balancing analytics value with privacy protection. Acts as a decision framework that references core privacy skills.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "storytelling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:02+00:00"
+}

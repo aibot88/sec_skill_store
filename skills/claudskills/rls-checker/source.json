@@ -1,0 +1,18 @@
+{
+  "name": "memstack-security-rls-checker",
+  "slug": "rls-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rls-checker/",
+  "download_url": "https://claudskills.com/skills/rls-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when the user says 'check RLS', 'audit RLS', 'RLS policies', 'row level security', 'Supabase security audit', or needs to verify table-level access control. Audits Supabase Row Level Security policies across all tables. Do NOT use for non-Supabase projects or writing RLS policies from scratch.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "forensics-osquery",
+  "slug": "forensics-osquery",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/forensics-osquery/",
+  "download_url": "https://claudskills.com/skills/forensics-osquery/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "SQL-powered forensic investigation and system interrogation using osquery to query operating systems as relational databases. Enables rapid evidence collection, threat hunting, and incident response across Linux, macOS, and Windows endpoints. Use when: (1) Investigating security incidents and collecting forensic artifacts, (2) Threat hunting across endpoints for suspicious activity, (3) Analyzing running processes, network connections, and persistence mechanisms, (4) Collecting system state during incident response, (5) Querying file hashes, user activity, and system configuration for compromise indicators, (6) Building detection queries for continuous monitoring with osqueryd.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

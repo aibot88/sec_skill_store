@@ -1,0 +1,18 @@
+{
+  "name": "workos-authkit-nextjs-authentication-toolkit",
+  "slug": "workos-authkit-nextjs-authentication-toolkit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/workos-authkit-nextjs-authentication-toolkit/",
+  "download_url": "https://claudskills.com/skills/workos-authkit-nextjs-authentication-toolkit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "WorkOS AuthKit is a real authentication toolkit for Next.js applications. It gives agents a concrete integration target for login, sessions, RBAC, SSO, MFA, and user management backed by WorkOS docs and package releases.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

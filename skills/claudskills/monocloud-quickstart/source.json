@@ -1,0 +1,18 @@
+{
+  "name": "monocloud-quickstart",
+  "slug": "monocloud-quickstart",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/monocloud-quickstart/",
+  "download_url": "https://claudskills.com/skills/monocloud-quickstart/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill FIRST whenever a user asks to add MonoCloud (authentication or management) to a project but hasn't said which framework. It detects the project type by reading `package.json`, `*.csproj`, `requirements.txt`, etc., then routes to the correct framework-specific MonoCloud skill (`monocloud-auth-nextjs`, `monocloud-auth-express`, `monocloud-auth-fastify`, `monocloud-management-js`, `monocloud-management-dotnet`). Also use when the user says \"set up MonoCloud\", \"add MonoCloud login\", \"integrate MonoCloud\", \"use the MonoCloud SDK\", or \"manage users programmatically with MonoCloud\" without naming a stack.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

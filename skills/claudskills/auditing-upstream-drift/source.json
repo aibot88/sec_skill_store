@@ -1,0 +1,18 @@
+{
+  "name": "auditing-upstream-drift",
+  "slug": "auditing-upstream-drift",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auditing-upstream-drift/",
+  "download_url": "https://claudskills.com/skills/auditing-upstream-drift/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when checking if beads-superpowers is outdated, before a plugin release, or when auditing for missing capabilities — covers upstream drift, test execution, documentation, plugin health, and content integrity",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

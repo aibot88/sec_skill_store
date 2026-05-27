@@ -1,0 +1,18 @@
+{
+  "name": "perf-torch-sync-free",
+  "slug": "perf-torch-sync-free",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/perf-torch-sync-free/",
+  "download_url": "https://claudskills.com/skills/perf-torch-sync-free/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Identify and eliminate host-device synchronizations in PyTorch code. Detects sync points (.item(), .cpu(), boolean indexing, torch.tensor on CUDA), classifies false vs true dependencies, provides sync-free alternatives. Triggers: sync-free, synchronization, .item(), .cpu(), host-device sync, eliminate syncs, CPU stall, non_blocking, set_sync_debug_mode, cudaStreamSynchronize, cudaEventSynchronize, remove syncs, async GPU.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:51+00:00"
+}

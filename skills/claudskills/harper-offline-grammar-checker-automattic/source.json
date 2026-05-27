@@ -1,0 +1,18 @@
+{
+  "name": "harper-offline-grammar-checker-automattic",
+  "slug": "harper-offline-grammar-checker-automattic",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/harper-offline-grammar-checker-automattic/",
+  "download_url": "https://claudskills.com/skills/harper-offline-grammar-checker-automattic/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Harper is an offline, privacy-first grammar checker written in Rust by Automattic. It runs locally with sub-10ms response times, supports LSP for editor integration, compiles to WebAssembly for browser use, and provides grammar, spelling, and style checking without sending text to external servers.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "editorial",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

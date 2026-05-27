@@ -1,0 +1,18 @@
+{
+  "name": "pipe",
+  "slug": "pipe",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pipe/",
+  "download_url": "https://claudskills.com/skills/pipe/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deep GitHub Actions workflow expert. Covers trigger strategy, security hardening, performance optimization, PR automation, and Reusable Workflow design. Use when new GHA workflow design or advanced optimization is needed.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

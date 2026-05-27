@@ -1,0 +1,18 @@
+{
+  "name": "dev-factory",
+  "slug": "dev-factory",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-factory/",
+  "download_url": "https://claudskills.com/skills/dev-factory/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automated software development agent using ChatDev 2.0 and GLM-5. Discovers topics from GitHub Trending, CVE databases, and security news → generates code with 7-agent ChatDev team → tests automatically → publishes to GitHub. Self-correction loop (error → fix → retry, max 3 times). Use when you want to automate development, create security tools, or generate DevOps utilities. Triggers: \\\"자동 개발\\\", \\\"도구 생성\\\", \\\"builder agent\\\", \\\"chatdev\\\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

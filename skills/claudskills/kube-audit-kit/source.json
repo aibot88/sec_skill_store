@@ -1,0 +1,18 @@
+{
+  "name": "kube-audit-kit",
+  "slug": "kube-audit-kit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kube-audit-kit/",
+  "download_url": "https://claudskills.com/skills/kube-audit-kit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Performs read-only Kubernetes security audits by exporting resources, sanitizing metadata, grouping applications by topology, and generating PSS/NSA-compliant audit reports. Use when the user requests auditing Kubernetes clusters, Namespaces, security reviews, or configuration analysis.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

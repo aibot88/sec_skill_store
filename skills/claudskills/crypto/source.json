@@ -1,0 +1,18 @@
+{
+  "name": "crypto",
+  "slug": "crypto",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crypto/",
+  "download_url": "https://claudskills.com/skills/crypto/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Client-side cryptography with libsodium. Use when working on files in src/lib/crypto/.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

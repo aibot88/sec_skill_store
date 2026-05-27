@@ -1,0 +1,18 @@
+{
+  "name": "babeliocli-library",
+  "slug": "babeliocli-library",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/babeliocli-library/",
+  "download_url": "https://claudskills.com/skills/babeliocli-library/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Read the authenticated user's Babelio shelves (lus, à lire, en cours, pense-bête, abandonnés, critiqués, non critiqués) using babeliocli. Use this skill whenever a user wants to list their books, count books they've read, group reads by month or year, extract their reading history, compute statistics about their library, find a book they own, or export their Babelio shelves as JSON.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

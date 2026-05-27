@@ -1,0 +1,18 @@
+{
+  "name": "detecting-arp-poisoning-in-network-traffic",
+  "slug": "detecting-arp-poisoning-in-network-traffic",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-arp-poisoning-in-network-traffic/",
+  "download_url": "https://claudskills.com/skills/detecting-arp-poisoning-in-network-traffic/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect and prevent ARP spoofing attacks using ARPWatch, Dynamic ARP Inspection, Wireshark analysis, and custom",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "graphql-security",
+  "slug": "graphql-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/graphql-security/",
+  "download_url": "https://claudskills.com/skills/graphql-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Secure GraphQL APIs - authentication, authorization, rate limiting, and validation",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:10+00:00"
+}

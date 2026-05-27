@@ -1,0 +1,18 @@
+{
+  "name": "app-store-publish",
+  "slug": "app-store-publish",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/app-store-publish/",
+  "download_url": "https://claudskills.com/skills/app-store-publish/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configure a complete iOS App Store publishing pipeline — sets up Fastlane with code signing (match), App Store Connect API key, TestFlight and release lanes, screenshot automation, metadata templates, review compliance checklist, and phased rollout. Use for any iOS or Flutter app ready to submit to the App Store.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

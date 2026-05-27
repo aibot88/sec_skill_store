@@ -1,0 +1,18 @@
+{
+  "name": "nist-csf-specialist",
+  "slug": "nist-csf-specialist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nist-csf-specialist/",
+  "download_url": "https://claudskills.com/skills/nist-csf-specialist/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT + Commons Clause",
+  "description": "NIST Cybersecurity Framework 2.0 implementation, assessment, and compliance management. Use for NIST cybersecurity framework, CSF 2.0, NIST compliance, cybersecurity risk management, NIST controls, NIST assessment, cybersecurity maturity, NIST CSF profile, cybersecurity governance, CSF gap analysis, cybersecurity program development, and cross-framework compliance mapping.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

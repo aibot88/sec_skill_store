@@ -1,0 +1,18 @@
+{
+  "name": "ln-733-env-configurator",
+  "slug": "ln-733-env-configurator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-733-env-configurator/",
+  "download_url": "https://claudskills.com/skills/ln-733-env-configurator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configures environment variables and secrets protection. Use when setting up .env files and gitignore rules for a project.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

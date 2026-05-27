@@ -1,0 +1,18 @@
+{
+  "name": "adk-frontend",
+  "slug": "adk-frontend",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/adk-frontend/",
+  "download_url": "https://claudskills.com/skills/adk-frontend/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Guidelines for building frontend applications that integrate with Botpress ADK bots - covering authentication, type generation, client setup, and calling bot actions",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

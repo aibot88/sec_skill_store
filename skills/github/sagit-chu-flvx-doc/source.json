@@ -1,0 +1,19 @@
+{
+  "name": "doc",
+  "slug": "sagit-chu-flvx-doc",
+  "source": "github",
+  "source_url": "https://github.com/Sagit-chu/flvx/blob/2d0c993c907c5375b1817505ed7b7b1fe33f2b1c/doc/ai-skill.md",
+  "download_url": "https://github.com/Sagit-chu/flvx/blob/2d0c993c907c5375b1817505ed7b7b1fe33f2b1c/doc/ai-skill.md",
+  "external_source_url": "https://github.com/Sagit-chu/flvx/blob/2d0c993c907c5375b1817505ed7b7b1fe33f2b1c/doc/ai-skill.md",
+  "license": "",
+  "description": "FLVX转发面板",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Sagit-chu/flvx",
+    "path": "doc/ai-skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

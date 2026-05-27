@@ -1,0 +1,18 @@
+{
+  "name": "skillnet-enterprise-app-builder-god-tier",
+  "slug": "claude-enterprise-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/claude-enterprise-skill/",
+  "download_url": "https://claudskills.com/skills/claude-enterprise-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build production-grade, security-first network security applications (e.g.,  security modules like MCP/NCM/NPM/IPAM/STIG Manager/Syslog/IDS/IPS/SIEM/SOAR/), using Dockerized services, Python backends, and secure SQL—while orchestrating AI agents as a force multiplier and continuously improving via structured comparison with other LLMs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

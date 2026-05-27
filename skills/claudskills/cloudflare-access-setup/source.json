@@ -1,0 +1,18 @@
+{
+  "name": "cloudflare-access-setup",
+  "slug": "cloudflare-access-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloudflare-access-setup/",
+  "download_url": "https://claudskills.com/skills/cloudflare-access-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configures Cloudflare Access authentication with Google OAuth for protected services. Use when you need to set up authentication, configure Google OAuth, protect services with Cloudflare Access, enable remote access security, or troubleshoot Access issues. Triggers on \"setup cloudflare access\", \"configure access authentication\", \"enable google oauth\", \"protect services\", \"fix access denied\", \"add users to access\", or \"why can't I login remotely\". Works with cf-access-setup.sh, .env OAuth credentials, and Cloudflare Zero Trust dashboard.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

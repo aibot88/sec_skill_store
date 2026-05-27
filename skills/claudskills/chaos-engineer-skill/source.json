@@ -1,0 +1,18 @@
+{
+  "name": "chaos-engineer",
+  "slug": "chaos-engineer-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chaos-engineer-skill/",
+  "download_url": "https://claudskills.com/skills/chaos-engineer-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert in resilience testing, fault injection, and building anti-fragile systems using controlled experiments.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

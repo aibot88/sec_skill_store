@@ -1,0 +1,18 @@
+{
+  "name": "pull-feedback",
+  "slug": "pull-feedback",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pull-feedback/",
+  "download_url": "https://claudskills.com/skills/pull-feedback/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when the user has authored a GitHub pull request and wants to work through review feedback on it. Triggers on phrases like \"pull down the review on #N\", \"address the feedback\", \"what did @reviewer say on my PR\", \"let's work through the comments\", or any request to triage, respond to, or systematically handle review threads on the user's own PR. Do NOT use for reviewing someone else's PR, authoring PR content or replies, or checking which PRs are waiting on the user for review.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

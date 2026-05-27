@@ -1,0 +1,18 @@
+{
+  "name": "one-way-door",
+  "slug": "one-way-door",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/one-way-door/",
+  "download_url": "https://claudskills.com/skills/one-way-door/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this skill when creating new files that represent architectural decisions — data models, infrastructure configs, auth boundaries, API contracts, CI/CD pipelines, or event systems. Flags irreversible decisions and forces a discussion about trade-offs before committing.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

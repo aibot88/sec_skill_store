@@ -1,0 +1,18 @@
+{
+  "name": "quartz-background-jobs",
+  "slug": "15-quartz-background-jobs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/15-quartz-background-jobs/",
+  "download_url": "https://claudskills.com/skills/15-quartz-background-jobs/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generates scheduled background jobs using Quartz.NET. Includes job definitions, triggers, cron scheduling, dependency injection, and persistent job store configuration.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

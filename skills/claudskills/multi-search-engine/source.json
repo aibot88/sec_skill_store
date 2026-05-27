@@ -1,0 +1,18 @@
+{
+  "name": "multi-search-engine",
+  "slug": "multi-search-engine",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/multi-search-engine/",
+  "download_url": "https://claudskills.com/skills/multi-search-engine/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when searching across both Chinese and international sources simultaneously (17 engines: 8 CN + 9 Global). Trigger: 'search Baidu and Google', 'Chinese + English sources', cross-region market research, privacy-first search, WolframAlpha knowledge queries. NOT for: single-engine queries (use ask-search), real-time finance data, or when speed is critical (parallel requests are slower).",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

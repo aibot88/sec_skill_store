@@ -1,0 +1,18 @@
+{
+  "name": "review-for-ship",
+  "slug": "review-for-ship",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/review-for-ship/",
+  "download_url": "https://claudskills.com/skills/review-for-ship/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "User-invoked skill to run a comprehensive pre-ship review using all review agents relevant to the project's tech stack, with rad-code-review as the final gate. Reads the stack profile and dispatches specialist agents in parallel, then runs rad-code-review for AI slop detection, architecture, security, and release readiness. Trigger when the user says \"/review-for-ship\", \"review before shipping\", \"is this ready to deploy\", \"pre-ship review\", \"run all reviews\", \"comprehensive review\", \"final check before shipping\", \"production readiness check\", \"is this ready to merge\", \"ship check\", \"pre-deploy review\", \"audit everything\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

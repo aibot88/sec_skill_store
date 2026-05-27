@@ -1,0 +1,18 @@
+{
+  "name": "performing-external-network-penetration-test",
+  "slug": "performing-external-network-penetration-test",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-external-network-penetration-test/",
+  "download_url": "https://claudskills.com/skills/performing-external-network-penetration-test/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Conduct a comprehensive external network penetration test to identify vulnerabilities in internet-facing infrastructure",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

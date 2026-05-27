@@ -1,0 +1,18 @@
+{
+  "name": "senior-secops",
+  "slug": "davila7-senior-secops",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/davila7-senior-secops",
+  "download_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-secops",
+  "external_source_url": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-secops",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Comprehensive SecOps skill for application security, vulnerability management, compliance, and secure development practices. Includes security scanning, vulnerability assessment, compliance checking, and security automation. Use when implementing security controls, conducting security audits, responding to vulnerabilities, or ensuring compliance requirements.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "7 files",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/davila7/claude-code-templates/tree/main/cli-tool/components/skills/development/senior-secops"
+  },
+  "collected_at": "2026-05-27T03:44:48+00:00"
+}

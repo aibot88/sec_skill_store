@@ -1,0 +1,18 @@
+{
+  "name": "coderabbit-request",
+  "slug": "coderabbit-request",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/coderabbit-request/",
+  "download_url": "https://claudskills.com/skills/coderabbit-request/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use after completing file changes - strongest for source code (AST-aware linting, security, tests), lighter support for markdown/config. Dispatches CodeRabbit reviewer subagent. ALWAYS request review before considering work complete.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

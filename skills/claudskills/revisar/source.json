@@ -1,0 +1,18 @@
+{
+  "name": "kairos:revisar",
+  "slug": "revisar",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/revisar/",
+  "download_url": "https://claudskills.com/skills/revisar/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Revisão de código abrangente: qualidade + compliance + segurança. Classifica achados por severidade. Combina revisão de código genérica com validação de domínio regulado. Use quando o usuário disser \"kairos revisar\", \"revisar código\", \"code review\", \"review de segurança\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

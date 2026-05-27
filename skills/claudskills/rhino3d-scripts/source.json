@@ -1,0 +1,18 @@
+{
+  "name": "rhino3d-scripts",
+  "slug": "rhino3d-scripts",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rhino3d-scripts/",
+  "download_url": "https://claudskills.com/skills/rhino3d-scripts/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Authoring and debugging scripts for Rhinoceros 3D (Rhino 8 and later). Use when asked to write RhinoScript (VBScript / .rvb / .vbs), RhinoPython, or RhinoCommon-based scripts; automate Rhino modeling tasks; build command macros; manipulate Rhino geometry, layers, blocks, or document objects; pick objects from the viewport; control redraw and undo; or load and run scripts from the Rhino Script Editor. Covers `rhinoscriptsyntax`, `scriptcontext`, the `Rhino.*` RhinoCommon namespaces (`Rhino.Geometry`, `Rhino.DocObjects`, `Rhino.Input`, `Rhino.UI`, `Rhino.Display`, `Rhino.FileIO`), and the Rhino 8 unified Script Editor.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "tanstack-start",
+  "slug": "tanstack-start",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tanstack-start/",
+  "download_url": "https://claudskills.com/skills/tanstack-start/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build a full-stack TanStack Start app on Cloudflare Workers from scratch — SSR, file-based routing, server functions, D1+Drizzle, better-auth, Tailwind v4+shadcn/ui. No template repo — Claude generates every file fresh per project.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

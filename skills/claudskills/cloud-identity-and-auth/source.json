@@ -1,0 +1,18 @@
+{
+  "name": "cloud-identity-and-auth",
+  "slug": "cloud-identity-and-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloud-identity-and-auth/",
+  "download_url": "https://claudskills.com/skills/cloud-identity-and-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Identity, authentication, authorization, and token management for cloud platforms. Covers Keystone-style scoped tokens, OAuth 2.0 flows, OpenID Connect, JWT structure and pitfalls, federation with SAML/OIDC, service-to-service auth with mTLS and SPIFFE, principle of least privilege, IAM role design, and the service catalog pattern (public/internal/admin endpoints). Use when designing authn/authz for a multi-tenant cloud service, integrating with an identity provider, or reviewing IAM policies for over-privilege.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

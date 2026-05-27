@@ -1,0 +1,18 @@
+{
+  "name": "linear-install-auth",
+  "slug": "linear-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/linear-install-auth/",
+  "download_url": "https://claudskills.com/skills/linear-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Linear SDK/CLI authentication. Use when setting up a new Linear integration, configuring API keys, OAuth2 flows, or initializing LinearClient in your project. Trigger: \"install linear\", \"setup linear\", \"linear auth\", \"configure linear API key\", \"linear SDK setup\", \"linear OAuth\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "expo-notifications",
+  "slug": "expo-notifications",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/expo-notifications/",
+  "download_url": "https://claudskills.com/skills/expo-notifications/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "expo-notifications kurulumu, push token, FCM + APNs credentials, kategoriler, scheduled notifications, channels ve permission flow. Triggers on expo-notifications, push notification, fcm, apns, push token, notification permission, notification channel, notification category, action button, scheduled notification, local notification, badge, silent push.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:53+00:00"
+}

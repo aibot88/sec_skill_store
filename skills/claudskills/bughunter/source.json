@@ -1,0 +1,18 @@
+{
+  "name": "bughunter",
+  "slug": "bughunter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bughunter/",
+  "download_url": "https://claudskills.com/skills/bughunter/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "When the user wants to find bugs, test edge cases, stress-test code, or perform adversarial analysis of their codebase. Use when the user says \"find bugs,\" \"break this,\" \"what could go wrong,\" \"red team,\" \"hunt bugs,\" \"adversarial test,\" \"edge cases,\" \"stress test,\" \"what did I miss,\" \"pen test this logic,\" or before any major release. Operates with red team psychology — assumes everything is broken until proven otherwise.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

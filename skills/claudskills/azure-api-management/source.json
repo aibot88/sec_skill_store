@@ -1,0 +1,18 @@
+{
+  "name": "azure-api-management",
+  "slug": "azure-api-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-api-management/",
+  "download_url": "https://claudskills.com/skills/azure-api-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "API gateway and management with Azure API Management. Configure policies, rate limiting, authentication, and developer portal. Use for API lifecycle management, gateway patterns, and API security on Azure.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:00+00:00"
+}

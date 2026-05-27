@@ -1,0 +1,18 @@
+{
+  "name": "publieke-code",
+  "slug": "publieke-code",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/publieke-code/",
+  "download_url": "https://claudskills.com/skills/publieke-code/SKILL.md",
+  "external_source_url": "",
+  "license": "EUPL-1.2",
+  "description": "Helpt bij het open-source publiceren van overheidssoftware conform de Standard for Public Code, publiccode.yml, REUSE-compliance en de Nederlandse open-sourcerichtlijnen. Biedt richtlijnen voor codebase governance, licentiekeuze, community-opbouw en publicatie op developer.overheid.nl. Gebruik deze skill wanneer de gebruiker vraagt over 'publieke code', 'public code', 'Standard for Public Code', 'publiccode.yml', 'publiccode yaml', 'REUSE', 'REUSE compliance', 'REUSE-compliant', 'open source overheid', 'open source government', 'EUPL', 'EUPL licentie', 'EUPL-1.2', 'open source licentie overheid', 'code publiceren overheid', 'broncode publiceren', 'source code publish', 'softwarecatalogus', 'developer overheid', 'code.overheid.nl', 'GitHub overheid', 'GitLab overheid', 'open source compliance', 'licentiekeuze overheid', 'open source beleid', 'open source policy', 'hergebruik software', 'software reuse government', 'community management open source', 'OSPO', 'OSPO overheid', 'CONTRIBUTING.md', 'CODE_OF_CONDUCT.md', of wanneer de gebruiker overheidssoftware open source wil publiceren of wil voldoen aan de Standard for Public Code.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

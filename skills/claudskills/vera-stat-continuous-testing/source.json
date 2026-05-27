@@ -1,0 +1,18 @@
+{
+  "name": "vera-stat-continuous-testing",
+  "slug": "vera-stat-continuous-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vera-stat-continuous-testing/",
+  "download_url": "https://claudskills.com/skills/vera-stat-continuous-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Runs distribution diagnostics and primary hypothesis tests for continuous outcome variables. Produces Shapiro-Wilk normality check, skewness, kurtosis, Q-Q plot, and one fully interpreted group comparison (Welch's t for 2 groups or ANOVA with Tukey HSD for 3+ groups) with effect sizes and nonparametric confirmation. Ends with a recommendation block listing Outputs .R and .py scripts with 2 publication-quality plots. Triggered when user has a continuous/numeric outcome and says \"analyze continuous outcome,\" \"my DV is numeric,\" \"compare group means,\" or names a continuous variable like weight, score, income, time, cost, mpg, blood pressure. Does not handle binary, count, survival, ordinal, repeated measures, or SEM outcomes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

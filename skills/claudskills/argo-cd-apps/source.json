@@ -1,0 +1,18 @@
+{
+  "name": "argo-cd-apps",
+  "slug": "argo-cd-apps",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/argo-cd-apps/",
+  "download_url": "https://claudskills.com/skills/argo-cd-apps/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Author and maintain Argo CD `Application` and `ApplicationSet` manifests as a GitOps consumer (publisher), targeting Argo CD v3.3 / v3.4 (May 2026). Covers source types (Helm, Kustomize, OCI, multi-source, plugin), sync policies + options + waves + hooks, ApplicationSet generators (List, Cluster, Git, Matrix, Merge, SCMProvider, PullRequest, Plugin, ClusterDecisionResource), Progressive Sync (Beta), Source Hydrator (still Alpha), AppProjects, RBAC, sync impersonation (`destinationServiceAccounts`), GPG/cosign signature verification, GitOps repo layout (mono vs poly, app-of-apps vs ApplicationSet — Argo recommends ApplicationSet first), troubleshooting drift / OutOfSync / sync loops / stuck-deletion / hook failures, and v3.0→v3.4 changes (annotation tracking default, SSA-migration regression, CVE-2026-42880 Secret leak). NOT for installing or operating the Argo CD control plane (HA, Dex, repo-server tuning, UI customization).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

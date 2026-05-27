@@ -1,0 +1,18 @@
+{
+  "name": "php-audit-pipeline",
+  "slug": "php-audit-pipeline",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/php-audit-pipeline/",
+  "download_url": "https://claudskills.com/skills/php-audit-pipeline/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "PHP Web 全链路白盒代码安全审计流水线（多文件版编排）。作为总编排参考，按 Sink 类型调用各子审计 skill（`php-route-mapper/php-auth-audit/php-route-tracer/php-*-audit`），并复用统一输出与分级标准。",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

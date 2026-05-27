@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "infinri-phaselock-.",
+  "source": "github",
+  "source_url": "https://github.com/infinri/Phaselock/blob/9fb4edb6dedb5d4a7465c1f82822e4ff2ffa14eb/SKILL.md",
+  "download_url": "https://github.com/infinri/Phaselock/blob/9fb4edb6dedb5d4a7465c1f82822e4ff2ffa14eb/SKILL.md",
+  "external_source_url": "https://github.com/infinri/Phaselock/blob/9fb4edb6dedb5d4a7465c1f82822e4ff2ffa14eb/SKILL.md",
+  "license": "",
+  "description": "A structured enforcement system for AI-generated code.  Turns predictable AI failure modes into architectural gates, static analysis halts, and runtime proof requirements.  Preserves engineering intent AI assists, humans decide.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "infinri/Phaselock",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

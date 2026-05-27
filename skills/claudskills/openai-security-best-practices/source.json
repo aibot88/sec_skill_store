@@ -1,0 +1,18 @@
+{
+  "name": "openai-security-best-practices",
+  "slug": "openai-security-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/openai-security-best-practices/",
+  "download_url": "https://claudskills.com/skills/openai-security-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Perform language and framework specific security best-practice reviews and suggest improvements.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "flexport-data-handling",
+  "slug": "flexport-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flexport-data-handling/",
+  "download_url": "https://claudskills.com/skills/flexport-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement data handling for Flexport supply chain data including PII redaction, shipment data retention, GDPR compliance, and secure document management. Trigger: \"flexport data handling\", \"flexport PII\", \"flexport GDPR\", \"flexport data retention\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

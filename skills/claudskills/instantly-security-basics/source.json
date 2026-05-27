@@ -1,0 +1,18 @@
+{
+  "name": "instantly-security-basics",
+  "slug": "instantly-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/instantly-security-basics/",
+  "download_url": "https://claudskills.com/skills/instantly-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Instantly.ai security best practices for API keys, scopes, and access control. Use when securing API keys, implementing least-privilege access, or auditing Instantly workspace permissions. Trigger with phrases like \"instantly security\", \"instantly api key safety\", \"instantly least privilege\", \"secure instantly\", \"instantly access control\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

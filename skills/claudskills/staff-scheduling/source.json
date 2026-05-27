@@ -1,0 +1,18 @@
+{
+  "name": "staff-scheduling",
+  "slug": "staff-scheduling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/staff-scheduling/",
+  "download_url": "https://claudskills.com/skills/staff-scheduling/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit workforce scheduling systems for labor optimization and compliance. Use when you need to evaluate labor demand forecasting accuracy, shift generation and optimization algorithms, skill-based staff routing, FLSA overtime compliance, predictive scheduling law compliance (OR, NYC, Chicago, Seattle), union CBA shift bidding rules, real-time schedule adjustments (call-outs, flex staffing, VTO), cross-training ROI, or labor cost as percentage of revenue. Covers UKG/Kronos, ADP, Workday, Deputy, HotSchedules, and custom WFM platforms across hospitality, healthcare, retail, and service industries.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

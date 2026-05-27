@@ -1,0 +1,18 @@
+{
+  "name": "bog-payment-gateway",
+  "slug": "bog-payment-gateway",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bog-payment-gateway/",
+  "download_url": "https://claudskills.com/skills/bog-payment-gateway/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Bank of Georgia (BOG) Payment Gateway API integration for accepting online payments. Use this skill when implementing BOG payment processing, creating payment orders, handling refunds, checking payment status, or integrating with BOG's OAuth authentication. Triggers include mentions of BOG, Bank of Georgia, Georgian payments, ipay.ge, or requests for payment gateway integration in Georgia.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "docusaurus-anton-abyzov-specweave",
+  "slug": "docusaurus-anton-abyzov-specweave",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docusaurus-anton-abyzov-specweave/",
+  "download_url": "https://claudskills.com/skills/docusaurus-anton-abyzov-specweave/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Docusaurus 3.x documentation framework - MDX authoring, theming, versioning, i18n. Use for documentation sites or spec-weave.com.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

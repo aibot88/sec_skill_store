@@ -1,0 +1,18 @@
+{
+  "name": "azure-keyvault-secrets-ts",
+  "slug": "azure-keyvault-secrets-ts",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-keyvault-secrets-ts/",
+  "download_url": "https://claudskills.com/skills/azure-keyvault-secrets-ts/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage secrets using Azure Key Vault Secrets SDK for JavaScript (@azure/keyvault-secrets). Use when storing and retrieving application secrets or configuration values.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "euphrat1ca-security-list-.",
+  "source": "github",
+  "source_url": "https://github.com/euphrat1ca/Security-List/blob/bc50f9e239c2ebc35ab626162005a35776ecf331/wiki_TipSkill.md",
+  "download_url": "https://github.com/euphrat1ca/Security-List/blob/bc50f9e239c2ebc35ab626162005a35776ecf331/wiki_TipSkill.md",
+  "external_source_url": "https://github.com/euphrat1ca/Security-List/blob/bc50f9e239c2ebc35ab626162005a35776ecf331/wiki_TipSkill.md",
+  "license": "",
+  "description": "If you have any good suggestions or comments during the search process, please feedback some index experience in issues. Thank you for your participation.查阅过程中，如果有什么好的意见或建议，请在Issues反馈，感谢您的参与。",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "euphrat1ca/Security-List",
+    "path": "wiki_TipSkill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-market-sentiment",
+  "slug": "analyzing-market-sentiment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-market-sentiment/",
+  "download_url": "https://claudskills.com/skills/analyzing-market-sentiment/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Analyze cryptocurrency market sentiment using Fear & Greed Index, news analysis, and market momentum. Use when gauging overall market mood, checking if markets are fearful or greedy, or analyzing sentiment for specific coins. Trigger with phrases like \"analyze crypto sentiment\", \"check market mood\", \"is the market fearful\", \"sentiment for Bitcoin\", or \"Fear and Greed index\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

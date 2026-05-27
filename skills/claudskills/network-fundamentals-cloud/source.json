@@ -1,0 +1,18 @@
+{
+  "name": "network-fundamentals-cloud",
+  "slug": "network-fundamentals-cloud",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/network-fundamentals-cloud/",
+  "download_url": "https://claudskills.com/skills/network-fundamentals-cloud/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Networking fundamentals as they apply to cloud infrastructure — virtual networks, subnets, routers, NAT, floating IPs, security groups, VLAN/VXLAN segmentation, load balancing, SDN concepts, and how Neutron-style cloud networks sit on top of physical topology. Covers TCP behavior at scale, congestion control, tail latency, overlay networks, and the operational gotchas that come from network layering. Use when designing cloud network topology, debugging cross-AZ latency, or reviewing a proposed VPC/SG design.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

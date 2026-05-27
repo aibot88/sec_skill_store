@@ -1,0 +1,18 @@
+{
+  "name": "sales-fastmail",
+  "slug": "sales-fastmail",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-fastmail/",
+  "download_url": "https://claudskills.com/skills/sales-fastmail/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Fastmail platform help — independent privacy-respecting email with full JMAP API, custom domains, Masked Email aliases, calendar/contacts/files, OAuth 2.0, IMAP/SMTP/CardDAV/CalDAV/WebDAV, CORS-enabled, community MCP server (Individual ~$5/mo / Business Standard ~$5/user/mo, 20+ years independent, no ads). Use when setting up Fastmail with a custom domain for your business, JMAP API calls failing or session auth not working, building automations against the Fastmail JMAP API with Python or JavaScript, Masked Email aliases not creating or hitting rate limits, comparing Fastmail to Proton Mail or Gmail or Hey for solopreneur email, migrating from Gmail or Outlook to Fastmail, Fastmail calendar not syncing with Google Calendar, connecting the Fastmail MCP server to Claude Desktop, choosing between Fastmail Individual and Business plans, or wondering why Fastmail has no native Zapier or Make integration. Do NOT use for AI email drafting or smart inbox triage (use /sales-superhuman or /sales-shortwave). Do NOT use for team shared inbox with ticketing (use /sales-hiver or /sales-missive). Do NOT use for end-to-end encrypted email (use /sales-proton-mail).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "is-website-safe",
+  "slug": "is-website-safe",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/is-website-safe/",
+  "download_url": "https://claudskills.com/skills/is-website-safe/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyzes website safety and trustworthiness by checking domain registration, WHOIS data, DNS records, and Trustpilot reviews. Returns a comprehensive trust score and security report. Use when checking if a website is safe, legitimate, trustworthy, or when analyzing domain reputation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

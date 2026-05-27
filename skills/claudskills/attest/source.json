@@ -1,0 +1,18 @@
+{
+  "name": "attest",
+  "slug": "attest",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/attest/",
+  "download_url": "https://claudskills.com/skills/attest/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Spec compliance verification agent. Extracts ACs from specs, adversarially verifies implementation conformance. Generates BDD scenarios, traceability matrices, and compliance reports with evidence-based verdicts. Does not write code.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

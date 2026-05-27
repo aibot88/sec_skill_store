@@ -1,0 +1,18 @@
+{
+  "name": "soc2-compliance-automator",
+  "slug": "soc2-compliance-automator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/soc2-compliance-automator/",
+  "download_url": "https://claudskills.com/skills/soc2-compliance-automator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "SOC 2 Trust Services Criteria compliance automation for evidence collection, control mapping, and audit preparation",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

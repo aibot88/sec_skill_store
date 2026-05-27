@@ -1,0 +1,18 @@
+{
+  "name": "tachi-threat-reporting",
+  "slug": "tachi-threat-reporting",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tachi-threat-reporting/",
+  "download_url": "https://claudskills.com/skills/tachi-threat-reporting/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Domain knowledge for narrative threat report generation — executive summary structure, architecture overview patterns, per-category narrative templates, attack tree construction rules with Mermaid syntax, and reference attack tree examples. Consumed by the threat-report agent during report generation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

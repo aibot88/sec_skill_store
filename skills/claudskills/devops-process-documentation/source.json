@@ -1,0 +1,18 @@
+{
+  "name": "devops-process-documentation",
+  "slug": "devops-process-documentation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/devops-process-documentation/",
+  "download_url": "https://claudskills.com/skills/devops-process-documentation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when authoring, reviewing, or maintaining Salesforce DevOps operational documents — runbooks, environment matrices, deployment guides, and post-deploy validation checklists. Triggers: 'runbook', 'environment matrix', 'deployment guide', 'pre-deploy checklist', 'post-deploy validation', 'how do I document a deployment', 'rollback procedure template'. NOT for release planning, project scheduling, CI/CD pipeline code, or change advisory board process governance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

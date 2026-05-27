@@ -1,0 +1,18 @@
+{
+  "name": "red-team-bundler",
+  "slug": "red-team-bundler",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/red-team-bundler/",
+  "download_url": "https://claudskills.com/skills/red-team-bundler/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Interactively prepares a targeted Red Team Review package. It conducts a brief discovery interview to determine the threat model, generates a strict security auditor prompt, compiles a manifest of relevant project files, and bundles them into a single Markdown artifact or ZIP archive ready for an external LLM (like Grok, ChatGPT, or Gemini) or a human reviewer.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

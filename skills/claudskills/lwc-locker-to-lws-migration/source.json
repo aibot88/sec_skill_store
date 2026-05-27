@@ -1,0 +1,18 @@
+{
+  "name": "lwc-locker-to-lws-migration",
+  "slug": "lwc-locker-to-lws-migration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lwc-locker-to-lws-migration/",
+  "download_url": "https://claudskills.com/skills/lwc-locker-to-lws-migration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Migrating LWCs from Lightning Locker Service to Lightning Web Security (LWS) — flipping the org switch safely, identifying components likely to break, removing Locker workarounds that are now insecure, and validating third-party libraries that previously failed under SecureWindow/SecureElement proxies. NOT for Aura → LWC migration — see lwc/aura-to-lwc-migration. NOT for general LWC security review (XSS, public-API hardening) — see lwc/lwc-security and lwc/lwc-public-api-hardening.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:34+00:00"
+}

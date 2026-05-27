@@ -1,0 +1,18 @@
+{
+  "name": "detecting-oauth-token-theft",
+  "slug": "detecting-oauth-token-theft",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-oauth-token-theft/",
+  "download_url": "https://claudskills.com/skills/detecting-oauth-token-theft/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detects and responds to OAuth token theft and replay attacks in cloud environments, focusing on Microsoft Entra",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "hetzner-live-firewall-rule-guard",
+  "slug": "hetzner-live-firewall-rule-guard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hetzner-live-firewall-rule-guard/",
+  "download_url": "https://claudskills.com/skills/hetzner-live-firewall-rule-guard/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Guard Hetzner Cloud Firewall rule mutations and server attachment changes with mandatory pre-mutation snapshot of current rules, blast-radius review, explicit human approval, target confirmation, account, region, and rollback plan. Use only when live Firewall rule changes are required and all pre-flight checks are confirmed.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

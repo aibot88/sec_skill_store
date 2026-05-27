@@ -1,0 +1,18 @@
+{
+  "name": "diff-summary",
+  "slug": "diff-summary",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/diff-summary/",
+  "download_url": "https://claudskills.com/skills/diff-summary/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "One-call structured triage of a git diff. Returns per-file role classification (source/test/config/doc/generated/build/fixture/migration), risk tier (low/medium/high) with reasons, public-API touch detection, co-changed-test detection, secret-risk path flagging, and aggregate stats. Replaces the 5-20 Read calls an agent burns reading each modified file individually to figure out \"what kind of change is this and how risky is it\". Stateless, no network, stdlib Python only.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

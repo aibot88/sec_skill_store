@@ -1,0 +1,18 @@
+{
+  "name": "project-conventions",
+  "slug": "project-conventions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/project-conventions/",
+  "download_url": "https://claudskills.com/skills/project-conventions/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Opinionated defaults for the lower-stakes structural conventions every project has to pick — branch strategy, directory layout, dependency pinning, path portability. The companion to manage-secrets-env (which owns the high-stakes secrets/env slice). Picks GitHub Flow, enforces pinned dependencies, nudges toward domain-first directory structure, and audits for hardcoded absolute paths. Adapts to repo type — app (exact pin + lockfile), library (semver range + compatibility matrix), monorepo (per-package). Language-agnostic.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

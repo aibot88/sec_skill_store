@@ -1,0 +1,18 @@
+{
+  "name": "document-structure-mapper",
+  "slug": "document-structure-mapper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/document-structure-mapper/",
+  "download_url": "https://claudskills.com/skills/document-structure-mapper/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analiza la jerarquía de archivos de un repositorio técnico de fabricante de componentes electrónicos, construye un grafo semántico de relaciones entre documentos, y define el esqueleto del curso. Activa cuando el usuario menciona: analizar repositorio, mapear estructura, jerarquía de archivos, grafo semántico, esqueleto del curso, document structure, file hierarchy, repo analysis, course skeleton, estructura de carpetas, organizar repositorio, explorar repo, o cuando se necesita entender la organización de un repositorio de fabricante antes de procesar su contenido. Usar SIEMPRE como primer skill en el pipeline de generación de contenido educativo.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

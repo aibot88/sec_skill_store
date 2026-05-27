@@ -1,0 +1,18 @@
+{
+  "name": "building-threat-actor-profile-from-osint",
+  "slug": "building-threat-actor-profile-from-osint",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-threat-actor-profile-from-osint/",
+  "download_url": "https://claudskills.com/skills/building-threat-actor-profile-from-osint/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Build comprehensive threat actor profiles using open-source intelligence (OSINT) techniques to document adversary",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

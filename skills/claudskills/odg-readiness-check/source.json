@@ -1,0 +1,18 @@
+{
+  "name": "odg-readiness-check",
+  "slug": "odg-readiness-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/odg-readiness-check/",
+  "download_url": "https://claudskills.com/skills/odg-readiness-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Visualizza e valida lo stato finalization ODG per una giornata specifica — 6 semafori compliance (cast/location/permessi/elementi/mezzi/pasti) + readiness interno + stato firma DP. Riusa engine esistenti T601 Compliance Matrix + T602 finalizationRules. Uso tipico: prima di firmare ODG, Direttore di Produzione invoca la skill per vedere a colpo d'occhio se la giornata è finalizzabile.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

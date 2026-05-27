@@ -1,0 +1,18 @@
+{
+  "name": "injection-hunter",
+  "slug": "injection-hunter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/injection-hunter/",
+  "download_url": "https://claudskills.com/skills/injection-hunter/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Hunt for injection vulnerabilities including SQL injection, command injection, XSS, SSTI, path traversal, LDAP injection, and other input validation flaws. Use when auditing code that processes user input.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

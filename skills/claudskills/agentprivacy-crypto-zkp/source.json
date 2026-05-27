@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-crypto-zkp",
+  "slug": "agentprivacy-crypto-zkp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-crypto-zkp/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-crypto-zkp/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Zero-knowledge proof systems for 0xagentprivacy. Activates when discussing ZKP circuits (Groth16, PLONK, Nova), proof composition, Privacy Pool cryptography, reconstruction resistance R(d), h(τ) attestation chains, or sovereignty-class proof optimisation. Core cryptographic skill.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crypto-keymgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

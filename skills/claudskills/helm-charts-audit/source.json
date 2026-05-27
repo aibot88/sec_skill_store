@@ -1,0 +1,18 @@
+{
+  "name": "helm-charts-audit",
+  "slug": "helm-charts-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/helm-charts-audit/",
+  "download_url": "https://claudskills.com/skills/helm-charts-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audits Helm charts for anti-patterns, security issues, and best practice violations. Use when asked to audit, review, or check Helm chart quality. Generates a comprehensive report under reports/YYYY-MM-DD/helm-charts-audit.md. (project)",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

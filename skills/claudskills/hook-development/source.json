@@ -1,0 +1,18 @@
+{
+  "name": "hook-development",
+  "slug": "hook-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hook-development/",
+  "download_url": "https://claudskills.com/skills/hook-development/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when creating, modifying, or debugging Claude Code hooks — PreToolUse, PostToolUse, Stop, SubagentStop, SessionStart, SessionEnd, UserPromptSubmit, PreCompact, Notification. Covers the plugin `hooks/hooks.json` wrapper format vs. the user `settings.json` direct format, matchers, security patterns, `$CLAUDE_PLUGIN_ROOT` portability, lifecycle limitations, and debugging. Trigger on \"add a hook\", \"validate tool use\", \"block dangerous commands\", \"enforce completion\", \"hook-based automation\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

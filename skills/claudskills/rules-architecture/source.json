@@ -1,0 +1,18 @@
+{
+  "name": "rules-architecture",
+  "slug": "rules-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rules-architecture/",
+  "download_url": "https://claudskills.com/skills/rules-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Non-negotiable Jardis architecture rules — five constitutional pillars, hexagonal dependency direction, Closure-Orchestrator pattern. Consult before authoring any new class or reviewing existing code.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

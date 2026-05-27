@@ -1,0 +1,18 @@
+{
+  "name": "bknd-create-user",
+  "slug": "bknd-create-user",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bknd-create-user/",
+  "download_url": "https://claudskills.com/skills/bknd-create-user/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when creating a new user account in Bknd programmatically. Covers auth.createUser() in seed functions, registration via SDK/REST API, creating users via data API, admin panel user creation, and role assignment.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

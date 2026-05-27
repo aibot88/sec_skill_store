@@ -1,0 +1,18 @@
+{
+  "name": "github-actions-reference",
+  "slug": "github-actions-reference",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-actions-reference/",
+  "download_url": "https://claudskills.com/skills/github-actions-reference/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Load GitHub Actions automation workflows documentation including CI/CD pipelines, security scanning, and maintenance automation",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ddinter-database",
+  "slug": "ddinter-database",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ddinter-database/",
+  "download_url": "https://claudskills.com/skills/ddinter-database/SKILL.md",
+  "external_source_url": "",
+  "license": "CC-BY-4.0",
+  "description": "Query DDInter drug-drug interactions via REST API (1.7M+ interactions, 2,400+ drugs). Search by drug name/ID for severity (major/moderate/minor), mechanisms, and clinical recommendations. No auth. For FDA labeling use dailymed-database; for pharmacogenomics use clinpgx-database.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

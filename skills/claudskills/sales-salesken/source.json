@@ -1,0 +1,18 @@
+{
+  "name": "sales-salesken",
+  "slug": "sales-salesken",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-salesken/",
+  "download_url": "https://claudskills.com/skills/sales-salesken/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Salesken platform help — AI-powered conversation intelligence with real-time in-call coaching, QA automation on 100% of calls, revenue intelligence with deal health and forecasting, field sales analytics, multilingual transcription, Salesforce/HubSpot/Zoho native CRM sync. Use when reps need live coaching prompts during calls, QA team wants to stop random call sampling and score every call automatically, compliance team needs automatic regulatory breach detection, managers can't see which deals are actually at risk, field sales team conversations aren't being captured, or real-time objection handling cues aren't reaching reps fast enough. Do NOT use for choosing between note-taker platforms (use /sales-note-taker) or building a coaching program (use /sales-coaching).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "deal-management",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

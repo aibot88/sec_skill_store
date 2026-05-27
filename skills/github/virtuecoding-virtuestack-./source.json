@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "virtuecoding-virtuestack-.",
+  "source": "github",
+  "source_url": "https://github.com/VirtueCoding/VirtueStack/blob/0477490ac460d2295987dc67e97c0d5facc112a1/bugbuster-skill.md",
+  "download_url": "https://github.com/VirtueCoding/VirtueStack/blob/0477490ac460d2295987dc67e97c0d5facc112a1/bugbuster-skill.md",
+  "external_source_url": "https://github.com/VirtueCoding/VirtueStack/blob/0477490ac460d2295987dc67e97c0d5facc112a1/bugbuster-skill.md",
+  "license": "",
+  "description": "A modern, scalable Virtual Machine management platform built for VPS hosting providers.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "VirtueCoding/VirtueStack",
+    "path": "bugbuster-skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

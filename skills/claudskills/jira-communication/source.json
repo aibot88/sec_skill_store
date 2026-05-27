@@ -1,0 +1,18 @@
+{
+  "name": "jira-communication",
+  "slug": "jira-communication",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jira-communication/",
+  "download_url": "https://claudskills.com/skills/jira-communication/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Jira API operations via Python CLI scripts. AUTOMATICALLY TRIGGER when user mentions Jira URLs (https://jira.*/browse/*, https://*.atlassian.net/browse/*), issue keys (PROJ-123), or asks about Jira issues. Use when Claude needs to: (1) Search issues with JQL queries, (2) Get or update issue details, (3) Create new issues, (4) Transition issue status (e.g., \"To Do\" → \"Done\"), (5) Add comments, (6) Log work time (worklogs), (7) List sprints and sprint issues, (8) List boards and board issues, (9) Create or list issue links, (10) Discover available Jira fields, (11) Get user profile information, (12) Download attachments from issues. If authentication fails, offer interactive credential setup via jira-setup.py. Supports both Jira Cloud and Server/Data Center with automatic auth detection.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

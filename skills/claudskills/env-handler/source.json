@@ -1,0 +1,18 @@
+{
+  "name": "env-handler",
+  "slug": "env-handler",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/env-handler/",
+  "download_url": "https://claudskills.com/skills/env-handler/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage environment variables securely. Handles distinction between .env (template) and .env.local (secrets).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

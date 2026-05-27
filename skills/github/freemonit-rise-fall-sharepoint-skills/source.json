@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "freemonit-rise-fall-sharepoint-skills",
+  "source": "github",
+  "source_url": "https://github.com/freemonit/rise-fall-sharepoint/blob/63b0ccc6b949e86aa6b7d5923cc9dc79662408a7/skills/security-skill.md",
+  "download_url": "https://github.com/freemonit/rise-fall-sharepoint/blob/63b0ccc6b949e86aa6b7d5923cc9dc79662408a7/skills/security-skill.md",
+  "external_source_url": "https://github.com/freemonit/rise-fall-sharepoint/blob/63b0ccc6b949e86aa6b7d5923cc9dc79662408a7/skills/security-skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "freemonit/rise-fall-sharepoint",
+    "path": "skills/security-skill.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

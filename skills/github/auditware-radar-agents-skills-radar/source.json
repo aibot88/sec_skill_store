@@ -1,0 +1,19 @@
+{
+  "name": "radar",
+  "slug": "auditware-radar-agents-skills-radar",
+  "source": "github",
+  "source_url": "https://github.com/Auditware/radar/blob/00e8152fe29fa273d4b9c957553b04adaa1b70ac/agents/skills/radar/SKILL.md",
+  "download_url": "https://github.com/Auditware/radar/blob/00e8152fe29fa273d4b9c957553b04adaa1b70ac/agents/skills/radar/SKILL.md",
+  "external_source_url": "https://github.com/Auditware/radar/blob/00e8152fe29fa273d4b9c957553b04adaa1b70ac/agents/skills/radar/SKILL.md",
+  "license": "",
+  "description": "A static analysis tool for rust, anchor, stylus, and solidity smart contracts.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Auditware/radar",
+    "path": "agents/skills/radar/SKILL.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

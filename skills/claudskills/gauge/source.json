@@ -1,0 +1,18 @@
+{
+  "name": "gauge",
+  "slug": "gauge",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gauge/",
+  "download_url": "https://claudskills.com/skills/gauge/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Normalization audit and self-evolving compliance agent. Scans SKILL.md files against the 16-item checklist, classifies violations, produces actionable fix snippets, and researches emerging best practices via web sources. Does not write code.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

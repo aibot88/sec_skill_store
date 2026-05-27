@@ -1,0 +1,18 @@
+{
+  "name": "uspto-database",
+  "slug": "uspto-database",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/uspto-database/",
+  "download_url": "https://claudskills.com/skills/uspto-database/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Access USPTO APIs for patent/trademark searches, examination history (PEDS), assignments, citations, office actions, TSDR, for IP analysis and prior art searches.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

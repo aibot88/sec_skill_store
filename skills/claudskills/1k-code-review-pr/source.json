@@ -1,0 +1,18 @@
+{
+  "name": "1k-code-review-pr",
+  "slug": "1k-code-review-pr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/1k-code-review-pr/",
+  "download_url": "https://claudskills.com/skills/1k-code-review-pr/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive PR code review for OneKey monorepo. Use when reviewing PRs, code changes, or diffs — covers security (secrets/PII leakage, supply-chain, AuthN/AuthZ), code quality (hooks, race conditions, null safety, concurrent requests), and OneKey-specific patterns (Fabric crashes, MIUI, BigNumber). Triggers on \"review PR\", \"review this PR\", \"code review\", \"check this diff\", \"审查 PR\", \"代码审查\", \"review #123\". Always use this skill for any PR review task in this repo, even if the user doesn't explicitly mention \"code review\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "soneta-addon-planning",
+  "slug": "soneta-addon-planning",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/soneta-addon-planning/",
+  "download_url": "https://claudskills.com/skills/soneta-addon-planning/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Planowanie projektów dodatków dla platformy enova365/Soneta Enterprise. Tworzy kompletną dokumentację projektową obejmującą: strukturę danych (tabele, relacje), elementy konfigurowalne, definicje list i menu, formularze, workery i raporty. Używaj gdy użytkownik prosi o zaplanowanie nowego modułu/dodatku enova365, przygotowanie założeń projektu, stworzenie specyfikacji funkcjonalnej dodatku, lub zdefiniowanie struktury danych i interfejsu użytkownika dla nowego modułu.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

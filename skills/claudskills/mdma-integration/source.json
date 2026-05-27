@@ -1,0 +1,18 @@
+{
+  "name": "mdma-integration",
+  "slug": "mdma-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mdma-integration/",
+  "download_url": "https://claudskills.com/skills/mdma-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Integrate MDMA into an application and build features with it — wire up parsing, the runtime store, React rendering, LLM streaming, custom components, prompts, and CI validation. Use this skill when the user asks to add MDMA to an app, build a chat that streams MDMA, author or maintain a custom prompt, validate MDMA documents, register a custom component, or expose MDMA to an agent via MCP. Generates focused, correct wiring that uses the right packages for the job instead of reinventing them.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

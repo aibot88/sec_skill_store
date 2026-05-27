@@ -1,0 +1,18 @@
+{
+  "name": "owasp-zap-security-audit-skill",
+  "slug": "owasp-zap-security-audit-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/owasp-zap-security-audit-skill/",
+  "download_url": "https://claudskills.com/skills/owasp-zap-security-audit-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Wraps OWASP ZAP API for automated web application security testing including active scan, spider crawl, and ajax spider endpoints. Generates structured findings reports with CWE classifications and OWASP Top 10 category mapping.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

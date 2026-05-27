@@ -1,0 +1,18 @@
+{
+  "name": "orbit-general",
+  "slug": "orbit-general",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/orbit-general/",
+  "download_url": "https://claudskills.com/skills/orbit-general/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Open Orbit briefing skill — selected by the Orbit pipeline when the user has two or more connectors connected. Pulls the past 24 hours of activity from every authenticated connector (GitHub, Linear, Notion, Slack, 飞书, Calendar, Gmail, Drive, Sentry, Vercel, …) and renders a single adaptive bento-grid dashboard at the top of \"我的设计\". Each connector module picks its own UI form (list, avatar stack, status ring, heatmap, file grid, alert card, …) based on the data shape it returns, so the layout scales as Orbit's connector ecosystem grows. This skill should not be triggered manually — it is invoked by Orbit's daily-digest scheduler against the user's live connector data.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

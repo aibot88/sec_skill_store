@@ -1,0 +1,18 @@
+{
+  "name": "loom-security-scan",
+  "slug": "loom-security-scan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/loom-security-scan/",
+  "download_url": "https://claudskills.com/skills/loom-security-scan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Quick routine security checks for secrets, dependencies, container images, and common vulnerabilities. Use for lightweight pre-commit and CI scans with tools like Semgrep, Trivy, gitleaks, cargo audit, npm audit, and pip-audit. Not a substitute for deep audits (use loom-security-audit).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:34+00:00"
+}

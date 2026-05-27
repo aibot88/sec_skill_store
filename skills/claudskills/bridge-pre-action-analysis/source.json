@@ -1,0 +1,18 @@
+{
+  "name": "bridge-pre-action-analysis",
+  "slug": "bridge-pre-action-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bridge-pre-action-analysis/",
+  "download_url": "https://claudskills.com/skills/bridge-pre-action-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "PFLICHT vor jeder externen Aktion. Wird automatisch geladen wenn ein Agent mit externen Services interagiert, Browser-Aktionen durchfuehrt, Accounts verwaltet, APIs aufruft, Dateien auf fremden Systemen aendert, oder Credentials benoetigt. Erzwingt systematische Analyse VOR dem Handeln. IMMER laden wenn: Login, Signup, API-Call, Browser-Aktion, Deployment, Account-Management, DNS-Aenderung, Domain-Verwaltung, Payment, oder jede andere Interaktion mit der Aussenwelt.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

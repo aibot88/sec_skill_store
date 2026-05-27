@@ -1,0 +1,18 @@
+{
+  "name": "report-generation",
+  "slug": "report-generation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/report-generation/",
+  "download_url": "https://claudskills.com/skills/report-generation/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Format accessibility audit reports with severity scoring (0-100, A-F grades), scorecard computation, and compliance exports including VPAT/ACR and remediation priorities.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

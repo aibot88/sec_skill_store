@@ -1,0 +1,18 @@
+{
+  "name": "ibkr-gateway-api",
+  "slug": "ibkr-gateway-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ibkr-gateway-api/",
+  "download_url": "https://claudskills.com/skills/ibkr-gateway-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when working in mm-ibkr-gateway to access market data, account summary, positions, PnL, or orders via the REST API (FastAPI). Covers starting the API server, required env and safety settings, authentication with X-API-Key, and market/account/order endpoints for quote, historical bars, preview, place, status, cancel, and open orders.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

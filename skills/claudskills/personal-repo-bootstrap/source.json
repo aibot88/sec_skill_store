@@ -1,0 +1,18 @@
+{
+  "name": "personal-repo-bootstrap",
+  "slug": "personal-repo-bootstrap",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/personal-repo-bootstrap/",
+  "download_url": "https://claudskills.com/skills/personal-repo-bootstrap/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Bootstrap a new personal repo with industry-best-practice docs and defensive .gitignore. Routes by repo type (scratch / personal-published / portfolio-public). Ensures secrets/PII protection from the first commit. Triggered by 'create new repo', 'bootstrap [name]', '/repo-bootstrap'.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "finance-personal",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

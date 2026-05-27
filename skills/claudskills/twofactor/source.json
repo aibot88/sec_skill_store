@@ -1,0 +1,18 @@
+{
+  "name": "two-factor-authentication-best-practices",
+  "slug": "twofactor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/twofactor/",
+  "download_url": "https://claudskills.com/skills/twofactor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configure TOTP authenticator apps, send OTP codes via email/SMS, manage backup codes, handle trusted devices, and implement 2FA sign-in flows using Better Auth's twoFactor plugin. Use when users need MFA, multi-factor authentication, authenticator setup, or login security with Better Auth.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

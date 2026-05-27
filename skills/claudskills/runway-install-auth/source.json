@@ -1,0 +1,18 @@
+{
+  "name": "runway-install-auth",
+  "slug": "runway-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/runway-install-auth/",
+  "download_url": "https://claudskills.com/skills/runway-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Runway install auth — AI video generation and creative AI platform. Use when working with Runway for video generation, image editing, or creative AI. Trigger with phrases like \"runway install auth\", \"runway-install-auth\", \"AI video generation\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

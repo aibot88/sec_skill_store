@@ -1,0 +1,18 @@
+{
+  "name": "external-secrets-operator-review",
+  "slug": "external-secrets-operator-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/external-secrets-operator-review/",
+  "download_url": "https://claudskills.com/skills/external-secrets-operator-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing External Secrets Operator (ESO) configuration, including SecretStore, ClusterSecretStore, ExternalSecret, and PushSecret resources. Trigger when a user provides ESO YAML manifests, asks about secret rotation interval compliance, questions whether ClusterSecretStore scope is too broad, or wants to audit the auth method used to reach an external secret store (AWS Secrets Manager, Azure Key Vault, GCP Secret Manager, HashiCorp Vault, 1Password).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:53+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "security-headers",
+  "slug": "security-headers",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-headers/",
+  "download_url": "https://claudskills.com/skills/security-headers/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security headers and hardening for Next.js — CSP, CORS, rate limiting, CSRF protection, input sanitization, secrets management. Use when hardening a Next.js app, configuring security headers, or implementing rate limiting.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "docker-k8s",
+  "slug": "docker-k8s",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docker-k8s/",
+  "download_url": "https://claudskills.com/skills/docker-k8s/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Master containerization and orchestration with security-first approach. Expert in Docker multi-stage builds, Kubernetes zero-trust deployments, security hardening, GitOps workflows, and production-ready patterns for cloud-native applications. Includes 2025 best practices from CNCF and major cloud providers.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

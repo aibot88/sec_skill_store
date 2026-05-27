@@ -1,0 +1,18 @@
+{
+  "name": "gcp-compliance-assured-workloads",
+  "slug": "gcp-compliance-assured-workloads",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-compliance-assured-workloads/",
+  "download_url": "https://claudskills.com/skills/gcp-compliance-assured-workloads/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Configure Assured Workloads for regulated workloads (FedRAMP High/Moderate, HIPAA, PCI-DSS, ITAR, IL4/IL5), audit controls implementation, and gather compliance evidence using Security Command Center and Asset Inventory.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

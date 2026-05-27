@@ -1,0 +1,18 @@
+{
+  "name": "skelm",
+  "slug": "skelm",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skelm/",
+  "download_url": "https://claudskills.com/skills/skelm/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Author, run, and operate skelm pipelines — typed TypeScript orchestrations for agentic and deterministic workflows with default-deny permissions. Use when the user mentions skelm, agent permissions, pipeline.ts, AgentPermissions, skelm.config.ts, MCP servers, or wants to scaffold a workflow.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "workflow-orchestration",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

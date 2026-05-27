@@ -1,0 +1,18 @@
+{
+  "name": "experiment-tracker",
+  "slug": "experiment-tracker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/experiment-tracker/",
+  "download_url": "https://claudskills.com/skills/experiment-tracker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manages ML experiment tracking with MLflow, Weights & Biases, or SpecWeave's built-in tracking. Activates for \"track experiments\", \"MLflow\", \"wandb\", \"experiment logging\", \"compare experiments\", \"hyperparameter tracking\". Automatically configures tracking tools to log to SpecWeave increment folders, ensuring all experiments are documented and reproducible. Integrates with SpecWeave's living docs for persistent experiment knowledge.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

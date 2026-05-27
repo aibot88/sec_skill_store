@@ -1,0 +1,18 @@
+{
+  "name": "hig-compliance",
+  "slug": "hig-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hig-compliance/",
+  "download_url": "https://claudskills.com/skills/hig-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill should be used when the user asks to \"check HIG compliance\", \"unify button labels\", \"fix icon consistency\", or mentions \"HIG準拠\", \"UI一貫性\", \"ボタン統一\", \"アイコン統一\", \"用語統一\", \"画面間の整合性\", \"横断UIチェック\". Apple Human Interface Guidelines (HIG) based system-wide UI consistency check and correction. Takes optional argument: /hig-compliance <target-directory or instruction>",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

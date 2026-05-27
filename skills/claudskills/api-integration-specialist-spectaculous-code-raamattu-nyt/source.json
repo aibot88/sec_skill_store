@@ -1,0 +1,18 @@
+{
+  "name": "API Integration Specialist",
+  "slug": "api-integration-specialist-spectaculous-code-raamattu-nyt",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-integration-specialist-spectaculous-code-raamattu-nyt/",
+  "download_url": "https://claudskills.com/skills/api-integration-specialist-spectaculous-code-raamattu-nyt/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Expert in integrating third-party APIs with proper authentication, error handling, rate limiting, and retry logic. Use when integrating REST APIs, GraphQL endpoints, webhooks, or external services. Specializes in OAuth flows, API key management, request/response transformation, and building robust API clients.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

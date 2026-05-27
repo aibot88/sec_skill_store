@@ -1,0 +1,18 @@
+{
+  "name": "dotnet-testing-advanced-tunit-advanced",
+  "slug": "dotnet-testing-advanced-tunit-advanced",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dotnet-testing-advanced-tunit-advanced/",
+  "download_url": "https://claudskills.com/skills/dotnet-testing-advanced-tunit-advanced/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "TUnit 進階應用完整指南 - 資料驅動測試、依賴注入與整合測試實戰。涵蓋 MethodDataSource、ClassDataSource、Matrix Tests、Properties 過濾。包含 Retry/Timeout 控制、WebApplicationFactory 整合、Testcontainers 多服務編排。 Keywords: TUnit advanced, TUnit 進階, MethodDataSource, ClassDataSource, Matrix Tests, MatrixDataSource, MicrosoftDependencyInjectionDataSource, Property, Retry, Timeout, 資料驅動測試, 測試過濾, WebApplicationFactory TUnit, 多容器編排",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

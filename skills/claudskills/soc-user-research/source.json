@@ -1,0 +1,18 @@
+{
+  "name": "soc-user-research",
+  "slug": "soc-user-research",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/soc-user-research/",
+  "download_url": "https://claudskills.com/skills/soc-user-research/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design and conduct user research using interviews, focus groups, surveys, and field observation. Use this skill when the user needs to understand customer needs, validate product assumptions, gather qualitative insights, or design a research study — even if they say 'we need to talk to users', 'how do we validate this idea', or 'what do our customers actually think'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

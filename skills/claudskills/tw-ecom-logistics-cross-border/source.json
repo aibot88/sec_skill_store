@@ -1,0 +1,18 @@
+{
+  "name": "tw-ecom-logistics-cross-border",
+  "slug": "tw-ecom-logistics-cross-border",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tw-ecom-logistics-cross-border/",
+  "download_url": "https://claudskills.com/skills/tw-ecom-logistics-cross-border/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Select carriers and manage cross-border shipping operations for Taiwan — carrier choices (DHL / FedEx / UPS / 郵局 國際), customs clearance operations (報關), DDP vs DDU trade-offs, label generation, and returns handling. Use when choosing a carrier, estimating shipping cost or transit time, or managing the physical movement of cross-border goods. Do NOT use for duty/tax calculation, HS-code classification, or 境外電商 tax registration (see tw-ecom-compliance-cross-border). Do NOT use for domestic TW shipping. STATUS: SKELETON — body pending.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

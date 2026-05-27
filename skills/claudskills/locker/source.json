@@ -1,0 +1,18 @@
+{
+  "name": "locker",
+  "slug": "locker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/locker/",
+  "download_url": "https://claudskills.com/skills/locker/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deterministic secret storage for guppi skills. Use when you need to store, retrieve, or manage API tokens and secrets across guppi skills.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

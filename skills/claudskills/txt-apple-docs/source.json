@@ -1,0 +1,18 @@
+{
+  "name": "txt-apple-docs",
+  "slug": "txt-apple-docs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/txt-apple-docs/",
+  "download_url": "https://claudskills.com/skills/txt-apple-docs/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Look up authoritative Apple-authored documentation for any text-system or Swift API via Sosumi (sosumi.ai URL swap and MCP server) and Xcode 26.3+ xcrun mcpbridge. Use when an Apple Text skill needs grounding against the actual Apple docs, an exact API signature is required, a Swift compiler diagnostic needs the official explanation, or a recently-shipped framework update has to be verified against the source. This is the entry point for documentation grounding — invoke it before reciting any specific API signature from memory.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

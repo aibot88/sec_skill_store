@@ -1,0 +1,18 @@
+{
+  "name": "mobile-security-coder",
+  "slug": "mobile-security-coder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mobile-security-coder/",
+  "download_url": "https://claudskills.com/skills/mobile-security-coder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

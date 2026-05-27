@@ -1,0 +1,18 @@
+{
+  "name": "golang-swagger",
+  "slug": "golang-swagger",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/golang-swagger/",
+  "download_url": "https://claudskills.com/skills/golang-swagger/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Golang OpenAPI/Swagger documentation with swaggo/swag — annotation comments (@Summary, @Param, @Success, @Router, @Security), swag init code generation, framework integrations (gin, echo, fiber, chi, net/http), security definitions (Bearer/JWT, OAuth2, API key), and struct tags (swaggertype, enums, example, swaggerignore). Apply when adding or maintaining Swagger/OpenAPI docs in a Go project, or when the codebase imports github.com/swaggo/swag, github.com/swaggo/gin-swagger, github.com/swaggo/echo-swagger, github.com/swaggo/http-swagger, or github.com/swaggo/files.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

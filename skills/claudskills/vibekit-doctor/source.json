@@ -1,0 +1,18 @@
+{
+  "name": "vibekit-doctor",
+  "slug": "vibekit-doctor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vibekit-doctor/",
+  "download_url": "https://claudskills.com/skills/vibekit-doctor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use to diagnose vibekit installation health — skill file integrity, runtime registration parity, `.vibekit/` directory health, `docs/` subdir presence, authoring-contract alignment. Reports verdict only by default; `--fix` auto-repairs safe items. Cross-runtime portable.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "replit-core-workflow-a",
+  "slug": "replit-core-workflow-a",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/replit-core-workflow-a/",
+  "download_url": "https://claudskills.com/skills/replit-core-workflow-a/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Build a full-stack web app on Replit with Express/Flask, PostgreSQL, Auth, and deployment. Use when creating a new production app on Replit from scratch, building the primary user-facing workflow, or following Replit best practices. Trigger with phrases like \"build replit app\", \"replit full stack\", \"replit web app\", \"create replit project\", \"replit express flask\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "workflow-orchestration",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

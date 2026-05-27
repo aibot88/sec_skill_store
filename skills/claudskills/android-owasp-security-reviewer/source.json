@@ -1,0 +1,18 @@
+{
+  "name": "android-owasp-security-reviewer",
+  "slug": "android-owasp-security-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/android-owasp-security-reviewer/",
+  "download_url": "https://claudskills.com/skills/android-owasp-security-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AndroidアプリのセキュリティレビューをOWASP Mobile Top 10 2024およびMASVS (Mobile Application Security Verification Standard) の観点で実施し、Markdownレポートを生成する。 Use when: (1) Androidアプリのセキュリティ監査/レビュー依頼時 (2) 「セキュリティチェック」「脆弱性診断」「OWASP」「MASVS」キーワード時 (3) Androidプロジェクトのコードレビューでセキュリティ観点が必要な時 (4) 金融・医療アプリのセキュリティ評価時",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

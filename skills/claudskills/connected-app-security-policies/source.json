@@ -1,0 +1,18 @@
+{
+  "name": "connected-app-security-policies",
+  "slug": "connected-app-security-policies",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/connected-app-security-policies/",
+  "download_url": "https://claudskills.com/skills/connected-app-security-policies/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Managing OAuth policies, IP relaxation, session security, PKCE, and credential rotation for Salesforce Connected Apps. Use when hardening Connected App security, rotating client secrets, configuring IP restrictions, or requiring high-assurance sessions. NOT for basic Connected App setup or creation. NOT for OAuth flow implementation (use oauth-flows-and-connected-apps).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

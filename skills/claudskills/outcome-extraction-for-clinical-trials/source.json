@@ -1,0 +1,18 @@
+{
+  "name": "outcome-extraction-for-clinical-trials",
+  "slug": "outcome-extraction-for-clinical-trials",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/outcome-extraction-for-clinical-trials/",
+  "download_url": "https://claudskills.com/skills/outcome-extraction-for-clinical-trials/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Clinical research outcome extraction for meta-analysis. Use when users need to extract outcome measures (binary, continuous, or survival data) from clinical research papers for systematic review and meta-analysis. Handles both database lookup by PMID and real-time LLM extraction.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "biology-medicine",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

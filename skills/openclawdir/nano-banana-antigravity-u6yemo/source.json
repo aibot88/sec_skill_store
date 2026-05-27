@@ -1,0 +1,17 @@
+{
+  "name": "nano-banana-antigravity",
+  "slug": "nano-banana-antigravity-u6yemo",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/nano-banana-antigravity-u6yemo",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/cgnl/nano-banana-antigravity/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/cgnl/nano-banana-antigravity/SKILL.md",
+  "license": "",
+  "description": "Generate or edit images via Nano Banana Pro",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=2"
+  },
+  "collected_at": "2026-05-27T03:44:41+00:00"
+}

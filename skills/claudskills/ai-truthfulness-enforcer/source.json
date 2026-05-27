@@ -1,0 +1,18 @@
+{
+  "name": "AI Truthfulness Enforcer",
+  "slug": "ai-truthfulness-enforcer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-truthfulness-enforcer/",
+  "download_url": "https://claudskills.com/skills/ai-truthfulness-enforcer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "MANDATORY verification system that prevents Claude Code instances from making false claims or fabricating evidence. Enforces cryptographic verification, real testing evidence, and automatic claim validation before any success statements can be made.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "vercel-policy-guardrails",
+  "slug": "vercel-policy-guardrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vercel-policy-guardrails/",
+  "download_url": "https://claudskills.com/skills/vercel-policy-guardrails/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement lint rules, CI policy checks, and automated guardrails for Vercel projects. Use when setting up code quality rules, preventing secret exposure, or enforcing deployment policies for Vercel applications. Trigger with phrases like \"vercel policy\", \"vercel lint\", \"vercel guardrails\", \"vercel best practices check\", \"vercel secret scan\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

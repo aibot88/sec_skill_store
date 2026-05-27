@@ -1,0 +1,18 @@
+{
+  "name": "code-conventions",
+  "slug": "code-conventions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-conventions/",
+  "download_url": "https://claudskills.com/skills/code-conventions/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache 2.0",
+  "description": "Universal coding principles: DRY, security by default, null guards, and YAGNI. Trigger: When writing or reviewing code in any language or technology.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

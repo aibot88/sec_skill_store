@@ -1,0 +1,18 @@
+{
+  "name": "spec-driven-stories",
+  "slug": "spec-driven-stories",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spec-driven-stories/",
+  "download_url": "https://claudskills.com/skills/spec-driven-stories/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create user stories with acceptance criteria, technical specifications, and UI specifications through an 8-phase workflow with structural anti-skip enforcement. Prevents token optimization bias through per-phase reference loading, checkpoint persistence, Execute-Verify-Record enforcement, and artifact verification. Use when transforming feature descriptions into structured stories, generating stories from epic features, or creating follow-up stories for deferred work. Supports CRUD, authentication, workflow, and reporting story types with complete technical and UI specifications.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "fireflies-common-errors",
+  "slug": "fireflies-common-errors",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fireflies-common-errors/",
+  "download_url": "https://claudskills.com/skills/fireflies-common-errors/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Diagnose and fix Fireflies.ai GraphQL API errors by error code. Use when encountering Fireflies.ai errors, debugging failed requests, or troubleshooting authentication and rate limit issues. Trigger with phrases like \"fireflies error\", \"fix fireflies\", \"fireflies not working\", \"debug fireflies\", \"fireflies 429\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

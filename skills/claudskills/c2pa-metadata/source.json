@@ -1,0 +1,18 @@
+{
+  "name": "c2pa-metadata",
+  "slug": "c2pa-metadata",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/c2pa-metadata/",
+  "download_url": "https://claudskills.com/skills/c2pa-metadata/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Embed C2PA (Content Authenticity Initiative) provenance manifests in AI-generated marketing assets (image/video/audio/PDF). Use when: preparing AI-generated ad creative, social images, or video for EU markets to comply with EU AI Act Article 50 (applicable 2 Aug 2026); embedding visible AI-generation disclosure in assets; meeting brand-trust transparency requirements.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "growth-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cloud-infrastructure-security",
+  "slug": "cloud-infrastructure-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloud-infrastructure-security/",
+  "download_url": "https://claudskills.com/skills/cloud-infrastructure-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "雲端基礎設施安全檢查清單與最佳實踐。 Use when: 部署到雲端平台、配置 IAM、設定 CI/CD pipeline、實作 IaC、配置監控或管理 secrets。 Triggers: \"cloud security\", \"IAM policy\", \"CI/CD security\", \"Terraform security\", \"Cloudflare WAF\", \"雲端安全\", \"基礎設施安全\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

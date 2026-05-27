@@ -1,0 +1,18 @@
+{
+  "name": "klaviyo-ci-integration",
+  "slug": "klaviyo-ci-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/klaviyo-ci-integration/",
+  "download_url": "https://claudskills.com/skills/klaviyo-ci-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure CI/CD pipelines for Klaviyo integrations with GitHub Actions. Use when setting up automated testing, configuring CI secrets, or integrating Klaviyo SDK tests into your build pipeline. Trigger with phrases like \"klaviyo CI\", \"klaviyo GitHub Actions\", \"klaviyo automated tests\", \"CI klaviyo\", \"klaviyo pipeline\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

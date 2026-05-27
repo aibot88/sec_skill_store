@@ -1,0 +1,18 @@
+{
+  "name": "fristenbuch-fuehren",
+  "slug": "fristenbuch-fuehren",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fristenbuch-fuehren/",
+  "download_url": "https://claudskills.com/skills/fristenbuch-fuehren/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Zentrales Fristenbuch fuer die Kanzlei mit Haupt- und Vorfristen ueber alle Rechtsgebiete. Berechnet Fristbeginn nach den jeweiligen Verfahrensordnungen (ZPO StPO SGG FGO VwGO FamFG AO BGB) Vier-Tages-Fiktionen bei Postzustellung (PostModG seit 1.1.2025; bis 31.12.2024 drei Tage). Trennt Notfristen (BRAO-Haftungsrisiko) von Beobachtungsfristen. Setzt Vorfristen typisch fuenf Werktage vor Hauptfrist; bei BRAO-relevanten Notfristen sieben Werktage. Eskalation an Sekretariat und zustaendigen Anwalt bei Vorfristerreichung. Audit-Trail jeder Fristaenderung.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "metabot-chat",
+  "slug": "metabot-chat",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/metabot-chat/",
+  "download_url": "https://claudskills.com/skills/metabot-chat/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage group chat messages, send messages, and join groups on the MetaID network. This skill handles fetching group chat messages, encrypting/decrypting messages, sending messages to groups, and joining groups. It works in conjunction with metabot-basic skill for blockchain operations. Use when users want to: (1) Fetch group chat messages from a specified group, (2) Send messages to a group chat, (3) Join a group chat, (4) Have MetaBot Agents participate in group discussions based on topics, (5) 开启群聊/监听群聊/让 XX Agent 监听群聊信息 - Cursor/AI 必须直接帮用户执行启动脚本（一键即启动），除非用户明确要求手动启动，否则禁止仅输出命令让用户自行执行, (6) 对监听群聊内容进行具体 XX 场景的回复 - Cursor/AI 必须自动执行对应场景脚本. Requires Node.js >= 18.x.x, TypeScript, and metabot-basic skill as a dependency. Dependencies: crypto-js, meta-contract.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

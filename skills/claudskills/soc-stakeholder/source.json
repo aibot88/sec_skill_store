@@ -1,0 +1,18 @@
+{
+  "name": "soc-stakeholder",
+  "slug": "soc-stakeholder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/soc-stakeholder/",
+  "download_url": "https://claudskills.com/skills/soc-stakeholder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Conduct stakeholder analysis using identification, Power-Interest matrix classification, and influence strategy development. Use this skill when the user needs to map stakeholders for a project, manage conflicting interests, prioritize communication, or build a stakeholder engagement plan — even if they say 'who needs to approve this', 'how do I get buy-in', or 'who might block this project'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

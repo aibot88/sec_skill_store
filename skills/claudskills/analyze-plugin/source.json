@@ -1,0 +1,18 @@
+{
+  "name": "analyze-plugin",
+  "slug": "analyze-plugin",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyze-plugin/",
+  "download_url": "https://claudskills.com/skills/analyze-plugin/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Systematically analyze agent plugins and skills to extract design patterns, architectural decisions, and reusable techniques. Trigger with \"analyze this plugin\", \"mine patterns from\", \"review plugin structure\", \"extract learnings from\", \"what patterns does this plugin use\", \"check if this plugin is well-structured\", \"validate plugin compliance\", or when examining any plugin or skill collection to understand its design. Use this skill even when the user just says \"look at this plugin\" or \"tell me how this is structured.\"",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

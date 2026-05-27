@@ -1,0 +1,18 @@
+{
+  "name": "flow-trace",
+  "slug": "flow-trace",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flow-trace/",
+  "download_url": "https://claudskills.com/skills/flow-trace/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Trace data flow across files from source to sink. Use for cross-file taint analysis, understanding how user input reaches dangerous sinks, and documenting vulnerability paths.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

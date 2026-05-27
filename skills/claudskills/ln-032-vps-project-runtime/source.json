@@ -1,0 +1,18 @@
+{
+  "name": "ln-032-vps-project-runtime",
+  "slug": "ln-032-vps-project-runtime",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-032-vps-project-runtime/",
+  "download_url": "https://claudskills.com/skills/ln-032-vps-project-runtime/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when creating or verifying one project runtime on a prepared VPS, including god-session, provider credentials, and local dispatcher setup.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

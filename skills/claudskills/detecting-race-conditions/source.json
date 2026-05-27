@@ -1,0 +1,18 @@
+{
+  "name": "detecting-race-conditions",
+  "slug": "detecting-race-conditions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-race-conditions/",
+  "download_url": "https://claudskills.com/skills/detecting-race-conditions/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detects race condition vulnerabilities including TOCTOU, double-checked locking issues, and shared state problems. Use when analyzing concurrent operations, file access patterns, or investigating timing-related vulnerabilities.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

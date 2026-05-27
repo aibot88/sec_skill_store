@@ -1,0 +1,18 @@
+{
+  "name": "supabase-troubleshooting",
+  "slug": "supabase-troubleshooting",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-troubleshooting/",
+  "download_url": "https://claudskills.com/skills/supabase-troubleshooting/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when debugging Supabase issues, viewing logs, running performance advisors, diagnosing common errors, or searching Supabase documentation for solutions. Trigger when: \"Supabase logs\", \"debug Supabase\", \"Supabase error\", \"performance issue\", \"slow query\", \"connection error\", \"Supabase not working\", \"function error\", \"auth error\", \"storage error\", \"realtime issue\", \"Supabase troubleshooting\", \"search Supabase docs\", \"inspect database\", \"performance advisor\", \"db lint\", \"diagnose Supabase\", or resolving any Supabase operational issue.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

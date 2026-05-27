@@ -1,0 +1,18 @@
+{
+  "name": "ibm-mainframe",
+  "slug": "ibm-mainframe",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ibm-mainframe/",
+  "download_url": "https://claudskills.com/skills/ibm-mainframe/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides comprehensive IBM Mainframe administration, development, and modernization guidance including z/OS operations, JCL scripting, COBOL/PL/I programming, CICS/IMS configuration, DB2 administration, TSO/ISPF usage, system programming, batch processing, and mainframe-to-cloud migration strategies. Covers mainframe security (RACF, ACF2), performance tuning, capacity planning, disaster recovery, and DevOps integration. Use when working with mainframe systems, z/OS, JES2/JES3, VTAM, USS, or when users mention \"mainframe\", \"z/OS\", \"MVS\", \"TSO\", \"ISPF\", \"JCL\", \"CICS\", \"IMS\", \"DB2 mainframe\", \"VSAM\", \"RACF\", \"mainframe modernization\", \"legacy mainframe\", or \"IBM z Systems\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

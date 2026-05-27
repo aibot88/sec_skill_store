@@ -1,0 +1,18 @@
+{
+  "name": "create-skill-test",
+  "slug": "create-skill-test",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-skill-test/",
+  "download_url": "https://claudskills.com/skills/create-skill-test/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scaffolds eval.yaml test files for agent skills in the dotnet/skills repository. Use when creating skill tests, writing evaluation scenarios, defining assertions and rubrics, or setting up test fixture files. Handles eval.yaml generation, fixture organization, and overfitting avoidance. Do not use for running or debugging existing tests nor for skills authoring.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "404-frameworks-quarkus-security",
+  "slug": "404-frameworks-quarkus-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/404-frameworks-quarkus-security/",
+  "download_url": "https://claudskills.com/skills/404-frameworks-quarkus-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when you need to design, review, or improve security in Quarkus applications — including Quarkus Security with JWT/OIDC, basic auth, @RolesAllowed / @Authenticated / @PermitAll, SecurityIdentity, permission checks, path-based authorization in configuration, exception mapping for auth failures, and sensitive-data-safe logging. This should trigger for requests such as Add Quarkus security support; Review Quarkus security configuration; Improve API authorization in Quarkus; Add JWT/OIDC security in Quarkus; Harden Quarkus authorization rules. Part of cursor-rules-java project",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

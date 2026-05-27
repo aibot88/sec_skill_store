@@ -1,0 +1,18 @@
+{
+  "name": "fastapi-endpoint-generator",
+  "slug": "fastapi-endpoint-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastapi-endpoint-generator/",
+  "download_url": "https://claudskills.com/skills/fastapi-endpoint-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate FastAPI endpoint files with Pydantic models, dependency injection, and async handlers. Triggers on \"create fastapi endpoint\", \"generate fastapi router\", \"python API endpoint\", \"fastapi route\".",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

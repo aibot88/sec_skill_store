@@ -1,0 +1,18 @@
+{
+  "name": "s4hana-create-po",
+  "slug": "s4hana-create-po",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/s4hana-create-po/",
+  "download_url": "https://claudskills.com/skills/s4hana-create-po/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Create purchase orders (POs) in SAP S/4HANA Cloud Public or on-prem private edition via the OData V2 A_PurchaseOrder deep-insert at API_PURCHASEORDER_PROCESS_SRV. Use whenever the user wants to post, create, add, generate, seed, clone, or backdate purchase orders on S/4HANA — phrases like \"make me a few POs\", \"post 20 POs\", \"seed PO demo data\", \"create PO for supplier X material Y\", \"clone these on-prem POs to cloud\". Handles header+item deep-insert, CSRF token flow, master-data resolution (supplier/material/plant/currency from PO ItemCategory 0), idempotent bulk batches, and known field constraints (UoM='PC', no D/9 service item categories, no account-assignment deep-insert). Do NOT use for service-based POs (item category D/9), framework agreements, scheduling agreements, or PO updates — those need different shapes (track under generic skill until verified).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

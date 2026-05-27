@@ -1,0 +1,18 @@
+{
+  "name": "security-requirement-extraction",
+  "slug": "sickn33-security-requirement-extraction",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-security-requirement-extraction",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/security-requirement-extraction/SKILL.md?plain=1#L31",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/security-requirement-extraction/SKILL.md?plain=1#L31",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Derive security requirements from threat models and business context. Use when translating threats into actionable requirements, creating security user stories, or building security test cases.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/security-requirement-extraction/SKILL.md?plain=1#L31"
+  },
+  "collected_at": "2026-05-27T03:44:49+00:00"
+}

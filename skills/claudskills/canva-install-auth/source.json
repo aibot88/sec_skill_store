@@ -1,0 +1,18 @@
+{
+  "name": "canva-install-auth",
+  "slug": "canva-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/canva-install-auth/",
+  "download_url": "https://claudskills.com/skills/canva-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Set up Canva Connect API OAuth 2.0 PKCE authentication and project scaffolding. Use when creating a new Canva integration, setting up OAuth credentials, or initializing a Canva Connect API project. Trigger with phrases like \"install canva\", \"setup canva\", \"canva auth\", \"configure canva API\", \"canva OAuth\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

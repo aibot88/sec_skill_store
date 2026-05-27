@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "slamsmart-gemini_superman_skill-.",
+  "source": "github",
+  "source_url": "https://github.com/slamsmart/GEMINI_SUPERMAN_SKILL/blob/eff76d4f184cf29194f854512d6d17e26b0fde52/GEMINI_SUPERMAN_SKILL.md",
+  "download_url": "https://github.com/slamsmart/GEMINI_SUPERMAN_SKILL/blob/eff76d4f184cf29194f854512d6d17e26b0fde52/GEMINI_SUPERMAN_SKILL.md",
+  "external_source_url": "https://github.com/slamsmart/GEMINI_SUPERMAN_SKILL/blob/eff76d4f184cf29194f854512d6d17e26b0fde52/GEMINI_SUPERMAN_SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "slamsmart/GEMINI_SUPERMAN_SKILL",
+    "path": "GEMINI_SUPERMAN_SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

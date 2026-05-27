@@ -1,0 +1,18 @@
+{
+  "name": "slicing-pbis",
+  "slug": "slicing-pbis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/slicing-pbis/",
+  "download_url": "https://claudskills.com/skills/slicing-pbis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Slices, reviews, and writes product backlog items (PBIs) using priority-ordered quality characteristics (Valuable > Completable > Negotiable > Independent > Commensurate > Small), vertical slicing, and the splitting meta-pattern. Produces well-formed, commensurately sized PBIs with binary acceptance criteria. Use when splitting large PBIs or user stories, reviewing backlog items for quality, writing new PBIs from requirements, refining a product backlog, decomposing epics into stories, or when the user mentions PBI slicing, story splitting, backlog refinement, or vertical slices.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

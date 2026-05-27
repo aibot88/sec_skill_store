@@ -1,0 +1,18 @@
+{
+  "name": "specialist-seguranca-informacao",
+  "slug": "specialist-seguranca-informacao",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/specialist-seguranca-informacao/",
+  "download_url": "https://claudskills.com/skills/specialist-seguranca-informacao/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Especialista em segurança OWASP, LGPD e threat modeling para sistemas modernos.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

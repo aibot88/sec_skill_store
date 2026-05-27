@@ -1,0 +1,18 @@
+{
+  "name": "python-backend-expert",
+  "slug": "python-backend-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/python-backend-expert/",
+  "download_url": "https://claudskills.com/skills/python-backend-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill should be used when the user is writing, reviewing, debugging, or architecting Python backend code using Litestar or FastAPI with SQLAlchemy or Advanced Alchemy. Provides expert critique covering SOLID principles, hexagonal architecture, repository/service patterns, dependency injection, async correctness, ORM usage, API design, anti-pattern detection, and modern Python patterns for mature production backends. Use when the user asks \"critique my Python backend\", \"review this controller\", \"fix my SQLAlchemy query\", \"structure my project\", \"is this SOLID\", \"review my repository\", \"optimize my API\", \"design my service layer\", \"help with dependency injection\", \"set up a Litestar project\", \"set up a FastAPI project\", \"create a repository pattern\", \"fix my async code\", \"review my database models\", or \"fix N+1 query\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

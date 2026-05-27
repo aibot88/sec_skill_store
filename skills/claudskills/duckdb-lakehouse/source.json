@@ -1,0 +1,18 @@
+{
+  "name": "duckdb-lakehouse",
+  "slug": "duckdb-lakehouse",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/duckdb-lakehouse/",
+  "download_url": "https://claudskills.com/skills/duckdb-lakehouse/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "ALWAYS USE when building data lakehouse with DuckDB compute, configuring dbt-duckdb with Polaris plugin, or designing catalog-first architecture in floe-platform. Use IMMEDIATELY when reading/writing Iceberg tables via Polaris catalog, creating Dagster assets with DuckDB, or connecting to REST catalogs with inline credentials. Provides research steps for DuckDB + Dagster + Iceberg/Polaris integration patterns.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

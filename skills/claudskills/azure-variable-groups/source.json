@@ -1,0 +1,18 @@
+{
+  "name": "azure-variable-groups",
+  "slug": "azure-variable-groups",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-variable-groups/",
+  "download_url": "https://claudskills.com/skills/azure-variable-groups/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage Azure Pipeline variable groups and library secrets. Use when organizing pipeline variables or managing configuration.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "building-mcp-servers",
+  "slug": "building-mcp-servers",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-mcp-servers/",
+  "download_url": "https://claudskills.com/skills/building-mcp-servers/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guides creation of high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK). Covers tool design, authentication, Docker deployment, and evaluation creation. NOT when consuming existing MCP servers (use the server directly).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

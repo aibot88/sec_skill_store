@@ -1,0 +1,18 @@
+{
+  "name": "clari-install-auth",
+  "slug": "clari-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clari-install-auth/",
+  "download_url": "https://claudskills.com/skills/clari-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Clari API authentication with API key and set up export access. Use when connecting to the Clari API, generating API tokens, or configuring forecast data exports. Trigger with phrases like \"install clari\", \"setup clari api\", \"clari auth\", \"clari api key\", \"configure clari\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

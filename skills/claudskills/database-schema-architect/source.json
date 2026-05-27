@@ -1,0 +1,18 @@
+{
+  "name": "database-schema-architect",
+  "slug": "database-schema-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/database-schema-architect/",
+  "download_url": "https://claudskills.com/skills/database-schema-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Expert guidance for designing, optimizing, and maintaining database schemas for SQL and NoSQL systems. Use when creating new databases, optimizing existing schemas, planning migrations, implementing security policies, or ensuring GDPR compliance. Covers normalization, indexing, data types, relationships, performance optimization, and audit logging.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

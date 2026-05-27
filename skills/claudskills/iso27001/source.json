@@ -1,0 +1,18 @@
+{
+  "name": "iso27001",
+  "slug": "iso27001",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/iso27001/",
+  "download_url": "https://claudskills.com/skills/iso27001/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Assess ISO/IEC 27001 ISMS compliance — Annex A controls, risk treatment, Statement of Applicability",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

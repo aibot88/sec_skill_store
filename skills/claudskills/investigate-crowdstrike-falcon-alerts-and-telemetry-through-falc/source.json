@@ -1,0 +1,18 @@
+{
+  "name": "investigate-crowdstrike-falcon-alerts-and-telemetry-through-falc",
+  "slug": "investigate-crowdstrike-falcon-alerts-and-telemetry-through-falc",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/investigate-crowdstrike-falcon-alerts-and-telemetry-through-falc/",
+  "download_url": "https://claudskills.com/skills/investigate-crowdstrike-falcon-alerts-and-telemetry-through-falc/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use falcon-mcp when an agent needs CrowdStrike Falcon detections, incidents, behaviors, threat intel, or read-only response context to triage a security event without leaving an MCP workflow.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

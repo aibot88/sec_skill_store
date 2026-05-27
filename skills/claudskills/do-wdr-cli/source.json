@@ -1,0 +1,18 @@
+{
+  "name": "do-wdr-cli",
+  "slug": "do-wdr-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/do-wdr-cli/",
+  "download_url": "https://claudskills.com/skills/do-wdr-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use the do-wdr (Web Documentation Resolver) CLI binary to resolve URLs and queries into markdown documentation. Use when you need fast command-line access to web documentation resolution, prefer compiled binary over Python, or need to integrate do-wdr into shell scripts and automation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "docs-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

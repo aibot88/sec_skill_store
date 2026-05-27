@@ -1,0 +1,18 @@
+{
+  "name": "dotnet-webhint",
+  "slug": "dotnet-webhint",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dotnet-webhint/",
+  "download_url": "https://claudskills.com/skills/dotnet-webhint/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use webhint in .NET repositories that ship browser-facing frontends. Use when a repo needs CLI audits for accessibility, performance, security headers, PWA signals, SEO, or runtime page quality against a served site or built frontend output.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

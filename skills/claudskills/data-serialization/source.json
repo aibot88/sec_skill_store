@@ -1,0 +1,18 @@
+{
+  "name": "data-serialization",
+  "slug": "data-serialization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/data-serialization/",
+  "download_url": "https://claudskills.com/skills/data-serialization/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Efficient data serialization for game networking including Protobuf, FlatBuffers, and custom binary",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

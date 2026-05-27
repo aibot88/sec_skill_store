@@ -1,0 +1,18 @@
+{
+  "name": "analyze-argumentation-flow",
+  "slug": "analyze-argumentation-flow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyze-argumentation-flow/",
+  "download_url": "https://claudskills.com/skills/analyze-argumentation-flow/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when reviewing English prose — essays, blog posts, opinion pieces, README sections, design documents, technical arguments, or any text that defends a thesis — in order to find flaws in the argumentation. Map the argument before judging it, name each flaw with a quoted snippet and a one-line explanation, and report findings as a structured list. Do NOT rewrite the prose, soften the author's tone, or replace the conclusion with your own opinion; the job is diagnosis, not surgery.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

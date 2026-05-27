@@ -1,0 +1,18 @@
+{
+  "name": "go-api-development",
+  "slug": "go-api-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/go-api-development/",
+  "download_url": "https://claudskills.com/skills/go-api-development/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Go API development guidelines using the standard library (1.22+) with best practices for RESTful API design, error handling, and security",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

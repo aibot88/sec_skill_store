@@ -1,0 +1,18 @@
+{
+  "name": "setup-auth-magic-link",
+  "slug": "setup-auth-magic-link",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/setup-auth-magic-link/",
+  "download_url": "https://claudskills.com/skills/setup-auth-magic-link/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Met en place un système d'authentification Magic Link (passwordless) complet pour FastAPI + React",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "linux-admin",
+  "slug": "linux-admin",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/linux-admin/",
+  "download_url": "https://claudskills.com/skills/linux-admin/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when managing Linux servers, writing shell scripts, configuring systemd services, debugging networking, or hardening security. Triggers on bash scripting, systemd units, iptables, firewall, SSH configuration, file permissions, process management, cron jobs, disk management, and any task requiring Linux system administration.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ux-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

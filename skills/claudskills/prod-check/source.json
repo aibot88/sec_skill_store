@@ -1,0 +1,18 @@
+{
+  "name": "prod-check",
+  "slug": "prod-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prod-check/",
+  "download_url": "https://claudskills.com/skills/prod-check/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user explicitly selects the prod-check skill or wants a pre-production code review scoped to recent commits, checking impact, contracts, auth, stability, and regressions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

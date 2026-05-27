@@ -1,0 +1,18 @@
+{
+  "name": "dependency-update-bot",
+  "slug": "dependency-update-bot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dependency-update-bot/",
+  "download_url": "https://claudskills.com/skills/dependency-update-bot/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Scans your project for outdated npm, pip, Cargo, Go, or Ruby packages. Runs a CVE security audit. Fetches changelogs, summarizes breaking changes with Gemini, and opens one PR per risk group (patch, minor, major). Includes Diagnosis Mode for install conflicts. Use when asked to update dependencies, check for outdated packages, open dependency PRs, scan for package updates, audit for CVEs, or flag breaking changes in upgrades. Trigger when a user says \"check for outdated packages\", \"update my dependencies\", \"open PRs for dependency updates\", \"scan for CVEs\", or \"which packages need upgrading\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

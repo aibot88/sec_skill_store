@@ -1,0 +1,18 @@
+{
+  "name": "code-quality",
+  "slug": "code-quality-brixtonpham-claude-config",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-quality-brixtonpham-claude-config/",
+  "download_url": "https://claudskills.com/skills/code-quality-brixtonpham-claude-config/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Code quality improvement: review, refactoring, debugging. Phases: review feedback, systematic refactoring, root cause debugging, verification. Capabilities: SOLID/DRY compliance, code smell detection, complexity reduction, bug investigation, verification gates. Actions: review, refactor, debug, verify, validate code. Keywords: code review, refactor, debug, SOLID, DRY, code smell, bug fix, root cause, verification, technical debt, extract method, test failure, completion claim. Use when: reviewing code changes, improving code quality, fixing bugs, reducing technical debt, validating before merge/commit.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "fmeca",
+  "slug": "fmeca",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fmeca/",
+  "download_url": "https://claudskills.com/skills/fmeca/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyse, author, review, generate, and extract context for FMEA and FMECA documents for asset-intensive organisations. Use this skill whenever the user mentions FMEA, FMECA, failure mode, failure effects, failure analysis, criticality analysis, RPN, risk priority number, severity-occurrence-detection scoring, functional failure, failure cause analysis, or maintenance strategy development based on failure analysis. Also trigger when the user uploads a spreadsheet or document that appears to contain failure mode data, or asks about reliability-centred maintenance (RCM) failure analysis steps, or wants to develop maintenance tasks from equipment failure behaviour. Also trigger when users ask about equipment functions, functional failures, failure consequences, or hidden vs evident failures. Also trigger when the user asks to parse, extract, or read a technical document (OEM manual, maintenance plan, asset register, BOM, P&ID, inspection report, condition assessment) for FMECA context, or asks to build a context file or reference file from a document. Covers IEC 60812, SAE J1739, MIL-STD-1629A, and ISO 14224. Supports rolling stock, ports, mining, defence, and general industrial sectors.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "android-reverse-engineering",
+  "slug": "android-reverse-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/android-reverse-engineering/",
+  "download_url": "https://claudskills.com/skills/android-reverse-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Decompile Android APK, XAPK, JAR, and AAR files using jadx or Fernflower/Vineflower. Reverse engineer Android apps, extract HTTP API endpoints, trace call flows from UI to network layer, and analyze runtime behavior with Frida, network capture, JNI/SO inspection, and signature generation. Use when the user wants to decompile, analyze, hook, inspect network traffic, bypass SSL pinning for analysis, locate crypto or signing logic, or follow call flows in Android packages.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

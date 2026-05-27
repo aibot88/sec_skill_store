@@ -1,0 +1,18 @@
+{
+  "name": "eu-ai-act-specialist",
+  "slug": "eu-ai-act-specialist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eu-ai-act-specialist/",
+  "download_url": "https://claudskills.com/skills/eu-ai-act-specialist/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT + Commons Clause",
+  "description": "EU AI Act (Regulation EU 2024/1689) compliance specialist. Use when classifying AI systems by risk tier, assessing provider or deployer obligations, evaluating GPAI model compliance, running conformity assessments, performing bias detection and fairness testing, building AI governance programs, or preparing for EU AI Act enforcement deadlines. Covers the full regulatory lifecycle from system inventory through post-market monitoring.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

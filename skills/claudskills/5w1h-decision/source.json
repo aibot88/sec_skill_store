@@ -1,0 +1,18 @@
+{
+  "name": "5w1h-decision",
+  "slug": "5w1h-decision",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/5w1h-decision/",
+  "download_url": "https://claudskills.com/skills/5w1h-decision/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "5W1H Decision Framework Tool. Use for: (1) Systematic decision-making before creating todos, (2) Preventing duplicate implementation, (3) Detecting avoidance behavior, (4) Ensuring agile refactor compliance with executor/dispatcher separation",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

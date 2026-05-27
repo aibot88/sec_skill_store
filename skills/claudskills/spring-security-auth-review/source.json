@@ -1,0 +1,18 @@
+{
+  "name": "spring-security-auth-review",
+  "slug": "spring-security-auth-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spring-security-auth-review/",
+  "download_url": "https://claudskills.com/skills/spring-security-auth-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when reviewing or hardening authentication and authorization in a Spring Boot service that uses Spring Security, JWT, OAuth2, sessions, refresh tokens, or service-to-service auth. Produces an actionable auth review, findings by severity, trust-boundary analysis, secure Spring Security configuration guidance, and remediation priorities. Do not use for general application security review, non-Spring services, or domain authorization policy design outside the framework layer. Pairs with spring-boot-service-scaffold (actuator and security baseline), backend-architecture (trust boundaries, authorization touchpoints, CSRF/CORS posture, and rate-limit behavior), spring-boot-observability-readiness (auth event logging and redaction), and quality-engineering (security test coverage).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

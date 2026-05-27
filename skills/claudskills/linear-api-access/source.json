@@ -1,0 +1,18 @@
+{
+  "name": "linear-api-access",
+  "slug": "linear-api-access",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/linear-api-access/",
+  "download_url": "https://claudskills.com/skills/linear-api-access/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Access Linear CRM for issue management, states, and team structures using direct GraphQL scripts. Replaces the unstable MCP server to prevent execution hangs. Uses keychain validation or hardcoded fallback for authentication.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

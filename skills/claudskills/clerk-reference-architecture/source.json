@@ -1,0 +1,18 @@
+{
+  "name": "clerk-reference-architecture",
+  "slug": "clerk-reference-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk-reference-architecture/",
+  "download_url": "https://claudskills.com/skills/clerk-reference-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Reference architecture patterns for Clerk authentication. Use when designing application architecture, planning auth flows, or implementing enterprise-grade authentication. Trigger with phrases like \"clerk architecture\", \"clerk design\", \"clerk system design\", \"clerk integration patterns\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "bicep-security-scanner",
+  "slug": "bicep-security-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bicep-security-scanner/",
+  "download_url": "https://claudskills.com/skills/bicep-security-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scans Azure Bicep templates for security misconfigurations and compliance violations. Detects issues like public endpoints, missing encryption, overly permissive access, disabled logging, and insecure defaults. Produces a prioritized findings report with remediation guidance. USE FOR: Bicep security review, IaC security scanning, Azure resource hardening, pre-deployment security checks, compliance validation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

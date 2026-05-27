@@ -1,0 +1,18 @@
+{
+  "name": "perplexity-security-basics",
+  "slug": "perplexity-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/perplexity-security-basics/",
+  "download_url": "https://claudskills.com/skills/perplexity-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Perplexity security best practices for API key management and query safety. Use when securing API keys, implementing query sanitization, or auditing Perplexity security configuration. Trigger with phrases like \"perplexity security\", \"perplexity secrets\", \"secure perplexity\", \"perplexity API key security\", \"perplexity PII\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

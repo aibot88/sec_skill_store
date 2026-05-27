@@ -1,0 +1,18 @@
+{
+  "name": "postgres-backup-and-operational-readiness",
+  "slug": "postgres-backup-and-operational-readiness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/postgres-backup-and-operational-readiness/",
+  "download_url": "https://claudskills.com/skills/postgres-backup-and-operational-readiness/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when designing, reviewing, or hardening PostgreSQL backup, point-in-time recovery, and day-2 operational readiness against stated RPO/RTO targets. Produces backup strategy (pg_basebackup or pgBackRest with WAL archiving for PITR), rehearsed restore drills with measured RPO/RTO, retention and cost posture, observability for replication lag, storage health, bloat, transaction-ID wraparound, and connection saturation, plus runbook inputs for failover, vacuum-freeze emergencies, and connection exhaustion. Do not use for replication topology design, schema or migration work, query optimization, or access-control hardening; use postgres-replication-and-ha-readiness, postgres-schema-and-migration, postgres-indexing-and-query-optimization, or postgres-security-and-data-access-hardening instead.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:56+00:00"
+}

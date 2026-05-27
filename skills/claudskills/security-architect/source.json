@@ -1,0 +1,18 @@
+{
+  "name": "security-architect",
+  "slug": "security-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-architect/",
+  "download_url": "https://claudskills.com/skills/security-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security Architect: Security by Design fuer den gesamten Entwicklungsprozess. 4 Modi: DESIGN (Threat Modeling bei Ideation/Planung), REVIEW (Security-Check bei Code-Aenderungen), AUDIT (vollstaendiger Security-Scan auf Abruf), SKILL-SCAN (Prompt-Injection-Check fuer heruntergeladene Skills/SKILL.md-Dateien vor der Installation). Kombiniert STRIDE/DREAD Threat Modeling, OWASP Top 10:2025, ASVS 5.0, Agentic AI Security und konkrete Secure-Code-Patterns. Verwenden wenn der Nutzer \"security\", \"sicherheit\", \"threat model\", \"security review\", \"security audit\", \"ist das sicher?\", \"OWASP\", \"/security\", \"scanne diesen skill\", \"skill-scan\", \"pruefe diesen skill\" sagt — oder automatisch wenn andere Skills (Ideation, Implement) Security-relevante Arbeit ausfuehren.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

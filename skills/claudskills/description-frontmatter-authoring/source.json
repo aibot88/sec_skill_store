@@ -1,0 +1,18 @@
+{
+  "name": "description-frontmatter-authoring",
+  "slug": "description-frontmatter-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/description-frontmatter-authoring/",
+  "download_url": "https://claudskills.com/skills/description-frontmatter-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create or revise Markdown `description` frontmatter so `docgarden match` routes agents to the right repository documents. Use when adding a new routed Markdown document, updating existing frontmatter, fixing noisy or missing match results, tuning skills or docs discovery, or making descriptions more query-aligned without loading document bodies.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "home-iot",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

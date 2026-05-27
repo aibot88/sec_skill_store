@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "flashpoint493-vibecollab-.",
+  "source": "github",
+  "source_url": "https://github.com/flashpoint493/VibeCollab/blob/5845c373aab4cfebfc47241c250015b975dcbeab/skill.md",
+  "download_url": "https://github.com/flashpoint493/VibeCollab/blob/5845c373aab4cfebfc47241c250015b975dcbeab/skill.md",
+  "external_source_url": "https://github.com/flashpoint493/VibeCollab/blob/5845c373aab4cfebfc47241c250015b975dcbeab/skill.md",
+  "license": "",
+  "description": "Generate standardized AI collaboration rules (llm.txt) from YAML configuration",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "flashpoint493/VibeCollab",
+    "path": "skill.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

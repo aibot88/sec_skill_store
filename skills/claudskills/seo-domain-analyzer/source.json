@@ -1,0 +1,18 @@
+{
+  "name": "seo-domain-analyzer",
+  "slug": "seo-domain-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/seo-domain-analyzer/",
+  "download_url": "https://claudskills.com/skills/seo-domain-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Pull real SEO metrics for any domain using Apify scrapers for Semrush and Ahrefs data. Gets domain authority, organic traffic estimates, keyword rankings, backlink profiles, top performing pages, and auto-discovers competitors from keyword overlap. No Semrush/Ahrefs subscription needed — uses Apify actors that scrape public pages.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "seo",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

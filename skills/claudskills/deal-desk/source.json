@@ -1,0 +1,18 @@
+{
+  "name": "deal-desk",
+  "slug": "deal-desk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deal-desk/",
+  "download_url": "https://claudskills.com/skills/deal-desk/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when reviewing a specific inbound deal before close — when sales has asked for a discount that exceeds AE authority, when the customer has redlined the MSA, when per-deal economics (margin after discount, multi-year payment shape, indemnity exposure) need to be quantified, or when discount approval needs to be routed to a named human approver (Sales Director, VP Sales, CFO, CRO, General Counsel). Covers deal review, discount approval routing, per-deal margin scoring, deal exception handling, MSA redline triage, contract landmine detection (uncapped indemnity, MFN, perpetual license-back, missing DPA), and named-approver chain assembly. NEVER auto-approves — every output is a numeric scorecard plus a routing recommendation to a named human.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "deal-management",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

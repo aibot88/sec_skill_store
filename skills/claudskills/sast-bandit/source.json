@@ -1,0 +1,18 @@
+{
+  "name": "sast-bandit",
+  "slug": "sast-bandit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sast-bandit/",
+  "download_url": "https://claudskills.com/skills/sast-bandit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Python security vulnerability detection using Bandit SAST with CWE and OWASP mapping. Use when: (1) Scanning Python code for security vulnerabilities and anti-patterns, (2) Identifying hardcoded secrets, SQL injection, command injection, and insecure APIs, (3) Generating security reports with severity classifications for CI/CD pipelines, (4) Providing remediation guidance with security framework references, (5) Enforcing Python security best practices in development workflows.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

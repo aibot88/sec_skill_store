@@ -1,0 +1,18 @@
+{
+  "name": "jekyll-hyde",
+  "slug": "jekyll-hyde",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jekyll-hyde/",
+  "download_url": "https://claudskills.com/skills/jekyll-hyde/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "· Advise on product, engineering, design, and business decisions with constructive and adversarial lenses. Triggers: 'jekyll', 'hyde', 'decision review', 'strategy review', 'red-team', 'dark pattern'. Not for code bugs (use code-review).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

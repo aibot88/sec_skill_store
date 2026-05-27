@@ -1,0 +1,18 @@
+{
+  "name": "writing-prose-like-a-human",
+  "slug": "writing-prose-like-a-human",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/writing-prose-like-a-human/",
+  "download_url": "https://claudskills.com/skills/writing-prose-like-a-human/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Produces prose that reads as authentically human by avoiding statistical patterns common to LLM output. Use when writing or editing prose, documentation, READMEs, PR descriptions, or any text where the output must not read like AI-generated content.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "math-stats",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

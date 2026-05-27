@@ -1,0 +1,18 @@
+{
+  "name": "infrastructure",
+  "slug": "infrastructure-anton-abyzov-specweave",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/infrastructure-anton-abyzov-specweave/",
+  "download_url": "https://claudskills.com/skills/infrastructure-anton-abyzov-specweave/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Infrastructure-as-Code specialist for Terraform, AWS, Azure, and serverless architectures. Use when setting up cloud infrastructure, writing Terraform modules, or deploying to AWS Lambda/Vercel/Cloudflare. Covers VPC configuration, container orchestration, and CI/CD pipeline infrastructure.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

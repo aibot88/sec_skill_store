@@ -1,0 +1,18 @@
+{
+  "name": "expo-api-audit",
+  "slug": "expo-api-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/expo-api-audit/",
+  "download_url": "https://claudskills.com/skills/expo-api-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive audit of Expo/React Native app API integration layer. Use when asked to: (1) Review API interactions, auth handling, or token management, (2) Find hardcoded data or screens bypassing API, (3) Verify user interactions properly sync to backend, (4) Analyze offline behavior and caching, (5) Audit Orval/OpenAPI code generation, (6) Check for API security issues. Supports TanStack Query, Zustand, axios, Expo Router, expo-secure-store, and expo-constants patterns.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:53+00:00"
+}

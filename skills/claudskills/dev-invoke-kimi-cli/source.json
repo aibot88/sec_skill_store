@@ -1,0 +1,18 @@
+{
+  "name": "dev_invoke_kimi-cli",
+  "slug": "dev-invoke-kimi-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-invoke-kimi-cli/",
+  "download_url": "https://claudskills.com/skills/dev-invoke-kimi-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Delegate testing, QA, and code review tasks to Opencode CLI using Kimi K2.5 model via markdown file handoff. Write test request to TASK.md, Opencode with Kimi K2.5 generates tests/reviews, outputs to OUTPUT.md. Use for test generation, QA verification, edge case detection, code coverage analysis, security reviews.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

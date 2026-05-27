@@ -1,0 +1,18 @@
+{
+  "name": "lucidchart-install-auth",
+  "slug": "lucidchart-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lucidchart-install-auth/",
+  "download_url": "https://claudskills.com/skills/lucidchart-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Lucidchart SDK/API authentication. Use when setting up a new Lucidchart integration. Trigger: \"install lucidchart\", \"setup lucidchart\", \"lucidchart auth\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-creative",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:34+00:00"
+}

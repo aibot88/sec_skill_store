@@ -1,0 +1,18 @@
+{
+  "name": "test-chaos",
+  "slug": "vant-skill-test-chaos",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vant-skill-test-chaos/",
+  "download_url": "https://claudskills.com/skills/vant-skill-test-chaos/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Introduce controlled failures to test system resilience. Kill processes, cut network, fill disk. Use when testing fault tolerance, disaster recovery, or resilience.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

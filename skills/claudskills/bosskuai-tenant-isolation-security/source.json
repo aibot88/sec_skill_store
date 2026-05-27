@@ -1,0 +1,18 @@
+{
+  "name": "bosskuai-tenant-isolation-security",
+  "slug": "bosskuai-tenant-isolation-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bosskuai-tenant-isolation-security/",
+  "download_url": "https://claudskills.com/skills/bosskuai-tenant-isolation-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this for multi-tenant data isolation, organization scoping, cross-tenant leaks, authorization boundaries, row-level access, and SaaS tenant security review.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

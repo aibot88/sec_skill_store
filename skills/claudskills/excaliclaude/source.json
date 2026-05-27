@@ -1,0 +1,18 @@
+{
+  "name": "excalicl4ude",
+  "slug": "excaliclaude",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/excaliclaude/",
+  "download_url": "https://claudskills.com/skills/excaliclaude/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Sessione interattiva su canvas Excalidraw bidirezionale. Usa questa skill quando l'utente vuole discutere visivamente di un'idea, fare brainstorming su un canvas, disegnare insieme un'architettura, creare diagrammi interattivamente, o collaborare visivamente su qualsiasi concetto. Attiva anche quando l'utente dice \"apri un canvas\", \"disegna\", \"vediamolo visivamente\", \"facciamo uno sketch\", \"discutiamone su un canvas\", \"fammi vedere\", o qualsiasi variante che implichi collaborazione visiva.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

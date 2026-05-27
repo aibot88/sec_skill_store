@@ -1,0 +1,18 @@
+{
+  "name": "Recon",
+  "slug": "recon",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/recon/",
+  "download_url": "https://claudskills.com/skills/recon/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security reconnaissance. USE WHEN recon, reconnaissance, bug bounty, attack surface. SkillSearch('recon') for docs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

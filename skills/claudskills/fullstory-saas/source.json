@@ -1,0 +1,18 @@
+{
+  "name": "fullstory-saas",
+  "slug": "fullstory-saas",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fullstory-saas/",
+  "download_url": "https://claudskills.com/skills/fullstory-saas/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Industry-specific guide for implementing Fullstory in B2B SaaS applications. Covers feature adoption tracking, onboarding optimization, churn prediction signals, multi-tenant privacy considerations, role-based experiences, and enterprise customer requirements. Includes detailed examples for dashboards, workflows, settings, and collaboration features.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "storytelling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:02+00:00"
+}

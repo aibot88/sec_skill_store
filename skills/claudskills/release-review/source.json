@@ -1,0 +1,18 @@
+{
+  "name": "release-review",
+  "slug": "release-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/release-review/",
+  "download_url": "https://claudskills.com/skills/release-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Senior developer-level release review for macOS/iOS apps. Identifies security, privacy, UX, and distribution issues with actionable fixes. Use when preparing an app for release, want a critical review, or before App Store submission.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

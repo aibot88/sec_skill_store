@@ -1,0 +1,18 @@
+{
+  "name": "eresus-threat-modeler",
+  "slug": "eresus-threat-modeler",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eresus-threat-modeler/",
+  "download_url": "https://claudskills.com/skills/eresus-threat-modeler/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Threat modeling skill for new features, services, endpoints, or repositories. Trigger when the user asks to: \"threat model this\", \"analyze attack surface\", \"find abuse cases\", \"map trust boundaries\", \"prioritize security review\", or wants a structured security design review before or alongside coding. Complements eresus-sast-scanner by turning architecture into a prioritized scan plan.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "accessible-web-dev",
+  "slug": "accessible-web-dev",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/accessible-web-dev/",
+  "download_url": "https://claudskills.com/skills/accessible-web-dev/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build WCAG 2.1 AA compliant web applications for University of Sheffield. Covers semantic HTML, ARIA patterns, form accessibility, keyboard navigation, color contrast, alt text, captions, and automated testing. Use when creating websites, web apps, forms, interactive components, or auditing accessibility for WCAG compliance, screen readers, keyboard access, or inclusive design.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

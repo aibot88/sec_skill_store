@@ -1,0 +1,18 @@
+{
+  "name": "api-conventions",
+  "slug": "api-conventions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-conventions/",
+  "download_url": "https://claudskills.com/skills/api-conventions/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "REST API design conventions and standards. Apply when writing, reviewing, or discussing API endpoints, routes, controllers, serializers, or HTTP handlers. Covers URL structure, HTTP methods, response formats, error handling, pagination, versioning, and authentication headers.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:50+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "batch-bug-shepherd",
+  "slug": "batch-bug-shepherd",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/batch-bug-shepherd/",
+  "download_url": "https://claudskills.com/skills/batch-bug-shepherd/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill to drive a batch of suspected bugs in microsoft/apm from raw issue list to mergeable PR queue. Fan out one triage subagent per issue (LEGIT / UNCLEAR / FIXED-AT-HEAD), cross-reference legit issues against open PRs, then branch: in-flight community PR -> shepherd via the apm-review-panel skill; no PR -> fix session with TDD and a mutation-break gate. Dispatch one completion subagent per shepherd verdict to resolve panel follow-ups, push to the contributor fork (or open a superseding PR that preserves author authorship via commit trailers), and post one ready-to-merge confirmation. Maintain a single plan.md ground-truth table as canonical session state. Activate when the maintainer asks to triage a list of issues, sweep the bug queue or backlog, shepherd all bug-flagged issues this quarter, run a weekly sweep of community-reported issues, drive in-flight community PRs to merge, or work down community bug contributions -- even if \"shepherd\" or \"batch\" is not named.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:03+00:00"
+}

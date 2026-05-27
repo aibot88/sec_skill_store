@@ -1,0 +1,19 @@
+{
+  "name": "cybersecurity",
+  "slug": "erikstmartin-dotfiles-skills-catalog-infra-cybersecurity",
+  "source": "github",
+  "source_url": "https://github.com/erikstmartin/dotfiles/blob/b0de03578a636053baec7b4f53cd9398b093500d/skills/catalog/infra/cybersecurity/SKILL.md",
+  "download_url": "https://github.com/erikstmartin/dotfiles/blob/b0de03578a636053baec7b4f53cd9398b093500d/skills/catalog/infra/cybersecurity/SKILL.md",
+  "external_source_url": "https://github.com/erikstmartin/dotfiles/blob/b0de03578a636053baec7b4f53cd9398b093500d/skills/catalog/infra/cybersecurity/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "erikstmartin/dotfiles",
+    "path": "skills/catalog/infra/cybersecurity/SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "umami-privacy-focused-web-analytics",
+  "slug": "umami-privacy-focused-web-analytics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/umami-privacy-focused-web-analytics/",
+  "download_url": "https://claudskills.com/skills/umami-privacy-focused-web-analytics/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Umami is a modern, privacy-focused, open-source web analytics platform and a self-hostable alternative to Google Analytics, Mixpanel, and Amplitude. It collects website traffic data without cookies and is fully GDPR compliant.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:31+00:00"
+}

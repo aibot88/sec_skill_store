@@ -1,0 +1,18 @@
+{
+  "name": "snapshot-and-restore-encrypted-file-trees-with-kopia",
+  "slug": "snapshot-and-restore-encrypted-file-trees-with-kopia",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/snapshot-and-restore-encrypted-file-trees-with-kopia/",
+  "download_url": "https://claudskills.com/skills/snapshot-and-restore-encrypted-file-trees-with-kopia/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use Kopia when an agent needs to create, verify, or restore encrypted incremental snapshots across local, NAS, SFTP, WebDAV, or cloud storage targets.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

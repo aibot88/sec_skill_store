@@ -1,0 +1,18 @@
+{
+  "name": "webflow-data-handling",
+  "slug": "webflow-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/webflow-data-handling/",
+  "download_url": "https://claudskills.com/skills/webflow-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Webflow data handling — CMS content delivery patterns, PII redaction in form submissions, GDPR/CCPA compliance for ecommerce data, and data retention policies. Trigger with phrases like \"webflow data\", \"webflow PII\", \"webflow GDPR\", \"webflow data retention\", \"webflow privacy\", \"webflow CCPA\", \"webflow forms data\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "add-journal",
+  "slug": "add-journal",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/add-journal/",
+  "download_url": "https://claudskills.com/skills/add-journal/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Add a new journal to the MedSci Skills profile database. Extracts metadata from author guidelines, generates write-paper (detailed) and find-journal (compact) profiles in canonical format with quality gates.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

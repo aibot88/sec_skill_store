@@ -1,0 +1,18 @@
+{
+  "name": "Shadcn Component Authoring",
+  "slug": "shadcn-component-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/shadcn-component-authoring/",
+  "download_url": "https://claudskills.com/skills/shadcn-component-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implementar componentes no padrão Shadcn com CSS pré-compilado",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

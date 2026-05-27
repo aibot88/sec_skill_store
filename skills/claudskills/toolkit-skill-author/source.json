@@ -1,0 +1,18 @@
+{
+  "name": "toolkit-skill-author",
+  "slug": "toolkit-skill-author",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/toolkit-skill-author/",
+  "download_url": "https://claudskills.com/skills/toolkit-skill-author/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authors or extends a skill in mc-agent-toolkit. Gates for forbidden buckets and name collisions, applies CONTRIBUTING's extend-or-split rules, then edits a peer skill or hands off to Anthropic's skill-creator and walks the registration checklist.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

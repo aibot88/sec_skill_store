@@ -1,0 +1,18 @@
+{
+  "name": "grid-ctf-ops",
+  "slug": "grid-ctf-ops",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/grid-ctf-ops/",
+  "download_url": "https://claudskills.com/skills/grid-ctf-ops/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Operational knowledge for the grid_ctf scenario including strategy playbook, lessons learned, and resource references. Use when generating, evaluating, coaching, or debugging grid_ctf strategies.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:10+00:00"
+}

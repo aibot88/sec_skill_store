@@ -1,0 +1,18 @@
+{
+  "name": "roundcube-webmail",
+  "slug": "roundcube-webmail",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/roundcube-webmail/",
+  "download_url": "https://claudskills.com/skills/roundcube-webmail/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reads and summarizes emails from Roundcube webmail with SAML/TOTP authentication using Playwright. Use when checking webmail, reading university email, automating Roundcube login, or setting up daily email digest via Slack/OpenClaw cron. macOS only.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

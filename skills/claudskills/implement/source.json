@@ -1,0 +1,18 @@
+{
+  "name": "implement",
+  "slug": "implement",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implement/",
+  "download_url": "https://claudskills.com/skills/implement/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Full-power feature implementation using parallel subagents for backend, frontend, testing, and security. Coordinates architecture design, code generation, test coverage, and quality verification in a single workflow with worktree isolation. Chains with /ork:cover for test generation and /ork:verify for validation. Use when implementing features, building new capabilities, or creating full-stack functionality.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

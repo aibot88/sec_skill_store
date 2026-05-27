@@ -1,0 +1,18 @@
+{
+  "name": "persona-composer",
+  "slug": "persona-composer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/persona-composer/",
+  "download_url": "https://claudskills.com/skills/persona-composer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Compose Dutch-context personas on-demand from external trait pools and pre-authored coupled archetype bundles. Returns 1-30 composed personas given optional constraints (domain + role catalog, count, diversity requirements, output format). All output in Dutch. Callable by other skills (ontdek-kansen, business-case-management, user-research) via the Skill tool when they need disposable, domain-relevant persona sets.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

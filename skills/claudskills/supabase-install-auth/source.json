@@ -1,0 +1,18 @@
+{
+  "name": "supabase-install-auth",
+  "slug": "supabase-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-install-auth/",
+  "download_url": "https://claudskills.com/skills/supabase-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Supabase SDK, CLI, and project authentication. Use when setting up a new Supabase project, installing @supabase/supabase-js, configuring environment variables, or initializing the Supabase client. Trigger with \"install supabase\", \"setup supabase\", \"supabase auth config\", \"configure supabase\", \"supabase init\", \"add supabase to project\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

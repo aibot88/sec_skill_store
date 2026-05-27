@@ -1,0 +1,18 @@
+{
+  "name": "clerk-common-errors",
+  "slug": "clerk-common-errors",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk-common-errors/",
+  "download_url": "https://claudskills.com/skills/clerk-common-errors/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Troubleshoot common Clerk errors and issues. Use when encountering authentication errors, SDK issues, or configuration problems with Clerk. Trigger with phrases like \"clerk error\", \"clerk not working\", \"clerk authentication failed\", \"clerk issue\", \"fix clerk\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

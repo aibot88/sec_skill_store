@@ -1,0 +1,18 @@
+{
+  "name": "Pre-Deployment Security Check",
+  "slug": "pre-deployment-security-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pre-deployment-security-check/",
+  "download_url": "https://claudskills.com/skills/pre-deployment-security-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Verifica que no haya credenciales, secrets o archivos sensibles antes de pushear a GitHub. Busca API keys hardcodeadas, .env con valores reales, y valida .gitignore.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

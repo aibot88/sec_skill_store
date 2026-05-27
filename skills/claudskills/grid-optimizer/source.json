@@ -1,0 +1,18 @@
+{
+  "name": "grid-optimizer",
+  "slug": "grid-optimizer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/grid-optimizer/",
+  "download_url": "https://claudskills.com/skills/grid-optimizer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze smart grid and power distribution optimization code for power flow solver correctness, fault detection and restoration automation, distributed energy resource management, voltage regulation, SCADA integration, and cybersecurity posture. Use when reviewing utility ADMS/DMS software, DERMS platforms, microgrid controllers, or grid-edge computing systems.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:10+00:00"
+}

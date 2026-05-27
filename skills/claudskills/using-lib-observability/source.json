@@ -1,0 +1,18 @@
+{
+  "name": "ring:using-lib-observability",
+  "slug": "using-lib-observability",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/using-lib-observability/",
+  "download_url": "https://claudskills.com/skills/using-lib-observability/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Dual-mode skill for github.com/LerianStudio/lib-observability v1.0.0, Lerian's OpenTelemetry foundation. Sweep Mode dispatches 5 parallel explorers to detect DIY logging/metrics/redaction/OTel-attribute usage that should route through lib-observability. Reference Mode catalogs the log, metrics, zap, redaction, and constants packages with verified API signatures. This library is the foundation: lib-commons v5, lib-systemplane, and lib-streaming all depend on it. Skip for non-Go services, frontend code, or Ring itself.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "wordpress",
+  "slug": "wordpress",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wordpress/",
+  "download_url": "https://claudskills.com/skills/wordpress/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening. Includes WordPress 7.0 features: Real-Time Collaboration, AI Connectors, Abilities API, DataViews, and PHP-only blocks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

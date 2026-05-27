@@ -1,0 +1,18 @@
+{
+  "name": "auth-schema-generator",
+  "slug": "auth-schema-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-schema-generator/",
+  "download_url": "https://claudskills.com/skills/auth-schema-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate Better Auth user schema configuration with custom additional fields for user profiles. Use when implementing authentication, user profiles, or extending user data models with Better Auth. Automatically generates TypeScript types and database schema.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

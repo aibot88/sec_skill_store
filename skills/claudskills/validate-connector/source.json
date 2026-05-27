@@ -1,0 +1,18 @@
+{
+  "name": "validate-connector",
+  "slug": "validate-connector",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/validate-connector/",
+  "download_url": "https://claudskills.com/skills/validate-connector/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit an existing Sim knowledge base connector against the service API docs and repository conventions, then report and fix issues in auth, config fields, pagination, document mapping, tags, and registry entries. Use when validating or repairing code in `apps/sim/connectors/{service}/`.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

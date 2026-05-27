@@ -1,0 +1,18 @@
+{
+  "name": "auditor",
+  "slug": "auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auditor/",
+  "download_url": "https://claudskills.com/skills/auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when: auditing a website URL or codebase, checking site health score, SEO audit, performance audit, security scan, accessibility audit, mobile audit, broken links, meta tags, structured data. Triggers: 'audit my website', 'check https://...', 'what's wrong with my site', 'site health', 'audit this URL', 'find issues on my site', 'check for SEO problems', 'run a full audit'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

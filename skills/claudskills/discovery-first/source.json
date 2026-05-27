@@ -1,0 +1,18 @@
+{
+  "name": "slop-mcp-discovery-first",
+  "slug": "discovery-first",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/discovery-first/",
+  "download_url": "https://claudskills.com/skills/discovery-first/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Force MCP discovery via get_metadata or search_tools before any execute_tool call. 調用前必先經 slop-mcp 元工具發現，禁直呼 MCP 二進製。 Use when: user names MCP server, user asks to call MCP tool, user asks to run MCP command, agent about to invoke execute_tool, agent about to shell out to MCP binary.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "discovery",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

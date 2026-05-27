@@ -1,0 +1,18 @@
+{
+  "name": "cli-discover",
+  "slug": "cli-discover",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cli-discover/",
+  "download_url": "https://claudskills.com/skills/cli-discover/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Discover which CLI tools are installed, their versions, and authentication status",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

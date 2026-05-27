@@ -1,0 +1,18 @@
+{
+  "name": "validating-cors-policies",
+  "slug": "validating-cors-policies",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/validating-cors-policies/",
+  "download_url": "https://claudskills.com/skills/validating-cors-policies/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Validate CORS policies for security issues and misconfigurations. Use when reviewing cross-origin resource sharing. Trigger with 'validate CORS', 'check CORS policy', or 'review cross-origin'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

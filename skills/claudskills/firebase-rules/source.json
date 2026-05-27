@@ -1,0 +1,18 @@
+{
+  "name": "firebase-rules",
+  "slug": "firebase-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-rules/",
+  "download_url": "https://claudskills.com/skills/firebase-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Best practices for interacting with Firebase services, including security and optimization.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

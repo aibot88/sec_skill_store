@@ -1,0 +1,18 @@
+{
+  "name": "citrix-infrastructure-design",
+  "slug": "citrix-infrastructure-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/citrix-infrastructure-design/",
+  "download_url": "https://claudskills.com/skills/citrix-infrastructure-design/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Citrix infrastructure architecture and capacity planning. Use when designing Citrix environments, planning capacity, sizing components, configuring high availability, designing multi-site deployments, or planning disaster recovery. Covers architecture patterns, component sizing, redundancy design, and best practices.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

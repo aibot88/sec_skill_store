@@ -1,0 +1,18 @@
+{
+  "name": "skill-security-auditor",
+  "slug": "skill-security-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-security-auditor/",
+  "download_url": "https://claudskills.com/skills/skill-security-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT + Commons Clause",
+  "description": "Security audit and vulnerability scanning for AI agent skills before installation. Detects prompt injection in SKILL.md files, dangerous code patterns (eval, exec, subprocess), network exfiltration, credential harvesting, dependency supply chain risks, file system boundary violations, and obfuscation. Produces PASS/WARN/FAIL verdicts with remediation guidance. Use when evaluating untrusted skills, pre-install security gates, or auditing skill repositories.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "zero-trust",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

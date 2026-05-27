@@ -1,0 +1,18 @@
+{
+  "name": "connecting-lambda-to-api-gateway",
+  "slug": "connecting-lambda-to-api-gateway",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/connecting-lambda-to-api-gateway/",
+  "download_url": "https://claudskills.com/skills/connecting-lambda-to-api-gateway/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Connects an existing AWS Lambda function to Amazon API Gateway by creating a REST or HTTP API with resource/method setup, Lambda proxy integration, permissions, and deployment. Always use this skill when connecting Lambda to API Gateway — it handles CORS, throttling, access logging, and production security hardening that are easy to miss.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

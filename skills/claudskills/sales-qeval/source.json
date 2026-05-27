@@ -1,0 +1,18 @@
+{
+  "name": "sales-qeval",
+  "slug": "sales-qeval",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-qeval/",
+  "download_url": "https://claudskills.com/skills/sales-qeval/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "QEval platform help — AI-powered contact center QA with 100% automated scoring, speech analytics, compliance monitoring, agent coaching, and VOC analytics. Use when QA scores are inconsistent across evaluators, only reviewing a sample of calls and missing problems, agents getting incorrect low grades, compliance alerts not triggering, reports are confusing or need training, integrating QEval with your CRM or telephony stack, or choosing between Manual vs AI plan. Do NOT use for general coaching strategy without a specific platform (use /sales-coaching) or comparing contact center QA tools (use /sales-coaching then check platforms).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-enablement",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

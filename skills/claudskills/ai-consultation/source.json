@@ -1,0 +1,18 @@
+{
+  "name": "ai-consultation",
+  "slug": "ai-consultation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-consultation/",
+  "download_url": "https://claudskills.com/skills/ai-consultation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides AI consultation workflows, prompt templates, and best practices for multi-model consultation. Use when user asks for \"second opinion\", \"ask codex\", \"ask gemini\", \"AI code review\", \"external AI consultation\", or needs prompt templates for code review, security audit, or architecture analysis.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

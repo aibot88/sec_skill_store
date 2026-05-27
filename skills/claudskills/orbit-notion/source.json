@@ -1,0 +1,18 @@
+{
+  "name": "orbit-notion",
+  "slug": "orbit-notion",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/orbit-notion/",
+  "download_url": "https://claudskills.com/skills/orbit-notion/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Open Orbit briefing skill — selected by the Orbit pipeline when Notion is the user's only connected connector, or when the user explicitly scopes their daily digest to Notion. Pulls the past 24 hours of document edits, comments, mentions, and database row changes from the user's authenticated Notion connection and renders the digest as a native Notion page (callout / toggle / database table primitives). This skill should not be triggered manually — it is invoked by Orbit's daily-digest scheduler against live Notion data.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

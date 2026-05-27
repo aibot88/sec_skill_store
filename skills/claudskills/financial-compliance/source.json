@@ -1,0 +1,18 @@
+{
+  "name": "financial-compliance",
+  "slug": "financial-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/financial-compliance/",
+  "download_url": "https://claudskills.com/skills/financial-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit fintech and financial services code for KYC/AML (CIP, CDD, EDD, sanctions screening, transaction monitoring), BSA (SAR/CTR filing, FinCEN reporting, Travel Rule), Reg E (EFT error resolution, unauthorized transfer liability, provisional credit), SOX (audit trails, segregation of duties, financial controls), GLBA (privacy notices, Safeguards Rule, data sharing), and state money transmitter licensing. Use when reviewing banking, payments, lending, crypto, neobank, BNPL, or embedded finance codebases.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

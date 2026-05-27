@@ -1,0 +1,18 @@
+{
+  "name": "aico-code-review",
+  "slug": "aico-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aico-code-review/",
+  "download_url": "https://claudskills.com/skills/aico-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Request structured code review to catch correctness, security, performance, and readability issues. Reviews should happen early and often.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

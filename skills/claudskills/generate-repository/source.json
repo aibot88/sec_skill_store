@@ -1,0 +1,18 @@
+{
+  "name": "generate-repository",
+  "slug": "generate-repository",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/generate-repository/",
+  "download_url": "https://claudskills.com/skills/generate-repository/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate repository class for SQLite data access with CRUD methods, row mapping, and TypeScript types. Use when creating new database tables or data access layers.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:05+00:00"
+}

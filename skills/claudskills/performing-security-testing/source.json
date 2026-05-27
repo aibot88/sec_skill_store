@@ -1,0 +1,18 @@
+{
+  "name": "performing-security-testing",
+  "slug": "performing-security-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-security-testing/",
+  "download_url": "https://claudskills.com/skills/performing-security-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Test automate security vulnerability testing covering OWASP Top 10, SQL injection, XSS, CSRF, and authentication issues. Use when performing security assessments, penetration tests, or vulnerability scans. Trigger with phrases like \"scan for vulnerabilities\", \"test security\", or \"run penetration test\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

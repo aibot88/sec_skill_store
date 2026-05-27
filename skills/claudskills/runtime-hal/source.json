@@ -1,0 +1,18 @@
+{
+  "name": "runtime-hal",
+  "slug": "runtime-hal",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/runtime-hal/",
+  "download_url": "https://claudskills.com/skills/runtime-hal/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Runtime HAL for multi-runtime agent orchestration. Detects active AI assistant (Claude Code, Codex, Gemini, Cursor) and exposes uniform interface for startup injection, GUPP enforcement, and communication selection.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "hubspot-policy-guardrails",
+  "slug": "hubspot-policy-guardrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hubspot-policy-guardrails/",
+  "download_url": "https://claudskills.com/skills/hubspot-policy-guardrails/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement HubSpot lint rules, secret scanning, and CI policy checks. Use when setting up code quality rules for HubSpot integrations, preventing token leaks, or configuring CI guardrails. Trigger with phrases like \"hubspot policy\", \"hubspot lint\", \"hubspot guardrails\", \"hubspot security check\", \"hubspot eslint rules\".",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

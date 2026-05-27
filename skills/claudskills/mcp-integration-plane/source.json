@@ -1,0 +1,18 @@
+{
+  "name": "mcp-integration-plane",
+  "slug": "mcp-integration-plane",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mcp-integration-plane/",
+  "download_url": "https://claudskills.com/skills/mcp-integration-plane/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design, review, or debug MCP integration layers with multi-transport connectivity, auth lifecycle handling, tool and resource discovery, output persistence, session-expiry recovery, and elicitation support. Use when Codex needs to build or audit MCP clients, connector planes, or external tool integration systems.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

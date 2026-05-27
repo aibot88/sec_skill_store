@@ -1,0 +1,18 @@
+{
+  "name": "intercom-deploy-integration",
+  "slug": "intercom-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/intercom-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/intercom-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Intercom integrations to Vercel, Fly.io, and Cloud Run with proper secrets. Use when deploying Intercom-powered applications to production, configuring platform-specific secrets, or setting up webhook endpoints. Trigger with phrases like \"deploy intercom\", \"intercom Vercel\", \"intercom production deploy\", \"intercom Cloud Run\", \"intercom Fly.io\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

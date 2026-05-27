@@ -1,0 +1,18 @@
+{
+  "name": "ava-mcp-usage",
+  "slug": "ava-mcp-usage",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ava-mcp-usage/",
+  "download_url": "https://claudskills.com/skills/ava-mcp-usage/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide for using Ava's MCP tools effectively for task management and progress reporting. Use when working with Ava MCP server to report progress on coding tasks, including starting tasks, updating progress, reporting blockers, and completing tasks. Helps users understand best practices for privacy-conscious task reporting with minimal effort.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

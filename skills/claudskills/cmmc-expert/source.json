@@ -1,0 +1,18 @@
+{
+  "name": "cmmc-expert",
+  "slug": "cmmc-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cmmc-expert/",
+  "download_url": "https://claudskills.com/skills/cmmc-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CMMC v2.0 expert for DoD contractors. Provides deep knowledge of Cybersecurity Maturity Model Certification including 5 levels, 14 domains, 171 practices, NIST 800-171 alignment, and C3PAO assessment preparation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "authz-bypass-hunter",
+  "slug": "authz-bypass-hunter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/authz-bypass-hunter/",
+  "download_url": "https://claudskills.com/skills/authz-bypass-hunter/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Hunt for authorization bypass vulnerabilities including IDOR, privilege escalation, missing access controls, broken object-level authorization. Use when auditing authentication/authorization code or API endpoints.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

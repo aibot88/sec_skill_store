@@ -1,0 +1,18 @@
+{
+  "name": "jwt-attack-surface",
+  "slug": "jwt-attack-surface",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jwt-attack-surface/",
+  "download_url": "https://claudskills.com/skills/jwt-attack-surface/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit JWT implementation for algorithm confusion, secret weakness, claim validation issues, and token handling vulnerabilities. Use when reviewing authentication systems using JWT.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

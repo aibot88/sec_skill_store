@@ -1,0 +1,18 @@
+{
+  "name": "authentication-flow-rules",
+  "slug": "authentication-flow-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/authentication-flow-rules/",
+  "download_url": "https://claudskills.com/skills/authentication-flow-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "OAuth 2.1 compliant authentication flows (MANDATORY Q2 2026). PKCE required for ALL clients, Implicit Flow removed, modern token security.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:57+00:00"
+}

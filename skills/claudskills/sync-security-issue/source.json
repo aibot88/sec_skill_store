@@ -1,0 +1,18 @@
+{
+  "name": "sync-security-issue",
+  "slug": "sync-security-issue",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sync-security-issue/",
+  "download_url": "https://claudskills.com/skills/sync-security-issue/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Synchronize a security issue in <tracker> with the state of its GitHub discussion, the <security-list> mailing thread, and any <upstream> PRs that fix it. The skill gathers all relevant signals, proposes label, milestone, assignee, field and draft-email updates, and only applies changes the user has explicitly confirmed. Suggests the next step in the handling process and prints the CVE allocation link when a CVE is needed.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

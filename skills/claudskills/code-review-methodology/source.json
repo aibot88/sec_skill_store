@@ -1,0 +1,18 @@
+{
+  "name": "code-review-methodology",
+  "slug": "code-review-methodology",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-review-methodology/",
+  "download_url": "https://claudskills.com/skills/code-review-methodology/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Conduct two-stage code review: Stage 1 verifies spec compliance (criterion-to-code mapping), Stage 2 evaluates security, correctness, performance, and maintainability across 6 parallel facets with P1/P2/P3 synthesis and deduplication by file:line. Use when reviewing code changes or pull requests. This skill MUST be consulted because reviewing quality on broken logic is wasted effort, and unmet acceptance criteria must block merge.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "webflow-deploy-integration",
+  "slug": "webflow-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/webflow-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/webflow-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Webflow-powered applications to Vercel, Fly.io, and Google Cloud Run with proper secrets management and Webflow-specific health checks. Trigger with phrases like \"deploy webflow\", \"webflow Vercel\", \"webflow production deploy\", \"webflow Cloud Run\", \"webflow Fly.io\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

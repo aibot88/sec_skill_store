@@ -1,0 +1,18 @@
+{
+  "name": "validating-api-responses",
+  "slug": "validating-api-responses",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/validating-api-responses/",
+  "download_url": "https://claudskills.com/skills/validating-api-responses/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Validate API responses against schemas to ensure contract compliance and data integrity. Use when ensuring API response correctness. Trigger with phrases like \"validate responses\", \"check API responses\", or \"verify response format\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

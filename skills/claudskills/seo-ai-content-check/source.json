@@ -1,0 +1,18 @@
+{
+  "name": "seo-ai-content-check",
+  "slug": "seo-ai-content-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/seo-ai-content-check/",
+  "download_url": "https://claudskills.com/skills/seo-ai-content-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect AI-generated content using pure text analysis (no external API calls). Analyzes sentence uniformity, vocabulary diversity, repetition patterns, hedging language, paragraph uniformity, and personal experience signals. Returns a 0-100 confidence score plus flagged passages. Use when user says \"AI content check\", \"AI detection\", \"AI written\", \"content authenticity\", \"AI content\", \"detect AI\".",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "seo",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

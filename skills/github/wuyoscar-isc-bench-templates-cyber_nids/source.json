@@ -1,0 +1,19 @@
+{
+  "name": "cyber_nids",
+  "slug": "wuyoscar-isc-bench-templates-cyber_nids",
+  "source": "github",
+  "source_url": "https://github.com/wuyoscar/ISC-Bench/blob/85dfb4a0fcf42334c8c968c8806825a81d501f62/templates/cyber_nids/SKILL.md",
+  "download_url": "https://github.com/wuyoscar/ISC-Bench/blob/85dfb4a0fcf42334c8c968c8806825a81d501f62/templates/cyber_nids/SKILL.md",
+  "external_source_url": "https://github.com/wuyoscar/ISC-Bench/blob/85dfb4a0fcf42334c8c968c8806825a81d501f62/templates/cyber_nids/SKILL.md",
+  "license": "",
+  "description": "Internal Safety Collapse: Turning the LLM or an AI Agent into a sensitive data generator.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "wuyoscar/ISC-Bench",
+    "path": "templates/cyber_nids/SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

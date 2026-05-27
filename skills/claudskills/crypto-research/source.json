@@ -1,0 +1,18 @@
+{
+  "name": "crypto-research",
+  "slug": "crypto-research",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crypto-research/",
+  "download_url": "https://claudskills.com/skills/crypto-research/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Performs comprehensive due diligence on a cryptocurrency using CoinMarketCap MCP data. Use when users ask about a specific coin beyond just its price. This includes questions like \"what is [coin]\", \"is [coin] legit\", \"analyze [coin]\", tokenomics questions, holder distribution, or any request for deep information about a single cryptocurrency. Trigger: \"research [coin]\", \"tell me about [coin]\", \"should I invest in [coin]\", \"DYOR [coin]\", \"is [coin] safe\", \"/crypto-research\"",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

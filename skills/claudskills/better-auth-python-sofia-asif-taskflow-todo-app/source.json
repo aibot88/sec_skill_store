@@ -1,0 +1,18 @@
+{
+  "name": "better-auth-python",
+  "slug": "better-auth-python-sofia-asif-taskflow-todo-app",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/better-auth-python-sofia-asif-taskflow-todo-app/",
+  "download_url": "https://claudskills.com/skills/better-auth-python-sofia-asif-taskflow-todo-app/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Better Auth JWT verification for Python/FastAPI backends. Use when integrating Python APIs with a Better Auth TypeScript server via JWT tokens. Covers JWKS verification, FastAPI dependencies, SQLModel/SQLAlchemy integration, and protected routes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

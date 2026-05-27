@@ -1,0 +1,18 @@
+{
+  "name": "generative-ui",
+  "slug": "generative-ui",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/generative-ui/",
+  "download_url": "https://claudskills.com/skills/generative-ui/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when reasoning about the pattern where a language model emits, as structured output, a description of UI components or a UI sub-tree that an application then renders for the user: the typed-schema component palette, the structured-output mechanism (JSON Schema, function-calling) that constrains emission to renderable specs, the application-side render pipeline that turns the spec into pixels, the interaction loop by which user actions on the rendered UI flow back into the next turn, the security boundary between model-author and application-renderer, and the difference between this and adjacent patterns (chat with markdown, prebuilt-widget routing, RSC streaming, model-emits-code). Do NOT use for the page-level rendering taxonomy (use rendering-models), the protocol cycle of tool calls (use tool-call-flow), the trust boundary against untrusted content (use prompt-injection-defense), or general component-library architecture (use design-system-architecture).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "zero-trust",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:05+00:00"
+}

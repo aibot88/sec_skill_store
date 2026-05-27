@@ -1,0 +1,18 @@
+{
+  "name": "defense-supply-chain",
+  "slug": "defense-supply-chain",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/defense-supply-chain/",
+  "download_url": "https://claudskills.com/skills/defense-supply-chain/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze defense supply chain systems — DFARS compliance assessment, CMMC cybersecurity readiness, sole-source and DMSMS risk identification, counterfeit parts prevention per SAE AS6171, ITAR export control verification, and supplier tier mapping. Audit procurement software, supplier databases, and compliance tracking tools per DLA and NIST SP 800-161 requirements.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

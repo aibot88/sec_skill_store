@@ -1,0 +1,18 @@
+{
+  "name": "auth-pages",
+  "slug": "auth-pages",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-pages/",
+  "download_url": "https://claudskills.com/skills/auth-pages/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create and manage authentication pages with server-side session handling. Use when adding login, register, or protected pages WITHOUT flicker/skeleton.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

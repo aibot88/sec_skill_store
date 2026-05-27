@@ -1,0 +1,18 @@
+{
+  "name": "auth-tool-cloudbase",
+  "slug": "auth-tool-cloudbase",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-tool-cloudbase/",
+  "download_url": "https://claudskills.com/skills/auth-tool-cloudbase/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use CloudBase Auth tool to configure and manage authentication providers for web applications - enable/disable login methods (SMS, Email, WeChat Open Platform, Google, Anonymous, Username/password, OAuth, SAML, CAS, Dingding, etc.) and configure provider settings via MCP tools.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

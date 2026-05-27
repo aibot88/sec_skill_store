@@ -1,0 +1,18 @@
+{
+  "name": "sales-enthu",
+  "slug": "sales-enthu",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-enthu/",
+  "download_url": "https://claudskills.com/skills/sales-enthu/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Enthu.AI platform help — contact center conversation intelligence with auto QA scorecards, agent coaching, compliance monitoring, and speech analytics. Use when setting up Enthu.AI QA scorecards for call center agents, calls not being scored or transcribed correctly, agents not seeing coaching insights from their calls, Enthu.AI integration with Aircall or RingCentral not syncing, comparing Enthu.AI vs Gong or CallMiner for contact center QA, or configuring sentiment analysis and keyword tracking. Do NOT use for building a general coaching program (use /sales-coaching) or reviewing a specific call transcript (use /sales-call-review).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "deal-management",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

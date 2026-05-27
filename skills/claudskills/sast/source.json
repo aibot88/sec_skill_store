@@ -1,0 +1,18 @@
+{
+  "name": "sast",
+  "slug": "sast",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sast/",
+  "download_url": "https://claudskills.com/skills/sast/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Source code vulnerability hunting (SAST). Decomposes analysis into specialized passes: map entry points, map dangerous ops, trace flows, find gaps, adversarial validation, exploit. Usage: /sast <repo_path> [--lang c|cpp|rust|java|python|go|php] [--min-score 4] [--max-files 30] [--skip-static] [--best-of N]",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

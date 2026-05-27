@@ -1,0 +1,18 @@
+{
+  "name": "owasp-zap-active-scanner-agent",
+  "slug": "owasp-zap-active-scanner-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/owasp-zap-active-scanner-agent/",
+  "download_url": "https://claudskills.com/skills/owasp-zap-active-scanner-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Runs OWASP ZAP active security scans via the ZAP API daemon with custom scan policies. Generates SARIF reports compatible with GitHub Advanced Security code scanning alerts.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

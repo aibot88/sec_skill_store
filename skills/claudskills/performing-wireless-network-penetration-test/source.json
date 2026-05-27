@@ -1,0 +1,18 @@
+{
+  "name": "performing-wireless-network-penetration-test",
+  "slug": "performing-wireless-network-penetration-test",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-wireless-network-penetration-test/",
+  "download_url": "https://claudskills.com/skills/performing-wireless-network-penetration-test/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Execute a wireless network penetration test to assess WiFi security by capturing handshakes, cracking WPA2/WPA3",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "2480-sec_c729bce6",
+  "slug": "tools-only-x-skills-content-creation-2480-sec_c729bce6",
+  "source": "github",
+  "source_url": "https://github.com/tools-only/X-Skills/blob/efb931b2e3f5d32b229105a9364b072ac5f51d85/content-creation/2480-sec_c729bce6/skill.md",
+  "download_url": "https://github.com/tools-only/X-Skills/blob/efb931b2e3f5d32b229105a9364b072ac5f51d85/content-creation/2480-sec_c729bce6/skill.md",
+  "external_source_url": "https://github.com/tools-only/X-Skills/blob/efb931b2e3f5d32b229105a9364b072ac5f51d85/content-creation/2480-sec_c729bce6/skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "tools-only/X-Skills",
+    "path": "content-creation/2480-sec_c729bce6/skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

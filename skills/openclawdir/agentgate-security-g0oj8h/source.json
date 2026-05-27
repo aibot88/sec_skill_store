@@ -1,0 +1,17 @@
+{
+  "name": "agentgate-security",
+  "slug": "agentgate-security-g0oj8h",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/agentgate-security-g0oJ8H",
+  "download_url": "",
+  "external_source_url": "",
+  "license": "",
+  "description": "Stop your OpenClaw agent from executing dangerous commands, spending money, or taking irreversible actions without your approval. AgentGate intercepts every tool call, checks it against your human-defined security policies, and blocks or pauses the agent in real time. Add an enterprise-grade firewall and audit log to any OpenClaw agent in 2 lines of code.",
+  "category": "Security",
+  "download_status": "partial",
+  "download_note": "metadata only; no downloadable source URL found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=2"
+  },
+  "collected_at": "2026-05-27T03:44:40+00:00"
+}

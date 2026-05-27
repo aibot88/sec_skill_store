@@ -1,0 +1,18 @@
+{
+  "name": "aws-architecture-gotchas",
+  "slug": "aws-architecture-gotchas",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-architecture-gotchas/",
+  "download_url": "https://claudskills.com/skills/aws-architecture-gotchas/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Proactively catch common AWS infrastructure mistakes before they happen. Use when creating or modifying AWS components — CloudFormation, CDK, Lambda, API Gateway, IAM, S3, CloudFront, EC2, Secrets Manager, or SSM — to apply hard-won deployment lessons and avoid known pitfalls.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "framework-fit-analysis",
+  "slug": "framework-fit-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/framework-fit-analysis/",
+  "download_url": "https://claudskills.com/skills/framework-fit-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when choosing, replacing, or justifying a framework, library, SDK, runtime, database, UI kit, or platform by fit: constraints, team skill, ecosystem maturity, migration cost, operability, performance, security, and exit cost. Do NOT use for routine dependency hygiene (use `dependency-architecture`), documenting an accepted decision (use `architecture-decision-records`), or framework-specific implementation work.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

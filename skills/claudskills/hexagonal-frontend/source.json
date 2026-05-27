@@ -1,0 +1,18 @@
+{
+  "name": "hexagonal-frontend",
+  "slug": "hexagonal-frontend",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hexagonal-frontend/",
+  "download_url": "https://claudskills.com/skills/hexagonal-frontend/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guía de arquitectura hexagonal para aplicaciones React + TypeScript. Activa esta skill cuando el usuario pida crear, estructurar o agregar cualquier módulo o feature en el frontend: login, registro, listado de productos, pagos, perfil de usuario, carrito, o cualquier nueva pantalla/funcionalidad. También activa cuando el usuario pregunte cómo organizar carpetas, cómo separar lógica de la UI, cómo preparar código para integrar con una API o microservicio más adelante, o cuando mencione \"arquitectura hexagonal\", \"ports and adapters\", \"casos de uso\", \"repositorio\", \"adaptador\" o \"mock\". Usar aunque el usuario solo diga \"quiero hacer el módulo de X\" sin mencionar arquitectura — esta skill debe aplicarse siempre en este proyecto.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

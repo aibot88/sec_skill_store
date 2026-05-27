@@ -1,0 +1,18 @@
+{
+  "name": "clerk",
+  "slug": "clerk-mgd34msu-goodvibes-gemini",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk-mgd34msu-goodvibes-gemini/",
+  "download_url": "https://claudskills.com/skills/clerk-mgd34msu-goodvibes-gemini/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implements authentication with Clerk including user management, protected routes, middleware, and React components. Use when adding authentication, managing users, protecting routes, or implementing sign-in/sign-up flows.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

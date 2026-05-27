@@ -1,0 +1,18 @@
+{
+  "name": "abridge-prod-checklist",
+  "slug": "abridge-prod-checklist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/abridge-prod-checklist/",
+  "download_url": "https://claudskills.com/skills/abridge-prod-checklist/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Execute Abridge production readiness checklist for clinical AI deployment. Use when launching Abridge in a healthcare org, preparing for go-live, or validating HIPAA compliance before production deployment. Trigger: \"abridge production checklist\", \"abridge go-live\", \"abridge launch readiness\", \"abridge prod deploy\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

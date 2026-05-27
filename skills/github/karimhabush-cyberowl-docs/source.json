@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "slug": "karimhabush-cyberowl-docs",
+  "source": "github",
+  "source_url": "https://github.com/karimhabush/cyberowl/blob/f9f4d03529f597276727729a9460a680e4291aa6/docs/skill.md",
+  "download_url": "https://github.com/karimhabush/cyberowl/blob/f9f4d03529f597276727729a9460a680e4291aa6/docs/skill.md",
+  "external_source_url": "https://github.com/karimhabush/cyberowl/blob/f9f4d03529f597276727729a9460a680e4291aa6/docs/skill.md",
+  "license": "",
+  "description": "Aggregates security advisories from 10 international CERTs daily and provides an AI skill that cross-references alerts against your project's tech stack.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "karimhabush/cyberowl",
+    "path": "docs/skill.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

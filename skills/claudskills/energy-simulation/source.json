@@ -1,0 +1,18 @@
+{
+  "name": "energy-simulation",
+  "slug": "energy-simulation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/energy-simulation/",
+  "download_url": "https://claudskills.com/skills/energy-simulation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Building energy simulation and analysis for construction. Calculate heating/cooling loads, evaluate envelope performance, optimize HVAC sizing, and ensure energy code compliance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

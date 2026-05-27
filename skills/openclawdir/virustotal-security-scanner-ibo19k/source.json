@@ -1,0 +1,17 @@
+{
+  "name": "virustotal-security-scanner",
+  "slug": "virustotal-security-scanner-ibo19k",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/virustotal-security-scanner-ibo19k",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/aleph8/virustotal-security-scanner/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/aleph8/virustotal-security-scanner/SKILL.md",
+  "license": "",
+  "description": "Scan files and URLs using VirusTotal",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=2"
+  },
+  "collected_at": "2026-05-27T03:44:41+00:00"
+}

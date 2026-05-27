@@ -1,0 +1,18 @@
+{
+  "name": "ljg-read",
+  "slug": "ljg-read",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ljg-read/",
+  "download_url": "https://claudskills.com/skills/ljg-read/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reading companion agent. Accompanies user through any text (books, articles, essays, papers, news) with translation, structural annotation, deep questioning, and cross-domain insights. Detects language, translates English to Chinese (faithfulness-expressiveness-elegance), guides reader to understand the author and encounter real questions. Use when user says '伴读', '陪我读', '读这篇', 'read with me', 'companion read', or shares a text/URL wanting guided reading.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "translation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ruby-rules",
+  "slug": "ruby-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ruby-rules/",
+  "download_url": "https://claudskills.com/skills/ruby-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Ruby coding rules from ai-toolkit: coding-style, frameworks, patterns, security, testing. Triggers: .rb, Gemfile, .gemspec, Rails, ActiveRecord, Sidekiq, RSpec, Sorbet, rubocop. Load when writing, reviewing, or editing Ruby code.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "fedramp-20x-expert",
+  "slug": "fedramp-20x-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fedramp-20x-expert/",
+  "download_url": "https://claudskills.com/skills/fedramp-20x-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "FedRAMP 20X modernization expert. Provides guidance on Key Security Indicators (KSIs), continuous monitoring automation, machine-readable policies, and the new automated authorization approach. Auto-syncs with official FedRAMP docs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

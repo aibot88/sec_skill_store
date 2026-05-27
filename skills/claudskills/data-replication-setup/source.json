@@ -1,0 +1,18 @@
+{
+  "name": "data-replication-setup",
+  "slug": "data-replication-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/data-replication-setup/",
+  "download_url": "https://claudskills.com/skills/data-replication-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Set up database replication for high availability and disaster recovery. Use when configuring master-slave replication, multi-master setups, or replication monitoring.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

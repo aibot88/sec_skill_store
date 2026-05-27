@@ -1,0 +1,18 @@
+{
+  "name": "maintain-project-api",
+  "slug": "maintain-project-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/maintain-project-api/",
+  "download_url": "https://claudskills.com/skills/maintain-project-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Maintain canonical API.md files through deterministic audit and bounded apply modes. Use when a project API reference needs auditing, normalization, or bounded fixes for API surface, authentication, request and response schemas, errors, versioning, compatibility, local verification, or support guidance. This is the default baseline API.md workflow for most repos unless a narrower plugin owns that repo shape.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

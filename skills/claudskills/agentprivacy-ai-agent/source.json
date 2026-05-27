@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-ai-agent",
+  "slug": "agentprivacy-ai-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-ai-agent/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-ai-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "AI agent architecture and dual-agent separation for 0xagentprivacy. Activates when discussing I(S;M|π) mutual information bounds, TEE isolation, agent lifecycle (spawn/operate/rotate/recover/retire), Oracle architecture, or the fundamental design of privacy-preserving AI agents.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

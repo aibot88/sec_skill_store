@@ -1,0 +1,18 @@
+{
+  "name": "agent-sdk-development",
+  "slug": "agent-sdk-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-sdk-development/",
+  "download_url": "https://claudskills.com/skills/agent-sdk-development/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Central authority for Claude Agent SDK (TypeScript and Python SDKs). Covers SDK installation, authentication (Anthropic key, Bedrock, Vertex), sessions and resumption, forking sessions, streaming vs single mode, custom tools, permissions (allowedTools, disallowedTools, permissionMode), MCP integration, system prompts (CLAUDE.md, appendSystemPrompt, outputStyle), cost tracking, todo tracking, structured outputs, hosting patterns, plugins, and SDK branding guidelines. Assists with building custom agents, configuring SDK options, and troubleshooting SDK issues. Delegates 100% to docs-management skill for official documentation.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "red-team-tools-and-methodology",
+  "slug": "red-team-tools-and-methodology",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/red-team-tools-and-methodology/",
+  "download_url": "https://claudskills.com/skills/red-team-tools-and-methodology/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when the user asks to \"follow red team methodology\", \"perform bug bounty hunting\", \"automate reconnaissance\", \"hunt for XSS vulnerabilities\", \"enumerate subdomains\", or needs security researcher techniques and tool configurations from top bug bounty hunters.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

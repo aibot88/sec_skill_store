@@ -1,0 +1,18 @@
+{
+  "name": "principle-design-patterns",
+  "slug": "principle-design-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/principle-design-patterns/",
+  "download_url": "https://claudskills.com/skills/principle-design-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design patterns — Gang of Four and beyond. Strategy, factory method, observer, decorator, adapter, facade, template method, command, repository, dependency injection. Auto-load when designing class structure, refactoring toward a pattern, or evaluating whether a pattern applies.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

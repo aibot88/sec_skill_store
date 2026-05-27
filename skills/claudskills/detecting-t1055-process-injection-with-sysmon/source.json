@@ -1,0 +1,18 @@
+{
+  "name": "detecting-t1055-process-injection-with-sysmon",
+  "slug": "detecting-t1055-process-injection-with-sysmon",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-t1055-process-injection-with-sysmon/",
+  "download_url": "https://claudskills.com/skills/detecting-t1055-process-injection-with-sysmon/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect process injection techniques (T1055) including classic DLL injection, process hollowing, and APC injection",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "operations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

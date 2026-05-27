@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-protocols",
+  "slug": "analyzing-protocols",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-protocols/",
+  "download_url": "https://claudskills.com/skills/analyzing-protocols/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyzes network protocol implementations to identify parsing vulnerabilities, state machine issues, and protocol-level security problems. Use when analyzing network servers, protocol handlers, or investigating protocol implementation bugs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

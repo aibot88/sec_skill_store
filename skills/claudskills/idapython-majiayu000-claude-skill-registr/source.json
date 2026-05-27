@@ -1,0 +1,18 @@
+{
+  "name": "idapython",
+  "slug": "idapython-majiayu000-claude-skill-registr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/idapython-majiayu000-claude-skill-registr/",
+  "download_url": "https://claudskills.com/skills/idapython-majiayu000-claude-skill-registr/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "IDA Pro Python scripting for reverse engineering. Use when writing IDAPython scripts, analyzing binaries, working with IDA's API for disassembly, decompilation (Hex-Rays), type systems, cross-references, functions, segments, or any IDA database manipulation. Covers ida_* modules (50+), idautils iterators, and common patterns.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

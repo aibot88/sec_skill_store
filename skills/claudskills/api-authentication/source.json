@@ -1,0 +1,18 @@
+{
+  "name": "api-authentication",
+  "slug": "api-authentication",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-authentication/",
+  "download_url": "https://claudskills.com/skills/api-authentication/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Secure API authentication with JWT, OAuth 2.0, API keys. Use for authentication systems, third-party integrations, service-to-service communication, or encountering token management, security headers, auth flow errors.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:50+00:00"
+}

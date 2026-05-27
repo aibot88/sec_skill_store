@@ -1,0 +1,18 @@
+{
+  "name": "ato-language",
+  "slug": "ato-language",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ato-language/",
+  "download_url": "https://claudskills.com/skills/ato-language/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Reference for the `.ato` declarative DSL: type system, connection semantics, constraint model, and standard library. Use when authoring or reviewing `.ato` code.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

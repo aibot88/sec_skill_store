@@ -1,0 +1,18 @@
+{
+  "name": "implementing-database-audit-logging",
+  "slug": "database-audit-logger",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/database-audit-logger/",
+  "download_url": "https://claudskills.com/skills/database-audit-logger/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill helps implement database audit logging for tracking changes and ensuring compliance. It is triggered when the user requests to \"implement database audit logging\", \"add audit trails\", \"track database changes\", or mentions \"audit_log\" in relation to a database. The skill provides options for trigger-based auditing, application-level logging, Change Data Capture (CDC), and parsing database logs. It generates a basic audit table schema and guides the user through selecting the appropriate auditing strategy.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

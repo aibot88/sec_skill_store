@@ -1,0 +1,18 @@
+{
+  "name": "clinical-data-cleaner",
+  "slug": "clinical-data-cleaner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clinical-data-cleaner/",
+  "download_url": "https://claudskills.com/skills/clinical-data-cleaner/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when cleaning clinical trial data, preparing data for FDA/EMA submission, standardizing SDTM datasets, handling missing values in clinical studies, detecting outliers in lab results, or converting raw CRF data to CDISC format. Cleans and standardizes clinical trial data for regulatory compliance with audit trails.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

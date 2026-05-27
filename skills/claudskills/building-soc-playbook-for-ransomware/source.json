@@ -1,0 +1,18 @@
+{
+  "name": "building-soc-playbook-for-ransomware",
+  "slug": "building-soc-playbook-for-ransomware",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-soc-playbook-for-ransomware/",
+  "download_url": "https://claudskills.com/skills/building-soc-playbook-for-ransomware/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Builds a structured SOC incident response playbook for ransomware attacks covering detection, containment, eradication,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

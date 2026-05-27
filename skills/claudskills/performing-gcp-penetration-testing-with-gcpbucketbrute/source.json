@@ -1,0 +1,18 @@
+{
+  "name": "performing-gcp-penetration-testing-with-gcpbucketbrute",
+  "slug": "performing-gcp-penetration-testing-with-gcpbucketbrute",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-gcp-penetration-testing-with-gcpbucketbrute/",
+  "download_url": "https://claudskills.com/skills/performing-gcp-penetration-testing-with-gcpbucketbrute/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Perform GCP security testing using GCPBucketBrute for storage bucket enumeration, gcloud IAM privilege escalation",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

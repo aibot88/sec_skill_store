@@ -1,0 +1,18 @@
+{
+  "name": "frontend-design-standards",
+  "slug": "frontend-design-standards",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/frontend-design-standards/",
+  "download_url": "https://claudskills.com/skills/frontend-design-standards/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when generating React/TypeScript UI components, forms, layouts, or pages - prevents generic AI aesthetic, enforces accessibility, semantic HTML, theme compliance, minimum text sizes, proper states, and brand differentiation",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

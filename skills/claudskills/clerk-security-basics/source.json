@@ -1,0 +1,18 @@
+{
+  "name": "clerk-security-basics",
+  "slug": "clerk-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk-security-basics/",
+  "download_url": "https://claudskills.com/skills/clerk-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement security best practices with Clerk authentication. Use when securing your application, reviewing auth implementation, or hardening Clerk configuration. Trigger with phrases like \"clerk security\", \"secure clerk\", \"clerk best practices\", \"clerk hardening\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

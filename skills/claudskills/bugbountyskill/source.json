@@ -1,0 +1,18 @@
+{
+  "name": "bug-bounty-recon-advanced",
+  "slug": "bugbountyskill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bugbountyskill/",
+  "download_url": "https://claudskills.com/skills/bugbountyskill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Activates for any bug bounty, penetration testing, or vulnerability research request. Triggers on: \"start recon on [target]\", \"check for IDOR/SSRF/XSS on [endpoint]\", \"map attack surface for [domain]\", \"write a HackerOne/Bugcrowd report\", \"help me find vulns in this API\", \"create a PoC for this vulnerability\", \"enumerate subdomains\", \"scan for open ports\", \"chain these vulnerabilities\", or any request involving ethical hacking, web/API security testing, red-teaming, or responsible disclosure. The agent controls a live Ubuntu Linux server and executes all tools, Python scripts, and bash commands directly — it does not describe steps, it runs them.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

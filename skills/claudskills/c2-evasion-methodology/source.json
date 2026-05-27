@@ -1,0 +1,18 @@
+{
+  "name": "c2-evasion-methodology",
+  "slug": "c2-evasion-methodology",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/c2-evasion-methodology/",
+  "download_url": "https://claudskills.com/skills/c2-evasion-methodology/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "C2框架免杀方法论：分析 C2 源码、搜索检测规则(YARA/Sigma/Snort)、逐规则分析、修改源码绕过检测。当遇到 YARA/Sigma/Snort 规则触发告警、beacon/implant 被杀软检测到时使用。第一步：确认 implant/beacon 语言和架构；第二步：搜索对应检测规则并逐规则分析修改",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

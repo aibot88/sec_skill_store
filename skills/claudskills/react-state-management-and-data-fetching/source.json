@@ -1,0 +1,18 @@
+{
+  "name": "react-state-management-and-data-fetching",
+  "slug": "react-state-management-and-data-fetching",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/react-state-management-and-data-fetching/",
+  "download_url": "https://claudskills.com/skills/react-state-management-and-data-fetching/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when defining, reviewing, or hardening client state and data fetching for a standalone React SPA after the app scaffold and routing exist and frontend architecture has decided the state-tier model and data-fetching strategy. Produces a 4-tier state discipline (URL, server, global, local), a server-state data-fetching layer (TanStack Query default, or RTK Query/Apollo), query and mutation conventions, cache and revalidation policy, optimistic-update posture, and the auth-token storage, refresh, authorization-header, logout-propagation, and CSRF wiring that the scaffold and routing skills deferred. Do not use for app scaffolding, routing topology, design-system or accessibility work, or performance budgeting; use the other react archetype skills instead.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

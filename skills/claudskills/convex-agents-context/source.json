@@ -1,0 +1,18 @@
+{
+  "name": "Convex Agents Context",
+  "slug": "convex-agents-context",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/convex-agents-context/",
+  "download_url": "https://claudskills.com/skills/convex-agents-context/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Customizes what information the LLM receives for each generation. Use this to control message history, implement RAG context injection, search across threads, and provide custom context.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

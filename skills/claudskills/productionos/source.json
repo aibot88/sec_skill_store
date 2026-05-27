@@ -1,0 +1,18 @@
+{
+  "name": "productionos",
+  "slug": "productionos",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/productionos/",
+  "download_url": "https://claudskills.com/skills/productionos/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "ProductionOS — dual-target AI engineering operating system for repo-wide audits, upgrade plans, code reviews, strategic product reviews, security sweeps, UX audits, and recursive quality improvement.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

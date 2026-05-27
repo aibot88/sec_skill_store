@@ -1,0 +1,18 @@
+{
+  "name": "implementing-web-application-logging-with-modsecurity",
+  "slug": "implementing-web-application-logging-with-modsecurity",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-web-application-logging-with-modsecurity/",
+  "download_url": "https://claudskills.com/skills/implementing-web-application-logging-with-modsecurity/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Configure ModSecurity WAF with OWASP Core Rule Set (CRS) for web application logging, tune rules to reduce false",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

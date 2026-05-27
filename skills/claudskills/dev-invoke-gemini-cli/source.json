@@ -1,0 +1,18 @@
+{
+  "name": "dev_invoke_gemini-cli",
+  "slug": "dev-invoke-gemini-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-invoke-gemini-cli/",
+  "download_url": "https://claudskills.com/skills/dev-invoke-gemini-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Delegate QAQC and review tasks to Google Gemini CLI using markdown file handoff pattern. Write review request to REVIEW.md, Gemini analyzes, outputs findings to FINDINGS.md. Use for code review, security audits, documentation review, large context analysis.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ism",
+  "slug": "ism",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ism/",
+  "download_url": "https://claudskills.com/skills/ism/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert Australian Information Security Manual (ISM) advisor for government entities and their supply chains. Use for ISM control selection, gap analysis, system authorisation, IRAP assessment preparation, security documentation, and ASD compliance. Triggers on: ISM controls, ASD compliance, IRAP assessment, PROTECTED system scoping, Essential Eight vs ISM, system authorisation, NC/OS/ PROTECTED/SECRET/TOP SECRET classification markings, security objectives, ISM guidelines or chapters, control applicability markings, cybersecurity documentation for Australian government, and any question about the ASD Information Security Manual framework or Australian government cybersecurity obligations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

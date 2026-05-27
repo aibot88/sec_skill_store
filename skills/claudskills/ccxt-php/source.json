@@ -1,0 +1,18 @@
+{
+  "name": "ccxt-php",
+  "slug": "ccxt-php",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ccxt-php/",
+  "download_url": "https://claudskills.com/skills/ccxt-php/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CCXT cryptocurrency exchange library for PHP developers. Covers both REST API (standard) and WebSocket API (real-time). Helps install CCXT, connect to exchanges, fetch market data, place orders, stream live tickers/orderbooks, handle authentication, and manage errors in PHP 8.1+. Use when working with crypto exchanges in PHP projects, trading bots, or web applications. Supports both sync and async (ReactPHP) usage.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

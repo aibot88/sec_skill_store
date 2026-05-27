@@ -1,0 +1,18 @@
+{
+  "name": "rails-security",
+  "slug": "rails-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rails-security/",
+  "download_url": "https://claudskills.com/skills/rails-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when auditing a Rails app for SQL injection, XSS, CSRF, mass-assignment, or Gemfile.lock CVEs, or when reviewing only NEW security regressions in a PR vs base branch.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

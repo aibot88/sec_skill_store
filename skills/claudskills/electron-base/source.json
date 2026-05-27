@@ -1,0 +1,18 @@
+{
+  "name": "electron-base",
+  "slug": "electron-base",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/electron-base/",
+  "download_url": "https://claudskills.com/skills/electron-base/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build secure desktop applications with Electron 33, Vite, React, and TypeScript. Covers type-safe IPC via contextBridge, OAuth with custom protocol handlers, native module compatibility (better-sqlite3, electron-store), and electron-builder packaging.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

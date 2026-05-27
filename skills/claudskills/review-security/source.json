@@ -1,0 +1,18 @@
+{
+  "name": "review-security",
+  "slug": "review-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/review-security/",
+  "download_url": "https://claudskills.com/skills/review-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "White-box security audit. Blue-teamer and lead red-teamer run in parallel isolation for an independent first pass — neither sees the other's output during reconnaissance. A synthesis step categorizes findings into four prescriptive buckets (anchoring-suppressed, convergent, blue-flagged-unverified, divergent), producing a unified target list. Focused red-teamers then deep-dive each target. Iterates when exploit chains are discovered. Heavy and thorough by design.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

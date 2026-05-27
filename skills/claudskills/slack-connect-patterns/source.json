@@ -1,0 +1,18 @@
+{
+  "name": "slack-connect-patterns",
+  "slug": "slack-connect-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/slack-connect-patterns/",
+  "download_url": "https://claudskills.com/skills/slack-connect-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing, governing, or troubleshooting Slack Connect channel sharing between two independent organizations. Trigger phrases: external Slack channel collaboration, cross-org Slack channel setup, Slack Connect DLP policy, Slack partner channel governance, regulated industry Slack Connect compliance. Does NOT cover Salesforce-to-Salesforce integration, Salesforce for Slack app setup, or internal single-workspace Slack channels. NOT for Salesforce-to-Salesforce integration.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "calculating-crypto-taxes",
+  "slug": "calculating-crypto-taxes",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/calculating-crypto-taxes/",
+  "download_url": "https://claudskills.com/skills/calculating-crypto-taxes/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Calculate cryptocurrency tax obligations with cost basis tracking, capital gains computation, and Form 8949 generation. Use when calculating crypto taxes, generating tax reports, comparing cost basis methods, or identifying taxable events. Trigger with phrases like \"calculate crypto taxes\", \"generate tax report\", \"cost basis FIFO\", \"capital gains\", \"Form 8949\", or \"crypto taxable events\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

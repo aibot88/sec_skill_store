@@ -1,0 +1,18 @@
+{
+  "name": "isms-audit-expert",
+  "slug": "davila7-isms-audit-expert",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/davila7-isms-audit-expert",
+  "download_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/enterprise-communication/isms-audit-expert/SKILL.md?plain=1#L16-L38",
+  "external_source_url": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/enterprise-communication/isms-audit-expert/SKILL.md?plain=1#L16-L38",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Senior ISMS Audit Expert for internal and external information security management system auditing. Provides ISO 27001 audit expertise, security audit program management, security control assessment, and compliance verification. Use for ISMS internal auditing, external audit preparation, security control testing, and ISO 27001 certification support.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/davila7/claude-code-templates/blob/main/cli-tool/components/skills/enterprise-communication/isms-audit-expert/SKILL.md?plain=1#L16-L38"
+  },
+  "collected_at": "2026-05-27T03:44:43+00:00"
+}

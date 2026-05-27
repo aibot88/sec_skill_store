@@ -1,0 +1,18 @@
+{
+  "name": "hook-authoring",
+  "slug": "hook-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hook-authoring/",
+  "download_url": "https://claudskills.com/skills/hook-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide for creating Claude Code hooks with security-first design. Use for validation, logging, and policy enforcement.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

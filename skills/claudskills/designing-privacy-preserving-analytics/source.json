@@ -1,0 +1,18 @@
+{
+  "name": "designing-privacy-preserving-analytics",
+  "slug": "designing-privacy-preserving-analytics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/designing-privacy-preserving-analytics/",
+  "download_url": "https://claudskills.com/skills/designing-privacy-preserving-analytics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Design privacy-preserving analytics systems using differential privacy, k-anonymity, l-diversity, and t-closeness. Covers privacy budget allocation with epsilon tracking, references Google DP library, OpenDP, and Apple PPML. Includes Python differential privacy implementation for GDPR-compliant statistical analysis.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "math-stats",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

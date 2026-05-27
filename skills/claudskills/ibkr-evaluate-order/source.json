@@ -1,0 +1,18 @@
+{
+  "name": "ibkr-evaluate-order",
+  "slug": "ibkr-evaluate-order",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ibkr-evaluate-order/",
+  "download_url": "https://claudskills.com/skills/ibkr-evaluate-order/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Evaluate a proposed single-leg order through full pre-trade validation. Use when the user requests to buy or sell a specific instrument and you need to assess portfolio impact, concentration, and profile compliance before any approval or execution. Call ibkr-place-order after this skill to execute an approved order.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

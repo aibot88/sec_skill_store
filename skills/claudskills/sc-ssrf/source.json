@@ -1,0 +1,18 @@
+{
+  "name": "sc-ssrf",
+  "slug": "sc-ssrf",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sc-ssrf/",
+  "download_url": "https://claudskills.com/skills/sc-ssrf/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Server-Side Request Forgery detection — URL fetching with user input, DNS rebinding, cloud metadata access",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

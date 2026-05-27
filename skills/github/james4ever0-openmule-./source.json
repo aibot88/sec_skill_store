@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "james4ever0-openmule-.",
+  "source": "github",
+  "source_url": "https://github.com/James4Ever0/openmule/blob/834b101f57a29553bdda97fb7cce88f281cce0f0/openmule_cs_skill.md",
+  "download_url": "https://github.com/James4Ever0/openmule/blob/834b101f57a29553bdda97fb7cce88f281cce0f0/openmule_cs_skill.md",
+  "external_source_url": "https://github.com/James4Ever0/openmule/blob/834b101f57a29553bdda97fb7cce88f281cce0f0/openmule_cs_skill.md",
+  "license": "",
+  "description": "An open-source MuleRun",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "James4Ever0/openmule",
+    "path": "openmule_cs_skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

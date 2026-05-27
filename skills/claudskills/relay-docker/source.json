@@ -1,0 +1,18 @@
+{
+  "name": "relay-docker",
+  "slug": "relay-docker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/relay-docker/",
+  "download_url": "https://claudskills.com/skills/relay-docker/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Build production-ready Dockerfiles with multi-stage builds, security hardening, and docker-compose for local dev. Use when asked to \"create Dockerfile\", \"optimize container\", or \"dockerize this\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

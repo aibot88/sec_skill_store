@@ -1,0 +1,18 @@
+{
+  "name": "implementing-proofpoint-email-security-gateway",
+  "slug": "implementing-proofpoint-email-security-gateway",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-proofpoint-email-security-gateway/",
+  "download_url": "https://claudskills.com/skills/implementing-proofpoint-email-security-gateway/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Deploy and configure Proofpoint Email Protection as a secure email gateway to detect and block phishing, malware,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

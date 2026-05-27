@@ -1,0 +1,18 @@
+{
+  "name": "epistemic-cognitive-guardrails",
+  "slug": "epistemic-cognitive-guardrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/epistemic-cognitive-guardrails/",
+  "download_url": "https://claudskills.com/skills/epistemic-cognitive-guardrails/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Discipline epistemique stricte pour eliminer les derives cognitives de Claude. Activation SYSTEMATIQUE sur TOUTES les conversations. Impose: (1) Zero invention/supposition, (2) Honnetete absolue, (3) Vision holistique avec relecture du contexte, (4) Questions plutot que suppositions, (5) Remise en contexte perpetuelle avec checkpoints structures, (6) Documentation incrementielle sans doublons, (7) Vigilance workflow/CI-CD/securite, (8) TODO/plan obligatoire avant tout travail, (9) Documentation FR/EN scholar style signee Julien GELEE, (10) Zero credentials/API keys/donnees sensibles en clair. Posture ingenieur generaliste specialise IA.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "accessibility-auditor",
+  "slug": "accessibility-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/accessibility-auditor/",
+  "download_url": "https://claudskills.com/skills/accessibility-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reviews UI components for WCAG compliance, ARIA attributes, keyboard navigation, and screen reader support. Use when building frontend components or user requests accessibility improvements.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ips-redteam-qualitygate",
+  "slug": "ips-redteam-qualitygate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ips-redteam-qualitygate/",
+  "download_url": "https://claudskills.com/skills/ips-redteam-qualitygate/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Sucht Fehler im Plan: unvollständige Angaben, Bewertungswiderspruch, Gruppenmissbrauch, fehlende Anlagen, unbestimmte Klauseln und Bestätigungsrisiken.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "vuln-scanner",
+  "slug": "vuln-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vuln-scanner/",
+  "download_url": "https://claudskills.com/skills/vuln-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "脆弱性スキャンスキル。CVE/依存関係脆弱性を検出し、npm audit/pip-audit/trivy等の結果を解析。セキュリティリスクの優先順位付けと修正提案を提供。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

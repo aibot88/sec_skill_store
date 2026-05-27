@@ -1,0 +1,18 @@
+{
+  "name": "vidis-check",
+  "slug": "vidis-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vidis-check/",
+  "download_url": "https://claudskills.com/skills/vidis-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validates a web app or codebase against the VIDIS Prüfkriterien V0.2 (eduCheck digital). Checks all criteria from both Prüfbereiche: Recht & Datenschutz and IT-Sicherheit. Produces a structured compliance report with PASS / FAIL / MANUELL (needs human review) for each criterion. Use when asked to \"vidis check\", \"VIDIS prüfen\", \"eduCheck prüfen\", or \"VIDIS-Kriterien\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

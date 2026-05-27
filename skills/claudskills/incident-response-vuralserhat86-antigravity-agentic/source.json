@@ -1,0 +1,18 @@
+{
+  "name": "incident_response",
+  "slug": "incident-response-vuralserhat86-antigravity-agentic",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/incident-response-vuralserhat86-antigravity-agentic/",
+  "download_url": "https://claudskills.com/skills/incident-response-vuralserhat86-antigravity-agentic/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Coordinate security incident response efforts. Includes classification, playbook generation, evidence gathering, and remediation planning. Validates response strategies against best practices.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "incident-response",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "github-pr-response",
+  "slug": "github-pr-response",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-pr-response/",
+  "download_url": "https://claudskills.com/skills/github-pr-response/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Respond to PR review comments from humans or AI reviewers. Fetches open review threads, triages each comment, implements fixes, posts a reply citing the commit, and optionally resolves threads. Use when a PR has received review feedback that needs actioning — trigger on \"respond to PR comments\", \"address review feedback\", \"fix PR comments\", \"reply to review\", or when review threads are open on a PR you authored.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

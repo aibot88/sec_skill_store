@@ -1,0 +1,18 @@
+{
+  "name": "business-operations-skills",
+  "slug": "business-operations-skills",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/business-operations-skills/",
+  "download_url": "https://claudskills.com/skills/business-operations-skills/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when running, diagnosing, or designing internal business operations — process documentation, vendor SLAs, capacity planning, internal comms, SOP/runbook authoring, procurement spend. Triggers on \"BizOps review\", \"where's the bottleneck\", \"vendor health\", \"internal SOP\", \"all-hands deck\", \"spend categorization\", \"capacity for Q3\", \"process mapping\". Forks context to route to one of six BizOps sub-skills (process-mapper, vendor-management, capacity-planner, internal-comms, knowledge-ops, procurement-optimizer) and returns a digest. Distinct from business-growth (external sales motion) and c-level-advisor (strategic, not operational).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

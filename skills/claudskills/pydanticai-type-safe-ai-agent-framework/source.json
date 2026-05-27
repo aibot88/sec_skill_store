@@ -1,0 +1,18 @@
+{
+  "name": "pydanticai-type-safe-ai-agent-framework",
+  "slug": "pydanticai-type-safe-ai-agent-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pydanticai-type-safe-ai-agent-framework/",
+  "download_url": "https://claudskills.com/skills/pydanticai-type-safe-ai-agent-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "PydanticAI is an AI agent framework built by the Pydantic team that brings FastAPI-style ergonomics to GenAI development. It provides type-safe, model-agnostic agent construction with structured outputs, dependency injection, and seamless integration with Pydantic Logfire for observability.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

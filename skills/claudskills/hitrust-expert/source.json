@@ -1,0 +1,18 @@
+{
+  "name": "hitrust-expert",
+  "slug": "hitrust-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hitrust-expert/",
+  "download_url": "https://claudskills.com/skills/hitrust-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "HITRUST CSF expert for healthcare security. Implementation guidance, assessment workflow, and mapping to HIPAA/NIST/ISO/PCI frameworks. References control IDs only — not a replacement for a licensed CSF copy.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

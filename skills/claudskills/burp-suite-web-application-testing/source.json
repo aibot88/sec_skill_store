@@ -1,0 +1,18 @@
+{
+  "name": "burp-suite-web-application-testing",
+  "slug": "burp-suite-web-application-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/burp-suite-web-application-testing/",
+  "download_url": "https://claudskills.com/skills/burp-suite-web-application-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when the user asks to \"intercept HTTP traffic\", \"modify web requests\", \"use Burp Suite for testing\", \"perform web vulnerability scanning\", \"test with Burp Repeater\", \"analyze HTTP history\", or \"configure proxy for web testing\". It provides comprehensive guidance for using Burp Suite's core features for web application security testing.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

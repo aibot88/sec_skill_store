@@ -1,0 +1,18 @@
+{
+  "name": "sales-balto",
+  "slug": "sales-balto",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-balto/",
+  "download_url": "https://claudskills.com/skills/sales-balto/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Balto platform help — contact center real-time AI guidance with live call coaching, automated QA on 100% of calls, compliance monitoring, and automatic call summarization to CRM. Use when agents aren't following compliance scripts and you need real-time enforcement, QA team is only sampling a fraction of calls and missing problems, new agent ramp time is too long and you want live guidance to accelerate it, need real-time PCI/HIPAA/regulatory scanning during calls, Balto prompts aren't triggering correctly or showing on the wrong screen, comparing Balto vs Observe.AI or CallMiner for contact center QA, or configuring Balto with Five9, Genesys, or Amazon Connect. Do NOT use for building a general coaching program (use /sales-coaching) or reviewing a specific call transcript (use /sales-call-review).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "deal-management",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "specdd-adopt",
+  "slug": "specdd-adopt",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/specdd-adopt/",
+  "download_url": "https://claudskills.com/skills/specdd-adopt/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when Claude Code needs to create, add, restructure, or improve SpecDD `.sdd` contract files, define ownership or write authority, clean up missing or unclear specs, or introduce SpecDD adoption without changing implementation unless explicitly requested.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

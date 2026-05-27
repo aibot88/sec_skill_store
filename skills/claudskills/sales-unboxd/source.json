@@ -1,0 +1,18 @@
+{
+  "name": "sales-unboxd",
+  "slug": "sales-unboxd",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-unboxd/",
+  "download_url": "https://claudskills.com/skills/sales-unboxd/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Unboxd platform help — AI email secretary that reads every email and extracts action items with deadlines into daily briefings, supports Gmail/Outlook/IMAP ($7.50-41.67/mo). Use when action items keep getting lost in email threads, spending too much time reading and triaging emails, daily briefing is missing important messages, credits are running out before the month ends, emails getting categorized into the wrong bucket, comparing Unboxd to Fyxer or Superhuman or SaneBox or Shortwave for inbox triage, or setting up Unboxd with multiple email accounts. Do NOT use for AI reply drafting or voice-trained email writing (use /sales-fyxer or /sales-superhuman). Do NOT use for choosing a meeting note-taker (use /sales-note-taker).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:09+00:00"
+}

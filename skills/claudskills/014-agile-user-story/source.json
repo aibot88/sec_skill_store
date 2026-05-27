@@ -1,0 +1,18 @@
+{
+  "name": "014-agile-user-story",
+  "slug": "014-agile-user-story",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/014-agile-user-story/",
+  "download_url": "https://claudskills.com/skills/014-agile-user-story/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Guides the creation of agile user stories and Gherkin feature files. Use when the user wants to create a user story, write acceptance criteria, define Gherkin scenarios, or author BDD feature files. This should trigger for requests such as Create a user story; Write a user story; I need to write a user story. Part of cursor-rules-java project",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "prd-spec",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gcp-gcs-data-perimeter-governor",
+  "slug": "gcp-gcs-data-perimeter-governor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-gcs-data-perimeter-governor/",
+  "download_url": "https://claudskills.com/skills/gcp-gcs-data-perimeter-governor/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Govern Google Cloud Storage data perimeters — uniform bucket-level access enforcement, public access prevention, VPC Service Controls perimeter coverage, IAM Conditions for time-bounded access, Object Lifecycle policies, and data residency compliance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

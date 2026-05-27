@@ -1,0 +1,18 @@
+{
+  "name": "guidewire-enterprise-rbac",
+  "slug": "guidewire-enterprise-rbac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/guidewire-enterprise-rbac/",
+  "download_url": "https://claudskills.com/skills/guidewire-enterprise-rbac/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Guidewire RBAC: API roles, user permissions, and security policies. Trigger: \"guidewire enterprise rbac\", \"enterprise-rbac\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

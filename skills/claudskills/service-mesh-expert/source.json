@@ -1,0 +1,18 @@
+{
+  "name": "service-mesh-expert",
+  "slug": "service-mesh-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/service-mesh-expert/",
+  "download_url": "https://claudskills.com/skills/service-mesh-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert service mesh architect specializing in Istio, Linkerd, and cloud-native networking patterns. Masters traffic management, security policies, observability integration, and multi-cluster mesh con",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

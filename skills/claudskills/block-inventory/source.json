@@ -1,0 +1,18 @@
+{
+  "name": "block-inventory",
+  "slug": "block-inventory",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/block-inventory/",
+  "download_url": "https://claudskills.com/skills/block-inventory/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Survey available blocks from local AEM Edge Delivery Services project and Block Collection to understand the block palette available for authoring. Returns block inventory with purposes to inform content modeling decisions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "implementing-usb-device-control-policy",
+  "slug": "implementing-usb-device-control-policy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-usb-device-control-policy/",
+  "download_url": "https://claudskills.com/skills/implementing-usb-device-control-policy/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implements USB device control policies to restrict unauthorized removable media access on endpoints, preventing",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

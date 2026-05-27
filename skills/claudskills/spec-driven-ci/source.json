@@ -1,0 +1,18 @@
+{
+  "name": "spec-driven-ci",
+  "slug": "spec-driven-ci",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spec-driven-ci/",
+  "download_url": "https://claudskills.com/skills/spec-driven-ci/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate CI/CD pipeline workflows through spec-driven workflow generation with structural anti-skip enforcement. Implements 5 phases covering preflight validation, configuration loading, workflow template generation, cost optimization, and final validation using the Execute-Verify-Gate pattern at every step. Designed to prevent token optimization bias through lean orchestration and binary CLI gate enforcement. Currently supports GitHub Actions with cost-optimized Claude API integration (prompt caching, Haiku preference, max-turns limits). Use when setting up CI/CD automation for DevForgeAI projects. Always use this skill when the user runs /setup-github-actions. Also use when the user mentions GitHub Actions setup, CI/CD pipeline generation, headless DevForgeAI execution, or workflow automation for /dev and /qa commands.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

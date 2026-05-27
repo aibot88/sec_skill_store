@@ -1,0 +1,18 @@
+{
+  "name": "atlassian-mcp",
+  "slug": "atlassian-mcp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/atlassian-mcp/",
+  "download_url": "https://claudskills.com/skills/atlassian-mcp/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Integrates with Atlassian products to manage project tracking and documentation via MCP protocol. Use when querying Jira issues with JQL filters, creating and updating tickets with custom fields, searching or editing Confluence pages with CQL, managing sprints and backlogs, setting up MCP server authentication, syncing documentation, or debugging Atlassian API integrations.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "docs-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

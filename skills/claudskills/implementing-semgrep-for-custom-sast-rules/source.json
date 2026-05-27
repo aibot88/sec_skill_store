@@ -1,0 +1,18 @@
+{
+  "name": "implementing-semgrep-for-custom-sast-rules",
+  "slug": "implementing-semgrep-for-custom-sast-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-semgrep-for-custom-sast-rules/",
+  "download_url": "https://claudskills.com/skills/implementing-semgrep-for-custom-sast-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Write custom Semgrep SAST rules in YAML to detect application-specific vulnerabilities, enforce coding standards,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

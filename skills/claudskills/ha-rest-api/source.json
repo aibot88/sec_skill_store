@@ -1,0 +1,18 @@
+{
+  "name": "ha-rest-api",
+  "slug": "ha-rest-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ha-rest-api/",
+  "download_url": "https://claudskills.com/skills/ha-rest-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides methods to interact with Home Assistant REST API for entity discovery, state retrieval, and service calls including authentication, entity patterns, service calls, and state queries. Use when working with Home Assistant integrations, controlling devices, querying sensor data, or automating Home Assistant operations.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

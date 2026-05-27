@@ -1,0 +1,18 @@
+{
+  "name": "data-validation",
+  "slug": "data-validation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/data-validation/",
+  "download_url": "https://claudskills.com/skills/data-validation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when implementing data validation for API payloads, form inputs, or database writes. Triggers for: Pydantic models, Zod schemas, input sanitization, type validation, field constraints, or request/response schemas. NOT for: business logic (use domain services) or authentication/authorization.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

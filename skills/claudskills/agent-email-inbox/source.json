@@ -1,0 +1,18 @@
+{
+  "name": "agent-email-inbox",
+  "slug": "agent-email-inbox",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-email-inbox/",
+  "download_url": "https://claudskills.com/skills/agent-email-inbox/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when setting up a secure email inbox for any AI agent — configuring inbound email via Resend, webhooks, tunneling for local development, and implementing security measures to prevent prompt injection attacks. Also use when someone mentions 'agent email', 'bot inbox', 'receive emails for agent', 'agent webhook', 'email security for AI', 'prompt injection via email', 'inbound email for bot', or wants their AI agent to receive and respond to emails securely.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

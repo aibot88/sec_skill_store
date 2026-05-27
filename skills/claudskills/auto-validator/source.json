@@ -1,0 +1,18 @@
+{
+  "name": "auto-validator",
+  "slug": "auto-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auto-validator/",
+  "download_url": "https://claudskills.com/skills/auto-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Programmatic asset compliance validation using vision analysis and Northcote scorecard. Eliminates manual validation loops—upload image, receive scored JSON with correction prompts in 30 seconds.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

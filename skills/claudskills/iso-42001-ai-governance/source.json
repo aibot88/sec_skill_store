@@ -1,0 +1,18 @@
+{
+  "name": "iso-42001-ai-governance",
+  "slug": "iso-42001-ai-governance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/iso-42001-ai-governance/",
+  "download_url": "https://claudskills.com/skills/iso-42001-ai-governance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AI governance audit using ISO 42001 standard. Ensures AI systems are developed and deployed responsibly with risk management, ethics, security, transparency, and compliance best practices.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

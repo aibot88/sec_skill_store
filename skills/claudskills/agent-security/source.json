@@ -1,0 +1,18 @@
+{
+  "name": "agent-security",
+  "slug": "agent-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-security/",
+  "download_url": "https://claudskills.com/skills/agent-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run agent-adapted STRIDE + access-control analysis on an agent system. Produces a ranked risk list with agentic mitigations (scope / split / filter / gate / review).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "firewall-appliance",
+  "slug": "firewall-appliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firewall-appliance/",
+  "download_url": "https://claudskills.com/skills/firewall-appliance/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "· Manage OPNsense/pfSense via SSH: pfctl, pf rules, CARP, CrowdSec, pfBlockerNG. Triggers: 'opnsense', 'pfsense', 'pfctl', 'CARP', 'configctl'. Not for Linux firewalls.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

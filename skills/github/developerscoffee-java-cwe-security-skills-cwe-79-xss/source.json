@@ -1,0 +1,19 @@
+{
+  "name": "cwe-79-xss",
+  "slug": "developerscoffee-java-cwe-security-skills-cwe-79-xss",
+  "source": "github",
+  "source_url": "https://github.com/DevelopersCoffee/java-cwe-security-skills/blob/60c5b3da63fba9deb9299ee5852a22aa7aed21b5/cwe-79-xss/SKILL.md",
+  "download_url": "https://github.com/DevelopersCoffee/java-cwe-security-skills/blob/60c5b3da63fba9deb9299ee5852a22aa7aed21b5/cwe-79-xss/SKILL.md",
+  "external_source_url": "https://github.com/DevelopersCoffee/java-cwe-security-skills/blob/60c5b3da63fba9deb9299ee5852a22aa7aed21b5/cwe-79-xss/SKILL.md",
+  "license": "",
+  "description": "Deterministic Java security remediation skills mapped to MITRE CWE vulnerabilities for AI coding agents and DevSecOps platforms.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "DevelopersCoffee/java-cwe-security-skills",
+    "path": "cwe-79-xss/SKILL.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

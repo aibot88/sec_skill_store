@@ -1,0 +1,18 @@
+{
+  "name": "clay-policy-guardrails",
+  "slug": "clay-policy-guardrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clay-policy-guardrails/",
+  "download_url": "https://claudskills.com/skills/clay-policy-guardrails/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement credit spending limits, data privacy enforcement, and input validation guardrails for Clay pipelines. Use when enforcing spending caps, blocking PII enrichment, or adding pre-enrichment validation rules. Trigger with phrases like \"clay policy\", \"clay guardrails\", \"clay spending limit\", \"clay data privacy rules\", \"clay validation\", \"clay controls\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

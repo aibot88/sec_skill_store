@@ -1,0 +1,18 @@
+{
+  "name": "ln-625-dependencies-auditor",
+  "slug": "ln-625-dependencies-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-625-dependencies-auditor/",
+  "download_url": "https://claudskills.com/skills/ln-625-dependencies-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Checks outdated packages, unused deps, reinvented wheels, CVE/CVSS vulnerability scan. Use when auditing dependencies.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Aphorisms",
+  "slug": "src-aphorisms",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/src-aphorisms/",
+  "download_url": "https://claudskills.com/skills/src-aphorisms/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manages a curated aphorism collection with full CRUD — content-based matching, themed search, thinker research, and database maintenance. Organizes quotes by author, theme, context, and newsletter usage history to prevent repetition. Four workflows: FindAphorism (analyze newsletter content, match themes, return 3-5 ranked recommendations with rationale), AddAphorism (parse quote + author, extract themes, validate uniqueness, update theme index), ResearchThinker (deep research on philosopher, add sourced quotes to database), SearchAphorisms (search by theme, keyword, or author). Database at ~/.claude/skills/aphorisms/Database/aphorisms.md — stores full quote text, author attribution, theme tags, context/background, source reference, and usage history per entry. Theme index supports 12+ categories: Work Ethic, Resilience, Learning, Stoicism, Risk, Wisdom, Truth-seeking, Excellence, Curiosity, Freedom, Rationality, Clarity. Supported thinkers: Hitchens, Feynman, Deutsch, Sam Harris, Spinoza, plus any requested author. Newsletter integration: tracks which quotes used in which issues to enforce variety; content theme extraction drives automated matching. USE WHEN: aphorism, quote, saying, find a quote, research thinker, add aphorism, search aphorisms, quote for newsletter, what did X say about, quotes about [topic], quote bank, find matching quote, quote collection, add this quote, check usage history. NOT FOR general creative writing or social media post generation — those go through dedicated writing/social skills.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

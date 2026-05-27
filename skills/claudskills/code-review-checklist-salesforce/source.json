@@ -1,0 +1,18 @@
+{
+  "name": "code-review-checklist-salesforce",
+  "slug": "code-review-checklist-salesforce",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-review-checklist-salesforce/",
+  "download_url": "https://claudskills.com/skills/code-review-checklist-salesforce/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Structured Salesforce code review for Apex, triggers, async, and tests before merge or deployment — governor limits, bulk-safe triggers, CRUD/FLS and sharing posture, meaningful tests, and naming consistency. NOT for AppExchange security-review-only deep dives (use the security secure-coding checklist), network penetration testing, or org-wide permission model design without code artifacts.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "pci-dss-compliance-automator",
+  "slug": "pci-dss-compliance-automator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pci-dss-compliance-automator/",
+  "download_url": "https://claudskills.com/skills/pci-dss-compliance-automator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "PCI DSS compliance assessment and reporting for cardholder data protection, SAQ automation, and ASV scan orchestration",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "workflow-orchestration",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

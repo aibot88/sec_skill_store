@@ -1,0 +1,18 @@
+{
+  "name": "agent-action-input-slot-extraction",
+  "slug": "agent-action-input-slot-extraction",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-action-input-slot-extraction/",
+  "download_url": "https://claudskills.com/skills/agent-action-input-slot-extraction/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing how an Agentforce agent extracts structured input parameters (slots) from a user's natural-language utterance to invoke an action. Triggers: 'agent extract date from user', 'agent action argument extraction', 'agentforce slot filling', 'agent invocable input mapping', 'agent fails to fill required parameter'. NOT for action authoring (use agentforce/agent-actions) or for prompt-template variable binding (use agentforce/prompt-builder-templates).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

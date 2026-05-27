@@ -1,0 +1,18 @@
+{
+  "name": "uni-wa",
+  "slug": "uni-wa",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/uni-wa/",
+  "download_url": "https://claudskills.com/skills/uni-wa/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "WhatsApp messaging via uni CLI. Use when user wants to send WhatsApp messages, read WhatsApp chats, or manage WhatsApp. Commands: send, read, edit, delete, react, forward, chats, auth.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "communication",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:31+00:00"
+}

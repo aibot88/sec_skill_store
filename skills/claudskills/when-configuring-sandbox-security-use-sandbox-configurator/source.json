@@ -1,0 +1,18 @@
+{
+  "name": "when-configuring-sandbox-security-use-sandbox-configurator",
+  "slug": "when-configuring-sandbox-security-use-sandbox-configurator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/when-configuring-sandbox-security-use-sandbox-configurator/",
+  "download_url": "https://claudskills.com/skills/when-configuring-sandbox-security-use-sandbox-configurator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configure Claude Code sandbox security with file system and network isolation boundaries. Ensures safe code execution with proper access controls and resource limits.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

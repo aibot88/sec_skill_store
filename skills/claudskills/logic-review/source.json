@@ -1,0 +1,18 @@
+{
+  "name": "logic-review",
+  "slug": "logic-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/logic-review/",
+  "download_url": "https://claudskills.com/skills/logic-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Find logic bugs in a single file or function via semi-formal execution tracing (Premises → Trace → Divergence → Remedy). Trigger when a user shares code and suspects something is wrong without naming a concrete failure — phrases like \"review this\", \"does this look right\", \"check this function\", \"audit this code\", \"tests pass but prod fails\". SCOPE HARD RULE: one file or one function only. For a directory or whole module use logic-health; for a confirmed failure (stack trace, failing test, specific wrong value) use logic-locate; for two versions use logic-diff; for repo-wide autonomous fixing use logic-fix-all. Do NOT trigger for: style/formatting, security scanning, performance, test generation, architecture or design questions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "interactive-fiction",
+  "slug": "interactive-fiction",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/interactive-fiction/",
+  "download_url": "https://claudskills.com/skills/interactive-fiction/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Diagnose branching narrative problems. Use when choices feel meaningless, when branching is unmanageable, when player agency conflicts with authored story, or when interactive elements break narrative flow.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "storytelling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

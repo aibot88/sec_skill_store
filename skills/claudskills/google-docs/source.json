@@ -1,0 +1,18 @@
+{
+  "name": "google-docs",
+  "slug": "google-docs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-docs/",
+  "download_url": "https://claudskills.com/skills/google-docs/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Interact with Google Docs - create documents, search by title, read content, and edit text. Use when user asks to: create a Google Doc, find a document, read doc content, add text to a doc, or replace text in a document. Lightweight alternative to full Google Workspace MCP server with standalone OAuth authentication.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

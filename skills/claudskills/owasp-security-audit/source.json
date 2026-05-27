@@ -1,0 +1,18 @@
+{
+  "name": "owasp-security-audit",
+  "slug": "owasp-security-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/owasp-security-audit/",
+  "download_url": "https://claudskills.com/skills/owasp-security-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "Complete terms in file LICENSE",
+  "description": "Provides comprehensive security standards and checklists based on OWASP Top 10:2025. Includes language-specific secure coding patterns for 20+ languages, guidance on Agentic AI security, and ASVS 5.0 requirements to ensure robust defense-in-depth across the development lifecycle.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "go-samber-do",
+  "slug": "go-samber-do",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/go-samber-do/",
+  "download_url": "https://claudskills.com/skills/go-samber-do/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "samber/do DI container knowledge — Provide/Invoke, named providers, scoped injectors, shutdown order, testing overrides, migration from manual wiring. Activate when Go code imports `github.com/samber/do` or `github.com/samber/do/v2`, or when user asks about Go dependency injection.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

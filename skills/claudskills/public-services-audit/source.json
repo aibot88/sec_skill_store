@@ -1,0 +1,18 @@
+{
+  "name": "public-services-audit",
+  "slug": "public-services-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/public-services-audit/",
+  "download_url": "https://claudskills.com/skills/public-services-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit a government or public services system for compliance, fraud risk, and security — chains benefits processing review, fraud detection analysis, regulatory compliance check (ADA, Section 508, FISMA, Privacy Act), and PII-focused security audit. Use for benefits platforms, eligibility engines, enrollment portals, or inter-agency data systems.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

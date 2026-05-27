@@ -1,0 +1,18 @@
+{
+  "name": "component-hierarchy",
+  "slug": "component-hierarchy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/component-hierarchy/",
+  "download_url": "https://claudskills.com/skills/component-hierarchy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide component selection in ResRequest Vue projects. Ensures correct usage of ShadCN-Vue vs custom components, proper imports, and design system compliance. Activates when creating or modifying Vue components.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

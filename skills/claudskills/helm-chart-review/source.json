@@ -1,0 +1,18 @@
+{
+  "name": "helm-chart-review",
+  "slug": "helm-chart-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/helm-chart-review/",
+  "download_url": "https://claudskills.com/skills/helm-chart-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Conduct comprehensive Helm chart security and quality audits with automated checks for security contexts, resource limits, and production readiness. Use when reviewing pull requests with Helm chart changes, conducting pre-release chart audits, security scanning Helm manifests, validating chart structure and best practices, or preparing charts for production deployment.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

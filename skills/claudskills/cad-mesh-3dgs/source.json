@@ -1,0 +1,18 @@
+{
+  "name": "cad-mesh-3dgs",
+  "slug": "cad-mesh-3dgs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cad-mesh-3dgs/",
+  "download_url": "https://claudskills.com/skills/cad-mesh-3dgs/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Bridge CAD, Mesh, and 3D Gaussian Splatting representations. Covers mesh↔3DGS conversion, surface extraction from Gaussians, CAD reverse engineering with 3DGS, B-rep/parametric reconstruction, and geometry processing pipelines. Analyzes 40+ methods at the intersection of structured geometry and neural rendering.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

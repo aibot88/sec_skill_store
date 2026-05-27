@@ -1,0 +1,18 @@
+{
+  "name": "blog-taxonomy",
+  "slug": "blog-taxonomy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/blog-taxonomy/",
+  "download_url": "https://claudskills.com/skills/blog-taxonomy/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Extract, suggest, and sync tags and categories for blog posts across all major CMS platforms. Supports WordPress REST API, Shopify GraphQL, Ghost Content API, Strapi REST/GraphQL, and Sanity GROQ. Generates tag suggestions from content analysis (keyword frequency, heading extraction, semantic grouping), enforces minimum post-count thresholds to prevent thin tag archives, and syncs taxonomy via authenticated API calls. Use when user says \"tags\", \"categories\", \"taxonomy\", \"tag suggestions\", \"sync tags\", \"WordPress tags\", \"Shopify tags\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

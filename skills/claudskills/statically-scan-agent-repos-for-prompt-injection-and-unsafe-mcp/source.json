@@ -1,0 +1,18 @@
+{
+  "name": "statically-scan-agent-repos-for-prompt-injection-and-unsafe-mcp-",
+  "slug": "statically-scan-agent-repos-for-prompt-injection-and-unsafe-mcp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/statically-scan-agent-repos-for-prompt-injection-and-unsafe-mcp-/",
+  "download_url": "https://claudskills.com/skills/statically-scan-agent-repos-for-prompt-injection-and-unsafe-mcp-/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit agent code, prompts, and MCP configuration for prompt-injection surfaces, taint issues, and unsafe tool exposure before shipping.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

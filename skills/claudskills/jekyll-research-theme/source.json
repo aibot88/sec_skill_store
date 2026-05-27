@@ -1,0 +1,18 @@
+{
+  "name": "jekyll-research-theme",
+  "slug": "jekyll-research-theme",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jekyll-research-theme/",
+  "download_url": "https://claudskills.com/skills/jekyll-research-theme/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create production-grade, accessible Jekyll themes for researchers conducting \"research in public.\" Generates complete lab notebook-style themes with Tufte-inspired sidenotes, KaTeX math rendering, and WCAG 2.1 AA compliance. Use when building Jekyll themes for scientific journals, experiment logs, field notes, or research documentation sites. Supports collections for organizing experiments and field notes, responsive sidenote rendering (sidebar on desktop, inline on mobile), and full-width layout options.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

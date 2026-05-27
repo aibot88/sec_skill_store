@@ -1,0 +1,18 @@
+{
+  "name": "Google OAuth",
+  "slug": "google-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-auth/",
+  "download_url": "https://claudskills.com/skills/google-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authenticate against the user's own Google account (Gmail, Drive, Calendar, Sheets, etc.) via the installed-application OAuth 2.0 flow and make authenticated HTTP calls.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "personal-productivity",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

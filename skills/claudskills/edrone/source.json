@@ -1,0 +1,18 @@
+{
+  "name": "edrone",
+  "slug": "edrone",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/edrone/",
+  "download_url": "https://claudskills.com/skills/edrone/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Edrone integration. Manage data, records, and automate workflows. Use when the user wants to interact with Edrone data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

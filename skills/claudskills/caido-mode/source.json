@@ -1,0 +1,18 @@
+{
+  "name": "caido-mode",
+  "slug": "caido-mode",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/caido-mode/",
+  "download_url": "https://claudskills.com/skills/caido-mode/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Full Caido SDK integration for Claude Code. Search HTTP history, replay/edit requests, manage scopes/filters/environments, create findings, export curl commands, and control intercept - all via the official @caido/sdk-client. PAT auth recommended.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

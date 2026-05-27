@@ -1,0 +1,18 @@
+{
+  "name": "performing-physical-intrusion-assessment",
+  "slug": "performing-physical-intrusion-assessment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-physical-intrusion-assessment/",
+  "download_url": "https://claudskills.com/skills/performing-physical-intrusion-assessment/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Conduct authorized physical penetration testing using tailgating, badge cloning, lock bypassing, and rogue device",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-derivation-certificate",
+  "slug": "agentprivacy-derivation-certificate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-derivation-certificate/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-derivation-certificate/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "VRC as content-addressed derivation chain. Activates when discussing forging history, derivation paths, bilateral witness certificates, path-as-witness, content-addressed proofs of traversal, or how VRCs bind forging history to blade identity.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

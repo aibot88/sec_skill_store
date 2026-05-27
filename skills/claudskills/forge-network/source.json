@@ -1,0 +1,18 @@
+{
+  "name": "forge-network",
+  "slug": "forge-network",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/forge-network/",
+  "download_url": "https://claudskills.com/skills/forge-network/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Design and build networking infrastructure — VPCs, subnets, DNS, load balancers, firewall rules. Use when asked to \"set up networking\", \"VPC design\", \"configure DNS\", \"load balancer setup\", \"network architecture\", or \"firewall rules\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gha-security-review",
+  "slug": "gha-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gha-security-review/",
+  "download_url": "https://claudskills.com/skills/gha-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Find exploitable vulnerabilities in GitHub Actions workflows. Every finding MUST include a concrete exploitation scenario — if you can't build the attack, don't report it.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

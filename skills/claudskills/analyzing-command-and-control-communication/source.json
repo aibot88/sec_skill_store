@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-command-and-control-communication",
+  "slug": "analyzing-command-and-control-communication",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-command-and-control-communication/",
+  "download_url": "https://claudskills.com/skills/analyzing-command-and-control-communication/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Analyzes malware command-and-control (C2) communication protocols to understand beacon patterns, command structures,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

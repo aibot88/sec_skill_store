@@ -1,0 +1,18 @@
+{
+  "name": "dependency-management",
+  "slug": "dependency-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dependency-management/",
+  "download_url": "https://claudskills.com/skills/dependency-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Python dependency and environment management for multi-service or monorepo python backends. Use when: (1) adding, upgrading, or removing a Python package, (2) responding to Dependabot or security vulnerability alerts (GHSA/CVE), (3) creating a new service that needs its own requirements files, (4) debugging pip install failures or Docker build issues related to dependencies, (5) reviewing or auditing the dependency tree, (6) running pip-compile. Enforces the pip-compile locked-file workflow and tiered dependency hierarchy.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

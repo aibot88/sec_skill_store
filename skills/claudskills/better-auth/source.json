@@ -1,0 +1,18 @@
+{
+  "name": "better-auth",
+  "slug": "better-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/better-auth/",
+  "download_url": "https://claudskills.com/skills/better-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "TypeScript authentication framework (framework-agnostic). Features: email/password, OAuth (Google, GitHub, Discord), 2FA (TOTP, SMS), passkeys/WebAuthn, session management, RBAC, rate limiting, database adapters. Actions: implement, configure, secure authentication systems. Keywords: Better Auth, authentication, authorization, OAuth, email/password, 2FA, MFA, TOTP, passkeys, WebAuthn, session management, RBAC, rate limiting, database adapter, TypeScript auth, social login, Google auth, GitHub auth, Discord auth, email verification, password reset. Use when: implementing TypeScript auth, adding OAuth providers, setting up 2FA/MFA, managing sessions, configuring RBAC, building secure auth systems.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

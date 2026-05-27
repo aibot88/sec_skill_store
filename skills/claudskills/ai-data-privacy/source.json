@@ -1,0 +1,18 @@
+{
+  "name": "AI Data Privacy",
+  "slug": "ai-data-privacy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-data-privacy/",
+  "download_url": "https://claudskills.com/skills/ai-data-privacy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Protecting personal and sensitive data throughout the machine learning lifecycle, from training to inference.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Backend Master",
+  "slug": "dev-backend-master",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-backend-master/",
+  "download_url": "https://claudskills.com/skills/dev-backend-master/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Master skill for Backend Integration (Supabase) and API handling. Covers database schema, authentication, and SQL.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

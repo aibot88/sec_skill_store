@@ -1,0 +1,18 @@
+{
+  "name": "auth-package",
+  "slug": "auth-package",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-package/",
+  "download_url": "https://claudskills.com/skills/auth-package/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill should be used when the user asks to \"add authentication\", \"protect a route\", \"use auth hooks\", \"integrate Auth0\", \"add login/logout\", \"use AuthProvider\", \"verify JWT\", or mentions @mbe/auth, OIDC, access tokens, or authentication in React or Fastify.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

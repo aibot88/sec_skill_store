@@ -1,0 +1,18 @@
+{
+  "name": "fastapi-observability-readiness",
+  "slug": "fastapi-observability-readiness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastapi-observability-readiness/",
+  "download_url": "https://claudskills.com/skills/fastapi-observability-readiness/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when making a scaffolded FastAPI service production-observable after reliability SLO targets are approved or deferred. Replaces the telemetry seam with OpenTelemetry, prometheus-client RED metrics, trace-correlated structlog, and SLO/burn-rate alerts. Not for the shell, auth, tasks, or performance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

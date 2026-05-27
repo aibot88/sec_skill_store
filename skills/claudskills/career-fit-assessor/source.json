@@ -1,0 +1,18 @@
+{
+  "name": "career-fit-assessor",
+  "slug": "career-fit-assessor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/career-fit-assessor/",
+  "download_url": "https://claudskills.com/skills/career-fit-assessor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Red team/blue team career fit assessment for job opportunities. Evaluates candidate suitability using adversarial analysis against Critical Success Factors (CSFs). Use when asked to: assess job fit, evaluate a job opportunity, analyze a job description against my background, determine if I should apply for a role, red/blue team a job, assess my candidacy, or evaluate career opportunities. Requires XML career history files in project context. Supports two modes: \"quick\" (BLUF + argument table + prep recommendations) and \"detailed\" (comprehensive weighted CSF analysis with passion alignment). Triggers: \"assess this job\", \"should I apply\", \"evaluate this role\", \"career fit assessment\", \"job fit analysis\", \"red team this opportunity\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

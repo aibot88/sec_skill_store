@@ -1,0 +1,18 @@
+{
+  "name": "zero-trust-salesforce-patterns",
+  "slug": "zero-trust-salesforce-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/zero-trust-salesforce-patterns/",
+  "download_url": "https://claudskills.com/skills/zero-trust-salesforce-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Architecture pattern for assembling a zero-trust posture in Salesforce — there is no single zero-trust toggle. The pattern composes High-Assurance Sessions, Real-Time Event Monitoring (RTEM) Transaction Security Policies, Login Flows for conditional access, Event Monitoring for continuous verification, Mobile Security for device compliance, and a Permission Set Group strategy that defaults-deny. Covers the gotcha that not all RTEM event types support TSP enforcement (IdentityVerificationEvent and MobileEmailEvent do NOT). NOT for MFA-only rollouts (see security/mfa-enforcement-strategy), NOT for the LLM-side Einstein Trust Layer (different concept), NOT for Apex CRUD/FLS enforcement patterns (see apex/apex-stripinaccessible-and-fls-enforcement).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:39+00:00"
+}

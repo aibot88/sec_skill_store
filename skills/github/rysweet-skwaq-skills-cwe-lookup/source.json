@@ -1,0 +1,19 @@
+{
+  "name": "cwe-lookup",
+  "slug": "rysweet-skwaq-skills-cwe-lookup",
+  "source": "github",
+  "source_url": "https://github.com/rysweet/skwaq/blob/0f87342629ae8a51b14c0397ca7db73a70d05550/skills/cwe-lookup/SKILL.md",
+  "download_url": "https://github.com/rysweet/skwaq/blob/0f87342629ae8a51b14c0397ca7db73a70d05550/skills/cwe-lookup/SKILL.md",
+  "external_source_url": "https://github.com/rysweet/skwaq/blob/0f87342629ae8a51b14c0397ca7db73a70d05550/skills/cwe-lookup/SKILL.md",
+  "license": "",
+  "description": "Skwaq (pron. skwak - based on Lushootseed word for Raven) is an AI Agent system for researching software vulnerabilities ",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "rysweet/skwaq",
+    "path": "skills/cwe-lookup/SKILL.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

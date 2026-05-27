@@ -1,0 +1,18 @@
+{
+  "name": "ln-621-security-auditor",
+  "slug": "ln-621-security-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-621-security-auditor/",
+  "download_url": "https://claudskills.com/skills/ln-621-security-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Checks hardcoded secrets, SQL injection, XSS, insecure deps, input validation. Use when auditing security.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

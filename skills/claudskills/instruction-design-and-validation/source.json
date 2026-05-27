@@ -1,0 +1,18 @@
+{
+  "name": "instruction-design-and-validation",
+  "slug": "instruction-design-and-validation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/instruction-design-and-validation/",
+  "download_url": "https://claudskills.com/skills/instruction-design-and-validation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design Solana/Anchor instructions with clear inputs, constraints, authority checks, and invariants. Use when defining or reviewing instruction APIs.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-creative",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "github",
+  "slug": "aws-graph-explorer-.kiro-skills-github",
+  "source": "github",
+  "source_url": "https://github.com/aws/graph-explorer/blob/ec1df6ee9e2907247daef152676c629e8a9d9425/.kiro/skills/github/SKILL.md",
+  "download_url": "https://github.com/aws/graph-explorer/blob/ec1df6ee9e2907247daef152676c629e8a9d9425/.kiro/skills/github/SKILL.md",
+  "external_source_url": "https://github.com/aws/graph-explorer/blob/ec1df6ee9e2907247daef152676c629e8a9d9425/.kiro/skills/github/SKILL.md",
+  "license": "",
+  "description": "React-based web application that enables users to visualize both property graph and RDF data and explore connections between data without having to write graph queries. ",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "aws/graph-explorer",
+    "path": ".kiro/skills/github/SKILL.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

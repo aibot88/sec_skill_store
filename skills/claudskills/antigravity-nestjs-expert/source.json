@@ -1,0 +1,18 @@
+{
+  "name": "nestjs-expert",
+  "slug": "antigravity-nestjs-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/antigravity-nestjs-expert/",
+  "download_url": "https://claudskills.com/skills/antigravity-nestjs-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Nest.js framework expert specializing in module architecture, dependency injection, middleware, guards, interceptors, testing with Jest/Supertest, TypeORM/Mongoose integration, and Passport.js authentication. Use PROACTIVELY for any Nest.js application issues including architecture decisions, testing strategies, performance optimization, or debugging complex dependency injection problems. If a specialized expert is a better fit, I will recommend switching and stop.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

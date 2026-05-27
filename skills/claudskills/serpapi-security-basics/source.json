@@ -1,0 +1,18 @@
+{
+  "name": "serpapi-security-basics",
+  "slug": "serpapi-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/serpapi-security-basics/",
+  "download_url": "https://claudskills.com/skills/serpapi-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Secure SerpApi API keys and prevent credit abuse. Use when storing API keys, implementing backend proxies, or auditing SerpApi access patterns. Trigger: \"serpapi security\", \"serpapi API key security\", \"secure serpapi\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

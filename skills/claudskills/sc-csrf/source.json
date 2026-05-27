@@ -1,0 +1,18 @@
+{
+  "name": "sc-csrf",
+  "slug": "sc-csrf",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sc-csrf/",
+  "download_url": "https://claudskills.com/skills/sc-csrf/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Cross-Site Request Forgery detection — missing tokens, SameSite misconfiguration, and CORS-CSRF interaction",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

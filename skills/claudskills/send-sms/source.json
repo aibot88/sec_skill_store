@@ -1,0 +1,18 @@
+{
+  "name": "send-sms",
+  "slug": "send-sms",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/send-sms/",
+  "download_url": "https://claudskills.com/skills/send-sms/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when the user wants to send an SMS or WhatsApp marketing message via Twilio or Brevo, with compliance checks, consent verification, and delivery tracking.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "growth-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sonarqube-code-scanner-agent",
+  "slug": "sonarqube-code-scanner-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sonarqube-code-scanner-agent/",
+  "download_url": "https://claudskills.com/skills/sonarqube-code-scanner-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automated code quality scanning using SonarQube REST API and SonarScanner CLI. Detects code smells, bugs, and vulnerabilities across 30+ languages with configurable quality gates.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

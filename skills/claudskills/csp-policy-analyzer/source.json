@@ -1,0 +1,18 @@
+{
+  "name": "csp-policy-analyzer",
+  "slug": "csp-policy-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/csp-policy-analyzer/",
+  "download_url": "https://claudskills.com/skills/csp-policy-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Parses and evaluates Content Security Policy headers using csp-parse and csp-evaluator libraries. Identifies overly permissive directives, missing protections, and generates tightened policy recommendations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

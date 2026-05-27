@@ -1,0 +1,18 @@
+{
+  "name": "ccxt",
+  "slug": "ccxt",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ccxt/",
+  "download_url": "https://claudskills.com/skills/ccxt/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CCXT cryptocurrency trading library. Use for cryptocurrency exchange APIs, trading, market data, order management, and crypto trading automation across 150+ exchanges. Supports JavaScript/Python/PHP.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "covered-call",
+  "slug": "covered-call",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/covered-call/",
+  "download_url": "https://claudskills.com/skills/covered-call/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement covered call options strategy for income generation on long stock positions. Use when seeking to enhance returns through option premium collection while maintaining stock ownership. Covers structure, risk management, Greeks analysis, execution mechanics, and regulatory compliance for covered call writing programs.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

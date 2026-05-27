@@ -1,0 +1,18 @@
+{
+  "name": "disability-services",
+  "slug": "disability-services",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/disability-services/",
+  "download_url": "https://claudskills.com/skills/disability-services/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze disability services software — IEP and ISP management, person-centered planning workflows, HCBS Settings Rule compliance, accommodation tracking, assistive technology integration, EVV (Electronic Visit Verification), caregiver and DSP scheduling, and outcome measurement. Audit platforms serving individuals with intellectual, developmental, physical, and psychiatric disabilities for regulatory compliance and person-centered quality.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

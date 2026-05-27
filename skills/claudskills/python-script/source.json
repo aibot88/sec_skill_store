@@ -1,0 +1,18 @@
+{
+  "name": "python-script",
+  "slug": "python-script",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/python-script/",
+  "download_url": "https://claudskills.com/skills/python-script/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create robust Python automation with full logging and safety checks. Use when tasks need complex data processing, authenticated API work, conditional file operations, or error handling beyond simple shell commands.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

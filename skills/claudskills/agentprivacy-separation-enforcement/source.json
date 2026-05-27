@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-separation-enforcement",
+  "slug": "agentprivacy-separation-enforcement",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-separation-enforcement/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-separation-enforcement/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Active maintenance of the dual-agent separation boundary Φ(Σ) for 0xagentprivacy architecture. Activates when designing the swordsman-mage boundary, verifying that signing and viewing capabilities remain orthogonal, detecting separation violations, or building the enforcement mechanisms that keep det(Σ) ≠ 0 — the mathematical guarantee that no single entity can both protect and project. Triggers: \"separation\", \"dual-agent boundary\", \"swordsman mage split\", \"Phi Sigma\", \"det Sigma\", \"signing viewing separation\", \"orthogonality\", \"information-theoretic bound\", \"separation violation\", \"gap enforcement\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

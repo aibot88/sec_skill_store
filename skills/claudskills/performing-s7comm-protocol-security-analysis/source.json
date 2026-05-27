@@ -1,0 +1,18 @@
+{
+  "name": "performing-s7comm-protocol-security-analysis",
+  "slug": "performing-s7comm-protocol-security-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-s7comm-protocol-security-analysis/",
+  "download_url": "https://claudskills.com/skills/performing-s7comm-protocol-security-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Perform security analysis of Siemens S7comm and S7CommPlus protocols used by SIMATIC S7 PLCs to identify vulnerabilities",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ot-ics-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

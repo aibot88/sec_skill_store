@@ -1,0 +1,18 @@
+{
+  "name": "dx-heuristics",
+  "slug": "dx-heuristics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dx-heuristics/",
+  "download_url": "https://claudskills.com/skills/dx-heuristics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when evaluating, designing, or debugging developer experience for APIs, SDKs, CLIs, docs, examples, setup, errors, local dev, build/test workflows, migrations, package contracts, contributor workflows, auth, IDE integration, plugins, performance, or telemetry. Also trigger for DX reviews, developer onboarding friction, confusing integration steps, dev-facing interface design, or PR feedback about developer usability.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "performance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

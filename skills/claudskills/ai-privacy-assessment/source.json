@@ -1,0 +1,18 @@
+{
+  "name": "ai-privacy-assessment",
+  "slug": "ai-privacy-assessment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-privacy-assessment/",
+  "download_url": "https://claudskills.com/skills/ai-privacy-assessment/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Guides the combined DPIA and AI Act conformity assessment for AI systems processing personal data. Covers EDPB-EDPS Joint Opinion 5/2021, training data lawfulness under Art. 6 and Art. 9, Art. 22 automated decision-making, algorithmic bias detection, and NIST AI RMF MAP function. Keywords: AI privacy, DPIA, AI Act, algorithmic bias, automated decision-making, Art. 22, training data, NIST AI RMF.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

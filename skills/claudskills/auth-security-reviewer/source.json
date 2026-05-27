@@ -1,0 +1,18 @@
+{
+  "name": "auth-security-reviewer",
+  "slug": "auth-security-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-security-reviewer/",
+  "download_url": "https://claudskills.com/skills/auth-security-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reviews authentication and authorization implementation for session management, CSRF, cookie security, and auth flow vulnerabilities with findings, severity assessment, and fix recommendations. Use for \"auth review\", \"session security\", \"CSRF protection\", or \"authentication audit\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

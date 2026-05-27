@@ -1,0 +1,18 @@
+{
+  "name": "composable-svelte-deployment",
+  "slug": "composable-svelte-deployment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/composable-svelte-deployment/",
+  "download_url": "https://claudskills.com/skills/composable-svelte-deployment/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Production deployment patterns for Composable Svelte SSR applications. Use when deploying to Fly.io, Docker, or any cloud platform. Covers multi-stage Docker builds, Fly.io configuration, security hardening, performance optimization, and integration with Composable Rust backends.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

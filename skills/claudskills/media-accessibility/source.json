@@ -1,0 +1,18 @@
+{
+  "name": "media-accessibility",
+  "slug": "media-accessibility",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/media-accessibility/",
+  "download_url": "https://claudskills.com/skills/media-accessibility/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Video/audio accessibility: WebVTT/SRT/TTML captions, audio descriptions, accessible media player ARIA, and WCAG 1.2.x compliance.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

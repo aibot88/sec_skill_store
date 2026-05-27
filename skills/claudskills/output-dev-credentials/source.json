@@ -1,0 +1,18 @@
+{
+  "name": "output-dev-credentials",
+  "slug": "output-dev-credentials",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/output-dev-credentials/",
+  "download_url": "https://claudskills.com/skills/output-dev-credentials/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Store and reference encrypted secrets in Output SDK workflows using @outputai/credentials. Use when integrating API keys, database passwords, or third-party tokens.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

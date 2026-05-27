@@ -1,0 +1,18 @@
+{
+  "name": "compress-images",
+  "slug": "compress-images",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/compress-images/",
+  "download_url": "https://claudskills.com/skills/compress-images/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Compress images for web/SEO performance using cwebp. Use when optimizing images for faster page loads, reducing file sizes, or converting JPG/PNG to WebP format.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

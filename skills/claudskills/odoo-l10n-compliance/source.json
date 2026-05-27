@@ -1,0 +1,18 @@
+{
+  "name": "odoo-l10n-compliance",
+  "slug": "odoo-l10n-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/odoo-l10n-compliance/",
+  "download_url": "https://claudskills.com/skills/odoo-l10n-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Country-specific Odoo localization: tax configuration, e-invoicing (CFDI, FatturaPA, SAF-T), fiscal reporting, and country chart of accounts setup.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

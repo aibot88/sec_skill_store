@@ -1,0 +1,18 @@
+{
+  "name": "gcp-landing-zone-architect",
+  "slug": "gcp-landing-zone-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-landing-zone-architect/",
+  "download_url": "https://claudskills.com/skills/gcp-landing-zone-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Design and review GCP landing zone foundations including organization setup, folder hierarchy, org policy baseline, Shared VPC, billing account structure, Security Command Center, and audit logging.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

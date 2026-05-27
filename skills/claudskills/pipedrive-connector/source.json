@@ -1,0 +1,18 @@
+{
+  "name": "pipedrive-connector",
+  "slug": "pipedrive-connector",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pipedrive-connector/",
+  "download_url": "https://claudskills.com/skills/pipedrive-connector/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Pipedrive CRM integration optimized for SMB sales teams",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

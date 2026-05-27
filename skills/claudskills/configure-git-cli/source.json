@@ -1,0 +1,18 @@
+{
+  "name": "configure-git-cli",
+  "slug": "configure-git-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/configure-git-cli/",
+  "download_url": "https://claudskills.com/skills/configure-git-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Git CLI with GitHub authentication using environment variables (GITHUB_EMAIL, GITHUB_NAME, GITHUB_PAT)",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

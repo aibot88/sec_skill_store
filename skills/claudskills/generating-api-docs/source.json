@@ -1,0 +1,18 @@
+{
+  "name": "generating-api-docs",
+  "slug": "generating-api-docs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/generating-api-docs/",
+  "download_url": "https://claudskills.com/skills/generating-api-docs/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Create comprehensive API documentation with examples, authentication guides, and SDKs. Use when creating comprehensive API documentation. Trigger with phrases like \"generate API docs\", \"create API documentation\", or \"document the API\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:05+00:00"
+}

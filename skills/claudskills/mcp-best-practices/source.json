@@ -1,0 +1,18 @@
+{
+  "name": "mcp-server-best-practices",
+  "slug": "mcp-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mcp-best-practices/",
+  "download_url": "https://claudskills.com/skills/mcp-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Production-ready patterns and best practices for MCP servers - architecture, security, performance, and maintenance",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

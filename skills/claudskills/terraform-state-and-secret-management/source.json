@@ -1,0 +1,18 @@
+{
+  "name": "terraform-state-and-secret-management",
+  "slug": "terraform-state-and-secret-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/terraform-state-and-secret-management/",
+  "download_url": "https://claudskills.com/skills/terraform-state-and-secret-management/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when designing, reviewing, or hardening Terraform remote state and secret handling after the repo/module scaffold exists and security and infrastructure-platform have decided the state-isolation and secret posture. Produces remote state backend selection (S3+DynamoDB / GCS / Azure Storage / Terraform Cloud), state encryption at rest, state locking, workspace-vs-directory state isolation strategy, sensitive-output discipline, secret references to a secret manager instead of plaintext, and a no-committed-secrets posture. Do not use for repo/module layout, plan/policy gates, apply and promotion mechanics, or module registry/supply chain; use the other terraform archetype skills instead.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

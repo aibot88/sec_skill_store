@@ -1,0 +1,18 @@
+{
+  "name": "predictive-maintenance",
+  "slug": "predictive-maintenance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/predictive-maintenance/",
+  "download_url": "https://claudskills.com/skills/predictive-maintenance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit manufacturing predictive maintenance systems for OPC-UA/MQTT sensor data pipelines, time-series storage retention, ML model lifecycle (training-serving skew, drift detection, retraining triggers), MTBF/MTTF/MTTR reliability calculations, Weibull survival analysis, RUL prediction accuracy, alert threshold tuning and false positive management, CMMS/ERP integration, spare parts demand forecasting, and OT/IT security segmentation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

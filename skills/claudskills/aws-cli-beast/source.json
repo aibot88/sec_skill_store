@@ -1,0 +1,18 @@
+{
+  "name": "aws-cli-beast",
+  "slug": "aws-cli-beast",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-cli-beast/",
+  "download_url": "https://claudskills.com/skills/aws-cli-beast/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides advanced AWS CLI patterns for managing EC2, Lambda, S3, DynamoDB, RDS, VPC, IAM, and CloudWatch. Generates bulk operation scripts, automates cross-service workflows, validates security configurations, and executes JMESPath queries for complex filtering. Triggers on \"aws cli help\", \"aws command line\", \"aws scripting\", \"aws automation\", \"aws batch operations\", \"aws bulk operations\", \"aws cli pagination\", \"aws multi-region\", \"aws profiles\", \"aws cli troubleshooting\".",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

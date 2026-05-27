@@ -1,0 +1,18 @@
+{
+  "name": "godmode",
+  "slug": "godmode",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/godmode/",
+  "download_url": "https://claudskills.com/skills/godmode/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Jailbreak API-served LLMs using G0DM0D3 techniques — Parseltongue input obfuscation (33 techniques), GODMODE CLASSIC system prompt templates, ULTRAPLINIAN multi-model racing, encoding escalation, and Hermes-native prefill/system prompt integration. Use when a user wants to bypass safety filters, jailbreak a model, or red-team model robustness.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

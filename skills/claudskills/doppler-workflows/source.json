@@ -1,0 +1,18 @@
+{
+  "name": "doppler-workflows",
+  "slug": "doppler-workflows",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/doppler-workflows/",
+  "download_url": "https://claudskills.com/skills/doppler-workflows/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Doppler credential and publishing workflows. TRIGGERS - PyPI publish, AWS credentials, Doppler secrets.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

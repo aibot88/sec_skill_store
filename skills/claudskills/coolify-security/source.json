@@ -1,0 +1,18 @@
+{
+  "name": "coolify-security",
+  "slug": "coolify-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/coolify-security/",
+  "download_url": "https://claudskills.com/skills/coolify-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when securing Coolify deployments, managing secrets and environment variables, configuring Docker Build Secrets, setting up RBAC team roles, isolating containers on the network, configuring resource limits (CPU/memory), hardening firewall rules (UFW), managing terminal access, or auditing Coolify security. Trigger when: \"Coolify security\", \"Coolify secrets\", \"Coolify environment variables security\", \"Docker Build Secrets Coolify\", \"Coolify RBAC\", \"Coolify team roles\", \"Coolify network isolation\", \"Coolify firewall\", \"UFW Docker Coolify\", \"Coolify resource limits\", \"Coolify terminal access\", \"secure Coolify\", \"harden Coolify\", \"Coolify permissions\", \"Coolify audit log\", \"Coolify SSO\", \"Coolify OAuth\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

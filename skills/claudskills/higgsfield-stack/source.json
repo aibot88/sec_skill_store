@@ -1,0 +1,18 @@
+{
+  "name": "higgsfield-stack",
+  "slug": "higgsfield-stack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/higgsfield-stack/",
+  "download_url": "https://claudskills.com/skills/higgsfield-stack/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user mentions the Higgsfield CLI (binaries `higgsfield` / `higgs` / `hf`, `higgsfield auth login`, `higgsfield generate create`, the `@higgsfield/cli` npm package), the Higgsfield MCP custom connector (`mcp.higgsfield.ai/mcp`), Higgsfield's bundled skills (`higgsfield-generate` / `higgsfield-soul` / `higgsfield-product-photoshoot` invoked as `/higgsfield:generate` etc.), or asks how this skill coexists with those tools (`do I need both`, `how does this work with the CLI/MCP/skills`).",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

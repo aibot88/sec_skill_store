@@ -1,0 +1,18 @@
+{
+  "name": "aor-req",
+  "slug": "aor-req",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aor-req/",
+  "download_url": "https://claudskills.com/skills/aor-req/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Author User Needs (UN), Product Requirements (PR), and Software Requirements (SR) using EARS-12 patterns with full UN→PR→SR traceability.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

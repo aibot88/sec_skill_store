@@ -1,0 +1,18 @@
+{
+  "name": "aws-landing-zone-governor",
+  "slug": "aws-landing-zone-governor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-landing-zone-governor/",
+  "download_url": "https://claudskills.com/skills/aws-landing-zone-governor/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review and design AWS landing zones, AWS Control Tower environments, Organizations structures, OUs, account vending patterns, guardrails, central logging, security/audit accounts, and multi-account governance. Use when the user asks how to structure AWS accounts or govern a cloud estate.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

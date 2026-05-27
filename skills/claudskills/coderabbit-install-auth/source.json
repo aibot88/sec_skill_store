@@ -1,0 +1,18 @@
+{
+  "name": "coderabbit-install-auth",
+  "slug": "coderabbit-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/coderabbit-install-auth/",
+  "download_url": "https://claudskills.com/skills/coderabbit-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure CodeRabbit AI code review on GitHub or GitLab repositories. Use when setting up CodeRabbit for the first time, installing the GitHub App, configuring the CLI, or connecting CodeRabbit to your repositories. Trigger with phrases like \"install coderabbit\", \"setup coderabbit\", \"coderabbit auth\", \"configure coderabbit\", \"add coderabbit to repo\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

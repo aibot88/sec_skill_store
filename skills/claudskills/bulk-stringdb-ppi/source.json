@@ -1,0 +1,18 @@
+{
+  "name": "string-protein-interaction-analysis-with-omicverse",
+  "slug": "bulk-stringdb-ppi",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bulk-stringdb-ppi/",
+  "download_url": "https://claudskills.com/skills/bulk-stringdb-ppi/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Help Claude query STRING for protein interactions, build PPI graphs with pyPPI, and render styled network figures for bulk gene lists.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

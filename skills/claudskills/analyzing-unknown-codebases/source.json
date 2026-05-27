@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-unknown-codebases",
+  "slug": "analyzing-unknown-codebases",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-unknown-codebases/",
+  "download_url": "https://claudskills.com/skills/analyzing-unknown-codebases/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze unfamiliar codebases systematically to produce subsystem catalog entries - emphasizes strict contract compliance and confidence marking",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

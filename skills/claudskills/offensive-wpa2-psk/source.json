@@ -1,0 +1,18 @@
+{
+  "name": "offensive-wpa2-psk",
+  "slug": "offensive-wpa2-psk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/offensive-wpa2-psk/",
+  "download_url": "https://claudskills.com/skills/offensive-wpa2-psk/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "WPA/WPA2-PSK attack methodology — four-way handshake capture via targeted deauthentication, PMKID attacks (no client required), hcxdumptool / hcxpcapngtool conversion to hashcat hc22000 format, GPU-accelerated cracking with dictionary, mask, and rule-based attacks, vendor default-PSK generators (UPC, Sky, BT, etc.), 802.11r FT key cracking, opportunistic key cache analysis, and signal-level optimization. Use when the in-scope network is WPA/WPA2 Personal — the most common consumer/SMB encryption mode.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

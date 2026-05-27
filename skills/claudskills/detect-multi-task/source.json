@@ -1,0 +1,18 @@
+{
+  "name": "detect-multi-task",
+  "slug": "detect-multi-task",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detect-multi-task/",
+  "download_url": "https://claudskills.com/skills/detect-multi-task/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Detects whether a user task contains multiple independent subtasks and splits it into a JSON array. Internal helper for orchestrate Phase 0.5; uses session credentials (no API key). Always returns STRICT JSON {is_multi, tasks[]} with cap N=5.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

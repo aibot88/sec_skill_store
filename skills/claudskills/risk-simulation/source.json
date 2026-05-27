@@ -1,0 +1,18 @@
+{
+  "name": "risk-simulation",
+  "slug": "risk-simulation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/risk-simulation/",
+  "download_url": "https://claudskills.com/skills/risk-simulation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit risk simulation and decision support systems for Monte Carlo modeling quality, wargaming analysis, threat assessment, mission planning support, and course-of-action decision analysis. Use when reviewing probabilistic risk models, defense planning tools, cost-schedule risk engines, scenario simulators, or decision matrices built on DoD risk management and operational planning frameworks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

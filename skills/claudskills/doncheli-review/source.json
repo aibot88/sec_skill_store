@@ -1,0 +1,18 @@
+{
+  "name": "doncheli-review",
+  "slug": "doncheli-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/doncheli-review/",
+  "download_url": "https://claudskills.com/skills/doncheli-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Perform strict 7-dimension peer review analyzing correctness, tests, performance, architecture, security, style, and diff cleanliness. Activate when user mentions \"review\", \"revisar\", \"peer review\", \"code review\", \"check my code\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

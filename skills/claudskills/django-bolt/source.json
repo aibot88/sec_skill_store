@@ -1,0 +1,18 @@
+{
+  "name": "django-bolt",
+  "slug": "django-bolt",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/django-bolt/",
+  "download_url": "https://claudskills.com/skills/django-bolt/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Django Bolt - Rust-powered high-performance API framework, 60k+ RPS, decorator routing, built-in auth, async ORM",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

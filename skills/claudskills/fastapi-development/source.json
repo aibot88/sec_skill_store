@@ -1,0 +1,18 @@
+{
+  "name": "fastapi-development",
+  "slug": "fastapi-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastapi-development/",
+  "download_url": "https://claudskills.com/skills/fastapi-development/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build async APIs with FastAPI, including endpoints, dependency injection, validation, and testing. Use when creating REST APIs, web backends, or microservices.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

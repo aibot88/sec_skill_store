@@ -1,0 +1,18 @@
+{
+  "name": "performing-ot-network-security-assessment",
+  "slug": "performing-ot-network-security-assessment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-ot-network-security-assessment/",
+  "download_url": "https://claudskills.com/skills/performing-ot-network-security-assessment/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill covers conducting comprehensive security assessments of Operational Technology (OT) networks including",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ot-ics-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

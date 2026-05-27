@@ -1,0 +1,18 @@
+{
+  "name": "skill-usage-audit",
+  "slug": "skill-usage-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-usage-audit/",
+  "download_url": "https://claudskills.com/skills/skill-usage-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "ELv2",
+  "description": "Scan all artefacts (epics, stories, PRDs) for Base Rule #2 compliance — verify that every artefact declares skills_invoked and related_decs in frontmatter. Produces an audit report with pass/fail per artefact and overall compliance rate.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "implementing-casbin",
+  "slug": "implementing-casbin",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-casbin/",
+  "download_url": "https://claudskills.com/skills/implementing-casbin/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement role-based (RBAC) and attribute-based (ABAC) access control in Go using Casbin. Covers model configuration, GORM adapters, Chi/gRPC middleware, and production patterns. Use when implementing authorization in Go services.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

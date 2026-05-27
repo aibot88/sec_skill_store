@@ -1,0 +1,18 @@
+{
+  "name": "docs-pipeline",
+  "slug": "docs-pipeline",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docs-pipeline/",
+  "download_url": "https://claudskills.com/skills/docs-pipeline/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "[PROTOCOL] Documentation backfill after an engagement changes code, architecture, deployment, or public contracts. Defines when to trigger, which doc files to update, and what the diff artefact must contain. Preloaded by lead agents (dev-lead, design-lead, marketing-lead). Pure reference — no triggers, not invoked by secretary.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "growth-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

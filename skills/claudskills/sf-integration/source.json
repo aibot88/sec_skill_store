@@ -1,0 +1,18 @@
+{
+  "name": "sf-integration",
+  "slug": "sf-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sf-integration/",
+  "download_url": "https://claudskills.com/skills/sf-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Salesforce integration architecture (Brite edition) with 120-point scoring. TRIGGER when user sets up Named Credentials, External Services, REST/SOAP callouts, Platform Events, CDC, touches namedCredential-meta.xml files, works in brite-salesforce, asks about NC PLACEHOLDER URL strategy, the namedCredentials .forceignore exclusion (BC-5609 lesson), Queueable silent-retry diagnostic, Email Bison → OutboundSync sync path, Brite_Base REST integration, or ECA replacement for Connected Apps post-Spring '26. DO NOT TRIGGER when Connected App/OAuth config (use sf-connected-apps), Apex-only logic (use sf-apex), or data import/export (use sf-data).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

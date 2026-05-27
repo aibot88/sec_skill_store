@@ -1,0 +1,18 @@
+{
+  "name": "privacy-eu",
+  "slug": "privacy-eu",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/privacy-eu/",
+  "download_url": "https://claudskills.com/skills/privacy-eu/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "EU 사용자 대상 서비스용 Privacy Notice·Terms of Service·Consent Modal·Cookie Banner 자동 생성. GDPR (Regulation 2016/679) + ePrivacy Directive + Consumer Rights Directive 2011/83 + Digital Services Act + Digital Content Directive + Unfair Terms Directive 반영. 영문 인터뷰로 진행.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "backnotprop-oss-security-audit-.",
+  "source": "github",
+  "source_url": "https://github.com/backnotprop/oss-security-audit/blob/c47425a872d9f8dcfc64b43bc734bbd3555e1801/SKILL.md",
+  "download_url": "https://github.com/backnotprop/oss-security-audit/blob/c47425a872d9f8dcfc64b43bc734bbd3555e1801/SKILL.md",
+  "external_source_url": "https://github.com/backnotprop/oss-security-audit/blob/c47425a872d9f8dcfc64b43bc734bbd3555e1801/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "backnotprop/oss-security-audit",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

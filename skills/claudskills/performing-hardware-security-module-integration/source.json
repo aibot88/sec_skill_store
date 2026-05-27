@@ -1,0 +1,18 @@
+{
+  "name": "performing-hardware-security-module-integration",
+  "slug": "performing-hardware-security-module-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-hardware-security-module-integration/",
+  "download_url": "https://claudskills.com/skills/performing-hardware-security-module-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Integrate Hardware Security Modules (HSMs) using PKCS#11 interface for cryptographic key management, signing",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crypto-keymgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

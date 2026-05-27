@@ -1,0 +1,18 @@
+{
+  "name": "linear-enterprise-rbac",
+  "slug": "linear-enterprise-rbac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/linear-enterprise-rbac/",
+  "download_url": "https://claudskills.com/skills/linear-enterprise-rbac/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement enterprise role-based access control with Linear. Use when setting up team permissions, OAuth scopes, SAML SSO, SCIM provisioning, or audit logging. Trigger: \"linear RBAC\", \"linear permissions\", \"linear SSO\", \"linear enterprise access\", \"linear role management\", \"linear SCIM\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

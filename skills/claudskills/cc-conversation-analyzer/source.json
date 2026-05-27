@@ -1,0 +1,18 @@
+{
+  "name": "cc-conversation-analyzer",
+  "slug": "cc-conversation-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cc-conversation-analyzer/",
+  "download_url": "https://claudskills.com/skills/cc-conversation-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive Claude Code conversation analysis skill for deep-diving into CC session logs. Use when analyzing exported Claude Code conversations to understand: project patterns, error rates, command failures, security risks, session duration, tool usage, and workflow efficiency.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "memory-sanitize",
+  "slug": "memory-sanitize",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/memory-sanitize/",
+  "download_url": "https://claudskills.com/skills/memory-sanitize/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Produce share-safe copies of memory files under /tmp with PII redacted (paths, emails, session IDs, dates) and credentials scanned (tokens, keys); never mutates originals. Use when the user says \"sanitize memory for sharing\", \"redact memory PII\", or \"scan memory for credentials\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

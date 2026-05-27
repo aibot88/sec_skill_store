@@ -1,0 +1,19 @@
+{
+  "name": "blueagent",
+  "slug": "bankrbot-skills-blueagent",
+  "source": "github",
+  "source_url": "https://github.com/BankrBot/skills/blob/acb0175cd0fd2c416734e45be9a61120a111529d/blueagent/SKILL.md",
+  "download_url": "https://github.com/BankrBot/skills/blob/acb0175cd0fd2c416734e45be9a61120a111529d/blueagent/SKILL.md",
+  "external_source_url": "https://github.com/BankrBot/skills/blob/acb0175cd0fd2c416734e45be9a61120a111529d/blueagent/SKILL.md",
+  "license": "",
+  "description": "Bankr Skills equip builders with plug-and-play tools to build more powerful agents.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "BankrBot/skills",
+    "path": "blueagent/SKILL.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:52+00:00"
+}

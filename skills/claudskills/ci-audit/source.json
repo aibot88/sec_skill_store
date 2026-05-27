@@ -1,0 +1,18 @@
+{
+  "name": "ci-audit",
+  "slug": "ci-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ci-audit/",
+  "download_url": "https://claudskills.com/skills/ci-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CI/CD pipeline audit for speed, cost, reliability, and security. 10 dimensions (CI1-CI10): caching, parallelism, conditional execution, artifacts, secret handling, action pinning, timeouts, Docker optimization, test integration, and pipeline speed. Primary support: GitHub Actions. Detection-level: GitLab CI, CircleCI. Switches: zuvo:ci-audit full | [path] | --speed-only | --security-only",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

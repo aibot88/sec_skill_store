@@ -1,0 +1,18 @@
+{
+  "name": "assemblyai-security-basics",
+  "slug": "assemblyai-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/assemblyai-security-basics/",
+  "download_url": "https://claudskills.com/skills/assemblyai-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply AssemblyAI security best practices for API keys, PII, and access control. Use when securing API keys, implementing PII redaction, or configuring temporary tokens for browser-side streaming. Trigger with phrases like \"assemblyai security\", \"assemblyai secrets\", \"secure assemblyai\", \"assemblyai API key security\", \"assemblyai PII\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

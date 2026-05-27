@@ -1,0 +1,18 @@
+{
+  "name": "hubspot-auth",
+  "slug": "hubspot-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hubspot-auth/",
+  "download_url": "https://claudskills.com/skills/hubspot-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Authenticate production HubSpot integrations and survive the auth-side",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

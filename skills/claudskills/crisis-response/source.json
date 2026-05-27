@@ -1,0 +1,18 @@
+{
+  "name": "crisis-response",
+  "slug": "crisis-response",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crisis-response/",
+  "download_url": "https://claudskills.com/skills/crisis-response/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when the user faces a PR crisis or reputational threat and needs rapid severity assessment, stakeholder messaging, and a communication timeline.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

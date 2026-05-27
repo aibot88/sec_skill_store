@@ -1,0 +1,18 @@
+{
+  "name": "symfony-components",
+  "slug": "symfony-components",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/symfony-components/",
+  "download_url": "https://claudskills.com/skills/symfony-components/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive reference for all 38 Symfony framework components with PHP 8.3+ and Symfony 7.x patterns. Use when the user asks to implement, configure, or troubleshoot any Symfony component including HttpFoundation, HttpKernel, DependencyInjection, Form, Validator, Cache, Messenger, Console, EventDispatcher, Workflow, Serializer, Security, Routing, Twig, Doctrine integration, or any other Symfony component. Covers APIs, configuration, best practices, and common pitfalls.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

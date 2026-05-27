@@ -1,0 +1,18 @@
+{
+  "name": "building-ioc-enrichment-pipeline-with-opencti",
+  "slug": "building-ioc-enrichment-pipeline-with-opencti",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-ioc-enrichment-pipeline-with-opencti/",
+  "download_url": "https://claudskills.com/skills/building-ioc-enrichment-pipeline-with-opencti/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "OpenCTI is an open-source platform for managing cyber threat intelligence knowledge, built on STIX 2.1 as its",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

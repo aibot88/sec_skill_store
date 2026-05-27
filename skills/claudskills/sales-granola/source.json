@@ -1,0 +1,18 @@
+{
+  "name": "sales-granola",
+  "slug": "sales-granola",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-granola/",
+  "download_url": "https://claudskills.com/skills/sales-granola/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Granola platform help — bot-free AI notepad for meetings, local audio capture (no bot joins calls), REST API at public-api.granola.ai/v1, MCP integration (beta), HubSpot/Attio/Affinity CRM sync, Zapier automation, pricing tiers (Free/Business $14/Enterprise $35). Use when setting up Granola for a sales team, configuring HubSpot CRM sync from meeting notes, building automations with the Granola API or Zapier triggers, choosing between Granola and other bot-free note-takers (Jamie, Krisp, Tactiq), troubleshooting blank notes or silent recording failures, or managing note sharing and privacy settings. Do NOT use for reviewing a single call for coaching (use /sales-call-review) or comparing note-taker platforms broadly (use /sales-note-taker).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "deal-management",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "csharp-patterns",
+  "slug": "csharp-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/csharp-patterns/",
+  "download_url": "https://claudskills.com/skills/csharp-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "C# and .NET development patterns: LINQ, async/await, dependency injection, records, nullable reference types, ASP.NET Core minimal APIs, EF Core, MediatR. Triggers: C#, .NET, dotnet, ASP.NET, EF Core, LINQ, IServiceCollection, record type, async C#, nullable reference types. Load when writing or reviewing C#/.NET code.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

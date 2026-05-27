@@ -1,0 +1,18 @@
+{
+  "name": "aws-ec2-compute-operations-steward",
+  "slug": "aws-ec2-compute-operations-steward",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-ec2-compute-operations-steward/",
+  "download_url": "https://claudskills.com/skills/aws-ec2-compute-operations-steward/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review Amazon EC2 compute operations across instances, Auto Scaling groups, Launch Templates, AMIs, Systems Manager, Patch Manager, Session Manager, EBS volumes, snapshots, health checks, instance refresh, lifecycle hooks, patch compliance, and fleet reliability. Use for EC2 day-2 operations and legacy workload stewardship.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

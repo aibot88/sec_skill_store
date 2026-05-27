@@ -1,0 +1,19 @@
+{
+  "name": "CybersecurityPlaybooks",
+  "slug": "carbeneai-forge-.claude-skills-cybersecurityplaybooks",
+  "source": "github",
+  "source_url": "https://github.com/CarbeneAI/Forge/blob/dd723968e7e49a1ef6b12efb65e359e5906a705a/.claude/skills/CybersecurityPlaybooks/SKILL.md",
+  "download_url": "https://github.com/CarbeneAI/Forge/blob/dd723968e7e49a1ef6b12efb65e359e5906a705a/.claude/skills/CybersecurityPlaybooks/SKILL.md",
+  "external_source_url": "https://github.com/CarbeneAI/Forge/blob/dd723968e7e49a1ef6b12efb65e359e5906a705a/.claude/skills/CybersecurityPlaybooks/SKILL.md",
+  "license": "",
+  "description": "Open-source AI operations platform built on Claude Code. 107 skills, 27 agents, security built in. Linux / macOS / WSL.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "CarbeneAI/Forge",
+    "path": ".claude/skills/CybersecurityPlaybooks/SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

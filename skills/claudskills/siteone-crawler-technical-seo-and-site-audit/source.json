@@ -1,0 +1,18 @@
+{
+  "name": "siteone-crawler-technical-seo-and-site-audit",
+  "slug": "siteone-crawler-technical-seo-and-site-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/siteone-crawler-technical-seo-and-site-audit/",
+  "download_url": "https://claudskills.com/skills/siteone-crawler-technical-seo-and-site-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "SiteOne Crawler is a real website crawler and analyzer for technical SEO, accessibility, security, and performance checks. This skill uses the upstream SiteOne Crawler project to turn large site crawls into structured diagnostics, export files, and remediation queues.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "seo",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

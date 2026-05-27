@@ -1,0 +1,18 @@
+{
+  "name": "ln-623-code-principles-auditor",
+  "slug": "ln-623-code-principles-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-623-code-principles-auditor/",
+  "download_url": "https://claudskills.com/skills/ln-623-code-principles-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Checks DRY, KISS/YAGNI, error handling, DI patterns. Use when auditing code principles compliance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

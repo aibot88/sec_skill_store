@@ -1,0 +1,18 @@
+{
+  "name": "trailmark",
+  "slug": "trailmark",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/trailmark/",
+  "download_url": "https://claudskills.com/skills/trailmark/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Builds and queries multi-language source code graphs for security analysis. Includes pre-analysis passes for blast radius, taint propagation, privilege boundaries, and entry point enumeration. Use when analyzing call paths, mapping attack surface, finding complexity hotspots, enumerating entry points, tracing taint propagation, measuring blast radius, or building a code graph for audit prioritization. Supports 16 languages including Solidity, Cairo, Circom, Rust, Go, Python, C/C++, TypeScript.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

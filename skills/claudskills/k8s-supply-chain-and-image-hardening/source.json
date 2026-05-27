@@ -1,0 +1,18 @@
+{
+  "name": "k8s-supply-chain-and-image-hardening",
+  "slug": "k8s-supply-chain-and-image-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/k8s-supply-chain-and-image-hardening/",
+  "download_url": "https://claudskills.com/skills/k8s-supply-chain-and-image-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when hardening the container image and enforcing supply-chain integrity for a Kubernetes workload after security and operations have decided the image-trust, scanning, and provenance posture. Produces minimal non-root read-only-root-FS images with dropped capabilities, image signing (cosign), SBOM generation (Syft), vulnerability scanning (Trivy/Grype) as a required gate, and admission-control policy (Kyverno/Gatekeeper) enforcing signed-image, non-root, and digest-pinned requirements at the cluster. This is the archetype-scoped successor to the security-context slice of the omnibus. Do not use for base manifest authoring, network/identity policy, autoscaler tuning, observability wiring, the CI pipeline that runs the gate, or cluster provisioning; use the other Family G archetype skills (pipeline wiring is the CI stack; cluster provisioning is out of family).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "google-calendar-sync-conflict-resolver",
+  "slug": "google-calendar-sync-conflict-resolver",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-calendar-sync-conflict-resolver/",
+  "download_url": "https://claudskills.com/skills/google-calendar-sync-conflict-resolver/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Bidirectional calendar synchronization using Google Calendar API v3 with OAuth 2.0. Detects scheduling conflicts across multiple calendars, suggests optimal meeting times using FreeBusy API queries.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "communication",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

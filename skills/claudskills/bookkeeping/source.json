@@ -1,0 +1,18 @@
+{
+  "name": "bookkeeping",
+  "slug": "bookkeeping",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bookkeeping/",
+  "download_url": "https://claudskills.com/skills/bookkeeping/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "記帳系統。解析自然語言記帳指令，寫入 SQLite 資料庫並同步 Beancount 帳本。Use when user wants to record expenses, check spending, query transaction history, or manage accounts. Triggers on keywords like \"記帳\", \"記賬\", \"花了\", \"買了\", \"支出\", \"收入\", amount+category patterns (e.g. \"40 飲料\", \"午餐 200\").",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

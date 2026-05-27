@@ -1,0 +1,18 @@
+{
+  "name": "performing-initial-access-with-evilginx3",
+  "slug": "performing-initial-access-with-evilginx3",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-initial-access-with-evilginx3/",
+  "download_url": "https://claudskills.com/skills/performing-initial-access-with-evilginx3/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Perform authorized initial access using EvilGinx3 adversary-in-the-middle phishing framework to capture session",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

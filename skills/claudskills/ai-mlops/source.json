@@ -1,0 +1,18 @@
+{
+  "name": "ai-mlops",
+  "slug": "ai-mlops",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-mlops/",
+  "download_url": "https://claudskills.com/skills/ai-mlops/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Production MLOps and ML/LLM/agent security skill for deploying and operating ML systems in production (registry + CI/CD, serving, monitoring/drift, evaluation loops, incident response/runbooks, and governance), including GenAI security (prompt injection, jailbreaks, RAG security, privacy, and supply chain).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

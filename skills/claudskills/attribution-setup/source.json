@@ -1,0 +1,18 @@
+{
+  "name": "attribution-setup",
+  "slug": "attribution-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/attribution-setup/",
+  "download_url": "https://claudskills.com/skills/attribution-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "When the user wants to set up, debug, or interpret app install attribution — including SKAdNetwork (SKAN), Apple's AdAttributionKit, Google Play Install Referrer, MMPs (AppsFlyer, Adjust, Singular, Branch, Kochava), deep links, deferred deep links, conversion values, postback windows, or privacy thresholds. Use when the user mentions \"SKAdNetwork\", \"SKAN\", \"SKAN 4\", \"AdAttributionKit\", \"AAK\", \"MMP\", \"AppsFlyer\", \"Adjust\", \"Singular\", \"Branch\", \"attribution\", \"conversion value\", \"postback\", \"Install Referrer\", \"deferred deep link\", \"iOS 14.5\", \"ATT\", \"App Tracking Transparency\", \"IDFA\", or \"I can't measure my ad campaigns\". For paid campaign strategy, see ua-campaign and apple-search-ads. For analytics events, see app-analytics.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

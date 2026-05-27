@@ -1,0 +1,18 @@
+{
+  "name": "go-service-hexagonal",
+  "slug": "go-service-hexagonal",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/go-service-hexagonal/",
+  "download_url": "https://claudskills.com/skills/go-service-hexagonal/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Define, review, and scaffold Go service directory structures using hexagonal (ports-and-adapters / “jexagonal”) architecture and Go best practices. Use when creating or refactoring Go services, deciding package boundaries, organizing cmd/internal/api/config/deploy/migrations, or choosing layouts for common service types (HTTP REST API, gRPC API, async worker/consumer, scheduled job, CLI, multi-binary repos).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

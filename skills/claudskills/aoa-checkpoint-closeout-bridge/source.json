@@ -1,0 +1,18 @@
+{
+  "name": "aoa-checkpoint-closeout-bridge",
+  "slug": "aoa-checkpoint-closeout-bridge",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aoa-checkpoint-closeout-bridge/",
+  "download_url": "https://claudskills.com/skills/aoa-checkpoint-closeout-bridge/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Bridge provisional checkpoint evidence into one explicit reviewed closeout execution chain without turning notes into final harvest, progression, or quest authority. Use when a reviewed session artifact exists, checkpoint notes or closeout handoffs already carry focus hints, and the next honest move is to reread the reviewed artifact while driving donor harvest, progression lift, and quest harvest in that fixed order. Do not use for mid-session collection only, for hidden execution inside `aoa closeout run`, or when the request tries to mint final verdicts from checkpoint notes without reviewed evidence.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

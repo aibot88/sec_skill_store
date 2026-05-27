@@ -1,0 +1,18 @@
+{
+  "name": "terraform-plan-gate-and-policy-as-code",
+  "slug": "terraform-plan-gate-and-policy-as-code",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/terraform-plan-gate-and-policy-as-code/",
+  "download_url": "https://claudskills.com/skills/terraform-plan-gate-and-policy-as-code/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when designing, reviewing, or hardening the pre-merge Terraform gate and policy-as-code after the repo scaffold and state backend exist and operations and security have decided gate strictness per blast-radius tier. Produces pre-merge checks (fmt, validate, plan diff posted to the PR), policy-as-code (OPA/Conftest, Checkov, tfsec, or Sentinel) with tier-scaled strictness, scheduled drift detection, required-reviewer rules per environment, and prohibited-resource/provider policy per environment. Do not use for repo/module layout, state/secret backend, apply and promotion orchestration, or module registry/supply chain; use the other terraform archetype skills instead.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

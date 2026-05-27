@@ -1,0 +1,18 @@
+{
+  "name": "ghost-admin-api-headless-publishing-cms-automation",
+  "slug": "ghost-admin-api-headless-publishing-cms-automation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ghost-admin-api-headless-publishing-cms-automation/",
+  "download_url": "https://claudskills.com/skills/ghost-admin-api-headless-publishing-cms-automation/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "The Ghost Admin API exposes authenticated operations for posts, pages, tags, members, offers, and newsletter publishing. This skill gives agents a concrete workflow for structured publishing and operational automation in Ghost-backed sites.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

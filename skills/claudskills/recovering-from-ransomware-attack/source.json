@@ -1,0 +1,18 @@
+{
+  "name": "recovering-from-ransomware-attack",
+  "slug": "recovering-from-ransomware-attack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/recovering-from-ransomware-attack/",
+  "download_url": "https://claudskills.com/skills/recovering-from-ransomware-attack/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Executes structured recovery from a ransomware incident following NIST and CISA frameworks, including environment",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

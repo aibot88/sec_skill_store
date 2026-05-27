@@ -1,0 +1,18 @@
+{
+  "name": "env-local",
+  "slug": "env-local",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/env-local/",
+  "download_url": "https://claudskills.com/skills/env-local/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generates .env.local file for local development environment variables. Contains developer-specific configuration like API URLs, ports, and feature flags. Gitignored for security.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

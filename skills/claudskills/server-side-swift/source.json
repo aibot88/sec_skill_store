@@ -1,0 +1,18 @@
+{
+  "name": "server-side-swift",
+  "slug": "server-side-swift",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/server-side-swift/",
+  "download_url": "https://claudskills.com/skills/server-side-swift/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Server-side Swift development with Vapor and Hummingbird. Covers project setup, routing, Fluent ORM, authentication, deployment, and shared client-server code. Use when building backends or APIs in Swift.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ide-editor",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

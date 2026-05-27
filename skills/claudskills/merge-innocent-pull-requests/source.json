@@ -1,0 +1,18 @@
+{
+  "name": "merge-innocent-pull-requests",
+  "slug": "merge-innocent-pull-requests",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/merge-innocent-pull-requests/",
+  "download_url": "https://claudskills.com/skills/merge-innocent-pull-requests/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill to merge low-risk pull requests opened by automation bots across a list of GitHub repository owners: walk every repository, pick the open pull requests authored by `renovate`, `renovate[bot]`, or `github-actions[bot]`, keep only the ones where every required CI check has finished successfully, and merge them one by one. Stop after merging two hundred pull requests or after spending thirty minutes of wall-clock time on the run, whichever happens first. One run, one budget — then stop.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

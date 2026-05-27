@@ -1,0 +1,18 @@
+{
+  "name": "sast-jwt",
+  "slug": "sast-jwt",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sast-jwt/",
+  "download_url": "https://claudskills.com/skills/sast-jwt/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect insecure JWT (JSON Web Token) implementations in a codebase using a two-phase approach: first map all JWT issuance and verification sites to understand the token lifecycle and signing configuration, then check each verification site for exploitable weaknesses such as algorithm confusion, missing signature verification, weak secrets, header injection, and missing claim validation. Requires sast/architecture.md (run sast-analysis first). Outputs findings to sast/jwt-results.md. If no JWT usage is found in Phase 1, Phase 2 is skipped. Use when asked to find JWT, token forgery, or authentication bypass bugs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

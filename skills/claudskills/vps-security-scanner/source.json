@@ -1,0 +1,18 @@
+{
+  "name": "vps-security-scanner",
+  "slug": "vps-security-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vps-security-scanner/",
+  "download_url": "https://claudskills.com/skills/vps-security-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Realiza auditoria de segurança completa em VPS Linux: análise de portas expostas, configuração SSH, vulnerabilidades em containers Docker, usuários do sistema, permissões, logs de acesso e pacotes instalados. Use quando o usuário pedir para verificar segurança do servidor, auditar VPS, escanear vulnerabilidades, ou gerar relatório de segurança do sistema. Suporta scan com trivy (containers) e grype (packages). Gera relatório estruturado por severidade (Critical/High/Medium/Low).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

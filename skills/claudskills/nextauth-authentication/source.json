@@ -1,0 +1,18 @@
+{
+  "name": "nextauth-authentication",
+  "slug": "nextauth-authentication",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nextauth-authentication/",
+  "download_url": "https://claudskills.com/skills/nextauth-authentication/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guidelines for implementing NextAuth.js (Auth.js v5) authentication in Next.js applications with session management and security best practices",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

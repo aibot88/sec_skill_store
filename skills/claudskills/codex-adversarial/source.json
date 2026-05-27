@@ -1,0 +1,18 @@
+{
+  "name": "codex-adversarial",
+  "slug": "codex-adversarial",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/codex-adversarial/",
+  "download_url": "https://claudskills.com/skills/codex-adversarial/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Run Codex adversarial review — actively tries to break confidence in the change. Use when asked \\\"adversarial review\\\", \\\"적대적 리뷰\\\", or wants thorough security/correctness challenge.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

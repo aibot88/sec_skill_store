@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "amanasmuei-aman-showcase-feed-skills",
+  "source": "github",
+  "source_url": "https://github.com/amanasmuei/aman-showcase/blob/907d64841fac7a452061becd9a8605430a5f66fd/feed/skills/feed-skill.md",
+  "download_url": "https://github.com/amanasmuei/aman-showcase/blob/907d64841fac7a452061becd9a8605430a5f66fd/feed/skills/feed-skill.md",
+  "external_source_url": "https://github.com/amanasmuei/aman-showcase/blob/907d64841fac7a452061becd9a8605430a5f66fd/feed/skills/feed-skill.md",
+  "license": "",
+  "description": "Real-world AI companions built with zero code — language learning, Quran study, fitness training, freelance business, team management. Powered by the aman ecosystem.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "amanasmuei/aman-showcase",
+    "path": "feed/skills/feed-skill.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "implementing-iec-62443-security-zones",
+  "slug": "implementing-iec-62443-security-zones",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-iec-62443-security-zones/",
+  "download_url": "https://claudskills.com/skills/implementing-iec-62443-security-zones/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill covers designing and implementing security zones and conduits for industrial automation and control",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ot-ics-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

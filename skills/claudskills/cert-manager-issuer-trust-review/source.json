@@ -1,0 +1,18 @@
+{
+  "name": "cert-manager-issuer-trust-review",
+  "slug": "cert-manager-issuer-trust-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cert-manager-issuer-trust-review/",
+  "download_url": "https://claudskills.com/skills/cert-manager-issuer-trust-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing cert-manager PKI configuration for Kubernetes clusters. Trigger when the user asks about Issuer or ClusterIssuer scope, CertificateRequestPolicy coverage, certificate SAN or duration risks, trust-manager bundle distribution, SPIFFE mesh CA integration, cert-manager webhook health, or cloud CA authentication method.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

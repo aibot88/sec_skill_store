@@ -1,0 +1,18 @@
+{
+  "name": "academic-reviser",
+  "slug": "academic-reviser",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/academic-reviser/",
+  "download_url": "https://claudskills.com/skills/academic-reviser/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Self-review, audit, or verify CS/AI/ML paper drafts as a critical peer reviewer. Three-round review (evidence→argument→style) with Verification Status and debt tracking. Use when: reviewing a paper draft before submission, checking evidence compliance of claims, simulating peer reviewer feedback, verifying citation closure and evidence debts, performing cross-section consistency checks. Triggers on: 审修, self review, 自查, verification, revise, 修订, check draft, 审稿, evidence compliance, peer review, 论文审查, draft audit, 验证论文, 检查引用, cross-section review.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

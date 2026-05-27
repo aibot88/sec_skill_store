@@ -1,0 +1,18 @@
+{
+  "name": "trace-sanitizer",
+  "slug": "trace-sanitizer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/trace-sanitizer/",
+  "download_url": "https://claudskills.com/skills/trace-sanitizer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Export Claude Code, Codex, Gemini CLI, and OpenCode conversation history for TRACED. Use when the user asks about exporting conversations, donating to TRACED, configuring trace-sanitizer, reviewing PII/secrets in exports, or managing their dataset.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

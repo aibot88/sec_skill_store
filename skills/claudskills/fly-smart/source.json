@@ -1,0 +1,18 @@
+{
+  "name": "fly-smart",
+  "slug": "fly-smart",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fly-smart/",
+  "download_url": "https://claudskills.com/skills/fly-smart/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Find cheaper flight routes using hidden-city arbitrage and hub transfer combinations. Activates when users search for flights, find cheap flights, compare routes, or look for budget travel deals. Supports 70+ global hubs, multi-date scanning, SQLite caching, and self-transfer detection. No API keys required.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

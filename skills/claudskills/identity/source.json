@@ -1,0 +1,18 @@
+{
+  "name": "plaid-identity-expert",
+  "slug": "identity",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/identity/",
+  "download_url": "https://claudskills.com/skills/identity/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert on Plaid Identity product for retrieving account holder information. Covers identity verification, KYC compliance, name/address retrieval, and fraud prevention. Invoke when user mentions Plaid Identity, account holder info, KYC, identity verification, or user information.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

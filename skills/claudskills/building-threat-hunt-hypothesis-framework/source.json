@@ -1,0 +1,18 @@
+{
+  "name": "building-threat-hunt-hypothesis-framework",
+  "slug": "building-threat-hunt-hypothesis-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-threat-hunt-hypothesis-framework/",
+  "download_url": "https://claudskills.com/skills/building-threat-hunt-hypothesis-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Build a systematic threat hunt hypothesis framework that transforms threat intelligence, attack patterns, and",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

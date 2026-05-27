@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "s7safe-android-h1-.",
+  "source": "github",
+  "source_url": "https://github.com/s7safe/android-h1/blob/62eb790c2adf4ee72c8df8f4abba56443b0ae4c2/SKILL.md",
+  "download_url": "https://github.com/s7safe/android-h1/blob/62eb790c2adf4ee72c8df8f4abba56443b0ae4c2/SKILL.md",
+  "external_source_url": "https://github.com/s7safe/android-h1/blob/62eb790c2adf4ee72c8df8f4abba56443b0ae4c2/SKILL.md",
+  "license": "",
+  "description": "移动安全漏洞挖掘专家SKILL，基于 HackerOne 真实报告的移动安全漏洞挖掘知识库，提供 Android 和 iOS 应用的漏洞挖掘手法、技术细节和代码模式分析。",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "s7safe/android-h1",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

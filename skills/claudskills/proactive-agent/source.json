@@ -1,0 +1,18 @@
+{
+  "name": "proactive-agent",
+  "slug": "proactive-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/proactive-agent/",
+  "download_url": "https://claudskills.com/skills/proactive-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Transform AI agents from task-followers into proactive partners that anticipate needs and continuously improve. Now with WAL Protocol, Working Buffer for context survival, Compaction Recovery, and battle-tested security patterns. Part of the Hal Stack 🦞",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

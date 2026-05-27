@@ -1,0 +1,18 @@
+{
+  "name": "jfrog-package-safety-and-download",
+  "slug": "jfrog-package-safety-and-download",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jfrog-package-safety-and-download/",
+  "download_url": "https://claudskills.com/skills/jfrog-package-safety-and-download/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Check JFrog Public Catalog and stored packages for a version, interpret catalog security signals, and download through Artifactory (JFrog Platform locations, remote cache, curation-aware package managers, or repo proxy). Use when the user asks whether a package is safe, allowed, curated, or wants to download npm, Maven, PyPI, Go, or similar packages via JFrog. Do NOT use for pure CVE or vulnerability lookups (e.g. \"details on CVE-2021-23337\") — those are handled by the jfrog skill's Public security domain queries without this workflow.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "writefreely-federated-markdown-publishing-platform",
+  "slug": "writefreely-federated-markdown-publishing-platform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/writefreely-federated-markdown-publishing-platform/",
+  "download_url": "https://claudskills.com/skills/writefreely-federated-markdown-publishing-platform/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "WriteFreely is a clean, minimalist self-hosted publishing platform built in Go for writers. It features a distraction-free Markdown editor, ActivityPub federation for cross-platform community building, multi-blog support from a single account, and OAuth 2.0 integration for onboarding users from existing platforms.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

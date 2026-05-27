@@ -1,0 +1,18 @@
+{
+  "name": "onda-slides",
+  "slug": "onda-slides",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/onda-slides/",
+  "download_url": "https://claudskills.com/skills/onda-slides/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "ONDA 공통 템플릿으로 슬라이드 프레젠테이션(HTML + PDF)을 생성한다. 차트, 표, 그리드, AI 이미지 지원. 모디파이어로 simple/wide/dark/en/confidential 조합.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

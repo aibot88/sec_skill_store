@@ -1,0 +1,18 @@
+{
+  "name": "security-health-check",
+  "slug": "security-health-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-health-check/",
+  "download_url": "https://claudskills.com/skills/security-health-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when running, interpreting, or acting on Salesforce Security Health Check results — reading the score, understanding risk categories, evaluating specific settings, creating or importing a custom baseline, querying the Tooling API programmatically, or planning remediation from findings. Triggers: 'security health check score', 'health check failing settings', 'custom baseline', 'remediate health check findings', 'fix risk'. NOT for org hardening implementation, permission model design, or broad baseline config beyond what Health Check directly measures.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

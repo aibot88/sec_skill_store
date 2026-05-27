@@ -1,0 +1,19 @@
+{
+  "name": "owasp-top-10",
+  "slug": "nickcrew-claude-cortex-skills-owasp-top-10",
+  "source": "github",
+  "source_url": "https://github.com/NickCrew/Claude-Cortex/blob/c20960721a91124c76b8fa1bab26973afae67257/skills/owasp-top-10/SKILL.md",
+  "download_url": "https://github.com/NickCrew/Claude-Cortex/blob/c20960721a91124c76b8fa1bab26973afae67257/skills/owasp-top-10/SKILL.md",
+  "external_source_url": "https://github.com/NickCrew/Claude-Cortex/blob/c20960721a91124c76b8fa1bab26973afae67257/skills/owasp-top-10/SKILL.md",
+  "license": "",
+  "description": "Claude Cortex",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "NickCrew/Claude-Cortex",
+    "path": "skills/owasp-top-10/SKILL.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

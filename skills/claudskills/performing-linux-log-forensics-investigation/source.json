@@ -1,0 +1,18 @@
+{
+  "name": "performing-linux-log-forensics-investigation",
+  "slug": "performing-linux-log-forensics-investigation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-linux-log-forensics-investigation/",
+  "download_url": "https://claudskills.com/skills/performing-linux-log-forensics-investigation/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Perform forensic investigation of Linux system logs including syslog, auth.log, systemd journal, kern.log, and",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ux-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "extracting-config-from-agent-tesla-rat",
+  "slug": "extracting-config-from-agent-tesla-rat",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/extracting-config-from-agent-tesla-rat/",
+  "download_url": "https://claudskills.com/skills/extracting-config-from-agent-tesla-rat/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Extract embedded configuration from Agent Tesla RAT samples including SMTP/FTP/Telegram exfiltration credentials,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:53+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "tests-reviewer",
+  "slug": "tests-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tests-reviewer/",
+  "download_url": "https://claudskills.com/skills/tests-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Instrukce pro návrh pytest testů pro Python kód. MUSÍ být použity při analýze testovacího pokrytí — happy path, edge cases, error cases, security regrese, fixtures.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

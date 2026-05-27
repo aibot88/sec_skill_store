@@ -1,0 +1,18 @@
+{
+  "name": "finalize-creating-issue",
+  "slug": "finalize-creating-issue",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/finalize-creating-issue/",
+  "download_url": "https://claudskills.com/skills/finalize-creating-issue/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Finalizuje tworzenie nowego wydania newslettera - zamyka serwer, czyści pliki CSV, commituje zmiany na osobnym branchu i tworzy zaplanowany Pull Request. Reaguje na polecenie takie jak np. \"Ukończ tworzenie wydania\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

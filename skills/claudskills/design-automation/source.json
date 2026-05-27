@@ -1,0 +1,18 @@
+{
+  "name": "design-automation",
+  "slug": "design-automation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/design-automation/",
+  "download_url": "https://claudskills.com/skills/design-automation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Rule-based design systems, constraint satisfaction, space planning algorithms, automated layout generation, drawing automation, code compliance checking, and computational workflows for AEC design automation",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

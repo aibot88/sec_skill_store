@@ -1,0 +1,18 @@
+{
+  "name": "lfx-intercom",
+  "slug": "lfx-intercom",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lfx-intercom/",
+  "download_url": "https://claudskills.com/skills/lfx-intercom/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Add or fix Intercom integration in an LFX Angular app. Detects existing integrations and audits them against the LFX canonical pattern — correcting missing JWT pre-set, broken shutdown, missing Auth0 claim, wrong app IDs, or absent CSP entries. Fresh installs and legacy fixes use the same workflow.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "finance-personal",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

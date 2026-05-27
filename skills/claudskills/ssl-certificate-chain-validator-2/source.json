@@ -1,0 +1,18 @@
+{
+  "name": "ssl-certificate-chain-validator-2",
+  "slug": "ssl-certificate-chain-validator-2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ssl-certificate-chain-validator-2/",
+  "download_url": "https://claudskills.com/skills/ssl-certificate-chain-validator-2/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Performs deep TLS certificate chain validation using OpenSSL and Certificate Transparency logs. Monitors expiration dates via the crt.sh API and checks OCSP responder status.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ap1-training-tracker",
+  "slug": "ap1-training-tracker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ap1-training-tracker/",
+  "download_url": "https://claudskills.com/skills/ap1-training-tracker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "IHK Fachinformatiker AP1 Training-Tracker mit 280 Fragen in SQLite-Datenbank. 50 Subnetting-Fragen, interaktives Training, automatische Statistiken. Der Kollege muss nur den Skill-Ordner in sein OpenClaw Workspace kopieren und das Script ausführen.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

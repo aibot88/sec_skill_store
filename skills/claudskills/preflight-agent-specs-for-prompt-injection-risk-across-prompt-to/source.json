@@ -1,0 +1,18 @@
+{
+  "name": "preflight-agent-specs-for-prompt-injection-risk-across-prompt-to",
+  "slug": "preflight-agent-specs-for-prompt-injection-risk-across-prompt-to",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/preflight-agent-specs-for-prompt-injection-risk-across-prompt-to/",
+  "download_url": "https://claudskills.com/skills/preflight-agent-specs-for-prompt-injection-risk-across-prompt-to/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Describe an agent in `agent_spec.yaml`, run deterministic prompt-injection analysis, generate mitigations, and validate defenses before rollout.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

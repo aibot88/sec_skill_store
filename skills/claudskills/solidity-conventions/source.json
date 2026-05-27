@@ -1,0 +1,18 @@
+{
+  "name": "solidity-conventions",
+  "slug": "solidity-conventions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/solidity-conventions/",
+  "download_url": "https://claudskills.com/skills/solidity-conventions/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply Solidity project conventions — Foundry only (forge, cast, anvil, chisel; no Hardhat or Truffle), forge fmt with sort_imports, solhint:all strict (--max-warnings=0 --noPoster) extending compiler-version ^0.8.22, fuzz tests via Foundry's built-in fuzzing, invariant tests via forge-std/StdInvariant.sol with handlers, gas snapshots via forge snapshot, coverage via forge coverage --report lcov, and script/Scratch.s.sol or chisel for scratch (never inline forge script heredocs). Use when starting a Solidity project, writing or reviewing Solidity contracts and tests, configuring Foundry or solhint, or evaluating compliance with these defaults. Co-activates with running-tdd-cycles, reviewing-changes, and engineering-philosophy.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

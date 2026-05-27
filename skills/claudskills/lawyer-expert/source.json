@@ -1,0 +1,18 @@
+{
+  "name": "lawyer-expert",
+  "slug": "lawyer-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lawyer-expert/",
+  "download_url": "https://claudskills.com/skills/lawyer-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert-level legal systems, contracts, compliance, and legal technology",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

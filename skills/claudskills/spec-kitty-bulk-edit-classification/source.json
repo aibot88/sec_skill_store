@@ -1,0 +1,18 @@
+{
+  "name": "spec-kitty-bulk-edit-classification",
+  "slug": "spec-kitty-bulk-edit-classification",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spec-kitty-bulk-edit-classification/",
+  "download_url": "https://claudskills.com/skills/spec-kitty-bulk-edit-classification/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Recognize when a mission is a bulk edit and drive the occurrence-classification guardrail on the user's behalf. Triggers: user says any variant of \"rename X to Y\", \"change the terminology\", \"migrate all occurrences\", \"replace across the codebase\", \"the X feature is now the Y feature\", \"sed everywhere\", or any request that touches the same identifier/path/key in many files. Also triggers on gate errors mentioning \"change_mode\", \"occurrence_map.yaml\", \"Bulk Edit Gate: BLOCKED\", or \"Bulk Edit Review: Diff Compliance\". Does NOT handle: line-level semantic refactors inside one file, adding a new feature that creates new identifiers without changing existing ones, or reviewing finished missions for fidelity.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

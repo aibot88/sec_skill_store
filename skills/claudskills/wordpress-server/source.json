@@ -1,0 +1,18 @@
+{
+  "name": "wordpress-server",
+  "slug": "wordpress-server",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wordpress-server/",
+  "download_url": "https://claudskills.com/skills/wordpress-server/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "WordPress server optimization — Nginx config, PHP 8.3-FPM tuning, Redis object caching, WP Rocket, security hardening, staging, multisite",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

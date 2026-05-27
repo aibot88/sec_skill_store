@@ -1,0 +1,18 @@
+{
+  "name": "integrate",
+  "slug": "integrate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/integrate/",
+  "download_url": "https://claudskills.com/skills/integrate/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit my project's third-party integrations or set up multiple at once — scans for payments, auth, email, push, analytics, storage, search, and realtime, calculates a production-readiness health score, identifies gaps, and chains sub-skills to fill them",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

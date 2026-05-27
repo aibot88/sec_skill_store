@@ -1,0 +1,18 @@
+{
+  "name": "breach-forensics",
+  "slug": "breach-forensics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/breach-forensics/",
+  "download_url": "https://claudskills.com/skills/breach-forensics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Conducts digital forensics investigations following a personal data breach, covering evidence preservation, chain of custody documentation, log analysis, scope determination, and root cause analysis. References industry-standard tools including Splunk, ELK Stack, and Wireshark. Provides forensic workflow from initial evidence collection through final investigation report. Keywords: digital forensics, breach investigation, evidence preservation, chain of custody, root cause analysis, Splunk, ELK, Wireshark.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

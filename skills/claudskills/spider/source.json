@@ -1,0 +1,18 @@
+{
+  "name": "spider",
+  "slug": "spider",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spider/",
+  "download_url": "https://claudskills.com/skills/spider/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Crawl and scraping systems architecture — distributed crawler topology, URL frontier, politeness, and compliance. Architecture-only (no execution code). Don't use for single-page scraping (Navigator) or ETL pipelines (Stream).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "data-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

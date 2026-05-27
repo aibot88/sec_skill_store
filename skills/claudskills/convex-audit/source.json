@@ -1,0 +1,18 @@
+{
+  "name": "convex-audit",
+  "slug": "convex-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/convex-audit/",
+  "download_url": "https://claudskills.com/skills/convex-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit Convex—schema, security, runtime edges, migrations, function risk. Triggers—review, contract, remediate. Not greenfield spec (convex-feature-spec).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

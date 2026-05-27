@@ -1,0 +1,18 @@
+{
+  "name": "supabase-development",
+  "slug": "supabase-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-development/",
+  "download_url": "https://claudskills.com/skills/supabase-development/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Supabase development guidelines for database, authentication, real-time subscriptions, and Edge Functions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

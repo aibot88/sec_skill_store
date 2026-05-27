@@ -1,0 +1,18 @@
+{
+  "name": "performing-penetration-testing",
+  "slug": "performing-penetration-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-penetration-testing/",
+  "download_url": "https://claudskills.com/skills/performing-penetration-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Perform security testing on web applications, APIs, and codebases. Use when the user asks to \"run a security scan\", \"check for vulnerabilities\", \"audit dependencies\", \"check security headers\", \"find security issues\", \"pentest\", \"security audit\", or \"scan for secrets\". Trigger with \"pentest\", \"security scan\", \"vulnerability check\", \"audit dependencies\", \"check headers\", \"find secrets\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

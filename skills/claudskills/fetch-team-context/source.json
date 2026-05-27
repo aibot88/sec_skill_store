@@ -1,0 +1,18 @@
+{
+  "name": "fetch-team-context",
+  "slug": "fetch-team-context",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fetch-team-context/",
+  "download_url": "https://claudskills.com/skills/fetch-team-context/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fetch Semicolon team standards from docs wiki. Use when (1) providing workflow or process advice, (2) recommending DevOps strategies, (3) referencing team conventions for decision-making, (4) checking team standards compliance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

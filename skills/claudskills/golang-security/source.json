@@ -1,0 +1,18 @@
+{
+  "name": "golang-security",
+  "slug": "golang-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/golang-security/",
+  "download_url": "https://claudskills.com/skills/golang-security/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Security best practices and vulnerability prevention for Golang. Covers injection (SQL, command, XSS), cryptography, filesystem safety, network security, cookies, secrets management, memory safety, and logging. Apply when writing, reviewing, or auditing Go code for security, or when working on any risky code involving crypto, I/O, secrets management, user input handling, or authentication. Includes configuration of security tools.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

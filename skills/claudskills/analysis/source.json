@@ -1,0 +1,18 @@
+{
+  "name": "analysis",
+  "slug": "analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analysis/",
+  "download_url": "https://claudskills.com/skills/analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze feature requirements, dependencies, and security considerations. Use when starting feature implementation from GitHub issues to understand scope, technical feasibility, and risks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

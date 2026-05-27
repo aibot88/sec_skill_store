@@ -1,0 +1,18 @@
+{
+  "name": "supabase-auth-storage-realtime-core",
+  "slug": "supabase-auth-storage-realtime-core",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-auth-storage-realtime-core/",
+  "download_url": "https://claudskills.com/skills/supabase-auth-storage-realtime-core/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Supabase Auth (signUp, signIn, OAuth, session management), Storage (upload, download, signed URLs, bucket policies), and Realtime (Postgres changes, broadcast, presence). Use when building user auth flows, file upload features, or live-updating UIs with Supabase. Trigger with phrases like \"supabase auth\", \"supabase storage upload\", \"supabase realtime subscribe\", \"supabase oauth\", \"supabase file upload\", \"supabase presence\", \"supabase rls storage\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

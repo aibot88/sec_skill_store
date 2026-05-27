@@ -1,0 +1,18 @@
+{
+  "name": "stripe-integration-expert",
+  "slug": "stripe-integration-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/stripe-integration-expert/",
+  "download_url": "https://claudskills.com/skills/stripe-integration-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT + Commons Clause",
+  "description": "Implement production-grade Stripe integrations for SaaS billing. Covers subscription lifecycle management, checkout sessions, plan upgrades/downgrades with proration, usage-based billing, idempotent webhook handlers, customer portal, dunning, SCA compliance, and local testing with Stripe CLI. Provides patterns for Next.js, Express, and Django.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

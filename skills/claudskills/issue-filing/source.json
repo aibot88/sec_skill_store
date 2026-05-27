@@ -1,0 +1,18 @@
+{
+  "name": "issue-filing",
+  "slug": "issue-filing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/issue-filing/",
+  "download_url": "https://claudskills.com/skills/issue-filing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "File framework issues after exhausting other approaches. Document complex problems with multiple failed attempts for framework authors. REQUIRES user permission. Use only after checking docs, community-docs, and trying multiple approaches.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

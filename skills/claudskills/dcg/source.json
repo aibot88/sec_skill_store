@@ -1,0 +1,18 @@
+{
+  "name": "dcg",
+  "slug": "dcg",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dcg/",
+  "download_url": "https://claudskills.com/skills/dcg/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Destructive Command Guard. Installs a pre-tool-use hook that blocks unrecoverable shell commands (rm -rf /, git reset --hard, git clean -fd, rm of .env / credentials, force-pushing to main, fork bombs, shred / dd, etc.) before the agent executes them. Use when the user says \"install dcg\", \"destructive command guard\", \"guard rails for destructive commands\", or invokes /dcg.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

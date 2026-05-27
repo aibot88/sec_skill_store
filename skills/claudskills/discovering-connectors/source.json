@@ -1,0 +1,18 @@
+{
+  "name": "discovering-connectors",
+  "slug": "discovering-connectors",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/discovering-connectors/",
+  "download_url": "https://claudskills.com/skills/discovering-connectors/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Discovers available Airbyte connectors, explores their entities/actions/schemas, and checks auth requirements. Use when asking what connectors exist, what a connector can do, or what fields/entities are available.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

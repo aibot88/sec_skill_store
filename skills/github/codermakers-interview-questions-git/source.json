@@ -1,0 +1,19 @@
+{
+  "name": "Git",
+  "slug": "codermakers-interview-questions-git",
+  "source": "github",
+  "source_url": "https://github.com/codermakers/interview-questions/blob/67169bd3830a35ecfe2719938113c102a7135471/Git/git-skill.md",
+  "download_url": "https://github.com/codermakers/interview-questions/blob/67169bd3830a35ecfe2719938113c102a7135471/Git/git-skill.md",
+  "external_source_url": "https://github.com/codermakers/interview-questions/blob/67169bd3830a35ecfe2719938113c102a7135471/Git/git-skill.md",
+  "license": "",
+  "description": "frontEnd interview questions 长期更新",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "codermakers/interview-questions",
+    "path": "Git/git-skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:59+00:00"
+}

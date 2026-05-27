@@ -1,0 +1,18 @@
+{
+  "name": "secure-ship",
+  "slug": "secure-ship",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/secure-ship/",
+  "download_url": "https://claudskills.com/skills/secure-ship/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build and ship features with security baked in — runs OWASP Top 10 pre-scan, builds and ships with /ship, validates with post-build security review, then penetration tests the result. Use when shipping auth flows, payment logic, API endpoints, admin panels, or any security-sensitive code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

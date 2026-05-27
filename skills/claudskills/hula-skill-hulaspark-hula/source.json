@@ -1,0 +1,18 @@
+{
+  "name": "hula-skill",
+  "slug": "hula-skill-hulaspark-hula",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hula-skill-hulaspark-hula/",
+  "download_url": "https://claudskills.com/skills/hula-skill-hulaspark-hula/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "HuLa project skill for frontend (Vue 3 + Vite + UnoCSS + Naive UI/Vant), backend (Tauri v2 + Rust + SeaORM/SQLite), full-stack flows, and build/release work. Use when the user mentions hula or HuLa or requests changes in this repository; after triggering, ask which scope (frontend/backend/fullstack/build-release) to enable.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

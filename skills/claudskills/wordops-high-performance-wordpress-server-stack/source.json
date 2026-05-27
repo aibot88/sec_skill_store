@@ -1,0 +1,18 @@
+{
+  "name": "wordops-high-performance-wordpress-server-stack",
+  "slug": "wordops-high-performance-wordpress-server-stack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wordops-high-performance-wordpress-server-stack/",
+  "download_url": "https://claudskills.com/skills/wordops-high-performance-wordpress-server-stack/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "WordOps is an open-source CLI tool that installs and manages a complete high-performance WordPress server stack with Nginx, PHP, MariaDB, and Redis in a few keystrokes. It handles site creation, SSL certificates via Let's Encrypt, server hardening, and cache configuration for optimal WordPress performance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

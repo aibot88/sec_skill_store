@@ -1,0 +1,18 @@
+{
+  "name": "bosskuai-database-engineering",
+  "slug": "bosskuai-database-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bosskuai-database-engineering/",
+  "download_url": "https://claudskills.com/skills/bosskuai-database-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this for SQL and NoSQL database design across MariaDB, MySQL, PostgreSQL, SQLite, MongoDB, indexing, transactions, migrations, constraints, query plans, and data correctness.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

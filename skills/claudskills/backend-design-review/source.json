@@ -1,0 +1,18 @@
+{
+  "name": "backend-design-review",
+  "slug": "backend-design-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backend-design-review/",
+  "download_url": "https://claudskills.com/skills/backend-design-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Conducts comprehensive backend design reviews covering API design quality, database architecture validation, microservices patterns assessment, integration strategies evaluation, security design review, and scalability analysis. Evaluates API specifications (REST, GraphQL, gRPC), database schemas, service boundaries, authentication/authorization flows, caching strategies, message queues, and deployment architectures. Identifies design flaws, security vulnerabilities, performance bottlenecks, and scalability issues. Produces detailed design review reports with severity-rated findings, architecture diagrams, and implementation recommendations. Use when reviewing backend system designs, validating API specifications, assessing database schemas, evaluating microservices architectures, reviewing integration patterns, or when users mention backend design review, API design validation, database design review, microservices assessment, or backend architecture evaluation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

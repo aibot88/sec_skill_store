@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "zaevlad-vulnflow-audit-skills",
+  "source": "github",
+  "source_url": "https://github.com/zaevlad/vulnflow-audit/blob/67c8c33b2d6c4ab806463bcf548f24854f67fbf3/skills/example_pattern_check_skill.md",
+  "download_url": "https://github.com/zaevlad/vulnflow-audit/blob/67c8c33b2d6c4ab806463bcf548f24854f67fbf3/skills/example_pattern_check_skill.md",
+  "external_source_url": "https://github.com/zaevlad/vulnflow-audit/blob/67c8c33b2d6c4ab806463bcf548f24854f67fbf3/skills/example_pattern_check_skill.md",
+  "license": "",
+  "description": "VulnFlow is a visual smart contract audit builder",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "zaevlad/vulnflow-audit",
+    "path": "skills/example_pattern_check_skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

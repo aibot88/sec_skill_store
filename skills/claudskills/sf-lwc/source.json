@@ -1,0 +1,18 @@
+{
+  "name": "sf-lwc",
+  "slug": "sf-lwc",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sf-lwc/",
+  "download_url": "https://claudskills.com/skills/sf-lwc/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Lightning Web Components (Brite edition) with PICKLES methodology and 165-point scoring. TRIGGER when user creates/edits LWC components, touches lwc/**/*.js, .html, .css, .js-meta.xml files, works in brite-salesforce, asks about wire service, SLDS, Jest LWC tests, the LWC Jest pre-commit hook, Dynamic Forms requiring FLS even for admins (`View All Data` does NOT bypass FLS), Dynamic Forms field-level vs section-level visibility evaluation, Flexipage IndexedDB cache flushing (hard refresh insufficient), the `flexipage:recordHomeTemplateDesktop` two-column template name (NOT `...TwoColTemplateDesktop`), Dynamic Forms DateTime `uiBehavior=readonly` for auto-populated fields, or `@AuraEnabled` security primitives. DO NOT TRIGGER when Apex classes (use sf-apex), Aura components, or Visualforce.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

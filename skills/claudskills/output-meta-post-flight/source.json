@@ -1,0 +1,18 @@
+{
+  "name": "output-meta-post-flight",
+  "slug": "output-meta-post-flight",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/output-meta-post-flight/",
+  "download_url": "https://claudskills.com/skills/output-meta-post-flight/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Post-flight validation for Output SDK workflow operations. Systematic verification of step completion, convention compliance, quality validation, and deliverable verification.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

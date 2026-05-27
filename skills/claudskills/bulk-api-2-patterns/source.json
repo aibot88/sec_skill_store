@@ -1,0 +1,18 @@
+{
+  "name": "bulk-api-2-patterns",
+  "slug": "bulk-api-2-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bulk-api-2-patterns/",
+  "download_url": "https://claudskills.com/skills/bulk-api-2-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing or hardening external-to-Salesforce integrations that orchestrate Bulk API 2.0 ingest or query jobs: OAuth-backed job lifecycle, mandatory UploadComplete, polling JobComplete/Failed, CSV upload sizing, locator pagination for query results, partial-failure retry, and ordered multi-job loads (parent before child). Trigger keywords: bulk ingest job stuck in Open, retry only failed bulk rows, poll Bulk API 2 job status, Sforce-Locator pagination, multipart bulk ingest vs CSV upload. NOT for Bulk API 1.0 SOAP jobs (use data/bulk-api-patterns v1 sections), NOT for choosing batch vs real-time architecture alone (use integration/real-time-vs-batch-integration), NOT for low-level REST field/csv mechanics without integration context (use data/bulk-api-patterns).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

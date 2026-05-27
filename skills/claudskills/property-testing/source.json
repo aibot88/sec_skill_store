@@ -1,0 +1,18 @@
+{
+  "name": "property-testing",
+  "slug": "property-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/property-testing/",
+  "download_url": "https://claudskills.com/skills/property-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Property-based and generative testing across the polyglot stack. TRIGGER when: user asks about property-based testing, generative testing, QuickCheck, Hypothesis, proptest, StreamData, fast-check, fuzzing test inputs, or finding edge cases that example tests miss. DO NOT TRIGGER when: user asks about TDD workflow (use tdd), mutation testing (use tdd), load testing (use performance-profiler), or security fuzzing (use security-audit).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

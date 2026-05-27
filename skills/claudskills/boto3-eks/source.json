@@ -1,0 +1,18 @@
+{
+  "name": "boto3-eks",
+  "slug": "boto3-eks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/boto3-eks/",
+  "download_url": "https://claudskills.com/skills/boto3-eks/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AWS Boto3 SDK patterns for Amazon EKS cluster management, node groups, authentication tokens, and Kubernetes client integration. Use when working with EKS clusters, managing node groups, generating kubeconfig, creating authentication tokens, integrating Kubernetes Python client, managing Fargate profiles, or implementing IRSA authentication.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

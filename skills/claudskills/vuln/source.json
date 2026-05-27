@@ -1,0 +1,18 @@
+{
+  "name": "vuln",
+  "slug": "vuln",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vuln/",
+  "download_url": "https://claudskills.com/skills/vuln/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Look up a vulnerability by ID or list all vulnerabilities for a package",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

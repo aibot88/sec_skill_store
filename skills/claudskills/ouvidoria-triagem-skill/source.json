@@ -1,0 +1,18 @@
+{
+  "name": "ouvidoria-triagem-municipal",
+  "slug": "ouvidoria-triagem-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ouvidoria-triagem-skill/",
+  "download_url": "https://claudskills.com/skills/ouvidoria-triagem-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Roadmap completo end-to-end para implementar um sistema de Triagem Inteligente para Ouvidoria Municipal usando Node.js (Express), Cohere API (Zero-Shot Classification + NER) e deploy gratuito no Render/Railway. Use esta skill sempre que o usuário mencionar: ouvidoria, triagem de reclamações, classificação automática de chamados públicos, NER em reclamações de cidadãos, roteamento para secretaria, pipeline NLP municipal, ou qualquer variação de sistema de atendimento ao cidadão com IA. Inclui estrutura de arquivos, código de cada serviço, endpoints, exemplos few-shot em português e passos de deploy.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "roadmap",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

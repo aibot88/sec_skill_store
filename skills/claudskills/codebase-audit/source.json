@@ -1,0 +1,18 @@
+{
+  "name": "codebase-audit",
+  "slug": "codebase-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/codebase-audit/",
+  "download_url": "https://claudskills.com/skills/codebase-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "全面代码库审计 — 自适应并行深度分析（前后端契约、数据完整性、异常处理/安全、架构/技术债、配置/缓存），输出按严重程度排序的统一报告和修复路线图。Use when user asks to audit, analyze, or review an entire codebase for design issues, find hidden bugs, check architecture health, or asks '全面审查', '代码库审计', '分析设计问题', 'audit codebase', 'health check', '有哪些问题'. Also trigger when user asks to find silent degradation, data flow breakpoints, type mismatches between frontend and backend, or wants to understand technical debt across a project.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

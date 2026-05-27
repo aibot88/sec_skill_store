@@ -1,0 +1,18 @@
+{
+  "name": "evidence-validator",
+  "slug": "evidence-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/evidence-validator/",
+  "download_url": "https://claudskills.com/skills/evidence-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validates audit evidence artifacts for completeness, timeliness, relevance, and authenticity. Reviews screenshots, logs, configurations, and policies against control requirements.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

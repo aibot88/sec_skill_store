@@ -1,0 +1,18 @@
+{
+  "name": "grad-panel-data",
+  "slug": "grad-panel-data",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/grad-panel-data/",
+  "download_url": "https://claudskills.com/skills/grad-panel-data/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply panel data analysis with fixed effects, random effects, and dynamic GMM to exploit longitudinal variation and control for unobserved heterogeneity. Use this skill when the user has repeated observations over time for multiple entities, needs to choose between FE and RE via Hausman test, or when they ask 'how do I control for firm-specific effects', 'fixed or random effects', or 'how to handle endogeneity in panels'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

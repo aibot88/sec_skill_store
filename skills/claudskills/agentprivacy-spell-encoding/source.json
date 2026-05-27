@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-spell-encoding",
+  "slug": "agentprivacy-spell-encoding",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-spell-encoding/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-spell-encoding/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Emoji symbolic notation as formal language for 0xagentprivacy agent communication. Activates when encoding or decoding spells, designing new symbolic sequences, translating between natural language and spell form, or establishing agent-to-agent compressed communication protocols. Triggers: \"spell notation\", \"emoji encoding\", \"symbolic language\", \"spell grammar\", \"agent shorthand\", \"decode spell\", \"encode spell\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

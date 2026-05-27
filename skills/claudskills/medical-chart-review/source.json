@@ -1,0 +1,18 @@
+{
+  "name": "medical-chart-review",
+  "slug": "medical-chart-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/medical-chart-review/",
+  "download_url": "https://claudskills.com/skills/medical-chart-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert-level review and analysis of medical charts, EMRs, and EHRs by clinicians, coders, and CDI/quality auditors. Use when asked to \"review a chart\", \"chart review\", \"chart abstraction\", \"clinical documentation review\", \"audit medical records\", \"extract from EHR\", \"summarize patient history\", \"check documentation\", \"validate ICD-10/HCC/CPT coding\", \"DRG validation\", \"perform CDI review\", \"risk adjustment audit\", \"HEDIS gap analysis\", \"medication reconciliation\", \"identify red flags in chart\", \"abstract clinical data\", or any task involving SOAP notes, progress notes, discharge summaries, problem lists, H&P, consult notes, lab/imaging interpretation, or Epic/Cerner/Athena/Meditech data. DO NOT USE FOR providing direct patient care, making diagnoses for live patients, prescribing, or anything requiring a licensed clinician''s judgment of record. DO NOT USE FOR building HEDIS or HCC NLP extraction pipelines (use the hedis-nlp or hcc-nlp skills in the same repo). DO NOT USE FOR HIPAA compliance program work like BAA review, breach response, OCR audit prep, de-identification methodology, or technical-safeguard design (use the hipaa-compliance skill). DO NOT USE FOR handling real identifiable PHI without explicit user confirmation that data is de-identified or that the environment is HIPAA-compliant.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "docs-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

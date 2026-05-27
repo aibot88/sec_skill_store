@@ -1,0 +1,18 @@
+{
+  "name": "scan-repositories-for-shai-hulud-2-0-supply-chain-indicators-wit",
+  "slug": "scan-repositories-for-shai-hulud-2-0-supply-chain-indicators-wit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scan-repositories-for-shai-hulud-2-0-supply-chain-indicators-wit/",
+  "download_url": "https://claudskills.com/skills/scan-repositories-for-shai-hulud-2-0-supply-chain-indicators-wit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Check repositories and CI surfaces for Shai-Hulud 2.0 compromise indicators when the task is targeted supply-chain triage, not generic malware scanning.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

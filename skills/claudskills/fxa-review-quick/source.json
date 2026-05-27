@@ -1,0 +1,18 @@
+{
+  "name": "fxa-review-quick",
+  "slug": "fxa-review-quick",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fxa-review-quick/",
+  "download_url": "https://claudskills.com/skills/fxa-review-quick/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fast single-pass FXA-specific commit review covering security, conventions, logic/bugs, tests, and migrations. No subagents — runs directly in the main context.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:02+00:00"
+}

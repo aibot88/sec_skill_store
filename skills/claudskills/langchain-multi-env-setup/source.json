@@ -1,0 +1,18 @@
+{
+  "name": "langchain-multi-env-setup",
+  "slug": "langchain-multi-env-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/langchain-multi-env-setup/",
+  "download_url": "https://claudskills.com/skills/langchain-multi-env-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure LangChain across dev/staging/production environments with isolated API keys, environment-specific settings, and secrets. Trigger: \"langchain environments\", \"langchain staging\", \"langchain dev prod\", \"environment configuration\", \"langchain env setup\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

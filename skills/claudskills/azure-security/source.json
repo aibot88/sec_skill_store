@@ -1,0 +1,18 @@
+{
+  "name": "azure-security",
+  "slug": "azure-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-security/",
+  "download_url": "https://claudskills.com/skills/azure-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Expert knowledge for Azure Security development including troubleshooting, best practices, decision making, security, configuration, integrations & coding patterns, and deployment. Use when securing AKS workloads, SBOMs, Notation image signing, Key Vault/HSM keys, or Customer Lockbox access, and other Azure Security related development tasks. Not for Azure Defender For Cloud (use azure-defender-for-cloud), Azure Firewall (use azure-firewall), Azure DDos Protection (use azure-ddos-protection), Azure Web Application Firewall (use azure-web-application-firewall).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

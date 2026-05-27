@@ -1,0 +1,18 @@
+{
+  "name": "scitex-browser",
+  "slug": "scitex-browser",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scitex-browser/",
+  "download_url": "https://claudskills.com/skills/scitex-browser/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Playwright wrappers for scientific web scraping + AI-agent browsing — adds debugging visuals (cursor/click overlays, step markers, grid), popup/cookie handling, PDF capture (including the notoriously-hidden Chrome PDF viewer), resilient click/fill with selector fallbacks, test-monitor fixtures, and browser-session management. Public API (~36 symbols) — sessions (`SyncBrowserSession`, `sync_browser_session`, `create_browser_session_fixture`), PDF capture (`save_as_pdf`, `save_as_pdf_async`, `detect_chrome_pdf_viewer_async`, `click_download_for_chrome_pdf_viewer_async`), resilient interaction (`click_with_fallbacks_async`, `fill_with_fallbacks_async`, `click_center_async`), popup handling (`PopupHandler`, `close_popups_async`, `ensure_no_popups_async`), debugging visuals (`show_cursor_at[_async]`, `show_click_effect[_async]`, `show_step[_async]`, `show_grid_async`, `show_test_result[_async]`, `highlight_element_async`, `inject_visual_effects[_async]`), console logging (`browser_logger`, `collect_console_logs`, `collect_console_logs_detailed`, `format_logs_devtools_style`, `setup_console_interceptor`), test monitoring (`TestMonitor`, `monitor_test`, `create_test_monitor_fixture`, `create_failure_capture_fixture`, `save_failure_artifacts`), environment (`is_playwright_cli_available`). Also supports OAuth/stealth/ZenRows remote-CAPTCHA backends. No CLI, no MCP tools (parent `scitex` umbrella exposes `browser_save_as_pdf` + `capture_screenshot`). Drop-in replacement for raw `playwright.sync_api` / `playwright.async_api` scripts, `selenium` + stealth plugins, hand-rolled popup-close loops, custom Chrome PDF-viewer hacks (`chrome://flags` workarounds), and bespoke `pytest-playwright` fixtures. Use whenever the user asks to \"save a webpage as PDF\", \"download from Chrome's PDF viewer\", \"click this element with fallback selectors\", \"handle GDPR/cookie popups\", \"add cursor/click overlays for debug video\", \"collect browser console logs DevTools-style\", \"wrap a test with a browser-session fixture\", \"set up failure-artifact capture\", or mentions `scitex.browser`, Playwright for scientific scraping, AI-agent browser automation.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

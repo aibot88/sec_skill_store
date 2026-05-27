@@ -1,0 +1,18 @@
+{
+  "name": "cdn-engineering",
+  "slug": "cdn-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cdn-engineering/",
+  "download_url": "https://claudskills.com/skills/cdn-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CDN (CloudFront/Cloudflare/Fastly) disipline — cache key composition (URL + Vary + cookie/query whitelist), TTL strategy (s-maxage CDN + max-age browser + stale-while-revalidate + stale-if-error), origin shield, purge (single/wildcard/tag/all), signed URL (CloudFront/Cloudflare/Fastly token), image optimization (AVIF/WebP edge transform), HLS/DASH streaming, multi-CDN failover (DNS health check + RUM routing), edge compute (Workers/Lambda@Edge/Compute@Edge), TLS termination Full(strict), WAF + DDoS, RUM, cost tracking.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

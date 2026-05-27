@@ -1,0 +1,18 @@
+{
+  "name": "compliance-tracking",
+  "slug": "compliance-tracking",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/compliance-tracking/",
+  "download_url": "https://claudskills.com/skills/compliance-tracking/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Track compliance requirements and audit readiness. Trigger with \"compliance\", \"audit prep\", \"SOC 2\", \"ISO 27001\", \"GDPR\", \"regulatory requirement\", or when the user needs help tracking, preparing for, or documenting compliance activities.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

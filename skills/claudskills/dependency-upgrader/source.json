@@ -1,0 +1,18 @@
+{
+  "name": "dependency-upgrader",
+  "slug": "dependency-upgrader",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dependency-upgrader/",
+  "download_url": "https://claudskills.com/skills/dependency-upgrader/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Upgrade dependencies for Java/Kotlin (Gradle/Maven) and TypeScript/Node projects with minimal risk: plan the bump, apply changes incrementally, run tests/builds, and document breaking changes. Use when the user asks to bump deps, update frameworks, or address CVEs.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "woningwaarde-mcp",
+  "slug": "woningwaarde-mcp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/woningwaarde-mcp/",
+  "download_url": "https://claudskills.com/skills/woningwaarde-mcp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Gebruik deze skill wanneer de gebruiker de huidige (geschatte) waarde van een woning wil berekenen op basis van aankoopprijs, aankoopjaar, aankoopkwartaal en provincie. Activeer ook wanneer gevraagd wordt naar waardeontwikkeling van een huis, hoeveel een woning nu waard is ten opzichte van de aankoop, of wanneer termen vallen als woningwaarde, waardestijging, WOZ-schatting, huizenprijsindex of vastgoedwaarde berekenen. Claude roept de Kadaster vastgoedcalculator API direct aan — geen MCP-tool nodig.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "iac-review",
+  "slug": "iac-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/iac-review/",
+  "download_url": "https://claudskills.com/skills/iac-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Terraform / Pulumi / CloudFormation review — state management, module contract, plan output, drift detection, security scan (tfsec/checkov/OPA), cost diff (Infracost). Plan ≠ apply disiplini.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

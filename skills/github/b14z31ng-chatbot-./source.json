@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "b14z31ng-chatbot-.",
+  "source": "github",
+  "source_url": "https://github.com/b14z31ng/chatbot/blob/b1e5c49016850cee47bc5485377075e623442e04/skill.md",
+  "download_url": "https://github.com/b14z31ng/chatbot/blob/b1e5c49016850cee47bc5485377075e623442e04/skill.md",
+  "external_source_url": "https://github.com/b14z31ng/chatbot/blob/b1e5c49016850cee47bc5485377075e623442e04/skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "b14z31ng/chatbot",
+    "path": "skill.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

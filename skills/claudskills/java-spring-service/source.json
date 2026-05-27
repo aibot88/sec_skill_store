@@ -1,0 +1,18 @@
+{
+  "name": "java-spring-service",
+  "slug": "java-spring-service",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/java-spring-service/",
+  "download_url": "https://claudskills.com/skills/java-spring-service/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Creates complete Spring Boot services following best practices and layered architecture. Use when building REST APIs, creating Spring services, setting up controllers, implementing repositories, adding Spring Boot applications, configuring dependency injection, creating RESTful endpoints, adding OpenAPI documentation, or building microservices. Works with Spring Boot 2.x and 3.x, Spring Data JPA, Spring Web, and Spring Security.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

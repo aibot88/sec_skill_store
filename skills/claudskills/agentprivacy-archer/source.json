@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-archer",
+  "slug": "agentprivacy-archer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-archer/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-archer/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Precision Strike Operative (Ranger variant) for 0xagentprivacy. Activates for single-property disclosure operations, maximum-precision minimum-residue proofs, targeted credential verification, or any task requiring surgical privacy operations — reveal exactly one truth and leave no trace.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

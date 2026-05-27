@@ -1,0 +1,18 @@
+{
+  "name": "meituan-passport-user-auth",
+  "slug": "meituan-passport-user-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/meituan-passport-user-auth/",
+  "download_url": "https://claudskills.com/skills/meituan-passport-user-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "美团 Passport 用户授权登录 Skill。通过 mt-passport CLI 获取授权链接，展示给用户完成确认后轮询拿到鉴权凭证（登录态 Token）。当用户需要通过美团授权获取 Token、Agent 自动登录美团时使用。触发词：美团授权登录、获取授权码、获取 token、token 授权、meituan passport auth、passport auth、passport 登录、触发登录、触发美团登录、美团用户登录授权、美团登录、重新授权、强制刷新 token。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

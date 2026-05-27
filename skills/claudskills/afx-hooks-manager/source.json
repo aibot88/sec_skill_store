@@ -1,0 +1,18 @@
+{
+  "name": "hooks-manager",
+  "slug": "afx-hooks-manager",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/afx-hooks-manager/",
+  "download_url": "https://claudskills.com/skills/afx-hooks-manager/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect project tech stack and configure Claude Code hooks for mechanical enforcement of linting and security rules. Use this skill when a user wants to set up hooks, configure auto-linting, add security guards, or move from advisory CLAUDE.md rules to mechanical enforcement.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "custom-logging-and-monitoring",
+  "slug": "custom-logging-and-monitoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/custom-logging-and-monitoring/",
+  "download_url": "https://claudskills.com/skills/custom-logging-and-monitoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing or implementing a custom logging framework in Apex: log sObject schema, log level gating, retention policies, batch purge jobs, and forwarding logs to external monitoring systems (Splunk, Datadog, etc.). NOT for built-in debug logs or Developer Console (use debug-logs-and-developer-console), NOT for exception capture and error propagation (use error-handling-framework), NOT for Event Monitoring (use security skills).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

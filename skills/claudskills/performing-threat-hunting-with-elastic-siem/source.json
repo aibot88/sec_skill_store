@@ -1,0 +1,18 @@
+{
+  "name": "performing-threat-hunting-with-elastic-siem",
+  "slug": "performing-threat-hunting-with-elastic-siem",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-threat-hunting-with-elastic-siem/",
+  "download_url": "https://claudskills.com/skills/performing-threat-hunting-with-elastic-siem/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Performs proactive threat hunting in Elastic Security SIEM using KQL/EQL queries, detection rules, and Timeline",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "mission-control-security-review",
+  "slug": "mission-control-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mission-control-security-review/",
+  "download_url": "https://claudskills.com/skills/mission-control-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "AGPL-3.0",
+  "description": "Ask Mission Control for a security review. Use when the user wants secrets risk, auth risk, dependency risk, command safety, file permission risk, deployment exposure, risky code patterns, or remediation planning summarized through Mission Control.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

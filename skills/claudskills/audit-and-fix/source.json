@@ -1,0 +1,18 @@
+{
+  "name": "audit-and-fix",
+  "slug": "audit-and-fix",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-and-fix/",
+  "download_url": "https://claudskills.com/skills/audit-and-fix/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Composite: security audit -> production upgrade -> self-evaluation. Use when user says 'audit', 'check the codebase', 'find and fix issues', or 'is this production-ready'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

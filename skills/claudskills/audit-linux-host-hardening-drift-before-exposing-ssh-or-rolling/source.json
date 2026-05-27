@@ -1,0 +1,18 @@
+{
+  "name": "audit-linux-host-hardening-drift-before-exposing-ssh-or-rolling-",
+  "slug": "audit-linux-host-hardening-drift-before-exposing-ssh-or-rolling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-linux-host-hardening-drift-before-exposing-ssh-or-rolling-/",
+  "download_url": "https://claudskills.com/skills/audit-linux-host-hardening-drift-before-exposing-ssh-or-rolling-/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Uses Lynis to run an on-host security audit and turn the findings into a prioritized hardening checklist for an agent or operator. Invoke it when a machine is about to become internet-facing, after base image changes, or whenever you need a quick read on hardening drift instead of a generic vulnerability scan.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ux-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

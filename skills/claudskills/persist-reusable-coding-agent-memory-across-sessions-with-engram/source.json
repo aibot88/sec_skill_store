@@ -1,0 +1,18 @@
+{
+  "name": "persist-reusable-coding-agent-memory-across-sessions-with-engram",
+  "slug": "persist-reusable-coding-agent-memory-across-sessions-with-engram",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/persist-reusable-coding-agent-memory-across-sessions-with-engram/",
+  "download_url": "https://claudskills.com/skills/persist-reusable-coding-agent-memory-across-sessions-with-engram/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Keep searchable long-term memory for coding agents in a local SQLite store and expose it through MCP when sessions keep forgetting prior decisions, conventions, and useful findings.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

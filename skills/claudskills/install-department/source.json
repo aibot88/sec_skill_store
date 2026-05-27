@@ -1,0 +1,18 @@
+{
+  "name": "install-department",
+  "slug": "install-department",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/install-department/",
+  "download_url": "https://claudskills.com/skills/install-department/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Install a department's slice of the company brain via multi-agent probes of the head's connected tools (Notion, HubSpot, Linear, Slack, Granola, Gmail, etc., via Syroco Connect / Pipedream) plus a structured methodology interview. Produces a Department Spec the runtime can index — covering tools-in-use, roles, cadence, decision flow, taxonomy, automations, and metrics. Use when a department head bootstraps their function into the brain — typically the first install per function (Marketing, Sales, Product, Engineering, Finance, CSM, Support). Do NOT use for one-off knowledge capture, code-context indexing (use context-engineering), or updating an already-installed department.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

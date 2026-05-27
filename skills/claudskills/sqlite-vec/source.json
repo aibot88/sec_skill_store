@@ -1,0 +1,18 @@
+{
+  "name": "sqlite-vec",
+  "slug": "sqlite-vec",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sqlite-vec/",
+  "download_url": "https://claudskills.com/skills/sqlite-vec/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "sqlite-vec extension for vector similarity search in SQLite. Use when storing embeddings, performing KNN queries, or building semantic search features. Triggers on sqlite-vec, vec0, MATCH, vec_distance, partition key, float[N], int8[N], bit[N], serialize_float32, serialize_int8, vec_f32, vec_int8, vec_bit, vec_normalize, vec_quantize_binary, distance_metric, metadata columns, auxiliary columns.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

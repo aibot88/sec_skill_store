@@ -1,0 +1,18 @@
+{
+  "name": "npsp-trigger-framework-extension",
+  "slug": "npsp-trigger-framework-extension",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/npsp-trigger-framework-extension/",
+  "download_url": "https://claudskills.com/skills/npsp-trigger-framework-extension/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when extending the NPSP Trigger-Driven Trigger Management (TDTM) framework with custom Apex handler classes — covering class authorship, DmlWrapper return patterns, Trigger_Handler__c registration, load order, recursion guards, and test isolation. NOT for standard Apex triggers outside of NPSP, general trigger-handler framework design, or Nonprofit Cloud (NPC) which replaced NPSP in new orgs.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

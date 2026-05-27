@@ -1,0 +1,18 @@
+{
+  "name": "astro-6",
+  "slug": "astro-6",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/astro-6/",
+  "download_url": "https://claudskills.com/skills/astro-6/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Expert Astro 6 framework — routing, output modes, middleware, Vite Environment API, Rust compiler, Content Security Policy, Live Collections, Fonts API. Use when building Astro sites, configuring output, or upgrading from Astro 5.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

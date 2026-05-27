@@ -1,0 +1,18 @@
+{
+  "name": "medical-research-algorithm-matcher",
+  "slug": "medical-research-algorithm-matcher",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/medical-research-algorithm-matcher/",
+  "download_url": "https://claudskills.com/skills/medical-research-algorithm-matcher/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Matches a user’s biomedical research direction, disease problem, study aim, data modality, and resource constraints to the most relevant recent algorithms and method papers. Always search real recent algorithm literature first, prioritize the last 12 months, expand to 1–3 years only when needed, and add canonical baselines only when necessary. Every formal algorithm recommendation must include the verified primary method paper, plus published downstream papers that actually cite/use the algorithm when such papers are found, with DOI when available. Never fabricate papers, algorithm names, authors, journals, years, DOI, PMID, links, or benchmark claims. If no directly verified algorithm paper is found, say so explicitly.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "biology-medicine",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

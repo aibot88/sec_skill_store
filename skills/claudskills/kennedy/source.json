@@ -1,0 +1,18 @@
+{
+  "name": "kennedy-mechanical-sympathy",
+  "slug": "kennedy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kennedy/",
+  "download_url": "https://claudskills.com/skills/kennedy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Write Go code in the style of Bill Kennedy, author of Go in Action. Emphasizes mechanical sympathy, data-oriented design, and understanding how Go code executes. Use when writing performance-critical Go or when teaching Go fundamentals.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

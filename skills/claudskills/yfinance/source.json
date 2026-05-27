@@ -1,0 +1,18 @@
+{
+  "name": "yfinance",
+  "slug": "yfinance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/yfinance/",
+  "download_url": "https://claudskills.com/skills/yfinance/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Fetch Yahoo Finance market data via the yfinance library. Use for stock, ETF, mutual fund, index, crypto, futures, or FX questions — current quotes, historical OHLCV (daily / intraday), and company / fund fundamentals (P/E, dividend yield, sector, analyst targets, AUM, etc.). Triggers include \"current price\", \"YTD performance\", \"N-year chart\", \"P/E ratio\", \"compare/rank tickers\", \"what does X do\", and non-US tickers like 0700.HK or BMW.DE.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

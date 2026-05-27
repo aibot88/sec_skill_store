@@ -1,0 +1,19 @@
+{
+  "name": "extending",
+  "slug": "parhumm-jaan-to-docs-extending",
+  "source": "github",
+  "source_url": "https://github.com/parhumm/jaan-to/blob/19e105e43ca6778032ef0c7af9e19cc95dae6cd3/docs/extending/create-skill.md",
+  "download_url": "https://github.com/parhumm/jaan-to/blob/19e105e43ca6778032ef0c7af9e19cc95dae6cd3/docs/extending/create-skill.md",
+  "external_source_url": "https://github.com/parhumm/jaan-to/blob/19e105e43ca6778032ef0c7af9e19cc95dae6cd3/docs/extending/create-skill.md",
+  "license": "",
+  "description": "Work, simplified. Results, reliable.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "parhumm/jaan-to",
+    "path": "docs/extending/create-skill.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

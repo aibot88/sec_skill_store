@@ -1,0 +1,18 @@
+{
+  "name": "iso42001-ai-management",
+  "slug": "iso42001-ai-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/iso42001-ai-management/",
+  "download_url": "https://claudskills.com/skills/iso42001-ai-management/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT + Commons Clause",
+  "description": "ISO 42001 AI Management System compliance automation. Assesses organizational readiness for AIMS certification, evaluates AI system impacts, validates governance structures, and checks Annex A controls. Use for ISO 42001 readiness assessments, AI governance planning, AI impact assessments, responsible AI implementation, and AIMS certification preparation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

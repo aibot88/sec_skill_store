@@ -1,0 +1,18 @@
+{
+  "name": "dev-standards",
+  "slug": "dev-standards",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-standards/",
+  "download_url": "https://claudskills.com/skills/dev-standards/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "i-Willink 共通開発標準。スタック非依存の汎用層（TypeScript strict / Conventional Commits / OWASP / テスト方針 / コミット粒度）。各 agent が起動時に preload する。プロジェクト固有の規約は `project-standards` skill 側に書く。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

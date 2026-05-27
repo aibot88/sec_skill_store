@@ -1,0 +1,18 @@
+{
+  "name": "flow-runtime-context-and-sharing",
+  "slug": "flow-runtime-context-and-sharing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flow-runtime-context-and-sharing/",
+  "download_url": "https://claudskills.com/skills/flow-runtime-context-and-sharing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Decide and audit the security boundary a Flow runs at — System Context With Sharing, System Context Without Sharing, or User Context — plus the per-element runInMode override and the implications for sharing rules, FLS, CRUD, and $User/$Profile/$Permission merge fields. NOT for Apex sharing keywords (see apex/with-without-sharing-and-context). NOT for record-access troubleshooting at the user level (see security/record-access-troubleshooting).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "zero-trust",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

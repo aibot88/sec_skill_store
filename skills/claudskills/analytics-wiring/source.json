@@ -1,0 +1,18 @@
+{
+  "name": "analytics-wiring",
+  "slug": "analytics-wiring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analytics-wiring/",
+  "download_url": "https://claudskills.com/skills/analytics-wiring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "When a page or stack needs analytics instrumentation - event tracking, conversion goals, funnel events, consent banners. Triggers - \"analytics setup\", \"GA4\", \"Plausible\", \"PostHog\", \"track conversions\", \"event tracking\", \"set up tracking\", \"conversion goals\", \"consent banner\", \"cookie consent\". Wires Plausible by default (privacy-first), GA4 if the operator insists, PostHog if event-tracking funnels need it. Standardizes event names across the toolkit.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

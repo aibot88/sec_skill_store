@@ -1,0 +1,18 @@
+{
+  "name": "feed-curator",
+  "slug": "feed-curator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/feed-curator/",
+  "download_url": "https://claudskills.com/skills/feed-curator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fetch raw feed items from feed-server to Inbox/feeds/raw/ with dedupe and noise filter. Does NOT summarize, classify P0-P3, write knowledge notes, or update daily note — those steps are removed (2026-05-01 redesign: AI no longer authors substance into knowledge/).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

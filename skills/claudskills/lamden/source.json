@@ -1,0 +1,18 @@
+{
+  "name": "lamden",
+  "slug": "lamden",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lamden/",
+  "download_url": "https://claudskills.com/skills/lamden/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Lamden integration. Manage blockchain and crypto data, records, and workflows. Use when the user wants to interact with Lamden data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

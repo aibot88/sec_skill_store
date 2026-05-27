@@ -1,0 +1,18 @@
+{
+  "name": "agentforce-in-slack",
+  "slug": "agentforce-in-slack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentforce-in-slack/",
+  "download_url": "https://claudskills.com/skills/agentforce-in-slack/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when configuring Slack-specific Agentforce capabilities AFTER the basic Slack deployment is complete: enabling Slack-native actions, managing public vs. private action scope, mapping Salesforce-to-Slack user identity, or troubleshooting Slack action failures. Triggers: 'add General Slack Actions topic to agent', 'configure canvas creation for Agentforce in Slack', 'Agentforce private action requires user identity mapping', 'Slack agent cannot send DMs after deployment', 'Agentforce Look Up User action not working in Slack', 'how to map Slack users to Salesforce identities for private actions'. NOT for core Agentforce setup, NOT for basic Slack OAuth installation or DM vs channel-mention mode — those are covered by agentforce/agent-channel-deployment.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

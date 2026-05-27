@@ -1,0 +1,18 @@
+{
+  "name": "ring:dev-frontend-performance",
+  "slug": "dev-frontend-performance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-frontend-performance/",
+  "download_url": "https://claudskills.com/skills/dev-frontend-performance/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Gate 6 of frontend development cycle — ensures Core Web Vitals compliance, Lighthouse performance score > 90, and bundle size within budget.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

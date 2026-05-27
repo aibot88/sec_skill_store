@@ -1,0 +1,18 @@
+{
+  "name": "agent-file-engine",
+  "slug": "agent-file-engine",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-file-engine/",
+  "download_url": "https://claudskills.com/skills/agent-file-engine/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Repository-specific AGENTS.md authoring and maintenance workflow. Use when creating, refreshing, or expanding AGENTS.md coverage for a codebase, including deciding whether nested AGENTS.md files are needed for subsystems with distinct rules, workflows, or AI-sensitive constraints.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

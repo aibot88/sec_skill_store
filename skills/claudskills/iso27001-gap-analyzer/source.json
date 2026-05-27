@@ -1,0 +1,18 @@
+{
+  "name": "iso27001-gap-analyzer",
+  "slug": "iso27001-gap-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/iso27001-gap-analyzer/",
+  "download_url": "https://claudskills.com/skills/iso27001-gap-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Iso27001 Gap Analyzer - Auto-activating skill for Security Advanced. Triggers on: iso27001 gap analyzer, iso27001 gap analyzer Part of the Security Advanced skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

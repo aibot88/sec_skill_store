@@ -1,0 +1,18 @@
+{
+  "name": "firm-observability-pack",
+  "slug": "firm-observability-pack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firm-observability-pack/",
+  "download_url": "https://claudskills.com/skills/firm-observability-pack/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Observability pipeline and CI audit pack. JSONL-to-SQLite trace ingestion and CI workflow validation. 2 observability tools.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

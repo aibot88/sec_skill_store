@@ -1,0 +1,18 @@
+{
+  "name": "convex-backend",
+  "slug": "convex-backend",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/convex-backend/",
+  "download_url": "https://claudskills.com/skills/convex-backend/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build real-time, reactive backend applications with Convex using TypeScript queries, mutations, and actions with automatic reactivity and optimistic updates. Use when building real-time collaborative applications, implementing reactive data synchronization, writing serverless backend functions, creating queries that auto-update, implementing mutations with transactional guarantees, handling file uploads with Convex storage, implementing authentication with Convex Auth, designing reactive database schemas, or building applications requiring instant data synchronization.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

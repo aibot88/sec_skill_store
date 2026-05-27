@@ -1,0 +1,18 @@
+{
+  "name": "go-ffi-abi-expert",
+  "slug": "skill-specs-old",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-specs-old/",
+  "download_url": "https://claudskills.com/skills/skill-specs-old/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Especialista PhD em engenharia de sistemas com foco em FFI (Foreign Function Interface), ABI (Application Binary Interface), Go runtime, purego, SDL3 bindings e problemas de compatibilidade em arquiteturas 32-bit (x86/386) e 64-bit. Use esta skill sempre que o usuário mencionar: purego, go-sdl3, FFI em Go, problemas com float32 em 32-bit, calling conventions (cdecl/stdcall), cgo vs purego, bindings C/Go, wrappers de biblioteca nativa, GOARCH=386, ABI de float, SDL3 render/input/math, geração automática de bindings, ou qualquer problema de interoperabilidade Go ↔ C. Ative também para questões sobre instabilidade de chamadas dinâmicas, comportamento indefinido em FFI, ou quando o usuário perguntar \"por que minha função C com float falha no Go\". Inclua sugestões concretas de solução, trade-offs e código real quando apropriado. Mantenha o foco rigorosamente no domínio FFI/ABI/Go — evite desvios. Responda sempre em português do Brasil.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

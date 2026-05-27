@@ -1,0 +1,18 @@
+{
+  "name": "windsurf-audit-logging",
+  "slug": "windsurf-audit-logging",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/windsurf-audit-logging/",
+  "download_url": "https://claudskills.com/skills/windsurf-audit-logging/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure AI interaction audit logging for compliance. Activate when users mention \"audit logging\", \"compliance logging\", \"ai interaction logs\", \"security audit\", or \"activity tracking\". Handles compliance and audit configuration. Use when analyzing or auditing windsurf audit logging. Trigger with phrases like \"windsurf audit logging\", \"windsurf logging\", \"windsurf\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

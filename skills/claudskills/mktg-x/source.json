@@ -1,0 +1,18 @@
+{
+  "name": "mktg-x",
+  "slug": "mktg-x",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mktg-x/",
+  "download_url": "https://claudskills.com/skills/mktg-x/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Read tweets, threads, bookmarks, articles, and user timelines on X (formerly Twitter) using an authenticated GraphQL flow. Use this skill whenever the user mentions a tweet URL, a Twitter thread, an X bookmark, a Twitter article, reading their X bookmarks, pulling a thread, or grabbing X content — even if they don't explicitly say 'use mktg-x'. Requires MKTG_X_AUTH_TOKEN and MKTG_X_CT0 env vars. Do NOT firecrawl x.com URLs — Twitter serves a degraded logged-out page and firecrawl will return the login wall. mktg-x is the only path for auth-walled X content.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Electrobun Testing",
+  "slug": "electrobun-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/electrobun-testing/",
+  "download_url": "https://claudskills.com/skills/electrobun-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when writing Electrobun tests, adding test coverage to the Kitchen Sink, implementing the defineTest() pattern, generating new test suites, understanding what the kitchen sink tests, or reverse-engineering component behaviour from test source. Activates on test authoring, test framework, or test-driven development questions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

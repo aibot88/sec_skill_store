@@ -1,0 +1,18 @@
+{
+  "name": "photino-powershell-integration",
+  "slug": "powershell-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/powershell-integration/",
+  "download_url": "https://claudskills.com/skills/powershell-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "PowerShell SDK integration in Photino.NET: runspace architecture, SessionManager, streaming execution, TabExpansion2, function injection, PSObject conversion, disposal patterns. PowerShell SDK嵌入Photino.NET。 Use when: embedding PowerShell in .NET app, managing runspace lifecycle, implementing tab completion, injecting functions, serializing PSObjects",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

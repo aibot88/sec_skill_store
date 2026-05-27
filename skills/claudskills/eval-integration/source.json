@@ -1,0 +1,18 @@
+{
+  "name": "eval-integration",
+  "slug": "eval-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eval-integration/",
+  "download_url": "https://claudskills.com/skills/eval-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Specialized integration evaluator for the Evaluate-Loop. Use this for evaluating tracks that integrate external services — Supabase auth/DB, Stripe payments, Gemini API, third-party APIs. Checks API contracts, auth flows, data persistence, error recovery, environment config, and end-to-end flow integrity. Dispatched by loop-execution-evaluator when track type is 'integration', 'auth', 'payments', or 'api'. Triggered by: 'evaluate integration', 'test auth flow', 'check API', 'verify payments'.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

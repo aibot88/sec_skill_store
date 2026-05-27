@@ -1,0 +1,18 @@
+{
+  "name": "clarification-phase",
+  "slug": "clarification-phase",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clarification-phase/",
+  "download_url": "https://claudskills.com/skills/clarification-phase/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Executes the /clarify phase using AskUserQuestion tool to resolve ambiguities through structured questions (≤3), prioritization, and answer integration. Use when spec.md contains [NEEDS CLARIFICATION] markers, when requirements need disambiguation, or when running /clarify command to resolve critical scope/security/UX ambiguities before planning. (project)",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dark-factories-publish",
+  "slug": "dark-factories-publish",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dark-factories-publish/",
+  "download_url": "https://claudskills.com/skills/dark-factories-publish/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Versioniert alle Dark-Factories aus ~/Projects/dark-factories/ nach meokemmer-jpg/kemmer-knowledge-system GitHub (Subdir dark-factories/). Filtert Runtime-State (runs/, output/, learnings/, __pycache__, .venv, STOP.flag, secrets). Triggers \"publish dark factories\", \"push dfs\", \"versioniere dark-factories\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "knowledge-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

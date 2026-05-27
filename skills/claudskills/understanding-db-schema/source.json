@@ -1,0 +1,18 @@
+{
+  "name": "understanding-db-schema",
+  "slug": "understanding-db-schema",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/understanding-db-schema/",
+  "download_url": "https://claudskills.com/skills/understanding-db-schema/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deep expertise in Logseq's Datascript database schema. Auto-invokes when users ask about Logseq DB schema, Datascript attributes, built-in classes, property types, entity relationships, schema validation, or the node/block/page data model. Provides authoritative knowledge of the DB graph architecture.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:31+00:00"
+}

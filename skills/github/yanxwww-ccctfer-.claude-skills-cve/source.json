@@ -1,0 +1,19 @@
+{
+  "name": "cve",
+  "slug": "yanxwww-ccctfer-.claude-skills-cve",
+  "source": "github",
+  "source_url": "https://github.com/yanxwww/ccctfer/blob/a9154a6a0ae461c8ec7573b024d813d1d27b8430/.claude/skills/cve/SKILL.md",
+  "download_url": "https://github.com/yanxwww/ccctfer/blob/a9154a6a0ae461c8ec7573b024d813d1d27b8430/.claude/skills/cve/SKILL.md",
+  "external_source_url": "https://github.com/yanxwww/ccctfer/blob/a9154a6a0ae461c8ec7573b024d813d1d27b8430/.claude/skills/cve/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "yanxwww/ccctfer",
+    "path": ".claude/skills/cve/SKILL.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

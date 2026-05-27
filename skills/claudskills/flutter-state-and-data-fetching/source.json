@@ -1,0 +1,18 @@
+{
+  "name": "flutter-state-and-data-fetching",
+  "slug": "flutter-state-and-data-fetching",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flutter-state-and-data-fetching/",
+  "download_url": "https://claudskills.com/skills/flutter-state-and-data-fetching/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when wiring state management, the network layer, caching, offline behavior, auth-token plumbing, push-notification delivery, or background sync into a Flutter application after the app scaffold exists and mobile architecture is approved or intentionally deferred. Produces the state-management wiring named in mobile-architecture.md (extending the scaffold's DI/session shell), a typed network layer honoring the API contract, secure token storage with single-flight refresh, a durable offline mutation queue, optimistic-update posture with rollback, push-notification delivery wiring, and background-sync tasks feeding the data layer. Do not use for app scaffolding, navigation topology or route-level auth gates, deep-link route resolution, design-system or accessibility integration, or performance budget enforcement; use the other Flutter archetype skills instead.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-system-ui",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

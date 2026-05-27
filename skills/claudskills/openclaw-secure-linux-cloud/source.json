@@ -1,0 +1,18 @@
+{
+  "name": "openclaw-secure-linux-cloud",
+  "slug": "openclaw-secure-linux-cloud",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/openclaw-secure-linux-cloud/",
+  "download_url": "https://claudskills.com/skills/openclaw-secure-linux-cloud/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when self-hosting OpenClaw on a cloud server, hardening a remote OpenClaw gateway, choosing between SSH tunneling, Tailscale, or reverse-proxy exposure, or reviewing Podman, pairing, sandboxing, token auth, and tool-permission defaults for a secure personal deployment.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ux-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

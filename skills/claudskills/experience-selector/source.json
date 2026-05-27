@@ -1,0 +1,18 @@
+{
+  "name": "experience-selector",
+  "slug": "experience-selector",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/experience-selector/",
+  "download_url": "https://claudskills.com/skills/experience-selector/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Selects the most relevant experiences, projects, awards, and credentials from the master context based on JD keywords.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

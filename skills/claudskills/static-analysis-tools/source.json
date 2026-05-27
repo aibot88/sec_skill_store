@@ -1,0 +1,18 @@
+{
+  "name": "Static Analysis Tools Skill",
+  "slug": "static-analysis-tools",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/static-analysis-tools/",
+  "download_url": "https://claudskills.com/skills/static-analysis-tools/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Integration with security-focused static analysis tools",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

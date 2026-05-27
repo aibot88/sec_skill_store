@@ -1,0 +1,18 @@
+{
+  "name": "intercepting-mobile-traffic-with-burpsuite",
+  "slug": "intercepting-mobile-traffic-with-burpsuite",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/intercepting-mobile-traffic-with-burpsuite/",
+  "download_url": "https://claudskills.com/skills/intercepting-mobile-traffic-with-burpsuite/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Intercepts and analyzes HTTP/HTTPS traffic from mobile applications using Burp Suite proxy to identify insecure",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

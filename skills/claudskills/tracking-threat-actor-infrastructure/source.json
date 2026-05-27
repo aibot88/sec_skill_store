@@ -1,0 +1,18 @@
+{
+  "name": "tracking-threat-actor-infrastructure",
+  "slug": "tracking-threat-actor-infrastructure",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tracking-threat-actor-infrastructure/",
+  "download_url": "https://claudskills.com/skills/tracking-threat-actor-infrastructure/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Threat actor infrastructure tracking involves monitoring and mapping adversary-controlled assets including command-and-control",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

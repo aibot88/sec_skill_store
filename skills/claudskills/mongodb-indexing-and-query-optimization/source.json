@@ -1,0 +1,18 @@
+{
+  "name": "mongodb-indexing-and-query-optimization",
+  "slug": "mongodb-indexing-and-query-optimization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mongodb-indexing-and-query-optimization/",
+  "download_url": "https://claudskills.com/skills/mongodb-indexing-and-query-optimization/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when auditing or optimizing MongoDB query and aggregation performance for an existing data model after data-architecture and the data model exist and performance has set the query SLOs. Produces an explain(\"executionStats\")-driven query review, an index audit (compound/multikey/text/geo/TTL/partial/wildcard), aggregation-pipeline cost review, projection and collation posture, shard-key effectiveness analysis, and profiler-driven hot-collection identification with a remediation plan. Do not use for document modeling, validator or shard-key choice, replication topology, backup, security hardening, or ODM/repository query code; use the other Family B archetype skills (modeling/shard-key is data-model-and-migration; ODM code is the backend skill).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

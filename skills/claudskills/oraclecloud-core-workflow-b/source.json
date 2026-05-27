@@ -1,0 +1,18 @@
+{
+  "name": "oraclecloud-core-workflow-b",
+  "slug": "oraclecloud-core-workflow-b",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oraclecloud-core-workflow-b/",
+  "download_url": "https://claudskills.com/skills/oraclecloud-core-workflow-b/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Build OCI networking from scratch — VCN, subnets, gateways, and security rules. Use when creating a new VCN, debugging connectivity issues, or setting up security lists and NSGs. Trigger with \"oci networking\", \"vcn setup\", \"security list\", \"nsg rules\", \"oci subnet\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sast-analyzer",
+  "slug": "sast-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sast-analyzer/",
+  "download_url": "https://claudskills.com/skills/sast-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Static Application Security Testing orchestration and analysis. Execute Semgrep, Bandit, ESLint security plugins, CodeQL, and other SAST tools. Parse, prioritize, and deduplicate findings across multiple tools with remediation guidance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

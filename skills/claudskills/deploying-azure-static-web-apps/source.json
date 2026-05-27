@@ -1,0 +1,18 @@
+{
+  "name": "deploying-azure-static-web-apps",
+  "slug": "deploying-azure-static-web-apps",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deploying-azure-static-web-apps/",
+  "download_url": "https://claudskills.com/skills/deploying-azure-static-web-apps/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploys React + Azure Functions apps to Azure Static Web Apps with managed API functions, including the CommonJS / index.ts import / route-registration gotchas that make new functions 404 silently. Provides the SWA Bicep module, staticwebapp.config.json routing + security headers, and the API entrypoint convention. Use when scaffolding a SWA-based project, adding a new API function, or fixing a deployed function that returns 404 even though it compiled successfully.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

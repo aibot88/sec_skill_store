@@ -1,0 +1,18 @@
+{
+  "name": "algolia-data-handling",
+  "slug": "algolia-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/algolia-data-handling/",
+  "download_url": "https://claudskills.com/skills/algolia-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Algolia data handling: record transforms, PII filtering before indexing, data retention, GDPR/CCPA compliance with Algolia's deleteByQuery and Insights deletion. Trigger: \"algolia data\", \"algolia PII\", \"algolia GDPR\", \"algolia data retention\", \"algolia privacy\", \"algolia CCPA\", \"algolia data sync\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

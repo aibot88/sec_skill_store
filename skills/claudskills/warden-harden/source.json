@@ -1,0 +1,18 @@
+{
+  "name": "warden-harden",
+  "slug": "warden-harden",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/warden-harden/",
+  "download_url": "https://claudskills.com/skills/warden-harden/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Produce a hardening spec and implement it — auth patterns, security headers, rate limiting, input validation, secrets management, dependency hygiene. Use when asked to \"harden this\", \"add security to this service\", \"what security do I need\", or \"secure this before launch\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

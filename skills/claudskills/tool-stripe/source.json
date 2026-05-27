@@ -1,0 +1,18 @@
+{
+  "name": "tool-stripe",
+  "slug": "tool-stripe",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tool-stripe/",
+  "download_url": "https://claudskills.com/skills/tool-stripe/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Historical stub. This Go binary did not ship in public v0.3.x; current Stripe/payments work should be revived only behind a fresh decision and explicit provider gates.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

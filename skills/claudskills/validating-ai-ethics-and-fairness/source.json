@@ -1,0 +1,18 @@
+{
+  "name": "validating-ai-ethics-and-fairness",
+  "slug": "validating-ai-ethics-and-fairness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/validating-ai-ethics-and-fairness/",
+  "download_url": "https://claudskills.com/skills/validating-ai-ethics-and-fairness/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Validate AI/ML models and datasets for bias, fairness, and ethical concerns. Use when auditing AI systems for ethical compliance, fairness assessment, or bias detection. Trigger with phrases like \"evaluate model fairness\", \"check for bias\", or \"validate AI ethics\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

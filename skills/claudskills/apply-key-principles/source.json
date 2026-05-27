@@ -1,0 +1,18 @@
+{
+  "name": "apply-key-principles",
+  "slug": "apply-key-principles",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/apply-key-principles/",
+  "download_url": "https://claudskills.com/skills/apply-key-principles/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply and validate the 7 Key Principles to code - TDD, Fail Fast, Modular, Reuse, Open Source, No Debt, Excellence. Checks code compliance and suggests improvements. Use during code review or refactoring.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

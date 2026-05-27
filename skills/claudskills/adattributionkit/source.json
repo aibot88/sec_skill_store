@@ -1,0 +1,18 @@
+{
+  "name": "adattributionkit",
+  "slug": "adattributionkit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/adattributionkit/",
+  "download_url": "https://claudskills.com/skills/adattributionkit/SKILL.md",
+  "external_source_url": "",
+  "license": "NOASSERTION",
+  "description": "Measure ad effectiveness with privacy-preserving attribution using AdAttributionKit. Use when registering ad impressions, handling attribution postbacks, updating conversion values, implementing re-engagement attribution, configuring publisher or advertiser apps, or replacing SKAdNetwork with AdAttributionKit for ad measurement.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "security-and-trust-boundaries",
+  "slug": "security-and-trust-boundaries",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-and-trust-boundaries/",
+  "download_url": "https://claudskills.com/skills/security-and-trust-boundaries/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when writing or reviewing code that parses user input, builds SQL/shell commands, handles secrets/credentials, hashes passwords, changes auth checks, deserializes untrusted data, or constructs paths/URLs from input",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

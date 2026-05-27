@@ -1,0 +1,18 @@
+{
+  "name": "compliance-evidence-collector",
+  "slug": "compliance-evidence-collector",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/compliance-evidence-collector/",
+  "download_url": "https://claudskills.com/skills/compliance-evidence-collector/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automated evidence collection across compliance frameworks from cloud providers, identity systems, and security tools",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

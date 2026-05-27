@@ -1,0 +1,18 @@
+{
+  "name": "eval-injection-test",
+  "slug": "eval-injection-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eval-injection-skill/",
+  "download_url": "https://claudskills.com/skills/eval-injection-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Skill with injected eval patterns for security testing",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

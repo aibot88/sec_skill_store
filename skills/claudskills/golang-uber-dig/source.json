@@ -1,0 +1,18 @@
+{
+  "name": "golang-uber-dig",
+  "slug": "golang-uber-dig",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/golang-uber-dig/",
+  "download_url": "https://claudskills.com/skills/golang-uber-dig/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implements dependency injection in Golang using uber-go/dig — reflection-based container, Provide/Invoke, dig.In/dig.Out parameter and result objects, named values, value groups, optional dependencies, scopes, and Decorate. Apply when using or adopting uber-go/dig, when the codebase imports `go.uber.org/dig`, or when wiring an application graph at startup. For higher-level lifecycle and modules, see `samber/cc-skills-golang@golang-uber-fx` skill.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

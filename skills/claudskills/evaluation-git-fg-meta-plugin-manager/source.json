@@ -1,0 +1,18 @@
+{
+  "name": "evaluation",
+  "slug": "evaluation-git-fg-meta-plugin-manager",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/evaluation-git-fg-meta-plugin-manager/",
+  "download_url": "https://claudskills.com/skills/evaluation-git-fg-meta-plugin-manager/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Evaluate agent systems with quality gates and LLM-as-judge. Use when you need to measure component quality or implement quality gates. Not for simple unit testing or binary pass/fail checks without nuance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

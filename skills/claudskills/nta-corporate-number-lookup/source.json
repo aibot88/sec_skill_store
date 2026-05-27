@@ -1,0 +1,18 @@
+{
+  "name": "nta-corporate-number-lookup",
+  "slug": "nta-corporate-number-lookup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nta-corporate-number-lookup/",
+  "download_url": "https://claudskills.com/skills/nta-corporate-number-lookup/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Get authoritative Japanese corporate-number record from the National Tax Agency (国税庁) with change history (社名変更 / 移転 / 合併 / 解散). Use for M&A DD, KYC verification, dissolved-company detection, gBizINFO fallback.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "traffic-appeal-letter-drafter-il",
+  "slug": "traffic-appeal-letter-drafter-il",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/traffic-appeal-letter-drafter-il/",
+  "download_url": "https://claudskills.com/skills/traffic-appeal-letter-drafter-il/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Draft a professional Hebrew letter for an Israeli traffic-ticket appeal — בקשה לביטול דו\"ח or בקשה להישפט. Respectful tone, factual claims only, evidence list, requested remedy. Saves draft to ~/.openclaw/workspace/traffic-law-appeal-il/output/. Never sends or files.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

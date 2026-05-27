@@ -1,0 +1,19 @@
+{
+  "name": "osv",
+  "slug": "x-cmd-x-cmd-mod-osv",
+  "source": "github",
+  "source_url": "https://github.com/x-cmd/x-cmd/blob/b0bdf77d149d9448e7485ba1043b4ee65b93f044/mod/osv/SKILL.md",
+  "download_url": "https://github.com/x-cmd/x-cmd/blob/b0bdf77d149d9448e7485ba1043b4ee65b93f044/mod/osv/SKILL.md",
+  "external_source_url": "https://github.com/x-cmd/x-cmd/blob/b0bdf77d149d9448e7485ba1043b4ee65b93f044/mod/osv/SKILL.md",
+  "license": "",
+  "description": "Shell Superpowers for AI Agents.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "x-cmd/x-cmd",
+    "path": "mod/osv/SKILL.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

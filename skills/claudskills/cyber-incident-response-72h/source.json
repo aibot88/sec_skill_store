@@ -1,0 +1,18 @@
+{
+  "name": "cyber-incident-response-72h",
+  "slug": "cyber-incident-response-72h",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cyber-incident-response-72h/",
+  "download_url": "https://claudskills.com/skills/cyber-incident-response-72h/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Strukturierte Sofortmassnahmen bei aktivem Cyber-Vorfall — Hacker-Angriff Ransomware Datenexfiltration Insider-Threat. Phase 1 Sofort-Eindaemmung Netztrennung Forensik-Sicherung. Phase 2 DSGVO-Meldung Art. 33 72 Stunden bei Risiko Betroffenen-Information Art. 34 bei hohem Risiko NIS-2 24-Stunden-Fruehwarnung 72-Stunden-Vorfallsmeldung. Phase 3 Strafanzeige § 202a § 303a § 303b StGB Cybersecurity-Versicherer-Meldung Bestellung Forensik-Dienstleister. Phase 4 Kommunikation Kunden Mitarbeiter Aufsichtsbehoerde. Beweissicherung Chain-of-Custody Mitteilung in Klarsprache fuer Fuehrungsorgan.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "incident-response",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "windsurf-enterprise-sso",
+  "slug": "windsurf-enterprise-sso",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/windsurf-enterprise-sso/",
+  "download_url": "https://claudskills.com/skills/windsurf-enterprise-sso/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure enterprise SSO integration for Windsurf. Activate when users mention \"sso configuration\", \"single sign-on\", \"enterprise authentication\", \"saml setup\", or \"identity provider\". Handles enterprise identity integration. Use when working with windsurf enterprise sso functionality. Trigger with phrases like \"windsurf enterprise sso\", \"windsurf sso\", \"windsurf\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

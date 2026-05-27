@@ -1,0 +1,18 @@
+{
+  "name": "husk",
+  "slug": "husk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/husk/",
+  "download_url": "https://claudskills.com/skills/husk/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Supply-chain malware infection scanner. IoC-based local scan + safe eradication for npm/PyPI worm campaigns (Mini Shai-Hulud 1st/2nd, S1ngularity, lottie-player). Detects OS persistence (LaunchAgent/systemd), IDE-hook implants (.claude/.vscode/.github/workflows), lockfile-pinned malicious versions, and known C2/Session-Protocol exfil traces. Orchestrates credential rotation in the correct order so revocation does not trigger the `rm -rf ~/` retaliation payload. Don't use for static SAST (Sentinel), skill/MCP/`.claude/` supply-chain audit (Chain), Sigma/YARA rule authoring (Vigil), or incident coordination (Triage).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

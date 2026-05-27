@@ -1,0 +1,18 @@
+{
+  "name": "fireflies-data-handling",
+  "slug": "fireflies-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fireflies-data-handling/",
+  "download_url": "https://claudskills.com/skills/fireflies-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Handle Fireflies.ai transcript data: export formats, PII redaction, retention policies, and compliance. Use when exporting transcripts, implementing data redaction, configuring retention, or ensuring GDPR/CCPA compliance. Trigger with phrases like \"fireflies data\", \"fireflies PII\", \"fireflies GDPR\", \"fireflies data retention\", \"fireflies privacy\", \"fireflies export\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

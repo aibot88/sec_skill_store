@@ -1,0 +1,18 @@
+{
+  "name": "eviction-risk",
+  "slug": "eviction-risk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eviction-risk/",
+  "download_url": "https://claudskills.com/skills/eviction-risk/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit a tenant management system for eviction prevention and risk prediction. Evaluates payment pattern analysis and arrears tracking, early warning indicators (financial, behavioral, external), intervention trigger automation, pre-filing mediation workflows, emergency rental assistance integration (ERAP, LIHEAP), legal process tracking with jurisdiction-specific compliance (VAWA, SCRA), and outcome measurement. Use when building or reviewing property management platforms, affordable housing systems, or tenant services applications.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

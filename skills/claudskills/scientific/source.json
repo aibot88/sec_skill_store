@@ -1,0 +1,18 @@
+{
+  "name": "scientific",
+  "slug": "scientific",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scientific/",
+  "download_url": "https://claudskills.com/skills/scientific/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scientific-methodology skills for the SciTeX ecosystem — publication-quality figures, statistics, experiment reproducibility. Distinct from `general/` (which covers package engineering) and per-package skills (which cover package-specific APIs). Load when authoring analysis scripts, preparing figures for manuscripts, or checking scientific rigour of ecosystem output.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "math-stats",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

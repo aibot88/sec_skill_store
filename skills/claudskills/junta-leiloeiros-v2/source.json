@@ -1,0 +1,18 @@
+{
+  "name": "junta-leiloeiros-v2",
+  "slug": "junta-leiloeiros-v2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/junta-leiloeiros-v2/",
+  "download_url": "https://claudskills.com/skills/junta-leiloeiros-v2/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Skill: Leiloeiros das Juntas Comerciais do Brasil workflow skill. Use this skill when the user needs Coleta e consulta dados de leiloeiros oficiais de todas as 27 Juntas Comerciais do Brasil. Scraper multi-UF, banco SQLite, API FastAPI e exportacao CSV/JSON and the operator should preserve the upstream workflow, copied support files, and provenance before merging or handing off.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

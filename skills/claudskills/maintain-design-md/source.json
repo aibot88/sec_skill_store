@@ -1,0 +1,18 @@
+{
+  "name": "maintain-design-md",
+  "slug": "maintain-design-md",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/maintain-design-md/",
+  "download_url": "https://claudskills.com/skills/maintain-design-md/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "How to author and maintain a `DESIGN.md` file at the root of any Lossless project (site, splash page, plugin landing, fundraise deck) following Google Stitch's open spec. Use whenever a project is missing a `DESIGN.md` and an agent needs the project's visual identity in machine-readable form; whenever the user mentions \"design tokens\", \"design system\", \"DESIGN.md\", or \"Stitch spec\"; whenever theme/CSS-token work changes the runtime values (new CSS custom property in `:root`, renamed token, new mode, new component pattern, refreshed palette, refreshed typography scale) and the documented contract has drifted; whenever a sibling skill (`generate-consistent-og-images`, `theme-system`, `astro-knots`) needs to read locked design values; whenever the user says \"the agent doesn't know what color we use\" or \"let's write down the design system.\" Encodes (1) the Stitch spec's frontmatter token groups (colors, typography, rounded, spacing, components) and the eight prose sections in canonical order, (2) the maintenance triggers — what kinds of code changes should bounce back into the document, (3) the \"runtime CSS is source of truth, DESIGN.md is the contract\" discipline, (4) the precedent for off-spec extensions like an `imagery:` block, (5) anti-patterns. The skill never sees an API key or makes network calls — it's a pure-document discipline.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

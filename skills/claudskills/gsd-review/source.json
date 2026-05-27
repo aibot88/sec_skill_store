@@ -1,0 +1,18 @@
+{
+  "name": "gsd-review",
+  "slug": "gsd-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gsd-review/",
+  "download_url": "https://claudskills.com/skills/gsd-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review changed files for bugs, security issues, and code quality; produce REVIEW.md",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

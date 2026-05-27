@@ -1,0 +1,18 @@
+{
+  "name": "baseline-and-review-repository-secret-findings-with-detect-secre",
+  "slug": "baseline-and-review-repository-secret-findings-with-detect-secre",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/baseline-and-review-repository-secret-findings-with-detect-secre/",
+  "download_url": "https://claudskills.com/skills/baseline-and-review-repository-secret-findings-with-detect-secre/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scan a repository for secrets, keep an auditable baseline, and review only newly introduced findings during commits or CI checks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:03+00:00"
+}

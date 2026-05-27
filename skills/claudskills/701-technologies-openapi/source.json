@@ -1,0 +1,18 @@
+{
+  "name": "701-technologies-openapi",
+  "slug": "701-technologies-openapi",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/701-technologies-openapi/",
+  "download_url": "https://claudskills.com/skills/701-technologies-openapi/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when you need framework-agnostic OpenAPI 3.x guidance — spec structure, metadata and versioning, paths and operations, reusable schemas, security schemes, examples, documentation quality, contract validation (e.g. Spectral), breaking-change awareness, and handoffs to codegen — without choosing Spring Boot, Quarkus, or Micronaut. This should trigger for requests such as Review an OpenAPI; Improve an OpenAPI; Improve API contract; Improve API schema design. Part of cursor-rules-java project",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

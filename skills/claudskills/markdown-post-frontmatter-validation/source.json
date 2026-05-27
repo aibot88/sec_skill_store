@@ -1,0 +1,18 @@
+{
+  "name": "markdown-post-frontmatter-validation",
+  "slug": "markdown-post-frontmatter-validation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/markdown-post-frontmatter-validation/",
+  "download_url": "https://claudskills.com/skills/markdown-post-frontmatter-validation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when authoring or reviewing the frontmatter of a markdown post — checking required fields (title, date, slug, tags), validating against the content schema in `lib/content/schema.ts`, catching ambiguous date formats or tags not in the controlled vocabulary, and ensuring the slug matches the file path. Activate this skill whenever the task touches files under `content/posts/**/*.md`, the `parsePostFrontmatter()` helper, or any code path that reads YAML frontmatter from a content file. Do NOT use for general YAML schema design (use a generic schema-design skill) or for chasing a specific build-time validation failure (use debugging).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "swift-protocol-di-testing",
+  "slug": "swift-protocol-di-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/swift-protocol-di-testing/",
+  "download_url": "https://claudskills.com/skills/swift-protocol-di-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "中文优先：用于Swift协议依赖注入测试相关任务，帮助识别、设计、实现或验证对应工作流。English keywords: Protocol-based dependency injection for testable Swift code — mock file system, network, and external APIs using focused protocols and Swift Testing.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

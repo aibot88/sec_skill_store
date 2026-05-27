@@ -1,0 +1,18 @@
+{
+  "name": "triaging-board",
+  "slug": "triaging-board",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/triaging-board/",
+  "download_url": "https://claudskills.com/skills/triaging-board/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when the user wants to investigate blocked cards, release stale claim branches, or triage the board for stuck or abandoned work. Triggers on: \"what's blocked\", \"triage the board\", \"release stale claims\", \"check blockers\", \"stale claims\", \"blocked cards\", \"who's stuck\", \"abandoned work\", \"ghost claims\". Use even when the user phrases it casually (\"anything stuck?\", \"any ghost branches?\") — the signal of wanting to investigate stuck or stale work is what matters. Do NOT use when the user wants to see overall board state (that's briefing-daily), bring in new work (intaking-requirement), or review open PRs for contract compliance (reviewing-pr-queue).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

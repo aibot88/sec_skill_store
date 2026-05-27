@@ -1,0 +1,18 @@
+{
+  "name": "contrast-security",
+  "slug": "contrast-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/contrast-security/",
+  "download_url": "https://claudskills.com/skills/contrast-security/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Contrast Security integration. Manage data, records, and automate workflows. Use when the user wants to interact with Contrast Security data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

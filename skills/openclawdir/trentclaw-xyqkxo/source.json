@@ -1,0 +1,17 @@
+{
+  "name": "trentclaw",
+  "slug": "trentclaw-xyqkxo",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/trentclaw-xyqkxo",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/trent-ai-release/trentclaw/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/trent-ai-release/trentclaw/SKILL.md",
+  "license": "",
+  "description": "Finds chained attack paths across config, secrets, and permissions.",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=1"
+  },
+  "collected_at": "2026-05-27T03:44:40+00:00"
+}

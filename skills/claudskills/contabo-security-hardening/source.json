@@ -1,0 +1,18 @@
+{
+  "name": "contabo-security-hardening",
+  "slug": "contabo-security-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/contabo-security-hardening/",
+  "download_url": "https://claudskills.com/skills/contabo-security-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Advisory skill for hardening Contabo infrastructure security: SSH key management via secret IDs, default root and admin user policy, firewall posture review, OAuth2 credential hygiene including token short TTL and environment variable storage, and x-request-id UUIDv4 traceability for audit compliance. Use when the user needs to assess or improve Contabo instance or API security posture.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

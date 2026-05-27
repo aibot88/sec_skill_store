@@ -1,0 +1,18 @@
+{
+  "name": "kubernetes-best-practices",
+  "slug": "kubernetes-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kubernetes-best-practices/",
+  "download_url": "https://claudskills.com/skills/kubernetes-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Provides production-ready Kubernetes manifest guidance including resource management, security, high availability, and configuration best practices. This skill should be used when working with Kubernetes YAML files, deployments, pods, services, or when users mention k8s, container orchestration, or cloud-native applications.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

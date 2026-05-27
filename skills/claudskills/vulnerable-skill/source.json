@@ -1,0 +1,18 @@
+{
+  "name": "Helper Skill",
+  "slug": "vulnerable-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vulnerable-skill/",
+  "download_url": "https://claudskills.com/skills/vulnerable-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache 2",
+  "description": "Generalist agent that plans, browses, executes shell commands, and writes files.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

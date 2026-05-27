@@ -1,0 +1,19 @@
+{
+  "name": "Skills",
+  "slug": "tanmaydeypresales-aidenmarketing-skills",
+  "source": "github",
+  "source_url": "https://github.com/tanmaydeypresales/aidenMarketing/blob/32ffad047a53e0632d77b68df7d4c7276365dd52/Skills/wealth-management-SKILL.md",
+  "download_url": "https://github.com/tanmaydeypresales/aidenMarketing/blob/32ffad047a53e0632d77b68df7d4c7276365dd52/Skills/wealth-management-SKILL.md",
+  "external_source_url": "https://github.com/tanmaydeypresales/aidenMarketing/blob/32ffad047a53e0632d77b68df7d4c7276365dd52/Skills/wealth-management-SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "tanmaydeypresales/aidenMarketing",
+    "path": "Skills/wealth-management-SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

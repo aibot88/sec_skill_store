@@ -1,0 +1,18 @@
+{
+  "name": "palo-alto",
+  "slug": "palo-alto",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/palo-alto/",
+  "download_url": "https://claudskills.com/skills/palo-alto/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "PAN-OS firewall'unda DNAT (port yönlendirme) ve security policy source kısıtlama işlerini doğal dilden uygular. Müşteri tek cümlede ister (\"198.51.100.108'in 80 portu 192.168.1.50:90'a yönlendirilsin\" / \"RULE_108 sadece şu IP'lere açık olsun\"); skill firewall'a doğrudan bağlanır, çakışmaları kontrol eder, idempotent şekilde NAT + security policy + service/address objelerini oluşturur ve commit eder. Credential'lar sadece process içinde tutulur, diske yazılmaz. Her çağrı öncesi auto-update yapar (24h cache).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

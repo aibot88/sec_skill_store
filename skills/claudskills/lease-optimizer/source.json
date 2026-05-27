@@ -1,0 +1,18 @@
+{
+  "name": "lease-optimizer",
+  "slug": "lease-optimizer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lease-optimizer/",
+  "download_url": "https://claudskills.com/skills/lease-optimizer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit commercial lease optimization software -- lease abstraction quality, rent optimization (market comparison, net effective rent, blend-and-extend modeling), ASC 842/IFRS 16 accounting compliance (ROU assets, lease liabilities, discount rate methodology, modification remeasurement), portfolio analytics (occupancy cost ratios, expiration profiles, concentration risk), and renewal vs. relocation strategy. Use when reviewing corporate real estate platforms, lease accounting systems (LeaseAccelerator, Visual Lease, Nakisa), or any codebase calculating present value of lease obligations or modeling rent scenarios.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

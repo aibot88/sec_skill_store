@@ -1,0 +1,18 @@
+{
+  "name": "dockerfile-optimizer",
+  "slug": "dockerfile-optimizer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dockerfile-optimizer/",
+  "download_url": "https://claudskills.com/skills/dockerfile-optimizer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Optimizes Dockerfiles for smaller images, faster builds, better caching, and security hardening using multi-stage builds and best practices. Use when users request \"optimize Dockerfile\", \"reduce Docker image size\", \"Docker best practices\", or \"containerize application\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

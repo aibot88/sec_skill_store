@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-security-headers",
+  "slug": "security-headers-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-headers-analyzer/",
+  "download_url": "https://claudskills.com/skills/security-headers-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill analyzes HTTP security headers of a given domain to identify potential vulnerabilities and misconfigurations. It provides a detailed report with a grade, score, and recommendations for improvement. Use this skill when the user asks to \"analyze security headers\", \"check HTTP security\", \"scan for security vulnerabilities\", or requests a \"security audit\" of a website. It will automatically activate when security-related keywords are used in conjunction with domain names or URLs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "jira-sync",
+  "slug": "jira-sync",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jira-sync/",
+  "download_url": "https://claudskills.com/skills/jira-sync/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Sync guidance for SpecWeave increments with JIRA epics/stories (content SpecWeave→JIRA, status JIRA→SpecWeave). Use when asking about JIRA integration setup or troubleshooting sync. For actual syncing, use /sw-jira:sync command instead.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

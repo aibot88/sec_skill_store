@@ -1,0 +1,18 @@
+{
+  "name": "aws-api-edge-delivery-review",
+  "slug": "aws-api-edge-delivery-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-api-edge-delivery-review/",
+  "download_url": "https://claudskills.com/skills/aws-api-edge-delivery-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review AWS API and edge delivery posture across API Gateway, CloudFront, AWS WAF, Shield, ALB, custom domains, TLS policies, authentication, authorization, throttling, quotas, caching, origin protection, logging, and abuse controls. Use when public APIs, web entry points, or edge delivery can affect security and availability.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

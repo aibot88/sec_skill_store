@@ -1,0 +1,18 @@
+{
+  "name": "aggregating-crypto-news",
+  "slug": "aggregating-crypto-news",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aggregating-crypto-news/",
+  "download_url": "https://claudskills.com/skills/aggregating-crypto-news/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Aggregate breaking cryptocurrency news from 50+ sources including CoinDesk, CoinTelegraph, The Block, and Decrypt. Use when needing to monitor crypto market news, track announcements, or find coin-specific updates. Trigger with phrases like \"get crypto news\", \"latest Bitcoin headlines\", \"DeFi announcements\", \"scan for breaking news\", or \"check crypto updates\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "skill-verify",
+  "slug": "skill-verify",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-verify/",
+  "download_url": "https://claudskills.com/skills/skill-verify/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Security audit for AI agent skills before installation. Scans SKILL.md files, hooks, scripts, and MCP configs for prompt injection, data exfiltration, credential theft, and malicious automation patterns. Use when installing a new skill, reviewing a skills repo, or auditing existing installed skills. Trigger phrases: \"verify this skill\", \"is this skill safe\", \"audit skill\", \"check before installing\", \"scan this plugin\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

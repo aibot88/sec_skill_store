@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-cyber-kill-chain",
+  "slug": "analyzing-cyber-kill-chain",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-cyber-kill-chain/",
+  "download_url": "https://claudskills.com/skills/analyzing-cyber-kill-chain/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Analyzes intrusion activity against the Lockheed Martin Cyber Kill Chain framework to identify which phases",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

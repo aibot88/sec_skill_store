@@ -1,0 +1,18 @@
+{
+  "name": "Tesseract OCR",
+  "slug": "tesseract-ocr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tesseract-ocr/",
+  "download_url": "https://claudskills.com/skills/tesseract-ocr/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Extract text from images and scanned PDFs via the local Tesseract binary.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "harness-platform",
+  "slug": "harness-platform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/harness-platform/",
+  "download_url": "https://claudskills.com/skills/harness-platform/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Harness Platform administration including delegates, RBAC, connectors, secrets, templates, policy as code (OPA), user management, audit logs, and governance",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

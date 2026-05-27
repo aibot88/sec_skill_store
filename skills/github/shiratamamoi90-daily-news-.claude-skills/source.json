@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "shiratamamoi90-daily-news-.claude-skills",
+  "source": "github",
+  "source_url": "https://github.com/shiratamamoi90/daily-news/blob/5ad662dbd90b20eb392002ac298f1acf2fbe04bd/.claude/skills/daily-news-SKILL.md",
+  "download_url": "https://github.com/shiratamamoi90/daily-news/blob/5ad662dbd90b20eb392002ac298f1acf2fbe04bd/.claude/skills/daily-news-SKILL.md",
+  "external_source_url": "https://github.com/shiratamamoi90/daily-news/blob/5ad662dbd90b20eb392002ac298f1acf2fbe04bd/.claude/skills/daily-news-SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "shiratamamoi90/daily-news",
+    "path": ".claude/skills/daily-news-SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

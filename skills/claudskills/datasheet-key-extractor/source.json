@@ -1,0 +1,18 @@
+{
+  "name": "datasheet-key-extractor",
+  "slug": "datasheet-key-extractor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/datasheet-key-extractor/",
+  "download_url": "https://claudskills.com/skills/datasheet-key-extractor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Extrae parámetros críticos de datasheets técnicos de componentes electrónicos y microcontroladores, y los resume en lenguaje natural accesible para estudiantes. Activa cuando el usuario menciona: datasheet, hoja de datos, parámetros técnicos, especificaciones, extraer datos, datasheet extraction, technical specs, electrical characteristics, pinout, absolute maximum ratings, o cuando se necesita entender las capacidades y limitaciones de un componente electrónico para contenido educativo. Usar SIEMPRE después de document-structure-mapper cuando se detecten archivos PDF de datasheets.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

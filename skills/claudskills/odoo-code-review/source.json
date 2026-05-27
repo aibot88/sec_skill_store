@@ -1,0 +1,18 @@
+{
+  "name": "odoo-code-review",
+  "slug": "odoo-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/odoo-code-review/",
+  "download_url": "https://claudskills.com/skills/odoo-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review Odoo addon code for correctness, security, performance, migrations, tests, and official Odoo coding guidelines. Use when reviewing Odoo modules, diffs, pull requests, or changed files involving models, fields, XML views, data, controllers, reports, OWL/assets, manifests, access rules, record rules, or OCA migrations.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ai-writing-detection",
+  "slug": "ai-writing-detection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-writing-detection/",
+  "download_url": "https://claudskills.com/skills/ai-writing-detection/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Comprehensive AI writing detection patterns and methodology. Provides vocabulary lists, structural patterns, model-specific fingerprints, and false positive prevention guidance. Use when analyzing text for AI authorship or understanding detection patterns.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

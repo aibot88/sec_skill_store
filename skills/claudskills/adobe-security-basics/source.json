@@ -1,0 +1,18 @@
+{
+  "name": "adobe-security-basics",
+  "slug": "adobe-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/adobe-security-basics/",
+  "download_url": "https://claudskills.com/skills/adobe-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Adobe security best practices for OAuth credentials, secret rotation, I/O Events webhook signature verification, and least-privilege scoping. Use when securing API credentials, implementing webhook validation, or auditing Adobe security configuration. Trigger with phrases like \"adobe security\", \"adobe secrets\", \"secure adobe\", \"adobe credential rotation\", \"adobe webhook signature\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

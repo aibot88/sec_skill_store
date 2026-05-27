@@ -1,0 +1,18 @@
+{
+  "name": "bio-pdb-geometric-analysis",
+  "slug": "geometric-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/geometric-analysis/",
+  "download_url": "https://claudskills.com/skills/geometric-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Perform geometric calculations on protein structures using Biopython Bio.PDB. Use when measuring distances, angles, and dihedrals, superimposing structures, calculating RMSD, or computing solvent accessible surface area (SASA).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:05+00:00"
+}

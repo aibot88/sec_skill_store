@@ -1,0 +1,18 @@
+{
+  "name": "job-description-framework",
+  "slug": "job-description-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/job-description-framework/",
+  "download_url": "https://claudskills.com/skills/job-description-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Skill untuk menghasilkan Job Description secara otomatis dan terstruktur sesuai panduan standar PT Hartono Istana Teknologi (Polytron), mencakup lima bagian utama: Job Purpose, Key Accountabilities, Authorities, Key Performance Indicators, dan Job Specifications. SELALU gunakan skill ini ketika pengguna menyebut \"Saya ingin membuat Job Description\", \"buatkan JD\", \"Job Description untuk posisi\", \"buat job desc\", \"draft JD\", \"susun job description\", atau meminta pembuatan deskripsi jabatan untuk posisi tertentu di Polytron atau perusahaan terkait. Skill ini juga aktif saat pengguna menyebutkan nama jabatan disertai konteks organisasi, level jabatan, atau unit kerja.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

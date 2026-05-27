@@ -1,0 +1,18 @@
+{
+  "name": "fastify-best-practices",
+  "slug": "fastify",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastify/",
+  "download_url": "https://claudskills.com/skills/fastify/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guides development of Fastify Node.js backend servers and REST APIs using TypeScript or JavaScript. Use when building, configuring, or debugging a Fastify application — including defining routes, implementing plugins, setting up JSON Schema validation, handling errors, optimising performance, managing authentication, configuring CORS and security headers, integrating databases, working with WebSockets, and deploying to production. Covers the full Fastify request lifecycle (hooks, serialization, logging with Pino) and TypeScript integration via strip types. Trigger terms: Fastify, Node.js server, REST API, API routes, backend framework, fastify.config, server.ts, app.ts.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

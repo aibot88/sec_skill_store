@@ -1,0 +1,18 @@
+{
+  "name": "quality-engineering",
+  "slug": "quality-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/quality-engineering/",
+  "download_url": "https://claudskills.com/skills/quality-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when an approved system design exists and a system or service needs a production-grade testing strategy before merge approval, release, or production promotion. Produces a risk-based testing strategy with acceptance criteria from PRD success metrics, a contract and integration test plan that avoids mocking the system under test, CI/CD quality gates, and implementation handoff notes. Do not use for isolated unit-test authoring, one-off test debugging, framework-specific test syntax, load-test implementation, or penetration testing.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

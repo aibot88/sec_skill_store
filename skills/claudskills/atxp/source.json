@@ -1,0 +1,18 @@
+{
+  "name": "atxp",
+  "slug": "atxp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/atxp/",
+  "download_url": "https://claudskills.com/skills/atxp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Access ATXP paid API tools for web search, AI image generation, music creation, video generation, and X/Twitter search. Use when users need real-time web search, AI-generated media (images, music, video), or X/Twitter search. Requires authentication via `npx atxp login`.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

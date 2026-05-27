@@ -1,0 +1,18 @@
+{
+  "name": "nvidia-triton-inference-serving-review",
+  "slug": "nvidia-triton-inference-serving-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nvidia-triton-inference-serving-review/",
+  "download_url": "https://claudskills.com/skills/nvidia-triton-inference-serving-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing Triton Inference Server deployments statically — `model_repository/` layout and `config.pbtxt` files, dynamic batching configuration, ensemble and BLS pipelines, custom backend (Python, C++, ONNX, OpenVINO, vLLM) trust posture, gRPC and HTTP endpoint authentication, response cache configuration, rate-limit and metrics exposure. Trigger when the user asks whether a Triton model repository or `tritonserver` invocation follows NVIDIA's published guidance and security expectations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

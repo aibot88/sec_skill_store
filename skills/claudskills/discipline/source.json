@@ -1,0 +1,18 @@
+{
+  "name": "discipline",
+  "slug": "discipline",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/discipline/",
+  "download_url": "https://claudskills.com/skills/discipline/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Proof-based orchestration discipline for spec-compliant multi-agent systems. Five layers: DECOMPOSITION, COMPREHENSION, VERIFICATION, ENFORCEMENT, ACCOUNTABILITY. Use when: workers need discipline context, proof schemas, anti-rationalization guidance. Keywords: discipline, proof, verification, compliance, spec, acceptance criteria, rationalization, evidence, SOW, spec continuity",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

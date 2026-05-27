@@ -1,0 +1,18 @@
+{
+  "name": "dsc-endpoint-lookup",
+  "slug": "dsc-endpoint-lookup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dsc-endpoint-lookup/",
+  "download_url": "https://claudskills.com/skills/dsc-endpoint-lookup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Look up and quote one spec field on one endpoint in a Salesforce API reference published on developer.salesforce.com (\"DSC\") – OAuth scopes, query params, request body, response schema, auth scheme, HTTP method/path – by reading JSON that `dsc-scrape` produced (or producing it on demand). Works against any DSC reference the scraper can deliver. Invoke whenever answering the user's ask requires knowing what one specific endpoint's spec says about one of those fields, even if the user's surface ask is broader: direct spec-field lookups (\"what scopes does shopper-products getProducts need?\", \"which query params does searchOrders take?\", \"what auth scheme guards createOrder?\"), code-generation asks that reference a named endpoint (\"write me a node script that calls getProduct\" – quote the spec for the user to write the code against; don't write the code yourself), and how-to asks that are really spec-field questions in disguise (\"how do I paginate search results\", \"what limit does X accept\" – quote the relevant param; ask which search endpoint if ambiguous). The reference name can be implicit if the endpoint name is unambiguous. Decline when no endpoint field is in scope at all: concept or comparison questions without a named endpoint (\"what's the difference between OCAPI and SCAPI\", \"what is SLAS\"), parsing a user-supplied local file rather than a DSC reference (\"parse my ~/work/foo.json\"), scraping whole references wholesale (that's `dsc-scrape`), and guides / concept pages / release notes.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "txt-colors",
+  "slug": "txt-colors",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/txt-colors/",
+  "download_url": "https://claudskills.com/skills/txt-colors/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Pick text colors that adapt to dark mode, vibrancy, and accessibility settings across UIKit, AppKit, and SwiftUI — semantic label colors, AppKit's textColor vs labelColor split, dark-mode adaptation rules, wide-color (Display P3), HDR/EDR limits for text. Use when text disappears in dark mode, an attributed string defaults to invisible black, an NSTextView body looks dim, you're picking between systemRed and a P3 red, or designing for high-contrast accessibility. Read the actual color initializers and trait responses before reciting fixes — the patterns here describe how color adaptation usually fails, not where the bug is in your code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

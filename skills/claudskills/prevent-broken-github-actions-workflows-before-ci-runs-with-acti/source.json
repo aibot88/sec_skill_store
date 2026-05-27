@@ -1,0 +1,18 @@
+{
+  "name": "prevent-broken-github-actions-workflows-before-ci-runs-with-acti",
+  "slug": "prevent-broken-github-actions-workflows-before-ci-runs-with-acti",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prevent-broken-github-actions-workflows-before-ci-runs-with-acti/",
+  "download_url": "https://claudskills.com/skills/prevent-broken-github-actions-workflows-before-ci-runs-with-acti/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use actionlint when an agent needs to inspect GitHub Actions workflow files before a push or pull request lands. The skill checks syntax, expressions, action inputs, runner labels, cron patterns, and a few security footguns so the agent can stop bad workflow changes before CI burns time.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

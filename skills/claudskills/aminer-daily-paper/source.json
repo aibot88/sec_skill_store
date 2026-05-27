@@ -1,0 +1,18 @@
+{
+  "name": "aminer-daily-paper",
+  "slug": "aminer-daily-paper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aminer-daily-paper/",
+  "download_url": "https://claudskills.com/skills/aminer-daily-paper/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Get personalized academic paper recommendations. Activate whenever the user asks for paper recommendations — explicit command (/aminer-dp) or natural language (e.g. 'recommend me papers on RAG', 'suggest recent papers on multimodal agents'). Workflow: extract topics / author / aminer_author_id from the input, invoke scripts/recommend.py, return results as Markdown.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "data-science-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

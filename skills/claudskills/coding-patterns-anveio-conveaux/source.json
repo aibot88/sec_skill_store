@@ -1,0 +1,18 @@
+{
+  "name": "coding-patterns",
+  "slug": "coding-patterns-anveio-conveaux",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/coding-patterns-anveio-conveaux/",
+  "download_url": "https://claudskills.com/skills/coding-patterns-anveio-conveaux/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "TypeScript monorepo patterns including contract-port architecture, dependency injection, hermetic primitive ports, and composition root. Use when creating packages, designing contracts/interfaces, implementing ports, wrapping platform primitives (Date, console, process), or testing with inline mocks.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-threat-intelligence-feeds",
+  "slug": "analyzing-threat-intelligence-feeds",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-threat-intelligence-feeds/",
+  "download_url": "https://claudskills.com/skills/analyzing-threat-intelligence-feeds/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Analyzes structured and unstructured threat intelligence feeds to extract actionable indicators, adversary tactics,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "a11y-critic",
+  "slug": "a11y-critic",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/a11y-critic/",
+  "download_url": "https://claudskills.com/skills/a11y-critic/SKILL.md",
+  "external_source_url": "",
+  "license": "GPL-3.0",
+  "description": "Use when you have an existing component, flow, or interface and need an evidence-backed accessibility design review after basic checks pass. Best for WCAG 2.2 compliance, focus management, ARIA pattern quality, semantics, and state communication gaps automated tools miss.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

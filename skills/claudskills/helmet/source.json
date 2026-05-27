@@ -1,0 +1,18 @@
+{
+  "name": "helmet",
+  "slug": "helmet",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/helmet/",
+  "download_url": "https://claudskills.com/skills/helmet/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Full repo onboarding — bootstraps test infrastructure (Phase A), wires the CI/CD pipeline (Phase B), and generates a project CLAUDE.md (Phase C). Use when onboarding a new repo, setting up tests + CI from scratch, adding Codecov/pinact/SBOM/security scanning, auditing pipeline completeness, fixing CI failures, deploying pipeline changes across multiple repos, or generating/refreshing a repo's CLAUDE.md. Replaces ci-pipeline-setup and test-setup.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

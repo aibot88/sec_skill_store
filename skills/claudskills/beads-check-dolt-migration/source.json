@@ -1,0 +1,18 @@
+{
+  "name": "beads-check-dolt-migration",
+  "slug": "beads-check-dolt-migration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/beads-check-dolt-migration/",
+  "download_url": "https://claudskills.com/skills/beads-check-dolt-migration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect whether a beads installation needs migration from classic format (SQLite/JSONL) to Dolt.",
+  "category": "ads",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ads-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:04+00:00"
+}

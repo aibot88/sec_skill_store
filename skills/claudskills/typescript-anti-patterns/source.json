@@ -1,0 +1,18 @@
+{
+  "name": "typescript-anti-patterns",
+  "slug": "typescript-anti-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/typescript-anti-patterns/",
+  "download_url": "https://claudskills.com/skills/typescript-anti-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when reviewing TypeScript code for anti-patterns, when code contains unsafe practices, when identifying common TypeScript mistakes, when auditing AI-generated TypeScript code, or when enforcing production-grade TypeScript standards. Trigger on: \"review TypeScript code\", \"TypeScript anti-patterns\", \"unsafe TypeScript\", \"type assertion smell\", \"any type misuse\", \"non-null assertion\", \"TypeScript code review\", \"AI generated TypeScript\", \"TypeScript best practices audit\", \"code smells TypeScript\", \"silent catch\", \"type widening\", \"generic soup\", \"mutable exports\", \"enum pitfalls\", \"numeric enum\", \"TypeScript security review\", \"unsafe cast\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

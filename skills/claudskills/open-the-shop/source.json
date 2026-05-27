@@ -1,0 +1,18 @@
+{
+  "name": "open-the-shop",
+  "slug": "open-the-shop",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/open-the-shop/",
+  "download_url": "https://claudskills.com/skills/open-the-shop/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Doors unlocked, lights flipped, OPEN sign up — scan environment requirements and verify all external service credentials are populated. The most HITL-heavy prep step; the operator personally stocks the cash drawer. Run once before /sell-slice; also invocable standalone.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "binary-re-static-analysis",
+  "slug": "binary-re-static-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/binary-re-static-analysis/",
+  "download_url": "https://claudskills.com/skills/binary-re-static-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when analyzing binary structure, disassembling code, or decompiling functions. Deep static analysis via radare2 (r2) and Ghidra headless - function enumeration, cross-references (xrefs), decompilation, control flow graphs. Keywords - \"disassemble\", \"decompile\", \"what does this function do\", \"find functions\", \"analyze code\", \"r2\", \"ghidra\", \"pdg\", \"afl",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

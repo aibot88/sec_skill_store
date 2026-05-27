@@ -1,0 +1,18 @@
+{
+  "name": "accessibility-contrast-audit",
+  "slug": "accessibility-contrast-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/accessibility-contrast-audit/",
+  "download_url": "https://claudskills.com/skills/accessibility-contrast-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "[Design System] Quantitative accessibility audit for UI - contrast ratios, font sizes, tap targets, heading hierarchy. Use when (1) checking WCAG color contrast compliance, (2) auditing text sizes for readability, (3) validating touch/click target sizes, (4) reviewing heading structure and landmarks, (5) user asks to 'check accessibility', 'audit contrast', 'WCAG compliance', or 'a11y check'.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

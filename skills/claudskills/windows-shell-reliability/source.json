@@ -1,0 +1,18 @@
+{
+  "name": "windows-shell-reliability",
+  "slug": "windows-shell-reliability",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/windows-shell-reliability/",
+  "download_url": "https://claudskills.com/skills/windows-shell-reliability/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reliable command execution on Windows: paths, encoding, and common binary pitfalls.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

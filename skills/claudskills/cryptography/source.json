@@ -1,0 +1,18 @@
+{
+  "name": "cryptography",
+  "slug": "cryptography",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cryptography/",
+  "download_url": "https://claudskills.com/skills/cryptography/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive cryptography guidance covering encryption algorithms, password hashing, TLS configuration, key management, and post-quantum considerations. Use when implementing encryption, choosing hashing algorithms, configuring TLS/SSL, managing cryptographic keys, or reviewing cryptographic implementations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crypto-keymgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

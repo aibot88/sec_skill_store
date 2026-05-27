@@ -1,0 +1,18 @@
+{
+  "name": "persona-and-journey-mapping-sf",
+  "slug": "persona-and-journey-mapping-sf",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/persona-and-journey-mapping-sf/",
+  "download_url": "https://claudskills.com/skills/persona-and-journey-mapping-sf/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build Salesforce-anchored personas and journey maps where every persona ties to a Permission Set Group, primary record types, list views, dashboards, automation, and a measured mobile/desktop posture, and journeys walk each task end-to-end with friction tags that drive UX decisions. NOT for stakeholder authority / RACI (use admin/stakeholder-raci-for-sf-projects), NOT for system-side process flows (use admin/process-flow-as-is-to-be), NOT for Lightning page design itself (use admin/lightning-app-builder-advanced or the lightning-record-page-auditor agent), NOT for pure design / UX research disconnected from org artifacts.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

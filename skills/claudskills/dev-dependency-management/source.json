@@ -1,0 +1,18 @@
+{
+  "name": "dev-dependency-management",
+  "slug": "dev-dependency-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-dependency-management/",
+  "download_url": "https://claudskills.com/skills/dev-dependency-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Package and dependency management patterns across ecosystems (npm, pip, cargo, maven). Covers lockfiles, semantic versioning, dependency security scanning, update strategies, monorepo workspaces, transitive dependencies, and avoiding dependency hell.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

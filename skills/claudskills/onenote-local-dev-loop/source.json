@@ -1,0 +1,18 @@
+{
+  "name": "onenote-local-dev-loop",
+  "slug": "onenote-local-dev-loop",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/onenote-local-dev-loop/",
+  "download_url": "https://claudskills.com/skills/onenote-local-dev-loop/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Set up a local development loop for OneNote integrations with mock Graph API responses. Use when developing OneNote features without Azure credentials or to avoid rate limits during development. Trigger with \"onenote local dev\", \"onenote mock\", \"onenote testing setup\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

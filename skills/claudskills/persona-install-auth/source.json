@@ -1,0 +1,18 @@
+{
+  "name": "persona-install-auth",
+  "slug": "persona-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/persona-install-auth/",
+  "download_url": "https://claudskills.com/skills/persona-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Persona API authentication with sandbox and production API keys. Use when setting up identity verification, configuring API credentials, or initializing Persona in your project. Trigger with phrases like \"install persona\", \"setup persona\", \"persona auth\", \"persona API key\", \"KYC setup\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

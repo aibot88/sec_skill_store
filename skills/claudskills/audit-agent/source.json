@@ -1,0 +1,18 @@
+{
+  "name": "audit-agent",
+  "slug": "audit-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-agent/",
+  "download_url": "https://claudskills.com/skills/audit-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive security and code quality audit. Use for thorough security, vulnerability, and code quality analysis. Related: project-health-checker for quick diagnostic checks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

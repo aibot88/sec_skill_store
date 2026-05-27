@@ -1,0 +1,18 @@
+{
+  "name": "triaging-security-incident",
+  "slug": "triaging-security-incident",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/triaging-security-incident/",
+  "download_url": "https://claudskills.com/skills/triaging-security-incident/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Performs initial triage of security incidents to determine severity, scope, and required response actions using",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

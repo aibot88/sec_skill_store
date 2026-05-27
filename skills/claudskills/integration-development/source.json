@@ -1,0 +1,18 @@
+{
+  "name": "integration-development",
+  "slug": "integration-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/integration-development/",
+  "download_url": "https://claudskills.com/skills/integration-development/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide for creating new OAuth-based integrations in the Orient codebase. Use when adding external service integrations (APIs like Linear, GitHub, Slack, Notion, etc.), implementing OAuth flows, or creating catalog-based integration manifests. Covers the full integration lifecycle from manifest definition to tool implementation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

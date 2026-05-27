@@ -1,0 +1,18 @@
+{
+  "name": "review-ai-writing",
+  "slug": "review-ai-writing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/review-ai-writing/",
+  "download_url": "https://claudskills.com/skills/review-ai-writing/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect AI-generated writing patterns in developer text — docs, docstrings, commit messages, PR descriptions, and code comments. Use when reviewing any text artifact for authenticity and clarity.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

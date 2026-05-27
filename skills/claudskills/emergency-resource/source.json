@@ -1,0 +1,18 @@
+{
+  "name": "emergency-resource",
+  "slug": "emergency-resource",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/emergency-resource/",
+  "download_url": "https://claudskills.com/skills/emergency-resource/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit an emergency resource management system for crisis readiness. Evaluates inventory tracking accuracy, deployment request-to-arrival pipeline, logistics and route optimization, supply chain resilience, inter-agency resource sharing (NIMS/EDXL), staging area management, and real-time capacity dashboards. Use when building or reviewing FEMA-style resource platforms, disaster logistics systems, or emergency operations center software.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

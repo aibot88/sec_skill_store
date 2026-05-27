@@ -1,0 +1,19 @@
+{
+  "name": "examples",
+  "slug": "zzxtbeta-ai-ready-eval-system-examples",
+  "source": "github",
+  "source_url": "https://github.com/zzxtbeta/ai-ready-eval-system/blob/cd11837d1d5c98cb72a4545c31294e3f600880fe/examples/sample_skill.md",
+  "download_url": "https://github.com/zzxtbeta/ai-ready-eval-system/blob/cd11837d1d5c98cb72a4545c31294e3f600880fe/examples/sample_skill.md",
+  "external_source_url": "https://github.com/zzxtbeta/ai-ready-eval-system/blob/cd11837d1d5c98cb72a4545c31294e3f600880fe/examples/sample_skill.md",
+  "license": "",
+  "description": "AI-Ready Eval System — Automated API AI-Readiness + Skill Quality evaluation with Flask dashboard, deployable to Vercel",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "zzxtbeta/ai-ready-eval-system",
+    "path": "examples/sample_skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

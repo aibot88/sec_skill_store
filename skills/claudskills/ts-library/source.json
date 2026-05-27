@@ -1,0 +1,18 @@
+{
+  "name": "ts-library",
+  "slug": "ts-library",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ts-library/",
+  "download_url": "https://claudskills.com/skills/ts-library/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when authoring TypeScript libraries or npm packages - covers project setup, package.json exports, build tooling (tsdown/unbuild), API design patterns, type inference tricks, testing, and publishing to npm. Use when bundling, configuring dual CJS/ESM output, or setting up release workflows.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

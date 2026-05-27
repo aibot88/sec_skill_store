@@ -1,0 +1,18 @@
+{
+  "name": "nocodb-self-hosted-no-code-database-rest-api",
+  "slug": "nocodb-self-hosted-no-code-database-rest-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nocodb-self-hosted-no-code-database-rest-api/",
+  "download_url": "https://claudskills.com/skills/nocodb-self-hosted-no-code-database-rest-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "NocoDB turns any SQL database into a smart spreadsheet with a full REST API. It provides a self-hosted Airtable alternative that connects to PostgreSQL, MySQL, SQLite, and other databases, enabling no-code data management with automation, collaboration, and API-first access.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

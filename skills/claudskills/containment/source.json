@@ -1,0 +1,18 @@
+{
+  "name": "containment",
+  "slug": "containment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/containment/",
+  "download_url": "https://claudskills.com/skills/containment/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Security incident containment playbooks for isolating threats across network, endpoint, identity, cloud, and application layers. Use for active incident response to limit threat spread and impact.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

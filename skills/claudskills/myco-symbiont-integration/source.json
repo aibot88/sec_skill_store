@@ -1,0 +1,18 @@
+{
+  "name": "myco:myco-symbiont-integration",
+  "slug": "myco-symbiont-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/myco-symbiont-integration/",
+  "download_url": "https://claudskills.com/skills/myco-symbiont-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when adding or maintaining a Myco symbiont integration, or debugging capture-pipeline and installer issues for a supported agent. It covers architectural foundations, manifests, hook templates, transcript parsing, image and attachment format differences, declarative capture rules, the cross-platform hook guard, SymbiontInstaller wiring, installer fixtures, session identity, phantom-session defenses, environment-variable injection, transcript path parsing failures, registration.mcpCwd field for portable MCP launch, SDK-specific MCP configuration requirements (Claude SDK auto-loading, OpenAI strict function-calling, strictMcpConfig, settingSources control), Runtime.command redirect mechanisms, substituteRuntimeCommand flag for PATH collision handling, universal stop buffer fallback patterns, scratchProbe() session validation, installer skill discovery, MCP tool registration verification procedures, API verification discipline, and source==exec capture filter for sub-agent phantom defense.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:41+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "architecture-review",
+  "slug": "architecture-review-omergocmen-vibe-coder-kit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/architecture-review-omergocmen-vibe-coder-kit/",
+  "download_url": "https://claudskills.com/skills/architecture-review-omergocmen-vibe-coder-kit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Before committing to an implementation plan, run this skill to stress-test the proposed architecture. Catches over-engineering, circular dependencies, missing failure modes, security gaps, and scalability cliffs — before any code is written. Acts as a \"second eye\" on the plan.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

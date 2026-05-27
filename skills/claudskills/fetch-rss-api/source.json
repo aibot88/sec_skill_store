@@ -1,0 +1,18 @@
+{
+  "name": "fetch-rss-api",
+  "slug": "fetch-rss-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fetch-rss-api/",
+  "download_url": "https://claudskills.com/skills/fetch-rss-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert Node.js guidance for fetching and integrating RSS feeds and REST APIs. Use when requests mention Fetch, RSS, API, REST endpoints, Atom feeds, pagination, authentication, rate limits, webhooks, or when building API clients that ingest feed data.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

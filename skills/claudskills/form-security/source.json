@@ -1,0 +1,18 @@
+{
+  "name": "form-security",
+  "slug": "form-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/form-security/",
+  "download_url": "https://claudskills.com/skills/form-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security patterns for web forms including autocomplete attributes for password managers, CSRF protection, XSS prevention, and input sanitization. Use when implementing authentication forms, payment forms, or any form handling sensitive data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

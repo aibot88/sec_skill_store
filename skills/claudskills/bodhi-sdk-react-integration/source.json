@@ -1,0 +1,18 @@
+{
+  "name": "bodhi-sdk-react-integration",
+  "slug": "bodhi-sdk-react-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bodhi-sdk-react-integration/",
+  "download_url": "https://claudskills.com/skills/bodhi-sdk-react-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Integrate React+Vite web apps with bodhi-js-sdk for local LLM integration. Use when user asks to: \"integrate bodhi\", \"add bodhi sdk\", \"connect to bodhi\", \"setup bodhi provider\", \"bodhi react integration\", \"deploy bodhi to github pages\", or troubleshoot bodhi-js-sdk connection/auth issues.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

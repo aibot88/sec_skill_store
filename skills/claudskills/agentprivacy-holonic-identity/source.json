@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-holonic-identity",
+  "slug": "agentprivacy-holonic-identity",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-holonic-identity/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-holonic-identity/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Identity-independent data structures where GUIDs outlive any single backend. Activates when discussing three-layer identity (data GUID / VRC / DID), ProviderUniqueStorageKey as commitment map, immutable vs versioned holons, identity separation at the data layer, or any design requiring persistent data identity that survives provider migrations.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

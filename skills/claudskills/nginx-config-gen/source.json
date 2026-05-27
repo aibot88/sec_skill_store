@@ -1,0 +1,18 @@
+{
+  "name": "nginx-config-gen",
+  "slug": "nginx-config-gen",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nginx-config-gen/",
+  "download_url": "https://claudskills.com/skills/nginx-config-gen/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "트리거: \"nginx 설정\", \"nginx config\", \"엔진엑스 설정\", \"리버스 프록시 설정\", \"ssl 설정\" 수행: Nginx 리버스 프록시·SSL(Let's Encrypt) 설정 생성. 다중 서비스 서브도메인 라우팅 지원 출력: nginx.conf, 서비스별 server block 파일, docker-compose 통합 설정",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

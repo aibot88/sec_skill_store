@@ -1,0 +1,18 @@
+{
+  "name": "devops-patterns",
+  "slug": "devops-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/devops-patterns/",
+  "download_url": "https://claudskills.com/skills/devops-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "DevOps patterns including CI/CD pipeline design, GitHub Actions, Infrastructure as Code, Docker, Kubernetes, deployment strategies, monitoring, and disaster recovery. Use when setting up CI/CD, deploying applications, managing infrastructure, or creating pipelines.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

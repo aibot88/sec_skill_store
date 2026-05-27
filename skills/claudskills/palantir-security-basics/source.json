@@ -1,0 +1,18 @@
+{
+  "name": "palantir-security-basics",
+  "slug": "palantir-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/palantir-security-basics/",
+  "download_url": "https://claudskills.com/skills/palantir-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Palantir Foundry security best practices for credentials, scopes, and access control. Use when securing API tokens, implementing least privilege access, or auditing Foundry security configuration. Trigger with phrases like \"palantir security\", \"foundry secrets\", \"secure palantir\", \"palantir API key security\", \"foundry scopes\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

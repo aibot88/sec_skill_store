@@ -1,0 +1,18 @@
+{
+  "name": "install-deepvista-cli",
+  "slug": "install-deepvista-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/install-deepvista-cli/",
+  "download_url": "https://claudskills.com/skills/install-deepvista-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Install the DeepVista CLI. Load when the `deepvista` binary is missing from PATH (hooks/commands return \"command not found\" or silently no-op), when the user asks how to install DeepVista, or when `deepvista auth login` hasn't been run yet. Ships with the DeepVista Claude Code plugin so the install path stays discoverable even before the CLI is present.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

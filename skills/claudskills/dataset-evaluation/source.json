@@ -1,0 +1,18 @@
+{
+  "name": "dataset-evaluation",
+  "slug": "dataset-evaluation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dataset-evaluation/",
+  "download_url": "https://claudskills.com/skills/dataset-evaluation/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Validates dataset formatting and quality for SageMaker model fine-tuning (SFT, DPO, or RLVR). Use when the user says \"is my dataset okay\", \"evaluate my data\", \"check my training data\", \"I have my own data\", or before starting any fine-tuning job. Detects file format, checks schema compliance against the selected model and technique, and reports whether the data is ready for training or evaluation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

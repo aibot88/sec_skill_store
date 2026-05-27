@@ -1,0 +1,18 @@
+{
+  "name": "replit-deploy-integration",
+  "slug": "replit-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/replit-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/replit-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Replit apps with Autoscale, Reserved VM, and Static deployment types. Use when deploying to production, configuring deployment settings, setting up custom domains, or managing deployment secrets and health checks. Trigger with phrases like \"deploy replit\", \"replit deployment\", \"replit autoscale\", \"replit reserved VM\", \"replit static deploy\", \"replit custom domain\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "trivy-container-security-scanner",
+  "slug": "trivy-container-security-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/trivy-container-security-scanner/",
+  "download_url": "https://claudskills.com/skills/trivy-container-security-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Integrates Aqua Security Trivy CLI for comprehensive container image vulnerability scanning. Detects OS package CVEs, language-specific dependency vulnerabilities, and IaC misconfigurations with SARIF output format for CI/CD pipeline integration.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

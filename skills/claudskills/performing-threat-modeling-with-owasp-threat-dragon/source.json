@@ -1,0 +1,18 @@
+{
+  "name": "performing-threat-modeling-with-owasp-threat-dragon",
+  "slug": "performing-threat-modeling-with-owasp-threat-dragon",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-threat-modeling-with-owasp-threat-dragon/",
+  "download_url": "https://claudskills.com/skills/performing-threat-modeling-with-owasp-threat-dragon/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use OWASP Threat Dragon to create data flow diagrams, identify threats using STRIDE and LINDDUN methodologies,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

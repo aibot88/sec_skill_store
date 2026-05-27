@@ -1,0 +1,18 @@
+{
+  "name": "dialogue-verify-logging-compliance",
+  "slug": "dialogue-verify-logging-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dialogue-verify-logging-compliance/",
+  "download_url": "https://claudskills.com/skills/dialogue-verify-logging-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Verify that required logging occurred during a process execution. Use before presenting work for approval to ensure decisions and observations were captured. Triggers on \"verify logging\", \"check compliance\", \"validate logs\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

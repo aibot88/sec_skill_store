@@ -1,0 +1,18 @@
+{
+  "name": "sales-liznr",
+  "slug": "sales-liznr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-liznr/",
+  "download_url": "https://claudskills.com/skills/sales-liznr/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Liznr platform help — AI meeting assistant with real-time transcription, contextual intelligence, and task sync to Jira/Slack/Notion. Use when setting up Liznr Chrome extension or Teams app for meeting recording, Liznr transcription not capturing speakers correctly, Liznr action items not syncing to Jira or Slack, choosing Liznr vs Fathom or Fireflies or tl;dv for budget meeting notes, evaluating Liznr for recruiting interviews or legal meetings, Liznr multilingual transcription accuracy, or Liznr privacy and data security questions. Do NOT use for comparing note-takers broadly without mentioning Liznr (use /sales-note-taker) or reviewing a specific call for coaching (use /sales-call-review).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "deal-management",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dsc-scenario",
+  "slug": "dsc-scenario",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dsc-scenario/",
+  "download_url": "https://claudskills.com/skills/dsc-scenario/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Build a multi-call repro plan against a Salesforce API reference published on developer.salesforce.com (\"DSC\"). Invoke when the user wants to reproduce a customer flow on a sandbox and needs to know which supporting API calls to make, in what order, with which scopes, and how IDs thread through the chain – examples: \"repro a registered shopper adding a promo coupon and checking out\", \"what do I need to call before `createOrder`\", \"prerequisites for `createOrder`\" (treat \"prerequisites\" or \"prereqs\" of a target op as a multi-call request even if the user says just that word), \"build me a scenario around this cURL\", \"chain of calls to get from X to Y\". Accepts an operationId, a natural-language goal, or a sample cURL/HTTP request as the target. Runs a type-graph walk (structural dependencies) and composes a linear plan + runnable cURL block. Every step cited to a public developer.salesforce.com URL. Works against any DSC reference `dsc-scrape` can deliver. Not for scraping a reference wholesale (that's `dsc-scrape`), not for answering one-off \"what does this endpoint require\" lookups like \"what scopes does X need\" (that's `dsc-endpoint-lookup` – single-endpoint, no ordering), not for diagnosing why an existing request is failing (that's `dsc-triage`), and not for *authoring a runnable demo/repro script* the user will paste into a terminal – even if the subject is a Salesforce API on DSC (that's `stepped-demo-script`; this skill produces the *plan* of calls, not the paste-and-run bash).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "klaviyo-enterprise-rbac",
+  "slug": "klaviyo-enterprise-rbac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/klaviyo-enterprise-rbac/",
+  "download_url": "https://claudskills.com/skills/klaviyo-enterprise-rbac/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Klaviyo enterprise access control with API key scopes and OAuth. Use when implementing per-key scoping, configuring OAuth app authorization, or setting up organization-level access controls for Klaviyo. Trigger with phrases like \"klaviyo scopes\", \"klaviyo RBAC\", \"klaviyo enterprise\", \"klaviyo permissions\", \"klaviyo OAuth\", \"klaviyo access control\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

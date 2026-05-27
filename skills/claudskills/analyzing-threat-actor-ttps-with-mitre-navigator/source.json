@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-threat-actor-ttps-with-mitre-navigator",
+  "slug": "analyzing-threat-actor-ttps-with-mitre-navigator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-threat-actor-ttps-with-mitre-navigator/",
+  "download_url": "https://claudskills.com/skills/analyzing-threat-actor-ttps-with-mitre-navigator/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Map advanced persistent threat (APT) group tactics, techniques, and procedures (TTPs) to the MITRE ATT&CK framework",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

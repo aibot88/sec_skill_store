@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "slug": "midnghtsapphire-revvel-standards-docs",
+  "source": "github",
+  "source_url": "https://github.com/midnghtsapphire/revvel-standards/blob/1ecfdb8c51a935a751e5b47d394e8a982bd8ca54/docs/tax-legal-agent-SKILL.md",
+  "download_url": "https://github.com/midnghtsapphire/revvel-standards/blob/1ecfdb8c51a935a751e5b47d394e8a982bd8ca54/docs/tax-legal-agent-SKILL.md",
+  "external_source_url": "https://github.com/midnghtsapphire/revvel-standards/blob/1ecfdb8c51a935a751e5b47d394e8a982bd8ca54/docs/tax-legal-agent-SKILL.md",
+  "license": "",
+  "description": "Single source of truth for all Revvel and MIDNGHTSAPPHIRE standards, processes, and specifications.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "midnghtsapphire/revvel-standards",
+    "path": "docs/tax-legal-agent-SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

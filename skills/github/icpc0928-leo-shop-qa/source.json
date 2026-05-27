@@ -1,0 +1,19 @@
+{
+  "name": "qa",
+  "slug": "icpc0928-leo-shop-qa",
+  "source": "github",
+  "source_url": "https://github.com/icpc0928/leo-shop/blob/d1433012eb4b65418c220b813f1df2a8ca92daed/qa/QA_SKILL.md",
+  "download_url": "https://github.com/icpc0928/leo-shop/blob/d1433012eb4b65418c220b813f1df2a8ca92daed/qa/QA_SKILL.md",
+  "external_source_url": "https://github.com/icpc0928/leo-shop/blob/d1433012eb4b65418c220b813f1df2a8ca92daed/qa/QA_SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "icpc0928/leo-shop",
+    "path": "qa/QA_SKILL.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:59+00:00"
+}

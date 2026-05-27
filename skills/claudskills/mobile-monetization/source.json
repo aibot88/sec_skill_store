@@ -1,0 +1,18 @@
+{
+  "name": "mobile-monetization",
+  "slug": "mobile-monetization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mobile-monetization/",
+  "download_url": "https://claudskills.com/skills/mobile-monetization/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit mobile app revenue implementation -- in-app purchases, subscriptions, ad SDKs, paywall design, trial conversion funnels, and store billing compliance. Covers StoreKit 2, Google Play Billing, RevenueCat, AdMob, Unity Ads, receipt validation, entitlement sync, and pricing localization. Use when reviewing IAP flows, optimizing subscription conversion, checking ad mediation setup, or preparing for App Store / Play Store review.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

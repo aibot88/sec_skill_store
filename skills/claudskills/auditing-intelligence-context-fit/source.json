@@ -1,0 +1,18 @@
+{
+  "name": "auditing-intelligence-context-fit",
+  "slug": "auditing-intelligence-context-fit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auditing-intelligence-context-fit/",
+  "download_url": "https://claudskills.com/skills/auditing-intelligence-context-fit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audits the fit between a model's reasoning capability and the complexity of the context it receives. Use when an AI system is underperforming despite good retrieval, when teams are unsure whether to upgrade their model or improve their context pipeline, or when diagnosing the \"long context and weak reasoning equals harmful output\" pattern in production agent systems.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

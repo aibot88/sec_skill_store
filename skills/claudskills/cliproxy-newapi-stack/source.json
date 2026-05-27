@@ -1,0 +1,18 @@
+{
+  "name": "cliproxy-newapi-stack",
+  "slug": "cliproxy-newapi-stack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cliproxy-newapi-stack/",
+  "download_url": "https://claudskills.com/skills/cliproxy-newapi-stack/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "在 Linux VPS 上部署 CLIProxyAPI + NewAPI 组合栈，把 Codex/Claude/Gemini/Qwen 等订阅账号包装成可计费的 OpenAI 兼容 API。负责 NewAPI Docker 部署、容器→宿主桥接、模型计费倍率（ModelRatio/CacheRatio/CompletionRatio）、SQLite 直写额度、CLIProxyAPI 408 冷却补丁、多账号 OAuth 凭据热加载、双路径验证。当用户说\"部署 cliproxy + newapi\"、\"加 OpenAI 计费层\"、\"配置 newapi 渠道接 cliproxy\"、\"newapi 价格不对\"、\"加新的 codex/claude 账号到现有部署\"、\"172.17.0.1 容器网络\"、\"408 冷却放大故障\"时触发。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

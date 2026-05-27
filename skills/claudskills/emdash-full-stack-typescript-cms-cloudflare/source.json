@@ -1,0 +1,18 @@
+{
+  "name": "emdash-full-stack-typescript-cms-cloudflare",
+  "slug": "emdash-full-stack-typescript-cms-cloudflare",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/emdash-full-stack-typescript-cms-cloudflare/",
+  "download_url": "https://claudskills.com/skills/emdash-full-stack-typescript-cms-cloudflare/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "EmDash is an open-source, full-stack TypeScript CMS built on Astro and Cloudflare, designed as a spiritual successor to WordPress. It features sandboxed plugins, structured content via Portable Text, a built-in MCP server for AI agents, and runs on Cloudflare Workers, D1, and R2 or any Node.js server with SQLite.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "phoenix-pxi-playwright",
+  "slug": "phoenix-pxi-playwright",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/phoenix-pxi-playwright/",
+  "download_url": "https://claudskills.com/skills/phoenix-pxi-playwright/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Write, extend, and debug PXI Playwright E2E tests for Phoenix. Use when adding PXI agent frontend specs, authoring LLM-as-judge rubrics, asserting PXI tool use, persisting PXI test runs as Phoenix experiments, or debugging PXI E2E failures.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

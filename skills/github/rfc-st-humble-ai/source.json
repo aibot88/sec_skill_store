@@ -1,0 +1,19 @@
+{
+  "name": "ai",
+  "slug": "rfc-st-humble-ai",
+  "source": "github",
+  "source_url": "https://github.com/rfc-st/humble/blob/fc2edf74a9d28e517315adba62665eb6a3ca5975/ai/SKILL.md",
+  "download_url": "https://github.com/rfc-st/humble/blob/fc2edf74a9d28e517315adba62665eb6a3ca5975/ai/SKILL.md",
+  "external_source_url": "https://github.com/rfc-st/humble/blob/fc2edf74a9d28e517315adba62665eb6a3ca5975/ai/SKILL.md",
+  "license": "",
+  "description": "A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "rfc-st/humble",
+    "path": "ai/SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

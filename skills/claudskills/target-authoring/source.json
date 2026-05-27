@@ -1,0 +1,18 @@
+{
+  "name": "target-authoring",
+  "slug": "target-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/target-authoring/",
+  "download_url": "https://claudskills.com/skills/target-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Canonical patterns for writing custom MSBuild targets. Only activate in MSBuild/.NET build context. USE FOR: diagnosing and fixing custom target authoring anti-patterns, reviewing MSBuild target definitions for correctness, diagnosing broken SDK target chains across files (e.g., Directory.Build.targets silently redefining SDK targets), fixing targets that replace CompileDependsOn instead of extending it with $(CompileDependsOn), fixing query targets that return stale results due to Outputs vs Returns misuse, fixing missing Inputs/Outputs causing unnecessary rebuilds, fixing missing FileWrites registration. Covers DependsOnTargets vs BeforeTargets vs AfterTargets, the Build→CoreBuild three-level pattern, hooking into the build pipeline, the $(XxxDependsOn) chain-extension pattern. DO NOT USE FOR: incremental build tuning (use incremental-build), parallelization (use build-parallelism), general anti-patterns (use msbuild-antipatterns), non-MSBuild build systems.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

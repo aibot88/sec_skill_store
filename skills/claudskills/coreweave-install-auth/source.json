@@ -1,0 +1,18 @@
+{
+  "name": "coreweave-install-auth",
+  "slug": "coreweave-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/coreweave-install-auth/",
+  "download_url": "https://claudskills.com/skills/coreweave-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure CoreWeave Kubernetes Service (CKS) access with kubeconfig and API tokens. Use when setting up kubectl access to CoreWeave, configuring CKS clusters, or authenticating with CoreWeave cloud services. Trigger with phrases like \"install coreweave\", \"setup coreweave\", \"coreweave kubeconfig\", \"coreweave auth\", \"connect to coreweave\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

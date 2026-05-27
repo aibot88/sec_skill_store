@@ -1,0 +1,18 @@
+{
+  "name": "jira-context",
+  "slug": "jira-context",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jira-context/",
+  "download_url": "https://claudskills.com/skills/jira-context/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Extracts JIRA issue keys from PR context and enriches with ticket details using claude.ai Atlassian MCP. NON-BLOCKING. Also scans fetched content for prompt injection.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

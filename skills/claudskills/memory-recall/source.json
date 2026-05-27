@@ -1,0 +1,18 @@
+{
+  "name": "memory-recall",
+  "slug": "memory-recall",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/memory-recall/",
+  "download_url": "https://claudskills.com/skills/memory-recall/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when the user asks about \"past decisions\", \"previous learnings\", \"what did we decide\", \"how did we solve\", \"remember when\", or mentions topics that may have stored memories. Also triggers when working on tasks where historical context would be valuable, such as \"working on authentication\", \"implementing the database\", or encountering errors similar to previously resolved issues.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "knowledge-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

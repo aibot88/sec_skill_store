@@ -1,0 +1,18 @@
+{
+  "name": "query-token-audit",
+  "slug": "query-token-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/query-token-audit/",
+  "download_url": "https://claudskills.com/skills/query-token-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Query token security audit to detect scams, honeypots, and malicious contracts before trading. Returns comprehensive security analysis including contract risks, trading risks, and scam detection. Use when users ask \"is this token safe?\", \"check token security\", \"audit token\", or before any swap.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

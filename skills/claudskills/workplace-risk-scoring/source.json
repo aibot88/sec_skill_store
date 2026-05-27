@@ -1,0 +1,18 @@
+{
+  "name": "workplace-risk-scoring",
+  "slug": "workplace-risk-scoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/workplace-risk-scoring/",
+  "download_url": "https://claudskills.com/skills/workplace-risk-scoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit workplace risk scoring systems and occupational safety programs -- evaluate job hazard analysis (JHA/JSA) methodology and task-level hazard identification, risk matrix calibration for likelihood and consequence scales, exposure assessment accuracy for chemical, noise, vibration, and heat stress monitoring, PPE adequacy under 29 CFR 1910.132(d) and respirator fit testing per 29 CFR 1910.134, and ergonomic risk factors using REBA, RULA, NIOSH Lifting Equation, and Strain Index. Covers NIOSH hierarchy of controls (elimination, substitution, engineering, administrative, PPE), ALARP risk tolerance criteria, musculoskeletal disorder prevention programs, OSHA PEL and ACGIH TLV compliance, inter-rater reliability for risk assessors, and management of change for safety-critical controls.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

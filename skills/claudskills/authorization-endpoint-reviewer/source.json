@@ -1,0 +1,18 @@
+{
+  "name": "authorization-endpoint-reviewer",
+  "slug": "authorization-endpoint-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/authorization-endpoint-reviewer/",
+  "download_url": "https://claudskills.com/skills/authorization-endpoint-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review test cases for Authorization Endpoint. Covers response_type=code, request parameters (scope, client_id, redirect_uri, state, nonce, prompt, display, max_age), and authorization response per OIDC Core 1.0 Section 3.1.2.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:57+00:00"
+}

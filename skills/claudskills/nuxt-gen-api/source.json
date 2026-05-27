@@ -1,0 +1,18 @@
+{
+  "name": "nuxt-gen-api",
+  "slug": "nuxt-gen-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nuxt-gen-api/",
+  "download_url": "https://claudskills.com/skills/nuxt-gen-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Gera uma rota de API Nitro para projetos Nuxt com o handler correto — autenticado (defineAuthenticatedEventHandler), seguro (defineSecuredEventHandler) ou público — seguindo as convenções de nomenclatura e estrutura do projeto.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

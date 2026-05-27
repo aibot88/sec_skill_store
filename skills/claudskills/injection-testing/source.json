@@ -1,0 +1,18 @@
+{
+  "name": "nosql-injection-testing",
+  "slug": "injection-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/injection-testing/",
+  "download_url": "https://claudskills.com/skills/injection-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate NoSQL injection vulnerabilities across MongoDB, Cassandra, CouchDB, Redis, and other NoSQL databases. Test operator injection, JavaScript injection, and query manipulation patterns. Use when testing CWE-943 (Improper Neutralization of Special Elements in Data Query Logic) and related NoSQL injection classes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

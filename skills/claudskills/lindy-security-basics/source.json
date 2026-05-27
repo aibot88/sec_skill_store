@@ -1,0 +1,18 @@
+{
+  "name": "lindy-security-basics",
+  "slug": "lindy-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lindy-security-basics/",
+  "download_url": "https://claudskills.com/skills/lindy-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement security best practices for Lindy AI agents and integrations. Use when securing API keys, configuring agent permissions, verifying webhooks, or auditing agent access. Trigger with phrases like \"lindy security\", \"secure lindy\", \"lindy API key security\", \"lindy permissions\", \"lindy audit\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

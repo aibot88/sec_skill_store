@@ -1,0 +1,19 @@
+{
+  "name": "owasp",
+  "slug": "objective-arts-lens-.claude-canon-owasp",
+  "source": "github",
+  "source_url": "https://github.com/Objective-Arts/lens/blob/28ea51788b3e17b8bf97e3ce365ac55f8a1e6494/.claude/canon/owasp/SKILL.md",
+  "download_url": "https://github.com/Objective-Arts/lens/blob/28ea51788b3e17b8bf97e3ce365ac55f8a1e6494/.claude/canon/owasp/SKILL.md",
+  "external_source_url": "https://github.com/Objective-Arts/lens/blob/28ea51788b3e17b8bf97e3ce365ac55f8a1e6494/.claude/canon/owasp/SKILL.md",
+  "license": "",
+  "description": "Lens - AI Assisted Development That Builds In Quality",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Objective-Arts/lens",
+    "path": ".claude/canon/owasp/SKILL.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

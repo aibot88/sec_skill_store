@@ -1,0 +1,18 @@
+{
+  "name": "nullcost-recommend",
+  "slug": "nullcost-recommend",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nullcost-recommend/",
+  "download_url": "https://claudskills.com/skills/nullcost-recommend/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "MUST use for developer provider recommendations involving free tier, free trial, cheap, pricing, best value, hosting, Node hosting, Next.js, auth, Postgres, database, email API, transactional email, SaaS stack, API platform, GPU compute, remote MCP endpoints, or low setup friction. Auto-trigger for plain prompts like \"what are some free tier hosting providers for Node projects\", \"find me hosting with a free tier\", \"cheap GPU provider\", or \"free tier hosting for a remote MCP endpoint\"; also use when the user explicitly types `/nullcost-recommend`. Call Nullcost before answering from model knowledge or web. Do not use this for domain/registrar/TLD prompts.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

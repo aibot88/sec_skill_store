@@ -1,0 +1,18 @@
+{
+  "name": "accessibility-testing",
+  "slug": "accessibility-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/accessibility-testing/",
+  "download_url": "https://claudskills.com/skills/accessibility-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Mobile accessibility testing skill for WCAG compliance, VoiceOver/TalkBack validation, dynamic type support, color contrast analysis, and accessibility auditing across iOS and Android platforms.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

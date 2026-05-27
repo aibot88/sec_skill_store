@@ -1,0 +1,18 @@
+{
+  "name": "ornn-agent-manual-http",
+  "slug": "ornn-agent-manual-http",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ornn-agent-manual-http/",
+  "download_url": "https://claudskills.com/skills/ornn-agent-manual-http/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Operational manual for AI agents using the Ornn skill-lifecycle API via direct HTTPS with a NyxID bearer token (`curl -H \"Authorization: Bearer $TOKEN\" …`). Once loaded, the host agent can search / pull / execute / build / upload / share skills end-to-end. Authoritative contract between Ornn and the agent. Pair this file with references/api-reference.md (the full per-endpoint catalogue + error legend) — both ship together as one Ornn skill.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

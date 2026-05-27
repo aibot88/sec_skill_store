@@ -1,0 +1,18 @@
+{
+  "name": "amp-skill-creator",
+  "slug": "amp-skill-creator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/amp-skill-creator/",
+  "download_url": "https://claudskills.com/skills/amp-skill-creator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "PRIMARY skill creator. Use this by default when creating ANY skill. If user explicitly asks for a \"Claude skill\", \"Claude-compatible skill\", or \"universal skill\", use agent-skill-creator instead. Handles Amp-specific features (mcp.json, OAuth, Amp frontmatter).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

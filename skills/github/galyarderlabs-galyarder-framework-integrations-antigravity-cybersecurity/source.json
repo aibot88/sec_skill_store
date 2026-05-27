@@ -1,0 +1,19 @@
+{
+  "name": "cybersecurity",
+  "slug": "galyarderlabs-galyarder-framework-integrations-antigravity-cybersecurity",
+  "source": "github",
+  "source_url": "https://github.com/galyarderlabs/galyarder-framework/blob/687a3620e84ccc80982b648d1b2f464081943eca/integrations/antigravity/cybersecurity/SKILL.md",
+  "download_url": "https://github.com/galyarderlabs/galyarder-framework/blob/687a3620e84ccc80982b648d1b2f464081943eca/integrations/antigravity/cybersecurity/SKILL.md",
+  "external_source_url": "https://github.com/galyarderlabs/galyarder-framework/blob/687a3620e84ccc80982b648d1b2f464081943eca/integrations/antigravity/cybersecurity/SKILL.md",
+  "license": "",
+  "description": "An agentic skills framework orchestration for the 1-Man Army. Implementing Autonomous Goal Integration (AGI) to transform vision into deterministic execution.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "galyarderlabs/galyarder-framework",
+    "path": "integrations/antigravity/cybersecurity/SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

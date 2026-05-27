@@ -1,0 +1,18 @@
+{
+  "name": "instar-dev",
+  "slug": "instar-dev",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/instar-dev/",
+  "download_url": "https://claudskills.com/skills/instar-dev/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Instar-specific development skill used by the instar-developing agent (Echo, or any agent assigned instar-dev responsibilities). Wraps /build with mandatory side-effects review, signal-vs-authority principle check, and artifact generation. Structural enforcement via pre-commit/pre-push hooks — the instar repo refuses commits and pushes that didn't come through this skill. NOT a user-facing skill — end users should never invoke it.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ide-editor",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

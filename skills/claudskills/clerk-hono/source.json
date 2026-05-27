@@ -1,0 +1,18 @@
+{
+  "name": "clerk-hono",
+  "slug": "clerk-hono",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk-hono/",
+  "download_url": "https://claudskills.com/skills/clerk-hono/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use Clerk auth in Hono apps via @hono/clerk-auth. Use when adding or changing Clerk authentication, protecting routes, or reading userId/orgId in Hono.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

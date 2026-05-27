@@ -1,0 +1,18 @@
+{
+  "name": "responding-to-security-incidents",
+  "slug": "responding-to-security-incidents",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/responding-to-security-incidents/",
+  "download_url": "https://claudskills.com/skills/responding-to-security-incidents/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Analyze and guide security incident response, investigation, and remediation processes. Use when you need to handle security breaches, classify incidents, develop response playbooks, gather forensic evidence, or coordinate remediation efforts. Trigger with phrases like \"security incident response\", \"ransomware attack response\", \"data breach investigation\", \"incident playbook\", or \"security forensics\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

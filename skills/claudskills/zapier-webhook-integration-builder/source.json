@@ -1,0 +1,18 @@
+{
+  "name": "zapier-webhook-integration-builder",
+  "slug": "zapier-webhook-integration-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/zapier-webhook-integration-builder/",
+  "download_url": "https://claudskills.com/skills/zapier-webhook-integration-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Creates and manages Zapier integrations using the Zapier Platform CLI and REST Hooks API. Builds custom triggers, actions, and searches with OAuth2 authentication flows.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

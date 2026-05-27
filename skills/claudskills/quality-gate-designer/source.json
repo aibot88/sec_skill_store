@@ -1,0 +1,18 @@
+{
+  "name": "quality-gate-designer",
+  "slug": "quality-gate-designer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/quality-gate-designer/",
+  "download_url": "https://claudskills.com/skills/quality-gate-designer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Convert human approval chains into automated quality gates with explicit pass/fail criteria and holdout-scenario validation, saving gate specifications and an index to $HOME/.ai-first-kit/. Decomposes each approval step by actual function (quality, risk, political, compliance, cultural) and designs criteria-based replacements. Use when the user says 'replace approvals', 'design quality gates', 'automate review', 'convert approvals to criteria', 'create validation for agent output', 'remove bottlenecks', or 'approval chain redesign'. Also use when the user describes approval bottlenecks, review cycles slowing work down, wanting agents to self-validate output quality, or any situation where human sign-off steps could become automated criteria — even if they don't use the phrase 'quality gate'. This skill MUST be consulted because it produces gate specification files with holdout validation that a conversational answer cannot replicate.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

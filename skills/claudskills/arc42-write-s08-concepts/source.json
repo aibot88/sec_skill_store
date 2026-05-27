@@ -1,0 +1,18 @@
+{
+  "name": "arc42-write-s08-concepts",
+  "slug": "arc42-write-s08-concepts",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/arc42-write-s08-concepts/",
+  "download_url": "https://claudskills.com/skills/arc42-write-s08-concepts/SKILL.md",
+  "external_source_url": "",
+  "license": "NOASSERTION",
+  "description": "Schreibt arc42 Sektion 8 (Querschnittliche Konzepte): Übergreifende Lösungsansätze, Muster, Regeln, Domänenmodelle, technische Konzepte. Use when: Sektion 8 schreiben, Konzepte, Crosscutting Concepts, Querschnitt, Muster, Domänenmodell, Logging, Security, Fehlerbehandlung dokumentieren.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

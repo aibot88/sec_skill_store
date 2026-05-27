@@ -1,0 +1,18 @@
+{
+  "name": "technology-architecture",
+  "slug": "technology-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/technology-architecture/",
+  "download_url": "https://claudskills.com/skills/technology-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review or design a technology architecture. Covers infrastructure topology fitness (cloud/on-prem/hybrid), technology stack standardisation, vendor lock-in surface, security boundaries and network segmentation, observability infrastructure, DR/HA patterns, IaC coverage, technology lifecycle and obsolescence, cost model at scale, and technology anti-pattern detection. TOGAF Phase D aware.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

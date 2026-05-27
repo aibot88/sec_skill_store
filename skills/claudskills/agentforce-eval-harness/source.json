@@ -1,0 +1,18 @@
+{
+  "name": "agentforce-eval-harness",
+  "slug": "agentforce-eval-harness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentforce-eval-harness/",
+  "download_url": "https://claudskills.com/skills/agentforce-eval-harness/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Author and run offline evals for Agentforce agents: fixture format, scoring rubrics, regression baselines, CI integration, prompt-change safety. Use BEFORE every prompt or tool change. Covers multi-turn transcripts, refusal checks, tool-call correctness, grounding accuracy. NOT for online A/B testing (use observability). NOT for general Salesforce test-class patterns (use apex-testing-patterns).",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

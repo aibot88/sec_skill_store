@@ -1,0 +1,18 @@
+{
+  "name": "sentry-install-auth",
+  "slug": "sentry-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sentry-install-auth/",
+  "download_url": "https://claudskills.com/skills/sentry-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Sentry SDK authentication with DSN setup. Use when setting up Sentry error tracking, configuring DSN, or initializing Sentry in a Node.js or Python project. Trigger with \"install sentry\", \"setup sentry\", \"sentry auth\", \"configure sentry DSN\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "observability",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

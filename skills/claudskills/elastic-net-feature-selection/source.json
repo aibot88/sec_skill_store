@@ -1,0 +1,18 @@
+{
+  "name": "elastic-net-feature-selection",
+  "slug": "elastic-net-feature-selection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/elastic-net-feature-selection/",
+  "download_url": "https://claudskills.com/skills/elastic-net-feature-selection/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when selecting predictive genes or other molecular features from bulk expression matrices for binary case-vs-control classification with elastic net logistic regression, including coefficient path and cross-validation plots. Trigger keywords: elastic net, glmnet, feature selection, binary classification, lambda.min, lambda.1se. NOT for: survival/Cox modeling, multiclass outcomes, single-cell data, or non-expression tables.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

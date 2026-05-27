@@ -1,0 +1,18 @@
+{
+  "name": "ascent-data-health",
+  "slug": "ascent-data-health",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ascent-data-health/",
+  "download_url": "https://claudskills.com/skills/ascent-data-health/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validates SQLite-WAL database configuration and migration discipline for <<PROJECT_TITLE>>. Checks WAL mode, foreign-key enforcement, migration tracking, and migration file ordering — the silent-failure prevention layer for the data tier.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

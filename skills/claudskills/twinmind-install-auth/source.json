@@ -1,0 +1,18 @@
+{
+  "name": "twinmind-install-auth",
+  "slug": "twinmind-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/twinmind-install-auth/",
+  "download_url": "https://claudskills.com/skills/twinmind-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure TwinMind Chrome extension, mobile app, and API access. Use when setting up TwinMind for meeting transcription, configuring calendar integration, or initializing TwinMind in your workflow. Trigger with phrases like \"install twinmind\", \"setup twinmind\", \"twinmind auth\", \"configure twinmind\", \"twinmind chrome extension\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "audio-podcast",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

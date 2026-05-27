@@ -1,0 +1,18 @@
+{
+  "name": "pypi-package-inspector",
+  "slug": "pypi-package-inspector",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pypi-package-inspector/",
+  "download_url": "https://claudskills.com/skills/pypi-package-inspector/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Queries the PyPI JSON API and the libraries.io API to analyze Python package metadata, dependency trees, and version histories. Uses pip-audit for vulnerability scanning against the OSV database.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "game-multiplayer-design",
+  "slug": "game-multiplayer-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/game-multiplayer-design/",
+  "download_url": "https://claudskills.com/skills/game-multiplayer-design/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design, implement, debug, and review multiplayer game systems. Use when Codex is asked about client/server architecture, authoritative servers, listen servers, dedicated servers, peer-to-peer, replication, prediction, interpolation, rollback, lag compensation, matchmaking, lobbies, sessions, state synchronization, netcode, anti-cheat risk, network testing, Unity Netcode, Unreal networking, Godot multiplayer, or custom multiplayer backends.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

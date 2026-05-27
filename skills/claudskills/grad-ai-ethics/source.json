@@ -1,0 +1,18 @@
+{
+  "name": "grad-ai-ethics",
+  "slug": "grad-ai-ethics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/grad-ai-ethics/",
+  "download_url": "https://claudskills.com/skills/grad-ai-ethics/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply AI ethics frameworks (fairness, accountability, transparency, privacy) to evaluate AI systems for algorithmic bias, explainability gaps, and value alignment failures. Use this skill when the user needs to audit an AI system for ethical risks, design fairness constraints, assess explainability requirements, or when they ask 'is this AI system fair', 'how do we detect algorithmic bias', 'what are the ethical implications of this AI deployment', or 'how do we make this model explainable to stakeholders'.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "prd-spec",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

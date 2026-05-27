@@ -1,0 +1,18 @@
+{
+  "name": "threat-modeling-techniques",
+  "slug": "threat-modeling-techniques",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/threat-modeling-techniques/",
+  "download_url": "https://claudskills.com/skills/threat-modeling-techniques/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Threat modeling methodologies using STRIDE, attack trees, and risk assessment for proactive security analysis. Use when designing secure systems, conducting security reviews, or identifying potential attack vectors in applications.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

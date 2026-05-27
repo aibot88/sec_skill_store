@@ -1,0 +1,18 @@
+{
+  "name": "seo-content-cluster-generator",
+  "slug": "seo-content-cluster-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/seo-content-cluster-generator/",
+  "download_url": "https://claudskills.com/skills/seo-content-cluster-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Builds topical authority clusters using SEMrush Keyword Magic API, Ahrefs Content Explorer, and Google Search Console API. Generates pillar pages with internal linking maps and schema.org Article markup.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "seo",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

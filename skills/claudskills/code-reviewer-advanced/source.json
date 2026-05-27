@@ -1,0 +1,18 @@
+{
+  "name": "code-reviewer-advanced",
+  "slug": "code-reviewer-advanced",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-reviewer-advanced/",
+  "download_url": "https://claudskills.com/skills/code-reviewer-advanced/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when reviewing code for quality, design issues, implementation problems, security vulnerabilities, or architectural concerns. Apply when user asks to review code, check implementation, find issues, or audit code quality. Use proactively after implementation is complete. Also use to provide feedback to system-architect and principal-engineer on design and implementation decisions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

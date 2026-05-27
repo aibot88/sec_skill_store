@@ -1,0 +1,18 @@
+{
+  "name": "k8s-ingress-nightmare",
+  "slug": "k8s-ingress-nightmare",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/k8s-ingress-nightmare/",
+  "download_url": "https://claudskills.com/skills/k8s-ingress-nightmare/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "IngressNightmare (CVE-2025-1974) — Kubernetes Ingress-NGINX Admission Controller 未授权 RCE。当目标 K8s 集群使用 ingress-nginx、发现 443/8443 端口的 admission webhook、或通过 Pod 网络可达 admission controller 时使用。涵盖漏洞原理、利用条件判断、PoC 使用、后续横向移动。",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

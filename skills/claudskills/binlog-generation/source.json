@@ -1,0 +1,18 @@
+{
+  "name": "binlog-generation",
+  "slug": "binlog-generation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/binlog-generation/",
+  "download_url": "https://claudskills.com/skills/binlog-generation/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generate MSBuild binary logs (binlogs) for build diagnostics and analysis. Only activate in MSBuild/.NET build context. USE FOR: adding /bl:{} to any dotnet build, test, pack, publish, or restore command to capture a full build execution trace, prerequisite for binlog-failure-analysis and build-perf-diagnostics skills, enabling post-build investigation of errors or performance. Requires MSBuild 17.8+ / .NET 8 SDK+ for {} placeholder; PowerShell needs -bl:{{}}. DO NOT USE FOR: non-MSBuild build systems (npm, Maven, CMake), analyzing an existing binlog (use binlog-failure-analysis instead). INVOKES: shell commands (dotnet build /bl:{}).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "performance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cliproxy-deploy",
+  "slug": "cliproxy-deploy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cliproxy-deploy/",
+  "download_url": "https://claudskills.com/skills/cliproxy-deploy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "在 Linux VPS 上部署 CLIProxyAPI（router-for-me/CLIProxyAPI）并暴露 OpenAI 兼容 API。覆盖 Go 环境、源码拉取、最小配置、OAuth 登录（远端 / 本地同步两种路径）、UFW 放行、密钥轮换、健康校验、环境变量落盘。当用户说“部署 cliproxy / 把 codex/claude/gemini 账号暴露成 API / router-for-me 上线 VPS”时触发。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

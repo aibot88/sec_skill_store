@@ -1,0 +1,18 @@
+{
+  "name": "ingest-tweet",
+  "slug": "ingest-tweet",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ingest-tweet/",
+  "download_url": "https://claudskills.com/skills/ingest-tweet/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Extract full text from X/Twitter posts for wiki ingestion. Uses FXTwitter API, no auth required.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

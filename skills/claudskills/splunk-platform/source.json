@@ -1,0 +1,18 @@
+{
+  "name": "splunk-platform",
+  "slug": "splunk-platform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/splunk-platform/",
+  "download_url": "https://claudskills.com/skills/splunk-platform/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deep skill for Splunk development, administration, SDK/REST integrations, dashboards, UCC add-ons, ITSI automation, SPL2 authoring, and AI-facing tooling. Use for Splunk SDK, REST, jobs/export, SPL, dashboards, packaging, and MCP-backed analysis workflows.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

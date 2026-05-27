@@ -1,0 +1,18 @@
+{
+  "name": "openstack-cinder",
+  "slug": "cinder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cinder/",
+  "download_url": "https://claudskills.com/skills/cinder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "OpenStack Cinder block storage service. Provides persistent volume management for cloud instances including volume creation, snapshots, backups, LVM/iSCSI backend, volume types with QoS, encryption (LUKS), volume migration, and multi-backend support. Use for deploying, configuring, operating, and troubleshooting OpenStack block storage.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "miro-deploy-integration",
+  "slug": "miro-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/miro-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/miro-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Miro REST API v2 integrations to Vercel, Fly.io, and Cloud Run with proper OAuth token management and webhook configuration. Trigger with phrases like \"deploy miro\", \"miro Vercel\", \"miro production deploy\", \"miro Cloud Run\", \"miro Fly.io\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

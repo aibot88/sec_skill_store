@@ -1,0 +1,18 @@
+{
+  "name": "wireshark-network-traffic-analysis",
+  "slug": "wireshark-network-traffic-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wireshark-network-traffic-analysis/",
+  "download_url": "https://claudskills.com/skills/wireshark-network-traffic-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when the user asks to \"analyze network traffic with Wireshark\", \"capture packets for troubleshooting\", \"filter PCAP files\", \"follow TCP/UDP streams\", \"detect network anomalies\", \"investigate suspicious traffic\", or \"perform protocol analysis\". It provides comprehensive techniques for network packet capture, filtering, and analysis using Wireshark.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

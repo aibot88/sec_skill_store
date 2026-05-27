@@ -1,0 +1,18 @@
+{
+  "name": "breach-detection-system",
+  "slug": "breach-detection-system",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/breach-detection-system/",
+  "download_url": "https://claudskills.com/skills/breach-detection-system/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implements technical breach detection capabilities including SIEM integration, DLP alert configuration, anomaly detection rules, and insider threat monitoring. Provides a breach classification taxonomy across confidentiality, integrity, and availability dimensions. Covers detection tool selection, alert tuning, and integration with privacy incident response workflows. Keywords: breach detection, SIEM, DLP, anomaly detection, insider threat, classification.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

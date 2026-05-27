@@ -1,0 +1,18 @@
+{
+  "name": "sf-metadata",
+  "slug": "sf-metadata",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sf-metadata/",
+  "download_url": "https://claudskills.com/skills/sf-metadata/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Salesforce metadata generation and querying with 120-point scoring + Brite metadata-authoring discipline (Activity fields, ListView aliases, Kanban Group By cache, Flexipage IndexedDB, Dynamic Forms FLS). TRIGGER when: user creates custom objects, fields, validation rules, or touches .object-meta.xml, .field-meta.xml, .profile-meta.xml, layouts/, listViews/, flexipages/, standardValueSets/ files. DO NOT TRIGGER when: permission set analysis (use sf-permissions), deploying metadata (use sf-deploy), or Flow XML (use sf-flow).",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agile",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

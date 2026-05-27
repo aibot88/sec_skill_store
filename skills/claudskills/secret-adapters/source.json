@@ -1,0 +1,18 @@
+{
+  "name": "secret-adapters",
+  "slug": "secret-adapters",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/secret-adapters/",
+  "download_url": "https://claudskills.com/skills/secret-adapters/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Secret management integration (密鑰管理整合). Use when working with HashiCorp Vault, credential management, or secure configuration. Covers secret storage (密鑰儲存), key management (金鑰管理), NestJS integration, online/offline modes, and automatic token renewal. Keywords: 密鑰, 機密, 金鑰, 秘密管理, secret, vault, credential, key management, HashiCorp, token, 環境變數, configuration",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

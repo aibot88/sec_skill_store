@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "docxology-codomyrmex-.",
+  "source": "github",
+  "source_url": "https://github.com/docxology/codomyrmex/blob/8630d6a1e2cdbda6b65544667745f209556fc29c/SKILL.md",
+  "download_url": "https://github.com/docxology/codomyrmex/blob/8630d6a1e2cdbda6b65544667745f209556fc29c/SKILL.md",
+  "external_source_url": "https://github.com/docxology/codomyrmex/blob/8630d6a1e2cdbda6b65544667745f209556fc29c/SKILL.md",
+  "license": "",
+  "description": "🐜 AI-native modular coding workspace — 127 modules, 424 MCP tools, 21K+ zero-mock tests, multi-agent orchestration (Claude/Gemini/GPT), PAI integration",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "docxology/codomyrmex",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

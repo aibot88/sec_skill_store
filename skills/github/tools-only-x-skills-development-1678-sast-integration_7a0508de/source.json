@@ -1,0 +1,19 @@
+{
+  "name": "1678-sast-integration_7a0508de",
+  "slug": "tools-only-x-skills-development-1678-sast-integration_7a0508de",
+  "source": "github",
+  "source_url": "https://github.com/tools-only/X-Skills/blob/efb931b2e3f5d32b229105a9364b072ac5f51d85/development/1678-sast-integration_7a0508de/skill.md",
+  "download_url": "https://github.com/tools-only/X-Skills/blob/efb931b2e3f5d32b229105a9364b072ac5f51d85/development/1678-sast-integration_7a0508de/skill.md",
+  "external_source_url": "https://github.com/tools-only/X-Skills/blob/efb931b2e3f5d32b229105a9364b072ac5f51d85/development/1678-sast-integration_7a0508de/skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "tools-only/X-Skills",
+    "path": "development/1678-sast-integration_7a0508de/skill.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

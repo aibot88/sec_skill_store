@@ -1,0 +1,18 @@
+{
+  "name": "mobile-vulnerabilities",
+  "slug": "mobile-vulnerabilities",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mobile-vulnerabilities/",
+  "download_url": "https://claudskills.com/skills/mobile-vulnerabilities/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "OWASP Mobile Top 10 vulnerability knowledge base for identifying, assessing, and remediating security risks in mobile application environments.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

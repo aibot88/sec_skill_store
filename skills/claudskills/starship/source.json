@@ -1,0 +1,18 @@
+{
+  "name": "x-starship",
+  "slug": "starship",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/starship/",
+  "download_url": "https://claudskills.com/skills/starship/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Starship.rs cross-shell prompt with theme management. Minimal, blazing-fast, and infinitely customizable prompt. Auto-downloads starship binary if not available. **Dependency**: This is an x-cmd module. Install x-cmd first (see x-cmd skill for installation options). see x-cmd skill for installation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

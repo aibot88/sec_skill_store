@@ -1,0 +1,18 @@
+{
+  "name": "semgrep-custom-rule-builder-3",
+  "slug": "semgrep-custom-rule-builder-3",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/semgrep-custom-rule-builder-3/",
+  "download_url": "https://claudskills.com/skills/semgrep-custom-rule-builder-3/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Creates custom Semgrep SAST rules using the semgrep CLI and rule schema YAML format. Supports pattern-either, metavariable-regex, and taint-mode tracking for detecting framework-specific vulnerabilities in Python, Go, and JavaScript.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "SKILL",
+  "slug": "suleymankuncan-web-codex-skill",
+  "source": "github",
+  "source_url": "https://github.com/suleymankuncan-web/CODEX/blob/9c88df90bceaf398627d6562e269dbd074634402/SKILL/coding-standards.skill.md",
+  "download_url": "https://github.com/suleymankuncan-web/CODEX/blob/9c88df90bceaf398627d6562e269dbd074634402/SKILL/coding-standards.skill.md",
+  "external_source_url": "https://github.com/suleymankuncan-web/CODEX/blob/9c88df90bceaf398627d6562e269dbd074634402/SKILL/coding-standards.skill.md",
+  "license": "",
+  "description": "kpis management",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "suleymankuncan-web/CODEX",
+    "path": "SKILL/coding-standards.skill.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

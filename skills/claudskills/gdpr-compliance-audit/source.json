@@ -1,0 +1,18 @@
+{
+  "name": "gdpr-compliance-audit",
+  "slug": "gdpr-compliance-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gdpr-compliance-audit/",
+  "download_url": "https://claudskills.com/skills/gdpr-compliance-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Guides a comprehensive organisational data protection audit against key GDPR requirements including Articles 5, 24, 25, 28, 30, 32, 35, and 37. Includes 50+ control points covering principles, accountability, security, and governance. Activate when performing compliance audits, preparing for supervisory authority inspections, or assessing organisational GDPR maturity. Keywords: data protection audit, compliance audit, GDPR audit, control points, accountability.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

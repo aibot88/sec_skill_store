@@ -1,0 +1,18 @@
+{
+  "name": "security-sentinel",
+  "slug": "security-sentinel",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-sentinel/",
+  "download_url": "https://claudskills.com/skills/security-sentinel/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when working with authentication, API routes, user input, or sensitive data. Audits code for security vulnerabilities based on OWASP Top 10. Critical for payment processing, auth systems, and data handling.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

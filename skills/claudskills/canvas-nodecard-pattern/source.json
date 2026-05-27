@@ -1,0 +1,18 @@
+{
+  "name": "canvas-nodecard-pattern",
+  "slug": "canvas-nodecard-pattern",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/canvas-nodecard-pattern/",
+  "download_url": "https://claudskills.com/skills/canvas-nodecard-pattern/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "vibe-editor の Canvas モード (@xyflow/react) に新しいカード種 (CardType) や hand-off エッジを追加するときに使う skill。`src/renderer/src/stores/canvas.ts` の `CardType` ユニオン拡張、`CardData` 設計、zustand persist との整合、`CARD_TYPES` validator、`addCard` / `removeCard` の挙動 (cascadeTeam デフォルト、teamLocks, stageView)、Issue #157 (id 衝突 → crypto.randomUUID)、Issue #156 (pulseEdge TTL タイマ管理)、Canvas レンダリング側のコンポーネント追加箇所をカバー。ユーザーが「Canvas に◯◯カードを追加」「新しいノード種」「CardType を増やす」「@xyflow/react に新カスタムノード」「hand-off エッジ」「pulseEdge」「stageView」「teamLocks」「Canvas store を拡張」「ワークスペースプリセットに新カード」等を言ったとき、また `stores/canvas.ts` / `components/canvas/` / `layouts/CanvasLayout*` を編集しそうなときには必ずこの skill を起動すること。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sast-hardcodedsecrets",
+  "slug": "sast-hardcodedsecrets",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sast-hardcodedsecrets/",
+  "download_url": "https://claudskills.com/skills/sast-hardcodedsecrets/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect hardcoded sensitive data (API keys, access tokens, private keys, passwords, etc.) in publicly accessible code — frontend JavaScript, mobile apps, client-side bundles, and HTML templates. Uses a three-phase approach: recon (find secret candidates), batched verify (confirm real secrets in public code paths, 3 candidates each), and merge (consolidate batch results). Requires sast/architecture.md (run sast-analysis first). Outputs findings to sast/hardcodedsecrets-results.md. Use when asked to find hardcoded secrets, leaked API keys, or exposed credentials.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

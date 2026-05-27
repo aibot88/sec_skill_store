@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-knowledgegraph",
+  "slug": "agentprivacy-knowledgegraph",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-knowledgegraph/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-knowledgegraph/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Complete entity-relationship knowledge graph for 0xagentprivacy. Activates when needing the full map of entities (persons, agents, VRCs, guilds, pools, ceremonies), their relationships, and query surfaces. Use as the canonical reference for how all system components connect. Contains the comprehensive entity registry.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

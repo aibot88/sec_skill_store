@@ -1,0 +1,18 @@
+{
+  "name": "auth-module-architecture",
+  "slug": "auth-module-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-module-architecture/",
+  "download_url": "https://claudskills.com/skills/auth-module-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Auth 权限认证模块架构指南，涵盖 IAM 集成、RBAC 权限模型、资源权限校验、权限迁移、OAuth 认证。当用户开发权限功能、配置 IAM 资源、实现权限校验或处理认证流程时使用。",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

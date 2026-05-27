@@ -1,0 +1,18 @@
+{
+  "name": "nessus",
+  "slug": "nessus",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nessus/",
+  "download_url": "https://claudskills.com/skills/nessus/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Nessus integration. Manage data, records, and automate workflows. Use when the user wants to interact with Nessus data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

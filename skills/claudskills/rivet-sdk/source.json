@@ -1,0 +1,18 @@
+{
+  "name": "rivet-sdk",
+  "slug": "rivet-sdk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rivet-sdk/",
+  "download_url": "https://claudskills.com/skills/rivet-sdk/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reference skill for Zoom Rivet SDK. Use after routing to a Rivet-based server workflow when implementing auth handling, webhook consumers, API wrappers, multi-module composition, or Lambda receiver patterns.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "mongodb-replication-and-ha-readiness",
+  "slug": "mongodb-replication-and-ha-readiness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mongodb-replication-and-ha-readiness/",
+  "download_url": "https://claudskills.com/skills/mongodb-replication-and-ha-readiness/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when designing or hardening MongoDB replica-set topology and high-availability posture after the data model exists and reliability and data-architecture have set the availability and consistency targets. Produces replica-set member topology and election behavior, read-preference routing, write-concern selection that the topology can actually honor, arbiter posture, oplog-window sizing for failover, change-stream availability, and multi-region replica placement. Do not use for document modeling or shard-key choice, query tuning, backup/PITR, security/auth, or host/cluster provisioning; use the other Family B archetype skills (provisioning is infrastructure).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

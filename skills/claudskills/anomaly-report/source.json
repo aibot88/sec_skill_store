@@ -1,0 +1,18 @@
+{
+  "name": "anomaly-report",
+  "slug": "anomaly-report",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/anomaly-report/",
+  "download_url": "https://claudskills.com/skills/anomaly-report/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Formátování nálezu (z bug-hunter / dead-code-hunter / perf-hunter / security-auditor / ručního pozorování) do bloku v <connector>/docs/anomalies.md + draft Jira issue body. Přiděluje [CONN-NNN] ID lokálně per connector podle pořadí v existujícím anomalies.md.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

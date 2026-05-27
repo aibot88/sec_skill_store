@@ -1,0 +1,18 @@
+{
+  "name": "taxonomic-classification",
+  "slug": "taxonomic-classification",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/taxonomic-classification/",
+  "download_url": "https://claudskills.com/skills/taxonomic-classification/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Naming and classifying organisms through binomial nomenclature, the Linnaean hierarchy, type specimens, and the rules governing taxonomic authority and revision. Covers the structure of a scientific name, the ranks from domain to subspecies, the codes (ICZN, ICN, ICNP), and the modern phylogenetic refinements that reshape the classical system. Use when the task is to place a known organism in its formal hierarchy or to reason about how names change over time.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

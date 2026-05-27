@@ -1,0 +1,18 @@
+{
+  "name": "recap-integration",
+  "slug": "recap-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/recap-integration/",
+  "download_url": "https://claudskills.com/skills/recap-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Integrates the Recap Swift package into SwiftUI apps, authors Recap-compatible releases markdown, and configures RecapDisplayPolicy and RecapScreen customization. Use when adding Recap into an app, updating Releases.md, or customizing the behavior of a Recap screen.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

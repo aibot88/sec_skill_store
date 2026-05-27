@@ -1,0 +1,18 @@
+{
+  "name": "security-alert-monitor",
+  "slug": "security-alert-monitor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-alert-monitor/",
+  "download_url": "https://claudskills.com/skills/security-alert-monitor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scans email threads for security alert signals — phishing reports, suspicious login notifications, data breach mentions, policy violation flags, vulnerability disclosures, and any language suggesting a security incident may be developing. Use when an IT security team wants an early warning scan across their email communications. Triggers on \"security alerts\", \"security incidents from email\", \"phishing reports\", \"suspicious activity\", \"security signal scan\", \"what security issues are brewing\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

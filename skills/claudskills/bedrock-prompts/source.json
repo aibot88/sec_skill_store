@@ -1,0 +1,18 @@
+{
+  "name": "bedrock-prompts",
+  "slug": "bedrock-prompts",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bedrock-prompts/",
+  "download_url": "https://claudskills.com/skills/bedrock-prompts/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Amazon Bedrock Prompt Management for creating, versioning, and managing prompt templates with variables, multi-variant A/B testing, and flow integration. Use when creating reusable prompt templates, managing prompt versions, implementing A/B testing for prompts, integrating prompts with Bedrock Flows, optimizing prompt engineering, or building production prompt catalogs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:04+00:00"
+}

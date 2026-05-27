@@ -1,0 +1,18 @@
+{
+  "name": "constitution-guardian",
+  "slug": "constitution-guardian",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/constitution-guardian/",
+  "download_url": "https://claudskills.com/skills/constitution-guardian/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Real-time Constitution compliance checker for devflow documents. Blocks partial implementations and hardcoded secrets during file editing.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

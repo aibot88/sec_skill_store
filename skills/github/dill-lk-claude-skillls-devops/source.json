@@ -1,0 +1,19 @@
+{
+  "name": "devops",
+  "slug": "dill-lk-claude-skillls-devops",
+  "source": "github",
+  "source_url": "https://github.com/dill-lk/Claude-Skillls/blob/9679fb56622f507dac2f44d78b761faa1e023b18/devops/claude.skill.md",
+  "download_url": "https://github.com/dill-lk/Claude-Skillls/blob/9679fb56622f507dac2f44d78b761faa1e023b18/devops/claude.skill.md",
+  "external_source_url": "https://github.com/dill-lk/Claude-Skillls/blob/9679fb56622f507dac2f44d78b761faa1e023b18/devops/claude.skill.md",
+  "license": "",
+  "description": "A curated library of advanced Claude Code skills — structured prompt templates, workflows, best practices, and checklists organised by engineering discipline. ",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "dill-lk/Claude-Skillls",
+    "path": "devops/claude.skill.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

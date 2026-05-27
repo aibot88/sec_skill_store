@@ -1,0 +1,18 @@
+{
+  "name": "web-ci-spec",
+  "slug": "web-ci-spec",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/web-ci-spec/",
+  "download_url": "https://claudskills.com/skills/web-ci-spec/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Produce a sprint CI.md covering pipeline stages, secrets handling, deployment strategy, and rollback for GitHub Actions / Cloud Build / GitLab CI / etc. Coordinator-only — produces drafts, never modifies live workflows. Pauses for user confirmation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

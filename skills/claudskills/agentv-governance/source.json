@@ -1,0 +1,18 @@
+{
+  "name": "agentv-governance",
+  "slug": "agentv-governance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentv-governance/",
+  "download_url": "https://claudskills.com/skills/agentv-governance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Author, edit, and lint `governance:` blocks in `*.eval.yaml` files. Use when creating or updating evaluation suites that carry AI-governance metadata (OWASP LLM Top 10, OWASP Agentic Top 10, MITRE ATLAS, EU AI Act, ISO 42001). Also use non-interactively (e.g., from a GitHub Action) to lint changed eval files and report violations against the rules in `references/lint-rules.md`. Do NOT use for running evals or benchmarking — that belongs to agentv-bench.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

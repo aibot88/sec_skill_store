@@ -1,0 +1,18 @@
+{
+  "name": "distribution-security",
+  "slug": "distribution-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/distribution-security/",
+  "download_url": "https://claudskills.com/skills/distribution-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Defense-in-depth, PII protection, secrets scanning, and secure packaging for distributed software",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

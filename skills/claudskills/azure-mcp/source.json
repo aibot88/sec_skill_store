@@ -1,0 +1,18 @@
+{
+  "name": "azure-mcp",
+  "slug": "azure-mcp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-mcp/",
+  "download_url": "https://claudskills.com/skills/azure-mcp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive Azure cloud management skill using Azure CLI. Manage 40+ Azure services including storage, databases, containers, monitoring, security, AI services, messaging, and infrastructure. Triggers on Azure, cloud, blob, cosmos, keyvault, AKS, kubernetes, monitor, SQL, postgres, mysql, event grid, service bus, functions, app service, resource group, subscription.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

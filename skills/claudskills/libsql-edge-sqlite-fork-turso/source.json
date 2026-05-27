@@ -1,0 +1,18 @@
+{
+  "name": "libsql-edge-sqlite-fork-turso",
+  "slug": "libsql-edge-sqlite-fork-turso",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/libsql-edge-sqlite-fork-turso/",
+  "download_url": "https://claudskills.com/skills/libsql-edge-sqlite-fork-turso/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "libSQL is an open-source, open-contribution fork of SQLite by Turso that adds embedded replicas, server mode, and WebAssembly UDFs. This skill enables agents to work with libSQL for edge computing, serverless, and embedded database workloads.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sales-postmark",
+  "slug": "sales-postmark",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-postmark/",
+  "download_url": "https://claudskills.com/skills/sales-postmark/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Postmark platform help — transactional email delivery via REST API (`POST /email`, `POST /email/batch`), SMTP relay, Message Streams (transactional vs broadcast isolation), Handlebars Templates with layout inheritance, Inbound Email parsing, Webhooks (bounce, delivery, open, click, spam complaint, subscription change, inbound), DMARC Monitoring, Bounce Management (Rebound), Suppressions, Statistics, Bulk API, Sender Signatures, and domain authentication. Use when transactional emails aren't arriving, Postmark bounce rates are climbing, unsure how to separate transactional from broadcast streams, templates aren't rendering correctly, inbound email parsing is broken, webhooks aren't firing, or DMARC reports show authentication failures. Do NOT use for general email marketing strategy (use /sales-email-marketing), cross-platform email deliverability (use /sales-deliverability), email open/click tracking strategy (use /sales-email-tracking), or SendGrid-specific questions (use /sales-sendgrid).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

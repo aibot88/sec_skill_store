@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-hemispheric-attention",
+  "slug": "agentprivacy-hemispheric-attention",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-hemispheric-attention/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-hemispheric-attention/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Five attentions framework for 0xagentprivacy. Activates when discussing McGilchrist's hemispheric theory, the five modes of attention (vigilance, sustained, alertness, focused, divided), how divided attention IS the gap, or the mapping between attention modes and protocol functions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

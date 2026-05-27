@@ -1,0 +1,18 @@
+{
+  "name": "scripting-bash",
+  "slug": "bash",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bash/",
+  "download_url": "https://claudskills.com/skills/bash/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Master defensive Bash scripting for production automation, CI/CD pipelines, and system utilities. Expert in safe, portable, and testable shell scripts with POSIX compliance, modern Bash 5.x features, and comprehensive error handling. Use when writing shell scripts, bash automation, CI/CD scripts, system utilities, or mentions \"bash\", \"shell script\", \"automation\", \"defensive programming\", or needs production-grade shell code.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:03+00:00"
+}

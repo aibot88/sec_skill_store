@@ -1,0 +1,18 @@
+{
+  "name": "ir-velociraptor",
+  "slug": "ir-velociraptor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ir-velociraptor/",
+  "download_url": "https://claudskills.com/skills/ir-velociraptor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Endpoint visibility, digital forensics, and incident response using Velociraptor Query Language (VQL) for evidence collection and threat hunting at scale. Use when: (1) Conducting forensic investigations across multiple endpoints, (2) Hunting for indicators of compromise or suspicious activities, (3) Collecting endpoint telemetry and artifacts for incident analysis, (4) Performing live response and evidence preservation, (5) Monitoring endpoints for security events, (6) Creating custom forensic artifacts for specific threat scenarios.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

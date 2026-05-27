@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-kyra",
+  "slug": "agentprivacy-kyra",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-kyra/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-kyra/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Sovereign AI Vision and meta-orchestrator for 0xagentprivacy. Activates when articulating the complete architectural vision, orchestrating across multiple personas, assessing ecosystem strategy within the 2-3 year window, preparing Dragon ceremonies, or answering 'why does this architecture exist?' Tier 0 — above the system. The compass, not the captain.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

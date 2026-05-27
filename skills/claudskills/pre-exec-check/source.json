@@ -1,0 +1,18 @@
+{
+  "name": "pre-exec-check",
+  "slug": "pre-exec-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pre-exec-check/",
+  "download_url": "https://claudskills.com/skills/pre-exec-check/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Safety check before executing destructive or irreversible commands. Catches dangerous shell commands, risky git operations, secret exposure, and high-blast-radius actions before they run. Activates automatically when Claude is about to execute shell commands that match known risk patterns. Trigger phrases: \"check before running\", \"is this command safe\", \"safety check\", \"pre-execution review\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

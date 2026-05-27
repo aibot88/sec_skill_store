@@ -1,0 +1,18 @@
+{
+  "name": "judge-security-auditor",
+  "slug": "judge-security-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/judge-security-auditor/",
+  "download_url": "https://claudskills.com/skills/judge-security-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when a diff may introduce security risk — authZ, injection, secrets, unsafe deserialization, SSRF, XSS, mass assignment — dispatched by /review-changes, /do-and-judge, /judge.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

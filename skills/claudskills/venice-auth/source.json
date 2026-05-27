@@ -1,0 +1,18 @@
+{
+  "name": "venice-auth",
+  "slug": "venice-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/venice-auth/",
+  "download_url": "https://claudskills.com/skills/venice-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authenticate to the Venice API with a Bearer API key or with an x402 / SIWE wallet. Covers header formats, the SIWE message fields, TTL and nonce rules, the venice-x402-client SDK, and how to choose between the two modes.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

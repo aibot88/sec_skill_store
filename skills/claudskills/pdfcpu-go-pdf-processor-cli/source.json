@@ -1,0 +1,18 @@
+{
+  "name": "pdfcpu-go-pdf-processor-cli",
+  "slug": "pdfcpu-go-pdf-processor-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pdfcpu-go-pdf-processor-cli/",
+  "download_url": "https://claudskills.com/skills/pdfcpu-go-pdf-processor-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "pdfcpu is a Go-based PDF processing library and CLI tool that handles validation, optimization, merging, splitting, watermarking, encryption, and form filling. It provides a complete PDF manipulation toolkit without external dependencies.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "risk-pipeline-risk-pipeline-dispatch",
+  "slug": "risk-pipeline-dispatch",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/risk-pipeline-dispatch/",
+  "download_url": "https://claudskills.com/skills/risk-pipeline-dispatch/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Dispatch risk vector -> reviewer roster + impl/reviewer model + tdd_required. Triggers: s>=- security-reviewer, d>=- data-reviewer, r>=+ reversibility-reviewer, b>=+ full code-quality, u>=+ adds novelty-reviewer + research. Crit axes hard-block. Model routes impl by tier (haiku-4.5/sonnet-4.6/opus-4.7) with crit + u-crit escalation; reviewer one tier down with security/post-task same-tier overrides. TDD when d|s>=- or b|u>=+.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

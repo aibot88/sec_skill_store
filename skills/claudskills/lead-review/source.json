@@ -1,0 +1,18 @@
+{
+  "name": "lead-review",
+  "slug": "lead-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lead-review/",
+  "download_url": "https://claudskills.com/skills/lead-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Autonomous comprehensive review. Once-through pipeline over /review-health, /review-arch, /review-security, /review-perf, /review-a11y, /review-test, /review-release. Operator-configurable ticket creation at startup — when ON, auto-approves sub-skill ticket proposals per the orchestrator-family contract; when OFF, uniformly declines and surfaces findings in the consolidated report. Auto-detects sub-skills that do not apply (no web content → skip /review-a11y; no tests → skip /review-test).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

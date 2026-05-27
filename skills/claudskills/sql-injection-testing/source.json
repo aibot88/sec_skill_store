@@ -1,0 +1,18 @@
+{
+  "name": "sql-injection-testing",
+  "slug": "sql-injection-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sql-injection-testing/",
+  "download_url": "https://claudskills.com/skills/sql-injection-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Execute comprehensive SQL injection vulnerability assessments on web applications to identify database security flaws, demonstrate exploitation techniques, and validate input sanitization mechanisms.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

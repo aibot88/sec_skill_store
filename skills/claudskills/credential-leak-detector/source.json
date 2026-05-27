@@ -1,0 +1,18 @@
+{
+  "name": "credential-leak-detector",
+  "slug": "credential-leak-detector",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/credential-leak-detector/",
+  "download_url": "https://claudskills.com/skills/credential-leak-detector/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "PostToolUse hook that scans Bash tool output for leaked credentials — API keys, tokens, private keys, and secrets — before they reach the conversation. Blocks critical leaks, redacts high-severity matches, and warns on suspicious patterns. 14 detection patterns covering OpenAI, Anthropic, AWS, GitHub, Stripe, Google, Slack, SendGrid, Twilio, PEM keys, bearer tokens, and generic secrets. No external dependencies. Trigger words: security, credential leak, secret exposure, key detection, token scan, API key leaked, credential guard, secret scanner, prevent credential leak.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

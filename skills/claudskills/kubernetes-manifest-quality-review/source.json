@@ -1,0 +1,18 @@
+{
+  "name": "kubernetes-manifest-quality-review",
+  "slug": "kubernetes-manifest-quality-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kubernetes-manifest-quality-review/",
+  "download_url": "https://claudskills.com/skills/kubernetes-manifest-quality-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when the user provides raw Kubernetes YAML manifests or asks to review K8s manifests for quality, security, or policy compliance — covering Deployment, StatefulSet, DaemonSet, Service, Ingress, NetworkPolicy, RBAC, and CRD resources.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

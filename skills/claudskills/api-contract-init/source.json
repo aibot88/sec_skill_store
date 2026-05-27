@@ -1,0 +1,18 @@
+{
+  "name": "api-contract-init",
+  "slug": "api-contract-init",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-contract-init/",
+  "download_url": "https://claudskills.com/skills/api-contract-init/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate API_CONTRACT.md by scanning existing routes and controllers",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:50+00:00"
+}

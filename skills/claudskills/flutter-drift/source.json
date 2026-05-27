@@ -1,0 +1,18 @@
+{
+  "name": "flutter-drift",
+  "slug": "flutter-drift",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flutter-drift/",
+  "download_url": "https://claudskills.com/skills/flutter-drift/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Complete guide for using drift database library in Flutter applications. Use when building Flutter apps that need local SQLite database storage with type-safe queries, reactive streams, migrations, and efficient CRUD operations. Includes setup with drift_flutter package, StreamBuilder integration, Provider/Riverpod patterns, and Flutter-specific database management for mobile, web, and desktop platforms.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

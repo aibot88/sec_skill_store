@@ -1,0 +1,18 @@
+{
+  "name": "msf-oneshot",
+  "slug": "msf-oneshot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/msf-oneshot/",
+  "download_url": "https://claudskills.com/skills/msf-oneshot/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Metasploit Framework 调用方法论（一行式 + 交互式）。当需要利用操作系统级漏洞（如 EternalBlue/MS17-010）、数据库远程漏洞（如 PostgreSQL/MySQL RCE）、网络服务漏洞（SMB/RDP/FTP）、需要生成 payload、启动反弹 shell handler、或后渗透操作时使用。MSF 拥有 2000+ exploit 模块，覆盖 Windows/Linux 操作系统、数据库、网络设备的远程利用。本技能同时覆盖一行式快速利用和 interactive_session 交互式操作（handler/meterpreter/后渗透）。任何涉及 metasploit、msfconsole、meterpreter、系统级 exploit、远程溢出、payload 生成、handler、后渗透的场景都应使用此技能",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

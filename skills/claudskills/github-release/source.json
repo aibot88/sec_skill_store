@@ -1,0 +1,18 @@
+{
+  "name": "github-release",
+  "slug": "github-release",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-release/",
+  "download_url": "https://claudskills.com/skills/github-release/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Prepare and publish GitHub releases. Sanitizes code for public release (secrets scan, personal artifacts, LICENSE/README validation), creates version tags, and publishes via gh CLI. Trigger with 'release', 'publish', 'open source', 'prepare for release', 'create release', or 'github release'.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

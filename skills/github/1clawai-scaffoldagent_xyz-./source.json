@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "1clawai-scaffoldagent_xyz-.",
+  "source": "github",
+  "source_url": "https://github.com/1clawAI/scaffoldagent_xyz/blob/5c291fd64f8ef6052a21510b2784455efafe92ef/skill.md",
+  "download_url": "https://github.com/1clawAI/scaffoldagent_xyz/blob/5c291fd64f8ef6052a21510b2784455efafe92ef/skill.md",
+  "external_source_url": "https://github.com/1clawAI/scaffoldagent_xyz/blob/5c291fd64f8ef6052a21510b2784455efafe92ef/skill.md",
+  "license": "",
+  "description": "Landing page for scaffold-agent - Build Onchain AI Agents",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "1clawAI/scaffoldagent_xyz",
+    "path": "skill.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

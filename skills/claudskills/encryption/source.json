@@ -1,0 +1,18 @@
+{
+  "name": "encryption",
+  "slug": "encryption",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/encryption/",
+  "download_url": "https://claudskills.com/skills/encryption/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit and harden encryption across the full stack. Checks data-at-rest encryption (database TDE, field-level AES-256-GCM, file storage SSE, backup encryption), data-in-transit security (TLS 1.2+, HSTS, certificate pinning, mTLS, WebSocket WSS), key management (KMS, envelope encryption, key rotation, key separation), password hashing (argon2id, bcrypt, scrypt, PBKDF2 work factors, salt uniqueness, migration plans), token security (JWT signing algorithms, CSPRNG, refresh token rotation), and API key management (hashed storage, scoping, revocation). Use when you need to audit crypto, fix weak hashing, implement envelope encryption, rotate keys, upgrade TLS, or harden token generation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

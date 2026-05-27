@@ -1,0 +1,18 @@
+{
+  "name": "composio-oauth-integration",
+  "slug": "composio-oauth-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/composio-oauth-integration/",
+  "download_url": "https://claudskills.com/skills/composio-oauth-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Composio OAuth integration for external service connections. CSRF-protected flow with state management, connection lifecycle transitions (pending→initiated→active), dynamic tool building from active connections, token expiration handling. Triggers on \"composio\", \"oauth\", \"integration\", \"connection\", \"external service\", \"third-party\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

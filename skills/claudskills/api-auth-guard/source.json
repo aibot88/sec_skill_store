@@ -1,0 +1,18 @@
+{
+  "name": "api-auth-guard",
+  "slug": "api-auth-guard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-auth-guard/",
+  "download_url": "https://claudskills.com/skills/api-auth-guard/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this skill BEFORE creating, editing, or reviewing any file in src/app/api/**/route.ts in the SmartHouse project. Invoke when the task mentions API route, endpoint, backend, /api/, route.ts, NextRequest, middleware, authentication, auth, autoryzacja, token, cron, CRON_SECRET, session, iron-session. This skill enforces that EVERY endpoint has one of three auth mechanisms (iron-session, CRON_SECRET Bearer, or Firebase ID token) before returning data.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:50+00:00"
+}

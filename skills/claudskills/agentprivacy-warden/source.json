@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-warden",
+  "slug": "agentprivacy-warden",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-warden/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-warden/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Browser Builder swordsman for 0xagentprivacy. Activates for browser extension development, cookie-slashing implementation, tracker blocking, MyTerms bilateral consent enforcement at the browser level, first-contact privacy protection, or Blade-tier user onboarding. The first line of defense — the person who downloads the extension.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

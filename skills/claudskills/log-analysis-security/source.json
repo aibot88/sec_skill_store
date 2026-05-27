@@ -1,0 +1,18 @@
+{
+  "name": "log-analysis-security",
+  "slug": "log-analysis-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/log-analysis-security/",
+  "download_url": "https://claudskills.com/skills/log-analysis-security/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Log Analysis Security - Auto-activating skill for Security Advanced. Triggers on: log analysis security, log analysis security Part of the Security Advanced skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

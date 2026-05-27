@@ -1,0 +1,18 @@
+{
+  "name": "activitywatch-automated-time-tracker",
+  "slug": "activitywatch-automated-time-tracker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/activitywatch-automated-time-tracker/",
+  "download_url": "https://claudskills.com/skills/activitywatch-automated-time-tracker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "ActivityWatch is a privacy-first, open-source automated time tracker that records application usage, browser activity, and AFK status across Windows, macOS, and Linux. With 16k+ GitHub stars, it provides detailed productivity analytics without sending data to external servers.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

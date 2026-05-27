@@ -1,0 +1,18 @@
+{
+  "name": "auth-implementation-patterns",
+  "slug": "sickn33-auth-implementation-patterns",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-auth-implementation-patterns",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/auth-implementation-patterns",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/auth-implementation-patterns",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Master authentication and authorization patterns including JWT, OAuth2, session management, and RBAC to build secure, scalable access control systems. Use when implementing auth systems, securing APIs, and designing permission models.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "2 files",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/auth-implementation-patterns"
+  },
+  "collected_at": "2026-05-27T03:44:46+00:00"
+}

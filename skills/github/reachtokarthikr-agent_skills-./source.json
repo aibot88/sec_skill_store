@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "reachtokarthikr-agent_skills-.",
+  "source": "github",
+  "source_url": "https://github.com/reachtokarthikr/Agent_Skills/blob/e85a2ea2c90a44cfa58e33d9a1bb551b18604702/code-quality-gate-SKILL.md",
+  "download_url": "https://github.com/reachtokarthikr/Agent_Skills/blob/e85a2ea2c90a44cfa58e33d9a1bb551b18604702/code-quality-gate-SKILL.md",
+  "external_source_url": "https://github.com/reachtokarthikr/Agent_Skills/blob/e85a2ea2c90a44cfa58e33d9a1bb551b18604702/code-quality-gate-SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "reachtokarthikr/Agent_Skills",
+    "path": "code-quality-gate-SKILL.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

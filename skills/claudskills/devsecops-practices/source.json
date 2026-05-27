@@ -1,0 +1,18 @@
+{
+  "name": "devsecops-practices",
+  "slug": "devsecops-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/devsecops-practices/",
+  "download_url": "https://claudskills.com/skills/devsecops-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "DevSecOps methodology guidance covering shift-left security, SAST/DAST/IAST integration, security gates in CI/CD pipelines, vulnerability management workflows, and security champions programs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

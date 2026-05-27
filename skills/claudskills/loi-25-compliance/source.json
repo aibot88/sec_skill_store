@@ -1,0 +1,18 @@
+{
+  "name": "loi-25-compliance",
+  "slug": "loi-25-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/loi-25-compliance/",
+  "download_url": "https://claudskills.com/skills/loi-25-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Base de connaissances sur la Loi 25 du Québec (protection des renseignements personnels) appliquée au développement logiciel. Ce skill doit être utilisé quand l'utilisateur demande \"audit loi 25\", \"vérifier la conformité\", \"protection des données personnelles\", \"PII\", \"renseignements personnels\", \"vie privée\", \"chiffrement des données sensibles\", \"droit à l'effacement\", \"portabilité des données\", \"EFVP\", \"évaluation des facteurs relatifs à la vie privée\", ou toute question sur la conformité d'un projet aux lois québécoises de protection de la vie privée.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

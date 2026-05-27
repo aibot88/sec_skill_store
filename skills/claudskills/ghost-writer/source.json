@@ -1,0 +1,18 @@
+{
+  "name": "ghost-writer",
+  "slug": "ghost-writer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ghost-writer/",
+  "download_url": "https://claudskills.com/skills/ghost-writer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Produce first drafts that match a writer's authentic voice using their Voice DNA Document. Consumes DNA documents from writing-dna-discovery skill. Generates 2 meaningfully different drafts with headlines, confidence assessment, decision notes, and DNA refinement suggestions. Collaborative partner that evaluates, pushes back, and advocates for quality. Handles blog posts, essays, newsletters, and more.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

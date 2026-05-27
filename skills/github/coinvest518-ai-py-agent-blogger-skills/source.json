@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "coinvest518-ai-py-agent-blogger-skills",
+  "source": "github",
+  "source_url": "https://github.com/coinvest518/ai-py-agent-blogger/blob/5ec1a001b5c9957e7e4c1b1e97c9d21e4380db44/skills/BUFFER.skill.md",
+  "download_url": "https://github.com/coinvest518/ai-py-agent-blogger/blob/5ec1a001b5c9957e7e4c1b1e97c9d21e4380db44/skills/BUFFER.skill.md",
+  "external_source_url": "https://github.com/coinvest518/ai-py-agent-blogger/blob/5ec1a001b5c9957e7e4c1b1e97c9d21e4380db44/skills/BUFFER.skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "coinvest518/ai-py-agent-blogger",
+    "path": "skills/BUFFER.skill.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

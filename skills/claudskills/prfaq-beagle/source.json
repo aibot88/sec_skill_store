@@ -1,0 +1,18 @@
+{
+  "name": "prfaq-beagle",
+  "slug": "prfaq-beagle",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prfaq-beagle/",
+  "download_url": "https://claudskills.com/skills/prfaq-beagle/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when the user wants to pressure-test a product, internal-tool, or OSS concept against Amazon's Working Backwards PRFAQ gauntlet before committing to a spec. Triggers on: \\\"work backwards\\\", \\\"write a PRFAQ\\\", \\\"press release first\\\", \\\"is this idea worth building\\\", \\\"pressure-test this concept\\\", \\\"filter this before brainstorm\\\", \\\"is this a real product\\\". Also catches solution-first pitches (\\\"I want to build X that does Y\\\") and technology-first pitches (\\\"use AI to...\\\") that need customer-first filtering. Produces a binary pass/fail verdict, not a polished doc. Hardcore coaching — direct, skeptical, concrete. On pass, hands off to brainstorm-beagle with a concept brief. Does NOT write code, plan implementation, scaffold projects, or draft specs.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

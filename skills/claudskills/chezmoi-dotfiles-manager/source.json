@@ -1,0 +1,18 @@
+{
+  "name": "chezmoi-dotfiles-manager",
+  "slug": "chezmoi-dotfiles-manager",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chezmoi-dotfiles-manager/",
+  "download_url": "https://claudskills.com/skills/chezmoi-dotfiles-manager/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "chezmoi manages dotfiles across multiple machines securely using a Git-backed source-of-truth model with templates, encryption, and cross-platform support. Written in Go with 18k+ GitHub stars, it handles machine-specific configs, secrets, and one-command bootstrap.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

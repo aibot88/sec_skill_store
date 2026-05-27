@@ -1,0 +1,19 @@
+{
+  "name": "spec-security",
+  "slug": "hirokazu-kobayashi-koba-hiro-idp-server-.claude-skills-spec-security",
+  "source": "github",
+  "source_url": "https://github.com/hirokazu-kobayashi-koba-hiro/idp-server/blob/d7b04181a8d63d34e59bb550a284af2e58bafcb0/.claude/skills/spec-security/skill.md",
+  "download_url": "https://github.com/hirokazu-kobayashi-koba-hiro/idp-server/blob/d7b04181a8d63d34e59bb550a284af2e58bafcb0/.claude/skills/spec-security/skill.md",
+  "external_source_url": "https://github.com/hirokazu-kobayashi-koba-hiro/idp-server/blob/d7b04181a8d63d34e59bb550a284af2e58bafcb0/.claude/skills/spec-security/skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "hirokazu-kobayashi-koba-hiro/idp-server",
+    "path": ".claude/skills/spec-security/skill.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gamma-multi-env-setup",
+  "slug": "gamma-multi-env-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gamma-multi-env-setup/",
+  "download_url": "https://claudskills.com/skills/gamma-multi-env-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Gamma across development, staging, and production environments. Use when setting up multi-environment deployments, configuring per-environment secrets, or implementing environment-specific Gamma configurations. Trigger with phrases like \"gamma environments\", \"gamma staging\", \"gamma dev prod\", \"gamma environment setup\", \"gamma config by env\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

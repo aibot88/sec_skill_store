@@ -1,0 +1,18 @@
+{
+  "name": "automation-brainstorm",
+  "slug": "automation-brainstorm",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/automation-brainstorm/",
+  "download_url": "https://claudskills.com/skills/automation-brainstorm/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Interactive workflow design advisor for Power Automate, n8n, Make, Zapier and other platforms. Guides users through planning automation workflows with smart questions about triggers, actions, data flow, and error handling. Uses research sub-agent to find best practices and generates detailed implementation plan. Triggers when user mentions \"create workflow\", \"build flow\", \"design automation\", \"need ideas for\", or describes workflow requirements without having a complete design.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

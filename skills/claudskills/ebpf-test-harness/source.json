@@ -1,0 +1,18 @@
+{
+  "name": "ebpf-test-harness",
+  "slug": "ebpf-test-harness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ebpf-test-harness/",
+  "download_url": "https://claudskills.com/skills/ebpf-test-harness/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate test infrastructure for eBPF CNF programs including network namespace setup, virtual interface creation, traffic generation, packet injection, and validation of packet processing logic. Use when implementing automated tests for CNFs.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

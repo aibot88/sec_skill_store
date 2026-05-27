@@ -1,0 +1,18 @@
+{
+  "name": "performing-security-headers-audit",
+  "slug": "performing-security-headers-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-security-headers-audit/",
+  "download_url": "https://claudskills.com/skills/performing-security-headers-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Auditing HTTP security headers including CSP, HSTS, X-Frame-Options, and cookie attributes to identify missing",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

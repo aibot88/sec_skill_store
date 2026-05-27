@@ -1,0 +1,18 @@
+{
+  "name": "gempy",
+  "slug": "gempy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gempy/",
+  "download_url": "https://claudskills.com/skills/gempy/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "3D structural geological modeling using implicit methods. Create geological models with faults, folds, and unconformities from surface points and orientations. Use when Claude needs to: (1) Build 3D geological models from surface contacts and orientations, (2) Model faults, unconformities, or intrusions, (3) Compute and visualize subsurface geology, (4) Export models to VTK or numpy arrays, (5) Generate gravity forward models, (6) Create cross-sections or 3D visualizations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

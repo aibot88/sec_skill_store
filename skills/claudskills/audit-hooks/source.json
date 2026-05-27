@@ -1,0 +1,18 @@
+{
+  "name": "audit-hooks",
+  "slug": "audit-hooks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-hooks/",
+  "download_url": "https://claudskills.com/skills/audit-hooks/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit Claude Code hooks for safety, correctness, and best practices compliance. Checks settings.json configuration, hook scripts, error logging, and deployment readiness. Use when reviewing hook health, checking hook safety, validating hooks, or after adding/modifying hooks.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

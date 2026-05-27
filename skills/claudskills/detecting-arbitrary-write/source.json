@@ -1,0 +1,18 @@
+{
+  "name": "detecting-arbitrary-write",
+  "slug": "detecting-arbitrary-write",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-arbitrary-write/",
+  "download_url": "https://claudskills.com/skills/detecting-arbitrary-write/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detects arbitrary write vulnerabilities by identifying unchecked array indexing and out-of-bounds memory writes. Use when analyzing memory write operations, pointer arithmetic, or investigating code execution vulnerabilities.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

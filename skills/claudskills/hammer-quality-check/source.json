@@ -1,0 +1,18 @@
+{
+  "name": "hammer-quality-check",
+  "slug": "hammer-quality-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hammer-quality-check/",
+  "download_url": "https://claudskills.com/skills/hammer-quality-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Runs comprehensive code quality checks for SDL3 HammerEngine including compilation warnings, static analysis (cppcheck, clang-tidy), coding standards validation, threading safety verification, and architecture compliance. Use before commits, pull requests, or when the user wants to verify code meets project quality standards.",
+  "category": "ads",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ads-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

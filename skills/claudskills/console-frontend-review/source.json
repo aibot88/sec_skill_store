@@ -1,0 +1,18 @@
+{
+  "name": "console-frontend-review",
+  "slug": "console-frontend-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/console-frontend-review/",
+  "download_url": "https://claudskills.com/skills/console-frontend-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reviews React/TypeScript code for the depot console web application with focus on real-time rover teleoperation, state management, WebSocket communication, and 3D visualization. Use when reviewing console frontend changes, debugging teleop UI issues, optimizing rendering performance, validating WebSocket protocols, checking React Three Fiber implementations, or evaluating state management patterns. Covers Zustand store architecture, binary protocol encoding, input handling, page visibility safety, memory management, and 360-degree video streaming.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

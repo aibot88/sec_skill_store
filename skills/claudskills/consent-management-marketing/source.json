@@ -1,0 +1,18 @@
+{
+  "name": "consent-management-marketing",
+  "slug": "consent-management-marketing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/consent-management-marketing/",
+  "download_url": "https://claudskills.com/skills/consent-management-marketing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Email consent management in Marketing Cloud: configuring Subscription Centers, building Preference Centers on CloudPages, enforcing CAN-SPAM and GDPR requirements, and handling opt-out propagation. Trigger keywords: unsubscribe handling, CAN-SPAM compliance, GDPR consent tracking, publication lists, subscription center, preference center, opt-out, double opt-in, Privacy Center, MC consent. NOT for general GDPR compliance in Sales/Service Cloud, not for Salesforce CRM consent objects (ContactPointTypeConsent), not for Einstein consent scoring.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "seo",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dockerfile-best-practices",
+  "slug": "dockerfile-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dockerfile-best-practices/",
+  "download_url": "https://claudskills.com/skills/dockerfile-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Create and optimize Dockerfiles with BuildKit, multi-stage builds, advanced caching, and security. Use when: (1) Creating new Dockerfile, (2) Optimizing existing Dockerfile, (3) Reducing image size, (4) Improving security, (5) Using Python with uv, (6) Resolving cache or slow build issues, (7) Setting up CI/CD builds",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

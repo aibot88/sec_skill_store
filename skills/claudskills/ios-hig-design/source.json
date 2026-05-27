@@ -1,0 +1,18 @@
+{
+  "name": "ios-hig-design",
+  "slug": "ios-hig-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ios-hig-design/",
+  "download_url": "https://claudskills.com/skills/ios-hig-design/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Build native iOS interfaces following Apple Human Interface Guidelines. Use when the user mentions \"iPhone app\", \"iPad layout\", \"SwiftUI\", \"UIKit\", \"Dynamic Island\", \"safe areas\", or \"HIG compliance\". Covers navigation patterns, accessibility, SF Symbols, and platform conventions. For general UI polish, see refactoring-ui. For affordance design, see design-everyday-things. Trigger with 'ios', 'hig', 'design'.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

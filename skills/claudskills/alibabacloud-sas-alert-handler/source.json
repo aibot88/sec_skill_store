@@ -1,0 +1,18 @@
+{
+  "name": "alibabacloud-sas-alert-handler",
+  "slug": "alibabacloud-sas-alert-handler",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibabacloud-sas-alert-handler/",
+  "download_url": "https://claudskills.com/skills/alibabacloud-sas-alert-handler/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Alibaba Cloud Security Center (SAS) CWPP host security alert handling skill. Used for querying, analyzing, and handling security alerts from Cloud Security Center. Triggers: \"security alert\", \"alert handling\", \"CWPP alert\", \"Cloud Security Center alert\", \"SAS alert\", \"Aegis alert\", \"view alerts\", \"handle alerts\"",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

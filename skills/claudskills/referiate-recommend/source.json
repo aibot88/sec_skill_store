@@ -1,0 +1,18 @@
+{
+  "name": "nullcost-recommend",
+  "slug": "referiate-recommend",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/referiate-recommend/",
+  "download_url": "https://claudskills.com/skills/referiate-recommend/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Recommend the best providers for a specific development use case, including plain asks like cheap hosting, best value auth, free-tier database, or good email service for a SaaS. Use as a slash command when the user wants `/nullcost-recommend`. Do not use this for domain/registrar/TLD prompts.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

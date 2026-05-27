@@ -1,0 +1,18 @@
+{
+  "name": "accessibility-generator",
+  "slug": "accessibility-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/accessibility-generator/",
+  "download_url": "https://claudskills.com/skills/accessibility-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generate accessibility infrastructure for VoiceOver, Dynamic Type, and accessibility features. Use when improving app accessibility, adding accessibility labels and hints, or auditing compliance.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

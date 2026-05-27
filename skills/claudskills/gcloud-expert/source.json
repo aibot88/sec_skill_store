@@ -1,0 +1,18 @@
+{
+  "name": "mastering-gcloud-commands",
+  "slug": "gcloud-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcloud-expert/",
+  "download_url": "https://claudskills.com/skills/gcloud-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert-level Google Cloud CLI (gcloud) skill for managing GCP resources. Use when working with \"gcloud commands\", \"cloud run deploy\", \"alloydb\", \"cloud sql\", \"workload identity federation\", \"iam permissions\", \"vpc networking\", \"secret manager\", or \"artifact registry\". Covers installation, authentication, IAM, Cloud Run, Cloud Storage, VPC, AlloyDB, Firebase, and CI/CD integration with GitHub Actions and Cloud Build.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "audio-podcast",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

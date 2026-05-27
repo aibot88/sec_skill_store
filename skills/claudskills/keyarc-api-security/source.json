@@ -1,0 +1,18 @@
+{
+  "name": "keyarc-api-security",
+  "slug": "keyarc-api-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/keyarc-api-security/",
+  "download_url": "https://claudskills.com/skills/keyarc-api-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when creating FastAPI endpoints, implementing JWT authentication, handling encrypted payloads, adding audit logging, or applying OWASP security patterns to KeyArc API endpoints.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

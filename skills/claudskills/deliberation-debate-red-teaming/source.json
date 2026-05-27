@@ -1,0 +1,18 @@
+{
+  "name": "deliberation-debate-red-teaming",
+  "slug": "deliberation-debate-red-teaming",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deliberation-debate-red-teaming/",
+  "download_url": "https://claudskills.com/skills/deliberation-debate-red-teaming/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when testing plans or decisions for blind spots, need adversarial review before launch, validating strategy against worst-case scenarios, building consensus through structured debate, identifying attack vectors or vulnerabilities, user mentions \"play devil's advocate\", \"what could go wrong\", \"challenge our assumptions\", \"stress test this\", \"red team\", or when groupthink or confirmation bias may be hiding risks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

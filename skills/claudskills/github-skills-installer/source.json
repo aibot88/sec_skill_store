@@ -1,0 +1,18 @@
+{
+  "name": "github-skills-installer",
+  "slug": "github-skills-installer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-skills-installer/",
+  "download_url": "https://claudskills.com/skills/github-skills-installer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Instalar skills de repositórios GitHub externos para ~/.aionui-config/skills — inclui Antigravity (1445+ skills), addyosmani, Orchestra Research, Cybersecurity, Marketing, e outros. Usa npx para Antigravity e git clone para os restantes.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

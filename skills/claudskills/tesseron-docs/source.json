@@ -1,0 +1,18 @@
+{
+  "name": "tesseron-docs",
+  "slug": "tesseron-docs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tesseron-docs/",
+  "download_url": "https://claudskills.com/skills/tesseron-docs/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authoritative Tesseron documentation lookup via the `@tesseron/docs-mcp` MCP server. Calls `search_docs` to find relevant pages and `read_doc` to fetch the full markdown body when the user asks precision questions about Tesseron protocol or SDK behaviour. Triggers on requests that need an exact spec, not an overview — wire format (JSON-RPC envelopes, `tesseron/hello`, `tesseron/welcome`, `tesseron/resume`, `actions/progress`, `actions/cancel`), transport framing, handshake and claim-code flow, session resume and resumeToken, lifecycle transitions, sampling contract, elicitation contract (`ctx.confirm`, `ctx.elicit`), progress + cancellation via `AbortSignal`, error codes (`TesseronErrorCode`, `SamplingNotAvailableError`, `ElicitationNotAvailableError`, `TimeoutError`, `CancelledError`, `ResumeFailedError`), capability negotiation, origin allowlist, multi-app namespacing, MCP gateway config, Standard Schema (Zod, Valibot, Typebox) integration, action-builder steps, resource read/subscribe, React hook semantics. Use phrases like \"what error code does X return\", \"what does tesseron/hello look like\", \"exact handshake shape\", \"resumeToken flow\", \"gateway origin allowlist\", \"show me the spec for\", \"what fields does X accept\". The `framework` skill handles orientation and the mental model; `tesseron-docs` handles chapter-and-verse questions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

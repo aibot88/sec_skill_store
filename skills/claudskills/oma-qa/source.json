@@ -1,0 +1,18 @@
+{
+  "name": "oma-qa",
+  "slug": "oma-qa",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oma-qa/",
+  "download_url": "https://claudskills.com/skills/oma-qa/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Quality assurance specialist for security, performance, accessibility, comprehensive testing, and quality standard alignment. Use for test, review, security audit, OWASP, coverage, lint work, and ISO/IEC 25010 or ISO/IEC 29119-aligned QA recommendations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "slowmist-agent-security",
+  "slug": "slowmist-agent-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/slowmist-agent-security/",
+  "download_url": "https://claudskills.com/skills/slowmist-agent-security/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive security review framework for AI agents. Covers skill/MCP installation, GitHub repos, URLs/documents, on-chain addresses, products/services, and social shares. Built from real-world attack patterns and incident response experience.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

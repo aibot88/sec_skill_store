@@ -1,0 +1,18 @@
+{
+  "name": "api-integration-builder",
+  "slug": "api-integration-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-integration-builder/",
+  "download_url": "https://claudskills.com/skills/api-integration-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "Complete terms in LICENSE.txt",
+  "description": "Build reliable third-party API integrations including OAuth, webhooks, rate limiting, error handling, and data sync. Use when integrating with external services (Slack, Stripe, Gmail, etc.), building API connections, handling webhooks, or implementing OAuth flows.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "quality-bandit",
+  "slug": "quality-bandit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/quality-bandit/",
+  "download_url": "https://claudskills.com/skills/quality-bandit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Bandit 보안 검사 설정 및 관리 스킬. pyproject.toml에 Bandit 설정을 구성하고 보안 취약점을 탐지한다. OWASP, CWE 기반의 보안 검사 환경을 구축한다.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

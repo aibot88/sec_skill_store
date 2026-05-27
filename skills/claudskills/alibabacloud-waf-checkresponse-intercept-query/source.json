@@ -1,0 +1,18 @@
+{
+  "name": "alibabacloud-waf-checkresponse-intercept-query",
+  "slug": "alibabacloud-waf-checkresponse-intercept-query",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibabacloud-waf-checkresponse-intercept-query/",
+  "download_url": "https://claudskills.com/skills/alibabacloud-waf-checkresponse-intercept-query/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Query Alibaba Cloud WAF block reasons via SLS logs and WAF CLI. Analyzes detailed information about blocked requests. Optionally supports disabling WAF rules (ModifyDefenseRuleStatus) and managing log service settings (ModifyUserWafLogStatus, ModifyResourceLogStatus). Use when users report being blocked by WAF, encounter 405/block error pages, or need to investigate and remediate WAF security rules. Trigger words: \"WAF block query\", \"blocked by WAF\", \"405 troubleshooting\", \"request blocked\", \"checkresponse\", \"intercept query\", \"disable WAF rule\", \"enable WAF log\"",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

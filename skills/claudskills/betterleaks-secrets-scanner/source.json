@@ -1,0 +1,18 @@
+{
+  "name": "betterleaks-secrets-scanner",
+  "slug": "betterleaks-secrets-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/betterleaks-secrets-scanner/",
+  "download_url": "https://claudskills.com/skills/betterleaks-secrets-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "A fast, configurable secrets scanner built by the creator of Gitleaks and backed by Aikido Security. Betterleaks detects leaked passwords, API keys, and tokens in git repositories, directories, and stdin with CEL-based validation and parallelized scanning.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

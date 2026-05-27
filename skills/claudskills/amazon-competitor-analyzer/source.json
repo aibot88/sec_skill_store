@@ -1,0 +1,18 @@
+{
+  "name": "amazon-competitor-analyzer",
+  "slug": "amazon-competitor-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/amazon-competitor-analyzer/",
+  "download_url": "https://claudskills.com/skills/amazon-competitor-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Scrapes Amazon product data from ASINs using browseract.com automation API and performs surgical competitive analysis. Compares specifications, pricing, review quality, and visual strategies to identify competitor moats and vulnerabilities.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

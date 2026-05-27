@@ -1,0 +1,18 @@
+{
+  "name": "Dapr Validator",
+  "slug": "dapr-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dapr-validator/",
+  "download_url": "https://claudskills.com/skills/dapr-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate Dapr component configs, sidecar annotations, and mTLS settings. Use when: (1) Creating Dapr Component manifests, (2) Adding Dapr annotations to deployments, (3) Configuring pub/sub, state stores, or bindings, (4) Before deploying Dapr-enabled applications, (5) Generating new Dapr components. Validates secrets management (secretKeyRef), scopes, mTLS, sidecar resource limits, and namespace configuration.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

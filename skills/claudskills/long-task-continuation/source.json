@@ -1,0 +1,18 @@
+{
+  "name": "long-task-continuation",
+  "slug": "long-task-continuation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/long-task-continuation/",
+  "download_url": "https://claudskills.com/skills/long-task-continuation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when a task is multi-step, may span context resets or sessions, uses subagents, or risks losing state before completion - keeps todo, checkpoint, resume, drift, and evidence discipline without granting completion authority",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

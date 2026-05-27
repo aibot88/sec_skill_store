@@ -1,0 +1,18 @@
+{
+  "name": "autogenerate-constraints",
+  "slug": "autogenerate-constraints",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/autogenerate-constraints/",
+  "download_url": "https://claudskills.com/skills/autogenerate-constraints/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Autogenerate constraint checking code from constraints (C-*) that specify system limits, timeouts, dependencies, or environmental requirements. Use when C-* includes technical constraints like timeouts, API limits, or compliance requirements.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

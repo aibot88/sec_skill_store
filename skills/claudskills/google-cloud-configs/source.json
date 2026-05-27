@@ -1,0 +1,18 @@
+{
+  "name": "google-cloud-configs",
+  "slug": "google-cloud-configs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-cloud-configs/",
+  "download_url": "https://claudskills.com/skills/google-cloud-configs/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Google Cloud Platform configuration templates for BigQuery ML and Vertex AI training with authentication setup, GPU/TPU configs, and cost estimation tools. Use when setting up GCP ML training, configuring BigQuery ML models, deploying Vertex AI training jobs, estimating GCP costs, configuring cloud authentication, selecting GPUs/TPUs for training, or when user mentions BigQuery ML, Vertex AI, GCP training, cloud ML setup, TPU training, or Google Cloud costs.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

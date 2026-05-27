@@ -1,0 +1,18 @@
+{
+  "name": "when-reviewing-github-pr-use-github-code-review",
+  "slug": "when-reviewing-github-pr-use-github-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/when-reviewing-github-pr-use-github-code-review/",
+  "download_url": "https://claudskills.com/skills/when-reviewing-github-pr-use-github-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive GitHub pull request code review using multi-agent swarm with specialized reviewers for security, performance, style, tests, and documentation. Coordinates security-auditor, perf-analyzer, code-analyzer, tester, and reviewer agents through mesh topology for parallel analysis. Provides detailed feedback with auto-fix suggestions and merge readiness assessment. Use when reviewing PRs, conducting code audits, or ensuring code quality standards before merge.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

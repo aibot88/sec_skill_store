@@ -1,0 +1,18 @@
+{
+  "name": "python-conventions",
+  "slug": "python-conventions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/python-conventions/",
+  "download_url": "https://claudskills.com/skills/python-conventions/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply Python project conventions — uv for deps and builds, Ruff strict (E, F, I, UP, B, SIM, PTH, PIE, RUF, T201, PLC0415), mypy strict, pytest with pytest-cov and pytest-asyncio, vulture for dead code, pip-audit for dependency security, and a gitignored test.py for scratch experiments. Use when starting a Python project, writing or reviewing Python code, configuring Python tooling, or evaluating compliance with these defaults. Co-activates with running-tdd-cycles, reviewing-changes, and engineering-philosophy.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

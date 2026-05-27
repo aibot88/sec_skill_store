@@ -1,0 +1,18 @@
+{
+  "name": "claude-framework",
+  "slug": "claude-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/claude-framework/",
+  "download_url": "https://claudskills.com/skills/claude-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CLAUDE Framework coding standards for code quality, naming conventions, error handling, security, testing, database, and logging",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

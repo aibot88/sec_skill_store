@@ -1,0 +1,18 @@
+{
+  "name": "accessibility-selenium-testing",
+  "slug": "accessibility-selenium-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/accessibility-selenium-testing/",
+  "download_url": "https://claudskills.com/skills/accessibility-selenium-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Accessibility testing toolkit using Selenium WebDriver 4+ with Java 21+ and axe-core engine. Use when asked to validate WCAG 2.1/2.2 compliance, scan pages or components for a11y violations, test keyboard navigation, audit color contrast, check ARIA semantics, generate accessibility reports, filter axe rules, debug screen reader issues, or implement POUR principles (perceivable, operable, understandable, robust).",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

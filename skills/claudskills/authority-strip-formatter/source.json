@@ -1,0 +1,18 @@
+{
+  "name": "authority-strip-formatter",
+  "slug": "authority-strip-formatter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/authority-strip-formatter/",
+  "download_url": "https://claudskills.com/skills/authority-strip-formatter/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Format the ACBS 4-layer authority strip in Kokai-generated outputs. Apply to all briefs that include Kokai data.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "linters-formatters",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:57+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "emergency-response",
+  "slug": "emergency-response",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/emergency-response/",
+  "download_url": "https://claudskills.com/skills/emergency-response/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit a 911 dispatch or emergency response system for operational reliability and compliance. Evaluates call routing and intake (E911/NG911), unit recommendation algorithms, AVL and response time tracking, mutual aid coordination, GIS integration, ICS/NIMS compliance, and mass casualty incident capabilities. Use when building or reviewing CAD systems, PSAP software, dispatch platforms, or emergency operations center tools.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

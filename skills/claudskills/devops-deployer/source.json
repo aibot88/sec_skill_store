@@ -1,0 +1,18 @@
+{
+  "name": "devops-deployer",
+  "slug": "devops-deployer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/devops-deployer/",
+  "download_url": "https://claudskills.com/skills/devops-deployer/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache 2.0",
+  "description": "Comprehensive DevOps and deployment workflow that orchestrates infrastructure automation, CI/CD pipelines, container orchestration, and cloud deployment. Handles everything from infrastructure as code and pipeline setup to monitoring, scaling, and disaster recovery.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

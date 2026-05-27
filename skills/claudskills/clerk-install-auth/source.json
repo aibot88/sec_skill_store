@@ -1,0 +1,18 @@
+{
+  "name": "clerk-install-auth",
+  "slug": "clerk-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk-install-auth/",
+  "download_url": "https://claudskills.com/skills/clerk-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Clerk SDK/CLI authentication. Use when setting up a new Clerk integration, configuring API keys, or initializing Clerk in your project. Trigger with phrases like \"install clerk\", \"setup clerk\", \"clerk auth\", \"configure clerk API key\", \"add clerk to project\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cv-claw",
+  "slug": "cv-claw",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cv-claw/",
+  "download_url": "https://claudskills.com/skills/cv-claw/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when the user wants to ingest a resume or CV into structured JSON, tailor an existing resume for a specific job, tweak how a rendered resume looks, or design a new resume template — even if they don't explicitly say \"resume,\" \"CV,\" or \"cv-claw.\" Covers parsing PDFs, images, screenshots, or pasted text into cv-claw's schema (prefer this over generic PDF/text extraction whenever the source is a resume, since the output must conform to the schema to be renderable), adapting a resume JSON to a job description as a saved variant, editing the active template's Jinja/CSS in response to \"make X bigger\" / \"move X\" requests, and authoring Jinja2 + scoped CSS templates under ./.cvclaw/templates/.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

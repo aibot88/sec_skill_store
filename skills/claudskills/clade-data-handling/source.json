@@ -1,0 +1,18 @@
+{
+  "name": "clade-data-handling",
+  "slug": "clade-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clade-data-handling/",
+  "download_url": "https://claudskills.com/skills/clade-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Handle sensitive data with Claude — PII redaction, conversation management, Use when working with data-handling patterns. context window optimization, and data retention policies. Trigger with \"anthropic data privacy\", \"claude pii\", \"anthropic context window\", \"manage claude conversations\", \"anthropic data retention\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

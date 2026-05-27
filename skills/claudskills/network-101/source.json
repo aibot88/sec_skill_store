@@ -1,0 +1,18 @@
+{
+  "name": "network-101",
+  "slug": "network-101",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/network-101/",
+  "download_url": "https://claudskills.com/skills/network-101/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configure and test common network services (HTTP, HTTPS, SNMP, SMB) for penetration testing lab environments. Enable hands-on practice with service enumeration, log analysis, and security testing against properly configured target systems.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

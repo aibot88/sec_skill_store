@@ -1,0 +1,18 @@
+{
+  "name": "replit-hello-world",
+  "slug": "replit-hello-world",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/replit-hello-world/",
+  "download_url": "https://claudskills.com/skills/replit-hello-world/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Create a minimal working Replit app with database, object storage, and auth. Use when starting a new Replit project, testing your setup, or learning Replit's built-in services (DB, Auth, Object Storage). Trigger with phrases like \"replit hello world\", \"replit starter\", \"replit quick start\", \"first replit app\", \"replit example\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "curriculum-review-accessibility",
+  "slug": "curriculum-review-accessibility",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/curriculum-review-accessibility/",
+  "download_url": "https://claudskills.com/skills/curriculum-review-accessibility/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate WCAG 2.1 compliance, screen reader compatibility, and Universal Design for Learning (UDL) principles implementation throughout curriculum materials. Use when checking accessibility, validating UDL, or ensuring compliance. Activates on \"accessibility check\", \"WCAG validation\", \"UDL review\", or \"screen reader test\".",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

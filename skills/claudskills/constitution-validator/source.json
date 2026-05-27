@@ -1,0 +1,18 @@
+{
+  "name": "constitution-validator",
+  "slug": "constitution-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/constitution-validator/",
+  "download_url": "https://claudskills.com/skills/constitution-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "AGPL-3.0",
+  "description": "Constitution compliance validator focusing on Principle XI (No Hardcoded Values). Detects hardcoded URLs, timeouts, limits, and identifiers that should be configurable. Use proactively when implementing business logic, adding new features, or reviewing PRs for constitution compliance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

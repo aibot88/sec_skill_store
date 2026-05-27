@@ -1,0 +1,18 @@
+{
+  "name": "zapier-workflows",
+  "slug": "zapier-workflows",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/zapier-workflows/",
+  "download_url": "https://claudskills.com/skills/zapier-workflows/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage and trigger pre-built Zapier workflows and MCP tool orchestration. Use when user mentions workflows, Zaps, automations, daily digest, research, search, lead tracking, expenses, or asks to \"run\" any process. Also handles Perplexity-based research and Google Sheets data tracking.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

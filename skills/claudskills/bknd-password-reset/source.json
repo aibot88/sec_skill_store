@@ -1,0 +1,18 @@
+{
+  "name": "bknd-password-reset",
+  "slug": "bknd-password-reset",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bknd-password-reset/",
+  "download_url": "https://claudskills.com/skills/bknd-password-reset/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when implementing password reset or change functionality in a Bknd application. Covers server-side password changes, building forgot-password flows with email tokens, and security considerations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

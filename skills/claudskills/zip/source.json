@@ -1,0 +1,18 @@
+{
+  "name": "zip",
+  "slug": "zip",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/zip/",
+  "download_url": "https://claudskills.com/skills/zip/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Compress, extract, list, and encrypt ZIP archives in batch. Use when archiving files, extracting packages, listing contents, encrypting backups, or batching.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:39+00:00"
+}

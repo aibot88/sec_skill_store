@@ -1,0 +1,18 @@
+{
+  "name": "security-patterns",
+  "slug": "x-0xdarkmatter-security-patterns",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/x-0xdarkmatter-security-patterns",
+  "download_url": "https://github.com/0xDarkMatter/claude-mods/tree/main/skills/security-patterns",
+  "external_source_url": "https://github.com/0xDarkMatter/claude-mods/tree/main/skills/security-patterns",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Security patterns and OWASP guidelines. Triggers on: security review, OWASP, XSS, SQL injection, CSRF, authentication, authorization, secrets management, input validation, secure coding.",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/0xDarkMatter/claude-mods/tree/main/skills/security-patterns"
+  },
+  "collected_at": "2026-05-27T03:44:52+00:00"
+}

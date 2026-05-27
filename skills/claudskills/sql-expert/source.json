@@ -1,0 +1,18 @@
+{
+  "name": "sql-expert",
+  "slug": "sql-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sql-expert/",
+  "download_url": "https://claudskills.com/skills/sql-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert SQL query writing, optimization, and database schema design with support for PostgreSQL, MySQL, SQLite, and SQL Server. Use when working with databases for: (1) Writing complex SQL queries with joins, subqueries, and window functions, (2) Optimizing slow queries and analyzing execution plans, (3) Designing database schemas with proper normalization, (4) Creating indexes and improving query performance, (5) Writing migrations and handling schema changes, (6) Debugging SQL errors and query issues",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

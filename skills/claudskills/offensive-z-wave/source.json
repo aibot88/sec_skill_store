@@ -1,0 +1,18 @@
+{
+  "name": "offensive-z-wave",
+  "slug": "offensive-z-wave",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/offensive-z-wave/",
+  "download_url": "https://claudskills.com/skills/offensive-z-wave/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Z-Wave attack methodology — sniffing with Z-Force / EZ-Wave / RTL-SDR + ZniffMobile, S0 (legacy) network-key derivation flaw and key reuse, S2 (modern) ECDH commissioning analysis, replay/injection on unauthenticated nodes, default-key brute-force on test deployments, and home-automation hub pivots. Use when targeting Z-Wave smart home devices (door locks, sensors, garage controllers) — common in mid-2010s smart home deployments still in production.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

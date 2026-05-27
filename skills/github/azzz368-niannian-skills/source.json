@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "azzz368-niannian-skills",
+  "source": "github",
+  "source_url": "https://github.com/Azzz368/NIANNIAN/blob/d8795edb3543c0043c8374a85cd325e7cf4a6328/skills/mother-skill.md",
+  "download_url": "https://github.com/Azzz368/NIANNIAN/blob/d8795edb3543c0043c8374a85cd325e7cf4a6328/skills/mother-skill.md",
+  "external_source_url": "https://github.com/Azzz368/NIANNIAN/blob/d8795edb3543c0043c8374a85cd325e7cf4a6328/skills/mother-skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Azzz368/NIANNIAN",
+    "path": "skills/mother-skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

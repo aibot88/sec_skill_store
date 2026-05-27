@@ -1,0 +1,18 @@
+{
+  "name": "slash-command-factory",
+  "slug": "slash-command-factory",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/slash-command-factory/",
+  "download_url": "https://claudskills.com/skills/slash-command-factory/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate custom Claude Code slash commands through intelligent 5-7 question flow. Creates powerful commands for business research, content analysis, healthcare compliance, API integration, documentation automation, and workflow optimization. Outputs organized commands to generated-commands/ with validation and installation guidance.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "math-stats",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

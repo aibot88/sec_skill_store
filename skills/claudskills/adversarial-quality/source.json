@@ -1,0 +1,18 @@
+{
+  "name": "workflow-adversarial-quality",
+  "slug": "adversarial-quality",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/adversarial-quality/",
+  "download_url": "https://claudskills.com/skills/adversarial-quality/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Full adversarial quality loop — implement, self-attack, parallel verification, quality gates, final validation. 全品質循環：實現、自攻、並行驗證、質量關卡、最終確認. Use when: implement task with quality, run adversarial review, verify code quality, run quality gates, complete workflow task",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

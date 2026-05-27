@@ -1,0 +1,18 @@
+{
+  "name": "agentsmd-authoring",
+  "slug": "agentsmd-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentsmd-authoring/",
+  "download_url": "https://claudskills.com/skills/agentsmd-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when editing agentsmd files, creating skills/agents/rules, or working in ai-assistant-instructions",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

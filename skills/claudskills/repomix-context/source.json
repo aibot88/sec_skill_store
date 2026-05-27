@@ -1,0 +1,18 @@
+{
+  "name": "repomix-context",
+  "slug": "repomix-context",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/repomix-context/",
+  "download_url": "https://claudskills.com/skills/repomix-context/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "TRIGGER: \"analise meu repo inteiro\", \"repomix\", \"empacotar código\", \"passar repo para LLM\", \"compress repo\", \"share with AI\". Usa Repomix para empacotar repo em um único arquivo (XML/JSON/Markdown) otimizado para context window de LLM, com filtros por extensão/path e remoção de comentários/secrets.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

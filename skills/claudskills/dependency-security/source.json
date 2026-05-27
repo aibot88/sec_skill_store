@@ -1,0 +1,18 @@
+{
+  "name": "dependency-security",
+  "slug": "dependency-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dependency-security/",
+  "download_url": "https://claudskills.com/skills/dependency-security/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Enforce dependency security scanning and SBOM generation. Use when adding dependencies, reviewing package.json, or during security audits. Covers OWASP dependency check, npm audit, and supply chain security.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

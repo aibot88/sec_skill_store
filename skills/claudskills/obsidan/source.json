@@ -1,0 +1,18 @@
+{
+  "name": "obsidan",
+  "slug": "obsidan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/obsidan/",
+  "download_url": "https://claudskills.com/skills/obsidan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "自動化 Obsidian 筆記庫與 KM 核心知識庫 (OneDrive) 的同步與結構化管理。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

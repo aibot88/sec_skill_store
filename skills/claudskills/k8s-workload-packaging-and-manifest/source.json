@@ -1,0 +1,18 @@
+{
+  "name": "k8s-workload-packaging-and-manifest",
+  "slug": "k8s-workload-packaging-and-manifest",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/k8s-workload-packaging-and-manifest/",
+  "download_url": "https://claudskills.com/skills/k8s-workload-packaging-and-manifest/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when authoring or hardening the Kubernetes workload manifest set for a service after infrastructure-platform and backend-architecture have decided the runtime substrate, workload class, and release strategy. Produces Deployment / StatefulSet / DaemonSet / Job / CronJob, Service, Ingress, a baseline HPA and PDB, ConfigMap/Secret-referenced configuration injection, distinct startup/readiness/liveness probes, mandatory resource requests and limits, and tier-correct rolling-update parameters — plus container packaging via the language sub-skills. This is the archetype-scoped authoring successor to the k8s-deploy-manifest-review omnibus. Do not use for NetworkPolicy/RBAC depth, autoscaling/PDB sizing and resilience topology, observability wiring, image hardening and admission control, or cluster provisioning; use the other Family G archetype skills (cluster provisioning is out of family).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

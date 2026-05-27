@@ -1,0 +1,18 @@
+{
+  "name": "compliance-check",
+  "slug": "compliance-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/compliance-check/",
+  "download_url": "https://claudskills.com/skills/compliance-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run a compliance check on a proposed action, product feature, or business initiative, surfacing applicable regulations, required approvals, and risk areas. Use when launching a feature that touches personal data, when marketing or product proposes something with regulatory implications, or when you need to know which approvals and jurisdictional requirements apply before proceeding.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "growth-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "windsurf-dependency-management",
+  "slug": "windsurf-dependency-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/windsurf-dependency-management/",
+  "download_url": "https://claudskills.com/skills/windsurf-dependency-management/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Analyze and update dependencies with vulnerability scanning. Activate when users mention \"update dependencies\", \"security audit\", \"npm audit\", \"vulnerability scan\", or \"dependency updates\". Handles dependency analysis and updates. Use when working with windsurf dependency management functionality. Trigger with phrases like \"windsurf dependency management\", \"windsurf management\", \"windsurf\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

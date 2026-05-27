@@ -1,0 +1,18 @@
+{
+  "name": "probe-ml-and-llm-systems-for-regressions-and-vulnerabilities-wit",
+  "slug": "probe-ml-and-llm-systems-for-regressions-and-vulnerabilities-wit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/probe-ml-and-llm-systems-for-regressions-and-vulnerabilities-wit/",
+  "download_url": "https://claudskills.com/skills/probe-ml-and-llm-systems-for-regressions-and-vulnerabilities-wit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run automated red-team and failure scans against an LLM or RAG app before users find the breakage.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

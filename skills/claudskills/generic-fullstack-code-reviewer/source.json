@@ -1,0 +1,18 @@
+{
+  "name": "generic-fullstack-code-reviewer",
+  "slug": "generic-fullstack-code-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/generic-fullstack-code-reviewer/",
+  "download_url": "https://claudskills.com/skills/generic-fullstack-code-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review full-stack code for bugs, security vulnerabilities, performance issues, accessibility gaps, and CLAUDE.md compliance. Enforces TypeScript strict mode, input validation, GPU-accelerated animations, and design system consistency. Use when completing features, before commits, or reviewing pull requests.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:05+00:00"
+}

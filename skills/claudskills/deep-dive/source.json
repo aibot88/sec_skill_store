@@ -1,0 +1,18 @@
+{
+  "name": "deep-dive",
+  "slug": "deep-dive",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deep-dive/",
+  "download_url": "https://claudskills.com/skills/deep-dive/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "2-stage pipeline: trace (causal investigation) -> deep-interview (requirements crystallization) with 3-point injection",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

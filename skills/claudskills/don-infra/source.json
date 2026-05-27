@@ -1,0 +1,18 @@
+{
+  "name": "don-infra",
+  "slug": "don-infra",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/don-infra/",
+  "download_url": "https://claudskills.com/skills/don-infra/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Infrastructure and deployment standards for Dutch government systems. Use when deploying to Haven (government Kubernetes), setting up FSC (Federated Service Connectivity), or checking infrastructure compliance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

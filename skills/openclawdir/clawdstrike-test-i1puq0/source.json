@@ -1,0 +1,17 @@
+{
+  "name": "clawdstrike-test",
+  "slug": "clawdstrike-test-i1puq0",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/clawdstrike-test-i1puq0",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/misirov/clawdstrike-test/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/misirov/clawdstrike-test/SKILL.md",
+  "license": "",
+  "description": "Security audit and threat model for OpenClaw gateway hosts.",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=2"
+  },
+  "collected_at": "2026-05-27T03:44:42+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "anth-security-basics",
+  "slug": "anth-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/anth-security-basics/",
+  "download_url": "https://claudskills.com/skills/anth-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Anthropic Claude API security best practices for key management, input validation, and prompt injection defense. Use when securing API keys, validating user inputs before sending to Claude, or implementing content safety guardrails. Trigger with phrases like \"anthropic security\", \"claude api key security\", \"secure anthropic\", \"prompt injection defense\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

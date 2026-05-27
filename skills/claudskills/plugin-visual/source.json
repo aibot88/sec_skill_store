@@ -1,0 +1,18 @@
+{
+  "name": "plugin-visual",
+  "slug": "plugin-visual",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/plugin-visual/",
+  "download_url": "https://claudskills.com/skills/plugin-visual/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Analyze agent extensions and generate self-contained HTML wiki reports with security audit and architecture diagrams. Use when asked to analyze, audit, or document a plugin. Triggers on GitHub plugin URLs or local plugin paths.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

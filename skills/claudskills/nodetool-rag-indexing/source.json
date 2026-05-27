@@ -1,0 +1,18 @@
+{
+  "name": "nodetool-rag-indexing",
+  "slug": "nodetool-rag-indexing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nodetool-rag-indexing/",
+  "download_url": "https://claudskills.com/skills/nodetool-rag-indexing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Set up RAG pipelines, vector indexing, document ingestion, ChromaDB/FAISS/SQLite-vec search, and knowledge base creation in NodeTool. Use when user asks about RAG, document indexing, vector search, chat with documents, knowledge base, embeddings, or collection management.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

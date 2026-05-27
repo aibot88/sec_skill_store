@@ -1,0 +1,18 @@
+{
+  "name": "sql-server-best-practices",
+  "slug": "sql-server-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sql-server-best-practices/",
+  "download_url": "https://claudskills.com/skills/sql-server-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "SQL Server and Azure SQL best practices for developers and DBAs. Use this skill whenever the user asks about T-SQL, stored procedures, query performance, indexes, schema design, database security, or SQL Server / Azure SQL maintenance — even if they don't say \"best practices.\" Triggers on requests like \"write a stored proc,\" \"this query is slow,\" \"clustered vs nonclustered index,\" \"parameter sniffing,\" \"WITH NOLOCK,\" \"prevent SQL injection in MSSQL,\" \"set up db permissions,\" \"index rebuilds or backups,\" or \"review this migration script.\" Use for any T-SQL code review, DDL review, or schema design question where the database is SQL Server or Azure SQL. Skip for MySQL, PostgreSQL, SQLite, Oracle, or any non-MSSQL database — the guidance here (RCSI, sp_Blitz, T-SQL syntax, SQL Agent, NEWSEQUENTIALID, etc.) does not apply to other platforms and could actively mislead. Also skip for ORM-only questions (Entity Framework errors, LINQ, Django migrations) where no T-SQL or SQL Server configuration is involved.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

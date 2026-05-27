@@ -1,0 +1,18 @@
+{
+  "name": "launching-ec2-instance-with-best-practices",
+  "slug": "launching-ec2-instance-with-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/launching-ec2-instance-with-best-practices/",
+  "download_url": "https://claudskills.com/skills/launching-ec2-instance-with-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Launches an EC2 instance with secure, cost-efficient defaults including AMI selection, burstable instance sizing, least-privilege IAM roles, hardened security groups, encrypted EBS volumes, and comprehensive tagging. Use when deploying new EC2 instances following AWS best practices for security and cost optimization.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

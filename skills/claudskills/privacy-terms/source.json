@@ -1,0 +1,18 @@
+{
+  "name": "privacy-terms",
+  "slug": "privacy-terms",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/privacy-terms/",
+  "download_url": "https://claudskills.com/skills/privacy-terms/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "처리방침·이용약관 자동 생성 진입점. 호출 즉시 4개 하위 스킬(privacy-kr·privacy-eu·privacy-us·privacy-global)을 번호 메뉴로 제시하고, 번호 입력 즉시 해당 스킬 인터뷰로 직행한다.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

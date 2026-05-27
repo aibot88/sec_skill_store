@@ -1,0 +1,18 @@
+{
+  "name": "heroku-salesforce-integration",
+  "slug": "heroku-salesforce-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/heroku-salesforce-integration/",
+  "download_url": "https://claudskills.com/skills/heroku-salesforce-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Heroku ↔ Salesforce integration paths — Heroku Connect (Postgres bidirectional sync), Heroku AppLink (expose Heroku APIs to Flow / Apex / Agentforce), Heroku External Objects (Salesforce Connect oData), Platform Events, REST API in either direction, and Salesforce Canvas for UI embedding. Decision matrix + Heroku Connect deep dive (OAuth integration user, plan-tier row limits, polling cadence, region co-location). NOT for AWS integration (see integration/aws-salesforce-patterns), NOT for generic PaaS, NOT for MuleSoft.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

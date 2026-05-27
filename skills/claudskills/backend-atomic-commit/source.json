@@ -1,0 +1,18 @@
+{
+  "name": "backend-atomic-commit",
+  "slug": "backend-atomic-commit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backend-atomic-commit/",
+  "download_url": "https://claudskills.com/skills/backend-atomic-commit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Pedantic backend pre-commit and atomic commit Skill for Django/Optimo-style repos. Enforces local AGENTS.md / CLAUDE.md, pre-commit hooks, .security/* helpers, and Monty’s backend engineering taste – with no AI signatures in commit messages.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

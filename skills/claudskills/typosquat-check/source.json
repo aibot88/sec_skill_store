@@ -1,0 +1,18 @@
+{
+  "name": "typosquat-check",
+  "slug": "typosquat-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/typosquat-check/",
+  "download_url": "https://claudskills.com/skills/typosquat-check/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Typosquat and malicious-package detection across installed dependencies (or a single prospective addition) — cross-checks AI-malware family intelligence, package-name similarity to known popular packages, low maintainer-health signals. Use when auditing a freshly-onboarded repo, vetting a single suspicious package, gating CI on supply-chain risk, or investigating an incident.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

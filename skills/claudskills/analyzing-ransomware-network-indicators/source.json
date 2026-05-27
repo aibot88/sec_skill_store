@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-ransomware-network-indicators",
+  "slug": "analyzing-ransomware-network-indicators",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-ransomware-network-indicators/",
+  "download_url": "https://claudskills.com/skills/analyzing-ransomware-network-indicators/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Identify ransomware network indicators including C2 beaconing patterns, TOR exit node connections, data exfiltration",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

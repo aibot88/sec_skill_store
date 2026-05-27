@@ -1,0 +1,18 @@
+{
+  "name": "manage-elevenlabs-agents-as-versioned-local-config-files-instead",
+  "slug": "manage-elevenlabs-agents-as-versioned-local-config-files-instead",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/manage-elevenlabs-agents-as-versioned-local-config-files-instead/",
+  "download_url": "https://claudskills.com/skills/manage-elevenlabs-agents-as-versioned-local-config-files-instead/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Initialize, authenticate, and edit ElevenLabs agent configs from local files when you want agent definitions in code review instead of only in a hosted UI.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

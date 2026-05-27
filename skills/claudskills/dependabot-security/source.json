@@ -1,0 +1,18 @@
+{
+  "name": "dependabot-security",
+  "slug": "dependabot-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dependabot-security/",
+  "download_url": "https://claudskills.com/skills/dependabot-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fix Dependabot security vulnerabilities in Java/Gradle projects using severity-based processing, dependency substitution strategies, and dependency graph verification. Use when Dependabot alerts need resolution with proper CI validation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

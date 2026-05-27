@@ -1,0 +1,18 @@
+{
+  "name": "spacex",
+  "slug": "spacex",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spacex/",
+  "download_url": "https://claudskills.com/skills/spacex/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CLI for AI agents to lookup SpaceX launches and rockets for their humans. No auth required.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

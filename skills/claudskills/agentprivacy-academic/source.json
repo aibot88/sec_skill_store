@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-academic",
+  "slug": "agentprivacy-academic",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-academic/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-academic/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Formal academic specification and research methodology for 0xagentprivacy. Activates when writing papers, proofs, formal specifications, literature reviews, or preparing work for peer review. Use for LaTeX formatting, citation standards, theorem-proof structure, or research presentation.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

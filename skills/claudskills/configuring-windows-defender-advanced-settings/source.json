@@ -1,0 +1,18 @@
+{
+  "name": "configuring-windows-defender-advanced-settings",
+  "slug": "configuring-windows-defender-advanced-settings",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/configuring-windows-defender-advanced-settings/",
+  "download_url": "https://claudskills.com/skills/configuring-windows-defender-advanced-settings/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Configures Microsoft Defender for Endpoint (MDE) advanced protection settings including attack surface reduction",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

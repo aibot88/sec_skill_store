@@ -1,0 +1,18 @@
+{
+  "name": "test-gate",
+  "slug": "test-gate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/test-gate/",
+  "download_url": "https://claudskills.com/skills/test-gate/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Test how tool-gates evaluates any tool invocation (Bash, Read, Write, Edit, Glob, MCP) and show the permission decision (allow / ask / deny / defer). Pipes a synthesized JSON payload to the tool-gates binary and formats the result. Useful for verifying a new gate, debugging why a command was blocked, or distinguishing 'tool-gates explicitly asks' from 'tool-gates lets CC handle it'. NOT for approving a pending permission (use tool-gates:review) or editing rules manually (use update-config).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

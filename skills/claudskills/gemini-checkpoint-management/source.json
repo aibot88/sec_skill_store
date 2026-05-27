@@ -1,0 +1,18 @@
+{
+  "name": "gemini-checkpoint-management",
+  "slug": "gemini-checkpoint-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gemini-checkpoint-management/",
+  "download_url": "https://claudskills.com/skills/gemini-checkpoint-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Central authority for Gemini CLI Checkpointing. Covers git-based file snapshots, automatic state saving, /restore command, and rollback. Use when enabling checkpointing, restoring previous states, undoing changes, or planning experimental workflows with Gemini. Delegates 100% to gemini-cli-docs for official documentation.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

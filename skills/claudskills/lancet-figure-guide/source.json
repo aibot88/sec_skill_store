@@ -1,0 +1,18 @@
+{
+  "name": "lancet-figure-guide",
+  "slug": "lancet-figure-guide",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lancet-figure-guide/",
+  "download_url": "https://claudskills.com/skills/lancet-figure-guide/SKILL.md",
+  "external_source_url": "",
+  "license": "CC-BY-4.0",
+  "description": "The Lancet figure preparation: resolution (300+ DPI at 120%), preferred editable formats (PowerPoint/Word/SVG), column widths (75/154 mm), Times New Roman, in-house redraw policy.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

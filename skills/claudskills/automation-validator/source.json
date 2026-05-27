@@ -1,0 +1,18 @@
+{
+  "name": "automation-validator",
+  "slug": "automation-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/automation-validator/",
+  "download_url": "https://claudskills.com/skills/automation-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validates automation workflow JSON before deployment for Power Automate, n8n, Make, Zapier and other platforms. Checks syntax, structure, best practices, and potential issues. Analyzes workflow JSON files for platform compliance, missing error handling, performance issues, and security concerns. Use when user wants to validate, review, or check a workflow before deployment/import.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

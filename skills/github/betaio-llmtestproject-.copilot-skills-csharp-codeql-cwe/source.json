@@ -1,0 +1,19 @@
+{
+  "name": "csharp-codeql-cwe",
+  "slug": "betaio-llmtestproject-.copilot-skills-csharp-codeql-cwe",
+  "source": "github",
+  "source_url": "https://github.com/betaio/LLMTestProject/blob/1dee3e7a5b24e0feaca24ac31a22cd9d56bd0e38/.copilot/skills/csharp-codeql-cwe/SKILL.md",
+  "download_url": "https://github.com/betaio/LLMTestProject/blob/1dee3e7a5b24e0feaca24ac31a22cd9d56bd0e38/.copilot/skills/csharp-codeql-cwe/SKILL.md",
+  "external_source_url": "https://github.com/betaio/LLMTestProject/blob/1dee3e7a5b24e0feaca24ac31a22cd9d56bd0e38/.copilot/skills/csharp-codeql-cwe/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "betaio/LLMTestProject",
+    "path": ".copilot/skills/csharp-codeql-cwe/SKILL.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "wechat-miniapp-reviewer",
+  "slug": "wechat-miniapp-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wechat-miniapp-reviewer/",
+  "download_url": "https://claudskills.com/skills/wechat-miniapp-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Simulate a strict WeChat Mini Program reviewer before submission, publish, launch, or resubmission. Use when the user asks for 小程序审核员, 微信小程序审核员, 小程序提审, 提审前检查, 小程序过审, 审核风险, 驳回原因, 被微信驳回, 服务类目, 小程序备案, 资质, 隐私合规, 内容安全, 诱导分享, 虚拟支付, or wants to review/fix a WeChat Mini Program for official approval.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "run-spec-audit",
+  "slug": "run-spec-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/run-spec-audit/",
+  "download_url": "https://claudskills.com/skills/run-spec-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run a spec-vs-code audit on this codebase. Compare actual implementation in app/, lib/, lib/typeorm/, typeorm/, and tests against project specifications in docs/. Report only defects with exact file and line citations, classified as MISSING, DIVERGENT, UNDOCUMENTED, or PHANTOM. Use when asked to audit code against specs, find spec divergence, run a Council of Three audit, check doc-code consistency, verify lifecycle/transition/ report/MCP behavior matches documentation, run spec compliance, code-vs-docs check, or audit lifecycle.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

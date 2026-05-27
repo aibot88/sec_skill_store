@@ -1,0 +1,18 @@
+{
+  "name": "senior-secops",
+  "slug": "senior-secops",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/senior-secops/",
+  "download_url": "https://claudskills.com/skills/senior-secops/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive SecOps skill for application security, vulnerability management, compliance, and secure development practices. Includes security scanning, vulnerability assessment, compliance checking, and security automation. Use when implementing security controls, conducting security audits, responding to vulnerabilities, or ensuring compliance requirements.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

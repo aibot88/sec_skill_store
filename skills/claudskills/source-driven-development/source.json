@@ -1,0 +1,18 @@
+{
+  "name": "source-driven-development",
+  "slug": "source-driven-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/source-driven-development/",
+  "download_url": "https://claudskills.com/skills/source-driven-development/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Grounds every implementation decision in official documentation. Use when you want authoritative, source-cited code free from outdated patterns. Use when building with any framework or library where correctness matters.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

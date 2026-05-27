@@ -1,0 +1,18 @@
+{
+  "name": "shopify-policy-guardrails",
+  "slug": "shopify-policy-guardrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/shopify-policy-guardrails/",
+  "download_url": "https://claudskills.com/skills/shopify-policy-guardrails/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Shopify app policy enforcement with ESLint rules for API key detection, query cost budgets, and App Store compliance checks. Use when hardening a Shopify app against secret leaks, enforcing query cost limits, or preparing for App Store submission review. Trigger with phrases like \"shopify policy\", \"shopify lint\", \"shopify guardrails\", \"shopify compliance\", \"shopify eslint\", \"shopify app review\".",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "linters-formatters",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

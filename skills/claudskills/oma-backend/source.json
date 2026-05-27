@@ -1,0 +1,18 @@
+{
+  "name": "oma-backend",
+  "slug": "oma-backend",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oma-backend/",
+  "download_url": "https://claudskills.com/skills/oma-backend/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Backend specialist for APIs, databases, authentication with clean architecture (Repository/Service/Router pattern). Use for API, endpoint, REST, database, server, migration, and auth work.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "grad-paradox-theory",
+  "slug": "grad-paradox-theory",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/grad-paradox-theory/",
+  "download_url": "https://claudskills.com/skills/grad-paradox-theory/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply Smith and Lewis's paradox theory to identify and manage organizational tensions across performing, organizing, belonging, and learning dimensions. Use this skill when the user needs to diagnose persistent either/or tensions, design dynamic equilibrium strategies that embrace both poles, or when they ask 'why does solving this problem make it worse', 'how do we pursue exploration AND exploitation simultaneously', or 'why do our strategic tensions keep recurring despite resolution attempts'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

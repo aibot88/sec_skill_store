@@ -1,0 +1,18 @@
+{
+  "name": "mobile-architecture",
+  "slug": "mobile-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mobile-architecture/",
+  "download_url": "https://claudskills.com/skills/mobile-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when a product requires native or cross-platform-native mobile application architecture after an approved system design and before mobile implementation begins. Produces platform strategy, application and navigation architecture, state and offline/sync design, device-capability integration, performance and battery budgets, accessibility and localization, notifications and background behavior, error handling, observability, testing strategy, failure taxonomy, and implementation handoffs. Do not use for mobile-web or PWA (use frontend-architecture), backend service design (use backend-architecture), UI or visual design (use frontend-design), vendor-specific SDK implementation, deep mobile security (use security), or store-release and signing depth (use operations or infrastructure-platform).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "mobile",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

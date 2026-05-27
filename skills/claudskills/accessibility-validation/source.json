@@ -1,0 +1,18 @@
+{
+  "name": "accessibility-validation",
+  "slug": "accessibility-validation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/accessibility-validation/",
+  "download_url": "https://claudskills.com/skills/accessibility-validation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate digital outputs for compliance with accessibility standards (e.g., WCAG, Section 508). Use when reviewing reports, dashboards, documents, or interfaces from pilot projects to identify and remediate accessibility barriers.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

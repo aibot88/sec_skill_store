@@ -1,0 +1,18 @@
+{
+  "name": "k8s-workflow",
+  "slug": "k8s-workflow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/k8s-workflow/",
+  "download_url": "https://claudskills.com/skills/k8s-workflow/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Kubernetes core workflow rules, manifest conventions, security best practices, and version considerations. Includes managed K8s providers (EKS, AKS, GKE), autoscaling (KEDA, Knative, event-driven scaling), networking (Ingress, Gateway API, NetworkPolicy, Service Mesh), storage (PV/PVC, StatefulSet), RBAC, and deployment strategies (Rolling, Blue-Green, Canary). Use for Kubernetes operations and manifest authoring.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

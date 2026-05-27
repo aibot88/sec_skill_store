@@ -1,0 +1,18 @@
+{
+  "name": "review-council",
+  "slug": "review-council",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/review-council/",
+  "download_url": "https://claudskills.com/skills/review-council/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Multi-agent code review by delegating to (1) codex-cli with GPT-5.5 xhigh, (2) gemini-cli with Gemini 3.1 Pro, and (3) four Claude specialist subagents (security, performance, logic, regression) spawned via the Agent tool — then synthesizing all six streams with your own diligence. Use this whenever the user asks for a deep review, second opinion, council review, multi-tool review, or wants the most thorough analysis of code changes / a PR / a commit / staged changes / a branch — even if they don't explicitly say \"review-council\". Stronger than any single-model review because different model families catch different classes of issues and the specialist subagents add focused depth on each axis; the synthesis step verifies findings against the actual code before applying fixes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

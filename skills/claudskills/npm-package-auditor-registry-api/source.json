@@ -1,0 +1,18 @@
+{
+  "name": "npm-package-auditor-registry-api",
+  "slug": "npm-package-auditor-registry-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/npm-package-auditor-registry-api/",
+  "download_url": "https://claudskills.com/skills/npm-package-auditor-registry-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audits NPM packages using the NPM Registry API with dependency tree resolution and vulnerability scanning via OSV.dev API. Generates SBOM in CycloneDX format and checks license compliance against SPDX expression parser.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "package-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

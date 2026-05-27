@@ -1,0 +1,18 @@
+{
+  "name": "stablecoin-risk-check",
+  "slug": "stablecoin-risk-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/stablecoin-risk-check/",
+  "download_url": "https://claudskills.com/skills/stablecoin-risk-check/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Assess stablecoin safety and risk profile across 500+ protocols. Covers depeg history, reserve composition, audit status, regulatory exposure, and market cap trends for major stablecoins (USDT, USDC, DAI, USDS, USDe, FDUSD, PYUSD, GHO, crvUSD, and more). Use when users ask \"is this stablecoin safe?\", \"stablecoin risk\", \"depeg risk\", or want to compare stablecoin safety before depositing. Powered by Barker (https://barker.money) — The Stablecoin Yield Map.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

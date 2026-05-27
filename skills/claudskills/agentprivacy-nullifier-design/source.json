@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-nullifier-design",
+  "slug": "agentprivacy-nullifier-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-nullifier-design/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-nullifier-design/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Nullifier construction, deployment, and verification for 0xagentprivacy privacy-preserving invalidation. Activates when designing double-spend prevention, privacy-preserving revocation, unlinkable credential usage, or any operation where an action must be provably performed exactly once without revealing the actor's identity. Triggers: \"nullifier\", \"double-spend\", \"single-use proof\", \"privacy-preserving revocation\", \"unlinkability\", \"nullifier set\", \"nullifier tree\", \"spent set\", \"serial number\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

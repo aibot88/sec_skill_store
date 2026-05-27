@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-windows-event-logs-in-splunk",
+  "slug": "analyzing-windows-event-logs-in-splunk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-windows-event-logs-in-splunk/",
+  "download_url": "https://claudskills.com/skills/analyzing-windows-event-logs-in-splunk/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Analyzes Windows Security, System, and Sysmon event logs in Splunk to detect authentication attacks, privilege",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

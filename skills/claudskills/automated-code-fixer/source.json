@@ -1,0 +1,18 @@
+{
+  "name": "automated-code-fixer",
+  "slug": "automated-code-fixer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/automated-code-fixer/",
+  "download_url": "https://claudskills.com/skills/automated-code-fixer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automated IT helper for detecting and fixing code issues. Use when code fails tests, linting, type-checking, or has security vulnerabilities. Enforces strict quality gates before accepting fixes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

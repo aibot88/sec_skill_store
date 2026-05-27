@@ -1,0 +1,18 @@
+{
+  "name": "txt-refresh-against-sosumi",
+  "slug": "txt-refresh-against-sosumi",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/txt-refresh-against-sosumi/",
+  "download_url": "https://claudskills.com/skills/txt-refresh-against-sosumi/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Refresh time-sensitive Apple Text skill content against current Apple documentation via Sosumi. Walks the `references/latest-apis.md` companion file in each time-sensitive skill (txt-swiftui-texteditor, txt-writing-tools, txt-textkit2, txt-attribute-keys, txt-attributed-string), fetches the current API surface from sosumi.ai, and produces a diff report so a maintainer can review and commit. Use when a new iOS / Swift / Xcode point release ships, when the user asks to \"refresh the skills against current docs\", \"sync against WWDC\", \"update the Apple text skills for the new SDK\", \"freshen latest-apis.md\", or any maintenance trigger. Trigger after WWDC, after Xcode 26.x bumps, or whenever an agent author notices skill content drifting from the current API surface — even when 'maintenance' isn't named. Do NOT use for authoring new skills or rewriting existing ones — that's the job of the per-skill rewrite workflow described in AGENTS.md.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

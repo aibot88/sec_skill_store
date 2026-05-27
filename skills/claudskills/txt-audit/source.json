@@ -1,0 +1,18 @@
+{
+  "name": "txt-audit",
+  "slug": "txt-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/txt-audit/",
+  "download_url": "https://claudskills.com/skills/txt-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Review Apple text code for correctness, performance, and modernization risk in a single pass with severity-ranked findings. Covers TextKit 1 fallback triggers, NSTextStorage subclass correctness (edited / changeInLength / batched edits), didProcessEditing character-mutation bugs, deprecated glyph APIs, full-document ensureLayout, missing allowsNonContiguousLayout, NSLinguisticTagger / UIMenuController deprecations, missing performEditingTransaction wrappers on TextKit 2, Writing Tools coordinator gaps (writingToolsIgnoredRangesIn, isWritingToolsActive), String-vs-NSString length confusion in range arithmetic, and main-thread storage rules. Use when a user asks to audit, scan, or review a text editor codebase, when preparing an editor for shipping, when triaging a post-release regression in TextKit code, or when a pull request needs a structured pass focused on text-specific risks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

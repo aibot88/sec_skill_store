@@ -1,0 +1,18 @@
+{
+  "name": "docx-generator",
+  "slug": "docx-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docx-generator/",
+  "download_url": "https://claudskills.com/skills/docx-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Create and manipulate Word DOCX files programmatically. Use when the user needs to generate documents, modify DOCX templates, extract document content, or automate Word document workflows. Supports both template-based generation (for branding compliance) and from-scratch creation. Keywords: Word, DOCX, document, report, template, contract, letter, corporate, branding.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

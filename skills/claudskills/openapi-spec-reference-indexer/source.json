@@ -1,0 +1,18 @@
+{
+  "name": "openapi-spec-reference-indexer",
+  "slug": "openapi-spec-reference-indexer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/openapi-spec-reference-indexer/",
+  "download_url": "https://claudskills.com/skills/openapi-spec-reference-indexer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Indexes and cross-references OpenAPI 3.x specifications using swagger-parser and Redocly CLI. Builds searchable endpoint catalogs with schema resolution, authentication flow mapping, and SDK generation metadata.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

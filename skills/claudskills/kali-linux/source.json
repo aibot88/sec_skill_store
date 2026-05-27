@@ -1,0 +1,18 @@
+{
+  "name": "kali-linux",
+  "slug": "kali-linux",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kali-linux/",
+  "download_url": "https://claudskills.com/skills/kali-linux/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "· Administer Kali: apt, branches, metapackages, images, live USB persistence, NetHunter, wireless/GPU. Triggers: 'kali', 'kali rolling', 'kali snapshot', 'kali-tweaks', 'nethunter'. Not for exploitation (use lockpick).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

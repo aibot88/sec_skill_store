@@ -1,0 +1,18 @@
+{
+  "name": "richtlinien-neufassung",
+  "slug": "richtlinien-neufassung",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/richtlinien-neufassung/",
+  "download_url": "https://claudskills.com/skills/richtlinien-neufassung/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Richtlinien-Neufassung – erstellt einen markierten Entwurf einer internen Richtlinie, der eine identifizierte Compliance-Lücke schließt. Laden, wenn eine Richtlinie nach einem Diff oder einer Gap-Analyse überarbeitet werden soll.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

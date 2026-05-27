@@ -1,0 +1,18 @@
+{
+  "name": "instantly-install-auth",
+  "slug": "instantly-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/instantly-install-auth/",
+  "download_url": "https://claudskills.com/skills/instantly-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Set up Instantly.ai API v2 authentication and project configuration. Use when creating a new Instantly integration, generating API keys, or configuring environment variables for the Instantly outreach platform. Trigger with phrases like \"install instantly\", \"setup instantly\", \"instantly auth\", \"configure instantly API key\", \"instantly credentials\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

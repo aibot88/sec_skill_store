@@ -1,0 +1,18 @@
+{
+  "name": "github-actions-oidc-token-validator",
+  "slug": "github-actions-oidc-token-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-actions-oidc-token-validator/",
+  "download_url": "https://claudskills.com/skills/github-actions-oidc-token-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validates GitHub Actions OIDC tokens for secure, secretless deployments. Uses the GitHub Actions id-token API and the jose JWT library to verify audience, issuer, and subject claims. Integrates with AWS STS AssumeRoleWithWebIdentity and GCP Workload Identity Federation for cloud access.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

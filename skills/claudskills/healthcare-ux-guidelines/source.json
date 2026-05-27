@@ -1,0 +1,18 @@
+{
+  "name": "healthcare-ux-guidelines",
+  "slug": "healthcare-ux-guidelines",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/healthcare-ux-guidelines/",
+  "download_url": "https://claudskills.com/skills/healthcare-ux-guidelines/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Healthcare UX design standards for MYCURE products combining WCAG 2.2 Level AA accessibility compliance with patient safety language guidelines. Auto-activates for healthcare UI design, form validation, error messaging, clinical workflows, patient-facing interfaces, and government health system integration. Includes Philippine healthcare context (LGU, RHU, BHS, FHSIS systems).",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ux-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "einstein-search-personalization",
+  "slug": "einstein-search-personalization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/einstein-search-personalization/",
+  "download_url": "https://claudskills.com/skills/einstein-search-personalization/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Einstein Search personalization: configure search result ranking, promoted results, searchable objects, and Natural Language Search (NLS) for Lightning Experience. Triggers when users ask about search personalization signals, why search results feel irrelevant, how to enable NLS conversational queries, or how to manage Einstein Search settings in Setup. NOT for SOSL query authoring, Experience Cloud search customization, or Commerce storefront search tuning.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

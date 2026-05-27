@@ -1,0 +1,18 @@
+{
+  "name": "huggingface-webhooks",
+  "slug": "huggingface-webhooks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/huggingface-webhooks/",
+  "download_url": "https://claudskills.com/skills/huggingface-webhooks/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Receive and verify Hugging Face webhooks. Use when setting up Hugging Face webhook handlers, debugging X-Webhook-Secret verification, or handling events on models, datasets, and Spaces — repo updates, new commits and tags (repo.content), config changes (repo.config), discussions, Pull Requests, and discussion comments.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ml-ai-eng",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

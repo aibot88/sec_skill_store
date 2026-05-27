@@ -1,0 +1,18 @@
+{
+  "name": "database-migrations",
+  "slug": "database-migrations-cliangdev-specflux",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/database-migrations-cliangdev-specflux/",
+  "download_url": "https://claudskills.com/skills/database-migrations-cliangdev-specflux/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "SQLite database migration patterns for SpecFlux. Use when creating new tables, modifying schema, adding indexes, or running migrations. Ensures reversible migrations with UP and DOWN sections.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sonarqube-quality-gate-enforcer-14",
+  "slug": "sonarqube-quality-gate-enforcer-14",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sonarqube-quality-gate-enforcer-14/",
+  "download_url": "https://claudskills.com/skills/sonarqube-quality-gate-enforcer-14/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Enforces SonarQube quality gates in pull request workflows using the SonarQube Web API and ce/task endpoint. Blocks merges when code coverage drops, duplications exceed thresholds, or security hotspots are unreviewed.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

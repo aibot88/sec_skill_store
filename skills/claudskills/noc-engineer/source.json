@@ -1,0 +1,18 @@
+{
+  "name": "noc",
+  "slug": "noc-engineer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/noc-engineer/",
+  "download_url": "https://claudskills.com/skills/noc-engineer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert network operations and censorship circumvention skill. Use for ANY networking question: TCP/IP internals, routing, DNS, firewalls, iptables/nftables, Linux networking, Wireshark/tcpdump analysis, VPN protocols (WireGuard, AmneziaWG 1.5, VLESS+Reality, Hysteria2, Shadowsocks, MTProxy), DPI evasion, traffic obfuscation, censorship bypass (ТСПУ РФ, whitelist режим, GFW, SNI filtering, IP blocking), self-hosted VPN infrastructure (3x-ui, Xray, Amnezia), whitelist bypass через YC/VK Cloud IP, zapret/zapret2/b4, VK TURN proxy, MTU/latency debugging, domain lists (itdoginfo), Prometheus monitoring of VPN nodes (whitebox). Trigger on: \"не работает интернет\", \"обход блокировки\", \"белые списки\", \"ТСПУ\", paste любых ip/ss/tc/nftables вывода, VPN конфиги, Wireshark дампы, routing tables, или любой вопрос про сети и цензуру. Всегда читай references/dpi-censorship.md когда вопрос про блокировки в РФ — там аналитический фреймворк и актуальные инструменты.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

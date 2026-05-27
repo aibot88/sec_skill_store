@@ -1,0 +1,18 @@
+{
+  "name": "dotnet-testing-nsubstitute-mocking",
+  "slug": "dotnet-testing-nsubstitute-mocking",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dotnet-testing-nsubstitute-mocking/",
+  "download_url": "https://claudskills.com/skills/dotnet-testing-nsubstitute-mocking/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "使用 NSubstitute 建立測試替身(Mock、Stub、Spy)的專門技能。當需要隔離外部依賴、模擬介面行為、驗證方法呼叫時使用。涵蓋 Substitute.For、Returns、Received、Throws 等完整指引。 Keywords: mock, stub, spy, nsubstitute, 模擬, test double, 測試替身, IRepository, IService, Substitute.For, Returns, Received, Throws, Arg.Any, Arg.Is, 隔離依賴, 模擬外部服務, dependency injection testing",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

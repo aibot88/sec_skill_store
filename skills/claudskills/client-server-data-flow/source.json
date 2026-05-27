@@ -1,0 +1,18 @@
+{
+  "name": "client-server-data-flow",
+  "slug": "client-server-data-flow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/client-server-data-flow/",
+  "download_url": "https://claudskills.com/skills/client-server-data-flow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement type-safe client-server data flows in Next.js applications using Supabase, TanStack Query, React Hook Form, and Zod validation. Use when building CRUD features, handling forms with validation, implementing file uploads, or creating server actions with authentication and authorization. Essential for pages requiring data mutations with proper loading states, error handling, and query cache management.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

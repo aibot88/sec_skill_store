@@ -1,0 +1,18 @@
+{
+  "name": "gsc-deep-dive",
+  "slug": "gsc-deep-dive",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gsc-deep-dive/",
+  "download_url": "https://claudskills.com/skills/gsc-deep-dive/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user wants Google Search Console data pulled directly into the session instead of manually screenshotting / CSV-exporting from search.google.com. Pulls top queries, top pages, coverage status, manual actions, security issues, and Core Web Vitals field data via the GSC API in one call. Triggers from \"pull GSC data for example.com\", \"Search Console deep dive\", \"GSC queries last 90 days\", \"GSC coverage report\", \"GSC indexing status\", \"GSC manual actions check\", \"GSC Core Web Vitals field data\". Removes the manual GSC click-through that is the friction point of every recovery / audit session.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

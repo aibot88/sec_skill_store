@@ -1,0 +1,18 @@
+{
+  "name": "graph-build",
+  "slug": "graph-build",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/graph-build/",
+  "download_url": "https://claudskills.com/skills/graph-build/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build or incrementally update the code knowledge graph for a codebase. Uses Tree-sitter for multi-language AST parsing and stores nodes/edges in SQLite.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:10+00:00"
+}

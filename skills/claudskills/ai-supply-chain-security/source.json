@@ -1,0 +1,18 @@
+{
+  "name": "ai-supply-chain-security",
+  "slug": "ai-supply-chain-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-supply-chain-security/",
+  "download_url": "https://claudskills.com/skills/ai-supply-chain-security/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "General AI Supply Chain Security Skill for any AI agent platform in 2026. Detects the exact class of attack that hit Vercel (and every similar real threat): over-privileged integrations, unpinned CI actions, unsigned webhooks, cross-boundary token forwarding, malicious MCP/OpenClaw skills, and OWASP ASI-09 risks. Runs live VirusTotal on every external dependency.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crypto-keymgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

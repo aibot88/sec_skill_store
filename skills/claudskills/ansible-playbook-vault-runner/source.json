@@ -1,0 +1,18 @@
+{
+  "name": "ansible-playbook-vault-runner",
+  "slug": "ansible-playbook-vault-runner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ansible-playbook-vault-runner/",
+  "download_url": "https://claudskills.com/skills/ansible-playbook-vault-runner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Executes Ansible playbooks against dynamic inventories from AWS EC2 or Azure, decrypting Ansible Vault secrets via HashiCorp Vault KV v2 API. Streams task output in real time and posts a per-host pass/fail summary to Slack. Supports --check mode for dry-run validation before live runs.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

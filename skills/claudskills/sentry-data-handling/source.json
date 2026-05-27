@@ -1,0 +1,18 @@
+{
+  "name": "sentry-data-handling",
+  "slug": "sentry-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sentry-data-handling/",
+  "download_url": "https://claudskills.com/skills/sentry-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure GDPR-compliant data handling, PII scrubbing, and data retention policies in Sentry. Use when implementing beforeSend filters, server-side data scrubbing rules, IP anonymization, data subject deletion requests, or SOC 2 audit controls. Trigger with phrases like \"sentry pii scrubbing\", \"sentry gdpr\", \"sentry data privacy\", \"scrub sensitive data sentry\", \"sentry data retention\", \"sentry compliance\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

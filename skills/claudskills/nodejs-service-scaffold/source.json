@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-service-scaffold",
+  "slug": "nodejs-service-scaffold",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nodejs-service-scaffold/",
+  "download_url": "https://claudskills.com/skills/nodejs-service-scaffold/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when creating, modernizing, or production-hardening a Node.js backend service after backend architecture is approved or intentionally deferred. Produces a framework-aware (Express, Fastify, or NestJS) TypeScript service shell with fail-fast validated configuration, a structured pino logging seam, liveness and readiness probes, layered error handling (uncaughtException, unhandledRejection, framework error handler, graceful shutdown), an AsyncLocalStorage request context, a DI container shell downstream archetypes extend, and a non-root multi-stage container image without baked secrets. Do not use for auth flow implementation, observability vendor wiring, queue or event integration, or performance and resilience gating; use the other Node.js archetype skills instead.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

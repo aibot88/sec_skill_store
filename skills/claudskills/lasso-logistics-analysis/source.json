@@ -1,0 +1,18 @@
+{
+  "name": "lasso-logistics-analysis",
+  "slug": "lasso-logistics-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lasso-logistics-analysis/",
+  "download_url": "https://claudskills.com/skills/lasso-logistics-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when building a binary classification model from an expression matrix or other omics feature matrix with LASSO logistic regression, cross-validation, and coefficient path visualization. NOT for: multiclass classification, survival/Cox models, or ordinary linear regression.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "creating-ansible-playbooks",
+  "slug": "ansible-playbook-creator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ansible-playbook-creator/",
+  "download_url": "https://claudskills.com/skills/ansible-playbook-creator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill creates Ansible playbooks for automating configuration management tasks. It generates production-ready, multi-platform playbooks based on user-defined requirements, incorporating best practices and a security-first approach. Use this skill when you need to automate server configurations, software deployments, or infrastructure management using Ansible. Trigger this skill by requesting \"Ansible playbook,\" specifying configuration details, or asking for automation of a particular setup.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "syntherklaas",
+  "slug": "syntherklaas",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/syntherklaas/",
+  "download_url": "https://claudskills.com/skills/syntherklaas/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generate synthetic data from scratch through an interactive dialog — ask the user table-by-table about columns, types, foreign keys, and constraints; render the data model as ASCII UML; ask for volume + distributions; then generate consistent fake data with Faker (locale-aware) + NL-locked providers for BSN/IBAN/postcode. Outputs CSV (loose files), XLSX (loose or multi-sheet), or SQLite. Schema can be saved to YAML for re-invoke (`/syntherklaas <yaml-path>` skips the dialog, runs deterministic generation). Use when the user wants test data, demo data, fake data with FK relations, or mentions \"synthetic data\", \"fake data\", \"test data\", \"demo dataset\", \"BSN-safe test data\", or \"anonimiseer me een schema\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

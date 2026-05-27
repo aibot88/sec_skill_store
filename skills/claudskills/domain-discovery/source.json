@@ -1,0 +1,18 @@
+{
+  "name": "domain-discovery",
+  "slug": "domain-discovery",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/domain-discovery/",
+  "download_url": "https://claudskills.com/skills/domain-discovery/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "DDD/Event Storming skill dlya issledovaniya novogo domena ili bounded context. Ispol'zuj pri zaprose \"novyj domen\", \"event storming\", \"bounded context\", \"issledovaniye domena\", \"domain discovery\", \"UL nuzhna\", \"vocabulary\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "implementing-gcp-vpc-firewall-rules",
+  "slug": "implementing-gcp-vpc-firewall-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-gcp-vpc-firewall-rules/",
+  "download_url": "https://claudskills.com/skills/implementing-gcp-vpc-firewall-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implementing and auditing GCP VPC firewall rules to enforce network segmentation, restrict ingress and egress",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

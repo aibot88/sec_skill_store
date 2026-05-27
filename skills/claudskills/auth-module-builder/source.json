@@ -1,0 +1,18 @@
+{
+  "name": "auth-module-builder",
+  "slug": "auth-module-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-module-builder/",
+  "download_url": "https://claudskills.com/skills/auth-module-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implements secure authentication patterns including login/registration, session management, JWT tokens, password hashing, cookie settings, and CSRF protection. Provides auth routes, middleware, security configurations, and threat model documentation. Use when building \"authentication\", \"login system\", \"JWT auth\", or \"session management\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

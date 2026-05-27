@@ -1,0 +1,18 @@
+{
+  "name": "expo-app-config",
+  "slug": "expo-app-config",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/expo-app-config/",
+  "download_url": "https://claudskills.com/skills/expo-app-config/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "app.json vs app.config.ts vs app.config.js secimi, environment variables, variants, extra fields, plugin chain ve slug/scheme/bundle/version disiplini. Triggers on app.json, app.config.ts, app.config.js, expo config, environment variable, .env, eas secret, variant, extra field, slug, scheme, bundle identifier, package name, version, build number, version code.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:53+00:00"
+}

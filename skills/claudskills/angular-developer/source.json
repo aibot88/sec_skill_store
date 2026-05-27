@@ -1,0 +1,18 @@
+{
+  "name": "angular-developer",
+  "slug": "angular-developer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/angular-developer/",
+  "download_url": "https://claudskills.com/skills/angular-developer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generates Angular code and provides architectural guidance. Trigger when creating projects, components, or services, or for best practices on reactivity (signals, linkedSignal, resource), forms, dependency injection, routing, SSR, accessibility (ARIA), animations, styling (component styles, Tailwind CSS), testing, or CLI tooling.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

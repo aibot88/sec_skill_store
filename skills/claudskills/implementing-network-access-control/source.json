@@ -1,0 +1,18 @@
+{
+  "name": "implementing-network-access-control",
+  "slug": "implementing-network-access-control",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-network-access-control/",
+  "download_url": "https://claudskills.com/skills/implementing-network-access-control/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implements 802.1X port-based network access control using RADIUS authentication, PacketFence NAC, and switch",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

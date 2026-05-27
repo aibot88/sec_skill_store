@@ -1,0 +1,18 @@
+{
+  "name": "implementing-security-information-sharing-with-stix2",
+  "slug": "implementing-security-information-sharing-with-stix2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-security-information-sharing-with-stix2/",
+  "download_url": "https://claudskills.com/skills/implementing-security-information-sharing-with-stix2/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Create, validate, and share STIX 2.1 threat intelligence objects using the stix2 Python library. Covers indicators,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

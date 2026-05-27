@@ -1,0 +1,19 @@
+{
+  "name": "gdpr-analyst",
+  "slug": "ictrecht-legal-genai-resources-skills-gdpr-analyst",
+  "source": "github",
+  "source_url": "https://github.com/ICTRecht/Legal-GenAI-Resources/blob/aad13b5679024e3f9b32b6749f060947d6b58b93/skills/gdpr-analyst/skill.md",
+  "download_url": "https://github.com/ICTRecht/Legal-GenAI-Resources/blob/aad13b5679024e3f9b32b6749f060947d6b58b93/skills/gdpr-analyst/skill.md",
+  "external_source_url": "https://github.com/ICTRecht/Legal-GenAI-Resources/blob/aad13b5679024e3f9b32b6749f060947d6b58b93/skills/gdpr-analyst/skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "ICTRecht/Legal-GenAI-Resources",
+    "path": "skills/gdpr-analyst/skill.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

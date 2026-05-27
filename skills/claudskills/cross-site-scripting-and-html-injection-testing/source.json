@@ -1,0 +1,18 @@
+{
+  "name": "cross-site-scripting-and-html-injection-testing",
+  "slug": "cross-site-scripting-and-html-injection-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cross-site-scripting-and-html-injection-testing/",
+  "download_url": "https://claudskills.com/skills/cross-site-scripting-and-html-injection-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when the user asks to \"test for XSS vulnerabilities\", \"perform cross-site scripting attacks\", \"identify HTML injection flaws\", \"exploit client-side injection vulnerabilities\", \"steal cookies via XSS\", or \"bypass content security policies\". It provides comprehensive techniques for detecting, exploiting, and understanding XSS and HTML injection attack vectors in web applications.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

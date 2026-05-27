@@ -1,0 +1,18 @@
+{
+  "name": "review-staged-changes",
+  "slug": "review-staged-changes",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/review-staged-changes/",
+  "download_url": "https://claudskills.com/skills/review-staged-changes/SKILL.md",
+  "external_source_url": "",
+  "license": "CC0-1.0",
+  "description": "Use when the user wants a review of currently staged git changes before committing. Triggers on phrases like \"review staged\", \"посмотри что я застейджил\", \"review before commit\", \"проверь изменения перед коммитом\". Returns a structured findings list focused on correctness, security, and conventions — not style nitpicks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

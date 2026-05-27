@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "slug": "markes76-claude-code-gui-linkedin-cli-docs",
+  "source": "github",
+  "source_url": "https://github.com/markes76/claude-code-gui/blob/8b32d197716baa0158a3e9dfb0b3f4f12cca47ba/linkedin-cli/docs/skill.md",
+  "download_url": "https://github.com/markes76/claude-code-gui/blob/8b32d197716baa0158a3e9dfb0b3f4f12cca47ba/linkedin-cli/docs/skill.md",
+  "external_source_url": "https://github.com/markes76/claude-code-gui/blob/8b32d197716baa0158a3e9dfb0b3f4f12cca47ba/linkedin-cli/docs/skill.md",
+  "license": "",
+  "description": "A comprehensive desktop GUI wrapper for Claude Code CLI — manage terminal sessions, CLAUDE.md, memory, MCP servers, skills, agents, hooks, and more",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "markes76/claude-code-gui",
+    "path": "linkedin-cli/docs/skill.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

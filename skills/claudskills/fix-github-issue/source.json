@@ -1,0 +1,18 @@
+{
+  "name": "fix-github-issue",
+  "slug": "fix-github-issue",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fix-github-issue/",
+  "download_url": "https://claudskills.com/skills/fix-github-issue/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Load a GitHub issue, create an isolated worktree, plan the implementation, and submit a PR. Use when asked to fix, implement, or work on a GitHub issue by number. Requires the gh CLI to be authenticated.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

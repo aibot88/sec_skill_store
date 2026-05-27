@@ -1,0 +1,18 @@
+{
+  "name": "hunting-advanced-persistent-threats",
+  "slug": "hunting-advanced-persistent-threats",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hunting-advanced-persistent-threats/",
+  "download_url": "https://claudskills.com/skills/hunting-advanced-persistent-threats/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Proactively hunts for Advanced Persistent Threat (APT) activity within enterprise environments using hypothesis-driven",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

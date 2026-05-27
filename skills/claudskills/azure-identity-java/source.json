@@ -1,0 +1,18 @@
+{
+  "name": "azure-identity-java",
+  "slug": "azure-identity-java",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-identity-java/",
+  "download_url": "https://claudskills.com/skills/azure-identity-java/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authenticate Java applications with Azure services using Microsoft Entra ID (Azure AD).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "database-review",
+  "slug": "database-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/database-review/",
+  "download_url": "https://claudskills.com/skills/database-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review database schema design, query patterns, and data access layer for correctness and performance. Checks normalization balance, index coverage against actual queries, constraint completeness (NOT NULL, FK, unique, check, defaults), data type correctness (money as DECIMAL not FLOAT, timestamps with timezone), N+1 query detection, connection pooling configuration, transaction safety, and migration hygiene. Supports PostgreSQL, MySQL, SQLite, MongoDB, Firestore, DynamoDB, and all major ORMs. Use when you need to review a database schema, find missing indexes, detect N+1 queries, audit data types, check constraint coverage, optimize query patterns, or assess database scaling readiness.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

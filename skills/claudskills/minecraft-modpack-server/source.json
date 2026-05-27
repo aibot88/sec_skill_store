@@ -1,0 +1,18 @@
+{
+  "name": "minecraft-modpack-server",
+  "slug": "minecraft-modpack-server",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/minecraft-modpack-server/",
+  "download_url": "https://claudskills.com/skills/minecraft-modpack-server/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Set up a modded Minecraft server from a CurseForge/Modrinth server pack zip. Covers NeoForge/Forge install, Java version, JVM tuning, firewall, LAN config, backups, and launch scripts.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

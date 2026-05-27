@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-holonic-reasoning",
+  "slug": "agentprivacy-holonic-reasoning",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-holonic-reasoning/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-holonic-reasoning/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Shared reasoning graphs and inference artefacts as persistent, provider-agnostic holons. Activates when discussing Holonic BRAID, reasoning graph libraries, learn-once-reuse-everywhere patterns, agent memory as holon trees, narrative compression into holon MetaData, or shared intelligence structures that persist across environments.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "storytelling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

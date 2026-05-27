@@ -1,0 +1,18 @@
+{
+  "name": "tailscale-k8s",
+  "slug": "tailscale-k8s",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tailscale-k8s/",
+  "download_url": "https://claudskills.com/skills/tailscale-k8s/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run Tailscale inside a Kubernetes pod reliably — persistent identity, SSH host keys, RBAC, stop/start without re-registration, and API-based device cleanup. Use when: configuring tailscaled in a pod or StatefulSet, debugging Tailscale device getting a -1 suffix on pod restart, setting up Tailscale SSH in a container, storing Tailscale state in a K8s secret, managing Tailscale devices via API from a CLI or script, or asking why SSH fingerprints change after pod restart. Trigger on phrases like 'tailscale in kubernetes', 'tailscale pod keeps getting -1', 'tailscale ssh in container', 'TS_KUBE_SECRET', 'tailscale state kube', 'tailscale device cleanup', 'ssh host key changes on pod restart'.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

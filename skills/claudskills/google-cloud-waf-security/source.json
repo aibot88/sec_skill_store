@@ -1,0 +1,18 @@
+{
+  "name": "google-cloud-waf-security",
+  "slug": "google-cloud-waf-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-cloud-waf-security/",
+  "download_url": "https://claudskills.com/skills/google-cloud-waf-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Generates security-focused guidance for Google Cloud workloads based on the design principles and recommendations in the Google Cloud Well-Architected Framework (WAF). Use this skill to evaluate a workload, identify security requirements, and provide actionable recommendations for IAM, network security, data protection, and operational security.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

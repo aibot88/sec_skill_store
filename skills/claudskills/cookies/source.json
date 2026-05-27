@@ -1,0 +1,18 @@
+{
+  "name": "remix-cookies",
+  "slug": "cookies",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cookies/",
+  "download_url": "https://claudskills.com/skills/cookies/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Cookies in Remix v3 via `remix/cookie` — the low-level building block sessions, auth, and CSRF build on. `createCookie(name, options)` for signed cookies (HMAC `secrets` array, rotation playbook), `parse(headerValue)` from incoming requests, `serialize(value, props?)` for `Set-Cookie` headers, plus attributes (`httpOnly`, `secure`, `sameSite: 'Lax' | 'Strict' | 'None'`, `maxAge`, `expires`, `path`, `domain`, `priority`, `partitioned`). Load whenever the user is reading/writing cookies directly (locale prefs, dark-mode flag, consent banner, A/B bucket, \"remember me\", feature flag), configuring the session cookie, rotating signing secrets, or debugging cookies missing in production (`secure: true` over HTTP, `SameSite` mismatch). For signed sessions see /remix:sessions; for the typed `Cookie` / `SetCookie` header parsers see /remix:headers.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

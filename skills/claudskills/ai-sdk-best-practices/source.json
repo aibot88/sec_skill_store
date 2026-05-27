@@ -1,0 +1,18 @@
+{
+  "name": "ai-sdk-best-practices",
+  "slug": "ai-sdk-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-sdk-best-practices/",
+  "download_url": "https://claudskills.com/skills/ai-sdk-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Production best practices for building AI agents with Vercel AI SDK v5. Covers security, performance, error handling, testing, deployment patterns, and real-world implementation guidelines.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

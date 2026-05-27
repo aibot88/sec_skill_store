@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "myysophia-codex-config-.",
+  "source": "github",
+  "source_url": "https://github.com/myysophia/codex-config/blob/9e3619cef80a3d83268fd9c075648617705ea37b/readme_skill.md",
+  "download_url": "https://github.com/myysophia/codex-config/blob/9e3619cef80a3d83268fd9c075648617705ea37b/readme_skill.md",
+  "external_source_url": "https://github.com/myysophia/codex-config/blob/9e3619cef80a3d83268fd9c075648617705ea37b/readme_skill.md",
+  "license": "",
+  "description": "codex best practice",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "myysophia/codex-config",
+    "path": "readme_skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

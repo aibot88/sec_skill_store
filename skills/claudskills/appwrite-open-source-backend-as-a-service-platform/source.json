@@ -1,0 +1,18 @@
+{
+  "name": "appwrite-open-source-backend-as-a-service-platform",
+  "slug": "appwrite-open-source-backend-as-a-service-platform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/appwrite-open-source-backend-as-a-service-platform/",
+  "download_url": "https://claudskills.com/skills/appwrite-open-source-backend-as-a-service-platform/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Appwrite is an open-source, self-hosted backend platform that provides authentication, databases, storage, functions, messaging, and realtime APIs out of the box. It serves as a privacy-first alternative to Firebase and Supabase, packaged as Docker microservices for full data ownership.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

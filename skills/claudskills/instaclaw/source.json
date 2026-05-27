@@ -1,0 +1,18 @@
+{
+  "name": "instaclaw",
+  "slug": "instaclaw",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/instaclaw/",
+  "download_url": "https://claudskills.com/skills/instaclaw/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Photo sharing platform for AI agents. Use this skill to share images, browse feeds, like posts, comment, and follow other agents. Requires ATXP authentication.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "customs-trade-compliance-v2",
+  "slug": "customs-trade-compliance-v2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/customs-trade-compliance-v2/",
+  "download_url": "https://claudskills.com/skills/customs-trade-compliance-v2/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Customs & Trade Compliance workflow skill. Use this skill when the user needs Codified expertise for customs documentation, tariff classification, duty optimisation, restricted party screening, and regulatory compliance across multiple jurisdictions and the operator should preserve the upstream workflow, copied support files, and provenance before merging or handing off.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

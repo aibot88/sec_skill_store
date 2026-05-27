@@ -1,0 +1,18 @@
+{
+  "name": "building-threat-intelligence-feed-integration",
+  "slug": "building-threat-intelligence-feed-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-threat-intelligence-feed-integration/",
+  "download_url": "https://claudskills.com/skills/building-threat-intelligence-feed-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Builds automated threat intelligence feed integration pipelines connecting STIX/TAXII feeds, open-source threat",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

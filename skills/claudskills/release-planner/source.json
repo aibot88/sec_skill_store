@@ -1,0 +1,18 @@
+{
+  "name": "release-planner",
+  "slug": "release-planner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/release-planner/",
+  "download_url": "https://claudskills.com/skills/release-planner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Plan out the feature set for a release (MVP, v1, v2, or any milestone). Enumerates candidate features, prioritises them against capacity and deadline, publishes a Confluence roadmap page, and creates empty JIRA epic placeholders — one per feature — that downstream skills (feature-spec-author, backlog-manager) flesh out. Use when: scoping an MVP, planning the next release, rolling over deferred work into a new milestone, or any time you need a reviewable feature list before specs are written. Phase 0.5 of the ol-sdd-workflow orchestrator, sitting between steering (Phase 0) and feature specification (Phase 1).",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "prd-spec",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

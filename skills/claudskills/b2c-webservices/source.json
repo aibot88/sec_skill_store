@@ -1,0 +1,18 @@
+{
+  "name": "b2c-webservices",
+  "slug": "b2c-webservices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/b2c-webservices/",
+  "download_url": "https://claudskills.com/skills/b2c-webservices/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement web service integrations in B2C Commerce using LocalServiceRegistry. Use when calling external APIs, configuring service credentials in services.xml, handling HTTP requests/responses, or implementing circuit breakers. Covers HTTP, SOAP, FTP, and SFTP services.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

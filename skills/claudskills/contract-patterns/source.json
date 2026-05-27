@@ -1,0 +1,18 @@
+{
+  "name": "contract-patterns",
+  "slug": "contract-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/contract-patterns/",
+  "download_url": "https://claudskills.com/skills/contract-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Common Solidity design patterns and implementations for secure smart contract development. Use when implementing standard functionality like access control, upgradeability, or token standards.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

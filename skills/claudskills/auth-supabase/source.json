@@ -1,0 +1,18 @@
+{
+  "name": "auth-supabase",
+  "slug": "auth-supabase",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-supabase/",
+  "download_url": "https://claudskills.com/skills/auth-supabase/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implements standard Supabase authentication flows including signup, login, password reset, OAuth providers, email verification, and session management with complete security best practices",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

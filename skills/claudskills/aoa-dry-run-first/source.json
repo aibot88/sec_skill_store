@@ -1,0 +1,18 @@
+{
+  "name": "aoa-dry-run-first",
+  "slug": "aoa-dry-run-first",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aoa-dry-run-first/",
+  "download_url": "https://claudskills.com/skills/aoa-dry-run-first/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Prefer simulation, preview, or inspect-only paths before any real mutation, then require one explicit confirmation for the concrete mutating step. Use when the action can be previewed and mistakes would be costly, such as delete, restore, migrate, or reconfigure operations. Do not use for purely analytical tasks or when the primary question is whether execution is authorized at all.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

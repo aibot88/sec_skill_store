@@ -1,0 +1,18 @@
+{
+  "name": "browser-forensics",
+  "slug": "browser-forensics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/browser-forensics/",
+  "download_url": "https://claudskills.com/skills/browser-forensics/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Analyze web browser artifacts for forensic investigation. Use when investigating user browsing activity, downloaded files, cached content, or web-based attacks. Supports Chrome, Firefox, Edge, Safari, and Internet Explorer artifacts.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

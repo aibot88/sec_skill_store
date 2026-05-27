@@ -1,0 +1,18 @@
+{
+  "name": "cometchat-android-v6-production",
+  "slug": "cometchat-android-v6-production",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cometchat-android-v6-production/",
+  "download_url": "https://claudskills.com/skills/cometchat-android-v6-production/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "CometChat Android UIKit v6 production readiness — token auth, ProGuard/R8, security checklist, release configuration",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "implementing-google-workspace-phishing-protection",
+  "slug": "implementing-google-workspace-phishing-protection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-google-workspace-phishing-protection/",
+  "download_url": "https://claudskills.com/skills/implementing-google-workspace-phishing-protection/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Configure Google Workspace advanced phishing and malware protection settings including pre-delivery scanning,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "dkyazzentwatwa-osint-ai-.",
+  "source": "github",
+  "source_url": "https://github.com/dkyazzentwatwa/osint-ai/blob/97ed9f00d4393b5f136a930b040c5848d4baefef/SKILL.md",
+  "download_url": "https://github.com/dkyazzentwatwa/osint-ai/blob/97ed9f00d4393b5f136a930b040c5848d4baefef/SKILL.md",
+  "external_source_url": "https://github.com/dkyazzentwatwa/osint-ai/blob/97ed9f00d4393b5f136a930b040c5848d4baefef/SKILL.md",
+  "license": "",
+  "description": "The ultimate OSINT Skill for AI -- Find Anyone / Anything",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "dkyazzentwatwa/osint-ai",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

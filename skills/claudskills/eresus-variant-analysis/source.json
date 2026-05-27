@@ -1,0 +1,18 @@
+{
+  "name": "eresus-variant-analysis",
+  "slug": "eresus-variant-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eresus-variant-analysis/",
+  "download_url": "https://claudskills.com/skills/eresus-variant-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "GHSA/CVE variant analysis workflow for finding similar vulnerability patterns across a codebase. Trigger when the user asks to: \"find variants of this CVE\", \"GHSA variant analysis\", \"find similar bugs\", \"hunt for the same pattern\", \"are there other places with this vulnerability?\", or when a known vulnerability is discovered and the user wants to know if the same pattern exists elsewhere.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

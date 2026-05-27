@@ -1,0 +1,18 @@
+{
+  "name": "nginx-reverse-proxy",
+  "slug": "nginx-reverse-proxy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nginx-reverse-proxy/",
+  "download_url": "https://claudskills.com/skills/nginx-reverse-proxy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Nginx reverse proxy patterns for path-based routing, lazy DNS resolution, WebSocket/SSE proxying, OAuth2 auth_request, subpath stripping, and multi-server-block configuration for self-hosted infrastructure behind Cloudflare Tunnel.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

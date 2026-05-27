@@ -1,0 +1,18 @@
+{
+  "name": "supabase-multi-env-setup",
+  "slug": "supabase-multi-env-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-multi-env-setup/",
+  "download_url": "https://claudskills.com/skills/supabase-multi-env-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Supabase across development, staging, and production with separate projects, environment-specific secrets, and safe migration promotion. Use when setting up multi-environment deployments, isolating dev from prod data, configuring per-environment Supabase projects, or promoting migrations through environments. Trigger: \"supabase environments\", \"supabase staging\", \"supabase dev prod\", \"supabase multi-project\", \"supabase env config\", \"database branching\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

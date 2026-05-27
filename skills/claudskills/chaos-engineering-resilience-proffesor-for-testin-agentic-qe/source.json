@@ -1,0 +1,18 @@
+{
+  "name": "chaos-engineering-resilience",
+  "slug": "chaos-engineering-resilience-proffesor-for-testin-agentic-qe",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chaos-engineering-resilience-proffesor-for-testin-agentic-qe/",
+  "download_url": "https://claudskills.com/skills/chaos-engineering-resilience-proffesor-for-testin-agentic-qe/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Chaos engineering principles, controlled failure injection, resilience testing, and system recovery validation. Use when testing distributed systems, building confidence in fault tolerance, or validating disaster recovery.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

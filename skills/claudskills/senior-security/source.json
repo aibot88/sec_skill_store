@@ -1,0 +1,18 @@
+{
+  "name": "senior-security",
+  "slug": "senior-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/senior-security/",
+  "download_url": "https://claudskills.com/skills/senior-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive security engineering skill for application security, penetration testing, security architecture, and compliance auditing. Includes security assessment tools, threat modeling, crypto implementation, and security automation. Use when designing security architecture, conducting penetration tests, implementing cryptography, or performing security audits.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

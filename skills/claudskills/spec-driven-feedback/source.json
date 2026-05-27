@@ -1,0 +1,18 @@
+{
+  "name": "spec-driven-feedback",
+  "slug": "spec-driven-feedback",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spec-driven-feedback/",
+  "download_url": "https://claudskills.com/skills/spec-driven-feedback/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Retrospective feedback system with Execute-Verify-Gate structural anti-skip enforcement for DevForgeAI operations. Captures feedback after /dev, /qa, /release, sprint planning, or manual triggers. Handles 6 feedback types: conversation, summary, metrics, checklist, ai_analysis, and triage. Prevents token optimization bias through lean orchestration, per-phase reference loading, checkpoint persistence, and binary CLI gate enforcement. Use when feedback needs to be captured, when the user mentions retrospectives, lessons learned, workflow improvements, process feedback, or wants to review what went well or poorly. Also handles AI architectural analysis, recommendation triage, feedback search, export/import, and configuration management.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "education-learning",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

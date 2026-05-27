@@ -1,0 +1,18 @@
+{
+  "name": "fullstory-banking",
+  "slug": "fullstory-banking",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fullstory-banking/",
+  "download_url": "https://claudskills.com/skills/fullstory-banking/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Industry-specific guide for implementing Fullstory in banking and financial services applications. Covers regulatory requirements (PCI DSS, GLBA, SOX), privacy controls for sensitive financial data, authentication flows, transaction monitoring, and fraud detection patterns. Includes detailed examples for retail banking, investment platforms, and payment applications.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "storytelling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:02+00:00"
+}

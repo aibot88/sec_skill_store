@@ -1,0 +1,18 @@
+{
+  "name": "api-security-hardening",
+  "slug": "api-security-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-security-hardening/",
+  "download_url": "https://claudskills.com/skills/api-security-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "REST API security hardening with authentication, rate limiting, input validation, security headers. Use for production APIs, security audits, defense-in-depth, or encountering vulnerabilities, injection attacks, CORS issues.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

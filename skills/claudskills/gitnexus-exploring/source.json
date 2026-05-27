@@ -1,0 +1,18 @@
+{
+  "name": "gitnexus-exploring",
+  "slug": "gitnexus-exploring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gitnexus-exploring/",
+  "download_url": "https://claudskills.com/skills/gitnexus-exploring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when the user asks how code works, wants to understand architecture, trace execution flows, or explore unfamiliar parts of the codebase. Examples: \\\"How does X work?\\\", \\\"What calls this function?\\\", \\\"Show me the auth flow\\",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

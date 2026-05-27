@@ -1,0 +1,18 @@
+{
+  "name": "chain-forensics",
+  "slug": "chain-forensics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chain-forensics/",
+  "download_url": "https://claudskills.com/skills/chain-forensics/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "On-chain analysis and transaction forensics for blockchain security investigations. Provides capabilities for tracing fund flows, identifying suspicious patterns, MEV analysis, and generating forensic reports for incident response.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

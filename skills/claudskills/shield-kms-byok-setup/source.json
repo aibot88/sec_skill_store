@@ -1,0 +1,18 @@
+{
+  "name": "shield-kms-byok-setup",
+  "slug": "shield-kms-byok-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/shield-kms-byok-setup/",
+  "download_url": "https://claudskills.com/skills/shield-kms-byok-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configure Shield Platform Encryption with customer-supplied (BYOK) or customer-held (Cache-Only Key Service) tenant secrets, rotate them, and recover. NOT for Classic Encryption or field masking.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

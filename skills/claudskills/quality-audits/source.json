@@ -1,0 +1,18 @@
+{
+  "name": "agnt-quality-audits",
+  "slug": "quality-audits",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/quality-audits/",
+  "download_url": "https://claudskills.com/skills/quality-audits/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Page quality audits for DOM complexity, CSS architecture, security vulnerabilities, and SEO/meta tag validation. 頁品稽查：DOM繁度、CSS構、安全漏洞、SEO元標。 Use when: audit page quality, check DOM complexity, audit CSS architecture, check security vulnerabilities, validate SEO meta tags, run pre-release quality check",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

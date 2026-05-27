@@ -1,0 +1,18 @@
+{
+  "name": "fullstack-dev",
+  "slug": "fullstack-dev",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fullstack-dev/",
+  "download_url": "https://claudskills.com/skills/fullstack-dev/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Full-stack backend architecture and frontend-backend integration guide. TRIGGER when: building a full-stack app, creating REST API with frontend, scaffolding backend service, building todo app, building CRUD app, building real-time app, building chat app, Express + React, Next.js API, Node.js backend, Python backend, Go backend, designing service layers, implementing error handling, managing config/auth, setting up API clients, implementing auth flows, handling file uploads, adding real-time features (SSE/WebSocket), hardening for production. DO NOT TRIGGER when: pure frontend UI work, pure CSS/styling, database schema only.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

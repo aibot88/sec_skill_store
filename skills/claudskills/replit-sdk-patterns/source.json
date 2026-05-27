@@ -1,0 +1,18 @@
+{
+  "name": "replit-sdk-patterns",
+  "slug": "replit-sdk-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/replit-sdk-patterns/",
+  "download_url": "https://claudskills.com/skills/replit-sdk-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply production-ready patterns for Replit Database, Object Storage, and Auth APIs. Use when implementing Replit integrations, structuring data access layers, or establishing team coding standards for Replit services. Trigger with phrases like \"replit patterns\", \"replit best practices\", \"replit code patterns\", \"idiomatic replit\", \"replit SDK\".",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

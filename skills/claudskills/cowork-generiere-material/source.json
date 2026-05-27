@@ -1,0 +1,18 @@
+{
+  "name": "cowork.generiere_material",
+  "slug": "cowork-generiere-material",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cowork-generiere-material/",
+  "download_url": "https://claudskills.com/skills/cowork-generiere-material/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Phase-3-Pipeline-Skill (T-31-3, ADR 0034) für Material-Generation zu existierender UE im Cowork-Mode. Trigger: 'Erzeuge AB für KW##', 'Generiere Material zur UE', 'AB / Lösungsblatt / PPP', 'Material-Set für Stunde', 'Plugin-Output'. Eingabe: TUV-Pfad (v2.1 mit erwartungshorizont) ODER Sequenz-Stand-Verweis + Material_Geruest (Track-AC-Output). Output: AB n1+n2+n3 + Lösungsblätter (= Erwartungshorizont-Visualisierung, ADR_0040 + ADR_0052) + PPP + Tafelbild + _manifest.md. Komposition: artefakte-generator (Phase-1-Orchestrator) + cowork.bd_hook_p23_material (R57 Track-C Phase-3) + cowork.audit_pre_commit. Persistierung erst nach Lehrkraft-Bestätigung. NICHT-Trigger: Kein reines AB-Single-Output (das ist artefakt-arbeitsblatt); kein UE-Authoring/Planning (das ist upstream Sequenz-/UE-Planungs-Skills).",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "aws-waf-cost-optimization-review",
+  "slug": "aws-waf-cost-optimization-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-waf-cost-optimization-review/",
+  "download_url": "https://claudskills.com/skills/aws-waf-cost-optimization-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review AWS workload cost posture against the Well-Architected Framework Cost Optimization Pillar. Covers cost visibility, tagging compliance, commitment coverage, rightsizing, Spot and managed service adoption, and idle resource identification. Use when auditing cloud spend, planning Savings Plans purchases, or preparing for a formal WAF Cost Optimization Pillar review.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "quality-reviewer",
+  "slug": "quality-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/quality-reviewer/",
+  "download_url": "https://claudskills.com/skills/quality-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deep code review with web research to verify against latest ecosystem. Use when user says 'double check against latest', 'verify versions', 'check security', 'review against docs', or needs deep analysis beyond automatic quality hook.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

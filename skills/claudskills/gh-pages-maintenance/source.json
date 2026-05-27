@@ -1,0 +1,18 @@
+{
+  "name": "gh-pages-maintenance",
+  "slug": "gh-pages-maintenance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gh-pages-maintenance/",
+  "download_url": "https://claudskills.com/skills/gh-pages-maintenance/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Betrieb und Wartung von GitHub Pages Websites (primär Nuxt 4 SSG-Blogs). Verwende diesen Skill für: CI/CD-Workflow verstehen und debuggen; PR-Previews einrichten; Umgebungsvariablen und GitHub Secrets verwalten; statische Redirects (routeRules) konfigurieren; Google Analytics / AdSense integrieren; DSGVO-Consent einrichten; Nuxt Content v3 Schema anpassen; Renovate-PRs beurteilen; Blog-Posts und Seiten erstellen.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

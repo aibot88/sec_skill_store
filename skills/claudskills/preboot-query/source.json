@@ -1,0 +1,18 @@
+{
+  "name": "preboot-query",
+  "slug": "preboot-query",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/preboot-query/",
+  "download_url": "https://claudskills.com/skills/preboot-query/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Skill do używania biblioteki preboot-query. Użyj tego skilla zawsze gdy użytkownik chce implementować dynamiczne filtrowanie, sortowanie, paginację, repozytorium z wyszukiwaniem, REST API z filtrowaniem, projekcje, eksport danych, lub pracuje z Spring Data JDBC i potrzebuje dynamicznych zapytań. Obejmuje: FilterableRepository, FilterableUuidRepository, FilterCriteria, SearchParams, SearchRequest, FilterableController, CrudFilterableController, UuidFilterableController, CrudUuidFilterableController, AggregateReference, projekcje SpEL, SortOrder, eksport danych. Triggeruje się na: dynamic filtering, search, pagination, sorting, filterable repository, criteria query, Spring Data JDBC query, REST API search, CRUD controller, export CSV XLSX, projection, aggregate reference, UUID repository, database view, ILIKE, between, IN operator, nested filtering, OR AND conditions, complex query, SearchParams, FilterCriteria, findAll with filters, page size, unpaged.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

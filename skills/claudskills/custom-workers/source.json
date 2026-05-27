@@ -1,0 +1,18 @@
+{
+  "name": "Custom Workers",
+  "slug": "custom-workers",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/custom-workers/",
+  "download_url": "https://claudskills.com/skills/custom-workers/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create and run custom background analysis workers with composable phases. Use when you need automated code analysis, security scanning, pattern learning, or API documentation generation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

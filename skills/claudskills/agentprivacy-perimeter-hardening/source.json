@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-perimeter-hardening",
+  "slug": "agentprivacy-perimeter-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-perimeter-hardening/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-perimeter-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Device security, OS hardening, network configuration, and physical security for 0xagentprivacy swordsman infrastructure. Activates when securing the execution environment beneath the cryptographic layer, designing supply chain integrity checks, hardening operating systems for agent execution, or building the physical and logical security foundation that cryptography assumes but does not provide. Triggers: \"device security\", \"OS hardening\", \"supply chain\", \"firmware\", \"boot integrity\", \"network hardening\", \"physical security\", \"attack surface reduction\", \"secure boot\", \"endpoint hardening\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

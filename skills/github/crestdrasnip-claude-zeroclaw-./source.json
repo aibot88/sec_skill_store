@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "crestdrasnip-claude-zeroclaw-.",
+  "source": "github",
+  "source_url": "https://github.com/Crestdrasnip/Claude-Zeroclaw/blob/f00fded7c5afacf696cee08667030e05e369e4f6/SKILL.md",
+  "download_url": "https://github.com/Crestdrasnip/Claude-Zeroclaw/blob/f00fded7c5afacf696cee08667030e05e369e4f6/SKILL.md",
+  "external_source_url": "https://github.com/Crestdrasnip/Claude-Zeroclaw/blob/f00fded7c5afacf696cee08667030e05e369e4f6/SKILL.md",
+  "license": "",
+  "description": "Claude-Zeroclaw — claude zeroclaw keyword code research. Open-source tool for automation and enhancement.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Crestdrasnip/Claude-Zeroclaw",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

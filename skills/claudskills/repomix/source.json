@@ -1,0 +1,18 @@
+{
+  "name": "repomix",
+  "slug": "repomix",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/repomix/",
+  "download_url": "https://claudskills.com/skills/repomix/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Package entire code repositories into single AI-friendly files using Repomix. Capabilities include pack codebases with customizable include/exclude patterns, generate multiple output formats (XML, Markdown, plain text), preserve file structure and context, optimize for AI consumption with token counting, filter by file types and directories, add custom headers and summaries. Use when packaging codebases for AI analysis, creating repository snapshots for LLM context, analyzing third-party libraries, preparing for security audits, generating documentation context, or evaluating unfamiliar codebases.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

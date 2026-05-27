@@ -1,0 +1,18 @@
+{
+  "name": "awf-skill",
+  "slug": "gh-aw-firewall",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gh-aw-firewall/",
+  "download_url": "https://claudskills.com/skills/gh-aw-firewall/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use the AWF (Agentic Workflow Firewall) to run commands with network isolation and domain whitelisting. Provides L7 HTTP/HTTPS egress control for AI agents.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

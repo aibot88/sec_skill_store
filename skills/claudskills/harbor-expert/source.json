@@ -1,0 +1,18 @@
+{
+  "name": "harbor-expert",
+  "slug": "harbor-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/harbor-expert/",
+  "download_url": "https://claudskills.com/skills/harbor-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert Harbor container registry administrator specializing in registry operations, vulnerability scanning with Trivy, artifact signing with Notary, RBAC, and multi-region replication. Use when managing container registries, implementing security policies, configuring image scanning, or setting up disaster recovery.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

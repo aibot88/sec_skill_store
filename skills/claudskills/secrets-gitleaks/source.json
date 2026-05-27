@@ -1,0 +1,18 @@
+{
+  "name": "secrets-gitleaks",
+  "slug": "secrets-gitleaks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/secrets-gitleaks/",
+  "download_url": "https://claudskills.com/skills/secrets-gitleaks/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Hardcoded secret detection and prevention in git repositories and codebases using Gitleaks. Identifies passwords, API keys, tokens, and credentials through regex-based pattern matching and entropy analysis. Use when: (1) Scanning repositories for exposed secrets and credentials, (2) Implementing pre-commit hooks to prevent secret leakage, (3) Integrating secret detection into CI/CD pipelines, (4) Auditing codebases for compliance violations (PCI-DSS, SOC2, GDPR), (5) Establishing baseline secret detection and tracking new exposures, (6) Remediating historical secret exposures in git history.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

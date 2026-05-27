@@ -1,0 +1,18 @@
+{
+  "name": "detecting-buffer-overflows",
+  "slug": "detecting-buffer-overflows",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-buffer-overflows/",
+  "download_url": "https://claudskills.com/skills/detecting-buffer-overflows/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detects stack and heap buffer overflow vulnerabilities in binary code by identifying unsafe memory operations. Use when analyzing buffer handling, string manipulation functions, or investigating memory corruption vulnerabilities.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

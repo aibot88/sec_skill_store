@@ -1,0 +1,18 @@
+{
+  "name": "firebase-development-add-feature",
+  "slug": "firebase-development-add-feature",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-development-add-feature/",
+  "download_url": "https://claudskills.com/skills/firebase-development-add-feature/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when adding features to existing Firebase projects. Triggers on \"add function\", \"create endpoint\", \"new tool\", \"add api\", \"new collection\", \"implement\", \"build feature\". Guides TDD workflow with test-first development, security rules, and emulator verification.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

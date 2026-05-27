@@ -1,0 +1,18 @@
+{
+  "name": "architecture-single-responsibility-principle",
+  "slug": "architecture-single-responsibility-principle",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/architecture-single-responsibility-principle/",
+  "download_url": "https://claudskills.com/skills/architecture-single-responsibility-principle/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automated SRP validation using multi-dimensional detection. Use when reviewing code for SRP compliance, checking \"is this doing too much\", validating architectural boundaries, before commits, or during refactoring. Detects God classes, method naming violations, complexity issues.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "parsing-diva-request",
+  "slug": "parsing-diva-request",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/parsing-diva-request/",
+  "download_url": "https://claudskills.com/skills/parsing-diva-request/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Structure une demande DIVA en texte libre (user story + criteres d'acceptation, ou ticket myService d'anomalie) en JSON canonique : type de demande, titre, resume, acteurs, donnees manipulees, domaine ERP pressenti, keywords techniques et metier, CA detectes, message d'erreur. Le parseur est deterministe (regex + heuristiques), le LLM raffine la sortie au checkpoint CP1 de l'orchestrateur. A utiliser quand une demande est livree en texte libre et qu'il faut produire un JSON structure exploitable par les phases suivantes d'analyse.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

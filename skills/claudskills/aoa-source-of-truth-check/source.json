@@ -1,0 +1,18 @@
+{
+  "name": "aoa-source-of-truth-check",
+  "slug": "aoa-source-of-truth-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aoa-source-of-truth-check/",
+  "download_url": "https://claudskills.com/skills/aoa-source-of-truth-check/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Clarify which files are authoritative for repository guidance, operational instructions, architecture, and status, and keep entrypoint docs short and link-driven once canonical homes exist. Use when docs overlap, conflict, or confuse contributors about which file to trust. Do not use for purely code-local tasks or when authoritative files are already clear and the main need is decision rationale.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

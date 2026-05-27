@@ -1,0 +1,18 @@
+{
+  "name": "sentry-security-basics",
+  "slug": "sentry-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sentry-security-basics/",
+  "download_url": "https://claudskills.com/skills/sentry-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Sentry security settings and data protection. Use when setting up PII scrubbing, managing sensitive data, configuring data scrubbing rules, or hardening Sentry for compliance. Trigger with phrases like \"sentry security\", \"sentry PII\", \"sentry data scrubbing\", \"secure sentry\", \"sentry GDPR\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

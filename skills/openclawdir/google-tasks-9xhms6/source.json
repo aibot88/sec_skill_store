@@ -1,0 +1,17 @@
+{
+  "name": "google-tasks",
+  "slug": "google-tasks-9xhms6",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/google-tasks-9xhms6",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/addozhang/google-tasks/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/addozhang/google-tasks/SKILL.md",
+  "license": "",
+  "description": "Fetch, display, create, and delete Google Tasks using the Google",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=3"
+  },
+  "collected_at": "2026-05-27T03:44:43+00:00"
+}

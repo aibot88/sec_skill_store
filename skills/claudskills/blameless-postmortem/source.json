@@ -1,0 +1,18 @@
+{
+  "name": "blameless-postmortem",
+  "slug": "blameless-postmortem",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/blameless-postmortem/",
+  "download_url": "https://claudskills.com/skills/blameless-postmortem/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Google SRE-style blameless postmortem authoring. Structure, timeline construction, contributing-factor extraction, action-item discipline, and the cultural practices that make postmortems produce learning rather than theater. Use when writing a postmortem after an incident, reviewing a draft postmortem, running a postmortem review meeting, building a postmortem template, or teaching a team how to write postmortems that actually improve the system. Complements rca-human-factors (for the \"why people did what they did\" analysis) and the rca-classical-methods / rca-systems-theoretic / rca-causal-inference / rca-distributed-systems skills (which supply the investigation techniques that populate the postmortem's analysis section).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

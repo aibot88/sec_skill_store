@@ -1,0 +1,18 @@
+{
+  "name": "x-ohmyposh",
+  "slug": "ohmyposh",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ohmyposh/",
+  "download_url": "https://claudskills.com/skills/ohmyposh/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Oh-My-Posh prompt theme engine with theme management. Cross-platform tool to render your prompt with consistent experience. Auto-downloads oh-my-posh binary if not available. **Dependency**: This is an x-cmd module. Install x-cmd first (see x-cmd skill for installation options). see x-cmd skill for installation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

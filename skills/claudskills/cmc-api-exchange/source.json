@@ -1,0 +1,18 @@
+{
+  "name": "cmc-api-exchange",
+  "slug": "cmc-api-exchange",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cmc-api-exchange/",
+  "download_url": "https://claudskills.com/skills/cmc-api-exchange/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "API reference for CoinMarketCap exchange endpoints including exchange info, volume, market pairs, and assets. Use this skill whenever the user mentions exchange API, asks about exchange volumes, wants trading pair data, needs proof-of-reserves info, or is building exchange integrations. This is the authoritative reference for CMC exchange API questions. Trigger: \"exchange API\", \"CMC exchange data\", \"trading pairs API\", \"exchange volume API\", \"/cmc-api-exchange\"",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

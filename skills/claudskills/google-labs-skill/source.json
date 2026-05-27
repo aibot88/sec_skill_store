@@ -1,0 +1,18 @@
+{
+  "name": "google-labs-extension",
+  "slug": "google-labs-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-labs-skill/",
+  "download_url": "https://claudskills.com/skills/google-labs-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Access Google's experimental AI tools (Stitch, Whisk, Flow, MusicFX, ImageFX) with OAuth authentication and browser automation. Use for visual storytelling, image remixing, animation, and compound workflows that combine multiple tools.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

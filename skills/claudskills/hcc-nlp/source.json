@@ -1,0 +1,18 @@
+{
+  "name": "hcc-nlp",
+  "slug": "hcc-nlp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hcc-nlp/",
+  "download_url": "https://claudskills.com/skills/hcc-nlp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build, evaluate, and document HCC / risk-adjustment extraction pipelines for CMS-HCC V28 / V24 / HHS-HCC (NLP engineering, not chart review). Use when asked to \"build an HCC extractor\", \"risk adjustment NLP\", \"clinical NLP for risk adjustment\", \"build a suspect engine\", \"build a validate engine\", \"RAF NLP\", \"RAF score NLP\", \"MEAT as NLP\", \"MEAT validation\", \"HCC hierarchy enforcement\", \"RADV simulation\", \"RADV readiness\", \"date of service for HCC\", \"Z-code disambiguation for HCC\", \"model card for HCC extractor\", \"V28 vs V24 migration for NLP\", \"HHS-HCC NLP\", \"history-of trap\", \"problem-list-only invalid\", or any data-science task targeting HCC capture. DO NOT USE FOR clinical chart review (use medical-chart-review skill). DO NOT USE FOR HEDIS NLP (use hedis-nlp skill). DO NOT USE FOR HIPAA compliance program work like BAA review, breach response, or OCR audit prep (use the hipaa-compliance skill). DO NOT USE FOR handling real identifiable PHI without explicit user confirmation that data is de-identified or that the environment is HIPAA-compliant.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "storytelling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sops-secret-file-encryption-rotation",
+  "slug": "sops-secret-file-encryption-rotation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sops-secret-file-encryption-rotation/",
+  "download_url": "https://claudskills.com/skills/sops-secret-file-encryption-rotation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "SOPS manages encrypted YAML, JSON, ENV, INI, and binary files with KMS, age, and PGP. It is a tight fit for secrets handling, rotation, and encrypted configuration workflows.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

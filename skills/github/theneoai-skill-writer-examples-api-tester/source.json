@@ -1,0 +1,19 @@
+{
+  "name": "api-tester",
+  "slug": "theneoai-skill-writer-examples-api-tester",
+  "source": "github",
+  "source_url": "https://github.com/theneoai/skill-writer/blob/940e4a79b2b4ae82a7c34bac04d055a43583fb82/examples/api-tester/skill.md",
+  "download_url": "https://github.com/theneoai/skill-writer/blob/940e4a79b2b4ae82a7c34bac04d055a43583fb82/examples/api-tester/skill.md",
+  "external_source_url": "https://github.com/theneoai/skill-writer/blob/940e4a79b2b4ae82a7c34bac04d055a43583fb82/examples/api-tester/skill.md",
+  "license": "",
+  "description": "Skill Writer is a meta-skill that enables AI assistants to create, evaluate, and optimize other skills through natural language interaction.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "theneoai/skill-writer",
+    "path": "examples/api-tester/skill.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

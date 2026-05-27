@@ -1,0 +1,18 @@
+{
+  "name": "svg",
+  "slug": "svg",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/svg/",
+  "download_url": "https://claudskills.com/skills/svg/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when authoring custom data viz that doesn't fit a predefined chart layout — brand-aware SVG infographics via compact DSL.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "growth-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

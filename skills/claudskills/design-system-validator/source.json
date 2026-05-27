@@ -1,0 +1,18 @@
+{
+  "name": "design-system-validator",
+  "slug": "design-system-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/design-system-validator/",
+  "download_url": "https://claudskills.com/skills/design-system-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate design system compliance in code and detect token usage violations",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-system-ui",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

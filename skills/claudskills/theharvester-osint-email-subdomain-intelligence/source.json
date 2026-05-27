@@ -1,0 +1,18 @@
+{
+  "name": "theharvester-osint-email-subdomain-intelligence",
+  "slug": "theharvester-osint-email-subdomain-intelligence",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/theharvester-osint-email-subdomain-intelligence/",
+  "download_url": "https://claudskills.com/skills/theharvester-osint-email-subdomain-intelligence/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "theHarvester is an open-source OSINT tool for gathering emails, subdomains, hosts, employee names, open ports, and banners from public sources. Used during reconnaissance in penetration testing and red team assessments, it queries search engines, PGP key servers, the Shodan API, and other data sources to map an organization's external threat surface.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

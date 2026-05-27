@@ -1,0 +1,18 @@
+{
+  "name": "mcp-installer",
+  "slug": "mcp-installer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mcp-installer/",
+  "download_url": "https://claudskills.com/skills/mcp-installer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Find, install, and configure MCP servers. Use proactively for MCP discovery, OAuth setup, env vars, stdio vs SSE transport, or troubleshooting MCP connections. Examples: - user: \"Add the filesystem MCP server\" → read server file, add to mcpServers in opencode.json, verify transport type - user: \"How do I use MCP with GitHub?\" → check catalog, install @modelcontextprotocol/server-github, configure OAuth token - user: \"MCP not connecting\" → check transport type (stdio/SSE), verify args/command, check env vars are passed - user: \"What MCPs are available?\" → run list_mcps.py, show catalog with auth types and install commands",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

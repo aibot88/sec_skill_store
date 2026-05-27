@@ -1,0 +1,18 @@
+{
+  "name": "committing-changes",
+  "slug": "committing-changes",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/committing-changes/",
+  "download_url": "https://claudskills.com/skills/committing-changes/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Commit work with feature-branch + PR discipline and enforce commit-message rules via git hooks. Use when committing code, opening a PR, or setting up a new repo's commit hygiene. Installs three git hooks (commit-msg subject rules, pre-commit auto-checks, pre-push protect-main), creates a feature branch from main if needed, runs the project's lint/format/test before commit, generates a conformant commit message (capital start, ≤72 chars, no trailing period, no Co-Authored-By, one logical change per commit), pushes, opens a PR via gh pr create, and prunes merged branches. Never pushes to main, never merges PRs, never force-pushes. Co-activates with shell-discipline and engineering-philosophy.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

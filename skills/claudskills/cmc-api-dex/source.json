@@ -1,0 +1,18 @@
+{
+  "name": "cmc-api-dex",
+  "slug": "cmc-api-dex",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cmc-api-dex/",
+  "download_url": "https://claudskills.com/skills/cmc-api-dex/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "API reference for CoinMarketCap DEX endpoints including token lookup, pools, transactions, trending, and security analysis. Use this skill whenever the user mentions DEX API, asks about on-chain token data, wants to look up tokens by contract address, needs security/rug risk checks, or is building DEX integrations. This is the definitive reference for CMC DEX API questions. Trigger: \"DEX API\", \"token by contract address\", \"CMC security API\", \"liquidity pool API\", \"/cmc-api-dex\"",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

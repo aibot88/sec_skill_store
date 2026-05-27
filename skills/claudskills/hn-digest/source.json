@@ -1,0 +1,18 @@
+{
+  "name": "hn-digest",
+  "slug": "hn-digest",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hn-digest/",
+  "download_url": "https://claudskills.com/skills/hn-digest/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fetch and send Hacker News front-page posts on demand. Use when the user asks for HN, says 'hn', 'pull HN', 'hn 10', or specifies a topic like 'hn health', 'hn hacking', or 'hn tech'. Sends N (default 5) posts as individual messages with Title + Link. Exclude crypto.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "prompt-security-hardening",
+  "slug": "prompt-security-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prompt-security-hardening/",
+  "download_url": "https://claudskills.com/skills/prompt-security-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when writing skills, CLAUDE.md files, agent prompts, or any directives that involve shell commands, environment variables, API credentials, file creation, or git operations - prevents secrets leakage into LLM context, unsafe shell patterns, and credential exposure",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

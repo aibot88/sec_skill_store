@@ -1,0 +1,18 @@
+{
+  "name": "csp-and-trusted-urls",
+  "slug": "csp-and-trusted-urls",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/csp-and-trusted-urls/",
+  "download_url": "https://claudskills.com/skills/csp-and-trusted-urls/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configure Content Security Policy via Trusted URLs and CSP Trusted Sites so Lightning, LWR, and LWC can call third-party scripts, APIs, and frame sources. NOT for clickjack configuration.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

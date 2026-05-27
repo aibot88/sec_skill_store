@@ -1,0 +1,18 @@
+{
+  "name": "Metasploit Framework",
+  "slug": "metasploit-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/metasploit-framework/",
+  "download_url": "https://claudskills.com/skills/metasploit-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when the user asks to \"use Metasploit for penetration testing\", \"exploit vulnerabilities with msfconsole\", \"create payloads with msfvenom\", \"perform post-exploitation\", \"use auxiliary modules for scanning\", or \"develop custom exploits\". It provides comprehensive guidance for leveraging the Metasploit Framework in security assessments.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

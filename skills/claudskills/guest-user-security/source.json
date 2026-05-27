@@ -1,0 +1,18 @@
+{
+  "name": "guest-user-security",
+  "slug": "guest-user-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/guest-user-security/",
+  "download_url": "https://claudskills.com/skills/guest-user-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when hardening the Experience Cloud guest user profile, controlling unauthenticated access to records and Apex, or investigating data exposure through guest SOQL. Covers object permissions, sharing model enforcement for unauthenticated users, and Apex execution context. NOT for Experience Cloud site creation (use Experience Cloud skills) or for authenticated external user security (use security/experience-cloud-security).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

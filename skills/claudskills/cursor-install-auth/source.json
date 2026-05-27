@@ -1,0 +1,18 @@
+{
+  "name": "cursor-install-auth",
+  "slug": "cursor-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cursor-install-auth/",
+  "download_url": "https://claudskills.com/skills/cursor-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install Cursor IDE and configure authentication across macOS, Linux, and Windows. Triggers on \"install cursor\", \"setup cursor\", \"cursor authentication\", \"cursor login\", \"cursor license\", \"cursor download\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

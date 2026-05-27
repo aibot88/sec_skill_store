@@ -1,0 +1,18 @@
+{
+  "name": "Auth.js (NextAuth v5)",
+  "slug": "authjs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/authjs/",
+  "download_url": "https://claudskills.com/skills/authjs/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guía oficial de Auth.js v5 para autenticación en aplicaciones modernas con soporte para Prisma Adapter",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:57+00:00"
+}

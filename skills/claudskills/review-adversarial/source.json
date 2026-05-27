@@ -1,0 +1,18 @@
+{
+  "name": "review-adversarial",
+  "slug": "review-adversarial",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/review-adversarial/",
+  "download_url": "https://claudskills.com/skills/review-adversarial/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Challenge a design, plan, or artifact by actively looking for weaknesses, risks, and blind spots. Use when the user says 'challenge this design', 'red team this', 'steelman the alternative', or 'find what we missed'.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

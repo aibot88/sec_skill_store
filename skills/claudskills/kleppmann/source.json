@@ -1,0 +1,18 @@
+{
+  "name": "kleppmann-data-intensive",
+  "slug": "kleppmann",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kleppmann/",
+  "download_url": "https://claudskills.com/skills/kleppmann/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design distributed systems in the style of Martin Kleppmann, author of \"Designing Data-Intensive Applications\". Emphasizes understanding data systems deeply, making informed trade-offs, and building reliable data infrastructure. Use when designing databases, streaming systems, or data pipelines.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

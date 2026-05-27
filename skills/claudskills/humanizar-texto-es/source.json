@@ -1,0 +1,18 @@
+{
+  "name": "humanizar-texto-es",
+  "slug": "humanizar-texto-es",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/humanizar-texto-es/",
+  "download_url": "https://claudskills.com/skills/humanizar-texto-es/SKILL.md",
+  "external_source_url": "",
+  "license": "GPL-2.0-or-later",
+  "description": "Elimina patrones de escritura típicos de IA en textos en español de España para que suenen naturales y humanos. Aplica esta skill siempre que generes, edites o revises textos en español: artículos, guías, tutoriales, emails, copy comercial, publicaciones en redes sociales, documentación, informes o cualquier prosa. Actívala también cuando el usuario pida humanizar texto, eliminar tono robótico, mejorar la naturalidad de un texto, o cuando mencione que algo suena a IA, a ChatGPT o a texto generado automáticamente.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

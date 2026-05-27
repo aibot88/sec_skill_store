@@ -1,0 +1,18 @@
+{
+  "name": "ideogram-install-auth",
+  "slug": "ideogram-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ideogram-install-auth/",
+  "download_url": "https://claudskills.com/skills/ideogram-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Ideogram API authentication. Use when setting up a new Ideogram integration, configuring API keys, or initializing Ideogram in your project. Trigger with phrases like \"install ideogram\", \"setup ideogram\", \"ideogram auth\", \"configure ideogram API key\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

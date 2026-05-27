@@ -1,0 +1,18 @@
+{
+  "name": "qualification",
+  "slug": "qualification",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/qualification/",
+  "download_url": "https://claudskills.com/skills/qualification/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Lead qualification using BANT 6-criteria gate (Problem, Budget, Authority, Timeline, Fit, Margin) at marketing-sales handoff. Qualified leads enter pipeline, unqualified go to nurture. If bottleneck is downstream, reduce upstream lead gen. Use when evaluating leads, managing marketing-sales handoff, or when pipeline quality is poor.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

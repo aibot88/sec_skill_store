@@ -1,0 +1,18 @@
+{
+  "name": "klingai-audit-logging",
+  "slug": "klingai-audit-logging",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/klingai-audit-logging/",
+  "download_url": "https://claudskills.com/skills/klingai-audit-logging/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement audit logging for Kling AI operations for compliance and security. Use when tracking API usage or preparing for audits. Trigger with phrases like 'klingai audit', 'kling ai audit log', 'klingai compliance log', 'video generation audit trail'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

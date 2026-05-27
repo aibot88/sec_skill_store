@@ -1,0 +1,18 @@
+{
+  "name": "clawdi",
+  "slug": "clawdi",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clawdi/",
+  "download_url": "https://claudskills.com/skills/clawdi/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Cross-agent long-term memory + session history for the current user: their preferences, coding habits, named projects / repos / tools, past bugs and architecture decisions, AND their past agent conversations across Claude Code / Codex / OpenClaw / Hermes. Surface this skill BEFORE answering any question about the user themselves, their work, or their history — even when phrased abstractly (e.g. 'what do I usually use for X', 'find the session where I worked on auth'). Also provides connected-service tools (Gmail, GitHub, Notion, Drive, Calendar, etc.) and reads Clawdi share URLs (https://cloud.clawdi.ai/s/...) the user pastes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

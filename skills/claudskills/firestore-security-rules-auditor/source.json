@@ -1,0 +1,18 @@
+{
+  "name": "firestore-security-rules-auditor",
+  "slug": "firestore-security-rules-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firestore-security-rules-auditor/",
+  "download_url": "https://claudskills.com/skills/firestore-security-rules-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "A skill to evaluate how secure Firestore security rules are. Use this when Firestore security rules are updated to ensure that the generated rules are extremely secure and robust.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

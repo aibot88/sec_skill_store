@@ -1,0 +1,18 @@
+{
+  "name": "ux-developer-wcag-guidelines",
+  "slug": "wcag-guidelines",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wcag-guidelines/",
+  "download_url": "https://claudskills.com/skills/wcag-guidelines/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "WCAG 2.2 accessibility guidelines reference for web development. WCAG 2.2無障礙指南速查：POUR四原則、A/AA/AAA準則、代碼示例。 Use when: accessibility audit, new feature design, pre-launch compliance check.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ux-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

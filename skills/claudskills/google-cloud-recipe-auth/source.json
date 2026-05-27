@@ -1,0 +1,18 @@
+{
+  "name": "google-cloud-recipe-auth",
+  "slug": "google-cloud-recipe-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-cloud-recipe-auth/",
+  "download_url": "https://claudskills.com/skills/google-cloud-recipe-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides expert guidance on authenticating and authorizing to Google Cloud services and APIs, covering human users, service identities, Application Default Credentials (ADC), and best practices for secure access.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

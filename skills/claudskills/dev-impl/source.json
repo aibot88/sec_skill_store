@@ -1,0 +1,18 @@
+{
+  "name": "dev-impl",
+  "slug": "dev-impl",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-impl/",
+  "download_url": "https://claudskills.com/skills/dev-impl/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill should be used when the user asks to \"dev-impl\", \"タスクを実装\", \"テストファースト実装\", \"implement task\", \"実装を開始\", \"クイック修正\", \"quick fix\", \"dev-impl auth 001\". TDDをガードレールとしたテストファースト実装を行う。通常モード（Plan+タスク指定）とクイックモード（直接指示）に対応。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

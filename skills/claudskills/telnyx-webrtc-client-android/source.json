@@ -1,0 +1,18 @@
+{
+  "name": "telnyx-webrtc-client-android",
+  "slug": "telnyx-webrtc-client-android",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/telnyx-webrtc-client-android/",
+  "download_url": "https://claudskills.com/skills/telnyx-webrtc-client-android/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build VoIP calling apps on Android using Telnyx WebRTC SDK. Covers authentication, making/receiving calls, push notifications (FCM), call quality metrics, and AI Agent integration. Use when implementing real-time voice communication on Android.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

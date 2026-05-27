@@ -1,0 +1,18 @@
+{
+  "name": "security-issue-deduplicate",
+  "slug": "security-issue-deduplicate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-issue-deduplicate/",
+  "download_url": "https://claudskills.com/skills/security-issue-deduplicate/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Merge two <tracker> tracking issues that describe the same root-cause vulnerability (typically discovered independently by two reporters, arriving via different channels), preserving every reporter's credit, every mailing-list thread reference, and every independent attack-vector description. Updates the kept issue's body in place, closes the duplicate with the `duplicate` label, and regenerates the CVE JSON attachment so both finders land in `credits[]`.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

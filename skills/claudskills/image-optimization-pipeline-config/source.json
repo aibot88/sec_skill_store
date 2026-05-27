@@ -1,0 +1,18 @@
+{
+  "name": "image-optimization-pipeline-config",
+  "slug": "image-optimization-pipeline-config",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/image-optimization-pipeline-config/",
+  "download_url": "https://claudskills.com/skills/image-optimization-pipeline-config/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when authoring or reviewing the build-time image pipeline config — defining responsive srcset breakpoints, picking output formats (AVIF / WebP / JPEG fallback), tuning compression quality per format, and ensuring the pipeline never produces a lossy artifact for source PNGs with transparency. Activate this skill whenever the task touches `lib/images/pipeline.config.ts`, `scripts/build-images.ts`, or any code path that resizes or recompresses content images. Do NOT use for runtime image rendering choices (use a frontend skill) or for chasing a specific build failure (use debugging).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

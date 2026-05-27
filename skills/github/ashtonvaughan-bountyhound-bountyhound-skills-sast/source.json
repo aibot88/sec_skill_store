@@ -1,0 +1,19 @@
+{
+  "name": "sast",
+  "slug": "ashtonvaughan-bountyhound-bountyhound-skills-sast",
+  "source": "github",
+  "source_url": "https://github.com/AshtonVaughan/bountyhound/blob/c3692bacf01e30800938069239fe817fefdef14c/bountyhound/skills/sast/SKILL.md",
+  "download_url": "https://github.com/AshtonVaughan/bountyhound/blob/c3692bacf01e30800938069239fe817fefdef14c/bountyhound/skills/sast/SKILL.md",
+  "external_source_url": "https://github.com/AshtonVaughan/bountyhound/blob/c3692bacf01e30800938069239fe817fefdef14c/bountyhound/skills/sast/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "AshtonVaughan/bountyhound",
+    "path": "bountyhound/skills/sast/SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

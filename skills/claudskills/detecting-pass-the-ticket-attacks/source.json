@@ -1,0 +1,18 @@
+{
+  "name": "detecting-pass-the-ticket-attacks",
+  "slug": "detecting-pass-the-ticket-attacks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-pass-the-ticket-attacks/",
+  "download_url": "https://claudskills.com/skills/detecting-pass-the-ticket-attacks/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect Kerberos Pass-the-Ticket (PtT) attacks by analyzing Windows Event IDs 4768, 4769, and 4771 for anomalous",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

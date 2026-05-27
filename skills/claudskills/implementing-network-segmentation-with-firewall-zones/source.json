@@ -1,0 +1,18 @@
+{
+  "name": "implementing-network-segmentation-with-firewall-zones",
+  "slug": "implementing-network-segmentation-with-firewall-zones",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-network-segmentation-with-firewall-zones/",
+  "download_url": "https://claudskills.com/skills/implementing-network-segmentation-with-firewall-zones/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Design and implement network segmentation using firewall security zones, VLANs, ACLs, and microsegmentation policies",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

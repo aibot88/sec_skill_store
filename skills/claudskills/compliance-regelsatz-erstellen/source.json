@@ -1,0 +1,18 @@
+{
+  "name": "compliance-regelsatz-erstellen",
+  "slug": "compliance-regelsatz-erstellen",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/compliance-regelsatz-erstellen/",
+  "download_url": "https://claudskills.com/skills/compliance-regelsatz-erstellen/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Erzeugt einen standardisierten Compliance-Regelsatz für den KI-Einsatz in Kanzleien mit zehn konkreten Geboten: kein Privat-Account, keine Mandatsdaten ohne Anonymisierung, keine PDF-Uploads ohne AVV, Korrekturlesung als Pflicht sowie Kennzeichnung KI-generierter Inhalte.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

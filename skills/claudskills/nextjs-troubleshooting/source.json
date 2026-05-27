@@ -1,0 +1,18 @@
+{
+  "name": "nextjs-troubleshooting",
+  "slug": "nextjs-troubleshooting",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nextjs-troubleshooting/",
+  "download_url": "https://claudskills.com/skills/nextjs-troubleshooting/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when debugging or troubleshooting issues in a Next.js application. Trigger when: encountering hydration mismatch errors; debugging serialization failures across Server/Client boundaries; investigating stale data or auth checks in layouts; diagnosing request waterfall performance issues; troubleshooting memory leaks in Docker or development; debugging build failures or static generation errors; investigating middleware bypass issues; fixing environment variable problems; diagnosing caching issues; troubleshooting deployment failures; encountering \"Cannot read properties of undefined\" in Server Components; fixing OOM crashes in containers; debugging slow page loads; or resolving any Next.js error, warning, or unexpected behavior.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

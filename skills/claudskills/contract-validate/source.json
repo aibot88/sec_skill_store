@@ -1,0 +1,18 @@
+{
+  "name": "contract-validate",
+  "slug": "contract-validate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/contract-validate/",
+  "download_url": "https://claudskills.com/skills/contract-validate/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate that a chain of AIWG skills has all requires: inputs satisfied by upstream ensures: outputs before execution. Catches missing dependencies at wiring time rather than at runtime.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

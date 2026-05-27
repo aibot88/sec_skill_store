@@ -1,0 +1,18 @@
+{
+  "name": "record-access-troubleshooting",
+  "slug": "record-access-troubleshooting",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/record-access-troubleshooting/",
+  "download_url": "https://claudskills.com/skills/record-access-troubleshooting/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Diagnose why a user can or cannot see/edit a record: UserRecordAccess SOQL, Why Can a User Access This Record debug log, OWD, role hierarchy, sharing rules, manual/team/apex shares, implicit parent share. NOT for field-level security (use field-level-security-audit). NOT for designing sharing (use sharing-selection decision tree).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

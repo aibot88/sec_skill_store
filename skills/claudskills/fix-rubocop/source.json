@@ -1,0 +1,18 @@
+{
+  "name": "fix-rubocop",
+  "slug": "fix-rubocop",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fix-rubocop/",
+  "download_url": "https://claudskills.com/skills/fix-rubocop/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fixes RuboCop offenses systematically and safely. Use when the user wants to reduce RuboCop warnings, clean up .rubocop_todo.yml, fix linting errors, or improve code style compliance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

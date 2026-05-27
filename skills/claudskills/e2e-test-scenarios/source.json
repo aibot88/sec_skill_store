@@ -1,0 +1,18 @@
+{
+  "name": "e2e-test-scenarios",
+  "slug": "e2e-test-scenarios",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/e2e-test-scenarios/",
+  "download_url": "https://claudskills.com/skills/e2e-test-scenarios/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "End-to-end testing scenarios for Supabase - complete workflow tests from project creation to AI features, validation scripts, and comprehensive test suites. Use when testing Supabase integrations, validating AI workflows, running E2E tests, verifying production readiness, or when user mentions Supabase testing, E2E tests, integration testing, pgvector testing, auth testing, or test automation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

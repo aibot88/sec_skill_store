@@ -1,0 +1,18 @@
+{
+  "name": "provider-management",
+  "slug": "provider-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/provider-management/",
+  "download_url": "https://claudskills.com/skills/provider-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Skill for managing model provider priorities with authentication (OAuth/Subscription/API), usage limits, and automatic fallback across all major AI providers",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

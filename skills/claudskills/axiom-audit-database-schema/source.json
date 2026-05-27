@@ -1,0 +1,18 @@
+{
+  "name": "axiom-audit-database-schema",
+  "slug": "axiom-audit-database-schema",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/axiom-audit-database-schema/",
+  "download_url": "https://claudskills.com/skills/axiom-audit-database-schema/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user mentions database schema review, migration safety, GRDB migration audit, or SQLite schema checking.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:00+00:00"
+}

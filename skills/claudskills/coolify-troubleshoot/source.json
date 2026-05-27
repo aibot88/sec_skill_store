@@ -1,0 +1,18 @@
+{
+  "name": "coolify-troubleshoot",
+  "slug": "coolify-troubleshoot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/coolify-troubleshoot/",
+  "download_url": "https://claudskills.com/skills/coolify-troubleshoot/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when diagnosing Coolify deployment failures, HTTP errors (502, 504), Traefik routing issues, container restart loops, OOM kills, build failures, SSL certificate problems, Nixpacks build errors, health check failures, or Coolify self-repair. Trigger when: \"Coolify 502\", \"Coolify 504\", \"Coolify bad gateway\", \"Traefik error Coolify\", \"container restart loop\", \"Coolify OOM\", \"Coolify build failed\", \"Nixpacks error\", \"SSL certificate Coolify\", \"Let's Encrypt Coolify\", \"Coolify not working\", \"restart Coolify\", \"Coolify update failed\", \"Coolify unreachable\", \"Coolify health check\", \"Coolify debug\", \"Coolify container crash\", \"Coolify deploy failed\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

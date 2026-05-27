@@ -1,0 +1,18 @@
+{
+  "name": "preflight-checks",
+  "slug": "preflight-checks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/preflight-checks/",
+  "download_url": "https://claudskills.com/skills/preflight-checks/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reference document describing six pre-flight checks (clean git state, not detached HEAD, gh auth, issue exists and OPEN, remote reachable, duplicate-branch warning) as pure bash exit codes with no LLM calls. Reference only (policy document; consumed by `/flow:start` Phase 0).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

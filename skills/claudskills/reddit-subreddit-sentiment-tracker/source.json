@@ -1,0 +1,18 @@
+{
+  "name": "reddit-subreddit-sentiment-tracker",
+  "slug": "reddit-subreddit-sentiment-tracker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/reddit-subreddit-sentiment-tracker/",
+  "download_url": "https://claudskills.com/skills/reddit-subreddit-sentiment-tracker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Uses the Reddit OAuth2 API via PRAW to collect top posts and comments from subreddits on a rolling 24-hour window, then runs batch sentiment scoring via HuggingFace Inference API using twitter-roberta-base-sentiment. Aggregates scores into a daily time-series written to Google Sheets for Looker Studio visualization. Fires Slack alerts when sentiment drops more than 20 points week-over-week.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "social-media",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

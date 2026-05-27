@@ -1,0 +1,18 @@
+{
+  "name": "pm-audit",
+  "slug": "pm-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pm-audit/",
+  "download_url": "https://claudskills.com/skills/pm-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Proactive codebase audit that discovers code quality issues, security vulnerabilities, performance problems, and architectural debt using parallel analysis agents, then creates well-structured issues in PinkRooster from confirmed findings. Use this skill whenever the user wants to audit their code, find problems, scan for issues, do a code review of the whole project, or says things like \"audit the codebase\", \"find issues\", \"scan for problems\", \"what's wrong with the code\", \"check for security issues\", \"find tech debt\", \"code health check\", \"quality scan\", or \"are there any bugs\". Also triggers when the user asks to analyze code quality and wants actionable tracked issues created from the findings, not just a report.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:56+00:00"
+}

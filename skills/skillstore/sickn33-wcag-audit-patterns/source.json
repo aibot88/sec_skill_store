@@ -1,0 +1,18 @@
+{
+  "name": "wcag-audit-patterns",
+  "slug": "sickn33-wcag-audit-patterns",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-wcag-audit-patterns",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/wcag-audit-patterns",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/wcag-audit-patterns",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Conduct WCAG 2.2 accessibility audits with automated testing, manual verification, and remediation guidance for ADA and Section 508 compliance.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "2 files",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/wcag-audit-patterns"
+  },
+  "collected_at": "2026-05-27T03:44:51+00:00"
+}

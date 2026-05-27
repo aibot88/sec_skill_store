@@ -1,0 +1,17 @@
+{
+  "name": "glin-profanity",
+  "slug": "glin-profanity-jz0xv8",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/glin-profanity-jz0xv8",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/thegdsks/glin-profanity/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/thegdsks/glin-profanity/SKILL.md",
+  "license": "",
+  "description": "Profanity detection and content moderation library",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=3"
+  },
+  "collected_at": "2026-05-27T03:44:43+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "compliance-gate",
+  "slug": "compliance-gate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/compliance-gate/",
+  "download_url": "https://claudskills.com/skills/compliance-gate/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Runs a 4-phase compliance pipeline: security scan, GDPR audit, dependency vulnerability check, and penetration test, producing a unified pass/fail compliance report. Triggers on: \\\"compliance check\\\", \\\"compliance gate\\\", \\\"run compliance\\\", \\\"pre-release compliance\\\", \\\"security and compliance\\\", \\\"compliance audit\\\", \\\"is this app compliant\\\", \\\"gdpr and security check\\\", \\\"full security audit\\\", \\\"compliance scan\\\", \\\"check compliance before release\\\", \\\"compliance review\\\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

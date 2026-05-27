@@ -1,0 +1,18 @@
+{
+  "name": "libresource",
+  "slug": "libresource",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/libresource/",
+  "download_url": "https://claudskills.com/skills/libresource/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "libresource - Typed resource management with access control. ResourceIndex stores and retrieves resources with policy-based authorization. toInstance converts objects to typed instances. toResourceId parses URI strings. createResourceIndex factory. Use for persisting structured data, managing entities, and enforcing access control.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

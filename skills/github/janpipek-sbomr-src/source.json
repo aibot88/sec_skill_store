@@ -1,0 +1,19 @@
+{
+  "name": "src",
+  "slug": "janpipek-sbomr-src",
+  "source": "github",
+  "source_url": "https://github.com/janpipek/sbomr/blob/c6e23daf0f8a9b65d911aa8cd6762de2b1383336/src/skill.md",
+  "download_url": "https://github.com/janpipek/sbomr/blob/c6e23daf0f8a9b65d911aa8cd6762de2b1383336/src/skill.md",
+  "external_source_url": "https://github.com/janpipek/sbomr/blob/c6e23daf0f8a9b65d911aa8cd6762de2b1383336/src/skill.md",
+  "license": "",
+  "description": "Mostly vibe-coded TUI for browsing SBOMs.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "janpipek/sbomr",
+    "path": "src/skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

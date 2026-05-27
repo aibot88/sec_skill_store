@@ -1,0 +1,18 @@
+{
+  "name": "contrast-master",
+  "slug": "contrast-master",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/contrast-master/",
+  "download_url": "https://claudskills.com/skills/contrast-master/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Color contrast and visual accessibility specialist. Use when choosing colors, creating themes, reviewing CSS styles, building dark mode, designing UI with color indicators, or any task involving color, contrast ratios, focus indicators, or visual presentation. Ensures WCAG AA compliance for all color and visual decisions. Applies to any web framework or vanilla HTML/CSS/JS.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

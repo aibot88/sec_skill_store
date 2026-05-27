@@ -1,0 +1,18 @@
+{
+  "name": "solidity-security",
+  "slug": "solidity-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/solidity-security/",
+  "download_url": "https://claudskills.com/skills/solidity-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Master smart contract security best practices, vulnerability prevention, and secure Solidity development patterns.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

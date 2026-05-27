@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "lyzr-cognis-cognis-skills-.",
+  "source": "github",
+  "source_url": "https://github.com/Lyzr-Cognis/cognis-skills/blob/e92724a0d4d52fbec965643d1c4e7f70cbe0bd36/SKILL.md",
+  "download_url": "https://github.com/Lyzr-Cognis/cognis-skills/blob/e92724a0d4d52fbec965643d1c4e7f70cbe0bd36/SKILL.md",
+  "external_source_url": "https://github.com/Lyzr-Cognis/cognis-skills/blob/e92724a0d4d52fbec965643d1c4e7f70cbe0bd36/SKILL.md",
+  "license": "",
+  "description": "Skills for cognis made it to be available for all agents.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Lyzr-Cognis/cognis-skills",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

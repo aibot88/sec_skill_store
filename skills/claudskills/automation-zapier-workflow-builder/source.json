@@ -1,0 +1,18 @@
+{
+  "name": "automation-zapier-workflow-builder",
+  "slug": "automation-zapier-workflow-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/automation-zapier-workflow-builder/",
+  "download_url": "https://claudskills.com/skills/automation-zapier-workflow-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automatisation avec Zapier — Zaps multi-étapes, filtres, paths, webhooks et intégration entre applications. Se déclenche avec \"Zapier\", \"Zap\", \"automatiser sans code\", \"connecter des apps\", \"webhook Zapier\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

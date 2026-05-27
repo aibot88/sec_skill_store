@@ -1,0 +1,18 @@
+{
+  "name": "blog-calendar",
+  "slug": "blog-calendar",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/blog-calendar/",
+  "download_url": "https://claudskills.com/skills/blog-calendar/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generate editorial calendars for blogs with topic clusters, publishing schedules, content decay detection, freshness update plans, seasonal opportunities, content mix formula, template integration, and distribution scheduling. Plans monthly or quarterly calendars optimized for SEO topic authority and AI citation freshness requirements (30-day update cycles). Use when user says \"editorial calendar\", \"content calendar\", \"blog calendar\", \"publishing schedule\", \"blog plan\", \"content plan\", \"what should I write\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "editorial",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "route-tester",
+  "slug": "route-tester",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/route-tester/",
+  "download_url": "https://claudskills.com/skills/route-tester/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Framework-agnostic HTTP API route testing patterns, authentication strategies, and integration testing best practices. Supports REST APIs with JWT cookie authentication and other common auth patterns.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

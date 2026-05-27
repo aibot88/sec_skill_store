@@ -1,0 +1,18 @@
+{
+  "name": "policy-opa",
+  "slug": "policy-opa",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/policy-opa/",
+  "download_url": "https://claudskills.com/skills/policy-opa/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Policy-as-code enforcement and compliance validation using Open Policy Agent (OPA). Use when: (1) Enforcing security and compliance policies across infrastructure and applications, (2) Validating Kubernetes admission control policies, (3) Implementing policy-as-code for compliance frameworks (SOC2, PCI-DSS, GDPR, HIPAA), (4) Testing and evaluating OPA Rego policies, (5) Integrating policy checks into CI/CD pipelines, (6) Auditing configuration drift against organizational security standards, (7) Implementing least-privilege access controls.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:56+00:00"
+}

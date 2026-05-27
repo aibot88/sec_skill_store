@@ -1,0 +1,18 @@
+{
+  "name": "persona-it-admin",
+  "slug": "persona-it-admin",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/persona-it-admin/",
+  "download_url": "https://claudskills.com/skills/persona-it-admin/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when the user says \\\"IT admin mode\\\", \\\"check for security issues\\\", \\\"review audit logs\\\", \\\"configure Drive permissions\\\", \\\"monitor login activity\\\", \\\"run IT standup\\\", or \\\"manage Workspace settings\\\", or wants to administer IT operations, enforce security policies, and review pending requests in Google Workspace.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

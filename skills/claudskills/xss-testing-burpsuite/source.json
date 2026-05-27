@@ -1,0 +1,18 @@
+{
+  "name": "xss-testing-burpsuite",
+  "slug": "xss-testing-burpsuite",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/xss-testing-burpsuite/",
+  "download_url": "https://claudskills.com/skills/xss-testing-burpsuite/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Identifying and validating cross-site scripting vulnerabilities using Burp Suite's scanner, intruder, and repeater tools during authorized security assessments.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

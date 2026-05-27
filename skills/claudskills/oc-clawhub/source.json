@@ -1,0 +1,18 @@
+{
+  "name": "oc-clawhub",
+  "slug": "oc-clawhub",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oc-clawhub/",
+  "download_url": "https://claudskills.com/skills/oc-clawhub/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when the user asks to search, browse, install, or audit ClawHub skills, or says '找 skill', 'search clawhub', '裝 skill', 'install skill', '安全檢查', 'audit skill', 'suggest skills', '推薦 skill', or wants to add new capabilities from ClawHub.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

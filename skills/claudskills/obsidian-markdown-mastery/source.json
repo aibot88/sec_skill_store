@@ -1,0 +1,18 @@
+{
+  "name": "obsidian-markdown-mastery",
+  "slug": "obsidian-markdown-mastery",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/obsidian-markdown-mastery/",
+  "download_url": "https://claudskills.com/skills/obsidian-markdown-mastery/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Core markdown syntax skill for Obsidian. Enforces strict parsing and authoring of Obsidian proprietary syntax (Wikilinks, Blocks, Headings, Aliases, Embeds, Callouts). Use when reading, writing, or validating Obsidian-flavored markdown.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "knowledge-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

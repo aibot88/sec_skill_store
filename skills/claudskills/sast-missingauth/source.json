@@ -1,0 +1,18 @@
+{
+  "name": "sast-missingauth",
+  "slug": "sast-missingauth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sast-missingauth/",
+  "download_url": "https://claudskills.com/skills/sast-missingauth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect missing authentication and broken function-level authorization vulnerabilities in a codebase using a three-phase approach: recon (map endpoints and the role/permission system), batched verify (check auth/authz in parallel subagents, 3 endpoints each), and merge (consolidate batch results). Covers unauthenticated access and vertical privilege escalation (e.g., regular user accessing admin-only functions). Requires sast/architecture.md (run sast-analysis first). Outputs findings to sast/missingauth-results.md. Use when asked to find missing auth, broken access control, or privilege escalation bugs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

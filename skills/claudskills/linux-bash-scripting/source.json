@@ -1,0 +1,18 @@
+{
+  "name": "linux-bash-scripting",
+  "slug": "linux-bash-scripting",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/linux-bash-scripting/",
+  "download_url": "https://claudskills.com/skills/linux-bash-scripting/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Defensive Bash scripting for Linux: safe foundations, argument parsing, production patterns, ShellCheck compliance. Use when writing bash scripts, shell scripts, cron jobs, or CLI tools in bash.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ux-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

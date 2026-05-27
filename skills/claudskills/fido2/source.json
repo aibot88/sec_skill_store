@@ -1,0 +1,18 @@
+{
+  "name": "fido2",
+  "slug": "fido2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fido2/",
+  "download_url": "https://claudskills.com/skills/fido2/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "FIDO2/WebAuthn/パスキー関連の実装・設定・ドキュメント・テストを扱う時に使用。パスキー登録、認証、管理、アテステーション検証に関する作業で自動的に呼び出される。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

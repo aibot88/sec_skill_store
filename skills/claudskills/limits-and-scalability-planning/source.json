@@ -1,0 +1,18 @@
+{
+  "name": "limits-and-scalability-planning",
+  "slug": "limits-and-scalability-planning",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/limits-and-scalability-planning/",
+  "download_url": "https://claudskills.com/skills/limits-and-scalability-planning/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when planning a new org build for scale, auditing an existing org for governor limit exposure, or investigating a limit-related incident. Trigger phrases: 'org is hitting governor limits', 'how many custom objects can we have', 'will our data volume cause performance issues', 'batch job keeps failing with limit errors', 'planning for 10 million records', 'platform event throughput limits', 'SOQL limit exceeded in production'. NOT for code-level optimization (use apex-cpu-and-heap-optimization), NOT for individual SOQL query tuning (use apex/soql-optimization), NOT for Batch Apex authoring mechanics (use apex/batch-apex).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

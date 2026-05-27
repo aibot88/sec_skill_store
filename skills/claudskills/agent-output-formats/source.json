@@ -1,0 +1,18 @@
+{
+  "name": "agent-output-formats",
+  "slug": "agent-output-formats",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-output-formats/",
+  "download_url": "https://claudskills.com/skills/agent-output-formats/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Convert the canonical markdown+JSON deliverable of any SfSkills runtime agent into Excel, PDF, CSV, Notion card, ServiceNow ticket, or similar downstream format WITHOUT polluting the consumer's project with new dependencies or regenerating from the agent's source logic. NOT for authoring new agent output formats (use DELIVERABLE_CONTRACT.md). NOT for data-export SOQL (use bulk-api-2-patterns).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

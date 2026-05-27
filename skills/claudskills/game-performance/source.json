@@ -1,0 +1,18 @@
+{
+  "name": "game-performance",
+  "slug": "game-performance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/game-performance/",
+  "download_url": "https://claudskills.com/skills/game-performance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze game code for performance bottlenecks including draw call batching and overdraw, shader complexity and LOD strategy, per-frame GC allocation pressure, object pooling gaps, physics timestep and collision matrix tuning, spatial partitioning for entity queries, async scene loading and asset streaming, mobile thermal throttling, WebGL bundle size, and frame budget compliance for 30/60/90 FPS targets on Unity, Unreal, and Godot engines.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "physics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

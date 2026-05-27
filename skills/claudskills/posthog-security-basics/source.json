@@ -1,0 +1,18 @@
+{
+  "name": "posthog-security-basics",
+  "slug": "posthog-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/posthog-security-basics/",
+  "download_url": "https://claudskills.com/skills/posthog-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Secure PostHog integration: API key management, project key vs personal key separation, secret rotation, scoped keys, and git-leak prevention. Trigger: \"posthog security\", \"posthog secrets\", \"secure posthog\", \"posthog API key security\", \"posthog key rotation\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

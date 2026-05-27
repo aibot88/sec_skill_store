@@ -1,0 +1,18 @@
+{
+  "name": "playwright-cli",
+  "slug": "playwright-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/playwright-cli/",
+  "download_url": "https://claudskills.com/skills/playwright-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automates browser interactions for testing and validating your own web applications using playwright-cli. Use when you need terminal-first browser control for navigation, form filling, screenshots, tracing, bound browser sessions, debugging, or generating Playwright test code. Only use against applications you own or have explicit authorization to test.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

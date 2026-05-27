@@ -1,0 +1,19 @@
+{
+  "name": "z-audit",
+  "slug": "zm2231-z-audit-skills-z-audit",
+  "source": "github",
+  "source_url": "https://github.com/zm2231/z-audit/blob/df4163d05b0be2d199cd70db47d44488fa27498d/skills/z-audit/skill.md",
+  "download_url": "https://github.com/zm2231/z-audit/blob/df4163d05b0be2d199cd70db47d44488fa27498d/skills/z-audit/skill.md",
+  "external_source_url": "https://github.com/zm2231/z-audit/blob/df4163d05b0be2d199cd70db47d44488fa27498d/skills/z-audit/skill.md",
+  "license": "",
+  "description": "Security audit skill for Claude Code / OpenCode - 7-phase methodology covering secrets, API auth, IDOR, infrastructure, and more",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "zm2231/z-audit",
+    "path": "skills/z-audit/skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

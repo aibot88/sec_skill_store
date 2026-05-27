@@ -1,0 +1,18 @@
+{
+  "name": "conducting-cloud-penetration-testing",
+  "slug": "conducting-cloud-penetration-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/conducting-cloud-penetration-testing/",
+  "download_url": "https://claudskills.com/skills/conducting-cloud-penetration-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill outlines methodologies for performing authorized penetration testing against AWS, Azure, and GCP",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

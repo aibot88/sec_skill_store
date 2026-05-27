@@ -1,0 +1,18 @@
+{
+  "name": "logic-lens",
+  "slug": "logic-lens",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/logic-lens/",
+  "download_url": "https://claudskills.com/skills/logic-lens/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "AI-powered Claude Code skill that performs deep code review using formal logic and reasoning frameworks to detect bugs, anti-patterns, and security risks beyond what linters catch.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

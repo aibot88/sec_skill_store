@@ -1,0 +1,18 @@
+{
+  "name": "api-guidelines-rfc-39",
+  "slug": "api-guidelines-rfc-39",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-guidelines-rfc-39/",
+  "download_url": "https://claudskills.com/skills/api-guidelines-rfc-39/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "RFC-39 compliant API best practices for Java services. Covers request/response patterns, error handling, pagination, versioning, and authentication standards. Use when designing or reviewing REST APIs in Java services.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

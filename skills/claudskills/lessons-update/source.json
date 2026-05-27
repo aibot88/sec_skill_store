@@ -1,0 +1,18 @@
+{
+  "name": "lessons-update",
+  "slug": "lessons-update",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lessons-update/",
+  "download_url": "https://claudskills.com/skills/lessons-update/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Wspólna nauka — po każdym fix-phase / multi-file change / non-trivial task przejrzyj sesję i zdecyduj czy warto zapisać lekcję (nową lub update istniejącej). Triggeruj proaktywnie po PR-ach, fazach audytu, zamknięciu commit'u, każdej okazji gdy coś poszło nie tak / fix wprowadził nowy bug / wykryłem powtarzający się pattern. Skip dla trivial reads, pure refactors bez błędów, doc updates. ALWAYS-CONFIRM przed zapisem.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

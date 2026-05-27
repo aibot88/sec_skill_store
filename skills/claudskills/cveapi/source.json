@@ -1,0 +1,18 @@
+{
+  "name": "cveapi",
+  "slug": "cveapi",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cveapi/",
+  "download_url": "https://claudskills.com/skills/cveapi/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Look up CVE vulnerability details by ID via MITRE CVE API with NVD fallback — severity, CVSS score, affected products, and references",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

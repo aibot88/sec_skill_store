@@ -1,0 +1,18 @@
+{
+  "name": "cross-border-ecommerce",
+  "slug": "cross-border-ecommerce",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cross-border-ecommerce/",
+  "download_url": "https://claudskills.com/skills/cross-border-ecommerce/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Cross-border e-commerce expansion advisor. Scores target markets on 8 weighted dimensions (market size, ecommerce penetration, competition, regulatory complexity, logistics infrastructure, payment ecosystem, cultural distance, IP protection), compares 5 fulfillment models with cost and transit data, provides country-by-country tax/duty compliance guides (EU VAT/IOSS, UK VAT, US sales tax, CA GST, AU GST, JP consumption tax), maps local payment preferences by market, and builds a phased expansion roadmap. No API key required.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

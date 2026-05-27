@@ -1,0 +1,18 @@
+{
+  "name": "all-in-one-finance-skills",
+  "slug": "all-in-one-finance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/all-in-one-finance/",
+  "download_url": "https://claudskills.com/skills/all-in-one-finance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when user mentions ticker symbols, tokens, forex pairs, commodities, portfolio, trade, DCF, valuation, technical analysis, on-chain metrics, risk management, position sizing, financial reports, market sentiment, macro liquidity, earnings, crypto forensics, or any investment analysis query. Also triggers on \"should I buy/sell\", \"analyze this stock\", \"what's the market doing\", \"build a hedge\", \"check my portfolio risk\", or financial compliance questions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

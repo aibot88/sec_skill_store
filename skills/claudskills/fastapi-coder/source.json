@@ -1,0 +1,18 @@
+{
+  "name": "fastapi-coder",
+  "slug": "fastapi-coder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastapi-coder/",
+  "download_url": "https://claudskills.com/skills/fastapi-coder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build FastAPI applications with async patterns, Pydantic validation, dependency injection, and modern Python API practices.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

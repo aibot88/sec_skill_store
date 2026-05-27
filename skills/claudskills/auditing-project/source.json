@@ -1,0 +1,18 @@
+{
+  "name": "auditing-project",
+  "slug": "auditing-project",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auditing-project/",
+  "download_url": "https://claudskills.com/skills/auditing-project/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audits the project for consistency issues that may arise from manual editing. Checks package scripts, tsconfig paths, README tables, and other conventions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

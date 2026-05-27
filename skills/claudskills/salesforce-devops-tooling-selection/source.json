@@ -1,0 +1,18 @@
+{
+  "name": "salesforce-devops-tooling-selection",
+  "slug": "salesforce-devops-tooling-selection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/salesforce-devops-tooling-selection/",
+  "download_url": "https://claudskills.com/skills/salesforce-devops-tooling-selection/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when a team needs to choose a DevOps tooling platform for Salesforce — comparing options like Gearset, Copado, Flosum, AutoRABIT, Blue Canvas, and Salesforce DevOps Center across axes of hosting model, team composition, compliance posture, and budget. Trigger keywords: 'which DevOps tool for Salesforce', 'Gearset vs Copado', 'CI/CD tool comparison', 'DevOps platform selection', 'native vs third-party DevOps'. NOT for CI/CD pipeline configuration (use devops/continuous-integration-testing), NOT for Git branching strategy design (use devops/git-branching-for-salesforce), NOT for environment topology decisions (use devops/environment-strategy).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:09+00:00"
+}

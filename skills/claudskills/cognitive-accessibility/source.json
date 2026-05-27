@@ -1,0 +1,18 @@
+{
+  "name": "cognitive-accessibility",
+  "slug": "cognitive-accessibility",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cognitive-accessibility/",
+  "download_url": "https://claudskills.com/skills/cognitive-accessibility/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Review UI for cognitive load, plain language clarity, and WCAG 2.2 cognitive SC (3.3.7, 3.3.8, 3.3.9). Includes COGA guidance, reading level, auth patterns, and timeout warnings.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

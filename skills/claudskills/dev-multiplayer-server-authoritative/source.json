@@ -1,0 +1,18 @@
+{
+  "name": "dev-multiplayer-server-authoritative",
+  "slug": "dev-multiplayer-server-authoritative",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-multiplayer-server-authoritative/",
+  "download_url": "https://claudskills.com/skills/dev-multiplayer-server-authoritative/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Server-authoritative multiplayer architecture principles. Use when designing multiplayer features.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

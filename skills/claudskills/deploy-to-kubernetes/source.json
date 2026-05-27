@@ -1,0 +1,18 @@
+{
+  "name": "deploy-to-kubernetes",
+  "slug": "deploy-to-kubernetes",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deploy-to-kubernetes/",
+  "download_url": "https://claudskills.com/skills/deploy-to-kubernetes/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Despliega aplicaciones en clústeres de Kubernetes usando manifiestos kubectl para Deployments, Services, ConfigMaps, Secrets y recursos Ingress. Implementa verificaciones de salud, límites de recursos, actualizaciones progresivas y empaquetado de charts Helm para despliegues en producción. Útil al desplegar nuevas aplicaciones en EKS, GKE, AKS o clústeres autohospedados, migrar de Docker Compose a orquestación de contenedores, implementar actualizaciones progresivas sin tiempo de inactividad, o configurar despliegues multientorno entre dev, staging y producción.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

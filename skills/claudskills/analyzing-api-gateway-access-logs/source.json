@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-api-gateway-access-logs",
+  "slug": "analyzing-api-gateway-access-logs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-api-gateway-access-logs/",
+  "download_url": "https://claudskills.com/skills/analyzing-api-gateway-access-logs/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Parses API Gateway access logs (AWS API Gateway, Kong, Nginx) to detect BOLA/IDOR attacks, rate limit bypass,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

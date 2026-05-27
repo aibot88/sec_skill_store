@@ -1,0 +1,18 @@
+{
+  "name": "vendor-management",
+  "slug": "vendor-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vendor-management/",
+  "download_url": "https://claudskills.com/skills/vendor-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze vendor management systems for performance scorecards, third-party risk assessment, SLA enforcement, vendor rationalization, and relationship governance. Evaluates vendor tiering strategies, risk taxonomy (financial, cyber, compliance, geopolitical), continuous monitoring with BitSight/SecurityScorecard, ITIL supplier management alignment, diversity program tracking, and lifecycle management from onboarding through offboarding following OCC, FFIEC, and GDPR frameworks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

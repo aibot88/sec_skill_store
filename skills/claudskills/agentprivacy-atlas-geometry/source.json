@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-atlas-geometry",
+  "slug": "agentprivacy-atlas-geometry",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-atlas-geometry/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-atlas-geometry/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Atlas embeddings and exceptional Lie group geometry. Activates when discussing the 96-vertex Atlas, exceptional Lie groups (G₂, F₄, E₆, E₇, E₈), the Golden Seed Vector, connection to 96-edge holographic boundary, or higher geometric structures underlying the lattice.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

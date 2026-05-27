@@ -1,0 +1,18 @@
+{
+  "name": "pharma-quality-control",
+  "slug": "pharma-quality-control",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pharma-quality-control/",
+  "download_url": "https://claudskills.com/skills/pharma-quality-control/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit pharmaceutical QC laboratory operations -- OOS/OOT investigations, stability program trending, analytical method validation status, release testing optimization, and specification compliance. Covers ICH Q1A-Q1E stability guidelines, ICH Q2(R2) method validation, USP compendial verification, ALCOA+ data integrity, Croston shelf life estimation, and LIMS/CDS system evaluation. Use when reviewing OOS investigation quality, trending stability data, auditing method validation coverage, optimizing release testing turnaround, or assessing data integrity in QC labs.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "laravel-routing",
+  "slug": "laravel-routing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/laravel-routing/",
+  "download_url": "https://claudskills.com/skills/laravel-routing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Route configuration, route model binding, and authorization. Use when working with routes, route binding, URL patterns, or when user mentions routing, route model binding, conditional binding, route-level authorization.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

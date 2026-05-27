@@ -1,0 +1,18 @@
+{
+  "name": "schematic-storyteller",
+  "slug": "schematic-storyteller",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/schematic-storyteller/",
+  "download_url": "https://claudskills.com/skills/schematic-storyteller/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Interpreta diagramas esquemáticos de circuitos electrónicos y los convierte en explicaciones didácticas organizadas por bloques funcionales. Activa cuando el usuario menciona: esquemático, schematic, diagrama de circuito, circuito electrónico, interpretar esquema, bloque funcional, schematic analysis, circuit diagram, hardware design, o cuando se necesita explicar cómo funciona un circuito a estudiantes de domótica. Usar SIEMPRE después de datasheet-key-extractor cuando se detecten archivos de esquemáticos en el repositorio.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

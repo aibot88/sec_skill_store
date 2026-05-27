@@ -1,0 +1,18 @@
+{
+  "name": "bull-bullmq-nestjs",
+  "slug": "bull-bullmq-nestjs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bull-bullmq-nestjs/",
+  "download_url": "https://claudskills.com/skills/bull-bullmq-nestjs/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Patrones de colas de tareas asíncronas con Bull/BullMQ en NestJS para producción. Usar PROACTIVAMENTE cuando se trabaje con jobs programados, recordatorios, notificaciones asíncronas, procesamiento en background, o cualquier tarea que no deba ejecutarse de forma síncrona en el ciclo de request/response. Activar siempre que aparezcan las palabras clave: Bull, BullMQ, @BullModule, @Processor, @Process, @OnQueueFailed, addJob, Queue, Worker, jobs, colas, tareas programadas, delayed jobs, recordatorio programado, notificación asíncrona, background job, retry, dead letter queue, o colas con Redis en NestJS. También activar para la transición Bull (desarrollo) → Cloud Tasks (producción GCP).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

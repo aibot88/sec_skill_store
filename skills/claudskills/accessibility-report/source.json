@@ -1,0 +1,18 @@
+{
+  "name": "accessibility-report",
+  "slug": "accessibility-report",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/accessibility-report/",
+  "download_url": "https://claudskills.com/skills/accessibility-report/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generate accessibility compliance reports including VPAT and ACR documents",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

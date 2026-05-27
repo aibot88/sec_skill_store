@@ -1,0 +1,18 @@
+{
+  "name": "conduct-empirical-wire-capture",
+  "slug": "conduct-empirical-wire-capture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/conduct-empirical-wire-capture/",
+  "download_url": "https://claudskills.com/skills/conduct-empirical-wire-capture/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Erfasst ausgehenden HTTP-Verkehr und Telemetrie eines CLI-Harness zur Laufzeit. Behandelt die Auswahl des Erfassungskanals (Transkriptdatei vs. Verbose-Fetch-stderr vs. ausgehender Proxy vs. Zustand auf Platte), hook-getriebene Einzelereignis-Erfassung vs. langlaufende Sitzungs- erfassung, JSONL-Ausgabeformat für diff-freundliche Artefakte sowie die Observability-Tabelle, die jedes Ziel dem kostengünstigsten Kanal zuordnet, der es erfasst. Einzusetzen, wenn ein statischer Befund eine Laufzeitbestätigung benötigt, wenn eine Payload-Form für eine Client- Neuimplementierung gebraucht wird oder wenn eine Dark-vs-Live- Unterscheidung erfordert, tatsächlich zu beobachten, was das Binary sendet.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

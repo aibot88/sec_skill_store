@@ -1,0 +1,18 @@
+{
+  "name": "computer-use-agents",
+  "slug": "antigravity-computer-use-agents",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/antigravity-computer-use-agents/",
+  "download_url": "https://claudskills.com/skills/antigravity-computer-use-agents/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build AI agents that interact with computers like humans do - viewing screens, moving cursors, clicking buttons, and typing text. Covers Anthropic's Computer Use, OpenAI's Operator/CUA, and open-source alternatives. Critical focus on sandboxing, security, and handling the unique challenges of vision-based control. Use when: computer use, desktop automation agent, screen control AI, vision-based agent, GUI automation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

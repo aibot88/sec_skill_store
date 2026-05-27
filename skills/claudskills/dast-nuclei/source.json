@@ -1,0 +1,18 @@
+{
+  "name": "dast-nuclei",
+  "slug": "dast-nuclei",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dast-nuclei/",
+  "download_url": "https://claudskills.com/skills/dast-nuclei/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fast, template-based vulnerability scanning using ProjectDiscovery's Nuclei with extensive community templates covering CVEs, OWASP Top 10, misconfigurations, and security issues across web applications, APIs, and infrastructure. Use when: (1) Performing rapid vulnerability scanning with automated CVE detection, (2) Testing for known vulnerabilities and security misconfigurations in web apps and APIs, (3) Running template-based security checks in CI/CD pipelines with customizable severity thresholds, (4) Creating custom security templates for organization-specific vulnerability patterns, (5) Scanning multiple targets efficiently with concurrent execution and rate limiting controls.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

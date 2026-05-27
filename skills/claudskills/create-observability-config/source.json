@@ -1,0 +1,18 @@
+{
+  "name": "create-observability-config",
+  "slug": "create-observability-config",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-observability-config/",
+  "download_url": "https://claudskills.com/skills/create-observability-config/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Setup observability platform configuration (Datadog, Prometheus, Splunk) with REQ-* dashboards and alerts. Creates monitors for each requirement with SLA tracking. Use when deploying to production or setting up monitoring.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

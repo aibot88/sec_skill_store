@@ -1,0 +1,18 @@
+{
+  "name": "hook-context-attachment-injection",
+  "slug": "hook-context-attachment-injection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hook-context-attachment-injection/",
+  "download_url": "https://claudskills.com/skills/hook-context-attachment-injection/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Surface hook-provided startup context by packaging it as metadata attachments before the agent's first request.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

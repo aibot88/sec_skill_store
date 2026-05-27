@@ -1,0 +1,19 @@
+{
+  "name": "kesekit-check",
+  "slug": "cdppcorp-kese-kit-skills-kesekit-check",
+  "source": "github",
+  "source_url": "https://github.com/cdppcorp/KESE-KIT/blob/cd118f9171b341726dc05d26b848c0224e7b59e8/skills/kesekit-check/SKILL.md",
+  "download_url": "https://github.com/cdppcorp/KESE-KIT/blob/cd118f9171b341726dc05d26b848c0224e7b59e8/skills/kesekit-check/SKILL.md",
+  "external_source_url": "https://github.com/cdppcorp/KESE-KIT/blob/cd118f9171b341726dc05d26b848c0224e7b59e8/skills/kesekit-check/SKILL.md",
+  "license": "",
+  "description": "KISA 주요정보통신기반시설 기술적 취약점 분석 평가방법 상세가이드 기반 Skills",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "cdppcorp/KESE-KIT",
+    "path": "skills/kesekit-check/SKILL.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

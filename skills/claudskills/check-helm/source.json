@@ -1,0 +1,18 @@
+{
+  "name": "check-helm",
+  "slug": "check-helm",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/check-helm/",
+  "download_url": "https://claudskills.com/skills/check-helm/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Prueft Helm Chart-Dateien eines Kamerplanter-Komponente auf NFR-002-Konformitaet: SecurityContext, NetworkPolicies, Resource Limits, Health Probes, StatefulSet/Deployment-Unterscheidung, PVC-Konfiguration. Nutze diesen Skill nach Aenderungen an Helm-Charts oder beim Hinzufuegen neuer Komponenten.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

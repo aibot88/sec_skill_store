@@ -1,0 +1,18 @@
+{
+  "name": "mcp-tester-validate-mcp-server",
+  "slug": "validate-mcp-server",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/validate-mcp-server/",
+  "download_url": "https://claudskills.com/skills/validate-mcp-server/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate MCP server connection, tool discovery, schema correctness, and functional behavior. 驗 MCP 伺服器連線、工具發現、模式正確性及功能行為。 Use when: verifying new MCP server implementation, checking schema compliance, testing tool error handling.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

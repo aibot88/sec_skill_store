@@ -1,0 +1,18 @@
+{
+  "name": "performing-insider-threat-investigation",
+  "slug": "performing-insider-threat-investigation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-insider-threat-investigation/",
+  "download_url": "https://claudskills.com/skills/performing-insider-threat-investigation/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Investigates insider threat incidents involving employees, contractors, or trusted partners who misuse authorized",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

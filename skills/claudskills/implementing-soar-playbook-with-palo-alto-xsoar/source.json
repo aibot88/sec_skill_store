@@ -1,0 +1,18 @@
+{
+  "name": "implementing-soar-playbook-with-palo-alto-xsoar",
+  "slug": "implementing-soar-playbook-with-palo-alto-xsoar",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-soar-playbook-with-palo-alto-xsoar/",
+  "download_url": "https://claudskills.com/skills/implementing-soar-playbook-with-palo-alto-xsoar/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implement automated incident response playbooks in Cortex XSOAR to orchestrate security workflows across SOC",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "loom-research",
+  "slug": "loom-research",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/loom-research/",
+  "download_url": "https://claudskills.com/skills/loom-research/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Preserve reusable investigations. Use when compatibility, framework/library behavior, tradeoffs, rejected options, null results, performance/security/migration evidence, or external-source synthesis should remain citable.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:34+00:00"
+}

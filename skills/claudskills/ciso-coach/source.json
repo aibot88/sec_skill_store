@@ -1,0 +1,18 @@
+{
+  "name": "ciso-coach",
+  "slug": "ciso-coach",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ciso-coach/",
+  "download_url": "https://claudskills.com/skills/ciso-coach/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert CISO coaching and mentorship for security leaders in training. Use when the user asks for CISO coach guidance, executive communication advice, security leadership strategies, or needs help translating technical security issues for non-technical audiences. Also activates for discussions about current security events, threat landscape analysis, board-level security topics, risk communication, or security program development from a CISO perspective.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

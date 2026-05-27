@@ -1,0 +1,18 @@
+{
+  "name": "sc-rce",
+  "slug": "sc-rce",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sc-rce/",
+  "download_url": "https://claudskills.com/skills/sc-rce/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Remote Code Execution detection via eval, exec, dynamic code loading, and code injection vectors",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

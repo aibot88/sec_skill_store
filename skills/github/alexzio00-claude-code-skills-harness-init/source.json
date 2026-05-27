@@ -1,0 +1,19 @@
+{
+  "name": "harness-init",
+  "slug": "alexzio00-claude-code-skills-harness-init",
+  "source": "github",
+  "source_url": "https://github.com/AlexZio00/claude-code-skills/blob/a296c87fdaa0d8461ee2e7d5e87fe039662b8376/harness-init/skill.md",
+  "download_url": "https://github.com/AlexZio00/claude-code-skills/blob/a296c87fdaa0d8461ee2e7d5e87fe039662b8376/harness-init/skill.md",
+  "external_source_url": "https://github.com/AlexZio00/claude-code-skills/blob/a296c87fdaa0d8461ee2e7d5e87fe039662b8376/harness-init/skill.md",
+  "license": "",
+  "description": "10 Claude Code skills for the full project lifecycle: setup · daily workflow · session management · quality. Open sessions right. Close sessions right. Ship with confidence.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "AlexZio00/claude-code-skills",
+    "path": "harness-init/skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

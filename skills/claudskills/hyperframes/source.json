@@ -1,0 +1,18 @@
+{
+  "name": "hyperframes",
+  "slug": "hyperframes",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hyperframes/",
+  "download_url": "https://claudskills.com/skills/hyperframes/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create video compositions, animations, title cards, overlays, captions, voiceovers, audio-reactive visuals, and scene transitions in HyperFrames HTML. Use when asked to build any HTML-based video content, add captions or subtitles synced to audio, generate text-to-speech narration, create audio-reactive animation (beat sync, glow, pulse driven by music), add animated text highlighting (marker sweeps, hand-drawn circles, burst lines, scribble, sketchout), or add transitions between scenes (crossfades, wipes, reveals, shader transitions). Covers composition authoring, timing, media, and the full video production workflow. For CLI commands (init, lint, preview, render, transcribe, tts) see the hyperframes-cli skill.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "audio-podcast",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

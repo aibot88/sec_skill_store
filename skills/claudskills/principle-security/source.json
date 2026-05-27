@@ -1,0 +1,18 @@
+{
+  "name": "principle-security",
+  "slug": "principle-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/principle-security/",
+  "download_url": "https://claudskills.com/skills/principle-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security design principles — trust boundaries and input validation, authentication vs authorization, secrets handling, secure defaults and defense in depth, lightweight threat modeling, cryptography hygiene, attack-surface minimization. Auto-load when designing auth, discussing authn or authz, handling secrets, defining trust boundaries, validating untrusted input, considering SSRF or CSRF, choosing session or JWT mechanics, configuring TLS, picking an encryption primitive, or weighing least-privilege trade-offs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

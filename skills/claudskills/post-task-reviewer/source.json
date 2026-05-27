@@ -1,0 +1,18 @@
+{
+  "name": "dartai-post-task-reviewer",
+  "slug": "post-task-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/post-task-reviewer/",
+  "download_url": "https://claudskills.com/skills/post-task-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Forked-context deep post-task reviewer — preloads verdict schema + OWASP security + deep code analysis + PM/docs accuracy + replan lens. 對抗深度後任務審查（fork上下文）。 Use when: dispatch post-task-reviewer subagent, deep review after fast gates, OWASP audit, PM/docs accuracy check, replan recommendation",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:56+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dos-resource-exhaustion",
+  "slug": "dos-resource-exhaustion",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dos-resource-exhaustion/",
+  "download_url": "https://claudskills.com/skills/dos-resource-exhaustion/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Find denial of service vulnerabilities through resource exhaustion, algorithmic complexity, memory exhaustion, and file/network resource abuse. Use when auditing code for availability issues.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

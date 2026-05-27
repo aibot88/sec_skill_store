@@ -1,0 +1,18 @@
+{
+  "name": "github-wrapped",
+  "slug": "github-wrapped",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-wrapped/",
+  "download_url": "https://claudskills.com/skills/github-wrapped/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate a verifiable GitHub Wrapped year-in-review as a single-file HTML (raw gh API JSON saved, Python-built dataset embedded), with a Bilibili-style narrative, smooth transitions, and mobile-friendly paged mode. Requires gh CLI to be authenticated.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "storytelling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

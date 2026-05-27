@@ -1,0 +1,18 @@
+{
+  "name": "performing-network-forensics-with-wireshark",
+  "slug": "performing-network-forensics-with-wireshark",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-network-forensics-with-wireshark/",
+  "download_url": "https://claudskills.com/skills/performing-network-forensics-with-wireshark/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Capture and analyze network traffic using Wireshark and tshark to reconstruct network events, extract artifacts,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

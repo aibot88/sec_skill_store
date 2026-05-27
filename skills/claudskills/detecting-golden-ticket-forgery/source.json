@@ -1,0 +1,18 @@
+{
+  "name": "detecting-golden-ticket-forgery",
+  "slug": "detecting-golden-ticket-forgery",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-golden-ticket-forgery/",
+  "download_url": "https://claudskills.com/skills/detecting-golden-ticket-forgery/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect Kerberos Golden Ticket forgery by analyzing Windows Event ID 4769 for RC4 encryption downgrades (0x17),",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

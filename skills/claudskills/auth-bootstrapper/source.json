@@ -1,0 +1,18 @@
+{
+  "name": "auth-bootstrapper",
+  "slug": "auth-bootstrapper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-bootstrapper/",
+  "download_url": "https://claudskills.com/skills/auth-bootstrapper/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Adds BetterAuth authentication to Apso backends. Handles entity setup, code generation, auto-fixes, and verification. Triggers when user needs to add authentication, setup auth, or integrate BetterAuth.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

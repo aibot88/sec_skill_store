@@ -1,0 +1,18 @@
+{
+  "name": "bfrost-worker-author",
+  "slug": "bfrost-worker-author",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bfrost-worker-author/",
+  "download_url": "https://claudskills.com/skills/bfrost-worker-author/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Scaffold and review a new BFrost worker without touching the core. Use when the user asks to \"add a worker\", \"create a BFrost worker\", \"build a publisher/producer/consumer for the Item Bus\", or otherwise extend BFrost with a new capability. Enforces the worker-first contract — no edits to `src/` outside `src/workers/` and no edits to `web/src/` outside `web/src/workers/`.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

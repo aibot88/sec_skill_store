@@ -1,0 +1,18 @@
+{
+  "name": "walmart-review-checker",
+  "slug": "walmart-review-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/walmart-review-checker/",
+  "download_url": "https://claudskills.com/skills/walmart-review-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Walmart review authenticity analyzer. Detect fake reviews, suspicious patterns, and rating manipulation. Includes WFS verified badge analysis, incentivized review detection, and Walmart-specific red flag identification. No API key required.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-creative",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

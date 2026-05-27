@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-pretext-measurement",
+  "slug": "agentprivacy-pretext-measurement",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-pretext-measurement/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-pretext-measurement/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "DOM-free text measurement technique for privacy-preserving browser interactions. Activates when discussing pretext discovery, shadow measurement, orb mechanics, text property extraction without DOM access, or browser-layer privacy.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

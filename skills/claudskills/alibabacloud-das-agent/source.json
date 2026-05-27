@@ -1,0 +1,18 @@
+{
+  "name": "alibabacloud-das-agent",
+  "slug": "alibabacloud-das-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibabacloud-das-agent/",
+  "download_url": "https://claudskills.com/skills/alibabacloud-das-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Diagnose and manage Alibaba Cloud databases through natural language. Use when users need to troubleshoot database performance issues (high CPU, slow queries, abnormal connections, lock waits), check instance status, analyze disk space, optimize SQL, run health inspections, or detect security baseline violations. Supports RDS (MySQL/PostgreSQL/SQL Server), PolarDB, MongoDB, Redis (Tair), and Lindorm. Trigger this skill even for casual descriptions like \"my database is slow\", \"can't connect to the database\", \"help me check this SQL\", or \"database disk is almost full\". Also suitable for consulting Alibaba Cloud-specific database features (e.g., PolarDB Serverless, DAS autonomy capabilities) and comparing product differences (RDS vs PolarDB). Do NOT use this skill for general SQL tutorials, non-Alibaba Cloud databases, or local database administration.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

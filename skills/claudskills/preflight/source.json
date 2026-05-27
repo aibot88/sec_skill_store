@@ -1,0 +1,18 @@
+{
+  "name": "preflight",
+  "slug": "preflight",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/preflight/",
+  "download_url": "https://claudskills.com/skills/preflight/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Pre-deploy verification gate. Checks git status, build, tests, migrations, secrets, and commit conventions. Reports READY or NOT READY. Read-only, no changes. Trigger words: preflight, pre-deploy check, ready to deploy, deployment checklist.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

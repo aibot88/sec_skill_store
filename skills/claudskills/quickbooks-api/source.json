@@ -1,0 +1,18 @@
+{
+  "name": "quickbooks-api",
+  "slug": "quickbooks-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/quickbooks-api/",
+  "download_url": "https://claudskills.com/skills/quickbooks-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Access QuickBooks Online API for invoices, payments, customers, and bills. Covers OAuth token auto-refresh, API queries, and Supabase ingest. Use when: checking invoice status, reconciling payments, querying expenses. Skip when: expense data already in PIL (check supabase first).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

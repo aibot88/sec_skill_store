@@ -1,0 +1,18 @@
+{
+  "name": "canopy",
+  "slug": "canopy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/canopy/",
+  "download_url": "https://claudskills.com/skills/canopy/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Authors, validates, improves, scaffolds, and refactors Canopy skills using a structured control-flow notation (IF, ELSE_IF, ELSE, SWITCH, CASE, DEFAULT, FOR_EACH, BREAK, END, ASK, SHOW_PLAN, VERIFY_EXPECTED). Use when creating, modifying, debugging, or reviewing skills under `.claude/skills/` or `.github/skills/`, when the user mentions canopy, ops, control-flow notation, or skill scaffolding, or asks to convert a regular skill into a Canopy skill (and vice versa). Supports both Claude Code and GitHub Copilot.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

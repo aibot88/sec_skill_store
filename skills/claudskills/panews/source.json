@@ -1,0 +1,18 @@
+{
+  "name": "panews",
+  "slug": "panews",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/panews/",
+  "download_url": "https://claudskills.com/skills/panews/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Entry point for reading PANews cryptocurrency / blockchain news and market narratives. Triggers: today's headlines, breaking news, trending rankings, article search, reading specific articles, browsing columns / series / community topics, industry events & conferences, event calendar, platform hot searches and editorial picks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

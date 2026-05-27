@@ -1,0 +1,18 @@
+{
+  "name": "when-auditing-security-use-security-analyzer",
+  "slug": "when-auditing-security-use-security-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/when-auditing-security-use-security-analyzer/",
+  "download_url": "https://claudskills.com/skills/when-auditing-security-use-security-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive security auditing across static analysis, dynamic testing, dependency vulnerabilities, secrets detection, and OWASP compliance",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

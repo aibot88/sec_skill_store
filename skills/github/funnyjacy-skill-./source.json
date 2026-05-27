@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "funnyjacy-skill-.",
+  "source": "github",
+  "source_url": "https://github.com/funnyjacy/SKILL/blob/ee270579760dc32c9a7ad4aa31ef538546eb1f97/PRD-SKILL.md",
+  "download_url": "https://github.com/funnyjacy/SKILL/blob/ee270579760dc32c9a7ad4aa31ef538546eb1f97/PRD-SKILL.md",
+  "external_source_url": "https://github.com/funnyjacy/SKILL/blob/ee270579760dc32c9a7ad4aa31ef538546eb1f97/PRD-SKILL.md",
+  "license": "",
+  "description": "我自己的SKILL分享",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "funnyjacy/SKILL",
+    "path": "PRD-SKILL.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

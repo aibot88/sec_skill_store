@@ -1,0 +1,18 @@
+{
+  "name": "rails-security-review",
+  "slug": "rails-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rails-security-review/",
+  "download_url": "https://claudskills.com/skills/rails-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Performs security audits and vulnerability assessments on Ruby on Rails application code. Use when reviewing Rails code for security risks, assessing authentication or authorization, auditing parameter handling, redirects, file uploads, secrets management, or checking for XSS, CSRF, SSRF, SQL injection, and other common vulnerabilities.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

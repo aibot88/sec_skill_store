@@ -1,0 +1,18 @@
+{
+  "name": "data-architecture",
+  "slug": "data-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/data-architecture/",
+  "download_url": "https://claudskills.com/skills/data-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review or assess a data architecture, data model, or data platform design. Evaluates six data-specific quality attributes (DAMA-DMBOK aligned), topology choice, data contracts, GDPR/AI Act compliance, governance gaps, and data mesh readiness. TOGAF Phase C aware.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agnt-audit-a11y",
+  "slug": "audit-a11y",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-a11y/",
+  "download_url": "https://claudskills.com/skills/audit-a11y/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "\\\"Run comprehensive accessibility audit on current page. 全面審現頁無障礙性. Use when: audit accessibility, check WCAG compliance, find a11y issues, test screen reader support, review ARIA labels\\",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

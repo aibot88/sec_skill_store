@@ -1,0 +1,18 @@
+{
+  "name": "external-resource-context",
+  "slug": "external-resource-context",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/external-resource-context/",
+  "download_url": "https://claudskills.com/skills/external-resource-context/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Captures and persists access methods for resources outside the repository (design source, design system, API schema, IaC source, secret store) so downstream work can reach them deterministically. Use when work depends on external resources, or when the user mentions design source, design system, API schema, IaC source, secret store, or canonical source.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:53+00:00"
+}

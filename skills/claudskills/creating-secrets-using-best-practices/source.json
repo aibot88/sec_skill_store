@@ -1,0 +1,18 @@
+{
+  "name": "creating-secrets-using-best-practices",
+  "slug": "creating-secrets-using-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/creating-secrets-using-best-practices/",
+  "download_url": "https://claudskills.com/skills/creating-secrets-using-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Creates and manages secrets in AWS Secrets Manager following security best practices. Always use this skill when creating secrets — it sets up dedicated KMS encryption keys, automatic rotation, least-privilege IAM policies, CloudTrail auditing, and lifecycle management that are essential for production-grade secret handling.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

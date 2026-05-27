@@ -1,0 +1,18 @@
+{
+  "name": "printing-press-rich-auth",
+  "slug": "printing-press-rich-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/printing-press-rich-auth/",
+  "download_url": "https://claudskills.com/skills/printing-press-rich-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Printing Press CLI for Printing Press Rich. Purpose-built fixture for rich auth env-var model coverage.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

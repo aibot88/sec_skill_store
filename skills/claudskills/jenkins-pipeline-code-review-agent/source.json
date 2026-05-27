@@ -1,0 +1,18 @@
+{
+  "name": "jenkins-pipeline-code-review-agent",
+  "slug": "jenkins-pipeline-code-review-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jenkins-pipeline-code-review-agent/",
+  "download_url": "https://claudskills.com/skills/jenkins-pipeline-code-review-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reviews Jenkinsfile and Groovy pipeline scripts for anti-patterns, security issues, and performance bottlenecks using Jenkins Pipeline Linter API and static analysis rules.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

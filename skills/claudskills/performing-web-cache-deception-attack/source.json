@@ -1,0 +1,18 @@
+{
+  "name": "performing-web-cache-deception-attack",
+  "slug": "performing-web-cache-deception-attack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-web-cache-deception-attack/",
+  "download_url": "https://claudskills.com/skills/performing-web-cache-deception-attack/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Execute web cache deception attacks by exploiting path normalization discrepancies between CDN caching layers",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

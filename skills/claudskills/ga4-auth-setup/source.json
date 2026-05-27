@@ -1,0 +1,18 @@
+{
+  "name": "ga4-auth-setup",
+  "slug": "ga4-auth-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ga4-auth-setup/",
+  "download_url": "https://claudskills.com/skills/ga4-auth-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure auth for the GA4 Data API — OAuth user credentials for interactive use, or a service account for automation / CI. Pick the right path, set the right scopes, grant the right property-level access. Trigger with \"set up GA4 auth\", \"GA4 service account\", \"GA4 OAuth\", \"connect to Google Analytics\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:02+00:00"
+}

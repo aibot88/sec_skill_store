@@ -1,0 +1,18 @@
+{
+  "name": "ramp-install-auth",
+  "slug": "ramp-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ramp-install-auth/",
+  "download_url": "https://claudskills.com/skills/ramp-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Ramp install auth — corporate card and expense management API integration. Use when working with Ramp for card management, expenses, or accounting sync. Trigger with phrases like \"ramp install auth\", \"ramp-install-auth\", \"corporate card API\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

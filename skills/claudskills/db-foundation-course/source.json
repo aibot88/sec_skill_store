@@ -1,0 +1,18 @@
+{
+  "name": "db-foundation-course",
+  "slug": "db-foundation-course",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/db-foundation-course/",
+  "download_url": "https://claudskills.com/skills/db-foundation-course/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "编写\"数据库筑基课\"文章的专用 Skill，面向数据库架构师、DBA 和业务开发者。输入一个筑基课文章标题及相关参考资料（技术文档、产品手册、开源项目地址、deepwiki、论文等），输出图文并茂、结构完整的 Markdown 筑基课文章，保存至项目 markdown/ 目录。适用主题覆盖：表存储结构（heap/parquet/arrow/zedstore/LSM-Tree/HStore等）、索引结构（btree/gin/brin/hnsw/ivfflat/bloom等）、数据类型与操作符（vector/jsonb/tsvector/range/array等）、优化器扫描算法（seq scan/index scan/bitmap scan/join/agg/并行等）、场景化实践（时序/GIS/RAG/全文检索/图数据/数据湖等）以及事务/锁/并发/安全等周边主题。只要用户提及\"筑基课\"、\"数据库原理\"、\"数据库内核\"写作，或给出了数据库存储/索引/扫描相关的技术文档让你写成教程，都应使用此 Skill。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

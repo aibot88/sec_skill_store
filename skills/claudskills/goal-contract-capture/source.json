@@ -1,0 +1,18 @@
+{
+  "name": "goal-contract-capture",
+  "slug": "goal-contract-capture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/goal-contract-capture/",
+  "download_url": "https://claudskills.com/skills/goal-contract-capture/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Capture a FlowGoal contract as a project-local `.flow/goals/<id>.goal.yaml` file with outcome, acceptance criteria (with verification commands), specification elements (non-goals, failure modes, interface contracts), constraints, evaluator binding, continuation policy, and lifecycle frontmatter. Use when /flow:start passes the Spec Validation Gate, when /flow:goal create is invoked, or when /flow:review and /flow:address need a completion contract for a PR. This skill MUST be consulted because acceptance criteria alone do not constitute a contract — without an evaluator binding, boundaries, and lifecycle state, downstream phases cannot detect premature completion, the Stop hook cannot enforce evidence, and goals cannot resume across sessions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cortex-remember-global",
+  "slug": "cortex-remember-global",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cortex-remember-global/",
+  "download_url": "https://claudskills.com/skills/cortex-remember-global/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Store a global memory that is visible across all projects. Use when the user shares architecture rules, coding conventions, infrastructure facts, security policies, team agreements, or any knowledge that applies beyond a single project. Triggers on 'remember this everywhere', 'this applies to all projects', 'global rule', 'shared convention', 'infrastructure note', 'cross-project', or when the content is clearly universal (clean architecture, SOLID, deployment configs, server addresses).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "chaos-testing",
+  "slug": "chaos-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chaos-testing/",
+  "download_url": "https://claudskills.com/skills/chaos-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when designing or implementing chaos engineering experiments to verify system resilience under failure conditions. Covers chaos engineering principles, steady-state hypothesis, blast radius management, game days, and tools like Chaos Monkey, Gremlin, Litmus, Chaos Mesh, Toxiproxy, and cloud-native fault injection services. USE FOR: chaos engineering, fault injection, resilience testing, game days, steady-state hypothesis, blast radius, Chaos Monkey, Gremlin, Litmus, Chaos Mesh, Toxiproxy, AWS Fault Injection Service, Azure Chaos Studio DO NOT USE FOR: load testing without fault injection (use performance-testing), general system monitoring (use logging-monitoring), disaster recovery planning (use architecture skills)",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

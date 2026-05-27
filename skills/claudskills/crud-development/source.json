@@ -1,0 +1,18 @@
+{
+  "name": "crud-development",
+  "slug": "crud-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crud-development/",
+  "download_url": "https://claudskills.com/skills/crud-development/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "定义若依（RuoYi / RuoYi-Vue-Plus 生态）在数据持久层（Mapper）与业务层（Service）的 CRUD 开发规范。要求 Mapper 统一继承 `BaseMapperPlus<Entity,Vo>`、Service 统一实现 `IService<Entity>` 并采用标准实现基类；查询/更新条件强制使用 `LambdaQueryWrapper` / `LambdaUpdateWrapper` 构建类型安全条件；分页统一使用 `PageQuery` + `TableDataInfo<T>` 返回。严禁循环执行 SQL、严禁直接返回 Entity 给前端、严禁 `SELECT *`，写操作强制采用批量 API 与 VO/DTO 封装，提升代码一致性、可维护性与性能。",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

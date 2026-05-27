@@ -1,0 +1,18 @@
+{
+  "name": "computer-scientist-analyst",
+  "slug": "computer-scientist-analyst",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/computer-scientist-analyst/",
+  "download_url": "https://claudskills.com/skills/computer-scientist-analyst/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyzes events through computer science lens using computational complexity, algorithms, data structures, systems architecture, information theory, and software engineering principles to evaluate feasibility, scalability, security. Provides insights on algorithmic efficiency, system design, computational limits, data management, and technical trade-offs. Use when: Technology evaluation, system architecture, algorithm design, scalability analysis, security assessment. Evaluates: Computational complexity, algorithmic efficiency, system architecture, scalability, data integrity, security.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

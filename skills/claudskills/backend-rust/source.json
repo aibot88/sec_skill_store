@@ -1,0 +1,18 @@
+{
+  "name": "backend-rust",
+  "slug": "backend-rust",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backend-rust/",
+  "download_url": "https://claudskills.com/skills/backend-rust/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Modern Rust backend with Axum, SQLx, tokio + CI/CD automation. Use when: building Rust APIs, high-performance services, or needing build/test/lint/audit automation. Triggers: \"axum\", \"rust backend\", \"rust api\", \"sqlx\", \"tokio\", \"cargo build\", \"cargo test\", \"clippy\", \"rustfmt\", \"cargo-audit\", \"cross-compile\", \"rust ci\", \"release build\", \"rust security\", \"shuttle\", \"actix\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

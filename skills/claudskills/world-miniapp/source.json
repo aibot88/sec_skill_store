@@ -1,0 +1,18 @@
+{
+  "name": "world-miniapp",
+  "slug": "world-miniapp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/world-miniapp/",
+  "download_url": "https://claudskills.com/skills/world-miniapp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "World Chain MiniApp Kit / MiniKit SDKを使ったブロックチェーンアプリケーション開発を包括的に支援するスキル。 World App内で動作するMiniApp（ミニアプリ）の設計・実装・デプロイまでをカバー。 World ID（Proof of Personhood）によるユーザー認証、ウォレット認証（SIWE）、 WLD/USDCトークン決済、スマートコントラクト連携（sendTransaction）、 Permit2トークン転送、通知、連絡先共有、ハプティクスフィードバックなど、 MiniKit SDKの全コマンドに対応。Next.jsベースのフルスタック開発をサポート。 使用場面：(1) MiniAppの新規作成・セットアップ、(2) World ID検証の実装、 (3) WLD/USDC決済機能の組み込み、(4) スマートコントラクトとの連携、 (5) ウォレット認証（Wallet Auth / SIWE）実装、(6) World Chainハッカソン参加、 (7) MiniAppのテスト・デプロイ。World App、World Chain、Worldcoin、MiniKit、 minikit-js、World ID、Orb検証に関連する質問や開発作業すべてにこのスキルを使用すること。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

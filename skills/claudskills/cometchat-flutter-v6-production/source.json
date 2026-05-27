@@ -1,0 +1,18 @@
+{
+  "name": "cometchat-flutter-v6-production",
+  "slug": "cometchat-flutter-v6-production",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cometchat-flutter-v6-production/",
+  "download_url": "https://claudskills.com/skills/cometchat-flutter-v6-production/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Production readiness for CometChat Flutter UIKit v6 — server-side auth tokens, user management, Android ProGuard/R8, iOS Info.plist, minSdk, release build checklist, environment configuration, and security hardening. Use when preparing a CometChat Flutter app for production deployment.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

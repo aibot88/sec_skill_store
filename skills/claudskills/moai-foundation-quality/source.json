@@ -1,0 +1,18 @@
+{
+  "name": "moai-foundation-quality",
+  "slug": "moai-foundation-quality",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/moai-foundation-quality/",
+  "download_url": "https://claudskills.com/skills/moai-foundation-quality/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Code quality orchestrator enforcing TRUST 5 validation, proactive code analysis, linting standards, and automated best practices. Use for code review, quality gate checks, or TRUST 5 compliance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

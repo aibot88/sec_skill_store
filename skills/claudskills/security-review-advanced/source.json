@@ -1,0 +1,18 @@
+{
+  "name": "security-review-advanced",
+  "slug": "security-review-advanced",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-review-advanced/",
+  "download_url": "https://claudskills.com/skills/security-review-advanced/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Security anti-patterns — localStorage token storage (XSS risk), trusting client-side authorization checks, reflecting full error details to clients, blacklist vs whitelist input validation, using npm install instead of npm ci in CI pipelines.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

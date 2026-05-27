@@ -1,0 +1,18 @@
+{
+  "name": "devtools-secrets",
+  "slug": "devtools-secrets",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/devtools-secrets/",
+  "download_url": "https://claudskills.com/skills/devtools-secrets/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Knowledge and guardrails for the mise + fnox + infisical secrets toolchain. Use when the user asks to \"configure secrets\", \"set up fnox\", \"infisical\", \"mise env\", \"secrets management\", \"environment variables for secrets\", or mentions secret injection, secret providers, or env var hygiene.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "myco:mcp-tool-development-lifecycle",
+  "slug": "mcp-tool-development-lifecycle",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mcp-tool-development-lifecycle/",
+  "download_url": "https://claudskills.com/skills/mcp-tool-development-lifecycle/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Comprehensive lifecycle for authoring, registering, documenting, and maintaining MCP tools in packages/myco/src/tools/ — covering schema definition in TOOL_DEFINITIONS arrays, handler implementation with DaemonClient patterns, shared tool-runtime registration, documentation bundling, anti-drift testing patterns, and cloud vs local placement decisions. Essential for maintaining the schema ↔ handler ↔ documentation triad that agents depend on for correct tool invocations, even when the user doesn't explicitly ask for MCP tool development.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

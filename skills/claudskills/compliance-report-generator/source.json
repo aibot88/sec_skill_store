@@ -1,0 +1,18 @@
+{
+  "name": "generating-compliance-reports",
+  "slug": "compliance-report-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/compliance-report-generator/",
+  "download_url": "https://claudskills.com/skills/compliance-report-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill enables Claude to generate compliance reports based on various security standards and frameworks. It leverages the compliance-report-generator plugin to automate the report creation process. Use this skill when a user requests a \"compliance report\", \"security audit report\", or needs documentation for \"regulatory compliance\". The skill is particularly useful for generating reports related to standards like PCI DSS, HIPAA, SOC 2, or ISO 27001. It can also assist with documenting adherence to specific security policies. Activates when you request \"generating compliance reports\" functionality.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "recon-nmap",
+  "slug": "recon-nmap",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/recon-nmap/",
+  "download_url": "https://claudskills.com/skills/recon-nmap/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Network reconnaissance and security auditing using Nmap for port scanning, service enumeration, and vulnerability detection. Use when: (1) Conducting authorized network reconnaissance and asset discovery, (2) Enumerating network services and identifying running versions, (3) Detecting security vulnerabilities through NSE scripts, (4) Mapping network topology and firewall rules, (5) Performing compliance scanning for security assessments, (6) Validating network segmentation and access controls.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "aws-ec2-setup",
+  "slug": "aws-ec2-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-ec2-setup/",
+  "download_url": "https://claudskills.com/skills/aws-ec2-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Launch and configure EC2 instances with security groups, IAM roles, key pairs, AMIs, and auto-scaling. Use for virtual servers and managed infrastructure.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

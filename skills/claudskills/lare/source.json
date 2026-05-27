@@ -1,0 +1,18 @@
+{
+  "name": "lare",
+  "slug": "lare",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lare/",
+  "download_url": "https://claudskills.com/skills/lare/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Legal-specific Argument Ranking Engine. Hodnotí právní argumenty 17-sloupcovým scoringem (síla, bezpečnost, dopad, riziko + 10 legal-specific kritérií: Compliance s novelou 2026, Evidence backing, Time-sensitivity, per-document mapping, R-static/R-reversal split, Tom-weight bonus, C-XX/M-XX/N-XX/D-XX integrace). Output: priorizovaný seznam argumentů s kategoriemi CORE/SUPPORT/CONTEXT/EXCLUDED/SUMMARY a per-document bundles (PR/§909/40_06/195). Použití: pre-prioritizace argumentů před F11.x review, Phase 2 Verify input, DÁVKA 3, výživné L04, AT podání.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

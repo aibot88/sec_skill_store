@@ -1,0 +1,18 @@
+{
+  "name": "quarto-authoring",
+  "slug": "quarto-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/quarto-authoring/",
+  "download_url": "https://claudskills.com/skills/quarto-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user is explicitly working with Quarto, .qmd files, _quarto.yml, Quarto projects, or Quarto features such as callouts, cross-references, citations, Mermaid diagrams, extensions, websites, books, presentations, and reports. Also use for explicit migration from or comparison with R Markdown, bookdown, blogdown, xaringan, distill, or Jupyter notebooks to Quarto. Do not use for general R Markdown or related-format questions unless Quarto or migration to Quarto is explicitly mentioned.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

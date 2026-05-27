@@ -1,0 +1,18 @@
+{
+  "name": "threshold-keel",
+  "slug": "keel",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/keel/",
+  "download_url": "https://claudskills.com/skills/keel/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Safety guardrails for autonomous agents. Intercepts destructive actions and vets skills, requires structured approval before irreversible operations, with CLI-backed cryptographic audit trails and policy enforcement.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "kagi-fastgpt",
+  "slug": "kagi-fastgpt",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kagi-fastgpt/",
+  "download_url": "https://claudskills.com/skills/kagi-fastgpt/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Ask questions and get AI-synthesized answers backed by live web search, via Kagi's FastGPT API. Returns a direct answer with cited references. Use when you need a quick, authoritative answer rather than raw search results.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

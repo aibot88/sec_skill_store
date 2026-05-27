@@ -1,0 +1,18 @@
+{
+  "name": "implementing-backup-strategies",
+  "slug": "backup-strategy-implementor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backup-strategy-implementor/",
+  "download_url": "https://claudskills.com/skills/backup-strategy-implementor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill implements backup strategies for databases and applications. It generates configuration files and setup code to ensure data protection and disaster recovery. Use this skill when the user requests to \"implement backup strategy\", \"configure backups\", \"setup data recovery\", or needs help with \"backup automation\". The skill provides production-ready configurations, best practices, and multi-platform support for database and application backups. It focuses on security and scalability.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:03+00:00"
+}

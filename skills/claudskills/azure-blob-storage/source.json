@@ -1,0 +1,18 @@
+{
+  "name": "azure-blob-storage",
+  "slug": "azure-blob-storage",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-blob-storage/",
+  "download_url": "https://claudskills.com/skills/azure-blob-storage/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Connect to and interact with Azure Blob Storage (ADLS Gen2). Use when working with Azure blob storage, listing containers, reading files, uploading data, or when user mentions Azure storage, blob containers, or ADLS. Handles authentication, container operations, and blob management.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

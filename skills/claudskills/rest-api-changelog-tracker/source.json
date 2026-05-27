@@ -1,0 +1,18 @@
+{
+  "name": "rest-api-changelog-tracker",
+  "slug": "rest-api-changelog-tracker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rest-api-changelog-tracker/",
+  "download_url": "https://claudskills.com/skills/rest-api-changelog-tracker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Tracks breaking changes across REST API versions by diffing OpenAPI specs with oasdiff and monitoring endpoint deprecation headers. Stores version history in SQLite via better-sqlite3.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

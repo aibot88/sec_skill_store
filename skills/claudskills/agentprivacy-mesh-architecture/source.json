@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-mesh-architecture",
+  "slug": "agentprivacy-mesh-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-mesh-architecture/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-mesh-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Mesh network architecture for 0xagentprivacy. Activates when discussing control plane vs data plane separation, Tailscale/WireGuard mesh networks, the Dragon's Hide metaphor, NAT traversal, DERP relays, sovereign overlay networks (tailnets), or how network-layer separation enforces privacy without central watchtowers.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

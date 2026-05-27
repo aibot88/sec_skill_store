@@ -1,0 +1,18 @@
+{
+  "name": "playwright-skill",
+  "slug": "testdino-hq-playwright-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/testdino-hq-playwright-skill/",
+  "download_url": "https://claudskills.com/skills/testdino-hq-playwright-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Battle-tested Playwright patterns for writing, debugging, and scaling reliable test suites. Use when you need guidance for E2E, API, component, visual, accessibility, or security testing, plus CI/CD, CLI automation, page objects, and migration from Cypress or Selenium. TypeScript and JavaScript.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

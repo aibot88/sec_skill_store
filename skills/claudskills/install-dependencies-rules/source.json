@@ -1,0 +1,18 @@
+{
+  "name": "install-dependencies-rules",
+  "slug": "install-dependencies-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/install-dependencies-rules/",
+  "download_url": "https://claudskills.com/skills/install-dependencies-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Usa esta skill SIEMPRE antes de añadir, actualizar o eliminar cualquier dependencia en un proyecto Node.js. Aplica a frontend, backend y monorepo. Cubre pnpm obligatorio, pin exact sin carets, consulta de última versión estable, auditoría post-instalación, protección contra paquetes comprometidos con herramientas gratuitas, y configuración de Dependabot para actualizaciones controladas.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

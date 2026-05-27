@@ -1,0 +1,18 @@
+{
+  "name": "auth-supabase-complete",
+  "slug": "auth-supabase-complete",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-supabase-complete/",
+  "download_url": "https://claudskills.com/skills/auth-supabase-complete/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Production-ready Supabase authentication for Next.js 14+ with RLS patterns, session management, OAuth flows, and comprehensive testing. Includes server-side auth helpers, API middleware, and route protection.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

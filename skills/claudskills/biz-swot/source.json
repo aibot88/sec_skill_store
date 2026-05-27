@@ -1,0 +1,18 @@
+{
+  "name": "biz-swot",
+  "slug": "biz-swot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/biz-swot/",
+  "download_url": "https://claudskills.com/skills/biz-swot/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Conduct SWOT analysis with TOWS matrix for strategic planning. Use this skill when the user needs to evaluate a company, product, or project by identifying strengths, weaknesses, opportunities, and threats, or wants to generate strategic options from internal and external factors. Also use when the user mentions competitive positioning, strategic assessment, or asks 'what are our advantages and risks', even without naming SWOT explicitly.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

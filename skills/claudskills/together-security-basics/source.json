@@ -1,0 +1,18 @@
+{
+  "name": "together-security-basics",
+  "slug": "together-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/together-security-basics/",
+  "download_url": "https://claudskills.com/skills/together-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Together AI security basics for inference, fine-tuning, and model deployment. Use when working with Together AI's OpenAI-compatible API. Trigger: \"together security basics\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

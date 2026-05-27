@@ -1,0 +1,18 @@
+{
+  "name": "macos-fda-grant-helper",
+  "slug": "macos-fda-grant-helper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/macos-fda-grant-helper/",
+  "download_url": "https://claudskills.com/skills/macos-fda-grant-helper/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Interactive helper for granting macOS Full Disk Access (FDA) to a launchd-spawned binary. TRIGGERS - full disk access, fda grant, TCC permission, \"Maccy DB unreadable\", \"operation not permitted\" on sandbox-protected paths, launchd binary needs file access",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

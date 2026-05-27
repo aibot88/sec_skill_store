@@ -1,0 +1,18 @@
+{
+  "name": "kubernetes-live-network-architecture-mutation-guard",
+  "slug": "kubernetes-live-network-architecture-mutation-guard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kubernetes-live-network-architecture-mutation-guard/",
+  "download_url": "https://claudskills.com/skills/kubernetes-live-network-architecture-mutation-guard/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Guard live kubectl apply, patch, or create operations on Kubernetes networking *architecture* surface — Service spec (`internalTrafficPolicy`, `externalTrafficPolicy`, `topology-mode`, `trafficDistribution`), CoreDNS Corefile, NodeLocal DNSCache install, Gateway API resources (Gateway / HTTPRoute / GRPCRoute / TLSRoute / ReferenceGrant), and ClusterMesh peer Secrets. HARD REFUSE one-way doors (CNI replacement, kube-proxy mode swap, MTU change, Pod / Service CIDR resize, namespace deletion). Pre-flight `kubectl auth can-i` matrix against a least-privilege ServiceAccount before any write. Use only when an intentional architecture-level networking mutation is requested against a confirmed cluster target with a documented rollback path.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

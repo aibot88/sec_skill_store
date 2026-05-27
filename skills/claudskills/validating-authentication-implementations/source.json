@@ -1,0 +1,18 @@
+{
+  "name": "validating-authentication-implementations",
+  "slug": "validating-authentication-implementations",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/validating-authentication-implementations/",
+  "download_url": "https://claudskills.com/skills/validating-authentication-implementations/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Validate authentication mechanisms for security weaknesses and compliance. Use when reviewing login systems or auth flows. Trigger with 'validate authentication', 'check auth security', or 'review login'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

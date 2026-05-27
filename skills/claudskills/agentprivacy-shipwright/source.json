@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-shipwright",
+  "slug": "agentprivacy-shipwright",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-shipwright/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-shipwright/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "DAO and Community Architect for 0xagentprivacy. Activates for guild deployment, treaty negotiation between guilds, governance mechanism design (conviction voting, quadratic funding), treasury architecture, Heart of Gold crew patterns, decentralised fabric coordination, or any task requiring community infrastructure for privacy-preserving organisations.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

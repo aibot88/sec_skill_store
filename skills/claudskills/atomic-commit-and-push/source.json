@@ -1,0 +1,18 @@
+{
+  "name": "atomic-commit-and-push",
+  "slug": "atomic-commit-and-push",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/atomic-commit-and-push/",
+  "download_url": "https://claudskills.com/skills/atomic-commit-and-push/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Run the atomic-commit workflow on the current changes, then publish the resulting commits to the remote. Use whenever the user says \\\"commit and push\\\", \\\"ship these changes\\\", \\\"atomic commit and push\\\", \\\"publish my work\\\", or wants atomic commits delivered to origin in one step. Prefers `git submit` (git-branchless); falls back to a named branch + `git push origin HEAD:refs/heads/<branch>`. Refuses force-push and direct push to protected branches without explicit authorization.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "git-workflow",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

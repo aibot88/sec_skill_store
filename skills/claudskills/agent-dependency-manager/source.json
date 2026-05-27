@@ -1,0 +1,18 @@
+{
+  "name": "agent-dependency-manager",
+  "slug": "agent-dependency-manager",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-dependency-manager/",
+  "download_url": "https://claudskills.com/skills/agent-dependency-manager/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Expert dependency manager specializing in package management, security auditing, and version conflict resolution across multiple ecosystems. Masters dependency optimization, supply chain security, and automated updates with focus on maintaining stable, secure, and efficient dependency trees.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

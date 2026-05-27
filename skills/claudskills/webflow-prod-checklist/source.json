@@ -1,0 +1,18 @@
+{
+  "name": "webflow-prod-checklist",
+  "slug": "webflow-prod-checklist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/webflow-prod-checklist/",
+  "download_url": "https://claudskills.com/skills/webflow-prod-checklist/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Execute Webflow production deployment checklist — token security, rate limit hardening, health checks, circuit breakers, gradual rollout, and rollback procedures. Use when deploying Webflow integrations to production or preparing for launch. Trigger with phrases like \"webflow production\", \"deploy webflow\", \"webflow go-live\", \"webflow launch checklist\", \"webflow production ready\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

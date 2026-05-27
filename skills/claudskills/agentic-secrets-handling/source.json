@@ -1,0 +1,18 @@
+{
+  "name": "agentic-secrets-handling",
+  "slug": "agentic-secrets-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentic-secrets-handling/",
+  "download_url": "https://claudskills.com/skills/agentic-secrets-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "API anahtarları, kubeconfig ve Juju credential için saklama sırası ve log maskeleme kurallarını uygularken kullan.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

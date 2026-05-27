@@ -1,0 +1,18 @@
+{
+  "name": "ln-611-docs-structure-auditor",
+  "slug": "ln-611-docs-structure-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-611-docs-structure-auditor/",
+  "download_url": "https://claudskills.com/skills/ln-611-docs-structure-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Checks hierarchy, links, SSOT, compression, requirements compliance, freshness, legacy cleanup. Use when auditing documentation structure.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

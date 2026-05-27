@@ -1,0 +1,18 @@
+{
+  "name": "Germany — Handelsregister Lookup",
+  "slug": "germany-handelsregister",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/germany-handelsregister/",
+  "download_url": "https://claudskills.com/skills/germany-handelsregister/SKILL.md",
+  "external_source_url": "",
+  "license": "CC-BY-4.0",
+  "description": "Live, real-time queries to **Handelsregister** (Germany). Drops the OpenRegistry MCP toolset onto a single-country workflow when the user names Handelsregister, the country, or its registry directly. ID format: Court-prefixed Handelsregister number (e.g. `HRB 123456 B` Berlin, `HRB 12345 München`). Returns the registry's response unmodified — every field name, status string, and filing byte preserved verbatim. Use this skill when the user explicitly mentions: German company, Handelsregister, AG, GmbH, KG, German limited, Bundesanzeiger, who owns this German company, beneficial owner Germany, deutsche Firma. KYC Germany, AML Germany, due diligence Germany, company search Germany.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:05+00:00"
+}

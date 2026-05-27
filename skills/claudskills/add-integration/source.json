@@ -1,0 +1,18 @@
+{
+  "name": "add-integration",
+  "slug": "add-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/add-integration/",
+  "download_url": "https://claudskills.com/skills/add-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when the user wants to add a new MCP server integration — connect a custom tool, API, or service to the plugin by configuring it in .mcp.json with proper credentials and testing.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

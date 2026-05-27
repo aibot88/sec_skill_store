@@ -1,0 +1,18 @@
+{
+  "name": "fireworks-security",
+  "slug": "fireworks-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fireworks-security/",
+  "download_url": "https://claudskills.com/skills/fireworks-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security hardening superbrain — CWE Top 25, STRIDE threat modeling, Electron hardening, encryption, dependency audits, OWASP compliance",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

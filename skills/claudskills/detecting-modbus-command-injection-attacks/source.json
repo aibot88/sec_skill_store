@@ -1,0 +1,18 @@
+{
+  "name": "detecting-modbus-command-injection-attacks",
+  "slug": "detecting-modbus-command-injection-attacks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-modbus-command-injection-attacks/",
+  "download_url": "https://claudskills.com/skills/detecting-modbus-command-injection-attacks/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect command injection attacks against Modbus TCP/RTU protocol in ICS environments by monitoring for unauthorized",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "frontend-design-review",
+  "slug": "frontend-design-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/frontend-design-review/",
+  "download_url": "https://claudskills.com/skills/frontend-design-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Conducts comprehensive frontend design reviews covering UI/UX design quality, design system validation, accessibility compliance, responsive design patterns, component library architecture, and visual design consistency. Evaluates design specifications, Figma/Sketch files, design tokens, interaction patterns, and user experience flows. Identifies usability issues, accessibility violations, design system deviations, and provides actionable recommendations for improvement. Produces detailed design review reports with severity-rated findings, visual examples, and implementation guidelines. Use when reviewing frontend designs, validating design systems, ensuring accessibility compliance, evaluating component libraries, assessing responsive designs, or when users mention design review, UI/UX review, Figma review, design system validation, accessibility audit, or frontend design quality.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "prd-spec",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

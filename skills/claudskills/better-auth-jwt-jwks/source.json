@@ -1,0 +1,18 @@
+{
+  "name": "better-auth-jwt-jwks",
+  "slug": "better-auth-jwt-jwks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/better-auth-jwt-jwks/",
+  "download_url": "https://claudskills.com/skills/better-auth-jwt-jwks/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert skill for implementing Better Auth with JWT tokens and JWKS (JSON Web Key Set) for secure authentication between Next.js frontend and FastAPI backend. Handles JWT token generation, verification, JWKS endpoint setup, and secure API communication. Includes setup for database integration, session management, and user isolation. Use when implementing authentication between frontend (Next.js) and backend (FastAPI) services with JWT tokens and JWKS.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

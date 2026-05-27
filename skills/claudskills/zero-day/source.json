@@ -1,0 +1,18 @@
+{
+  "name": "zero-day",
+  "slug": "zero-day",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/zero-day/",
+  "download_url": "https://claudskills.com/skills/zero-day/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "· Hunt novel vulnerabilities: reversing, patch diffing, fuzzing, attack surface, PoCs. Triggers: 'zero-day', '0-day', 'vulnerability research', 'variant analysis', 'fuzz', 'exploit dev', 'CVE'. Not for SAST (use security-audit).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "burp-suite",
+  "slug": "burp-suite",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/burp-suite/",
+  "download_url": "https://claudskills.com/skills/burp-suite/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Burp Suite integration. Manage data, records, and automate workflows. Use when the user wants to interact with Burp Suite data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

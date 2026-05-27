@@ -1,0 +1,18 @@
+{
+  "name": "bmad-validation-frontend",
+  "slug": "bmad-validation-frontend",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bmad-validation-frontend/",
+  "download_url": "https://claudskills.com/skills/bmad-validation-frontend/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Frontend/full-stack business validation gate. Executes each Validation Metier item against a real browser environment (dev server, staging, production) using automated test execution (Playwright, Cypress, Testing Library) and user screenshots. Binary verdict: ALL pass = Done, ANY fail = stays in current status. Use when 'validation frontend', 'validate frontend ticket', 'valider le ticket front', 'frontend VM', 'validate UI', 'validation full-stack' is mentioned.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

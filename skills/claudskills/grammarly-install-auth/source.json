@@ -1,0 +1,18 @@
+{
+  "name": "grammarly-install-auth",
+  "slug": "grammarly-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/grammarly-install-auth/",
+  "download_url": "https://claudskills.com/skills/grammarly-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Grammarly SDK/CLI authentication. Use when setting up a new Grammarly integration, configuring API keys, or initializing Grammarly in your project. Trigger with phrases like \"install grammarly\", \"setup grammarly\", \"grammarly auth\", \"configure grammarly API key\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:10+00:00"
+}

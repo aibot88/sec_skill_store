@@ -1,0 +1,18 @@
+{
+  "name": "dev-sqlite-guide",
+  "slug": "dev-sqlite-guide",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-sqlite-guide/",
+  "download_url": "https://claudskills.com/skills/dev-sqlite-guide/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide pour écrire des requêtes SQL et concevoir des schémas SQLite avec les bonnes pratiques. À utiliser quand l'utilisateur travaille avec SQLite, écrit des requêtes SQL ou conçoit des schémas de base de données. Se déclenche aussi avec \"requête SQL\", \"schéma SQLite\", \"base de données SQLite\", \"migration SQL\", \"table SQLite\", \"query SQL\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

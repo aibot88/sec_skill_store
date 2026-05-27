@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "happy-technologies-llc-happy-platform-skills-.",
+  "source": "github",
+  "source_url": "https://github.com/Happy-Technologies-LLC/happy-platform-skills/blob/6d8bf090c33b3bedd6a66c68223876200f17f1a5/SKILL.md",
+  "download_url": "https://github.com/Happy-Technologies-LLC/happy-platform-skills/blob/6d8bf090c33b3bedd6a66c68223876200f17f1a5/SKILL.md",
+  "external_source_url": "https://github.com/Happy-Technologies-LLC/happy-platform-skills/blob/6d8bf090c33b3bedd6a66c68223876200f17f1a5/SKILL.md",
+  "license": "",
+  "description": "Platform-agnostic AI skills library for ServiceNow - 180+ skills for Claude Code, ChatGPT, Cursor & more",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Happy-Technologies-LLC/happy-platform-skills",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "supabase-projects",
+  "slug": "supabase-projects",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-projects/",
+  "download_url": "https://claudskills.com/skills/supabase-projects/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when managing Supabase projects or organizations, creating new projects, listing projects, checking project status, retrieving API keys, pausing or restoring projects, or working with project costs and billing. Trigger when: \"create Supabase project\", \"list Supabase projects\", \"Supabase API keys\", \"pause project\", \"restore project\", \"Supabase organization\", \"project cost\", \"get project URL\", \"publishable key\", \"secret key\", \"anon key\", \"service role key\", \"asymmetric JWT\", \"JWT signing keys\", \"key rotation\", \"supabase link\", \"project settings\", or managing Supabase project lifecycle.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

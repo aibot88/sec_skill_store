@@ -1,0 +1,18 @@
+{
+  "name": "telnetshell",
+  "slug": "telnetshell",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/telnetshell/",
+  "download_url": "https://claudskills.com/skills/telnetshell/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use telnet to interact with IoT device shells for pentesting operations including device enumeration, vulnerability discovery, credential testing, and post-exploitation. Use when the user needs to interact with network-accessible shells, IoT devices, or telnet services.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

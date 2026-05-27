@@ -1,0 +1,18 @@
+{
+  "name": "checking-skill-best-practices",
+  "slug": "checking-skill-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/checking-skill-best-practices/",
+  "download_url": "https://claudskills.com/skills/checking-skill-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Evaluates Claude skills against official best practices from Anthropic documentation. Use when reviewing skill quality, ensuring compliance with guidelines, or improving existing skills.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

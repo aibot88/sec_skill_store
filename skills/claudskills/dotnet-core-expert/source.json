@@ -1,0 +1,18 @@
+{
+  "name": "dotnet-core-expert",
+  "slug": "dotnet-core-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dotnet-core-expert/",
+  "download_url": "https://claudskills.com/skills/dotnet-core-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when building .NET 8 applications with minimal APIs, clean architecture, or cloud-native microservices. Invoke for Entity Framework Core, CQRS with MediatR, JWT authentication, AOT compilation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "zero-trust-config-helper",
+  "slug": "zero-trust-config-helper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/zero-trust-config-helper/",
+  "download_url": "https://claudskills.com/skills/zero-trust-config-helper/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Zero Trust Config Helper - Auto-activating skill for Security Advanced. Triggers on: zero trust config helper, zero trust config helper Part of the Security Advanced skill category.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:39+00:00"
+}

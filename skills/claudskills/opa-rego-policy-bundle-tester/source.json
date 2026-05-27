@@ -1,0 +1,18 @@
+{
+  "name": "opa-rego-policy-bundle-tester",
+  "slug": "opa-rego-policy-bundle-tester",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/opa-rego-policy-bundle-tester/",
+  "download_url": "https://claudskills.com/skills/opa-rego-policy-bundle-tester/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Tests authorization and policy bundles with the Open Policy Agent `/v1/data` and `/v1/compile` APIs plus `opa test` semantics. Great for agents that need to explain which Rego rules allow or deny a request before policy changes go live.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

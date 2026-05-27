@@ -1,0 +1,18 @@
+{
+  "name": "final-quality-check",
+  "slug": "final-quality-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/final-quality-check/",
+  "download_url": "https://claudskills.com/skills/final-quality-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Install the quality line every pie passes through before going on display — wire CI/CD, E2E testing, design-system compliance, and visual-regression gates. Run once before /sell-slice; also invocable standalone on any project.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-system-ui",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

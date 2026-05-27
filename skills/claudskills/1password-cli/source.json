@@ -1,0 +1,18 @@
+{
+  "name": "1password-cli",
+  "slug": "1password-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/1password-cli/",
+  "download_url": "https://claudskills.com/skills/1password-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Entry-point router skill for the 1Password CLI. Use this skill when the user mentions the 1Password CLI (`op`) or 1Password generically, references the secret-reference URI scheme `op://`, asks about `OP_ACCOUNT` or `OP_SERVICE_ACCOUNT_TOKEN`, asks about biometric unlock for a CLI, or is choosing how to load secrets into an app and 1Password is a candidate. Provides general orientation, the auth-mode picker, the full command map, and routing to deeper sub-skills (`op-secrets-injection`, `op-item-management`, `op-provisioning`, `op-ssh-keys`, `op-shell-plugins`, `op-service-accounts`). Defer to those sub-skills for specific commands.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

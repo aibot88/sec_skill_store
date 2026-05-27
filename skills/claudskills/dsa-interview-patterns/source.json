@@ -1,0 +1,18 @@
+{
+  "name": "dsa-interview-patterns",
+  "slug": "dsa-interview-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dsa-interview-patterns/",
+  "download_url": "https://claudskills.com/skills/dsa-interview-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Classic coding interview patterns including two pointers, sliding window, binary search variants, fast/slow pointers, prefix sums, interval merging, and monotonic stack. Use when: solving array or string problems under interview constraints, recognising which pattern fits a given input shape, implementing cursor-based pagination, analysing date-range or sorted time-series queries, reviewing LINQ chains for hidden complexity, or teaching pattern-first problem solving.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

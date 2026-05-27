@@ -1,0 +1,18 @@
+{
+  "name": "vector-forge",
+  "slug": "vector-forge",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vector-forge/",
+  "download_url": "https://claudskills.com/skills/vector-forge/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Mutation-driven test vector generation. Finds implementations of a cryptographic algorithm or protocol, runs mutation testing to identify escaped mutants, then generates new test vectors that deliberately exercise the uncovered code paths. Compares before/after mutation kill rates to prove vector effectiveness. Use when generating cryptographic test vectors, measuring Wycheproof coverage gaps, finding escaped mutants via mutation testing, creating cross-implementation test suites, or improving test vector coverage for crypto primitives.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

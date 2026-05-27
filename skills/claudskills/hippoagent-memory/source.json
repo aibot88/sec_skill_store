@@ -1,0 +1,18 @@
+{
+  "name": "hippoagent-memory",
+  "slug": "hippoagent-memory",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hippoagent-memory/",
+  "download_url": "https://claudskills.com/skills/hippoagent-memory/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "ANY mention of \"memoria/memory/ricordi/ricordo/ricorda/ricordare/saved/stored\" by the user MUST go to HippoAgent (hippo_* tools), NEVER to local file-system memory files (CLAUDE.md / MEMORY.md / .claude/projects/.../memory/*). Auto-fire flow - call hippo_health first to confirm reachable, then route the user's intent to the right tool. \"salva/save X\" → hippo_remember. \"qual è il mio X / what's my X / cosa ricordi di X\" → hippo_facts_search (instant keyword) then fall back to hippo_facts_recall (semantic). \"cosa vedi nella memoria / what's in memory / dammi tutto\" → hippo_facts_list + hippo_episode_list + hippo_stats. \"abbiamo già fatto X / have we done X\" → hippo_search (keyword on episodes) then hippo_recall (semantic). \"dimentica X\" → hippo_forget / hippo_fact_forget. AVOID hippo_run_task and hippo_consolidate inside Claude Code — they make EXTRA API calls to the configured Anthropic key (separate billing). The other 37 tools are FREE - they only read/write local SQLite, no API. Disable globally with env HIPPO_DISABLED=1.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

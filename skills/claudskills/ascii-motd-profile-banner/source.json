@@ -1,0 +1,18 @@
+{
+  "name": "ascii-motd-profile-banner",
+  "slug": "ascii-motd-profile-banner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ascii-motd-profile-banner/",
+  "download_url": "https://claudskills.com/skills/ascii-motd-profile-banner/SKILL.md",
+  "external_source_url": "",
+  "license": "Complete terms in LICENSE.txt",
+  "description": "Generate ASCII-only MOTD / SSH login banner / shell profile welcome messages (short/long variants, quiet mode guidance, security notices).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

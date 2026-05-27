@@ -1,0 +1,18 @@
+{
+  "name": "api-gateway-kong-api-gateway",
+  "slug": "api-gateway-kong-api-gateway",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-gateway-kong-api-gateway/",
+  "download_url": "https://claudskills.com/skills/api-gateway-kong-api-gateway/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configuration de Kong API Gateway — services, routes, plugins, rate limiting, authentification et monitoring. À utiliser quand l'utilisateur configure Kong, gère des APIs avec Kong ou implémente des plugins. Se déclenche aussi avec \"Kong\", \"Kong Gateway\", \"Kong plugin\", \"Kong route\", \"API gateway Kong\", \"kong.yml\", \"Kong declarative\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

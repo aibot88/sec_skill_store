@@ -1,0 +1,18 @@
+{
+  "name": "documentation-sync",
+  "slug": "documentation-sync-vilnacrm-org-user-service",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/documentation-sync-vilnacrm-org-user-service/",
+  "download_url": "https://claudskills.com/skills/documentation-sync-vilnacrm-org-user-service/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Keep documentation in sync with code changes. Use when implementing features, modifying APIs, changing architecture, adding configuration, updating security, or making any changes that affect user-facing or developer-facing documentation.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "performing-cloud-penetration-testing-with-pacu",
+  "slug": "performing-cloud-penetration-testing-with-pacu",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-cloud-penetration-testing-with-pacu/",
+  "download_url": "https://claudskills.com/skills/performing-cloud-penetration-testing-with-pacu/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Performing authorized AWS penetration testing using Pacu, the open-source AWS exploitation framework, to enumerate",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ag-avaliar-ux-design-library",
+  "slug": "ag-avaliar-ux-design-library",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ag-avaliar-ux-design-library/",
+  "download_url": "https://claudskills.com/skills/ag-avaliar-ux-design-library/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Avalia qualidade UX de um projeto comparando screenshots reais contra a Design Library (24 solucoes + design system). Captura telas via Playwright, pontua aderencia a tokens/patterns, identifica desvios. Produz UX Compliance Report.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ux-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

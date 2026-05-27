@@ -1,0 +1,18 @@
+{
+  "name": "normalize-article-metadata-from-urls-before-generating-link-prev",
+  "slug": "normalize-article-metadata-from-urls-before-generating-link-prev",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/normalize-article-metadata-from-urls-before-generating-link-prev/",
+  "download_url": "https://claudskills.com/skills/normalize-article-metadata-from-urls-before-generating-link-prev/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Uses metascraper to turn a URL plus its fetched HTML into normalized fields such as title, description, author, date, publisher, and lead image. This is useful when an agent needs reliable preview or briefing data from a page without building a custom parser for every site.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "writing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

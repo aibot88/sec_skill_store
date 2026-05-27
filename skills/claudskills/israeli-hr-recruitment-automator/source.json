@@ -1,0 +1,18 @@
+{
+  "name": "israeli-hr-recruitment-automator",
+  "slug": "israeli-hr-recruitment-automator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/israeli-hr-recruitment-automator/",
+  "download_url": "https://claudskills.com/skills/israeli-hr-recruitment-automator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Employer-side hiring automation for Israeli companies. Generates Hebrew job descriptions compliant with the Equal Employment Opportunities Law 1988, posts to Israeli job boards (AllJobs, Drushim, JobMaster, LinkedIn Israel), screens resumes with Israeli context (military service, academic institutions, tech bootcamps), schedules interviews around Israeli holidays and Shabbat, and generates offer letters with mandatory Israeli employment clauses. Use when user asks to \"write a job description\", \"post a job in Israel\", \"screen Israeli resumes\", \"pirsum misra\", \"srikat meumadim\", \"michtav ha'a'sa'a\", or automate hiring workflows for Israeli companies. Ensures compliance with Israeli anti-discrimination law and mandatory benefits. Do NOT use for job searching (use israeli-job-market), interview preparation (use israeli-tech-interview-prep), salary negotiation (use israeli-tech-salary-negotiator), employment contracts legal review (use israeli-employment-contracts), or freelancer hiring.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

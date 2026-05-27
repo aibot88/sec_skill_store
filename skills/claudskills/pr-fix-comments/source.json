@@ -1,0 +1,18 @@
+{
+  "name": "dyad:pr-fix:comments",
+  "slug": "pr-fix-comments",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pr-fix-comments/",
+  "download_url": "https://claudskills.com/skills/pr-fix-comments/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Read all unresolved GitHub PR comments from trusted authors and address or resolve them appropriately.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

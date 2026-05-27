@@ -1,0 +1,18 @@
+{
+  "name": "mla-practical",
+  "slug": "mla-practical",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mla-practical/",
+  "download_url": "https://claudskills.com/skills/mla-practical/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "MLA-C01試験の知識を副業・実務に直結させる学習スキル。AWSサービスや用語について質問された際に、「試験での出題ポイント」「実務でのユースケース」「副業案件での需要度と単価感」の3軸で回答する。Amazon SageMaker (AI, Endpoints, Data Wrangler, Model Monitor), S3, Kinesis, AWS Glue, Bedrock, CodePipeline, Lambda, Athena, EventBridge等の学習時に使用する。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

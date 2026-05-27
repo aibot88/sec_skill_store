@@ -1,0 +1,18 @@
+{
+  "name": "openstack-networking-debug",
+  "slug": "networking-debug",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/networking-debug/",
+  "download_url": "https://claudskills.com/skills/networking-debug/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "OpenStack networking debug operations skill for SDN troubleshooting, packet tracing, and flow analysis. Covers OVS/OVN debugging (ovs-vsctl, ovs-ofctl, ovs-appctl, ovn-nbctl, ovn-sbctl, ovn-trace), security group analysis via OVS flow rules and conntrack, DHCP troubleshooting through namespace inspection and dnsmasq diagnostics, floating IP diagnosis with NAT rule and ARP verification, network namespace inspection (ip netns), MTU chain analysis for overlay networks, DNS resolution debugging, and east-west traffic diagnosis. Use when diagnosing network connectivity failures, tracing packets through the SDN stack, or analyzing flow tables in a running OpenStack cloud.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

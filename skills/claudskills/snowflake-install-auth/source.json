@@ -1,0 +1,18 @@
+{
+  "name": "snowflake-install-auth",
+  "slug": "snowflake-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/snowflake-install-auth/",
+  "download_url": "https://claudskills.com/skills/snowflake-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Snowflake driver authentication for Node.js and Python. Use when setting up snowflake-sdk, snowflake-connector-python, key pair auth, OAuth, or SSO browser authentication. Trigger with phrases like \"install snowflake\", \"setup snowflake\", \"snowflake auth\", \"snowflake connection\", \"snowflake key pair\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "data-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

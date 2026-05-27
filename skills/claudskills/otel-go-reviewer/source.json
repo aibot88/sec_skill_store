@@ -1,0 +1,18 @@
+{
+  "name": "otel-go-reviewer",
+  "slug": "otel-go-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/otel-go-reviewer/",
+  "download_url": "https://claudskills.com/skills/otel-go-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Review pull requests, diffs, patches, or design proposals for the open-telemetry/opentelemetry-go repository with a senior maintainer mindset. Use when changes in opentelemetry-go may affect OpenTelemetry specification compliance, repository contribution rules, changelog requirements, module versioning boundaries, API or telemetry compatibility, performance-sensitive paths, concurrency or lifecycle behavior, or test coverage.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

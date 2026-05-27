@@ -1,0 +1,18 @@
+{
+  "name": "cursor-privacy-settings",
+  "slug": "cursor-privacy-settings",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cursor-privacy-settings/",
+  "download_url": "https://claudskills.com/skills/cursor-privacy-settings/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Cursor privacy mode, data handling, telemetry, and sensitive file exclusion. Triggers on \"cursor privacy\", \"cursor data\", \"cursor security\", \"privacy mode\", \"cursor telemetry\", \"cursor data retention\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "protocolsio-integration",
+  "slug": "protocolsio-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/protocolsio-integration/",
+  "download_url": "https://claudskills.com/skills/protocolsio-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "CC-BY-4.0",
+  "description": "protocols.io REST API: search and fetch wet-lab, bioinformatics, and clinical protocols by keyword, DOI, or category, with steps, reagents, materials, equipment, timing. Public access free; auth needed for private or publishing. Pair with opentrons-integration or benchling-integration to execute.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "biology-medicine",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

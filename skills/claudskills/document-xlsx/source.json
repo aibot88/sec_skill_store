@@ -1,0 +1,18 @@
+{
+  "name": "document-xlsx",
+  "slug": "document-xlsx",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/document-xlsx/",
+  "download_url": "https://claudskills.com/skills/document-xlsx/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create, edit, audit, and extract Excel spreadsheets (.xlsx): generate reports/exports, apply formulas/formatting/charts/data validation, parse existing workbooks, and avoid spreadsheet risks (formula injection, broken links, hidden rows). Supports ExcelJS, openpyxl, pandas, XlsxWriter, and SheetJS.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

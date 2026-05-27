@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-governance-agents",
+  "slug": "agentprivacy-governance-agents",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-governance-agents/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-governance-agents/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Agent governance participation protocols for 0xagentprivacy. Activates when discussing how AI agents participate in governance (voting, proposal, delegation), conviction voting, quadratic mechanisms, or the unique challenges of giving agents governance rights while maintaining human sovereignty.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

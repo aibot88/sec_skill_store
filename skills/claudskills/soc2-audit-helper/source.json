@@ -1,0 +1,18 @@
+{
+  "name": "assisting-with-soc2-audit-preparation",
+  "slug": "soc2-audit-helper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/soc2-audit-helper/",
+  "download_url": "https://claudskills.com/skills/soc2-audit-helper/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill assists with SOC2 audit preparation by automating tasks related to evidence gathering and documentation. It leverages the soc2-audit-helper plugin to generate reports, identify potential compliance gaps, and suggest remediation steps. Use this skill when the user requests help with \"SOC2 audit\", \"compliance check\", \"security controls\", \"audit preparation\", or \"evidence gathering\" related to SOC2. It streamlines the initial stages of SOC2 compliance, focusing on automated data collection and preliminary analysis.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

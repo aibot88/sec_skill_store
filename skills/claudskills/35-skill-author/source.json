@@ -1,0 +1,18 @@
+{
+  "name": "skill-author",
+  "slug": "35-skill-author",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/35-skill-author/",
+  "download_url": "https://claudskills.com/skills/35-skill-author/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Meta-skill para criar, editar, avaliar e otimizar skills do kit. Use quando adicionar nova skill, refatorar skill existente, ou medir qualidade de descoberta de skill (description triggering). Trigger em: \"criar nova skill\", \"nova capacidade\", \"skill author\", \"skill creator\", \"editar skill\", \"avaliar skill\", \"skill eval\", \"otimizar description\", \"meta-skill\", \"kit governance\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

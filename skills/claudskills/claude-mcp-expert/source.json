@@ -1,0 +1,18 @@
+{
+  "name": "claude-mcp-expert",
+  "slug": "claude-mcp-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/claude-mcp-expert/",
+  "download_url": "https://claudskills.com/skills/claude-mcp-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Model Context Protocol (MCP) expert for Claude Code. Install, configure, and troubleshoot MCP servers. Covers HTTP, SSE, and stdio transports, authentication, popular integrations (Sentry, GitHub, Jira, Notion, databases). Triggers on MCP, Model Context Protocol, MCP server, installing MCP, connecting tools, webhooks, remote server.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

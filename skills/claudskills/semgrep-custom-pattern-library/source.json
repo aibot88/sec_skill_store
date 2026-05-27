@@ -1,0 +1,18 @@
+{
+  "name": "semgrep-custom-pattern-library",
+  "slug": "semgrep-custom-pattern-library",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/semgrep-custom-pattern-library/",
+  "download_url": "https://claudskills.com/skills/semgrep-custom-pattern-library/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Builds custom Semgrep rules using the semgrep YAML rule syntax with metavariable-pattern, pattern-either, and taint-mode analysis. Generates rule packs for OWASP Top 10 detection across Python, JavaScript, and Go codebases.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

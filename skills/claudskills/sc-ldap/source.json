@@ -1,0 +1,18 @@
+{
+  "name": "sc-ldap",
+  "slug": "sc-ldap",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sc-ldap/",
+  "download_url": "https://claudskills.com/skills/sc-ldap/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "LDAP Injection detection in search filters, DN construction, and bind operations",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

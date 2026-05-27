@@ -1,0 +1,18 @@
+{
+  "name": "argocd-image-updater",
+  "slug": "argocd-image-updater",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/argocd-image-updater/",
+  "download_url": "https://claudskills.com/skills/argocd-image-updater/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automate container image updates for Kubernetes workloads managed by Argo CD. USE WHEN configuring ArgoCD Image Updater, setting up automatic image updates, configuring update strategies (semver, digest, newest-build, alphabetical), implementing git write-back, troubleshooting image update issues, or working with ImageUpdater CRDs. Covers installation, configuration, authentication, and best practices.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ai-engineering-toolkit",
+  "slug": "ai-engineering-toolkit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-engineering-toolkit/",
+  "download_url": "https://claudskills.com/skills/ai-engineering-toolkit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "6 production-ready AI engineering workflows: prompt evaluation (8-dimension scoring), context budget planning, RAG pipeline design, agent security audit (65-point checklist), eval harness building, and product sense coaching.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ml-ai-eng",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

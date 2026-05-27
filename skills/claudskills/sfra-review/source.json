@@ -1,0 +1,18 @@
+{
+  "name": "sfra-review",
+  "slug": "sfra-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sfra-review/",
+  "download_url": "https://claudskills.com/skills/sfra-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "SFRA (Storefront Reference Architecture) code review skill using Swarm pattern. Analyzes controllers, models, ISML, services, jobs for best practices, security, and performance. Triggers on \"SFRA review\", \"SFCC code review\", \"cartridge review",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

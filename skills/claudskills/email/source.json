@@ -1,0 +1,18 @@
+{
+  "name": "email",
+  "slug": "email",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/email/",
+  "download_url": "https://claudskills.com/skills/email/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Email operations skill for sending, fetching, and reading emails via IMAP/SMTP. Uses curl with OpenSSL/LibreSSL for reliable TLS compatibility with Tencent Enterprise Mail and other providers. Credentials are securely stored in macOS Keychain.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crypto-keymgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

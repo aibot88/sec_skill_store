@@ -1,0 +1,18 @@
+{
+  "name": "conflict-of-interest-checker",
+  "slug": "conflict-of-interest-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/conflict-of-interest-checker/",
+  "download_url": "https://claudskills.com/skills/conflict-of-interest-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Check for co-authorship and institutional conflicts between authors and suggested reviewers to support peer review integrity. Coauthorship and institutional conflict detection supported.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

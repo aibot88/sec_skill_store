@@ -1,0 +1,18 @@
+{
+  "name": "blog-discourse",
+  "slug": "blog-discourse",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/blog-discourse/",
+  "download_url": "https://claudskills.com/skills/blog-discourse/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Research what people are actually saying about a topic in the last 30 days across Reddit, X / Twitter, YouTube, Hacker News, dev.to, Medium, and other public discourse platforms. API-free; uses WebSearch with platform-targeted site operators plus recency filters. Produces DISCOURSE.md (a structured brief) and JSON output the writer can consume. Complements blog-researcher (which focuses on authority sources) with a recency-and-engagement lens. Use when user says \"blog discourse\", \"discourse research\", \"what are people saying about\", \"research what people are saying\", \"voice of customer\", \"social listening\", \"30-day research\", \"trend research\", \"what's the discussion on\", \"real-time research\", \"practitioner discourse\", \"/blog discourse\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

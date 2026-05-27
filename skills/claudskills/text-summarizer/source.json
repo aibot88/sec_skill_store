@@ -1,0 +1,18 @@
+{
+  "name": "text-summarizer",
+  "slug": "text-summarizer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/text-summarizer/",
+  "download_url": "https://claudskills.com/skills/text-summarizer/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Summarise a chunk of text down to roughly `length` words using the agent's configured LLM provider. Input shape `{ text: string, length?: number }` on stdin, JSON; output shape `{ summary: string }` on stdout, JSON. Minimal: ~50 lines, no streaming, no retries — a deliberate baseline so the wiring is visible. For a production summariser, fork this and add retries, prompt-injection sanitisation, length validation, and per-model cost tracking.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

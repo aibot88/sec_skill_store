@@ -1,0 +1,18 @@
+{
+  "name": "blog-post",
+  "slug": "blog-post",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/blog-post/",
+  "download_url": "https://claudskills.com/skills/blog-post/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "A long-form article / blog post — masthead, hero image placeholder, article body with figures and pull quotes, author byline, related posts. Use when the brief asks for \"blog\", \"article\", \"post\", \"essay\", or \"case study\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "writing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

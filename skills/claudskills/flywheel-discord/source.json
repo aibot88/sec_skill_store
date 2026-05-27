@@ -1,0 +1,18 @@
+{
+  "name": "flywheel-discord",
+  "slug": "flywheel-discord",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flywheel-discord/",
+  "download_url": "https://claudskills.com/skills/flywheel-discord/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security rules and behavioral guidelines for operating as Clawdstein in The Agent Flywheel Hub Discord server. This is a PUBLIC community server—apply strict data isolation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

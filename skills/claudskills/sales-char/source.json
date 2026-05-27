@@ -1,0 +1,18 @@
+{
+  "name": "sales-char",
+  "slug": "sales-char",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-char/",
+  "download_url": "https://claudskills.com/skills/sales-char/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Char (formerly Hyprnote) platform help — open-source, bot-free, local-first AI meeting notepad with system audio capture, markdown output, plugin SDK, and optional cloud STT/LLM (GPL-3.0). Use when setting up Char on macOS for the first time, speaker identification not working in group meetings, configuring local-only transcription with Cactus or Ollama for full offline use, choosing between Char's cloud STT providers (Deepgram, AssemblyAI, Soniox, OpenAI, etc.), app not launching or bouncing on dock without opening, telemetry concerns with PostHog or Sentry in a local-first app, building a Char plugin or using the automation hooks system, comparing Char to Granola or Meetily or Fathom for privacy, or configuring the CLI for template management. Do NOT use for picking between note-takers generally (use /sales-note-taker) or reviewing a single call for coaching (use /sales-call-review).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "deal-management",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

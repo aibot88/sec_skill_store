@@ -1,0 +1,18 @@
+{
+  "name": "dart-detective",
+  "slug": "dart-detective",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dart-detective/",
+  "download_url": "https://claudskills.com/skills/dart-detective/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive code review and troubleshooting for Flutter Android apps written in Dart. Identifies Dart language issues, security vulnerabilities, bugs (visible AND silent), performance issues, and architectural violations. Use for: (1) Pre-commit reviews, (2) Debugging complex errors, (3) Security audits, (4) Refactoring guidance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

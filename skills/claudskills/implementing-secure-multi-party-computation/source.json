@@ -1,0 +1,18 @@
+{
+  "name": "implementing-secure-multi-party-computation",
+  "slug": "implementing-secure-multi-party-computation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-secure-multi-party-computation/",
+  "download_url": "https://claudskills.com/skills/implementing-secure-multi-party-computation/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implementation guide for secure multi-party computation enabling privacy-preserving analytics across organizations. Covers secret sharing, garbled circuits, reference frameworks MP-SPDZ and CrypTen, practical deployment patterns, and GDPR alignment for joint controller analytics without revealing individual party inputs.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

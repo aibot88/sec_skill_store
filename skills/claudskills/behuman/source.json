@@ -1,0 +1,18 @@
+{
+  "name": "behuman",
+  "slug": "behuman",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/behuman/",
+  "download_url": "https://claudskills.com/skills/behuman/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when the user wants more human-like AI responses — less robotic, less listy, more authentic. Triggers: 'behuman', 'be real', 'like a human', 'more human', 'less AI', 'talk like a person', 'mirror mode', 'stop being so AI', or when conversations are emotionally charged (grief, job loss, relationship advice, fear). NOT for technical questions, code generation, or factual lookups.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "lattice-spatial-collective",
+  "slug": "lattice-spatial-collective",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lattice-spatial-collective/",
+  "download_url": "https://claudskills.com/skills/lattice-spatial-collective/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Multi-agent distributed context preservation protocol using cryptographic sharding, gossip propagation, and Byzantine fault tolerance to maintain coherent shared memory across dynamic agent networks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

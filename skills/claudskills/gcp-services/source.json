@@ -1,0 +1,18 @@
+{
+  "name": "gcp-services",
+  "slug": "gcp-services",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-services/",
+  "download_url": "https://claudskills.com/skills/gcp-services/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configure GCP IAM, Secret Manager, and VPC networking with security best practices. PROACTIVELY activate for: (1) setting up service accounts and IAM permissions, (2) managing secrets in Secret Manager, (3) configuring VPC and firewall rules. Triggers: \"iam\", \"secret manager\", \"vpc\"",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

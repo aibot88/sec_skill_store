@@ -1,0 +1,18 @@
+{
+  "name": "mcp-tester-hot-swap",
+  "slug": "hot-swap",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hot-swap/",
+  "download_url": "https://claudskills.com/skills/hot-swap/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "\\\"Hot-swap MCP server binary without disconnecting clients. 熱換MCP伺服器二進位，不斷客端連接。 Use when: hot swap mcp server, update mcp without restart, replace mcp binary, reload mcp server, live update mcp\\",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

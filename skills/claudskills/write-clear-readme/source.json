@@ -1,0 +1,18 @@
+{
+  "name": "write-clear-readme",
+  "slug": "write-clear-readme",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/write-clear-readme/",
+  "download_url": "https://claudskills.com/skills/write-clear-readme/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Author, audit, or polish a project README — clarity, structure (Pattern A grouped collapse / Pattern B per-entry collapse), wording concision, anchor integrity. Reads the repo first, proposes diffs, applies on approval.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

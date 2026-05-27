@@ -1,0 +1,18 @@
+{
+  "name": "instruments-profiling",
+  "slug": "instruments-profiling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/instruments-profiling/",
+  "download_url": "https://claudskills.com/skills/instruments-profiling/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when profiling native macOS or iOS apps with Instruments/xctrace. Covers correct binary selection, CLI arguments, exports, and common gotchas.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

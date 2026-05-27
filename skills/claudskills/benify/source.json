@@ -1,0 +1,18 @@
+{
+  "name": "benify",
+  "slug": "benify",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/benify/",
+  "download_url": "https://claudskills.com/skills/benify/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Transform text into Ben Church's authentic blog writing voice. Use when the user asks to \"benify\", \"write like Ben\", \"rewrite in Ben's voice\", \"make this sound like me\", \"apply my voice\", \"convert to my writing style\", or needs text transformed into Ben's distinctive conversational-but-substantive blog voice.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

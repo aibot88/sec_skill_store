@@ -1,0 +1,18 @@
+{
+  "name": "teams",
+  "slug": "teams",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/teams/",
+  "download_url": "https://claudskills.com/skills/teams/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Launches pre-configured multi-agent teams for code review, debugging, feature development, security audits, and database migrations. Use when the user asks to start a multi-agent workflow, coordinate agent teams, run a team review, or needs parallel agent collaboration on a complex task.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

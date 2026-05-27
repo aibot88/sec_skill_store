@@ -1,0 +1,18 @@
+{
+  "name": "vue-review",
+  "slug": "vue-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vue-review/",
+  "download_url": "https://claudskills.com/skills/vue-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Vue 3 SFCをベストプラクティスに照らして一括レビューする。「Vueコンポーネントをレビューして」「SFCをチェックして」「型安全性を確認して」「TailwindのUIを検査して」「Biomeルールへの準拠を確認して」と依頼された時に使用する。",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

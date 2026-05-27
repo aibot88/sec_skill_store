@@ -1,0 +1,18 @@
+{
+  "name": "multiplayer-review",
+  "slug": "multiplayer-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/multiplayer-review/",
+  "download_url": "https://claudskills.com/skills/multiplayer-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit multiplayer netcode, online game networking, and real-time synchronization. Reviews client-server authority, lag compensation, client-side prediction, server reconciliation, entity interpolation, server rewind hit detection, tick rate tuning, delta compression, bandwidth budgets, matchmaking (ELO, Glicko-2, TrueSkill), lobby systems, reconnection flows, host migration, anti-cheat architecture, and input validation. Supports Unity Mirror/NGO/Photon/FishNet, Unreal replication, Godot ENet, WebSocket/WebRTC, Colyseus, Nakama, and custom UDP/TCP stacks.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:41+00:00"
+}

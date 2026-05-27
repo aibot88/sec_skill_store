@@ -1,0 +1,18 @@
+{
+  "name": "exec-dispatch",
+  "slug": "exec-dispatch",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/exec-dispatch/",
+  "download_url": "https://claudskills.com/skills/exec-dispatch/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when executing an approved implementation plan task-by-task. Dispatches one fresh subagent per task using an RTCO brief, receives the return through the report filter, runs two-stage review (self + plan-compliance), and only then marks the task complete and moves on. Prevents context pollution, drift across tasks, and silent regressions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

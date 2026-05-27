@@ -1,0 +1,18 @@
+{
+  "name": "workhuman-security-basics",
+  "slug": "workhuman-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/workhuman-security-basics/",
+  "download_url": "https://claudskills.com/skills/workhuman-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Workhuman security basics for employee recognition and rewards API. Use when integrating Workhuman Social Recognition, or building recognition workflows with HRIS systems. Trigger: \"workhuman security basics\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

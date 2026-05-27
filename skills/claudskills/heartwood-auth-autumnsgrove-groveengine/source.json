@@ -1,0 +1,18 @@
+{
+  "name": "heartwood-auth",
+  "slug": "heartwood-auth-autumnsgrove-groveengine",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/heartwood-auth-autumnsgrove-groveengine/",
+  "download_url": "https://claudskills.com/skills/heartwood-auth-autumnsgrove-groveengine/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Integrate Heartwood (GroveAuth) authentication into Grove applications. Use when adding sign-in, protecting routes, or validating sessions in any Grove property.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "salesforce-policy-guardrails",
+  "slug": "salesforce-policy-guardrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/salesforce-policy-guardrails/",
+  "download_url": "https://claudskills.com/skills/salesforce-policy-guardrails/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Salesforce lint rules, SOQL injection prevention, and API usage guardrails. Use when enforcing Salesforce integration code quality, preventing SOQL injection, or configuring CI policy checks for Salesforce best practices. Trigger with phrases like \"salesforce policy\", \"salesforce lint\", \"salesforce guardrails\", \"SOQL injection\", \"salesforce eslint\", \"salesforce code review\".",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:09+00:00"
+}

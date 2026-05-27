@@ -1,0 +1,18 @@
+{
+  "name": "gamma-security-basics",
+  "slug": "gamma-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gamma-security-basics/",
+  "download_url": "https://claudskills.com/skills/gamma-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement security best practices for Gamma integration. Use when securing API keys, implementing access controls, or auditing Gamma security configuration. Trigger with phrases like \"gamma security\", \"gamma API key security\", \"gamma secure\", \"gamma credentials\", \"gamma access control\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

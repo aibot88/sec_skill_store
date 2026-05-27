@@ -1,0 +1,18 @@
+{
+  "name": "claude-authenticity",
+  "slug": "claude-authenticity",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/claude-authenticity/",
+  "download_url": "https://claudskills.com/skills/claude-authenticity/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect whether an API endpoint is backed by genuine Claude (not a wrapper, proxy, or impersonator) using 9 weighted rule-based checks that mirror the claude-verify project. Also extracts injected system prompts from providers that override Claude's identity. Fully self-contained — copy the code below and run, no extra packages beyond httpx. Use when the user wants to verify a Claude API key or endpoint, check if a third-party Claude service is authentic, audit API providers for Claude authenticity, test multiple models in parallel, or discover what system prompt a provider has injected.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

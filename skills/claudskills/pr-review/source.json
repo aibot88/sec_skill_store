@@ -1,0 +1,18 @@
+{
+  "name": "pr-review",
+  "slug": "pr-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pr-review/",
+  "download_url": "https://claudskills.com/skills/pr-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Review pull requests for the MiniMax Skills repository. Use when reviewing PRs, validating new skill submissions, or checking existing skills for compliance. Run the validation script first for hard checks, then apply quality guidelines for content review. Triggers: PR review, pull request, validate skill, check skill.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

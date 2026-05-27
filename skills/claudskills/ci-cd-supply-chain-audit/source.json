@@ -1,0 +1,18 @@
+{
+  "name": "ci-cd-supply-chain-audit",
+  "slug": "ci-cd-supply-chain-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ci-cd-supply-chain-audit/",
+  "download_url": "https://claudskills.com/skills/ci-cd-supply-chain-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill to audit CI/CD workflows, dependencies, build scripts, releases, artifacts, and package publishing. Do not use it for runtime application authz review.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

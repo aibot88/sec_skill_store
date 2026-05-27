@@ -1,0 +1,18 @@
+{
+  "name": "South African Healthcare Landscape",
+  "slug": "sa",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sa/",
+  "download_url": "https://claudskills.com/skills/sa/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "The SA two-tier healthcare system, NHI, medical aid schemes, regulatory bodies, public sector structure, private hospital groups, and the policy environment.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

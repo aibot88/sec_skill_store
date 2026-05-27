@@ -1,0 +1,18 @@
+{
+  "name": "testing-api-security-with-owasp-top-10",
+  "slug": "testing-api-security-with-owasp-top-10",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/testing-api-security-with-owasp-top-10/",
+  "download_url": "https://claudskills.com/skills/testing-api-security-with-owasp-top-10/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Systematically assessing REST and GraphQL API endpoints against the OWASP API Security Top 10 risks using automated",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

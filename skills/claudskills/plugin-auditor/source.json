@@ -1,0 +1,18 @@
+{
+  "name": "Plugin Auditor",
+  "slug": "plugin-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/plugin-auditor/",
+  "download_url": "https://claudskills.com/skills/plugin-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automatically audits Claude Code plugins for security vulnerabilities, best practices, CLAUDE.md compliance, and quality standards when user mentions audit plugin, security review, or best practices check. Specific to claude-code-plugins repository standards.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

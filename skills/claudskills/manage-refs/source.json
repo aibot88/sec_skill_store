@@ -1,0 +1,18 @@
+{
+  "name": "manage-refs",
+  "slug": "manage-refs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/manage-refs/",
+  "download_url": "https://claudskills.com/skills/manage-refs/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Cross-cutting reference manager for medical manuscripts. Single entry point for citation-key validation, journal-CSL pandoc rendering, manuscript ↔ DOCX cross-reference QC, marker conversion (``[N]`` ↔ ``[@key]``), and native Zotero CWYW field-code injection. Replaces the inline reference-handling that previously lived in ``/write-paper`` Phase 7.6 and is reused by ``/revise``, ``/peer-review``, ``/sync-submission``, and any skill that produces a journal submission. Audit-only verification stays in ``/verify-refs`` — this skill writes (renders, injects, converts); that skill only reads.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

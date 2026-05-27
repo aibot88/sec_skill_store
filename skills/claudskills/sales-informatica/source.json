@@ -1,0 +1,18 @@
+{
+  "name": "sales-informatica",
+  "slug": "sales-informatica",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-informatica/",
+  "download_url": "https://claudskills.com/skills/sales-informatica/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Informatica IDMC platform help — enterprise iPaaS + data management cloud, Cloud Data Integration, Cloud Application Integration, API Center, Data Catalog, Data Quality, MDM, B2B Gateway, AI Agent Engineering, IPU consumption pricing, REST API v2/v3. Use when Informatica IDMC mapping or task keeps failing, CDI job is slow and IPU consumption is spiraling, Secure Agent is offline or can't reach source systems, REST V2 connector won't authenticate to a REST API, evaluating Informatica vs Boomi vs MuleSoft vs Talend, migrating off PowerCenter to IDMC, or configuring MDM golden records and match rules. Do NOT use for simple Zapier/Make automations (use /sales-integration) or Boomi-specific questions (use /sales-boomi).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

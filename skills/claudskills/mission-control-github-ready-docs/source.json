@@ -1,0 +1,18 @@
+{
+  "name": "mission-control-github-ready-docs",
+  "slug": "mission-control-github-ready-docs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mission-control-github-ready-docs/",
+  "download_url": "https://claudskills.com/skills/mission-control-github-ready-docs/SKILL.md",
+  "external_source_url": "",
+  "license": "AGPL-3.0",
+  "description": "Prepare Mission Control docs for public GitHub. Use when documentation should be cleaned for publication, internal AI notes removed, secrets and private paths scrubbed, and install or run guidance made public-ready.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "security-guardian",
+  "slug": "security-guardian-bikach-skills-claude-code-02e70c3a",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-guardian-bikach-skills-claude-code-02e70c3a/",
+  "download_url": "https://claudskills.com/skills/security-guardian-bikach-skills-claude-code-02e70c3a/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert en sécurité applicative pour détecter les vulnérabilités, auditer le code, et guider les bonnes pratiques de sécurité. OWASP Top 10, authentification, autorisation, cryptographie, gestion de secrets. Utiliser pour audits sécurité, reviews de code sensible, conception de features sécurisées, ou résolution de failles.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

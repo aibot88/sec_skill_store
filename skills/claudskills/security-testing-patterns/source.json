@@ -1,0 +1,18 @@
+{
+  "name": "security-testing-patterns",
+  "slug": "security-testing-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-testing-patterns/",
+  "download_url": "https://claudskills.com/skills/security-testing-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Security testing patterns including SAST, DAST, penetration testing, and vulnerability assessment techniques. Use when implementing security testing pipelines, conducting security audits, or validating application security controls.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "aws-iam-least-privilege-review",
+  "slug": "aws-iam-least-privilege-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-iam-least-privilege-review/",
+  "download_url": "https://claudskills.com/skills/aws-iam-least-privilege-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review AWS IAM identity policies, trust policies, resource policies, permission boundaries, SCPs, session policies, role design, pass-role, federation, and Access Analyzer findings for least-privilege risk. Prefer KMS/secrets steward for key/secret lifecycle design and S3 perimeter governor for S3 exposure/data-perimeter posture unless the request is primarily policy surgery.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

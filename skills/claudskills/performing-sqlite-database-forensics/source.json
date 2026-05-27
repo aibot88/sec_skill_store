@@ -1,0 +1,18 @@
+{
+  "name": "performing-sqlite-database-forensics",
+  "slug": "performing-sqlite-database-forensics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-sqlite-database-forensics/",
+  "download_url": "https://claudskills.com/skills/performing-sqlite-database-forensics/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Perform forensic analysis of SQLite databases to recover deleted records from freelists and WAL files, decode",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

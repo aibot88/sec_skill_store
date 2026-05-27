@@ -1,0 +1,18 @@
+{
+  "name": "huggingface-llm-trainer",
+  "slug": "huggingface-llm-trainer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/huggingface-llm-trainer/",
+  "download_url": "https://claudskills.com/skills/huggingface-llm-trainer/SKILL.md",
+  "external_source_url": "",
+  "license": "Complete terms in LICENSE.txt",
+  "description": "Train or fine-tune language and vision models using TRL (Transformer Reinforcement Learning) or Unsloth with Hugging Face Jobs infrastructure. Covers SFT, DPO, GRPO and reward modeling training methods, plus GGUF conversion for local deployment. Includes guidance on the TRL Jobs package, UV scripts with PEP 723 format, dataset preparation and validation, hardware selection, cost estimation, Trackio monitoring, Hub authentication, model selection/leaderboards and model persistence. Use for tasks involving cloud GPU training, GGUF conversion, or when users mention training on Hugging Face Jobs without local GPU setup.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ai-code-reviewer",
+  "slug": "ai-code-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-code-reviewer/",
+  "download_url": "https://claudskills.com/skills/ai-code-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "WHEN: Deep AI-powered code analysis, multi-model code review, security scanning with Codex and Gemini WHAT: Comprehensive code review using external AI models with severity-based findings, deduplication, and secret detection WHEN NOT: Simple lint checks -> code-reviewer, Quick security only -> security-scanner, Style formatting -> code-quality-checker",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

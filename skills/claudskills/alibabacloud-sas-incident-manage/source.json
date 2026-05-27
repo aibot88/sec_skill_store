@@ -1,0 +1,18 @@
+{
+  "name": "alibabacloud-sas-incident-manage",
+  "slug": "alibabacloud-sas-incident-manage",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibabacloud-sas-incident-manage/",
+  "download_url": "https://claudskills.com/skills/alibabacloud-sas-incident-manage/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Alibaba Cloud Security Center incident management skill. Query security incidents, threat trends, and incident details. Triggers: \"云安全中心\", \"安全事件\", \"事件查询\", \"安全态势\", \"威胁事件\", \"cloud-siem\", \"Agentic-soc\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

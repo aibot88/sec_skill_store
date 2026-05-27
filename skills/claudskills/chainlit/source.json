@@ -1,0 +1,18 @@
+{
+  "name": "chainlit",
+  "slug": "chainlit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chainlit/",
+  "download_url": "https://claudskills.com/skills/chainlit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guidance for building conversational AI applications with Chainlit framework in Python. Use when (1) creating chat interfaces for LLM applications, (2) building apps with OpenAI, LangChain, LlamaIndex, or Mistral AI, (3) implementing streaming responses, (4) adding UI elements like images, files, charts, (5) handling user file uploads, (6) implementing authentication (OAuth, password), (7) creating multi-step workflows with visible steps, (8) building RAG applications with document upload, or (9) deploying chat apps to web, Slack, Discord, or Teams.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

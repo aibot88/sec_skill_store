@@ -1,0 +1,18 @@
+{
+  "name": "mob",
+  "slug": "mob",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mob/",
+  "download_url": "https://claudskills.com/skills/mob/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user wants to set, change, or clear git commit co-authors for pair or mob programming.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

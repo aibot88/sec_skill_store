@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "calef-us-federal-tax-assistant-skill-.",
+  "source": "github",
+  "source_url": "https://github.com/calef/us-federal-tax-assistant-skill/blob/2e563b091fad283f6fb0a7a31f441e72197054df/SKILL.md",
+  "download_url": "https://github.com/calef/us-federal-tax-assistant-skill/blob/2e563b091fad283f6fb0a7a31f441e72197054df/SKILL.md",
+  "external_source_url": "https://github.com/calef/us-federal-tax-assistant-skill/blob/2e563b091fad283f6fb0a7a31f441e72197054df/SKILL.md",
+  "license": "",
+  "description": "Claude Code skill for preparing US federal individual income tax returns",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "calef/us-federal-tax-assistant-skill",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

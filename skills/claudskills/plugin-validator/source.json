@@ -1,0 +1,18 @@
+{
+  "name": "Plugin Validator",
+  "slug": "plugin-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/plugin-validator/",
+  "download_url": "https://claudskills.com/skills/plugin-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automatically validates Claude Code plugin structure, schemas, and compliance when user mentions validate plugin, check plugin, or plugin errors. Runs comprehensive validation specific to claude-code-plugins repository standards.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "plugins-extensions",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

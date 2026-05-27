@@ -1,0 +1,18 @@
+{
+  "name": "adding-new-metric",
+  "slug": "adding-new-metric",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/adding-new-metric/",
+  "download_url": "https://claudskills.com/skills/adding-new-metric/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guides systematic implementation of new sustainability metrics in OSS Sustain Guard using the plugin-based metric system. Use when adding metric functions to evaluate project health aspects like issue responsiveness, test coverage, or security response time.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

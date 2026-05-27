@@ -1,0 +1,18 @@
+{
+  "name": "chrome-ext-security",
+  "slug": "chrome-ext-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chrome-ext-security/",
+  "download_url": "https://claudskills.com/skills/chrome-ext-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when working on security aspects of a Chrome extension or when the user asks about Chrome extension security best practices. Trigger when: implementing Content Security Policy in extensions, \"extension CSP\", \"eval in extension\", \"content script security\", \"extension XSS\", \"remote code in extension\", \"MV3 security\", \"unsafe-eval\", \"content script isolation\", \"DOM safety in extension\", \"Trusted Types\", \"extension sandbox\", \"chrome extension security audit\", \"innerHTML in extension\", \"message validation\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

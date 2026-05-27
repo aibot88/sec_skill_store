@@ -1,0 +1,18 @@
+{
+  "name": "hummingbird",
+  "slug": "hummingbird",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hummingbird/",
+  "download_url": "https://claudskills.com/skills/hummingbird/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guidance on Hummingbird 2 web framework. Use when developers mention: (1) Hummingbird, HB, or Hummingbird 2, (2) Swift web server or HTTP server, (3) server-side Swift routing or middleware, (4) building REST APIs in Swift, (5) RequestContext or ChildRequestContext, (6) HummingbirdAuth or authentication middleware, (7) HummingbirdWebSocket, (8) HummingbirdFluent or database integration, (9) ResponseGenerator or EditedResponse.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

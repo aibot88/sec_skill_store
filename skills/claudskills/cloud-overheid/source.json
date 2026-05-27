@@ -1,0 +1,18 @@
+{
+  "name": "cloud-overheid",
+  "slug": "cloud-overheid",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloud-overheid/",
+  "download_url": "https://claudskills.com/skills/cloud-overheid/SKILL.md",
+  "external_source_url": "",
+  "license": "EUPL-1.2",
+  "description": "Helpt bij het beoordelen en implementeren van cloudoplossingen voor de Nederlandse overheid conform het rijksbrede cloudbeleid, BIO cloud-controls, SLM en de strategische leveranciersbeoordeling. Biedt richtlijnen voor risicoafweging, exit-strategie, datasoevereiniteit en compliance. Gebruik deze skill wanneer de gebruiker vraagt over 'cloud overheid', 'cloudbeleid', 'cloud policy government', 'SaaS overheid', 'IaaS overheid', 'PaaS overheid', 'cloud risico', 'cloud risk assessment', 'cloud classificatie', 'BIO cloud', 'BIO cloud controls', 'cloud beveiliging overheid', 'cloud security government', 'cloudmigratie overheid', 'cloud migration government', 'exit-strategie cloud', 'vendor lock-in overheid', 'datasoevereiniteit', 'data sovereignty', 'cloud first', 'cloud tenzij', 'SLM', 'Strategisch Leveranciersmanagement', 'hyperscaler overheid', 'AWS overheid', 'Azure overheid', 'Google Cloud overheid', 'sovereign cloud', 'EUCS', 'EU Cloud Certification Scheme', 'Haven', 'container platform overheid', 'Kubernetes overheid', 'multicloud overheid', of wanneer de gebruiker een clouddienst wil inzetten, beoordelen of migreren voor een overheidsorganisatie.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

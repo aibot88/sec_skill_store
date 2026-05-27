@@ -1,0 +1,18 @@
+{
+  "name": "co7-network-effects",
+  "slug": "co7-network-effects",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/co7-network-effects/",
+  "download_url": "https://claudskills.com/skills/co7-network-effects/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply CO7 Network Effects to exploit increasing value as user base or connections grow.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

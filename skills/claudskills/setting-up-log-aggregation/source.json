@@ -1,0 +1,18 @@
+{
+  "name": "setting-up-log-aggregation",
+  "slug": "setting-up-log-aggregation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/setting-up-log-aggregation/",
+  "download_url": "https://claudskills.com/skills/setting-up-log-aggregation/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Execute use when setting up log aggregation solutions using ELK, Loki, or Splunk. Trigger with phrases like \"setup log aggregation\", \"deploy ELK stack\", \"configure Loki\", or \"install Splunk\". Generates production-ready configurations for data ingestion, processing, storage, and visualization with proper security and scalability.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

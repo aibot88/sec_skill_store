@@ -1,0 +1,18 @@
+{
+  "name": "snowflake-reliability-patterns",
+  "slug": "snowflake-reliability-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/snowflake-reliability-patterns/",
+  "download_url": "https://claudskills.com/skills/snowflake-reliability-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Snowflake reliability patterns: replication, failover, Time Travel recovery, and application-level resilience for Snowflake integrations. Use when building fault-tolerant pipelines, configuring disaster recovery, or adding resilience to production Snowflake services. Trigger with phrases like \"snowflake reliability\", \"snowflake failover\", \"snowflake replication\", \"snowflake disaster recovery\", \"snowflake Time Travel\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

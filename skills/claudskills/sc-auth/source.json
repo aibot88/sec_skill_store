@@ -1,0 +1,18 @@
+{
+  "name": "sc-auth",
+  "slug": "sc-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sc-auth/",
+  "download_url": "https://claudskills.com/skills/sc-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Authentication flaw detection — weak passwords, broken auth, credential stuffing, and bypass vectors",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

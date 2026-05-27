@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-personhood-sybil",
+  "slug": "agentprivacy-personhood-sybil",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-personhood-sybil/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-personhood-sybil/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Personhood verification and Sybil resistance for 0xagentprivacy. Activates when discussing ∃! (unique existence) binding, proof-of-personhood without identity disclosure, Sybil attack prevention, biometric hash binding, or how to prove 'one human, one credential' without surveillance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

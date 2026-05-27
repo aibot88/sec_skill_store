@@ -1,0 +1,18 @@
+{
+  "name": "jwt-token-validator",
+  "slug": "jwt-token-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jwt-token-validator/",
+  "download_url": "https://claudskills.com/skills/jwt-token-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Jwt Token Validator - Auto-activating skill for Security Fundamentals. Triggers on: jwt token validator, jwt token validator Part of the Security Fundamentals skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

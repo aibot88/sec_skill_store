@@ -1,0 +1,18 @@
+{
+  "name": "skillscan",
+  "slug": "skillscan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skillscan/",
+  "download_url": "https://claudskills.com/skills/skillscan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security gate for skills. Every new skill MUST pass SkillScan before use. Activate on any install, load, add, evaluate, or safety question about a skill. On first load, run first-run to scan all existing skills. Blocks HIGH/CRITICAL skills. No exceptions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

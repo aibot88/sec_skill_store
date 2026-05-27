@@ -1,0 +1,18 @@
+{
+  "name": "lwc-security",
+  "slug": "lwc-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lwc-security/",
+  "download_url": "https://claudskills.com/skills/lwc-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing or reviewing Lightning Web Components for DOM safety, Lightning Web Security boundaries, third-party library handling, and secure server-side data access from LWC. Triggers: 'innerHTML in lwc', 'Lightning Web Security', 'document.querySelector', 'light DOM security', 'secure apex class for lwc'. NOT for org-wide sharing architecture or Apex-only security reviews when no LWC surface is involved.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

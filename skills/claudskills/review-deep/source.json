@@ -1,0 +1,18 @@
+{
+  "name": "review-deep",
+  "slug": "review-deep",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/review-deep/",
+  "download_url": "https://claudskills.com/skills/review-deep/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive pre-release review pipeline. Runs /review-health, /review-arch, /review-security, /review-perf, /review-a11y, /review-test, /review-doc, and /review-release in sequence. Thin orchestrator — each sub-skill keeps its normal interactive behavior. Auto-detects phases that do not apply and asks the user to confirm skipping them. Ends with a consolidated report.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

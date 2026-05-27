@@ -1,0 +1,18 @@
+{
+  "name": "scitex-ssh",
+  "slug": "scitex-ssh",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scitex-ssh/",
+  "download_url": "https://claudskills.com/skills/scitex-ssh/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Persistent, auto-reconnecting SSH reverse tunnels for NAT traversal — installs an `autossh` systemd unit on the local host so a bastion/relay server can SSH back in even through firewalls and dynamic IPs. Python API — `setup(port, bastion_server=, secret_key_path=)`, `remove(port)`, `status(port=None)`, `get_version()`. Defaults read from env vars `SCITEX_SSH_BASTION_SERVER` and `SCITEX_SSH_SECRET_KEY_PATH`. 3 MCP tools — `tunnel_setup`, `tunnel_remove`, `tunnel_status`. Bundled bash scripts (`setup-autossh-service.sh` / `remove-autossh-service.sh`) install/remove `autossh-tunnel-<port>.service` via systemctl. Drop-in replacement for hand-writing `autossh -M 0 -NR port:localhost:22 user@host` commands, crafting `/etc/systemd/system/autossh-tunnel-*.service` unit files by hand, `sshuttle`, and manual `ssh -R` plus `tmux` reconnect loops. Use whenever the user asks to \"set up a reverse SSH tunnel\", \"keep SSH alive through NAT\", \"access a lab machine from outside\", \"tunnel through a bastion\", \"autossh systemd service\", \"check tunnel status\", \"remove a tunnel\", \"expose this machine via a jump host\", or mentions bastion server, NAT traversal, autossh, reverse SSH, HPC login node.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

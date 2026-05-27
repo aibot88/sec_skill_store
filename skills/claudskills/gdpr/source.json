@@ -1,0 +1,18 @@
+{
+  "name": "gdpr",
+  "slug": "gdpr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gdpr/",
+  "download_url": "https://claudskills.com/skills/gdpr/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "GDPR and CCPA/CPRA privacy compliance audit for codebases. Inventories PII fields (email, phone, SSN, IP, device ID, geolocation, biometrics, behavioral data), maps data collection points (forms, APIs, cookies, analytics, error tracking), audits consent mechanisms (cookie banners, opt-in, pre-checked boxes, consent withdrawal), verifies data subject rights implementation (right to access, erasure, rectification, portability, opt-out, Do Not Sell), traces third-party data sharing (Google Analytics, Facebook Pixel, Stripe, SendGrid, Sentry), and checks data retention policies and automated purging. Use when auditing privacy compliance, building data export or deletion endpoints, reviewing cookie consent, or assessing DSAR readiness.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

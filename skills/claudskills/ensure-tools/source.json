@@ -1,0 +1,18 @@
+{
+  "name": "ensure-tools",
+  "slug": "ensure-tools",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ensure-tools/",
+  "download_url": "https://claudskills.com/skills/ensure-tools/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Verifies if a required CLI tool is installed and offers to install it. Use when about to execute a command whose binary might not be installed. Trigger: \"¿tienes X instalado?\", \"instala Y si no está\", \"check dependencies\", \"setup environment\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

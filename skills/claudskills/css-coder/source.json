@@ -1,0 +1,18 @@
+{
+  "name": "css-coder",
+  "slug": "css-coder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/css-coder/",
+  "download_url": "https://claudskills.com/skills/css-coder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CSS authoring guidance emphasizing web standards, accessibility, and performance. Use when writing, reviewing, or refactoring CSS. Provides patterns, snippets, and conventions that prioritize native CSS over frameworks, semantic structure, and maintainable code. Refer to references/patterns.md for specific patterns and snippets.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

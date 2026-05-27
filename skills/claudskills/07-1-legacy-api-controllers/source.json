@@ -1,0 +1,18 @@
+{
+  "name": "api-controller-generator",
+  "slug": "07-1-legacy-api-controllers",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/07-1-legacy-api-controllers/",
+  "download_url": "https://claudskills.com/skills/07-1-legacy-api-controllers/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generates RESTful API Controllers with proper routing, versioning, authorization, and MediatR integration. Follows REST conventions and Clean Architecture patterns.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

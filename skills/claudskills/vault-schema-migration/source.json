@@ -1,0 +1,18 @@
+{
+  "name": "myco:vault-schema-migration",
+  "slug": "vault-schema-migration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vault-schema-migration/",
+  "download_url": "https://claudskills.com/skills/vault-schema-migration/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill whenever you need to add, modify, or remove tables, columns, or indexes in the Myco vault SQLite schema — even if the user just asks to \"add a column\" or \"create a new table.\" The vault uses a versioned createSchema migration chain where each schema version is a numbered step that builds on the previous one. Because user vaults accumulate real data across machines, any schema change that breaks the migration chain can corrupt or destroy vault data. This skill covers how to add a new version to the chain, write safe migration SQL, handle backfill steps, bump the schema version constant, sync D1 databases, and verify the migration works end-to-end before shipping.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "documenso-install-auth",
+  "slug": "documenso-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/documenso-install-auth/",
+  "download_url": "https://claudskills.com/skills/documenso-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Documenso SDK/API authentication. Use when setting up a new Documenso integration, configuring API keys, or initializing Documenso in your project. Trigger with phrases like \"install documenso\", \"setup documenso\", \"documenso auth\", \"configure documenso API key\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

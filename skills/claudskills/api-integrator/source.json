@@ -1,0 +1,18 @@
+{
+  "name": "api-integrator",
+  "slug": "api-integrator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-integrator/",
+  "download_url": "https://claudskills.com/skills/api-integrator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Integrate external REST and GraphQL APIs with proper authentication (Bearer, Basic, OAuth), error handling, retry logic, and JSON schema validation. Use when making API calls, database queries, or integrating external services like Stripe, Twilio, AWS. Achieves 10-30x cost savings through direct execution vs LLM-based calls. Triggers on \"API call\", \"REST API\", \"GraphQL\", \"external service\", \"API integration\", \"HTTP request\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

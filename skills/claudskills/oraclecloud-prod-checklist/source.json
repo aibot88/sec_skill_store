@@ -1,0 +1,18 @@
+{
+  "name": "oraclecloud-prod-checklist",
+  "slug": "oraclecloud-prod-checklist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oraclecloud-prod-checklist/",
+  "download_url": "https://claudskills.com/skills/oraclecloud-prod-checklist/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Pre-production readiness checklist for OCI — backup policies, security audit, key rotation, encryption, and Cloud Guard. Use when preparing an OCI environment for production workloads or auditing an existing deployment. Trigger with \"oraclecloud prod checklist\", \"oci production ready\", \"oci security audit\", \"oci well-architected\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

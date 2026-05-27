@@ -1,0 +1,18 @@
+{
+  "name": "python-fastapi-development",
+  "slug": "python-fastapi-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/python-fastapi-development/",
+  "download_url": "https://claudskills.com/skills/python-fastapi-development/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Python FastAPI backend development with async patterns, SQLAlchemy, Pydantic, authentication, and production API patterns.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

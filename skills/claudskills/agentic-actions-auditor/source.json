@@ -1,0 +1,18 @@
+{
+  "name": "agentic-actions-auditor",
+  "slug": "agentic-actions-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentic-actions-auditor/",
+  "download_url": "https://claudskills.com/skills/agentic-actions-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audits GitHub Actions workflows for security vulnerabilities in AI agent integrations including Claude Code Action, Gemini CLI, OpenAI Codex, and GitHub AI Inference. Detects attack vectors where attacker-controlled input reaches AI agents running in CI/CD pipelines, including env var intermediary patterns, direct expression injection, dangerous sandbox configurations, and wildcard user allowlists. Use when reviewing workflow files that invoke AI coding agents, auditing CI/CD pipeline security for prompt injection risks, or evaluating agentic action configurations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

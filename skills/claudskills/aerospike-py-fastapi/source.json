@@ -1,0 +1,18 @@
+{
+  "name": "aerospike-py-fastapi",
+  "slug": "aerospike-py-fastapi",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aerospike-py-fastapi/",
+  "download_url": "https://claudskills.com/skills/aerospike-py-fastapi/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "MUST USE for building FastAPI/REST API applications with Aerospike database (aerospike-py Rust/PyO3 async client). Covers AsyncClient lifespan management, FastAPI Depends injection, aerospike_py exception-to-HTTP-status mapping (RecordNotFound→404, RecordExistsError→409, BackpressureError→503, AerospikeTimeoutError→504), POLICY_EXISTS_CREATE_ONLY/UPDATE_ONLY for CRUD semantics, NamedTuple attribute access (record.bins not tuple unpacking), client.ping() readiness probe, batch_read returning dict, batch_write with in_doubt retry signal, and global AerospikeError handler. Triggers on: FastAPI + Aerospike, REST API + aerospike-py, CRUD API with Aerospike, client.ping() health probe, batch_read/batch_write endpoint, web server/HTTP service backed by Aerospike NoSQL, uvicorn + Aerospike.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

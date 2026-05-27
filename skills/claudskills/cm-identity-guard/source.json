@@ -1,0 +1,18 @@
+{
+  "name": "cm-identity-guard",
+  "slug": "cm-identity-guard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cm-identity-guard/",
+  "download_url": "https://claudskills.com/skills/cm-identity-guard/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Verify and lock project identity before ANY git push, Cloudflare deploy, or Supabase operation. Essential when working with multiple GitHub accounts (personal + work), multiple Cloudflare accounts, or multiple Supabase/Neon projects. Prevents wrong-account deploys, cross-project secret leaks, and git history contamination.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

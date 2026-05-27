@@ -1,0 +1,18 @@
+{
+  "name": "sci-paper-reviewer",
+  "slug": "sci-paper-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sci-paper-reviewer/",
+  "download_url": "https://claudskills.com/skills/sci-paper-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Simulates a strict SCI peer-review workflow; trigger when a user uploads or pastes a manuscript (PDF/DOC/DOCX/TXT) and requests an innovation score (1–12) plus experimental-logic vulnerability checks and revision suggestions.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

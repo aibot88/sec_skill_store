@@ -1,0 +1,18 @@
+{
+  "name": "performing-api-security-testing-with-postman",
+  "slug": "performing-api-security-testing-with-postman",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-api-security-testing-with-postman/",
+  "download_url": "https://claudskills.com/skills/performing-api-security-testing-with-postman/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Uses Postman to perform structured API security testing by building collections that test for OWASP API Security",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:51+00:00"
+}

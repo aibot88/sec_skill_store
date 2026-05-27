@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "th3rdai-codecompanion-.",
+  "source": "github",
+  "source_url": "https://github.com/Th3rdai/CodeCompanion/blob/87ebdc809f070c03a4bdbbda24d181e7d8400e57/AGENTSKILL.md",
+  "download_url": "https://github.com/Th3rdai/CodeCompanion/blob/87ebdc809f070c03a4bdbbda24d181e7d8400e57/AGENTSKILL.md",
+  "external_source_url": "https://github.com/Th3rdai/CodeCompanion/blob/87ebdc809f070c03a4bdbbda24d181e7d8400e57/AGENTSKILL.md",
+  "license": "",
+  "description": "Th3rdAI Code Companion — helps vibe coders understand, review, and improve AI-generated code using local Ollama LLMs",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Th3rdai/CodeCompanion",
+    "path": "AGENTSKILL.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

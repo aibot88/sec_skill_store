@@ -1,0 +1,18 @@
+{
+  "name": "opennews",
+  "slug": "opennews",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/opennews/",
+  "download_url": "https://claudskills.com/skills/opennews/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Real-time crypto & financial news aggregator — 72+ data sources across 5 categories (News: Bloomberg, Reuters, FT, CNBC, CoinDesk, Twitter/X + 47 more; Listing: Binance, Coinbase, OKX + 6 more; OnChain: whale & KOL trades; Meme: social sentiment; Market: price/funding/liquidation alerts). AI-analyzed with impact score, trading signals, and bilingual summaries.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

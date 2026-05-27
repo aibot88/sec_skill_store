@@ -1,0 +1,18 @@
+{
+  "name": "vault-transit-secrets-envelope-verifier",
+  "slug": "vault-transit-secrets-envelope-verifier",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vault-transit-secrets-envelope-verifier/",
+  "download_url": "https://claudskills.com/skills/vault-transit-secrets-envelope-verifier/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Verifies encryption workflows with HashiCorp Vault Transit endpoints like `/encrypt`, `/decrypt`, and `/rewrap`, plus key metadata inspection. Useful for agents reviewing whether application secrets handling is actually using envelope encryption correctly instead of assuming the library setup is safe.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

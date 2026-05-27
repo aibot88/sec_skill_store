@@ -1,0 +1,18 @@
+{
+  "name": "node-connect",
+  "slug": "node-connect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/node-connect/",
+  "download_url": "https://claudskills.com/skills/node-connect/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Diagnose OpenClaw node connection and pairing failures for Android, iOS, and macOS companion apps. Use when QR/setup code/manual connect fails, local Wi-Fi works but VPS/tailnet does not, or errors mention pairing required, unauthorized, bootstrap token invalid or expired, gateway.bind, gateway.remote.url, Tailscale, or plugins.entries.device-pair.config.publicUrl.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

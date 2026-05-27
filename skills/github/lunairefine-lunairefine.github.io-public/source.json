@@ -1,0 +1,19 @@
+{
+  "name": "public",
+  "slug": "lunairefine-lunairefine.github.io-public",
+  "source": "github",
+  "source_url": "https://github.com/Lunairefine/lunairefine.github.io/blob/e3e599364b2363e40d143f463983fd9aee17bc2c/public/skill.md",
+  "download_url": "https://github.com/Lunairefine/lunairefine.github.io/blob/e3e599364b2363e40d143f463983fd9aee17bc2c/public/skill.md",
+  "external_source_url": "https://github.com/Lunairefine/lunairefine.github.io/blob/e3e599364b2363e40d143f463983fd9aee17bc2c/public/skill.md",
+  "license": "",
+  "description": "i hate it, i want just making coffee",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Lunairefine/lunairefine.github.io",
+    "path": "public/skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

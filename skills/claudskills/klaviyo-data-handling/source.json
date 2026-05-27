@@ -1,0 +1,18 @@
+{
+  "name": "klaviyo-data-handling",
+  "slug": "klaviyo-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/klaviyo-data-handling/",
+  "download_url": "https://claudskills.com/skills/klaviyo-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Klaviyo data privacy, GDPR/CCPA compliance, and PII handling patterns. Use when handling profile data, implementing right-to-deletion, configuring data retention, or ensuring compliance with privacy regulations. Trigger with phrases like \"klaviyo data\", \"klaviyo PII\", \"klaviyo GDPR\", \"klaviyo data retention\", \"klaviyo privacy\", \"klaviyo CCPA\", \"klaviyo delete profile\", \"klaviyo data privacy\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

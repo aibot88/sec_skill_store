@@ -1,0 +1,18 @@
+{
+  "name": "hwpx-core",
+  "slug": "hwpx-core",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hwpx-core/",
+  "download_url": "https://claudskills.com/skills/hwpx-core/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "HWPX XML-first document authoring skill for create/edit/read/validate workflows and template-driven generation. Use when you need deterministic Korean document layout control via section0.xml/header.xml and script-based build pipelines instead of opaque editors.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

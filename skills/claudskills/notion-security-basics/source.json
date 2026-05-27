@@ -1,0 +1,18 @@
+{
+  "name": "notion-security-basics",
+  "slug": "notion-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/notion-security-basics/",
+  "download_url": "https://claudskills.com/skills/notion-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Notion API security best practices for integration tokens, OAuth2 flows, least-privilege capabilities, and page-level access control. Use when securing integration tokens, configuring OAuth2 for public integrations, rotating credentials, or auditing which pages an integration can access. Trigger with phrases like \"notion security\", \"notion secrets\", \"secure notion\", \"notion API key security\", \"notion token rotation\", \"notion OAuth2\", \"notion permissions audit\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

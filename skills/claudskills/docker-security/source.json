@@ -1,0 +1,18 @@
+{
+  "name": "docker-security",
+  "slug": "docker-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docker-security/",
+  "download_url": "https://claudskills.com/skills/docker-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Secure Docker containers and images with hardening, scanning, and secrets management",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

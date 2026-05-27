@@ -1,0 +1,18 @@
+{
+  "name": "AtomicCommit Pro",
+  "slug": "skill-md",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-md/",
+  "download_url": "https://claudskills.com/skills/skill-md/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Es un motor de gestión de versiones que transforma cambios de código complejos en un historial atómico y semántico mediante la disección de fragmentos (hunks) y el cumplimiento estricto de Conventional Commits en español. Esta skill debe activarse de forma automática siempre que el usuario solicite en estos contextos \"guardar cambios\", \"hacer commit\", \"finalizar una tarea\" o \"guardar avances",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

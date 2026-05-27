@@ -1,0 +1,18 @@
+{
+  "name": "workflow-rules",
+  "slug": "workflow-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/workflow-rules/",
+  "download_url": "https://claudskills.com/skills/workflow-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Returns the universal governance spec for custom workflow commands. Hard rules, briefing templates, launch mechanics, and pulse setup. Invoked by user-authored shortcut commands that cannot read launch.md directly.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

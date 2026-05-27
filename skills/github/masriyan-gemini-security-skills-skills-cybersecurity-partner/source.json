@@ -1,0 +1,19 @@
+{
+  "name": "cybersecurity-partner",
+  "slug": "masriyan-gemini-security-skills-skills-cybersecurity-partner",
+  "source": "github",
+  "source_url": "https://github.com/Masriyan/gemini-security-skills/blob/9f594e551430f6133a19b576727fba3e7ffae969/skills/cybersecurity-partner/SKILL.md",
+  "download_url": "https://github.com/Masriyan/gemini-security-skills/blob/9f594e551430f6133a19b576727fba3e7ffae969/skills/cybersecurity-partner/SKILL.md",
+  "external_source_url": "https://github.com/Masriyan/gemini-security-skills/blob/9f594e551430f6133a19b576727fba3e7ffae969/skills/cybersecurity-partner/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Masriyan/gemini-security-skills",
+    "path": "skills/cybersecurity-partner/SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

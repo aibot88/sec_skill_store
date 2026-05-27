@@ -1,0 +1,18 @@
+{
+  "name": "run-day-2-openclaw-operations-with-production-runbooks-and-reusa",
+  "slug": "run-day-2-openclaw-operations-with-production-runbooks-and-reusa",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/run-day-2-openclaw-operations-with-production-runbooks-and-reusa/",
+  "download_url": "https://claudskills.com/skills/run-day-2-openclaw-operations-with-production-runbooks-and-reusa/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use a practical OpenClaw operations runbook to stabilize long-running deployments, tune coordinator and worker patterns, and apply reusable prompt templates for monitoring, security, and cost control.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

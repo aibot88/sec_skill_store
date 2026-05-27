@@ -1,0 +1,18 @@
+{
+  "name": "detecting-stuxnet-style-attacks",
+  "slug": "detecting-stuxnet-style-attacks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-stuxnet-style-attacks/",
+  "download_url": "https://claudskills.com/skills/detecting-stuxnet-style-attacks/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill covers detecting sophisticated cyber-physical attacks that follow the Stuxnet attack pattern of modifying",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

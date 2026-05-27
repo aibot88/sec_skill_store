@@ -1,0 +1,18 @@
+{
+  "name": "job-market-intelligence",
+  "slug": "job-market-intelligence",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/job-market-intelligence/",
+  "download_url": "https://claudskills.com/skills/job-market-intelligence/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Uses Claude CLI (WebSearch tool) to find new Data Science and Gen AI job postings across Bengaluru, Hyderabad, Mumbai, and Delhi NCR, scores them by relevance and location weight, stores results in SQLite, generates HTML dashboards, and sends a WhatsApp summary. Use when asked about new job openings, where to apply, or the job market in DS/Gen AI.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

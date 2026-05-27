@@ -1,0 +1,18 @@
+{
+  "name": "spring-boot-dependency-injection",
+  "slug": "spring-boot-dependency-injection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spring-boot-dependency-injection/",
+  "download_url": "https://claudskills.com/skills/spring-boot-dependency-injection/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides dependency injection patterns for Spring Boot projects, including constructor-first design, optional collaborator handling, bean selection, and wiring validation. Use when creating services and configurations, replacing field injection, or troubleshooting ambiguous or fragile Spring wiring.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

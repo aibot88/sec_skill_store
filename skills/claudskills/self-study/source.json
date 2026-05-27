@@ -1,0 +1,18 @@
+{
+  "name": "self-study",
+  "slug": "self-study",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/self-study/",
+  "download_url": "https://claudskills.com/skills/self-study/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Facilitator for a student doing Agents 102 Bootstrap alone — no in-person trainer. Invoke on first session to set up the working directory and orient the student; invoke subsequent sessions with \"continue\" to pick up where they left off. Runs as the Teacher Claude alongside a separate Builder Claude where exercises execute. Manages progress tracking, the 4 Cs cadence per module, and Builder folder switches at pedagogically important seams. Do NOT invoke for curriculum authoring work — that's `/content-creation`.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "app-size-optimizer",
+  "slug": "app-size-optimizer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/app-size-optimizer/",
+  "download_url": "https://claudskills.com/skills/app-size-optimizer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyzes mobile app binary size -- asset audit for unused images and font subsetting, code stripping with ProGuard and tree-shaking, on-demand resources, dynamic feature modules, and app thinning strategies.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

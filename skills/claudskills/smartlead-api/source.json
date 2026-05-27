@@ -1,0 +1,18 @@
+{
+  "name": "smartlead-api",
+  "slug": "smartlead-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/smartlead-api/",
+  "download_url": "https://claudskills.com/skills/smartlead-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Smartlead API endpoint reference and patterns. Use for any Smartlead campaign, lead, email account, analytics, or inbox operation. Covers auth, rate limiting, and all commonly used endpoints.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

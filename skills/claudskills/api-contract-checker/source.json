@@ -1,0 +1,18 @@
+{
+  "name": "api-contract-checker",
+  "slug": "api-contract-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-contract-checker/",
+  "download_url": "https://claudskills.com/skills/api-contract-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate API changes against an expected contract. Use when a mid-level developer needs to detect breaking changes.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:50+00:00"
+}

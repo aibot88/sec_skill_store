@@ -1,0 +1,18 @@
+{
+  "name": "offensive-osint",
+  "slug": "offensive-osint",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/offensive-osint/",
+  "download_url": "https://claudskills.com/skills/offensive-osint/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive OSINT methodology skill for offensive security, red team intelligence gathering, and bug bounty reconnaissance. Covers domain recon, email harvesting, social media profiling, GitHub/code leaks, Shodan/Censys enumeration, breach data lookup, employee profiling, infrastructure mapping, cryptocurrency tracing, geospatial intelligence, and AI-assisted analysis workflows. Use when performing reconnaissance against a target domain or organization, investigating a person or entity, tracing cryptocurrency flows, geolocating images or events, or building an attack-surface map.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

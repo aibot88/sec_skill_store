@@ -1,0 +1,18 @@
+{
+  "name": "in10-red-teaming",
+  "slug": "in10-red-teaming",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/in10-red-teaming/",
+  "download_url": "https://claudskills.com/skills/in10-red-teaming/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply IN10 Red Teaming to organize adversarial review to find vulnerabilities through simulated attack.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

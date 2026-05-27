@@ -1,0 +1,18 @@
+{
+  "name": "agent-conversation-design",
+  "slug": "agent-conversation-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-conversation-design/",
+  "download_url": "https://claudskills.com/skills/agent-conversation-design/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when writing or auditing the conversational copy layer of a Salesforce bot or Agentforce agent: utterance authoring strategy, fallback message copy, escalation-criteria phrasing, and persona-consistent dialog scripting across channels. NOT for platform configuration (bot builder setup, topic metadata wiring, action mapping, or Agentforce deployment) — see architect/einstein-bot-architecture and agentforce/agentforce-persona-design for those concerns.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

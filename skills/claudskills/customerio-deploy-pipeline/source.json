@@ -1,0 +1,18 @@
+{
+  "name": "customerio-deploy-pipeline",
+  "slug": "customerio-deploy-pipeline",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/customerio-deploy-pipeline/",
+  "download_url": "https://claudskills.com/skills/customerio-deploy-pipeline/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Customer.io integrations to production cloud platforms. Use when deploying to Cloud Run, Vercel, AWS Lambda, or Kubernetes with proper secrets management and health checks. Trigger: \"deploy customer.io\", \"customer.io cloud run\", \"customer.io kubernetes\", \"customer.io lambda\", \"customer.io vercel\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "erick-mb-vehicles_fleet_api_project-skills",
+  "source": "github",
+  "source_url": "https://github.com/erick-mb/vehicles_fleet_api_project/blob/0f464af8e7787a508e0f10b035c333ba55a1728f/skills/frontend-skill.md",
+  "download_url": "https://github.com/erick-mb/vehicles_fleet_api_project/blob/0f464af8e7787a508e0f10b035c333ba55a1728f/skills/frontend-skill.md",
+  "external_source_url": "https://github.com/erick-mb/vehicles_fleet_api_project/blob/0f464af8e7787a508e0f10b035c333ba55a1728f/skills/frontend-skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "erick-mb/vehicles_fleet_api_project",
+    "path": "skills/frontend-skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

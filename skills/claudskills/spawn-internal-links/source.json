@@ -1,0 +1,18 @@
+{
+  "name": "spawn-internal-links",
+  "slug": "spawn-internal-links",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spawn-internal-links/",
+  "download_url": "https://claudskills.com/skills/spawn-internal-links/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Examine every existing page on the site, build a semantic map across pillars, and add missing internal links so the site becomes a semantic graph anchored on clear topical pillars. Use this skill whenever the user asks to \"add internal links\", \"build internal linking\", \"build a semantic graph\", \"link related pages\", \"strengthen topical authority\", \"fix orphan pages\", \"add pillar linking\", or wants hub-and-spoke linking between pillars, hubs, and supporting content. Output is an edit list (proposed link insertions) plus optionally direct edits to page source files.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

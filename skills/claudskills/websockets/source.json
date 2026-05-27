@@ -1,0 +1,18 @@
+{
+  "name": "setup-zoom-websockets",
+  "slug": "websockets",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/websockets/",
+  "download_url": "https://claudskills.com/skills/websockets/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reference skill for Zoom WebSockets. Use after routing to a low-latency event workflow when persistent connections, faster event delivery, or security constraints make WebSockets preferable to webhooks.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

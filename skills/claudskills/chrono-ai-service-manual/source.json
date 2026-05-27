@@ -1,0 +1,18 @@
+{
+  "name": "chrono-ai-service-manual",
+  "slug": "chrono-ai-service-manual",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chrono-ai-service-manual/",
+  "download_url": "https://claudskills.com/skills/chrono-ai-service-manual/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Unified operational manual for AI agents driving the Chrono AI service stack — NyxID (identity, services, orgs, OAuth clients, proxy) AND Ornn (skill lifecycle — search, pull, install, execute, build, upload, share). One skill, two halves, one identity bootstrap, one set of failure-mode diagnostics. Replaces the legacy `ornn-agent-manual-cli` and `ornn-agent-manual-http` skills. Pair `SKILL.md` with the bundled `references/*.md` files — the per-endpoint catalogues for both APIs, the CLI recipe sheet, the NyxID token model, and the `~/.ornn/installed-skills.json` registry contract.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

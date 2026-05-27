@@ -1,0 +1,18 @@
+{
+  "name": "coingecko-api",
+  "slug": "coingecko-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/coingecko-api/",
+  "download_url": "https://claudskills.com/skills/coingecko-api/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill should be used when the user asks for crypto prices, market data, market cap, trending coins, historical or OHLC data, token lookup by contract address, coin search, token logos, global crypto stats, or mentions CoinGecko API.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

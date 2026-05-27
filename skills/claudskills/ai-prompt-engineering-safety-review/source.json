@@ -1,0 +1,18 @@
+{
+  "name": "ai-prompt-engineering-safety-review",
+  "slug": "ai-prompt-engineering-safety-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-prompt-engineering-safety-review/",
+  "download_url": "https://claudskills.com/skills/ai-prompt-engineering-safety-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive AI prompt engineering safety review and improvement prompt. Analyzes prompts for safety, bias, security vulnerabilities, and effectiveness while providing detailed improvement recommendations with extensive frameworks, testing methodologies, and educational content.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "binary-search-trees",
+  "slug": "binary-search-trees",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/binary-search-trees/",
+  "download_url": "https://claudskills.com/skills/binary-search-trees/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when reasoning about binary search trees, red-black trees, ordered dynamic sets, predecessor or successor queries, transplant-based deletion, rotations, balance invariants, or production ordered-container choices.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

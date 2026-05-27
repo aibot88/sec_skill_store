@@ -1,0 +1,18 @@
+{
+  "name": "martech-access-governance-review",
+  "slug": "martech-access-governance-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/martech-access-governance-review/",
+  "download_url": "https://claudskills.com/skills/martech-access-governance-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing access governance across a marketing technology stack — OAuth grants and connected apps, API keys and tokens, CRM and marketing-automation role assignments, and integration scopes. Trigger when a user provides an OAuth connected-app inventory, an integration scope list, a CRM/MAP role matrix, an API-key inventory, or asks whether their martech integrations are over-permissioned, whether stale connectors still hold live tokens, or how to apply least privilege to their marketing stack.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

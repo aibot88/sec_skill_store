@@ -1,0 +1,18 @@
+{
+  "name": "attack-tree-construction",
+  "slug": "attack-tree-construction-gaitans-ai-mancare",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/attack-tree-construction-gaitans-ai-mancare/",
+  "download_url": "https://claudskills.com/skills/attack-tree-construction-gaitans-ai-mancare/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build comprehensive attack trees to visualize threat paths. Use when mapping attack scenarios, identifying defense gaps, or communicating security risks to stakeholders.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

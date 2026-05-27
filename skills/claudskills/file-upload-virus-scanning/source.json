@@ -1,0 +1,18 @@
+{
+  "name": "file-upload-virus-scanning",
+  "slug": "file-upload-virus-scanning",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/file-upload-virus-scanning/",
+  "download_url": "https://claudskills.com/skills/file-upload-virus-scanning/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing malware and content scanning for files uploaded to Salesforce (Files, Attachments, ContentVersion) — external scanning service callouts, quarantine patterns, and user-facing messaging. Triggers: 'virus scan salesforce upload', 'malware scan content version', 'quarantine uploaded file', 'clamav salesforce', 'file upload security'. NOT for field-level data validation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

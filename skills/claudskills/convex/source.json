@@ -1,0 +1,18 @@
+{
+  "name": "convex",
+  "slug": "convex",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/convex/",
+  "download_url": "https://claudskills.com/skills/convex/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Convex reactive backend expert: schema design, TypeScript functions, real-time subscriptions, auth, file storage, scheduling, and deployment.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "don-security",
+  "slug": "don-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/don-security/",
+  "download_url": "https://claudskills.com/skills/don-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security standards and authentication tools for Dutch government software. Use when implementing DigiD, eHerkenning, OAuth, OIDC, PKIoverheid, or other Dutch government authentication and security standards.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

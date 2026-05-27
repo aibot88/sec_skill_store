@@ -1,0 +1,18 @@
+{
+  "name": "security-arsenal",
+  "slug": "security-arsenal",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-arsenal/",
+  "download_url": "https://claudskills.com/skills/security-arsenal/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security payloads, bypass tables, wordlists, gf pattern names, always-rejected bug list, and conditionally-valid-with-chain table. Use when you need specific payloads for XSS/SSRF/SQLi/XXE/IDOR/path-traversal, bypass techniques, or to check if a finding is submittable. Also use when asked about what NOT to submit.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

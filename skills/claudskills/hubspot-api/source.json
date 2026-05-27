@@ -1,0 +1,18 @@
+{
+  "name": "hubspot-api",
+  "slug": "hubspot-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hubspot-api/",
+  "download_url": "https://claudskills.com/skills/hubspot-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Access HubSpot CRM API for deals, contacts, companies, and engagements. Covers PAT auth, deal pipeline queries, contact search, and Supabase ingest. Use when: querying CRM data, checking deal status, enriching contacts, syncing to PIL. Skip when: data already in PIL ontology (check there first).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

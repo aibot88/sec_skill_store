@@ -1,0 +1,18 @@
+{
+  "name": "tax-strategy",
+  "slug": "tax-strategy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tax-strategy/",
+  "download_url": "https://claudskills.com/skills/tax-strategy/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when planning corporate tax strategy, claiming R&D credits, managing transfer pricing, or ensuring tax compliance. Triggers on corporate tax, R&D tax credits, transfer pricing, tax compliance, sales tax, VAT, international tax, and any task requiring tax planning or compliance strategy.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

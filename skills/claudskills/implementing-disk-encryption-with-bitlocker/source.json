@@ -1,0 +1,18 @@
+{
+  "name": "implementing-disk-encryption-with-bitlocker",
+  "slug": "implementing-disk-encryption-with-bitlocker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-disk-encryption-with-bitlocker/",
+  "download_url": "https://claudskills.com/skills/implementing-disk-encryption-with-bitlocker/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implements full disk encryption using Microsoft BitLocker on Windows endpoints to protect data at rest from",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

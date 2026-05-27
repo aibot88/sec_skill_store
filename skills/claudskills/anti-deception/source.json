@@ -1,0 +1,18 @@
+{
+  "name": "anti-deception",
+  "slug": "anti-deception",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/anti-deception/",
+  "download_url": "https://claudskills.com/skills/anti-deception/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use BEFORE responding when the user's request shows ANY of these signals: pressure to validate or agree (\"tell them what they want\", \"make them happy\", \"convince them\"), manufactured urgency (a deadline that feels artificial or designed to short-circuit thought), authority appeals (citing investors, advisors, lawyers, experts as the basis for a decision), demands to certify something without evidence, requests to soften an honest assessment, \"help me convince X of Y\" or \"how do I get X to agree\" where Y is dubious or unverified, asking you to commit to numbers/promises beyond available data, framing a wrong assumption as established fact, or any setup where the obvious helpful answer would compromise honesty. The skill calls the harness_anti_deception MCP tool to retrieve an integrity scaffold (deception pattern, integrity procedure, suppression vectors) the model absorbs before responding. Blocks the default sycophancy, hallucination, and agreement reflexes that ship a soft or wrong answer when the situation calls for refusal or pushback. Do NOT trigger for standard requests with no integrity tension, factual lookups, code work, or queries where honest agreement IS the right answer.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

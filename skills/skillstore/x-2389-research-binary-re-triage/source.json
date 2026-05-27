@@ -1,0 +1,18 @@
+{
+  "name": "binary-re:triage",
+  "slug": "x-2389-research-binary-re-triage",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/x-2389-research-binary-re-triage",
+  "download_url": "https://github.com/2389-research/claude-plugins/tree/main/binary-re/skills/triage",
+  "external_source_url": "https://github.com/2389-research/claude-plugins/tree/main/binary-re/skills/triage",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Use when first encountering an unknown binary, ELF file, executable, or firmware blob. Fast fingerprinting via rabin2 - architecture detection (ARM, x86, MIPS), ABI identification, dependency mapping, string extraction. Keywords - \"what is this binary\", \"identify architecture\", \"check file type\", \"rabin2\", \"file analysis\", \"quick scan\"",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/2389-research/claude-plugins/tree/main/binary-re/skills/triage"
+  },
+  "collected_at": "2026-05-27T03:44:52+00:00"
+}

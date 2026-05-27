@@ -1,0 +1,18 @@
+{
+  "name": "billing",
+  "slug": "billing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/billing/",
+  "download_url": "https://claudskills.com/skills/billing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when: billing audit, subscription lifecycle review, Stripe/Paddle integration check, webhook security, payment form CSRF, pricing centralization, webhook idempotency, billing bugs. Triggers: 'audit my billing', 'check subscription flow', 'is my checkout secure', 'review pricing config', 'find billing bugs', 'check webhooks'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

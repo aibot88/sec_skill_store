@@ -1,0 +1,18 @@
+{
+  "name": "seal-kubernetes-secrets-into-git-safe-manifests-with-kubeseal",
+  "slug": "seal-kubernetes-secrets-into-git-safe-manifests-with-kubeseal",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/seal-kubernetes-secrets-into-git-safe-manifests-with-kubeseal/",
+  "download_url": "https://claudskills.com/skills/seal-kubernetes-secrets-into-git-safe-manifests-with-kubeseal/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Encrypt Kubernetes Secret manifests against a Sealed Secrets controller so agents can commit cluster-targeted secrets to Git without exposing plaintext.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

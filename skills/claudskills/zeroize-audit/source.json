@@ -1,0 +1,18 @@
+{
+  "name": "zeroize-audit",
+  "slug": "zeroize-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/zeroize-audit/",
+  "download_url": "https://claudskills.com/skills/zeroize-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detects missing zeroization of sensitive data in source code and identifies zeroization removed by compiler optimizations, with assembly-level analysis, and control-flow verification. Use for auditing C/C++/Rust code handling secrets, keys, passwords, or other sensitive data.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:39+00:00"
+}

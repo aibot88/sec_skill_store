@@ -1,0 +1,18 @@
+{
+  "name": "routeros-firewall",
+  "slug": "routeros-firewall",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/routeros-firewall/",
+  "download_url": "https://claudskills.com/skills/routeros-firewall/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "RouterOS firewall filter, NAT, mangle, and address-list configuration. Use when: writing firewall rules in RouterOS, configuring NAT, setting up address-lists or interface-lists, writing idempotent firewall scripts, configuring DNS redirect or port forwarding, or when the user mentions /ip/firewall, chain=forward, chain=input, connection-state, address-list, interface-list, or layer7-protocol on MikroTik.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

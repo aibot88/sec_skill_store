@@ -1,0 +1,18 @@
+{
+  "name": "cancer-metabolism-agent",
+  "slug": "cancer-metabolism-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cancer-metabolism-agent/",
+  "download_url": "https://claudskills.com/skills/cancer-metabolism-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AI-powered analysis of cancer metabolic reprogramming including Warburg effect, glutamine addiction, lipid metabolism, and metabolic vulnerabilities for therapeutic targeting.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

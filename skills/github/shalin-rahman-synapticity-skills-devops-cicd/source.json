@@ -1,0 +1,19 @@
+{
+  "name": "devops-cicd",
+  "slug": "shalin-rahman-synapticity-skills-devops-cicd",
+  "source": "github",
+  "source_url": "https://github.com/shalin-rahman/Synapticity/blob/eaa4caacfc3f9433068240ce507bfb4a1c3dd3e9/skills/devops-cicd/skill.md",
+  "download_url": "https://github.com/shalin-rahman/Synapticity/blob/eaa4caacfc3f9433068240ce507bfb4a1c3dd3e9/skills/devops-cicd/skill.md",
+  "external_source_url": "https://github.com/shalin-rahman/Synapticity/blob/eaa4caacfc3f9433068240ce507bfb4a1c3dd3e9/skills/devops-cicd/skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "shalin-rahman/Synapticity",
+    "path": "skills/devops-cicd/skill.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "spot",
+  "slug": "spot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spot/",
+  "download_url": "https://claudskills.com/skills/spot/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Binance Spot request using the Binance API. Authentication requires API key and secret key. Supports testnet, mainnet, and demo.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

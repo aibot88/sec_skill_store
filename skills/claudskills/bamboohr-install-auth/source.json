@@ -1,0 +1,18 @@
+{
+  "name": "bamboohr-install-auth",
+  "slug": "bamboohr-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bamboohr-install-auth/",
+  "download_url": "https://claudskills.com/skills/bamboohr-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure BambooHR API authentication with HTTP Basic Auth. Use when setting up a new BambooHR integration, configuring API keys, or initializing BambooHR REST API access in your project. Trigger with phrases like \"install bamboohr\", \"setup bamboohr\", \"bamboohr auth\", \"configure bamboohr API key\", \"bamboohr credentials\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:03+00:00"
+}

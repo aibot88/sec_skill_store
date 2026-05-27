@@ -1,0 +1,18 @@
+{
+  "name": "skills-curator",
+  "slug": "skills-curator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skills-curator/",
+  "download_url": "https://claudskills.com/skills/skills-curator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user mentions a skill/plugin by name, asks \"should I install X\", asks for skill recommendations, wants a security check on a skill, asks about duplicates or conflicts, wants to create a new skill, or wants to migrate skills across agent platforms (Cursor, Codex, Gemini, etc.).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

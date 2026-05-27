@@ -1,0 +1,18 @@
+{
+  "name": "bedrock-agentcore-memory",
+  "slug": "bedrock-agentcore-memory",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bedrock-agentcore-memory/",
+  "download_url": "https://claudskills.com/skills/bedrock-agentcore-memory/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Amazon Bedrock AgentCore Memory for persistent agent knowledge across sessions. Episodic memory for learning from interactions, short-term for session context. Use when building agents that remember user preferences, learn from conversations, or maintain context across sessions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:04+00:00"
+}

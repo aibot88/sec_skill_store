@@ -1,0 +1,18 @@
+{
+  "name": "cicd-automation-workflow-automate",
+  "slug": "cicd-automation-workflow-automate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cicd-automation-workflow-automate/",
+  "download_url": "https://claudskills.com/skills/cicd-automation-workflow-automate/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Actions workflows, and automated development processes. Design and implement automation that reduces manual work, improves consistency, and accelerates delivery while maintaining quality and security.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "workflow-orchestration",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

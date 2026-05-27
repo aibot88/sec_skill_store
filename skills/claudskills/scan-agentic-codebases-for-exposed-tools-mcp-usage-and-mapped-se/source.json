@@ -1,0 +1,18 @@
+{
+  "name": "scan-agentic-codebases-for-exposed-tools-mcp-usage-and-mapped-se",
+  "slug": "scan-agentic-codebases-for-exposed-tools-mcp-usage-and-mapped-se",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scan-agentic-codebases-for-exposed-tools-mcp-usage-and-mapped-se/",
+  "download_url": "https://claudskills.com/skills/scan-agentic-codebases-for-exposed-tools-mcp-usage-and-mapped-se/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate a reviewable security report for a supported agent workflow before deployment by scanning its code, tools, MCP usage, and known vulnerability surface.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

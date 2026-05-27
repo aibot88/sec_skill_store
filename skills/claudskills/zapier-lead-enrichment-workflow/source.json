@@ -1,0 +1,18 @@
+{
+  "name": "zapier-lead-enrichment-workflow",
+  "slug": "zapier-lead-enrichment-workflow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/zapier-lead-enrichment-workflow/",
+  "download_url": "https://claudskills.com/skills/zapier-lead-enrichment-workflow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Builds a Zapier automation using the Zapier NLA API to trigger on new HubSpot form submissions and enrich contact records via the Clearbit Enrichment API. Enriched data is written back to HubSpot and simultaneously posted to Slack via the Web API chat.postMessage endpoint.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

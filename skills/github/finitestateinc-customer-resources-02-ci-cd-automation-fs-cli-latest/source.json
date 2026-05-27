@@ -1,0 +1,19 @@
+{
+  "name": "latest",
+  "slug": "finitestateinc-customer-resources-02-ci-cd-automation-fs-cli-latest",
+  "source": "github",
+  "source_url": "https://github.com/FiniteStateInc/customer-resources/blob/9bd311669ed1c749128d6b4b55184bdf4fb6a75d/02-ci-cd-automation/fs-cli/latest/fs-cli.skill.md",
+  "download_url": "https://github.com/FiniteStateInc/customer-resources/blob/9bd311669ed1c749128d6b4b55184bdf4fb6a75d/02-ci-cd-automation/fs-cli/latest/fs-cli.skill.md",
+  "external_source_url": "https://github.com/FiniteStateInc/customer-resources/blob/9bd311669ed1c749128d6b4b55184bdf4fb6a75d/02-ci-cd-automation/fs-cli/latest/fs-cli.skill.md",
+  "license": "",
+  "description": "Customer resources for Finite State customers",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "FiniteStateInc/customer-resources",
+    "path": "02-ci-cd-automation/fs-cli/latest/fs-cli.skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ln-501-code-quality-checker",
+  "slug": "ln-501-code-quality-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-501-code-quality-checker/",
+  "download_url": "https://claudskills.com/skills/ln-501-code-quality-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Worker that checks DRY/KISS/YAGNI/architecture compliance with quantitative Code Quality Score. Validates architectural decisions via MCP Ref: (1) Optimality - is chosen approach the best? (2) Compliance - does it follow best practices? (3) Performance - algorithms, configs, bottlenecks. Reports issues with SEC-, PERF-, MNT-, ARCH-, BP-, OPT- prefixes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

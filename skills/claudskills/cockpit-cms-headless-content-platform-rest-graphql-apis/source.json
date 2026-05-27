@@ -1,0 +1,18 @@
+{
+  "name": "cockpit-cms-headless-content-platform-rest-graphql-apis",
+  "slug": "cockpit-cms-headless-content-platform-rest-graphql-apis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cockpit-cms-headless-content-platform-rest-graphql-apis/",
+  "download_url": "https://claudskills.com/skills/cockpit-cms-headless-content-platform-rest-graphql-apis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Cockpit CMS is a lightweight headless content platform for teams that want flexible models, REST and GraphQL APIs, and self-hosted deployment without a heavy stack. It supports websites, apps, and multi-language content workflows with either SQLite or MongoDB backends.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

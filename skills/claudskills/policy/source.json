@@ -1,0 +1,18 @@
+{
+  "name": "policy",
+  "slug": "policy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/policy/",
+  "download_url": "https://claudskills.com/skills/policy/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Author MCP tool-call policy rules without hand-editing access.json",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:56+00:00"
+}

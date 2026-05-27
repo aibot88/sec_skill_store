@@ -1,0 +1,18 @@
+{
+  "name": "jenkins-pipeline-linter-agent-2",
+  "slug": "jenkins-pipeline-linter-agent-2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jenkins-pipeline-linter-agent-2/",
+  "download_url": "https://claudskills.com/skills/jenkins-pipeline-linter-agent-2/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validates Jenkinsfile syntax using the Jenkins Pipeline Linter REST API before commits. Integrates with jenkins-client npm SDK to authenticate and submit declarative or scripted pipelines for server-side validation.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "linters-formatters",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

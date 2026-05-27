@@ -1,0 +1,19 @@
+{
+  "name": "assets",
+  "slug": "dpeluche-spark-assets",
+  "source": "github",
+  "source_url": "https://github.com/dPeluChe/spark/blob/510afb011e7d17a65ccdb3f887092b4dc3cbdd47/assets/spark.skill.md",
+  "download_url": "https://github.com/dPeluChe/spark/blob/510afb011e7d17a65ccdb3f887092b4dc3cbdd47/assets/spark.skill.md",
+  "external_source_url": "https://github.com/dPeluChe/spark/blob/510afb011e7d17a65ccdb3f887092b4dc3cbdd47/assets/spark.skill.md",
+  "license": "",
+  "description": "Spark CLI ",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "dPeluChe/spark",
+    "path": "assets/spark.skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

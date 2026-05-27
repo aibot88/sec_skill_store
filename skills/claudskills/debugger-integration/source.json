@@ -1,0 +1,18 @@
+{
+  "name": "Debugger Integration Skill",
+  "slug": "debugger-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/debugger-integration/",
+  "download_url": "https://claudskills.com/skills/debugger-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Advanced debugging integration for vulnerability research",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

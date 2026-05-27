@@ -1,0 +1,18 @@
+{
+  "name": "check-a11y",
+  "slug": "check-a11y",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/check-a11y/",
+  "download_url": "https://claudskills.com/skills/check-a11y/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Perform accessibility audit on web pages. Use when users ask to check accessibility, audit WCAG compliance, verify ARIA usage, check color contrast, audit keyboard navigation, or analyze screen reader compatibility. Detects ARIA issues, focus problems, contrast issues, and semantic HTML violations.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

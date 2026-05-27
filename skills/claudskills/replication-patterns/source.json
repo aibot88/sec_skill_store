@@ -1,0 +1,18 @@
+{
+  "name": "replication-patterns",
+  "slug": "replication-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/replication-patterns/",
+  "download_url": "https://claudskills.com/skills/replication-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing how a database keeps multiple copies of its data in agreement across nodes for availability, read scaling, and disaster recovery: the three foundational topologies (single-leader / primary-replica, multi-leader / multi-primary, leaderless / quorum), synchronous vs asynchronous replication and the replication-lag trade-off, log shipping vs statement replication vs trigger-based replication, the read-after-write consistency problem and its mitigations (sticky session, read-from-leader, monotonic reads), the failover model and split-brain risk, and the relationship to the CAP/PACELC choices the topology realizes. Do NOT use for horizontal partitioning across nodes (use sharding-strategy), the CAP theoretical frame itself (use cap-theorem-tradeoffs), single-node transactional guarantees (use acid-fundamentals), or query tuning (use query-optimization).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

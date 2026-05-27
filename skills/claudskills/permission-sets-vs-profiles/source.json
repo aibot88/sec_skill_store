@@ -1,0 +1,18 @@
+{
+  "name": "permission-sets-vs-profiles",
+  "slug": "permission-sets-vs-profiles",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/permission-sets-vs-profiles/",
+  "download_url": "https://claudskills.com/skills/permission-sets-vs-profiles/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing or auditing Salesforce access control — deciding between Profiles, Permission Sets, and Permission Set Groups. Triggers: 'user can't see field', 'too many profiles', 'permission model', 'least privilege', 'profile migration'. NOT for sharing rules or record-level access — use security/fls-crud for that.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

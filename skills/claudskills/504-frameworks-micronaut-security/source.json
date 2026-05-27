@@ -1,0 +1,18 @@
+{
+  "name": "504-frameworks-micronaut-security",
+  "slug": "504-frameworks-micronaut-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/504-frameworks-micronaut-security/",
+  "download_url": "https://claudskills.com/skills/504-frameworks-micronaut-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when you need to design, review, or improve security in Micronaut applications — including micronaut-security authentication, @Secured and intercept-url-map rules, JWT/session strategies, SecurityService checks, CORS, CSRF awareness for browser apps, rejection handlers, and sensitive-data-safe logging. This should trigger for requests such as Add Micronaut security support; Review Micronaut security configuration; Improve API authorization in Micronaut; Add JWT security in Micronaut; Harden Micronaut route authorization rules. Part of cursor-rules-java project",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

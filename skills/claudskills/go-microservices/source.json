@@ -1,0 +1,18 @@
+{
+  "name": "go-microservices",
+  "slug": "go-microservices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/go-microservices/",
+  "download_url": "https://claudskills.com/skills/go-microservices/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Production-ready Go microservices patterns including Gin, Echo, gRPC, clean architecture, dependency injection, error handling, middleware, testing, Docker containerization, Kubernetes deployment, distributed tracing, observability with Prometheus, high-performance APIs, concurrent processing, database integration with GORM, Redis caching, message queues, and cloud-native best practices.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-netkeeper",
+  "slug": "agentprivacy-netkeeper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-netkeeper/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-netkeeper/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Mesh Network Sovereignty Builder for 0xagentprivacy. Activates for tailnet deployment, control/data plane separation at network layer, NAT traversal, DERP relay configuration, sovereign overlay networks, Aperture AI agent governance, or any task requiring mesh-level privacy enforcement. The dragon's hide made operational.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

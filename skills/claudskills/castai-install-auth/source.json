@@ -1,0 +1,18 @@
+{
+  "name": "castai-install-auth",
+  "slug": "castai-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/castai-install-auth/",
+  "download_url": "https://claudskills.com/skills/castai-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure CAST AI agent on a Kubernetes cluster with API key authentication. Use when onboarding a cluster to CAST AI, setting up Helm charts, or configuring Terraform provider authentication. Trigger with phrases like \"install cast ai\", \"connect cluster to cast ai\", \"cast ai setup\", \"cast ai api key\", \"cast ai helm install\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

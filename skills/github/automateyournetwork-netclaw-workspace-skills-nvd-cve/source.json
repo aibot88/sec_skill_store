@@ -1,0 +1,19 @@
+{
+  "name": "nvd-cve",
+  "slug": "automateyournetwork-netclaw-workspace-skills-nvd-cve",
+  "source": "github",
+  "source_url": "https://github.com/automateyournetwork/netclaw/blob/9218048c87a270007ea6751314280592e0178bdc/workspace/skills/nvd-cve/SKILL.md",
+  "download_url": "https://github.com/automateyournetwork/netclaw/blob/9218048c87a270007ea6751314280592e0178bdc/workspace/skills/nvd-cve/SKILL.md",
+  "external_source_url": "https://github.com/automateyournetwork/netclaw/blob/9218048c87a270007ea6751314280592e0178bdc/workspace/skills/nvd-cve/SKILL.md",
+  "license": "",
+  "description": "An AI agent that claws through your network",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "automateyournetwork/netclaw",
+    "path": "workspace/skills/nvd-cve/SKILL.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

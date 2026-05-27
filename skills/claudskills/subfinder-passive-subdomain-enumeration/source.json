@@ -1,0 +1,18 @@
+{
+  "name": "subfinder-passive-subdomain-enumeration",
+  "slug": "subfinder-passive-subdomain-enumeration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/subfinder-passive-subdomain-enumeration/",
+  "download_url": "https://claudskills.com/skills/subfinder-passive-subdomain-enumeration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Subfinder is a passive subdomain discovery tool by ProjectDiscovery that finds valid subdomains for websites using curated online sources. Optimized for speed and stealth, it integrates cleanly into security reconnaissance pipelines via stdin/stdout support.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

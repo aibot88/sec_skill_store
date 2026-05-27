@@ -1,0 +1,18 @@
+{
+  "name": "sf-apex",
+  "slug": "sf-apex",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sf-apex/",
+  "download_url": "https://claudskills.com/skills/sf-apex/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generates and reviews Salesforce Apex code (Brite edition) with 150-point scoring. TRIGGER when user writes, reviews, or fixes Apex classes, triggers, test classes, batch/queueable/schedulable jobs, touches .cls/.trigger files, works in brite-salesforce, asks about LeadTriggerHandler / LeadAfterInsertService dispatch, Queueable BATCH_SIZE=90 self-chaining, @TestVisible + Test.isRunningTest() escape hatches, Bypass_Validation_Rules pattern, DisqualifiedRecycleScheduler, or Apex-first automation decisions. DO NOT TRIGGER when LWC JavaScript (use sf-lwc), Flow XML (use sf-flow), SOQL-only queries (use sf-soql), permission metadata (use sf-permissions), or non-Salesforce code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

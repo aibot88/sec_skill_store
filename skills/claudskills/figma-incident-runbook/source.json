@@ -1,0 +1,18 @@
+{
+  "name": "figma-incident-runbook",
+  "slug": "figma-incident-runbook",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/figma-incident-runbook/",
+  "download_url": "https://claudskills.com/skills/figma-incident-runbook/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Respond to Figma API outages, auth failures, and rate limit incidents. Use when Figma integration is down, experiencing errors, or running post-incident reviews for Figma-related failures. Trigger with phrases like \"figma incident\", \"figma outage\", \"figma down\", \"figma broken\", \"figma emergency\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "operations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

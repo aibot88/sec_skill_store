@@ -1,0 +1,18 @@
+{
+  "name": "fly-deploy",
+  "slug": "fly-deploy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fly-deploy/",
+  "download_url": "https://claudskills.com/skills/fly-deploy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Complete Fly.io deployment management - deploy, scale, logs, secrets, database, and more",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

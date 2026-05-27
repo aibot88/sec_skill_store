@@ -1,0 +1,18 @@
+{
+  "name": "building-streamlit-custom-components-v2",
+  "slug": "building-streamlit-custom-components-v2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-streamlit-custom-components-v2/",
+  "download_url": "https://claudskills.com/skills/building-streamlit-custom-components-v2/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Builds bidirectional Streamlit Custom Components v2 (CCv2) using `st.components.v2.component`. Use when authoring inline HTML/CSS/JS components or packaged components (manifest `asset_dir`, js/css globs), wiring state/trigger callbacks, theming via `--st-*` CSS variables, or bundling with Vite / `component-template` v2.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

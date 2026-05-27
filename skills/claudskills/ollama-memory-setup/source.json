@@ -1,0 +1,18 @@
+{
+  "name": "ollama-memory-setup",
+  "slug": "ollama-memory-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ollama-memory-setup/",
+  "download_url": "https://claudskills.com/skills/ollama-memory-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Sets up local semantic memory search for OpenClaw using Ollama + nomic-embed-text. Use when: (1) memory_search returns 'node-llama-cpp is missing' or 'Local embeddings unavailable' error, (2) user wants local/private embeddings without external API keys (OpenAI, Gemini, Voyage), (3) setting up memory search for the first time on macOS or Linux, (4) node-llama-cpp fails to install or build. Fixes the common node-llama-cpp installation failure by routing through Ollama's OpenAI-compatible embedding API instead of a local binary.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

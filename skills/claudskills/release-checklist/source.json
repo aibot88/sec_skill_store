@@ -1,0 +1,18 @@
+{
+  "name": "release-checklist",
+  "slug": "release-checklist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/release-checklist/",
+  "download_url": "https://claudskills.com/skills/release-checklist/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Sequential release gate validating build success, test suite, security checks, type checking, manifest counts consistency, and changelog presence. Each step reports pass/fail with remediation guidance. Manages version bumping, staging, and pre-push confirmation. Use when preparing a release.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

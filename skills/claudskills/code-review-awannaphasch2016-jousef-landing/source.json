@@ -1,0 +1,18 @@
+{
+  "name": "code-review",
+  "slug": "code-review-awannaphasch2016-jousef-landing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-review-awannaphasch2016-jousef-landing/",
+  "download_url": "https://claudskills.com/skills/code-review-awannaphasch2016-jousef-landing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Code review checklist covering security, performance, defensive programming, and testing anti-patterns. Use before merging PRs, after implementing features, or when reviewing code quality.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "palantir-data-handling",
+  "slug": "palantir-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/palantir-data-handling/",
+  "download_url": "https://claudskills.com/skills/palantir-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Palantir Foundry data handling with PII protection, markings, and GDPR compliance. Use when handling sensitive data in Foundry, implementing data classifications, or ensuring compliance with privacy regulations. Trigger with phrases like \"palantir data\", \"foundry PII\", \"palantir GDPR\", \"foundry data protection\", \"palantir markings\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

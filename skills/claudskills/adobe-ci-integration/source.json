@@ -1,0 +1,18 @@
+{
+  "name": "adobe-ci-integration",
+  "slug": "adobe-ci-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/adobe-ci-integration/",
+  "download_url": "https://claudskills.com/skills/adobe-ci-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure CI/CD pipelines for Adobe integrations with GitHub Actions, including OAuth credential injection, PDF Services testing, Firefly API smoke tests, and secret scanning for Adobe credential patterns. Trigger with phrases like \"adobe CI\", \"adobe GitHub Actions\", \"adobe automated tests\", \"CI adobe\", \"adobe pipeline\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

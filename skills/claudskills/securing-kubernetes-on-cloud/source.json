@@ -1,0 +1,18 @@
+{
+  "name": "securing-kubernetes-on-cloud",
+  "slug": "securing-kubernetes-on-cloud",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/securing-kubernetes-on-cloud/",
+  "download_url": "https://claudskills.com/skills/securing-kubernetes-on-cloud/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill covers hardening managed Kubernetes clusters on EKS, AKS, and GKE by implementing Pod Security Standards,",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "lindy-data-handling",
+  "slug": "lindy-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lindy-data-handling/",
+  "download_url": "https://claudskills.com/skills/lindy-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Data handling best practices for Lindy AI agents. Use when managing sensitive data in agent workflows, implementing data privacy controls, or ensuring compliance. Trigger with phrases like \"lindy data\", \"lindy privacy\", \"lindy PII\", \"lindy data handling\", \"lindy GDPR\", \"lindy HIPAA\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

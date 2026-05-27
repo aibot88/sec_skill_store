@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "slug": "fengzhizi319-opencode-docs",
+  "source": "github",
+  "source_url": "https://github.com/fengzhizi319/opencode/blob/4275fcb36666fdfdf7454fead28814e98522db09/docs/plan-skill.md",
+  "download_url": "https://github.com/fengzhizi319/opencode/blob/4275fcb36666fdfdf7454fead28814e98522db09/docs/plan-skill.md",
+  "external_source_url": "https://github.com/fengzhizi319/opencode/blob/4275fcb36666fdfdf7454fead28814e98522db09/docs/plan-skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "fengzhizi319/opencode",
+    "path": "docs/plan-skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

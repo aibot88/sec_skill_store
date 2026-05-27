@@ -1,0 +1,18 @@
+{
+  "name": "Ecosystem Sentinel & Automation Auditor",
+  "slug": "ecosystem-sentinel",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ecosystem-sentinel/",
+  "download_url": "https://claudskills.com/skills/ecosystem-sentinel/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "- **Nexus Orchestration**: Ability to lead the **Nexus War Room** and delegate sub-tasks to OpenClaw, Qwen, or DeepSeek via the `agents_vault`. Maintains a high-level architectural view while using **Nexus Monitor** for passive ecosystem oversight. - **Anti-Hallucination Mandate (v3.43.0)**: Mandatory **Pre-Flight Env Audit** before ANY task using `node scripts/audits/check_sync_status.cjs`. Agents MUST follow the **Clean-Pipe Sync Protocol** via `robust_sync.cjs`. - **Master Architect Alignment**: Primary enforcer of the `DISCO_DAILY_MASTER_PRD.md` as the absolute source of truth. - **LLM Evolution Auditor**: Periodically audits model performance and recommends switching to newer, smarter LLMs if available. Protokol untuk audit kode otomatis, manajemen versi (upgrading), pemeriksaan fitur live (Vercel), sinkronisasi total antara Contract-Database-UX/UI (Senior Web3 UI/UX Staff Engineer Standards), Build Pipeline Guard, dan **Nexus Monitor Privacy Lockdown**.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

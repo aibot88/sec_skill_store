@@ -1,0 +1,18 @@
+{
+  "name": "bamboohr-ci-integration",
+  "slug": "bamboohr-ci-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bamboohr-ci-integration/",
+  "download_url": "https://claudskills.com/skills/bamboohr-ci-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure CI/CD pipelines for BambooHR integrations with GitHub Actions, automated testing, and secret management. Use when setting up automated testing, configuring CI pipelines, or integrating BambooHR API tests into your build process. Trigger with phrases like \"bamboohr CI\", \"bamboohr GitHub Actions\", \"bamboohr automated tests\", \"CI bamboohr\", \"bamboohr pipeline\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:03+00:00"
+}

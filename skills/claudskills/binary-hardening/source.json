@@ -1,0 +1,18 @@
+{
+  "name": "binary-hardening",
+  "slug": "binary-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/binary-hardening/",
+  "download_url": "https://claudskills.com/skills/binary-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Binary hardening skill for security-hardened C/C++ builds. Use when enabling RELRO, PIE, stack canaries, FORTIFY_SOURCE, CFI sanitizers, shadow stack, or seccomp-bpf syscall filtering. Covers checksec analysis, compiler and linker flags for hardened builds, and NSA/CISA-recommended mitigations. Activates on queries about binary hardening, checksec, RELRO, PIE, stack canaries, FORTIFY_SOURCE, CFI, shadow stack, or seccomp.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

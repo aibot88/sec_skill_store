@@ -1,0 +1,18 @@
+{
+  "name": "roll-spar",
+  "slug": "roll-spar",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/roll-spar/",
+  "download_url": "https://claudskills.com/skills/roll-spar/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Adversarial TDD mode with Attacker/Defender agents. Attacker writes tests to break the system, Defender writes minimal code to pass. Use for high-risk logic like auth, payments, data integrity, or complex state machines.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

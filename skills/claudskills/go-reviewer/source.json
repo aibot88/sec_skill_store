@@ -1,0 +1,18 @@
+{
+  "name": "django-reviewer",
+  "slug": "go-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/go-reviewer/",
+  "download_url": "https://claudskills.com/skills/go-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "WHEN: Django project review, ORM queries, views/templates, admin customization WHAT: ORM optimization + View patterns + Template security + Admin config + Migration safety WHEN NOT: FastAPI → fastapi-reviewer, Flask → flask-reviewer, DRF API only → consider api-expert",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "benchclaw-benchclaw-.",
+  "source": "github",
+  "source_url": "https://github.com/BenchClaw/benchclaw/blob/2d8e957e54ca0838a2e3111627b08801b4feec0a/SKILL.md",
+  "download_url": "https://github.com/BenchClaw/benchclaw/blob/2d8e957e54ca0838a2e3111627b08801b4feec0a/SKILL.md",
+  "external_source_url": "https://github.com/BenchClaw/benchclaw/blob/2d8e957e54ca0838a2e3111627b08801b4feec0a/SKILL.md",
+  "license": "",
+  "description": "BenchClaw 是面向 OpenClaw Agent 的自动化基准评测系统，包含完整的题目下发、执行、   打分、报表生成与热更新分发能力。当用户想评测 AI Agent 能力、跑基准测试、测试 Agent   完成任务的得分、验证 Agent 输出文件、生成评测报告、或自动更新客户端程序时使用。",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "BenchClaw/benchclaw",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:59+00:00"
+}

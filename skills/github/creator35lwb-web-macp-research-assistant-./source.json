@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "creator35lwb-web-macp-research-assistant-.",
+  "source": "github",
+  "source_url": "https://github.com/creator35lwb-web/macp-research-assistant/blob/4899a627c67e33801cead2c41dac2962a958c669/skill.md",
+  "download_url": "https://github.com/creator35lwb-web/macp-research-assistant/blob/4899a627c67e33801cead2c41dac2962a958c669/skill.md",
+  "external_source_url": "https://github.com/creator35lwb-web/macp-research-assistant/blob/4899a627c67e33801cead2c41dac2962a958c669/skill.md",
+  "license": "",
+  "description": "MACP-Powered AI Research Assistant: Track, trace, and recall your AI-powered research with complete citation provenance across multiple AI assistants",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "creator35lwb-web/macp-research-assistant",
+    "path": "skill.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

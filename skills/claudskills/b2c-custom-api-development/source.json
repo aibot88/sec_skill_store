@@ -1,0 +1,18 @@
+{
+  "name": "b2c-custom-api-development",
+  "slug": "b2c-custom-api-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/b2c-custom-api-development/",
+  "download_url": "https://claudskills.com/skills/b2c-custom-api-development/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Develop Custom SCAPI endpoints for B2C Commerce. Use when creating REST APIs, defining api.json routes, writing schema.yaml (OAS 3.0), or building headless commerce integrations. Covers cartridge structure, endpoint implementation, and OAuth scope configuration.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

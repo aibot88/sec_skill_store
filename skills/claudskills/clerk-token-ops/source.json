@@ -1,0 +1,18 @@
+{
+  "name": "clerk-token-ops",
+  "slug": "clerk-token-ops",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk-token-ops/",
+  "download_url": "https://claudskills.com/skills/clerk-token-ops/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automates Clerk JWT token generation, validation, and export for FastAPI integration tests. Use when an agent must refresh tokens, verify JWT templates, or unblock authentication workflows without breaking environment state.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "112-java-maven-plugins",
+  "slug": "112-java-maven-plugins",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/112-java-maven-plugins/",
+  "download_url": "https://claudskills.com/skills/112-java-maven-plugins/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when you need to add or configure Maven plugins in your pom.xml — including quality tools (enforcer, surefire, failsafe, jacoco, pitest, spotbugs, pmd), security scanning (OWASP), code formatting (Spotless), version management, container image build (Jib), build information tracking, and benchmarking (JMH) — through a consultative, modular step-by-step approach that only adds what you actually need. This should trigger for requests such as Add Maven plugins in pom.xml; Improve Maven plugins in pom.xml. Part of cursor-rules-java project",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

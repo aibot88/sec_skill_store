@@ -1,0 +1,18 @@
+{
+  "name": "deposition-prep",
+  "slug": "deposition-prep",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deposition-prep/",
+  "download_url": "https://claudskills.com/skills/deposition-prep/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Bir tanık veya taraf (isticvap) için duruşma/ifade soru taslağı (outline) hazırlar — şirket içi belgeleri veya UYAP evraklarını çeker, hukuki teori etrafında başlıkları düzenler ve çelişki yaratacak/yüzleştirilecek materyalleri (impeachment) öne çıkarır. Kullanıcı \"[isim] için isticvap/tanık hazırlığı yap\", \"soru listesi oluştur\" veya \"[isim]'in duruşmasına hazırlan\" dediğinde kullanın.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

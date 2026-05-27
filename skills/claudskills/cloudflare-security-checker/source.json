@@ -1,0 +1,18 @@
+{
+  "name": "cloudflare-security-checker",
+  "slug": "cloudflare-security-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloudflare-security-checker/",
+  "download_url": "https://claudskills.com/skills/cloudflare-security-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automatically validates Cloudflare Workers security patterns during development, ensuring proper secret management, CORS configuration, and input validation",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

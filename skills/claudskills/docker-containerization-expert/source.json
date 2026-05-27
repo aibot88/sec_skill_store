@@ -1,0 +1,18 @@
+{
+  "name": "docker-containerization-expert",
+  "slug": "docker-containerization-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docker-containerization-expert/",
+  "download_url": "https://claudskills.com/skills/docker-containerization-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert knowledge of Docker containerization including Dockerfile best practices, docker-compose configuration, Alpine Linux specifics, multi-stage builds, security, health checks, and container optimization. Use when working with Dockerfile, docker-compose.yml, container builds, debugging container issues, or deploying to container platforms.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

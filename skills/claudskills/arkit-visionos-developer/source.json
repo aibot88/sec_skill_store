@@ -1,0 +1,18 @@
+{
+  "name": "arkit-visionos-developer",
+  "slug": "arkit-visionos-developer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/arkit-visionos-developer/",
+  "download_url": "https://claudskills.com/skills/arkit-visionos-developer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build and debug ARKit features for visionOS, including ARKitSession setup, authorization, data providers (world tracking, plane detection, scene reconstruction, hand tracking), anchor processing, and RealityKit integration. Use when implementing ARKit workflows in immersive spaces or troubleshooting ARKit data access and provider behavior on visionOS.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "docker-reviewer",
+  "slug": "docker-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docker-reviewer/",
+  "download_url": "https://claudskills.com/skills/docker-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "WHEN: Dockerfile review, multi-stage builds, layer optimization, docker-compose WHAT: Image optimization + Layer caching + Security scanning + Compose best practices + Build efficiency WHEN NOT: Kubernetes → k8s-reviewer, Terraform → terraform-reviewer",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

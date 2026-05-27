@@ -1,0 +1,18 @@
+{
+  "name": "appfolio-security-basics",
+  "slug": "appfolio-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/appfolio-security-basics/",
+  "download_url": "https://claudskills.com/skills/appfolio-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Secure AppFolio API credentials and tenant data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "active-comparator-single-soc-faers-safety-comparison",
+  "slug": "active-comparator-single-soc-faers-safety-comparison",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/active-comparator-single-soc-faers-safety-comparison/",
+  "download_url": "https://claudskills.com/skills/active-comparator-single-soc-faers-safety-comparison/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generates complete FAERS pharmacovigilance study designs for multi-drug or class-level safety comparison inside one predefined SOC or AE family using active comparators, disproportionality analysis, subgroup characterization, and reviewer-facing evidence control.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

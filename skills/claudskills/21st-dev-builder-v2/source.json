@@ -1,0 +1,18 @@
+{
+  "name": "21st-dev-builder-v2",
+  "slug": "21st-dev-builder-v2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/21st-dev-builder-v2/",
+  "download_url": "https://claudskills.com/skills/21st-dev-builder-v2/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build websites and web apps using 21st.dev — the largest marketplace of shadcn/ui-based React Tailwind components with 1400+ components. Use when user mentions \"21st.dev\", \"21st\", \"ใช้ 21st\", \"จาก 21st\", \"build with 21st\", \"21st component\", \"21st magic MCP\", or references the 21st.dev component registry in any language. Covers building complete sites (landing pages, dashboards, portfolios, e-commerce storefronts, auth pages), browsing and installing individual 21st.dev components into existing projects, and setting up the 21st.dev MCP server. Also trigger when user wants premium UI components specifically from the 21st.dev registry. Do NOT trigger for general web development, standard shadcn/ui, plain Tailwind CSS, React Native, API development, testing, deployment, or any task that doesn't explicitly reference 21st or 21st.dev.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

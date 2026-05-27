@@ -1,0 +1,18 @@
+{
+  "name": "telegram-mini-app",
+  "slug": "telegram-mini-app",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/telegram-mini-app/",
+  "download_url": "https://claudskills.com/skills/telegram-mini-app/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert in building Telegram Mini Apps (TWA) - web apps that run inside Telegram with native-like experience. Covers the TON ecosystem, Telegram Web App API, payments, user authentication, and building viral mini apps that monetize. Use when: telegram mini app, TWA, telegram web app, TON app, mini app.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "communication",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

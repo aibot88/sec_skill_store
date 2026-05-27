@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-promise-theory",
+  "slug": "agentprivacy-promise-theory",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-promise-theory/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-promise-theory/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Promise Theory foundations for 0xagentprivacy bilateral relationships. Activates when discussing polarity (±), cooperation semantics, conditional promises, VRC-as-promise architecture, or Jan Bergstra / Mark Burgess promise frameworks. Use when designing bilateral trust relationships or consent infrastructure.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

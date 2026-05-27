@@ -1,0 +1,18 @@
+{
+  "name": "dora-compliance-expert",
+  "slug": "dora-compliance-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dora-compliance-expert/",
+  "download_url": "https://claudskills.com/skills/dora-compliance-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT + Commons Clause",
+  "description": "DORA (EU 2022/2554) digital operational resilience compliance automation for financial entities. Assesses readiness against all 5 DORA pillars, classifies ICT incidents, validates third-party risk management, and generates resilience testing plans. Use for DORA compliance assessments, ICT risk management, incident classification, third-party ICT oversight, and digital operational resilience testing.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

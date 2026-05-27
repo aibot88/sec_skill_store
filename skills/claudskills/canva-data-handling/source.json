@@ -1,0 +1,18 @@
+{
+  "name": "canva-data-handling",
+  "slug": "canva-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/canva-data-handling/",
+  "download_url": "https://claudskills.com/skills/canva-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Canva Connect API data handling, PII protection, and GDPR/CCPA compliance. Use when handling user design data, implementing data retention policies, or ensuring privacy compliance for Canva integrations. Trigger with phrases like \"canva data\", \"canva PII\", \"canva GDPR\", \"canva data retention\", \"canva privacy\", \"canva CCPA\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

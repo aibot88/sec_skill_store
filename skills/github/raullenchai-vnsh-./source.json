@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "raullenchai-vnsh-.",
+  "source": "github",
+  "source_url": "https://github.com/raullenchai/vnsh/blob/c7212544f347e962ff157dc71c806e3858195d4a/SKILL.md",
+  "download_url": "https://github.com/raullenchai/vnsh/blob/c7212544f347e962ff157dc71c806e3858195d4a/SKILL.md",
+  "external_source_url": "https://github.com/raullenchai/vnsh/blob/c7212544f347e962ff157dc71c806e3858195d4a/SKILL.md",
+  "license": "",
+  "description": "The Ephemeral Dropbox for AI. Host-blind, client-side encrypted sharing for logs, diffs, and images. Vaporizes in 24h.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "raullenchai/vnsh",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

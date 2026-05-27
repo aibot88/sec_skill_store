@@ -1,0 +1,18 @@
+{
+  "name": "kev-watch",
+  "slug": "kev-watch",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kev-watch/",
+  "download_url": "https://claudskills.com/skills/kev-watch/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "CISA + EU KEV (Known Exploited Vulnerabilities) catalog watch — pull recent KEV additions, intersect with installed dependencies, surface entries with imminent due dates. Use when checking if you have KEV-listed CVEs in your repo, monitoring CISA additions on a schedule, or producing a deadline-driven action list with `--since` filtering.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

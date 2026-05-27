@@ -1,0 +1,18 @@
+{
+  "name": "common-appsec-patterns",
+  "slug": "common-appsec-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/common-appsec-patterns/",
+  "download_url": "https://claudskills.com/skills/common-appsec-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Application security testing coordinator for common vulnerability patterns including XSS, injection flaws, and client-side security issues. Orchestrates specialized testing agents to identify and validate common application security weaknesses.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

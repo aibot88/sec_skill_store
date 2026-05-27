@@ -1,0 +1,18 @@
+{
+  "name": "frontend-security-coder",
+  "slug": "frontend-security-coder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/frontend-security-coder/",
+  "download_url": "https://claudskills.com/skills/frontend-security-coder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

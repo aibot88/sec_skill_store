@@ -1,0 +1,18 @@
+{
+  "name": "license-compliance-checker",
+  "slug": "license-compliance-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/license-compliance-checker/",
+  "download_url": "https://claudskills.com/skills/license-compliance-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automated license compliance verification for dependencies to ensure legal compliance during migration",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

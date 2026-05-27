@@ -1,0 +1,18 @@
+{
+  "name": "validating-backup-integrity-for-recovery",
+  "slug": "validating-backup-integrity-for-recovery",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/validating-backup-integrity-for-recovery/",
+  "download_url": "https://claudskills.com/skills/validating-backup-integrity-for-recovery/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Validate backup integrity through cryptographic hash verification, automated restore testing, corruption detection,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

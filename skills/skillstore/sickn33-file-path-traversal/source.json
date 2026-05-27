@@ -1,0 +1,18 @@
+{
+  "name": "file-path-traversal",
+  "slug": "sickn33-file-path-traversal",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-file-path-traversal",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/file-path-traversal/SKILL.md?plain=1#L1-L492",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/file-path-traversal/SKILL.md?plain=1#L1-L492",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Security testing skill for identifying and testing path traversal (directory traversal) vulnerabilities in web applications.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/file-path-traversal/SKILL.md?plain=1#L1-L492"
+  },
+  "collected_at": "2026-05-27T03:44:47+00:00"
+}

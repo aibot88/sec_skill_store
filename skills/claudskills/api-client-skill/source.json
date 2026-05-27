@@ -1,0 +1,18 @@
+{
+  "name": "api-client",
+  "slug": "api-client-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-client-skill/",
+  "download_url": "https://claudskills.com/skills/api-client-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "REST API client builder with authentication, error handling, retry logic, and request management. Supports OAuth, JWT, API keys. Use when building API integrations, creating API clients, or working with REST services.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:50+00:00"
+}

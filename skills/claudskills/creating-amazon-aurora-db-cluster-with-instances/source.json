@@ -1,0 +1,18 @@
+{
+  "name": "creating-amazon-aurora-db-cluster-with-instances",
+  "slug": "creating-amazon-aurora-db-cluster-with-instances",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/creating-amazon-aurora-db-cluster-with-instances/",
+  "download_url": "https://claudskills.com/skills/creating-amazon-aurora-db-cluster-with-instances/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Creates a complete Amazon Aurora database cluster with instances, handling cluster creation, instance provisioning, and Secrets Manager password management in the proper sequence. Use when setting up new Aurora MySQL or PostgreSQL clusters with production-ready configuration.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

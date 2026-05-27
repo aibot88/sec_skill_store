@@ -1,0 +1,18 @@
+{
+  "name": "fsc-architecture-patterns",
+  "slug": "fsc-architecture-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fsc-architecture-patterns/",
+  "download_url": "https://claudskills.com/skills/fsc-architecture-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing or reviewing a Financial Services Cloud (FSC) solution architecture covering data model selection, Compliant Data Sharing design, integration strategy, and compliance framework alignment. Triggers: 'should I use the managed-package FSC data model or the platform-native model', 'how do I design Compliant Data Sharing for cross-team visibility in FSC', 'FSC integration architecture with core banking', 'which data model does FSC use for households and financial accounts'. NOT for individual FSC feature configuration (use admin/household-model-configuration or admin/financial-account-setup), NOT for person account mechanics outside FSC context (use data/person-accounts), NOT for generic sharing-rule design without FSC compliance requirements (use data/external-user-data-sharing).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

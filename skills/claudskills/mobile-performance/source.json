@@ -1,0 +1,18 @@
+{
+  "name": "mobile-performance",
+  "slug": "mobile-performance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mobile-performance/",
+  "download_url": "https://claudskills.com/skills/mobile-performance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Profile and audit mobile app performance -- cold/warm/hot startup time, memory leaks, battery drain, network efficiency, frame rate jank, and binary size. Covers Flutter, React Native, Swift, and Kotlin apps. Detects image memory issues, undisposed controllers, polling without backoff, missing virtualized lists, and unused asset bloat. Use when diagnosing slow launches, investigating ANRs, reducing app size, or benchmarking rendering performance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "mobile",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

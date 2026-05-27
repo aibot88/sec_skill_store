@@ -1,0 +1,18 @@
+{
+  "name": "apify-influencer-discovery",
+  "slug": "apify-influencer-discovery",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/apify-influencer-discovery/",
+  "download_url": "https://claudskills.com/skills/apify-influencer-discovery/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Find and evaluate influencers for brand partnerships, verify authenticity, and track collaboration performance across Instagram, Facebook, YouTube, and TikTok.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "influencer",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

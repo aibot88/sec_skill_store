@@ -1,0 +1,18 @@
+{
+  "name": "bosskuai-devops-iac",
+  "slug": "bosskuai-devops-iac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bosskuai-devops-iac/",
+  "download_url": "https://claudskills.com/skills/bosskuai-devops-iac/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this for CI/CD, containers, deployment workflows, infrastructure as code, secrets handling, environment promotion, rollback design, and delivery reliability across operational systems.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

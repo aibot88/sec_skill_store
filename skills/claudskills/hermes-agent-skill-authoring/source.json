@@ -1,0 +1,18 @@
+{
+  "name": "hermes-agent-skill-authoring",
+  "slug": "hermes-agent-skill-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hermes-agent-skill-authoring/",
+  "download_url": "https://claudskills.com/skills/hermes-agent-skill-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Author in-repo SKILL.md: frontmatter, validator, structure.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

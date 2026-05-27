@@ -1,0 +1,18 @@
+{
+  "name": "clinical-reports",
+  "slug": "clinical-reports-k-dense-ai-claude-scientific-sk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clinical-reports-k-dense-ai-claude-scientific-sk/",
+  "download_url": "https://claudskills.com/skills/clinical-reports-k-dense-ai-claude-scientific-sk/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT License",
+  "description": "Write comprehensive clinical reports including case reports (CARE guidelines), diagnostic reports (radiology/pathology/lab), clinical trial reports (ICH-E3, SAE, CSR), and patient documentation (SOAP, H&P, discharge summaries). Full support with templates, regulatory compliance (HIPAA, FDA, ICH-GCP), and validation tools.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "biology-medicine",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

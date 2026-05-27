@@ -1,0 +1,18 @@
+{
+  "name": "jenkins-groovy-shared-library-auditor",
+  "slug": "jenkins-groovy-shared-library-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jenkins-groovy-shared-library-auditor/",
+  "download_url": "https://claudskills.com/skills/jenkins-groovy-shared-library-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audits Jenkins shared library Groovy scripts for security anti-patterns using the Script Security Plugin API. Detects unapproved method signatures, sandbox escapes, and credential leakage in pipeline code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

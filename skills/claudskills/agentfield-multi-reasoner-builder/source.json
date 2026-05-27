@@ -1,0 +1,18 @@
+{
+  "name": "agentfield-multi-reasoner-builder",
+  "slug": "agentfield-multi-reasoner-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentfield-multi-reasoner-builder/",
+  "download_url": "https://claudskills.com/skills/agentfield-multi-reasoner-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Architect and ship a complete multi-agent backend system on AgentField from a one-line user request. Use when the user asks to build, scaffold, design, or ship an agent system, multi-agent pipeline, reasoner network, AgentField project, financial reviewer, research agent, compliance agent, or any LLM composition that should outperform LangChain/CrewAI/AutoGen — especially when they want a runnable Docker-compose stack and a working curl smoke test.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "data-science-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

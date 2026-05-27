@@ -1,0 +1,18 @@
+{
+  "name": "sales-amical",
+  "slug": "sales-amical",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-amical/",
+  "download_url": "https://claudskills.com/skills/sales-amical/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Amical platform help — open-source, local-first AI dictation app with Whisper STT, context-aware formatting, Ollama/OpenRouter LLM, MCP voice commands, and 100+ language support (MIT license). Use when setting up Amical on macOS or Windows for the first time, choosing between Whisper model sizes for accuracy vs speed, configuring Ollama for fully offline text formatting, context-aware formatting not adapting to the active application, microphone not switching or audio input issues, custom vocabulary not recognizing industry terminology, comparing Amical to Wispr Flow or Superwhisper for privacy-first dictation, or setting up voice commands with MCP integrations. Do NOT use for picking between meeting note-takers generally (use /sales-note-taker) or reviewing a single call for coaching (use /sales-call-review).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "deal-management",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

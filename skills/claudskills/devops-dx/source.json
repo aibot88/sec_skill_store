@@ -1,0 +1,18 @@
+{
+  "name": "devops-dx",
+  "slug": "devops-dx",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/devops-dx/",
+  "download_url": "https://claudskills.com/skills/devops-dx/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "GitHub/Railway housekeeping for CI env/secret management and DX maintenance. Use when setting or auditing GitHub Actions variables/secrets, syncing Railway env → GitHub, or fixing CI failures due to missing env.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

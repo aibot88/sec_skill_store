@@ -1,0 +1,18 @@
+{
+  "name": "privilege-escalation-methods",
+  "slug": "privilege-escalation-methods",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/privilege-escalation-methods/",
+  "download_url": "https://claudskills.com/skills/privilege-escalation-methods/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provide comprehensive techniques for escalating privileges from a low-privileged user to root/administrator access on compromised Linux and Windows systems. Essential for penetration testing post-exploitation phase and red team operations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

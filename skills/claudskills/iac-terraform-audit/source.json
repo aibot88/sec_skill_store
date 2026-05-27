@@ -1,0 +1,18 @@
+{
+  "name": "iac-terraform-audit",
+  "slug": "iac-terraform-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/iac-terraform-audit/",
+  "download_url": "https://claudskills.com/skills/iac-terraform-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit Terraform, OpenTofu, Terragrunt, and Pulumi modules for state, provider pinning, security (Checkov/tfsec), module hygiene, environment separation, drift, and cost. One sub-agent per module. Static, live, and apply modes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

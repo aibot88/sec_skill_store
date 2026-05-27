@@ -1,0 +1,19 @@
+{
+  "name": "pi",
+  "slug": "share-skills-pi-openclaw-pi",
+  "source": "github",
+  "source_url": "https://github.com/share-skills/pi/blob/749c23cce34904b46066cb649a0945110c82b400/openclaw/pi/SKILL.md",
+  "download_url": "https://github.com/share-skills/pi/blob/749c23cce34904b46066cb649a0945110c82b400/openclaw/pi/SKILL.md",
+  "external_source_url": "https://github.com/share-skills/pi/blob/749c23cce34904b46066cb649a0945110c82b400/openclaw/pi/SKILL.md",
+  "license": "",
+  "description": "PI（π）—— When The Art of War Meets Cognitive Science for Ai",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "share-skills/pi",
+    "path": "openclaw/pi/SKILL.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:59+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "browser-eyeballs",
+  "slug": "browser-eyeballs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/browser-eyeballs/",
+  "download_url": "https://claudskills.com/skills/browser-eyeballs/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Browse and visually inspect webpages using headless Chromium via Puppeteer MCP. Use when you need to see a page, interact with a web UI, extract information that WebFetch can't get (JS-rendered content, SPAs, authenticated pages), or when the user wants to show you something in a browser.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

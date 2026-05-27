@@ -1,0 +1,18 @@
+{
+  "name": "personal-pre-push-review",
+  "slug": "personal-pre-push-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/personal-pre-push-review/",
+  "download_url": "https://claudskills.com/skills/personal-pre-push-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Pre-push adversarial review for personal repos before git push. Runs adversarial-input sweep, parallel-implementation symmetry audit, project AGENTS.md compliance, dead-code sweep, secrets scan. Use before any push; mandatory for repos that will become public or shared. Tier 2 sub-agent does the bulk; Tier 3 main synthesizes.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "corpus-index-build",
+  "slug": "corpus-index-build",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/corpus-index-build/",
+  "download_url": "https://claudskills.com/skills/corpus-index-build/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build graph indices (by-topic, by-year, authors, citation-network) from corpus state using definitions in .aiwg/config.yaml. Replaces manual 3-agent dispatch with a single command.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

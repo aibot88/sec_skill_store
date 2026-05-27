@@ -1,0 +1,18 @@
+{
+  "name": "oraclecloud-common-errors",
+  "slug": "oraclecloud-common-errors",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oraclecloud-common-errors/",
+  "download_url": "https://claudskills.com/skills/oraclecloud-common-errors/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Diagnose and fix Oracle Cloud Infrastructure API errors with real error codes and proven fixes. Use when encountering OCI ServiceError exceptions, auth failures, SSL issues, or timeout errors. Trigger with \"oci error\", \"fix oraclecloud\", \"debug oci\", \"NotAuthorizedOrNotFound\", \"oci 401\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "competitor-ad-intelligence",
+  "slug": "competitor-ad-intelligence",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/competitor-ad-intelligence/",
+  "download_url": "https://claudskills.com/skills/competitor-ad-intelligence/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scrape competitor ads from Meta Ad Library and Google Ads Transparency Center, analyze creative patterns (hooks, formats, CTAs), reverse-engineer landing page funnels, and produce a strategic teardown with vulnerability analysis and counter-play recommendations. Use when you need to understand the competitive ad landscape, find new creative directions, or identify weaknesses in a competitor's paid strategy.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

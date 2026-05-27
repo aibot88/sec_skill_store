@@ -1,0 +1,18 @@
+{
+  "name": "alamofire-patterns",
+  "slug": "alamofire-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alamofire-patterns/",
+  "download_url": "https://claudskills.com/skills/alamofire-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert Alamofire decisions for iOS/tvOS: when Alamofire adds value vs URLSession suffices, interceptor chain design trade-offs, retry strategy selection, and certificate pinning considerations. Use when designing network layer, implementing auth token refresh, or choosing between networking approaches. Trigger keywords: Alamofire, URLSession, interceptor, RequestAdapter, RequestRetrier, certificate pinning, Session, network layer, token refresh, retry",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "kubernetes-operations",
+  "slug": "kubernetes-operations",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kubernetes-operations/",
+  "download_url": "https://claudskills.com/skills/kubernetes-operations/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Assist with Kubernetes interactions including debugging (kubectl logs, describe, exec, port-forward), resource management (deployments, services, configmaps, secrets), and cluster operations (scaling, rollouts, node management). Use when working with kubectl, pods, deployments, services, or troubleshooting Kubernetes issues.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

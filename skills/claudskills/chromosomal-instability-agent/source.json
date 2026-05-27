@@ -1,0 +1,18 @@
+{
+  "name": "chromosomal-instability-agent",
+  "slug": "chromosomal-instability-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chromosomal-instability-agent/",
+  "download_url": "https://claudskills.com/skills/chromosomal-instability-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AI-powered analysis of chromosomal instability (CIN) signatures for cancer prognosis, immunotherapy response prediction, and therapeutic vulnerability identification.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

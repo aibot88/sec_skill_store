@@ -1,0 +1,18 @@
+{
+  "name": "java-ecosystem",
+  "slug": "java-ecosystem",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/java-ecosystem/",
+  "download_url": "https://claudskills.com/skills/java-ecosystem/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Java 25 development patterns for the crypto-scout ecosystem including microservices, ActiveJ, and async I/O",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

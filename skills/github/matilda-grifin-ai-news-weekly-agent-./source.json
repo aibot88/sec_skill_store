@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "matilda-grifin-ai-news-weekly-agent-.",
+  "source": "github",
+  "source_url": "https://github.com/Matilda-Grifin/ai-news-weekly-agent/blob/611860035c13d9b06c136774a3d7052f10c66a23/skill.md",
+  "download_url": "https://github.com/Matilda-Grifin/ai-news-weekly-agent/blob/611860035c13d9b06c136774a3d7052f10c66a23/skill.md",
+  "external_source_url": "https://github.com/Matilda-Grifin/ai-news-weekly-agent/blob/611860035c13d9b06c136774a3d7052f10c66a23/skill.md",
+  "license": "",
+  "description": "每周自动生成中文 AI 资讯周报：聚合 OpenClaw 热榜、官方新闻与论文，支持论文占比控制和 OpenClaw Skill 运行。",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Matilda-Grifin/ai-news-weekly-agent",
+    "path": "skill.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

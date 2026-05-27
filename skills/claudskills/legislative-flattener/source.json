@@ -1,0 +1,18 @@
+{
+  "name": "legislative-flattener",
+  "slug": "legislative-flattener",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/legislative-flattener/",
+  "download_url": "https://claudskills.com/skills/legislative-flattener/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Converts hierarchical legislative text from Word documents into a flat list of requirements. Use when processing regulatory documents, compliance frameworks, or legal text that needs to be extracted into individual, numbered requirements for analysis or mapping.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:30+00:00"
+}

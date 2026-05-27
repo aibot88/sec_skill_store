@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "chaigon-code-security-audit-skill-.",
+  "source": "github",
+  "source_url": "https://github.com/chaigon/code-security-audit-skill/blob/3e3953a62d0dd3e35585bebd2cc328f7462d9ae5/SKILL.md",
+  "download_url": "https://github.com/chaigon/code-security-audit-skill/blob/3e3953a62d0dd3e35585bebd2cc328f7462d9ae5/SKILL.md",
+  "external_source_url": "https://github.com/chaigon/code-security-audit-skill/blob/3e3953a62d0dd3e35585bebd2cc328f7462d9ae5/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "chaigon/code-security-audit-skill",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:59+00:00"
+}

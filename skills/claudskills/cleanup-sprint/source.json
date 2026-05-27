@@ -1,0 +1,18 @@
+{
+  "name": "cleanup-sprint",
+  "slug": "cleanup-sprint",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cleanup-sprint/",
+  "download_url": "https://claudskills.com/skills/cleanup-sprint/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deep codebase cleanup — kills dead code, fixes all lint/format warnings, removes orphaned files, cleans stale TODOs, strips security hazards, tightens TypeScript strict mode, and organizes imports. Triggers on: clean up, dead code, unused imports, lint, technical debt cleanup, spring cleaning, tidy up the codebase, remove dead code, code hygiene, declutter.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

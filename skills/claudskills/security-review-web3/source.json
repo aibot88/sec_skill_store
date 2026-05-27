@@ -1,0 +1,18 @@
+{
+  "name": "security-review-web3",
+  "slug": "security-review-web3",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-review-web3/",
+  "download_url": "https://claudskills.com/skills/security-review-web3/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Security patterns for Web3 and blockchain applications — Solana wallet signature verification, transaction validation, smart contract interaction security, and checklist for DeFi/NFT features.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

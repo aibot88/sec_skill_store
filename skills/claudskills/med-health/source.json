@@ -1,0 +1,18 @@
+{
+  "name": "med-health",
+  "slug": "med-health",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/med-health/",
+  "download_url": "https://claudskills.com/skills/med-health/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when writing a medical or health news story — clinical research breakthroughs, public health alerts, drug approvals, epidemiology, health policy, patient stories, risk communication — from research papers, press releases, health authority statements, or interviews. Specializes the med-news-reporter workflow for health-beat discipline: relative risk framing, absolute baseline inclusion, evidence-hierarchy verification, deidentification protocol, and WHO suicide-reporting compliance. Triggers on phrases like '寫一篇醫學新研究', 'draft a health news piece', '整理流行病新聞', '幫我把這份臨床試驗結果寫成新聞', '健康新聞報導', 'write up this drug approval', 'health story from this study'. Do NOT use for medical advice (→ consult healthcare provider), pharmaceutical marketing (→ mkt-pharma), hospital PR/press release in house voice (→ pr-press-release).",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "growth-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

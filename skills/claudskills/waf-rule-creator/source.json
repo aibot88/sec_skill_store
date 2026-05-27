@@ -1,0 +1,18 @@
+{
+  "name": "waf-rule-creator",
+  "slug": "waf-rule-creator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/waf-rule-creator/",
+  "download_url": "https://claudskills.com/skills/waf-rule-creator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Waf Rule Creator - Auto-activating skill for Security Advanced. Triggers on: waf rule creator, waf rule creator Part of the Security Advanced skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

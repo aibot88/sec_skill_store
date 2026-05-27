@@ -1,0 +1,18 @@
+{
+  "name": "investigating-builds",
+  "slug": "investigating-builds",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/investigating-builds/",
+  "download_url": "https://claudskills.com/skills/investigating-builds/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when the user is working with an existing Buildkite CI run and wants to understand, diagnose, or act on it. Strong signals: a buildkite.com URL, the word \"buildkite\", the `bk` CLI, the `bktide` tool, or a reference to a specific pipeline, build, or job. Covers intents like: \"why did this build fail\", \"what's flaking\", \"summarize pass/fail rates across recent builds\", \"pull logs for this job\", \"figure out the exact command CI ran so I can reproduce it locally\" (often via docker-compose), \"why didn't my downstream build trigger\", and debugging `bk`/`bktide` behavior itself (auth failures, query errors, sandbox issues). Do NOT use for authoring pipeline YAML or adding pipeline steps (that's `buildkite:developing-pipelines`). Do NOT use for meta-work on the Claude buildkite plugin itself (editing SKILL.md, reviewing pickled-claude-plugins PRs, adding reference docs under the plugin's directory). Do NOT use for GitHub Actions, PR review, app code changes, git merge conflicts, or local `bk` config (`~/.bk/config.yml`) that don't involve investigating an actual build. This skill reads and investigates CI runs that already exist.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

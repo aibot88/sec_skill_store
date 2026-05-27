@@ -1,0 +1,18 @@
+{
+  "name": "hootsuite-install-auth",
+  "slug": "hootsuite-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hootsuite-install-auth/",
+  "download_url": "https://claudskills.com/skills/hootsuite-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Hootsuite SDK/CLI authentication. Use when setting up a new Hootsuite integration, configuring API keys, or initializing Hootsuite in your project. Trigger with phrases like \"install hootsuite\", \"setup hootsuite\", \"hootsuite auth\", \"configure hootsuite API key\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

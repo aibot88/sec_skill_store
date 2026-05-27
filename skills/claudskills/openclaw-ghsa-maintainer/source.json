@@ -1,0 +1,18 @@
+{
+  "name": "openclaw-ghsa-maintainer",
+  "slug": "openclaw-ghsa-maintainer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/openclaw-ghsa-maintainer/",
+  "download_url": "https://claudskills.com/skills/openclaw-ghsa-maintainer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Maintainer workflow for OpenClaw GitHub Security Advisories (GHSA). Use when Codex needs to inspect, patch, validate, or publish a repo advisory, verify private-fork state, prepare advisory Markdown or JSON payloads safely, handle GHSA API-specific publish constraints, or confirm advisory publish success.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

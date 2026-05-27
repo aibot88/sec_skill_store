@@ -1,0 +1,18 @@
+{
+  "name": "apify-security-basics",
+  "slug": "apify-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/apify-security-basics/",
+  "download_url": "https://claudskills.com/skills/apify-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Secure Apify API tokens, configure proxy access, and protect Actor data. Use when hardening API key management, setting up environment-specific tokens, or auditing Apify security configuration. Trigger: \"apify security\", \"apify secrets\", \"secure apify token\", \"apify API key security\", \"rotate apify token\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

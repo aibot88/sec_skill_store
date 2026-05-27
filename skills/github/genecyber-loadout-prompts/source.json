@@ -1,0 +1,19 @@
+{
+  "name": "prompts",
+  "slug": "genecyber-loadout-prompts",
+  "source": "github",
+  "source_url": "https://github.com/genecyber/loadout/blob/e3717f78caa4b32cece3e54e241ab6b2ddcf8854/prompts/audit-skill.md",
+  "download_url": "https://github.com/genecyber/loadout/blob/e3717f78caa4b32cece3e54e241ab6b2ddcf8854/prompts/audit-skill.md",
+  "external_source_url": "https://github.com/genecyber/loadout/blob/e3717f78caa4b32cece3e54e241ab6b2ddcf8854/prompts/audit-skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "genecyber/loadout",
+    "path": "prompts/audit-skill.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

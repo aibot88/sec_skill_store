@@ -1,0 +1,18 @@
+{
+  "name": "code-review-analysis",
+  "slug": "code-review-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-review-analysis/",
+  "download_url": "https://claudskills.com/skills/code-review-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Perform comprehensive code reviews with best practices, security checks, and constructive feedback. Use when reviewing pull requests, analyzing code quality, checking for security vulnerabilities, or providing code improvement suggestions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

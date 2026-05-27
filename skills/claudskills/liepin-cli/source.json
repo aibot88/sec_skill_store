@@ -1,0 +1,18 @@
+{
+  "name": "liepin-cli",
+  "slug": "liepin-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/liepin-cli/",
+  "download_url": "https://claudskills.com/skills/liepin-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "猎聘求职工具 — 在猎聘上搜索职位、投递简历、查看/编辑简历。 Use when Liepin (猎聘) workflows need the CLI—missing or expired token, unauthorized responses, first-time setup, resume fetch/update, job search or apply, choosing job-kind from search results, machine-readable JSON for parsing. 触发词: 找工作, 搜职位, 投简历, 猎聘, liepin, 求职, 招聘, 简历",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

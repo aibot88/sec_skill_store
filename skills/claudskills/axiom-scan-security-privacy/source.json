@@ -1,0 +1,18 @@
+{
+  "name": "axiom-scan-security-privacy",
+  "slug": "axiom-scan-security-privacy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/axiom-scan-security-privacy/",
+  "download_url": "https://claudskills.com/skills/axiom-scan-security-privacy/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user mentions security review, App Store submission prep, Privacy Manifest requirements, hardcoded credentials, or sensitive data storage.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:00+00:00"
+}

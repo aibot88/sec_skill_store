@@ -1,0 +1,18 @@
+{
+  "name": "grammar-style-enhancer",
+  "slug": "grammar-style-enhancer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/grammar-style-enhancer/",
+  "download_url": "https://claudskills.com/skills/grammar-style-enhancer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyzes prose for grammar errors, style inconsistencies, clarity issues, and readability problems. Provides specific suggestions for improvement while preserving the author's unique voice. Use when the user needs help polishing their writing, improving clarity, or maintaining consistent style.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

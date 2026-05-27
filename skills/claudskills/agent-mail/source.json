@@ -1,0 +1,18 @@
+{
+  "name": "agent-mail",
+  "slug": "agent-mail",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-mail/",
+  "download_url": "https://claudskills.com/skills/agent-mail/SKILL.md",
+  "external_source_url": "",
+  "license": "NOASSERTION",
+  "description": "MCP Agent Mail - Mail-like coordination layer for multi-agent workflows. Identities, inbox/outbox, file reservations, contact policies, threaded messaging, pre-commit guard, Human Overseer, static exports, disaster recovery. Git+SQLite backed. Python/FastMCP.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

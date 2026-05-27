@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "fireman-droid-template-replace-.",
+  "source": "github",
+  "source_url": "https://github.com/fireman-droid/template-replace/blob/798d7b531996ba20b4b8d0d36091e4061950814a/AGENT_SKILL.md",
+  "download_url": "https://github.com/fireman-droid/template-replace/blob/798d7b531996ba20b4b8d0d36091e4061950814a/AGENT_SKILL.md",
+  "external_source_url": "https://github.com/fireman-droid/template-replace/blob/798d7b531996ba20b4b8d0d36091e4061950814a/AGENT_SKILL.md",
+  "license": "",
+  "description": "道爷我悟了",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "fireman-droid/template-replace",
+    "path": "AGENT_SKILL.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

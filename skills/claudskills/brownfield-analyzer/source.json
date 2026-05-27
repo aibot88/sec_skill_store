@@ -1,0 +1,18 @@
+{
+  "name": "brownfield-analyzer",
+  "slug": "brownfield-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/brownfield-analyzer/",
+  "download_url": "https://claudskills.com/skills/brownfield-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyzes existing brownfield projects to map documentation to SpecWeave's structure (PRD/HLD/Spec/Runbook). Use when migrating existing projects to SpecWeave, scanning legacy docs, or creating project context maps. Detects external tools (JIRA, ADO, GitHub) and supports incremental or comprehensive migration paths.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

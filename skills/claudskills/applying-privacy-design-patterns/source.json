@@ -1,0 +1,18 @@
+{
+  "name": "applying-privacy-design-patterns",
+  "slug": "applying-privacy-design-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/applying-privacy-design-patterns/",
+  "download_url": "https://claudskills.com/skills/applying-privacy-design-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Systematic application of the eight privacy design patterns per Hoepman: minimize, hide, separate, abstract, inform, control, enforce, and demonstrate. Covers pattern selection methodology per processing activity, mapping to GDPR principles, and practical implementation guidance for privacy-by-design system architecture.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

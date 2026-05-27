@@ -1,0 +1,18 @@
+{
+  "name": "scanning-containers-with-trivy-in-cicd",
+  "slug": "scanning-containers-with-trivy-in-cicd",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scanning-containers-with-trivy-in-cicd/",
+  "download_url": "https://claudskills.com/skills/scanning-containers-with-trivy-in-cicd/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill covers integrating Aqua Security''s Trivy scanner into CI/CD pipelines for comprehensive container",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

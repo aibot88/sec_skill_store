@@ -1,0 +1,18 @@
+{
+  "name": "code-security-review",
+  "slug": "code-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-security-review/",
+  "download_url": "https://claudskills.com/skills/code-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Conducts comprehensive security code reviews including vulnerability detection (OWASP Top 10, CWE), authentication/authorization flaws, injection attacks, cryptography issues, sensitive data exposure, API security, dependency vulnerabilities, security misconfigurations, and compliance validation (PCI-DSS, GDPR, HIPAA). Produces detailed security assessment reports with CVE references, CVSS scores, exploit scenarios, and remediation guidance. Use when reviewing code security, performing security audits, checking for vulnerabilities, validating security controls, assessing security risks, or when users mention \"security review\", \"vulnerability scan\", \"security audit\", \"penetration test\", \"OWASP\", \"security assessment\", \"secure coding\", or \"security compliance\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "di-helper",
+  "slug": "di-helper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/di-helper/",
+  "download_url": "https://claudskills.com/skills/di-helper/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage tsyringe DI container registration, scan injectable classes, detect missing registrations, validate injection patterns, and generate registration code. Use when registering repositories, fixing DI errors, or setting up new context (e.g., \"Register ProductRepository\", \"Check DI setup\").",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

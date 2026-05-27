@@ -1,0 +1,18 @@
+{
+  "name": "encrypting-and-decrypting-data",
+  "slug": "encrypting-and-decrypting-data",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/encrypting-and-decrypting-data/",
+  "download_url": "https://claudskills.com/skills/encrypting-and-decrypting-data/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Validate encryption implementations and cryptographic practices. Use when reviewing data security measures. Trigger with 'check encryption', 'validate crypto', or 'review security keys'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crypto-keymgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

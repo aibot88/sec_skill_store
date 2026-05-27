@@ -1,0 +1,18 @@
+{
+  "name": "elevenlabs-install-auth",
+  "slug": "elevenlabs-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/elevenlabs-install-auth/",
+  "download_url": "https://claudskills.com/skills/elevenlabs-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure ElevenLabs SDK authentication for Node.js or Python. Use when setting up a new ElevenLabs project, configuring API keys, or initializing the elevenlabs npm/pip package. Trigger: \"install elevenlabs\", \"setup elevenlabs\", \"elevenlabs auth\", \"configure elevenlabs API key\", \"elevenlabs credentials\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

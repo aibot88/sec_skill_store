@@ -1,0 +1,18 @@
+{
+  "name": "agentic-qa-onboard",
+  "slug": "agentic-qa-onboard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentic-qa-onboard/",
+  "download_url": "https://claudskills.com/skills/agentic-qa-onboard/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Walks new users through this repo's QA flow — Playwright + KATA + Allure + Xray stack, Jira QA workflow (Ready For QA → In Testing → Tested → Closed), /sprint-testing for in-sprint manual QA, /test-documentation for TMS test cases, /test-automation for KATA-compliant E2E/API tests, /regression-testing for CI suite execution, /framework-development for boilerplate evolution, MCPs available (Context7, Tavily, Atlassian, Playwright, DBHub, OpenAPI, Postman), critical env vars. Triggers on: `onboard me to QA`, `explain this QA repo`, `first time using this`, `primer vez en QA`, `/agentic-qa-onboard`. Do NOT use for: feature QA on a ticket (use /sprint-testing), authoring test cases in TMS (use /test-documentation), writing automated tests (use /test-automation), running regression suites (use /regression-testing).",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agile",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

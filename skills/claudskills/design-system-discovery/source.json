@@ -1,0 +1,18 @@
+{
+  "name": "design-system-discovery",
+  "slug": "design-system-discovery",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/design-system-discovery/",
+  "download_url": "https://claudskills.com/skills/design-system-discovery/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design system auto-detection — scans repository for installed component libraries, token systems, and variant frameworks to build a structured design-system-profile.yaml. Provides the discoverDesignSystem() algorithm used by devise, strive, and arc workflows. Provides the discoverFrontendStack() algorithm for Layer 1 frontend stack detection with version extraction, used by design-prototype Phase 0. Trigger keywords: shadcn, shadcn/ui, untitled ui, radix ui, design system, design tokens, tailwind, css variables, cva, class-variance-authority, styled-components, tailwind v4, style-dictionary, token system, component library, design compliance, frontend stack, figma tokens, dark mode, ui library, component library detection, design system discovery.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-system-ui",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

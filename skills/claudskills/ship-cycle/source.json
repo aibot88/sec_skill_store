@@ -1,0 +1,18 @@
+{
+  "name": "ship-cycle",
+  "slug": "ship-cycle",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ship-cycle/",
+  "download_url": "https://claudskills.com/skills/ship-cycle/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Issue-driven development orchestrator. Turns improvement intent into a well-specified, bilingual issue set; clusters issues into milestones that map 1:1 to semver versions; enforces branch, commit, and PR conventions (GitHub Flow — `<type>/<issue-N>-<slug>`, Conventional Commits, mandatory PR template, rebase-first merge); generates changelog entries and release notes deterministically from closed issues; leaves a durable audit trail for the next AI session. Direct-call only — not part of the /vibesubin parallel sweep. Two tracks — **GitHub track** (default) on GitHub with authenticated `gh` CLI; **PRD track** on any other host, using local markdown files under `docs/release-cycle/vX.Y.Z/` as the durable audit trail. Operator picks at Step 1.5. Every external mutation follows preview → confirm → mutate; created resources carry idempotency markers so re-runs noop instead of duplicating.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

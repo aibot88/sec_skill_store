@@ -1,0 +1,18 @@
+{
+  "name": "claude-desktop",
+  "slug": "claude-desktop",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/claude-desktop/",
+  "download_url": "https://claudskills.com/skills/claude-desktop/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Central authority for Claude Desktop application - the native desktop app for running Claude Code sessions. Covers installation (macOS/Windows), Git worktrees for parallel sessions, .worktreeinclude file configuration, cloud session launch, environment configuration, MCP Desktop Extensions (.mcpb), and Desktop vs CLI comparison. Assists with Desktop setup, worktree configuration, cloud sessions, and troubleshooting. Delegates 100% to docs-management skill for official documentation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

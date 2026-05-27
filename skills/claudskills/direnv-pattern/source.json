@@ -1,0 +1,18 @@
+{
+  "name": "direnv-pattern",
+  "slug": "direnv-pattern",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/direnv-pattern/",
+  "download_url": "https://claudskills.com/skills/direnv-pattern/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implements the b00t environment management pattern: direnv → .envrc → dotenv → .env where datums specify WHICH environment variables are required and .env contains the actual secret VALUES. Ensures automatic environment loading per-project.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

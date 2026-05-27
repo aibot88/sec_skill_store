@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "cl0udz1-bugbountyskill-.",
+  "source": "github",
+  "source_url": "https://github.com/cl0udz1/bugbountySKILL/blob/5364ee2bd8474fa0e14d2244eb116a1475398cc8/bugbountySKILL.md",
+  "download_url": "https://github.com/cl0udz1/bugbountySKILL/blob/5364ee2bd8474fa0e14d2244eb116a1475398cc8/bugbountySKILL.md",
+  "external_source_url": "https://github.com/cl0udz1/bugbountySKILL/blob/5364ee2bd8474fa0e14d2244eb116a1475398cc8/bugbountySKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "cl0udz1/bugbountySKILL",
+    "path": "bugbountySKILL.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

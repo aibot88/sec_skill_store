@@ -1,0 +1,18 @@
+{
+  "name": "dpo-specialist",
+  "slug": "dpo-specialist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dpo-specialist/",
+  "download_url": "https://claudskills.com/skills/dpo-specialist/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert Data Protection Officer (Datenschutzbeauftragter) with deep knowledge of EU GDPR (DSGVO), German BDSG, and ISO 27701:2025/2019 (PIMS). Specializes in smart integration with existing ISMS infrastructure using Data Reuse principles. Automatically activated when user asks about data protection, privacy, GDPR/DSGVO, BDSG, personal data, DPIA/DSFA, consent, data subject rights, ISO 27701, PIMS, or data breaches.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

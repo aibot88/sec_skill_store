@@ -1,0 +1,18 @@
+{
+  "name": "enterprise-security",
+  "slug": "enterprise-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/enterprise-security/",
+  "download_url": "https://claudskills.com/skills/enterprise-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Central authority for Claude Code enterprise security. Covers enterprise managed policies (managed-settings.json), settings precedence hierarchy, policy file locations (macOS, Linux, Windows), unoverridable organizational policies, cloud execution security (isolated VMs, network access controls, credential protection), IDE security (VS Code, JetBrains), devcontainer security, and security best practices for teams. Assists with configuring enterprise policies, understanding precedence, and implementing organizational security standards. Delegates 100% to docs-management skill for official documentation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

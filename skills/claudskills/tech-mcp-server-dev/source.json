@@ -1,0 +1,18 @@
+{
+  "name": "tech-mcp-server-dev",
+  "slug": "tech-mcp-server-dev",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tech-mcp-server-dev/",
+  "download_url": "https://claudskills.com/skills/tech-mcp-server-dev/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build MCP (Model Context Protocol) servers including tool definition, schema design, authentication, error handling, and Claude Code integration. Use this skill when the user needs to create an MCP server, expose APIs or databases to AI agents, design tool schemas, or integrate with Claude Code — even if they say 'build an MCP server', 'connect Claude to our database', 'expose our API to AI', or 'create a tool for Claude Code'.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

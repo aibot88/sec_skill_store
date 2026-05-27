@@ -1,0 +1,18 @@
+{
+  "name": "data-breach-response",
+  "slug": "data-breach-response",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/data-breach-response/",
+  "download_url": "https://claudskills.com/skills/data-breach-response/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT + Commons Clause",
+  "description": "Data breach incident response with ENISA severity scoring, notification timelines, and compliance tracking. Use for breach assessment and response.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

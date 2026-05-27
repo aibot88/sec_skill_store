@@ -1,0 +1,18 @@
+{
+  "name": "automating-database-backups",
+  "slug": "automating-database-backups",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/automating-database-backups/",
+  "download_url": "https://claudskills.com/skills/automating-database-backups/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Automate database backup processes with scheduling, compression, and encryption. Supports PostgreSQL (pg_dump), MySQL (mysqldump), MongoDB (mongodump), and SQLite. Generates production-ready backup scripts with retention policies and restore procedures. Trigger: \"automate database backups\", \"schedule backups\", \"create backup script\", \"disaster recovery\". Use when working with automating database backups. Trigger with 'automating', 'database', 'backups'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

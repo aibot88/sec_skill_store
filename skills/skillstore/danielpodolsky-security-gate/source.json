@@ -1,0 +1,18 @@
+{
+  "name": "security-gate",
+  "slug": "danielpodolsky-security-gate",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/danielpodolsky-security-gate",
+  "download_url": "https://github.com/DanielPodolsky/mentor-spec/blob/main/.claude/skills/gates/security/SKILL.md?plain=1#L80",
+  "external_source_url": "https://github.com/DanielPodolsky/mentor-spec/blob/main/.claude/skills/gates/security/SKILL.md?plain=1#L80",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Verify security considerations were addressed before shipping. Issues result in WARNINGS that strongly recommend fixing.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/DanielPodolsky/mentor-spec/blob/main/.claude/skills/gates/security/SKILL.md?plain=1#L80"
+  },
+  "collected_at": "2026-05-27T03:44:43+00:00"
+}

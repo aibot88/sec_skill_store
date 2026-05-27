@@ -1,0 +1,18 @@
+{
+  "name": "angular-routing",
+  "slug": "angular-routing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/angular-routing/",
+  "download_url": "https://claudskills.com/skills/angular-routing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement routing in Angular v20+ applications with lazy loading, functional guards, resolvers, and route parameters. Use for navigation setup, protected routes, route-based data loading, and nested routing. Triggers on route configuration, adding authentication guards, implementing lazy loading, or reading route parameters with signals.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

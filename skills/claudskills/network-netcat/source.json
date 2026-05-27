@@ -1,0 +1,18 @@
+{
+  "name": "network-netcat",
+  "slug": "network-netcat",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/network-netcat/",
+  "download_url": "https://claudskills.com/skills/network-netcat/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Network utility for reading and writing data across TCP/UDP connections, port scanning, file transfers, and backdoor communication channels. Use when: (1) Testing network connectivity and port availability, (2) Creating reverse shells and bind shells for authorized penetration testing, (3) Transferring files between systems in restricted environments, (4) Banner grabbing and service enumeration, (5) Establishing covert communication channels, (6) Testing firewall rules and network segmentation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

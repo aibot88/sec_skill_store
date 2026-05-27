@@ -1,0 +1,18 @@
+{
+  "name": "therapy-personalization",
+  "slug": "therapy-personalization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/therapy-personalization/",
+  "download_url": "https://claudskills.com/skills/therapy-personalization/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Evaluate physical therapy personalization and adaptive treatment systems. Analyzes exercise recommendation algorithms (rules-based, collaborative filtering, protocol-driven), contraindication enforcement and safety checks, difficulty progression logic (multi-parameter advancement with regression pathways), patient compliance prediction models, home exercise program (HEP) generation and delivery workflows, video/image exercise library quality and accessibility, and outcome-driven treatment plan adaptation using clinical practice guidelines and evidence-based protocols.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

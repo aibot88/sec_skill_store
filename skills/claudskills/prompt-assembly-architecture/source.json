@@ -1,0 +1,18 @@
+{
+  "name": "prompt-assembly-architecture",
+  "slug": "prompt-assembly-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prompt-assembly-architecture/",
+  "download_url": "https://claudskills.com/skills/prompt-assembly-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design, review, or refactor prompt assembly systems with static and dynamic prompt boundaries, section registries, cache-aware composition, feature-gated overlays, and session-specific instruction injection. Use when Codex needs to build or audit system prompt pipelines, prompt builders, prompt layering, or instruction composition code.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

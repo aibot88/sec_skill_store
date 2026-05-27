@@ -1,0 +1,18 @@
+{
+  "name": "afx-cicd-scaffold",
+  "slug": "afx-cicd-scaffold",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/afx-cicd-scaffold/",
+  "download_url": "https://claudskills.com/skills/afx-cicd-scaffold/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Bootstrap a complete .github/workflows/ set for a new project: CI (build/test/lint), CD (workflow_dispatch with env choice + OIDC + ECR), security-scan (gitleaks + dependency scan + CodeQL), and optional database-migration. Use this skill when the user wants to add GitHub Actions CI/CD to a project that does not already have it, or when they want to add missing workflows alongside existing ones.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

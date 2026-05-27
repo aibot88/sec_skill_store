@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-priest",
+  "slug": "agentprivacy-priest",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-priest/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-priest/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Ceremony and Ritual Designer for 0xagentprivacy. Activates for VRC ceremony design (Shadow→Guarded→Balanced→Open→Declared), Signal to Sanctuary pipeline choreography, proverb evaluation calibration, ceremony progression rituals, RPP recovery ceremonies, or any task requiring the sacred architecture of trust establishment.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

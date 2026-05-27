@@ -1,0 +1,18 @@
+{
+  "name": "agentuity-cli-cloud-keyvalue-delete-namespace",
+  "slug": "agentuity-cli-cloud-keyvalue-delete-namespace",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentuity-cli-cloud-keyvalue-delete-namespace/",
+  "download_url": "https://claudskills.com/skills/agentuity-cli-cloud-keyvalue-delete-namespace/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Delete a keyvalue namespace and all its keys. Requires authentication. Use for Agentuity cloud platform operations",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "auditing-technical-seo",
+  "slug": "auditing-technical-seo",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auditing-technical-seo/",
+  "download_url": "https://claudskills.com/skills/auditing-technical-seo/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when running a technical SEO audit, debugging Core Web Vitals regressions, checking indexability, validating schema and sitemaps, diagnosing why a site isn't ranking, or preparing a site for AI-search visibility (GPTBot, ClaudeBot, PerplexityBot). Covers crawlability, indexability, rendering, Core Web Vitals, schema, AI-search readiness, mobile, security, and meta basics. Lifecycle-aware — pre-launch, growth, mature. Produces a prioritized SEO_AUDIT.md and a low-risk fix PR.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

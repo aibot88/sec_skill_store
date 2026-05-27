@@ -1,0 +1,18 @@
+{
+  "name": "ctf-solver",
+  "slug": "ctf-solver",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ctf-solver/",
+  "download_url": "https://claudskills.com/skills/ctf-solver/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Solve CTF (Capture The Flag) challenges by analyzing challenge descriptions, source code, and interacting with challenge environments to capture flags.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

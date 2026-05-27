@@ -1,0 +1,18 @@
+{
+  "name": "connection-auth-rules",
+  "slug": "connection-auth-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/connection-auth-rules/",
+  "download_url": "https://claudskills.com/skills/connection-auth-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build a Connection Auth Rules for a Monte Carlo connection type. Fetches live connector schemas and transform steps from the apollo-agent repo.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "prospecting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "myco:write-myco-skill",
+  "slug": "write-myco-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/write-myco-skill/",
+  "download_url": "https://claudskills.com/skills/write-myco-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Create and validate a Myco-managed SKILL.md file using vault_write_skill. Use when authoring a new skill from scratch, updating an existing skill, or fixing a skill that failed the quality gate. Applies whenever you need to produce a valid .agents/skills/<name>/SKILL.md file that passes structural validation. Also load when vault_write_skill returns a rejection error — the error message identifies the failing constraint, but this skill explains the full field contract and the known contamination pitfalls.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

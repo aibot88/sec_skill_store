@@ -1,0 +1,18 @@
+{
+  "name": "block-secret-leaks-before-commit-or-push-with-ggshield",
+  "slug": "block-secret-leaks-before-commit-or-push-with-ggshield",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/block-secret-leaks-before-commit-or-push-with-ggshield/",
+  "download_url": "https://claudskills.com/skills/block-secret-leaks-before-commit-or-push-with-ggshield/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scan staged changes, commits, or repositories for secrets before they leave the workstation or CI job, instead of relying on a later platform-side catch.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "tunneling",
+  "slug": "tunneling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tunneling/",
+  "download_url": "https://claudskills.com/skills/tunneling/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create free SSH tunnels to expose local ports to the internet using tinyfi.sh. Use when you need to share a locally running app, test webhooks, demo a prototype, or get a public HTTPS URL for any local service — no signup or authentication required.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-system-ui",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

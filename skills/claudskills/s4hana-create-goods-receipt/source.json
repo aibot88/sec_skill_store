@@ -1,0 +1,18 @@
+{
+  "name": "s4hana-create-goods-receipt",
+  "slug": "s4hana-create-goods-receipt",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/s4hana-create-goods-receipt/",
+  "download_url": "https://claudskills.com/skills/s4hana-create-goods-receipt/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Create Goods Receipts (Material Documents) in SAP S/4HANA Cloud Public or on-prem private edition via OData V2 A_MaterialDocumentHeader deep-insert at API_MATERIAL_DOCUMENT_SRV. Use whenever the user wants to create, post, add, generate, seed, receive, or confirm receipt of goods on S/4HANA — phrases like \"post a goods receipt\", \"receive goods for PO X\", \"create GR for these POs\", \"seed GR demo data\", \"post GRs\", \"complete the 3-way match\", \"post material document\". Handles full header + item deep-insert, CSRF flow, partial vs full receipt, idempotent bulk batches with per-record logging, and the GoodsMovementRefDocType=B requirement for PO-based receipts. Do NOT use for goods issues (movement types 201/261/etc.), stock transfers (movement types 311/411/etc.), or inventory counts (use Physical Inventory API).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

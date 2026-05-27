@@ -1,0 +1,18 @@
+{
+  "name": "spec-driven-qa",
+  "slug": "spec-driven-qa",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spec-driven-qa/",
+  "download_url": "https://claudskills.com/skills/spec-driven-qa/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validates code quality through spec-driven QA validation with structural anti-skip enforcement. Replicates all 6 phases of the DevForgeAI QA workflow using the Execute-Verify-Gate pattern at every step. Designed to prevent token optimization bias through lean orchestration, fresh-context subagent delegation, and binary CLI gate enforcement. Enforces test coverage (95%/85%/80% strict thresholds), detects anti-patterns, validates spec compliance, and analyzes code quality metrics. Use when validating implementations, ensuring quality standards, or preparing for release. Always use this skill when the user runs /qa or mentions QA validation, quality checks, or coverage analysis.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

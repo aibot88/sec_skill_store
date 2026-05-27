@@ -1,0 +1,18 @@
+{
+  "name": "pexels-api-stock-photo-curator",
+  "slug": "pexels-api-stock-photo-curator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pexels-api-stock-photo-curator/",
+  "download_url": "https://claudskills.com/skills/pexels-api-stock-photo-curator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Searches and downloads royalty-free images from Pexels API with smart filtering by orientation, color, and size. Generates attribution HTML and maintains a local deduplication index via SQLite.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

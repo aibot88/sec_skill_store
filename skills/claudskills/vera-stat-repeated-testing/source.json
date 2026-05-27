@@ -1,0 +1,18 @@
+{
+  "name": "vera-stat-repeated-testing",
+  "slug": "vera-stat-repeated-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vera-stat-repeated-testing/",
+  "download_url": "https://claudskills.com/skills/vera-stat-repeated-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Trajectory diagnostics and primary hypothesis tests for repeated measures / longitudinal designs with a continuous outcome. Produces spaghetti plots with group mean ribbons, ICC, descriptives per time point, attrition check, and one interpreted test: paired t-test for 2 time points, repeated measures ANOVA for 3+ time points in one group, or mixed ANOVA (time x group) for 3+ time points with 2+ groups, including Mauchly sphericity and Greenhouse-Geisser correction. Ends with a recommendation block. Outputs .R and .py scripts with publication-quality plots. Trigger when user has a continuous outcome measured on the same subjects over time and says \"repeated measures,\" \"longitudinal,\" \"within-subjects,\" \"pre-post,\" \"paired,\" \"panel data,\" \"growth curve,\" \"multilevel,\" \"mixed model,\" or \"correlated observations.\" Does not handle binary, count, survival, ordinal, or cross-sectional outcomes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

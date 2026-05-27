@@ -1,0 +1,18 @@
+{
+  "name": "link-rot-detection",
+  "slug": "link-rot-detection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/link-rot-detection/",
+  "download_url": "https://claudskills.com/skills/link-rot-detection/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when authoring or reviewing a periodic-scan job that walks every external link in a markdown content set and flags 404s, redirects to unrelated content, and connection failures. Activate this skill whenever the task says 'check our links' or mentions a link-rot scan, broken-link audit, or link-health report. Do NOT use for live runtime link checking inside the rendered page (use a frontend a11y / UX skill) or for chasing a specific broken-link incident from a user report (use debugging).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

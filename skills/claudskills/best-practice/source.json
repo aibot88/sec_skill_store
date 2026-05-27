@@ -1,0 +1,18 @@
+{
+  "name": "best-practice",
+  "slug": "best-practice",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/best-practice/",
+  "download_url": "https://claudskills.com/skills/best-practice/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Cross-cutting best practices enforcement across code, templates, skills, prompts, scripts, documentation, pages, and design. The enforcement layer that catches violations any specialist might miss. Do NOT use for deep code review methodology (use code-review), auth guard selection (use nextauth-patterns), SQL injection prevention (use security-scanning), PII masking (use gdpr-compliance), accessibility implementation depth (use a11y), or financial semantics (use code-logic).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

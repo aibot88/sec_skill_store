@@ -1,0 +1,18 @@
+{
+  "name": "eve-project-updater",
+  "slug": "eve-project-updater",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eve-project-updater/",
+  "download_url": "https://claudskills.com/skills/eve-project-updater/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive EVE Online project management and ESI integration toolkit. Use when updating, auditing, or integrating ESI into EVE Online projects like EVE_Rebellion, EVE_Gatekeeper, EVE_Ships, or any EVE-related development. Triggers on project updates, ESI integration, compliance checking, asset management, or multi-project coordination.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

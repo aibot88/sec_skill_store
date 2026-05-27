@@ -1,0 +1,18 @@
+{
+  "name": "security-baseline",
+  "slug": "security-baseline",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-baseline/",
+  "download_url": "https://claudskills.com/skills/security-baseline/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Establish a security baseline for a website or web app. Use this skill when configuring HTTPS and TLS, setting security headers, planning secrets management, evaluating CSP policies, doing a basic security audit, or hardening a site before launch. Triggers on security headers, HTTPS, TLS, CSP, content security policy, HSTS, secrets management, vulnerability scan, security audit, harden, OWASP, security baseline. Also triggers when a security review is required for compliance or before going live.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

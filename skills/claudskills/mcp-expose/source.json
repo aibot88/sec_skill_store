@@ -1,0 +1,18 @@
+{
+  "name": "mcp-expose",
+  "slug": "mcp-expose",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mcp-expose/",
+  "download_url": "https://claudskills.com/skills/mcp-expose/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Expose un module existant via MCP en generant automatiquement un MCP server Edge Function. Supporte deux modes — wrapper Edge Function existante OU CRUD direct PostgREST sur tables. Auth dual (OAuth + API key). Utiliser quand on dit \"expose le module X par MCP\", \"creer un MCP pour le module Y\", \"mcp-expose\", ou quand on veut rendre un module accessible aux agents.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dev-java-spring-advisor",
+  "slug": "dev-java-spring-advisor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-java-spring-advisor/",
+  "download_url": "https://claudskills.com/skills/dev-java-spring-advisor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Développement Java avec Spring Boot, Spring Security et l'écosystème Spring. Se déclenche avec \"Java\", \"Spring Boot\", \"Spring\", \"JPA\", \"Hibernate\", \"Maven\", \"Gradle\", \"Spring Security\", \"microservices Java\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ccm-expert",
+  "slug": "ccm-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ccm-expert/",
+  "download_url": "https://claudskills.com/skills/ccm-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CSA CCM expert for cloud security. Deep knowledge of Cloud Security Alliance Cloud Controls Matrix including 197 controls, 17 domains, CAIQ questionnaire, cloud service models (IaaS/PaaS/SaaS), shared responsibility, and framework mappings to ISO 27001, SOC 2, PCI-DSS, NIST.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

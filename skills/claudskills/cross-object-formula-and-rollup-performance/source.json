@@ -1,0 +1,18 @@
+{
+  "name": "cross-object-formula-and-rollup-performance",
+  "slug": "cross-object-formula-and-rollup-performance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cross-object-formula-and-rollup-performance/",
+  "download_url": "https://claudskills.com/skills/cross-object-formula-and-rollup-performance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when diagnosing or preventing performance problems caused by cross-object formula spanning relationships and roll-up summary field recalculations — especially in LDV orgs. Triggers: 'roll-up summary timing stale in trigger', 'Maximum 15 object references error', 'rollup recalculation timeout on large child set'. NOT for formula syntax authoring (use admin/formula-fields), formula compile-size limits (use apex/formula-field-performance-and-limits), or general governor-limit troubleshooting.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

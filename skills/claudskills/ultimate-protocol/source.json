@@ -1,0 +1,18 @@
+{
+  "name": "ultimate-protocol-simulator",
+  "slug": "ultimate-protocol",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ultimate-protocol/",
+  "download_url": "https://claudskills.com/skills/ultimate-protocol/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this skill ALWAYS when the user explicitly requests \"ultimate mode\", \"max efficiency\", \"binary mode\", or asks you to write code with literally zero English output. This forces the agent into a non-human syntax protocol.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:31+00:00"
+}

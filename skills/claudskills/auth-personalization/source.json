@@ -1,0 +1,18 @@
+{
+  "name": "auth-personalization",
+  "slug": "auth-personalization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-personalization/",
+  "download_url": "https://claudskills.com/skills/auth-personalization/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Add Better Auth signup/signin, personalize chapter content, and persist user preferences. Use when implementing authentication, user sessions, or personalized content delivery.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

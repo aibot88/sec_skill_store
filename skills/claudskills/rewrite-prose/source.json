@@ -1,0 +1,18 @@
+{
+  "name": "rewrite-prose",
+  "slug": "rewrite-prose",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rewrite-prose/",
+  "download_url": "https://claudskills.com/skills/rewrite-prose/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when writing, proofreading, or polishing the wording of plain text documents — Markdown (.md), TeX (.tex), or .txt files — and the English text embedded in source code: comments, docstrings, log messages, error messages, and user-facing strings. Apply the rules conservatively: preserve the author's voice and meaning, replace awkward phrasing with cleaner alternatives, fix grammar, and cut filler words, clichés, and tautologies. Do NOT apply to the surrounding code, YAML, JSON, or quoted material.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

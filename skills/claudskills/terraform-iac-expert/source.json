@@ -1,0 +1,18 @@
+{
+  "name": "terraform-iac-expert",
+  "slug": "terraform-iac-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/terraform-iac-expert/",
+  "download_url": "https://claudskills.com/skills/terraform-iac-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Terraform and OpenTofu infrastructure as code — module design, state management, multi-environment setups, remote backends, secrets management, CI/CD integration. NOT for Pulumi, CDK, Ansible,",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

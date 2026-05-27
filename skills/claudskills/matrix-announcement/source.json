@@ -1,0 +1,18 @@
+{
+  "name": "matrix-announcement",
+  "slug": "matrix-announcement",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/matrix-announcement/",
+  "download_url": "https://claudskills.com/skills/matrix-announcement/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when composing a Matrix announcement — skill release, version bump, weekly digest, breaking-change heads-up, postmortem, RFC, multi-skill pipeline summary, or any agent-authored room post longer than a single line. Defines the HTML subset clients render, the type-tag system, glyph rules (no rockets, no party emoji), the m.text vs m.notice choice, and when to render an HTML card to PNG instead of cramming layout into formatted_body. Trigger before any matrix-send call that produces structured content. Companion to matrix-communication.",
+  "category": "ads",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ads-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

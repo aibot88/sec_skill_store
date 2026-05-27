@@ -1,0 +1,18 @@
+{
+  "name": "aws-sso-refresh",
+  "slug": "aws-sso-refresh",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-sso-refresh/",
+  "download_url": "https://claudskills.com/skills/aws-sso-refresh/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automatically refresh AWS SSO authentication tokens when encountering expiration errors. Use when AWS MCP tools fail due to expired SSO sessions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

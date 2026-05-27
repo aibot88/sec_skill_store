@@ -1,0 +1,18 @@
+{
+  "name": "sc-clickjacking",
+  "slug": "sc-clickjacking",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sc-clickjacking/",
+  "download_url": "https://claudskills.com/skills/sc-clickjacking/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Clickjacking and UI redressing detection — missing frame protection headers and CSP frame-ancestors",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

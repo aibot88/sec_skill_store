@@ -1,0 +1,18 @@
+{
+  "name": "agent-authentication",
+  "slug": "agent-authentication",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-authentication/",
+  "download_url": "https://claudskills.com/skills/agent-authentication/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Agent skill for authentication - invoke with $agent-authentication",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

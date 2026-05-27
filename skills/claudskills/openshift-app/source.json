@@ -1,0 +1,18 @@
+{
+  "name": "openshift-app",
+  "slug": "openshift-app",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/openshift-app/",
+  "download_url": "https://claudskills.com/skills/openshift-app/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Package applications for OpenShift deployment: container images (UBI, arbitrary UID, multi-stage builds), packaging formats (Helm, Kustomize, Operators, OLM v1), CI/CD (Tekton, ArgoCD, Shipwright, Conforma), security (SCC, PSA, supply chain, image signing, secrets), operations (Routes, probes, scaling, monitoring, storage), disconnected/air-gapped patterns, and critical gotchas. Covers OCP 4.14-4.21. NOT for cluster installation or infrastructure management.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

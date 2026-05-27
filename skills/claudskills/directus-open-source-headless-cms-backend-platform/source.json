@@ -1,0 +1,18 @@
+{
+  "name": "directus-open-source-headless-cms-backend-platform",
+  "slug": "directus-open-source-headless-cms-backend-platform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/directus-open-source-headless-cms-backend-platform/",
+  "download_url": "https://claudskills.com/skills/directus-open-source-headless-cms-backend-platform/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Directus is an open-source headless CMS that wraps any SQL database with instant REST and GraphQL APIs, a no-code admin panel, and granular role-based access control. It turns existing databases into full-featured backends with authentication, file storage, and real-time subscriptions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

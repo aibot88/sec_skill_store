@@ -1,0 +1,18 @@
+{
+  "name": "hum-critical-thinking",
+  "slug": "hum-critical-thinking",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hum-critical-thinking/",
+  "download_url": "https://claudskills.com/skills/hum-critical-thinking/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply structured critical thinking — identifying claims, evidence, reasoning chains, hidden assumptions, and logical fallacies — to evaluate or construct specific written arguments rigorously. Use this skill when the user presents a concrete argument, claim, op-ed, research finding, or piece of reasoning to be analyzed for logical validity or flaws, even if they say 'is this argument valid', 'what logical fallacies are in this', or 'what assumptions am I making in this thesis'. Do NOT use for casual plan review, trip planning, project risk brainstorming, or pre-mortems — 'poke holes in my plan' requests are red-team / risk review, not argument analysis.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

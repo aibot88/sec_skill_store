@@ -1,0 +1,18 @@
+{
+  "name": "principle-code-review",
+  "slug": "principle-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/principle-code-review/",
+  "download_url": "https://claudskills.com/skills/principle-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Code review heuristics — four-axis review lens (correctness, security, design integrity, test coverage); confidence-based filtering (no finding without a concrete failure scenario); review comment tone (observation over accusation); nitpick filtering; what counts as a real finding vs linter noise. Auto-load when writing or framing a review comment, deciding whether a PR finding is worth surfacing, reviewing a diff for correctness, or filtering review nitpicks.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

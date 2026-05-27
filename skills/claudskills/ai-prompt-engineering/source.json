@@ -1,0 +1,18 @@
+{
+  "name": "ai-prompt-engineering",
+  "slug": "ai-prompt-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-prompt-engineering/",
+  "download_url": "https://claudskills.com/skills/ai-prompt-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Operational prompt engineering for production LLM apps: structured outputs (JSON/schema), deterministic extractors, RAG grounding/citations, tool/agent workflows, prompt safety (injection/exfiltration), and prompt evaluation/regression testing. Use when designing, debugging, or standardizing prompts for Codex CLI, Claude Code, and OpenAI/Anthropic/Gemini APIs.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

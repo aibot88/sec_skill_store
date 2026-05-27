@@ -1,0 +1,19 @@
+{
+  "name": "agents",
+  "slug": "callwebboss-bit-yakir-cohen-productions-src-agents",
+  "source": "github",
+  "source_url": "https://github.com/callwebboss-bit/yakir-cohen-productions/blob/29ed5ccf06c6f220e2d2448044157dc233a72c71/src/agents/GUARDIAN_SKILL.md",
+  "download_url": "https://github.com/callwebboss-bit/yakir-cohen-productions/blob/29ed5ccf06c6f220e2d2448044157dc233a72c71/src/agents/GUARDIAN_SKILL.md",
+  "external_source_url": "https://github.com/callwebboss-bit/yakir-cohen-productions/blob/29ed5ccf06c6f220e2d2448044157dc233a72c71/src/agents/GUARDIAN_SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "callwebboss-bit/yakir-cohen-productions",
+    "path": "src/agents/GUARDIAN_SKILL.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

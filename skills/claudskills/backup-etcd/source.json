@@ -1,0 +1,18 @@
+{
+  "name": "backup-etcd",
+  "slug": "backup-etcd",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backup-etcd/",
+  "download_url": "https://claudskills.com/skills/backup-etcd/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create and manage etcd backups for OpenShift control plane disaster recovery, including automated backup procedures and verification.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:03+00:00"
+}

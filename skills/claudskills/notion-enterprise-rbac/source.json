@@ -1,0 +1,18 @@
+{
+  "name": "notion-enterprise-rbac",
+  "slug": "notion-enterprise-rbac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/notion-enterprise-rbac/",
+  "download_url": "https://claudskills.com/skills/notion-enterprise-rbac/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Notion enterprise access control with OAuth, workspace permissions, and audit logging. Use when implementing OAuth public integrations, managing multi-workspace access, or building permission-aware Notion applications. Trigger with phrases like \"notion SSO\", \"notion RBAC\", \"notion enterprise\", \"notion OAuth\", \"notion permissions\", \"notion multi-workspace\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "knowledge-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

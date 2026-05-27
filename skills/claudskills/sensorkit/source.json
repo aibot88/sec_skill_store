@@ -1,0 +1,18 @@
+{
+  "name": "sensorkit",
+  "slug": "sensorkit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sensorkit/",
+  "download_url": "https://claudskills.com/skills/sensorkit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Access research-grade sensor data using SensorKit. Use when reading ambient light levels, accelerometer data, rotation rates, device usage patterns, keyboard metrics, or media events for approved research studies. Requires SensorKit entitlement and research study authorization.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

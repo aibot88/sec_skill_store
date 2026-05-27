@@ -1,0 +1,18 @@
+{
+  "name": "agent-security-auditor",
+  "slug": "agent-security-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-security-auditor/",
+  "download_url": "https://claudskills.com/skills/agent-security-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Expert security auditor specializing in comprehensive security assessments, compliance validation, and risk management. Masters security frameworks, audit methodologies, and compliance standards with focus on identifying vulnerabilities and ensuring regulatory adherence.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

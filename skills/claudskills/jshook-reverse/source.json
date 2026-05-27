@@ -1,0 +1,18 @@
+{
+  "name": "jshook-reverse",
+  "slug": "jshook-reverse",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jshook-reverse/",
+  "download_url": "https://claudskills.com/skills/jshook-reverse/SKILL.md",
+  "external_source_url": "",
+  "license": "GPL-3.0",
+  "description": "AI-powered JavaScript reverse engineering tool. 资深JavaScript逆向工程专家助手。Actions: collect, search, deobfuscate, understand, summarize, detect-crypto, browser, debugger, breakpoint, debug-step, debug-eval, debug-vars, script, hook, stealth, dom, page. Capabilities: 混淆代码分析、VM破解、Webpack解包、AST转换、Puppeteer/CDP自动化、反检测、指纹伪造、加密识别、参数提取、算法还原、Canvas/WebGL指纹、WebDriver隐藏、CDP调试、断点分析、动态追踪、Hook注入、DOM检查、页面控制。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

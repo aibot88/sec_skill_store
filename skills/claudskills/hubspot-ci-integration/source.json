@@ -1,0 +1,18 @@
+{
+  "name": "hubspot-ci-integration",
+  "slug": "hubspot-ci-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hubspot-ci-integration/",
+  "download_url": "https://claudskills.com/skills/hubspot-ci-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure CI/CD pipelines for HubSpot integrations with GitHub Actions. Use when setting up automated testing, configuring CI with HubSpot secrets, or integrating HubSpot API tests into your build process. Trigger with phrases like \"hubspot CI\", \"hubspot GitHub Actions\", \"hubspot automated tests\", \"CI hubspot\", \"hubspot pipeline test\".",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

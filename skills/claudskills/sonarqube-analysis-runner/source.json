@@ -1,0 +1,18 @@
+{
+  "name": "sonarqube-analysis-runner",
+  "slug": "sonarqube-analysis-runner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sonarqube-analysis-runner/",
+  "download_url": "https://claudskills.com/skills/sonarqube-analysis-runner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run SonarQube static analysis scans via the SonarQube Web API and sonar-scanner CLI. Detects code smells, bugs, and security vulnerabilities with configurable quality gates and branch analysis support.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

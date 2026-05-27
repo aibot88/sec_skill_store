@@ -1,0 +1,18 @@
+{
+  "name": "alibaba-security-center-hardening",
+  "slug": "alibaba-security-center-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibaba-security-center-hardening/",
+  "download_url": "https://claudskills.com/skills/alibaba-security-center-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Harden Alibaba Cloud security posture via Security Center (threat detection, vulnerability scanning, baseline checks), WAF, Anti-DDoS Pro, Cloud Firewall, and Network Traffic Analysis (NTA).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

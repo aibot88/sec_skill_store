@@ -1,0 +1,18 @@
+{
+  "name": "higgsfield-image-shots",
+  "slug": "higgsfield-image-shots",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/higgsfield-image-shots/",
+  "download_url": "https://claudskills.com/skills/higgsfield-image-shots/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user wants to generate a cinematic still image on Higgsfield, asks about shot framing, camera angle, or composition for image prompts, needs a specific shot type (close-up, wide shot, cowboy shot, etc.), or is working with [img] reference-based image generation. Covers distance & size shots, camera angles, and camera movement keywords optimized for AI image models (Soul 2.0, Nano Banana, Seedream, GPT Image, Flux, etc.).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

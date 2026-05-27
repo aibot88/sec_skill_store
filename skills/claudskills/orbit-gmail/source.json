@@ -1,0 +1,18 @@
+{
+  "name": "orbit-gmail",
+  "slug": "orbit-gmail",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/orbit-gmail/",
+  "download_url": "https://claudskills.com/skills/orbit-gmail/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Open Orbit briefing skill — selected by the Orbit pipeline when Gmail is the user's only connected connector, or when the user explicitly scopes their daily digest to Gmail. Pulls the past 24 hours of inbox activity (replies awaited, mentions, cc, auto- categorized bulk) from the user's authenticated Gmail connection and renders the digest as the Orbit Daily Digest email opened inside Gmail's reading view. This skill should not be triggered manually — it is invoked by Orbit's daily-digest scheduler against live Gmail data.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

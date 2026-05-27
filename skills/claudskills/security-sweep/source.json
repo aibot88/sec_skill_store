@@ -1,0 +1,18 @@
+{
+  "name": "security-sweep",
+  "slug": "security-sweep",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-sweep/",
+  "download_url": "https://claudskills.com/skills/security-sweep/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scan codebase for security vulnerabilities, hardcoded secrets, injection flaws, misconfigurations, and attack surfaces. Use when user wants a security audit, vulnerability scan, or to find security issues.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

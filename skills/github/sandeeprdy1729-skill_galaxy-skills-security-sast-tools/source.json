@@ -1,0 +1,19 @@
+{
+  "name": "sast-tools",
+  "slug": "sandeeprdy1729-skill_galaxy-skills-security-sast-tools",
+  "source": "github",
+  "source_url": "https://github.com/Sandeeprdy1729/skill_galaxy/blob/2dd36c8ab8f1c6d17fed619a98f8e93a69095dde/skills/security/sast-tools/SKILL.md",
+  "download_url": "https://github.com/Sandeeprdy1729/skill_galaxy/blob/2dd36c8ab8f1c6d17fed619a98f8e93a69095dde/skills/security/sast-tools/SKILL.md",
+  "external_source_url": "https://github.com/Sandeeprdy1729/skill_galaxy/blob/2dd36c8ab8f1c6d17fed619a98f8e93a69095dde/skills/security/sast-tools/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Sandeeprdy1729/skill_galaxy",
+    "path": "skills/security/sast-tools/SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

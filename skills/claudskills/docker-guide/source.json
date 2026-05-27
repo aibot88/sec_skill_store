@@ -1,0 +1,18 @@
+{
+  "name": "docker-guide",
+  "slug": "docker-guide",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docker-guide/",
+  "download_url": "https://claudskills.com/skills/docker-guide/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Docker container guidelines for production deployments. Apply when editing `Dockerfile`, `docker-compose.yml`, or `.dockerignore` files. Use for multi-stage builds, security hardening, image slimming. Keywords: Dockerfile, multi-stage, alpine/distroless, layer caching, non-root, secrets, health checks, BuildKit.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

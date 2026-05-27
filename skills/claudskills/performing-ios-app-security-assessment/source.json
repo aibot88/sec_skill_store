@@ -1,0 +1,18 @@
+{
+  "name": "performing-ios-app-security-assessment",
+  "slug": "performing-ios-app-security-assessment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-ios-app-security-assessment/",
+  "download_url": "https://claudskills.com/skills/performing-ios-app-security-assessment/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Performs comprehensive iOS application security assessments using Frida for dynamic instrumentation, Objection",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

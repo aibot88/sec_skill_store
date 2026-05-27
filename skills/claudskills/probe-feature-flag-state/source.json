@@ -1,0 +1,18 @@
+{
+  "name": "probe-feature-flag-state",
+  "slug": "probe-feature-flag-state",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/probe-feature-flag-state/",
+  "download_url": "https://claudskills.com/skills/probe-feature-flag-state/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Den Laufzeitzustand eines benannten Feature-Flags in einem CLI-Binary prüfen. Behandelt das vierzweigige Evidenzprotokoll (Binary-Strings, Live-Aufruf, On-Disk-Zustand, Plattform-Cache), die vier Zustands- klassen (LIVE / DARK / INDETERMINATE / UNKNOWN), die Unterscheidung Gate vs. Event, den Umgang mit Konjunktions-Gates sowie Skill- Substitutionsszenarien, in denen ein Flag DARK erscheint, die Fähigkeit aber auf anderem Wege bereitgestellt wird. Einzusetzen, wenn geprüft werden soll, ob eine dokumentierte oder inferierte Fähigkeit ausgerollt ist, wenn dunkel ausgerollte Features auditiert werden oder wenn die Schlussfolgerungen einer früheren Prüfung an einer neuen Binary-Version aufgefrischt werden müssen.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

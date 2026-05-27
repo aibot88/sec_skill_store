@@ -1,0 +1,18 @@
+{
+  "name": "remix-middlewares",
+  "slug": "middlewares",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/middlewares/",
+  "download_url": "https://claudskills.com/skills/middlewares/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Reference card for every middleware shipped by Remix v3 — `logger`, `compression`, `staticFiles`, `formData`, `methodOverride`, `session`, `csrf`, `cop`, `cors`, `asyncContext`, `auth`, `requireAuth` — with canonical stack ordering and pointers to deep docs. Plus the contract for writing your own. Load whenever the user is composing or editing the middleware stack in `app/router.ts`, debugging request flow, choosing between similar middlewares (`cop` vs `csrf`, custom vs built-in), or about to install Express middlewares (helmet, morgan, body-parser, cookie-parser, multer) — Remix already ships equivalents. Also load if the user asks \"what middleware comes with Remix?\" or \"where does X go in the stack?\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sharp-edges",
+  "slug": "sharp-edges",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sharp-edges/",
+  "download_url": "https://claudskills.com/skills/sharp-edges/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Identifies error-prone APIs, dangerous configurations, and footgun designs that enable security mistakes. Use when reviewing API designs, configuration schemas, cryptographic library ergonomics, or evaluating whether code follows 'secure by default' and 'pit of success' principles. Triggers: footgun, misuse-resistant, secure defaults, API usability, dangerous configuration.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

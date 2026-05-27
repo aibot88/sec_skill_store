@@ -1,0 +1,18 @@
+{
+  "name": "brightdata-security-basics",
+  "slug": "brightdata-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/brightdata-security-basics/",
+  "download_url": "https://claudskills.com/skills/brightdata-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Bright Data security best practices for secrets and access control. Use when securing API keys, implementing least privilege access, or auditing Bright Data security configuration. Trigger with phrases like \"brightdata security\", \"brightdata secrets\", \"secure brightdata\", \"brightdata API key security\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

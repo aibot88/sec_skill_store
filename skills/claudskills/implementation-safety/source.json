@@ -1,0 +1,18 @@
+{
+  "name": "Implementation Safety",
+  "slug": "implementation-safety",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementation-safety/",
+  "download_url": "https://claudskills.com/skills/implementation-safety/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Production-ready safety checklists for Rails implementation. Covers nil safety, ActiveRecord patterns, security vulnerabilities, error handling, and performance. Use before marking any file complete during implementation phases.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sst-llm-judge-ranker",
+  "slug": "sst-llm-judge-ranker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sst-llm-judge-ranker/",
+  "download_url": "https://claudskills.com/skills/sst-llm-judge-ranker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Maintain a ranked list of N artifacts (drafts, designs, code variants, research reports, ...) by comparing each new candidate against the current top and bottom of the list, using LLM judgment as the comparator. Supports both batch ranking (compare every artifact against every other) and incremental insertion (place a new artifact into an existing ranked list with O(log N) comparisons via binary search). Persists the ranklist as JSON; safe to call repeatedly as new candidates land.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

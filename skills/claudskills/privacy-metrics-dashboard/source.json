@@ -1,0 +1,18 @@
+{
+  "name": "privacy-metrics-dashboard",
+  "slug": "privacy-metrics-dashboard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/privacy-metrics-dashboard/",
+  "download_url": "https://claudskills.com/skills/privacy-metrics-dashboard/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Build privacy KPI dashboards tracking DSAR volume and response time, breach count and severity, DPIA completion rate, training coverage, and consent rates. Includes metric definitions, data collection patterns, visualization designs, and executive reporting templates for privacy program measurement.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

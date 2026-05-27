@@ -1,0 +1,18 @@
+{
+  "name": "hr-ops",
+  "slug": "hr-ops",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hr-ops/",
+  "download_url": "https://claudskills.com/skills/hr-ops/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze an HR operations system for headcount planning effectiveness, attrition pattern detection, compensation benchmarking accuracy, workforce analytics maturity, and onboarding process optimization. Evaluates HRIS architecture, pay equity compliance, predictive attrition models, and people analytics governance against SHRM standards. Use when auditing HR tech platforms, building workforce planning tools, or assessing people analytics readiness.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

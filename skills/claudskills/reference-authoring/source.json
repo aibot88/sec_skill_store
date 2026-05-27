@@ -1,0 +1,18 @@
+{
+  "name": "reference-authoring",
+  "slug": "reference-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/reference-authoring/",
+  "download_url": "https://claudskills.com/skills/reference-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Authoring discipline for new AZIMUTH reference files and templates. Use when adding a new domain reference file, extending an existing one, or creating a new template. Covers: (1) EXTEND vs. CREATE decision heuristic, (2) the Module 7 vocabulary header pattern that prevents domain-gap recurrence, (3) the sourcing caveat pattern for narrow-evidence-base files, (4) pre-verdict gate structure for templates. Validated by research-mpbaese4 (2026-05-18).",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

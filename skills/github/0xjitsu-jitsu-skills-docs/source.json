@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "slug": "0xjitsu-jitsu-skills-docs",
+  "source": "github",
+  "source_url": "https://github.com/0xjitsu/jitsu-skills/blob/5a41b4b36376b6875d2b6625042ef53bc372449b/docs/adding-a-skill.md",
+  "download_url": "https://github.com/0xjitsu/jitsu-skills/blob/5a41b4b36376b6875d2b6625042ef53bc372449b/docs/adding-a-skill.md",
+  "external_source_url": "https://github.com/0xjitsu/jitsu-skills/blob/5a41b4b36376b6875d2b6625042ef53bc372449b/docs/adding-a-skill.md",
+  "license": "",
+  "description": "Persona-based AI skill ecosystem — 7 personas, 14 orchestration skills for outbound campaigns, publishing, security, macOS automation, and full-stack dev. Works with Claude Code, Claude Chat, and Agent SDK. AGPL v3 + commercial license.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "0xjitsu/jitsu-skills",
+    "path": "docs/adding-a-skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

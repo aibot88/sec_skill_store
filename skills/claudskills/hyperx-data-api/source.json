@@ -1,0 +1,18 @@
+{
+  "name": "hyperx-data-api",
+  "slug": "hyperx-data-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hyperx-data-api/",
+  "download_url": "https://claudskills.com/skills/hyperx-data-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when building apps with HyperX Data API — Hyperliquid wallet analytics, market data, Twitter/news feeds. Triggers on: \\\"HyperX API\\\", \\\"data-api.hyperx.trade\\\", \\\"wallet analysis\\\", \\\"Hyperliquid data\\\", \\\"crypto Twitter API\\\", \\\"market positions\\\", \\\"fills API\\\", \\\"trading analytics\\\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

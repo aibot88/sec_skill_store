@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-understanding-as-key",
+  "slug": "agentprivacy-understanding-as-key",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-understanding-as-key/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-understanding-as-key/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Understanding-as-authentication for 0xagentprivacy RPP. Activates when discussing proverb-based access control, demonstrated comprehension as credential, the Oracle verification pipeline, viewing key / signing key separation in knowledge verification, or how understanding replaces passwords.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "build-zoom-rest-api-app",
+  "slug": "rest-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rest-api/",
+  "download_url": "https://claudskills.com/skills/rest-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reference skill for Zoom REST API. Use after choosing an API-based workflow when you need endpoint selection, resource-management patterns, OAuth requirements, rate-limit awareness, or API error debugging.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

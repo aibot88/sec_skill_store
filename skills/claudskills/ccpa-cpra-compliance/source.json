@@ -1,0 +1,18 @@
+{
+  "name": "ccpa-cpra-compliance",
+  "slug": "ccpa-cpra-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ccpa-cpra-compliance/",
+  "download_url": "https://claudskills.com/skills/ccpa-cpra-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Complete CCPA/CPRA compliance implementation covering California Civil Code §1798.100-199. Includes consumer rights framework, business obligations, service provider and contractor requirements, enforcement mechanisms, and CPPA rulemaking. Triggers on CCPA, CPRA, California privacy, consumer rights.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

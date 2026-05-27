@@ -1,0 +1,18 @@
+{
+  "name": "sales-fathom",
+  "slug": "sales-fathom",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-fathom/",
+  "download_url": "https://claudskills.com/skills/sales-fathom/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Fathom AI note-taker platform help — REST API for pulling meeting transcripts, summaries, action items, and CRM matches into CRMs, data warehouses, or Slack. Use when transcripts not syncing to HubSpot/Salesforce, Fathom webhook signatures failing HMAC verification, bot blocked by Google Meet as a security risk, OAuth app can't include transcript inline, building a Fathom→Snowflake/BigQuery pipeline, rate-limited at 60 calls/minute, or picking between Fathom free tier vs Premium vs Team vs Business. Do NOT use for selecting between Fathom and competitors like Fireflies/Gong/Avoma (use /sales-note-taker) or reviewing specific call recordings (use /sales-call-review).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "deal-management",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "replit-data-handling",
+  "slug": "replit-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/replit-data-handling/",
+  "download_url": "https://claudskills.com/skills/replit-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement secure data handling on Replit: PostgreSQL, KV Database, Object Storage, and data security patterns. Use when handling sensitive data, connecting databases, implementing data access patterns, or ensuring secure data flow in Replit-hosted applications. Trigger with phrases like \"replit data\", \"replit database\", \"replit PostgreSQL\", \"replit storage\", \"replit data security\", \"replit GDPR\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "stormwater-management",
+  "slug": "stormwater-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/stormwater-management/",
+  "download_url": "https://claudskills.com/skills/stormwater-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Skill for integrated stormwater management and green infrastructure design with SWMM modeling, hydrologic analysis, BMP sizing, and MS4 permit compliance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

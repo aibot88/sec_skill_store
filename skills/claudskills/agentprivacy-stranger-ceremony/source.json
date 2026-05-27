@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-stranger-ceremony",
+  "slug": "agentprivacy-stranger-ceremony",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-stranger-ceremony/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-stranger-ceremony/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Understanding-as-Key ceremony for parties without prior relationship. Activates when discussing stranger-to-stranger verification, anonymous pairing, simultaneous forging, comprehension proof without prior trust, or stranger witness protocols.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

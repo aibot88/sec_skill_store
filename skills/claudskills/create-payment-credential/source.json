@@ -1,0 +1,18 @@
+{
+  "name": "create-payment-credential",
+  "slug": "create-payment-credential",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-payment-credential/",
+  "download_url": "https://claudskills.com/skills/create-payment-credential/SKILL.md",
+  "external_source_url": "",
+  "license": "Complete terms in LICENSE",
+  "description": "Gets secure, one-time-use payment credentials (cards, tokens) from a Link wallet so agents can complete purchases on behalf of users. Use when the user says \"get me a card\", \"buy something\", \"pay for X\", \"make a purchase\", \"I need to pay\", \"complete checkout\", or asks to transact on any merchant site. Use when the user asks to connect or log in to or sign up for their Link account.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

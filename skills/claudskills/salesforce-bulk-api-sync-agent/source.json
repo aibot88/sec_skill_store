@@ -1,0 +1,18 @@
+{
+  "name": "salesforce-bulk-api-sync-agent",
+  "slug": "salesforce-bulk-api-sync-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/salesforce-bulk-api-sync-agent/",
+  "download_url": "https://claudskills.com/skills/salesforce-bulk-api-sync-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Perform high-volume data synchronization with Salesforce using the Bulk API 2.0 for CSV-based upsert, delete, and query operations. Handles OAuth 2.0 JWT bearer flow authentication via jsforce.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:09+00:00"
+}

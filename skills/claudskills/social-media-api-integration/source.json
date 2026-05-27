@@ -1,0 +1,18 @@
+{
+  "name": "social-media-api-integration",
+  "slug": "social-media-api-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/social-media-api-integration/",
+  "download_url": "https://claudskills.com/skills/social-media-api-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Integrate with social media platform APIs for automated posting, scheduling, analytics retrieval, and content syndication. Covers OAuth flows, rate limiting, and multi-platform strategies. Triggers on social media API integration, automated posting, or platform API requests.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "social-media",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

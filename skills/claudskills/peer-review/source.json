@@ -1,0 +1,18 @@
+{
+  "name": "peer-review",
+  "slug": "peer-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/peer-review/",
+  "download_url": "https://claudskills.com/skills/peer-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT license",
+  "description": "Structured manuscript/grant review with checklist-based evaluation. Use when writing formal peer reviews with specific criteria methodology assessment, statistical validity, reporting standards compliance (CONSORT/STROBE), and constructive feedback. Best for actual review writing, manuscript revision. For evaluating claims/evidence quality use scientific-critical-thinking; for quantitative scoring frameworks use scholar-evaluation.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

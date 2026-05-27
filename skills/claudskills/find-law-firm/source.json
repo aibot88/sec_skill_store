@@ -1,0 +1,18 @@
+{
+  "name": "find-law-firm",
+  "slug": "find-law-firm",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/find-law-firm/",
+  "download_url": "https://claudskills.com/skills/find-law-firm/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use whenever the user wants to find, shortlist, vet, or enrich US B2B law firms — corporate, IP/patent, M&A and securities, employment, commercial litigation, regulatory/compliance, data privacy/cyber, real estate, and tax. Triggers on \"find three boutique IP law firms in California\", \"shortlist M&A counsel for a Series-B fundraise\", \"patent prosecution for our hardware startup\", or \"pull contact info for these 10 law firm domains\", even when described indirectly (outside counsel, cap-table review, GDPR/SOC2 oversight). Drives the ServiceGraph API (api.servicegraph.co) — a 100k+ US firm catalog filterable by industry, services, location, size, ratings. Skip personal/consumer legal services where the user is the end client (divorce, personal injury, criminal defense, family law, estate planning, wills) — the catalog is B2B-only. Also skip in-house GC hires, \"is this NDA enforceable\" DIY questions, non-US firms, individual freelancers.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

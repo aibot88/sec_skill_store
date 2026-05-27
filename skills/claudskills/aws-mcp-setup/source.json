@@ -1,0 +1,18 @@
+{
+  "name": "aws-mcp-setup",
+  "slug": "aws-mcp-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-mcp-setup/",
+  "download_url": "https://claudskills.com/skills/aws-mcp-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configure AWS MCP servers for documentation search and API access. Use when setting up AWS MCP, configuring AWS documentation tools, troubleshooting MCP connectivity, or when user mentions aws-mcp, awsdocs, uvx setup, or MCP server configuration. Covers both Full AWS MCP Server (with uvx + credentials) and lightweight Documentation MCP (no auth required).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

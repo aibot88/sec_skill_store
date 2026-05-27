@@ -1,0 +1,18 @@
+{
+  "name": "agent-network-engineer",
+  "slug": "agent-network-engineer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-network-engineer/",
+  "download_url": "https://claudskills.com/skills/agent-network-engineer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert network engineer specializing in cloud and hybrid network architectures, security, and performance optimization. Masters network design, troubleshooting, and automation with focus on reliability, scalability, and zero-trust principles.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "zero-trust",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

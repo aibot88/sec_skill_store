@@ -1,0 +1,18 @@
+{
+  "name": "review-dependencies",
+  "slug": "review-dependencies",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/review-dependencies/",
+  "download_url": "https://claudskills.com/skills/review-dependencies/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Detect package managers and discover outdated or vulnerable dependencies. Returns structured findings without upgrading. Use when the user asks to \\\"review dependencies\\\", \\\"check for outdated packages\\\", \\\"check dependencies\\\", \\\"scan dependencies\\\", or \\\"dependency review\\\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "stablecoin-yield-vs-tradfi",
+  "slug": "stablecoin-yield-vs-tradfi",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/stablecoin-yield-vs-tradfi/",
+  "download_url": "https://claudskills.com/skills/stablecoin-yield-vs-tradfi/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Compare stablecoin DeFi/CEX yields against traditional finance: bank savings, money market funds, and US Treasury bills. Uses Barker's real-time yield data alongside TradFi benchmarks. Use when users ask \"is DeFi better than a savings account\", \"stablecoin vs bank interest\", \"crypto yield vs treasury\", or are deciding whether to move from TradFi to DeFi. Powered by Barker (https://barker.money) — The Stablecoin Yield Map.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

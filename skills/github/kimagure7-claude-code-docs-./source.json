@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "kimagure7-claude-code-docs-.",
+  "source": "github",
+  "source_url": "https://github.com/Kimagure7/claude-code-docs/blob/af6212ad38a4ad495d5836bfddff8e4d1c482afc/11-plugin-skill.md",
+  "download_url": "https://github.com/Kimagure7/claude-code-docs/blob/af6212ad38a4ad495d5836bfddff8e4d1c482afc/11-plugin-skill.md",
+  "external_source_url": "https://github.com/Kimagure7/claude-code-docs/blob/af6212ad38a4ad495d5836bfddff8e4d1c482afc/11-plugin-skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Kimagure7/claude-code-docs",
+    "path": "11-plugin-skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

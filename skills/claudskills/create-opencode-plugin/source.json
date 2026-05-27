@@ -1,0 +1,18 @@
+{
+  "name": "create-opencode-plugin",
+  "slug": "create-opencode-plugin",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-opencode-plugin/",
+  "download_url": "https://claudskills.com/skills/create-opencode-plugin/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create OpenCode plugins using the @opencode-ai/plugin SDK. Use for building custom tools, event hooks, auth providers, or tool execution interception. Use proactively when developing new plugins in .opencode/plugin/ or ~/.config/opencode/plugin/. Examples: - user: \"Create a plugin to block dangerous commands\" → implement tool execution before hook with blocking logic - user: \"Add a custom tool for jira\" → design tool schema and implementation using SDK context - user: \"Show toast on file edit\" → react to file edit events and display status message - user: \"Build a custom auth provider\" → implement auth flow for new model provider - user: \"Intercept git commits\" → add hook to validate commit messages before execution",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

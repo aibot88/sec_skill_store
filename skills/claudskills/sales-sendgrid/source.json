@@ -1,0 +1,18 @@
+{
+  "name": "sales-sendgrid",
+  "slug": "sales-sendgrid",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-sendgrid/",
+  "download_url": "https://claudskills.com/skills/sales-sendgrid/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "SendGrid platform help — transactional email via Email API (REST + SMTP), Marketing Campaigns (drag-and-drop editor, automations, A/B testing, signup forms, segmentation), Email Validation API, Dynamic Templates (Handlebars), Event Webhooks, Inbound Parse, domain authentication (SPF/DKIM/DMARC), dedicated IPs, suppressions, Design Library, email testing, statistics. Use when SendGrid emails are landing in spam, transactional emails aren't sending, domain authentication is failing, Event Webhooks aren't firing, Dynamic Templates aren't rendering correctly, Marketing Campaigns have low open rates, or SendGrid bounce rates are spiking. Do NOT use for general email marketing strategy (use /sales-email-marketing), cross-platform email deliverability (use /sales-deliverability), or email open/click tracking strategy (use /sales-email-tracking).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

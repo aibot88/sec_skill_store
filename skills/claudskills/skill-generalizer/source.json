@@ -1,0 +1,18 @@
+{
+  "name": "skill-generalizer",
+  "slug": "skill-generalizer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-generalizer/",
+  "download_url": "https://claudskills.com/skills/skill-generalizer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when turning local, private, or personal Agent Skills into publishable skills for GitHub, marketplaces, teams, or public sharing, especially when private paths, personal habits, credentials, internal hosts, or user-specific context must be removed.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

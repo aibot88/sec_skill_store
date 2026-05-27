@@ -1,0 +1,18 @@
+{
+  "name": "convert-png-to-webp",
+  "slug": "convert-png-to-webp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/convert-png-to-webp/",
+  "download_url": "https://claudskills.com/skills/convert-png-to-webp/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when converting PNG images in a directory tree to lossless WebP in place with `cwebp`, preserving original file timestamps, deleting the source PNG files only after successful conversion, and reporting the processed image count.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

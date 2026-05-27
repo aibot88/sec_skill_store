@@ -1,0 +1,18 @@
+{
+  "name": "fetch-foundation-model-pricing",
+  "slug": "fetch-foundation-model-pricing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fetch-foundation-model-pricing/",
+  "download_url": "https://claudskills.com/skills/fetch-foundation-model-pricing/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Fetch live per-token, per-image, and per-GPU-hour prices for foundation models across Anthropic, OpenAI, Google, AWS Bedrock, Azure OpenAI, OCI Generative AI, and Vertex AI. Supports single-model lookup and comparative multi-provider tables. Every price is labeled with source URL and ISO 8601 fetch timestamp. No credentials accepted.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

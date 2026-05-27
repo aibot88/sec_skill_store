@@ -1,0 +1,18 @@
+{
+  "name": "sbom",
+  "slug": "sbom",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sbom/",
+  "download_url": "https://claudskills.com/skills/sbom/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate a Software Bill of Materials (SBOM) from your AWS environment and scan for vulnerable/compromised packages.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

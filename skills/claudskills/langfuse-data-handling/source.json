@@ -1,0 +1,18 @@
+{
+  "name": "langfuse-data-handling",
+  "slug": "langfuse-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/langfuse-data-handling/",
+  "download_url": "https://claudskills.com/skills/langfuse-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Manage Langfuse data export, retention, and compliance requirements. Use when exporting trace data, configuring retention policies, or implementing data compliance for LLM observability. Trigger with phrases like \"langfuse data export\", \"langfuse retention\", \"langfuse GDPR\", \"langfuse compliance\", \"export langfuse traces\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

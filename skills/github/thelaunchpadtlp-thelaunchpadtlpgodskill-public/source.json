@@ -1,0 +1,19 @@
+{
+  "name": "public",
+  "slug": "thelaunchpadtlp-thelaunchpadtlpgodskill-public",
+  "source": "github",
+  "source_url": "https://github.com/thelaunchpadtlp/thelaunchpadtlpgodskill/blob/cba981edb5a406d3b16a2c4f2794c459e851c912/public/universal-mega-skill.md",
+  "download_url": "https://github.com/thelaunchpadtlp/thelaunchpadtlpgodskill/blob/cba981edb5a406d3b16a2c4f2794c459e851c912/public/universal-mega-skill.md",
+  "external_source_url": "https://github.com/thelaunchpadtlp/thelaunchpadtlpgodskill/blob/cba981edb5a406d3b16a2c4f2794c459e851c912/public/universal-mega-skill.md",
+  "license": "",
+  "description": "thelaunchpadtlpgodskill",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "thelaunchpadtlp/thelaunchpadtlpgodskill",
+    "path": "public/universal-mega-skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

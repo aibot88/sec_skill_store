@@ -1,0 +1,18 @@
+{
+  "name": "technical-decision-guide",
+  "slug": "technical-decision-guide",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/technical-decision-guide/",
+  "download_url": "https://claudskills.com/skills/technical-decision-guide/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Help PMs make technical architecture decisions without deep engineering background — database selection, hosting, auth patterns, monolith vs microservice, API design. Written in PM-friendly language with decision trees.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

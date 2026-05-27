@@ -1,0 +1,18 @@
+{
+  "name": "adobe-policy-guardrails",
+  "slug": "adobe-policy-guardrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/adobe-policy-guardrails/",
+  "download_url": "https://claudskills.com/skills/adobe-policy-guardrails/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Adobe-specific lint rules, CI policy checks, and runtime guardrails covering credential scanning (p8_ patterns), Firefly content policy pre-screening, PDF Services quota enforcement, and OAuth scope validation. Trigger with phrases like \"adobe policy\", \"adobe lint\", \"adobe guardrails\", \"adobe eslint\", \"adobe content policy\".",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "linters-formatters",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

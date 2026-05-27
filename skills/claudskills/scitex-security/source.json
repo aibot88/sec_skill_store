@@ -1,0 +1,18 @@
+{
+  "name": "scitex-security",
+  "slug": "scitex-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scitex-security/",
+  "download_url": "https://claudskills.com/skills/scitex-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "GitHub security-alert utilities. `check_github_alerts(repo=...)` returns the open Dependabot/CodeQL alerts as a structured list. Drop-in replacement for `gh api repos/{owner}/{repo}/dependabot/alerts` shell-outs in monitoring dashboards.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

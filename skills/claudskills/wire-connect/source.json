@@ -1,0 +1,18 @@
+{
+  "name": "wire-connect",
+  "slug": "wire-connect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wire-connect/",
+  "download_url": "https://claudskills.com/skills/wire-connect/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Connect Wire memory to this agent. Authenticates via browser and registers your Wire container's MCP tools.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

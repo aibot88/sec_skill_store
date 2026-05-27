@@ -1,0 +1,19 @@
+{
+  "name": "mastg",
+  "slug": "chichou-grapefruit-skills-mastg",
+  "source": "github",
+  "source_url": "https://github.com/ChiChou/grapefruit/blob/98373c60d005bc320d0d32e523fda11397296efa/skills/mastg/SKILL.md",
+  "download_url": "https://github.com/ChiChou/grapefruit/blob/98373c60d005bc320d0d32e523fda11397296efa/skills/mastg/SKILL.md",
+  "external_source_url": "https://github.com/ChiChou/grapefruit/blob/98373c60d005bc320d0d32e523fda11397296efa/skills/mastg/SKILL.md",
+  "license": "",
+  "description": "Open-source mobile security testing suite for iOS and Android. Previously Passionfruit",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "ChiChou/grapefruit",
+    "path": "skills/mastg/SKILL.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

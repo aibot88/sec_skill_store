@@ -1,0 +1,18 @@
+{
+  "name": "start-governed-claude-code-sessions-with-short-lived-service-cre",
+  "slug": "start-governed-claude-code-sessions-with-short-lived-service-cre",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/start-governed-claude-code-sessions-with-short-lived-service-cre/",
+  "download_url": "https://claudskills.com/skills/start-governed-claude-code-sessions-with-short-lived-service-cre/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Inject short-lived, scoped service credentials into Claude Code sessions so agents can reach approved systems without exposing raw secrets.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

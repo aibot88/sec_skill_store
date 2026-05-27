@@ -1,0 +1,18 @@
+{
+  "name": "integration-framework-design",
+  "slug": "integration-framework-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/integration-framework-design/",
+  "download_url": "https://claudskills.com/skills/integration-framework-design/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing a reusable integration layer in Salesforce that serves multiple external APIs through a shared callout infrastructure. Triggers: 'how to design a reusable integration layer in Salesforce', 'architect an Apex callout framework for multiple APIs', 'create a centralized error handling pattern for integrations', 'service interface pattern for external APIs', 'factory pattern for dynamic API resolution', 'centralized callout dispatcher'. NOT for individual API implementation (use apex/callouts-and-http-integrations), NOT for Named Credential setup (use integration/named-credentials-setup), NOT for async callout patterns (use apex/continuation-callouts).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

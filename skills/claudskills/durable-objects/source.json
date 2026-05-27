@@ -1,0 +1,18 @@
+{
+  "name": "durable-objects",
+  "slug": "durable-objects",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/durable-objects/",
+  "download_url": "https://claudskills.com/skills/durable-objects/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create and review Cloudflare Durable Objects. Use when building stateful coordination (chat rooms, multiplayer games, booking systems), implementing RPC methods, SQLite storage, alarms, WebSockets, or reviewing DO code for best practices. Covers Workers integration, wrangler config, and testing with Vitest.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

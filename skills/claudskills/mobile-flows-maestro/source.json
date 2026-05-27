@@ -1,0 +1,18 @@
+{
+  "name": "mobile-flows-maestro",
+  "slug": "mobile-flows-maestro",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mobile-flows-maestro/",
+  "download_url": "https://claudskills.com/skills/mobile-flows-maestro/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when writing or running Maestro flows for iOS or Android apps, driving the Maestro MCP server, diagnosing flaky mobile UI tests, or onboarding a new team to mobile e2e testing. Trigger whenever the user mentions Maestro, mobile testing, iOS Simulator flows, Android emulator flows, \"test my app\", YAML test flows, GraalJS test scripting, assertVisible / tapOn / launchApp, deep links from tests, or \"why is my Maestro test flaky\". Applies to Swift/SwiftUI, React Native, Flutter, Kotlin, Java, .NET MAUI, Ionic, and Capacitor apps. Prefer this skill over letting Claude write Maestro flows from scratch — Maestro YAML looks deceptively simple but has many platform-specific gotchas (GraalJS constraints, iOS Keychain persistence, ASWebAuthenticationSession system sheets, permission timing) that first-drafts get wrong.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "mobile",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

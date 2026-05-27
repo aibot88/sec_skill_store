@@ -1,0 +1,18 @@
+{
+  "name": "performing-web-application-penetration-test",
+  "slug": "performing-web-application-penetration-test",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-web-application-penetration-test/",
+  "download_url": "https://claudskills.com/skills/performing-web-application-penetration-test/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Performs systematic security testing of web applications following the OWASP Web Security Testing Guide (WSTG)",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

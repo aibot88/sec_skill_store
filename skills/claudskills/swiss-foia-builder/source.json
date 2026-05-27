@@ -1,0 +1,18 @@
+{
+  "name": "swiss-foia-builder",
+  "slug": "swiss-foia-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/swiss-foia-builder/",
+  "download_url": "https://claudskills.com/skills/swiss-foia-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when researching, specifying, designing, or QAing a Swiss FOI / Öffentlichkeitsgesetz / LTrans / transparency-law request builder, including “MuckRock for Switzerland” or FragDenStaat-style tools. Covers federal BGÖ/LTrans and cantonal workflows, authority discovery, deadlines, fees, EDÖB/FDPIC mediation, privacy/source protection, benchmarking, and product spec output.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ips-planbetroffene-auswahl",
+  "slug": "ips-planbetroffene-auswahl",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ips-planbetroffene-auswahl/",
+  "download_url": "https://claudskills.com/skills/ips-planbetroffene-auswahl/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Wählt im StaRUG die Planbetroffenen sachgerecht aus und dokumentiert nicht einbezogene Gläubiger, Rechte, Arbeitnehmerausnahmen und Begruendung.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

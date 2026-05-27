@@ -1,0 +1,18 @@
+{
+  "name": "osint-domain-intelligence-scanner",
+  "slug": "osint-domain-intelligence-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/osint-domain-intelligence-scanner/",
+  "download_url": "https://claudskills.com/skills/osint-domain-intelligence-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Performs deep OSINT analysis on domains using Shodan API, SecurityTrails DNS history, and WHOIS RDAP lookups. Aggregates subdomain enumeration via Amass and certificate transparency logs from crt.sh for comprehensive attack surface mapping.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "openstack-security",
+  "slug": "security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security/",
+  "download_url": "https://claudskills.com/skills/security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "OpenStack security operations skill for hardening, certificate management, and security posture assessment of cloud infrastructure. Covers TLS certificate lifecycle (generation, deployment, rotation, expiry monitoring), security group management (default deny, minimum required openings), RBAC policy customization (per-service policy.yaml), network segmentation (management vs tenant vs external), audit logging (Keystone CADF events), vulnerability assessment procedures, compliance auditing, intrusion detection patterns, incident response procedures (credential compromise, instance compromise), password rotation, and API rate limiting. Use when hardening OpenStack, managing certificates, auditing security posture, or responding to security incidents.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

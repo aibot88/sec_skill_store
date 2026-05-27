@@ -1,0 +1,18 @@
+{
+  "name": "hardening-windows-endpoint-with-cis-benchmark",
+  "slug": "hardening-windows-endpoint-with-cis-benchmark",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hardening-windows-endpoint-with-cis-benchmark/",
+  "download_url": "https://claudskills.com/skills/hardening-windows-endpoint-with-cis-benchmark/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Hardens Windows endpoints using CIS (Center for Internet Security) Benchmark recommendations to reduce attack",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

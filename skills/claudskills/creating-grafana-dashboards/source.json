@@ -1,0 +1,18 @@
+{
+  "name": "ring:creating-grafana-dashboards",
+  "slug": "creating-grafana-dashboards",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/creating-grafana-dashboards/",
+  "download_url": "https://claudskills.com/skills/creating-grafana-dashboards/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Author Grafana dashboards for Lerian Go services rooted in real lib-observability telemetry (tracing, metrics, log, constants). Three phases — Sweep (telemetry inventory), Iterate (PM deliberation on SLIs/SLOs and alerts), Author (Grafonnet libsonnet → JSON in CI) — and installs a blocking CI drift gate. Use when scaffolding dashboards, building a telemetry dictionary, or auditing observability. Skip if service is non-Go, emits no telemetry, or task is just folder organization.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

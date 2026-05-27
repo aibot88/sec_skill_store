@@ -1,0 +1,18 @@
+{
+  "name": "contextual-review",
+  "slug": "contextual-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/contextual-review/",
+  "download_url": "https://claudskills.com/skills/contextual-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review pull requests for code quality, security vulnerabilities, best practices, and potential issues. Use when reviewing PRs, examining diffs, or providing code review feedback.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "pi-prompt-authoring",
+  "slug": "pi-prompt-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pi-prompt-authoring/",
+  "download_url": "https://claudskills.com/skills/pi-prompt-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authors system prompt additions for pi coding agent. Use when extending pi's default prompt with custom principles, guidelines, or project-specific rules via SYSTEM.md or APPEND_SYSTEM.md.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

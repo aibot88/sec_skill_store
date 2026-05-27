@@ -1,0 +1,18 @@
+{
+  "name": "invariant-guard",
+  "slug": "invariant-guard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/invariant-guard/",
+  "download_url": "https://claudskills.com/skills/invariant-guard/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when writing or reviewing algorithms where the obvious implementation is subtly wrong — postcondition stronger than the loop's natural invariant (Boyer–Moore majority, Floyd cycle, leftmost vs any binary search, QuickSelect partition); in-place mutation with read+write pointers (dedup-in-place, partition, rotate); recursion with multiple parameters or accumulator state; off-by-one suspects with duplicates, empty inputs, boundary values; iterative refinements that must terminate (fixed-point, Newton, EM); any function where you catch yourself thinking \"I know this algorithm\" — the trap is usually in the contract, not the loop body. Forces writing the function contract (especially the postcondition) and loop invariant BEFORE code. Pairs with lemmaly (picks the algorithm) and mathguard (picks the math).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

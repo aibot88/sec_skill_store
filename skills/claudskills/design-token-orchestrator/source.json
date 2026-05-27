@@ -1,0 +1,18 @@
+{
+  "name": "design-token-orchestrator",
+  "slug": "design-token-orchestrator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/design-token-orchestrator/",
+  "download_url": "https://claudskills.com/skills/design-token-orchestrator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Unified design token automation for Northcote Curio. Build, validate, and sync design tokens across CSS, Tailwind, and theme systems. Ensures compliance with Northcote palette and Victorian aesthetic principles.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-creative",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

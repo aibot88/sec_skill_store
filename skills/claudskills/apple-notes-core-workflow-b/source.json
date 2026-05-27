@@ -1,0 +1,18 @@
+{
+  "name": "apple-notes-core-workflow-b",
+  "slug": "apple-notes-core-workflow-b",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/apple-notes-core-workflow-b/",
+  "download_url": "https://claudskills.com/skills/apple-notes-core-workflow-b/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Export and convert Apple Notes to Markdown, JSON, HTML, and SQLite. Use when backing up notes, exporting to other apps, converting HTML to Markdown, or building searchable note archives from Apple Notes. Trigger: \"export apple notes\", \"apple notes to markdown\", \"backup apple notes\", \"apple notes to JSON\", \"convert apple notes\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

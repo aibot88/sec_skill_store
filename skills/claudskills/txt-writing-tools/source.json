@@ -1,0 +1,18 @@
+{
+  "name": "txt-writing-tools",
+  "slug": "txt-writing-tools",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/txt-writing-tools/",
+  "download_url": "https://claudskills.com/skills/txt-writing-tools/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Integrate Writing Tools into UITextView, NSTextView, custom UITextInput views, or fully custom editors via UIWritingToolsCoordinator. Configure writingToolsBehavior and allowedWritingToolsResultOptions, declare protected ranges via writingToolsIgnoredRangesInEnclosingRange, gate edits with isWritingToolsActive, and pause syncing in willBegin/didEnd. Trigger on 'Apple Intelligence rewrite', 'AI summarize selection', 'compose with AI', 'why won't Writing Tools appear', or 'rewrite is breaking my code blocks' even without UIWritingToolsCoordinator named. Use when Writing Tools is missing from the menu, only the panel mode appears, rewrites corrupt code blocks, the inline animation isn't running, or a custom text engine needs to adopt UIWritingToolsCoordinator. Do NOT use for diagnosing general TextKit 1 fallback symptoms — see txt-fallback-triggers.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

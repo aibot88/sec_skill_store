@@ -1,0 +1,18 @@
+{
+  "name": "create-threat-model",
+  "slug": "create-threat-model",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-threat-model/",
+  "download_url": "https://claudskills.com/skills/create-threat-model/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Analyze a codebase and produce a structured threat model at .turbo/threat-model.md covering assets, trust boundaries, attack surfaces with existing mitigations, attacker stories, and calibrated severity. Use when the user asks to \\\"create a threat model\\\", \\\"threat model\\\", \\\"threat model this codebase\\\", \\\"security analysis\\\", \\\"analyze the attack surface\\\", \\\"what are the threats\\\", or \\\"identify security risks\\\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

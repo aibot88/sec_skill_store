@@ -1,0 +1,18 @@
+{
+  "name": "moex-server-access",
+  "slug": "moex-server-access",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/moex-server-access/",
+  "download_url": "https://claudskills.com/skills/moex-server-access/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Безопасная работа с production-сервером Фрейм (таймфрейм.рф) через SSH — деплой файлов, выполнение команд в контейнерах, чтение логов, БД-запросы. Соблюдает rate-limit и fail2ban защиту через single-connection patterns. Триггер когда пользователь говорит «задеплой на сервер», «посмотри логи прода», «выполни SQL на проде», «обнови файл в контейнере», «restart api», «check production», «прод не работает», или просит любое действие требующее SSH к 103.88.243.232.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "loom-source-driven-development",
+  "slug": "loom-source-driven-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/loom-source-driven-development/",
+  "download_url": "https://claudskills.com/skills/loom-source-driven-development/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when correctness depends on current source authority: framework/library/platform versions, official docs, standards, changelogs, migration guides, peer repos, project source reality, or conflicting documented patterns.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:34+00:00"
+}

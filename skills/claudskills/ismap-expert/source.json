@@ -1,0 +1,18 @@
+{
+  "name": "ismap-expert",
+  "slug": "ismap-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ismap-expert/",
+  "download_url": "https://claudskills.com/skills/ismap-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Japanese ISMAP (Information System Security Management and Assessment Program) expert. Provides guidance on ISO 27001/27017/27018 compliance, Japanese government cloud requirements, and data residency in Tokyo/Osaka regions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

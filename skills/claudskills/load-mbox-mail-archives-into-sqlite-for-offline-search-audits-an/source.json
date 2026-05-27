@@ -1,0 +1,18 @@
+{
+  "name": "load-mbox-mail-archives-into-sqlite-for-offline-search-audits-an",
+  "slug": "load-mbox-mail-archives-into-sqlite-for-offline-search-audits-an",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/load-mbox-mail-archives-into-sqlite-for-offline-search-audits-an/",
+  "download_url": "https://claudskills.com/skills/load-mbox-mail-archives-into-sqlite-for-offline-search-audits-an/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use mbox-to-sqlite when an agent needs to work across an email archive as structured data instead of parsing one message at a time. The agent imports a mailbox into SQLite, then hands the resulting database to search, reporting, and cross-dataset workflows without depending on a live mail provider.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

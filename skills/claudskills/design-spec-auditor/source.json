@@ -1,0 +1,18 @@
+{
+  "name": "Design Spec Auditor",
+  "slug": "design-spec-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/design-spec-auditor/",
+  "download_url": "https://claudskills.com/skills/design-spec-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Verify code implementation aligns with design specifications. Use after implementing features, during code reviews, or when refactoring to ensure architectural compliance. Compares design docs with actual code.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

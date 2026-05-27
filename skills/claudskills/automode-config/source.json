@@ -1,0 +1,18 @@
+{
+  "name": "automode-config",
+  "slug": "automode-config",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/automode-config/",
+  "download_url": "https://claudskills.com/skills/automode-config/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Author, validate, and migrate Claude Code autoMode blocks at the project level. Models the four official autoMode sections (environment, allow, soft_deny, hard_deny — all arrays of prose rules, with `$defaults` per section). Primary target is .claude/settings.local.json (per-user-per-project, gitignored, classifier-read). Reads ~/.claude/settings.json (user baseline, read-only) and .claude/settings.json (shared, classifier-ignores autoMode) for adoption candidates. Phase 1b is agent-driven: the calling agent reads CLAUDE.md / AGENTS.md / .claude/CLAUDE.md and emits a proposal JSON that flows through the same critique + hash-gate + atomic-write pipeline. Runs `claude auto-mode critique` as the canonical gate. Atomic write under per-file flock with sha256 hash gate. Requires Claude Code 2.1.83+ (auto mode itself; see references/automode_doc_bible.md).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

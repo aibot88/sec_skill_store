@@ -1,0 +1,18 @@
+{
+  "name": "security-and-compliance",
+  "slug": "security-and-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-and-compliance/",
+  "download_url": "https://claudskills.com/skills/security-and-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Evaluate security posture and regulatory compliance for a system architecture. Produces .forge/security.md with auth model, data isolation, PII inventory, regulatory requirements, encryption audit, vendor assessment, certification roadmap, and STRIDE threat model. Use when user mentions \"security review\", \"compliance\", \"SOC 2\", \"GDPR\", \"PII\", \"threat model\", or the system handles sensitive data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

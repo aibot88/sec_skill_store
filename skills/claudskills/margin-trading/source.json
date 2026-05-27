@@ -1,0 +1,18 @@
+{
+  "name": "margin-trading",
+  "slug": "margin-trading",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/margin-trading/",
+  "download_url": "https://claudskills.com/skills/margin-trading/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Binance Margin-trading request using the Binance API. Authentication requires API key and secret key.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

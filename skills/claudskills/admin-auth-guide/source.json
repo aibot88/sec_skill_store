@@ -1,0 +1,18 @@
+{
+  "name": "admin-auth-guide",
+  "slug": "admin-auth-guide",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/admin-auth-guide/",
+  "download_url": "https://claudskills.com/skills/admin-auth-guide/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Admin authentication and authorization system reference — login flow, JWT, TOTP, sessions, RBAC",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

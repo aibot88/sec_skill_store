@@ -1,0 +1,18 @@
+{
+  "name": "enabling-lambda-vpc-internet-access",
+  "slug": "enabling-lambda-vpc-internet-access",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/enabling-lambda-vpc-internet-access/",
+  "download_url": "https://claudskills.com/skills/enabling-lambda-vpc-internet-access/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Enables internet access for AWS Lambda functions deployed in VPC subnets by creating NAT Gateway infrastructure, configuring public/private subnet routing, and updating security groups. Use when a VPC-attached Lambda function cannot reach the internet.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

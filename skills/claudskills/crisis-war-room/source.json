@@ -1,0 +1,18 @@
+{
+  "name": "crisis-war-room",
+  "slug": "crisis-war-room",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crisis-war-room/",
+  "download_url": "https://claudskills.com/skills/crisis-war-room/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Startup crisis management operating system covering 14 crisis types with severity scoring, escalation matrices, war room protocols, stakeholder communication playbooks, runway extension, co-founder conflict resolution, PR crisis management, data breach response, regulatory crisis, customer churn emergency, product failure recovery, key person risk mitigation, graceful shutdown planning, and pivot decision frameworks. Includes India-specific crisis protocols for RBI/SEBI regulatory action, GST notices, MCA non-compliance, labor disputes, and NCLT proceedings. Use when user mentions crisis, emergency, fire, broken, failing, dying, shutdown, pivot, runway, burn rate, co-founder conflict, PR disaster, data breach, layoff, down round, churn spike, regulatory action, legal threat, or any urgent startup survival situation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

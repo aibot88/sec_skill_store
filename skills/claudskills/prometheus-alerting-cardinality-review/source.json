@@ -1,0 +1,18 @@
+{
+  "name": "prometheus-alerting-cardinality-review",
+  "slug": "prometheus-alerting-cardinality-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prometheus-alerting-cardinality-review/",
+  "download_url": "https://claudskills.com/skills/prometheus-alerting-cardinality-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing Prometheus or AlertManager configuration for cardinality, alerting correctness, scrape security, remote_write safety, or retention adequacy. Trigger when a user provides prometheus.yml, alertmanager.yml, recording rules YAML, alerting rules YAML, or asks whether their Prometheus setup is production-ready.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "plans",
+  "slug": "static-analyzer-factory-static-analyzer-factory-plans",
+  "source": "github",
+  "source_url": "https://github.com/Static-Analyzer-Factory/static-analyzer-factory/blob/9013c8f7b91fdbc2a7ea979e55be2252b44f0a98/plans/184-saf-checker-dev-skill.md",
+  "download_url": "https://github.com/Static-Analyzer-Factory/static-analyzer-factory/blob/9013c8f7b91fdbc2a7ea979e55be2252b44f0a98/plans/184-saf-checker-dev-skill.md",
+  "external_source_url": "https://github.com/Static-Analyzer-Factory/static-analyzer-factory/blob/9013c8f7b91fdbc2a7ea979e55be2252b44f0a98/plans/184-saf-checker-dev-skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Static-Analyzer-Factory/static-analyzer-factory",
+    "path": "plans/183-saf-feature-dev-skill.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

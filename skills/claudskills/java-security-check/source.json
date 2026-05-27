@@ -1,0 +1,18 @@
+{
+  "name": "java-security-check",
+  "slug": "java-security-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/java-security-check/",
+  "download_url": "https://claudskills.com/skills/java-security-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Quick OWASP security scan for injection risks, hardcoded secrets, weak crypto, and Spring Security misconfigs. Use when user asks to \"security scan\", \"check for vulnerabilities\", \"any security issues\", \"OWASP check\", \"hardcoded secrets\", or \"is this secure\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

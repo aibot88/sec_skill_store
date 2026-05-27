@@ -1,0 +1,18 @@
+{
+  "name": "implementing-envelope-encryption-with-aws-kms",
+  "slug": "implementing-envelope-encryption-with-aws-kms",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-envelope-encryption-with-aws-kms/",
+  "download_url": "https://claudskills.com/skills/implementing-envelope-encryption-with-aws-kms/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Envelope encryption is a strategy where data is encrypted with a data encryption key (DEK), and the DEK itself",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crypto-keymgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "deploying-k8s-services",
+  "slug": "deploying-k8s-services",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deploying-k8s-services/",
+  "download_url": "https://claudskills.com/skills/deploying-k8s-services/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deploys new containerized services to the Superbloom K3s cluster using Flux GitOps with bjw-s app-template, Authelia forward auth, Caddy reverse proxy, and DDNS",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

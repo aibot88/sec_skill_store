@@ -1,0 +1,18 @@
+{
+  "name": "configuring-vpc-endpoints-for-private-aws-service-access",
+  "slug": "configuring-vpc-endpoints-for-private-aws-service-access",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/configuring-vpc-endpoints-for-private-aws-service-access/",
+  "download_url": "https://claudskills.com/skills/configuring-vpc-endpoints-for-private-aws-service-access/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Configures VPC endpoints (interface and gateway) for private AWS service access using AWS PrivateLink. Use when setting up secure private connectivity to S3, DynamoDB, and other AWS services without internet gateway, NAT device, or public IP addresses. Covers endpoint creation, security groups, route tables, and DNS configuration.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

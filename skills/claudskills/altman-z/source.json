@@ -1,0 +1,18 @@
+{
+  "name": "altman-z",
+  "slug": "altman-z",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/altman-z/",
+  "download_url": "https://claudskills.com/skills/altman-z/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Altman Z''スコアによる信用リスク分析。企業の倒産リスクを定量評価し、安全圏/グレーゾーン/危険圏に分類する。「倒産リスク」「信用リスク」「財務健全性」「Altman」「Z-score」「安全性分析」と聞かれたときに使用。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

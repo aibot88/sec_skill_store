@@ -1,0 +1,18 @@
+{
+  "name": "performing-cloud-native-threat-hunting-with-aws-detective",
+  "slug": "performing-cloud-native-threat-hunting-with-aws-detective",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-cloud-native-threat-hunting-with-aws-detective/",
+  "download_url": "https://claudskills.com/skills/performing-cloud-native-threat-hunting-with-aws-detective/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Hunt for threats in AWS environments using Detective behavior graphs, entity investigation timelines, GuardDuty",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

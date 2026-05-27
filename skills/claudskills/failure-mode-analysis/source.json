@@ -1,0 +1,18 @@
+{
+  "name": "failure-mode-analysis",
+  "slug": "failure-mode-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/failure-mode-analysis/",
+  "download_url": "https://claudskills.com/skills/failure-mode-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Identify potential failure modes and assess system vulnerabilities for pilot workflows and integrations. Use when anticipating risks, modeling breakdown scenarios, or designing mitigation strategies based on process and technical inputs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

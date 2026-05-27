@@ -1,0 +1,18 @@
+{
+  "name": "crossplane-specialist",
+  "slug": "crossplane-specialist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crossplane-specialist/",
+  "download_url": "https://claudskills.com/skills/crossplane-specialist/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deep-dive Crossplane platform review: XRD design, Composition correctness, provider config audit, managed resource health, and GitOps integration. Use for structured investigations of stuck Claims, composition pipeline bugs, and credential injection patterns. Triggers on: \"Crossplane audit\", \"XRD review\", \"Composition debug\", \"stuck Claim\", \"managed resource stuck\", \"provider config review\", \"Crossplane GitOps\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sales-hey",
+  "slug": "sales-hey",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-hey/",
+  "download_url": "https://claudskills.com/skills/sales-hey/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Hey platform help — opinionated privacy-first email service by 37signals with Screener sender approval, Imbox/Feed/Paper Trail organization, spy pixel blocking, and no AI by design ($99/yr personal, $12/user/mo domains). Use when setting up Hey for the first time and wondering if the workflow fits, frustrated that you can't import old emails into Hey, Hey search isn't finding emails you know exist, trying to decide between Hey and Superhuman or Shortwave or Fastmail, wondering if $999/yr for custom domain is worth it vs Hey for Domains at $12/user/mo, or comparing Hey's anti-AI philosophy to AI-powered alternatives. Do NOT use for AI email drafting (use /sales-superhuman or /sales-shortwave). Do NOT use for email deliverability for outbound (use /sales-deliverability).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

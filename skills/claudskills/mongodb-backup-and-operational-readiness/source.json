@@ -1,0 +1,18 @@
+{
+  "name": "mongodb-backup-and-operational-readiness",
+  "slug": "mongodb-backup-and-operational-readiness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mongodb-backup-and-operational-readiness/",
+  "download_url": "https://claudskills.com/skills/mongodb-backup-and-operational-readiness/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when designing or hardening MongoDB backup, point-in-time recovery, and operational readiness after the replica topology exists and reliability and operations have set RPO/RTO and runbook expectations. Produces a backup strategy (mongodump / filesystem snapshot / Cloud Manager / Atlas continuous), oplog-based PITR, a documented and rehearsed restore drill with measured RPO/RTO, oplog-window and replication-lag observability, and runbook inputs for primary loss, oplog rollover, and chunk-balancer issues. Do not use for document modeling, query tuning, replica topology, security/auth, backup-artifact encryption key model, or storage provisioning; use the other Family B archetype skills.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

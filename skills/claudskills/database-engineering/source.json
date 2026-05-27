@@ -1,0 +1,18 @@
+{
+  "name": "database-engineering",
+  "slug": "database-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/database-engineering/",
+  "download_url": "https://claudskills.com/skills/database-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Domain specialist for data persistence, database design, query optimization, and data modeling. Scope: SQL injection prevention, indexing strategies, normalization, migrations, scaling, backup/recovery, ORM patterns, N+1 query detection, query optimization, relationship mapping. Excludes: API design, business logic, infrastructure, frontend, security beyond database. Triggers: \"database\", \"SQL\", \"query\", \"index\", \"schema\", \"migration\", \"sharding\", \"replication\", \"backup\", \"N+1\", \"ORM\", \"Eloquent\", \"Django\", \"query optimization\", \"slow query\", \"relationship\", \"foreign key\", \"join\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

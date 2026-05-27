@@ -1,0 +1,18 @@
+{
+  "name": "gmail",
+  "slug": "gmail",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gmail/",
+  "download_url": "https://claudskills.com/skills/gmail/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Interact with Gmail - search emails, read messages, send emails, create drafts, and manage labels. Use when user asks to: search email, read email, send email, create email draft, mark as read, archive email, star email, or manage Gmail labels. Lightweight alternative to full Google Workspace MCP server with standalone OAuth authentication.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

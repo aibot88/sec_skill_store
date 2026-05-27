@@ -1,0 +1,18 @@
+{
+  "name": "dev-nginx-configurator",
+  "slug": "dev-nginx-configurator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-nginx-configurator/",
+  "download_url": "https://claudskills.com/skills/dev-nginx-configurator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configuration Nginx — reverse proxy, SSL/TLS, load balancing, caching et security headers. Se déclenche avec \"Nginx\", \"nginx.conf\", \"reverse proxy\", \"SSL Nginx\", \"load balancer Nginx\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

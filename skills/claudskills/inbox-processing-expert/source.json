@@ -1,0 +1,18 @@
+{
+  "name": "inbox-processing-expert",
+  "slug": "inbox-processing-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/inbox-processing-expert/",
+  "download_url": "https://claudskills.com/skills/inbox-processing-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guidance for building and maintaining the Para Obsidian inbox processing system - a security-hardened automation framework for processing PDFs and attachments with AI-powered metadata extraction. Use when building inbox processors, implementing security patterns (TOCTOU, command injection prevention, atomic writes), designing interactive CLIs with suggestion workflows, integrating LLM detection, implementing idempotency with SHA256 registries, or working with the para-obsidian inbox codebase. Covers engine/interface separation, suggestion-based architecture, confidence scoring, error taxonomy, structured logging, and testing patterns. Useful when user mentions inbox automation, PDF processing, document classification, security-hardened file processing, or interactive CLI design.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

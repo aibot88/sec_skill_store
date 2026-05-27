@@ -1,0 +1,18 @@
+{
+  "name": "ibm-cloud",
+  "slug": "ibm-cloud",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ibm-cloud/",
+  "download_url": "https://claudskills.com/skills/ibm-cloud/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides comprehensive IBM Cloud platform guidance including compute services (VPC, Virtual Servers, IKS, OpenShift, Code Engine, Cloud Functions), storage (Object Storage, Block Storage, File Storage), databases (Db2, Cloudant, PostgreSQL, MySQL, MongoDB, Redis), IAM security (access groups, service IDs, Key Protect, Secrets Manager), networking (VPC, load balancers, Direct Link), CLI automation, Terraform/Schematics infrastructure as code, monitoring, and cost optimization. Covers infrastructure provisioning, application deployment, security configuration, multi-zone high availability, and operational best practices. Use when working with IBM Cloud services, deploying cloud infrastructure, managing cloud resources, configuring security and networking, or when users mention \"IBM Cloud\", \"IKS\", \"Code Engine\", \"Db2\", \"Cloudant\", \"VPC\", \"cloud provisioning\", \"IBM Kubernetes\", \"OpenShift\", \"Terraform IBM\", \"Schematics\", or \"IBM cloud platform\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

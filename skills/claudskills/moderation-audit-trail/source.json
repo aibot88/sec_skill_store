@@ -1,0 +1,18 @@
+{
+  "name": "moderation-audit-trail",
+  "slug": "moderation-audit-trail",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/moderation-audit-trail/",
+  "download_url": "https://claudskills.com/skills/moderation-audit-trail/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Moderation audit trail expertise — auto-activates on compliance logging and escalation documentation tasks",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

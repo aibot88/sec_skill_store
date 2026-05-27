@@ -1,0 +1,18 @@
+{
+  "name": "mission-control-release-prep",
+  "slug": "mission-control-release-prep",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mission-control-release-prep/",
+  "download_url": "https://claudskills.com/skills/mission-control-release-prep/SKILL.md",
+  "external_source_url": "",
+  "license": "AGPL-3.0",
+  "description": "Prepare a project for release through Mission Control. Use when validation, docs, versioning, changelog, limitations, evidence, deployment readiness, and security concerns need one coordinated release-prep review.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

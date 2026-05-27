@@ -1,0 +1,18 @@
+{
+  "name": "html-injection-testing",
+  "slug": "sickn33-html-injection-testing",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-html-injection-testing",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/html-injection-testing/SKILL.md?plain=1#L429",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/html-injection-testing/SKILL.md?plain=1#L429",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "This skill should be used when the user asks to \"test for HTML injection\", \"inject HTML into web pages\", \"perform HTML injection attacks\", \"deface web applications\", or \"test conten...",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/html-injection-testing/SKILL.md?plain=1#L429"
+  },
+  "collected_at": "2026-05-27T03:44:47+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "senior-software-architect",
+  "slug": "senior-software-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/senior-software-architect/",
+  "download_url": "https://claudskills.com/skills/senior-software-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Principal-level product development and architecture skill for modern professional web platforms. Covers advanced frontend engineering, Next.js App Router patterns, React component architecture, React Hook Form, state management, system design, Firebase auth/session, and long-term platform stewardship. Use for any core or peripheral module, architecture decision, or technical authority question.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

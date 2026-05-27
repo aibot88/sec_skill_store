@@ -1,0 +1,18 @@
+{
+  "name": "detecting-lateral-movement-in-network",
+  "slug": "detecting-lateral-movement-in-network",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-lateral-movement-in-network/",
+  "download_url": "https://claudskills.com/skills/detecting-lateral-movement-in-network/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Identifies lateral movement techniques in enterprise networks by analyzing authentication logs, network flows,",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

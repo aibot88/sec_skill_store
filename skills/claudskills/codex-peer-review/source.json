@@ -1,0 +1,18 @@
+{
+  "name": "codex-peer-review",
+  "slug": "codex-peer-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/codex-peer-review/",
+  "download_url": "https://claudskills.com/skills/codex-peer-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Complete terms in LICENSE.txt",
+  "description": "[CLAUDE CODE ONLY] Leverage Codex CLI for AI peer review, second opinions on architecture and design decisions, cross-validation of implementations, security analysis, and alternative approach generation. Requires terminal access to execute Codex CLI commands. Use when making high-stakes decisions, reviewing complex architecture, or when explicitly requested for a second AI perspective. Must be explicitly invoked using skill syntax.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

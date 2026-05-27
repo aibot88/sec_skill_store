@@ -1,0 +1,18 @@
+{
+  "name": "software-design",
+  "slug": "software-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/software-design/",
+  "download_url": "https://claudskills.com/skills/software-design/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Software design principles, patterns, and architecture from SOLID through distributed systems. Covers the five SOLID principles with violations and fixes, DRY/KISS/YAGNI heuristics, separation of concerns, 12 GoF design patterns organized by intent (creational, structural, behavioral), architectural patterns (MVC, MVP, MVVM, layered, hexagonal, microservices, event-driven), coupling and cohesion metrics, dependency injection, and the design decision framework for choosing between competing approaches. Use when making design decisions, reviewing architecture, refactoring code, or teaching software engineering principles.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "create-resource-service",
+  "slug": "create-resource-service",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-resource-service/",
+  "download_url": "https://claudskills.com/skills/create-resource-service/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create a resource service for CRUD operations on domain entities. Use when creating services for entities like notes, users, courses that need data operations, authorization, and event emission. Triggers on \"resource service\", \"entity service\", \"crud service\", \"note service\", \"create service for\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

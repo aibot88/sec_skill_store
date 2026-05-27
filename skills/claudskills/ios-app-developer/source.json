@@ -1,0 +1,18 @@
+{
+  "name": "developing-ios-apps",
+  "slug": "ios-app-developer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ios-app-developer/",
+  "download_url": "https://claudskills.com/skills/ios-app-developer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Develops iOS/macOS applications with XcodeGen, SwiftUI, and SPM. Handles Apple Developer signing, notarization, and CI/CD pipelines. Triggers on XcodeGen project.yml, SPM dependency issues, device deployment, code signing errors (Error -25294, keychain mismatch, adhoc fallback, EMFILE, notarization credential conflict, continueOnError), camera/AVFoundation debugging, iOS version compatibility, \"Library not loaded @rpath\", Electron @electron/osx-sign/@electron/notarize config, notarytool, GitHub Actions secrets in conditionals, or certificate/provisioning problems. Use when building iOS/macOS apps, fixing Xcode build failures, deploying to real devices, or configuring CI/CD signing pipelines.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "mobile",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "301-frameworks-spring-boot-core",
+  "slug": "301-frameworks-spring-boot-core",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/301-frameworks-spring-boot-core/",
+  "download_url": "https://claudskills.com/skills/301-frameworks-spring-boot-core/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when you need to review, improve, or build Spring Boot 4.0.x applications — including proper usage of @SpringBootApplication, component annotations (@Controller, @Service, @Repository), bean definition and scoping, configuration classes and @ConfigurationProperties (with @Validated), component scanning, conditional configuration and profiles, constructor injection, @Primary and @Qualifier for multiple beans of the same type, bean minimization, graceful shutdown, virtual threads, Jakarta EE namespace consistency, and scheduled tasks. This should trigger for requests such as Review Java code for Spring Boot application; Apply best practices for Spring Boot application in Java code. Part of cursor-rules-java project",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

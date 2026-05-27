@@ -1,0 +1,18 @@
+{
+  "name": "performing-open-source-intelligence-gathering",
+  "slug": "performing-open-source-intelligence-gathering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-open-source-intelligence-gathering/",
+  "download_url": "https://claudskills.com/skills/performing-open-source-intelligence-gathering/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Open Source Intelligence (OSINT) gathering is the first active phase of a red team engagement, where operators",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "probe-kubernetes-clusters-for-exposed-attack-paths-with-kube-hun",
+  "slug": "probe-kubernetes-clusters-for-exposed-attack-paths-with-kube-hun",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/probe-kubernetes-clusters-for-exposed-attack-paths-with-kube-hun/",
+  "download_url": "https://claudskills.com/skills/probe-kubernetes-clusters-for-exposed-attack-paths-with-kube-hun/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Assess a Kubernetes cluster from the attacker viewpoint when an agent needs exposure-focused findings instead of a general cluster scanner listing.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

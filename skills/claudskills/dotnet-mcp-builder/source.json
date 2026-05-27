@@ -1,0 +1,18 @@
+{
+  "name": "dotnet-mcp-builder",
+  "slug": "dotnet-mcp-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dotnet-mcp-builder/",
+  "download_url": "https://claudskills.com/skills/dotnet-mcp-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Build Model Context Protocol (MCP) servers in C#/.NET against the current ModelContextProtocol 1.x NuGet packages. Especially helps with cases the model often gets wrong without guidance — stale preview versions (it tends to pick 0.3 or 0.4 preview), MCP Apps (interactive UI rendered in the host), elicitation URL mode, per-session HTTP wiring, OAuth and reverse-proxy deploy specifics, and debugging concrete MapMcp / STDIO / Streamable-HTTP errors. Also covers the routine work — STDIO and Streamable HTTP transports (SSE is deprecated), tools, prompts, resources, sampling, roots, completions, logging — and a basic .NET MCP client. Trigger when the user says or implies any .NET MCP server work: ModelContextProtocol, McpServerTool, MapMcp, WithStdioServerTransport, \"MCP server in C#\", \"MCP tool in dotnet\", \"expose this as MCP\", or names a primitive (prompt/resource/elicitation/MCP App) in a .NET context. Skip for MCP work in other languages.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "observability",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

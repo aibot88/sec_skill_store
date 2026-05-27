@@ -1,0 +1,18 @@
+{
+  "name": "dev-api-design",
+  "slug": "dev-api-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-api-design/",
+  "download_url": "https://claudskills.com/skills/dev-api-design/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Production-grade API design patterns for REST, GraphQL, gRPC, and tRPC. Covers API architecture, OpenAPI/Swagger specs, versioning/deprecation, authentication/authorization, rate limiting, pagination, error models, contract testing, and developer documentation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "emergency-rescue",
+  "slug": "emergency-rescue",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/emergency-rescue/",
+  "download_url": "https://claudskills.com/skills/emergency-rescue/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Recover from developer disasters. Use when someone force-pushed to main, leaked credentials in git, ran out of disk space, killed the wrong process, corrupted a database, broke a deploy, locked themselves out of SSH, lost commits after a bad rebase, or hit any other \"oh no\" moment that needs immediate, calm, step-by-step recovery.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

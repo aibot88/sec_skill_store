@@ -1,0 +1,18 @@
+{
+  "name": "grammarly-deploy-integration",
+  "slug": "grammarly-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/grammarly-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/grammarly-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Grammarly integrations to Vercel, Fly.io, and Cloud Run platforms. Use when deploying Grammarly-powered applications to production, configuring platform-specific secrets, or setting up deployment pipelines. Trigger with phrases like \"deploy grammarly\", \"grammarly Vercel\", \"grammarly production deploy\", \"grammarly Cloud Run\", \"grammarly Fly.io\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:10+00:00"
+}

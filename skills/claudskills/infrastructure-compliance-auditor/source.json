@@ -1,0 +1,18 @@
+{
+  "name": "infrastructure-compliance-auditor",
+  "slug": "infrastructure-compliance-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/infrastructure-compliance-auditor/",
+  "download_url": "https://claudskills.com/skills/infrastructure-compliance-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT + Commons Clause",
+  "description": "Cross-cutting infrastructure security audit skill that checks cloud infrastructure, DNS, TLS, endpoints, access control, network security, containers, CI/CD pipelines, secrets management, logging, and physical security against ALL major compliance frameworks. Use for infrastructure audit, cloud security audit, infrastructure compliance, DNS security audit, TLS audit, endpoint security, access control audit, network security assessment, infrastructure security, cloud compliance, Vanta alternative, compliance automation, security posture assessment, hardware security keys, YubiKey compliance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "observability",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "context-collecter",
+  "slug": "context-collecter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/context-collecter/",
+  "download_url": "https://claudskills.com/skills/context-collecter/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Zbiera, zapisuje i ładuje kontekst osobisty i firmowy w 20 warstwach informacyjnych. Tryb zapisu: \"zapamiętaj że...\", \"zapisz że...\", \"zanotuj...\", \"dodaj do kontekstu...\". Tryb briefingu: \"zbierz kontekst o...\", \"przeprowadź wywiad o...\", \"uzupełnij warstwę...\", \"wyciągnij ze mnie info o...\", \"zbierz info o mojej roli / firmie / zespole\", \"opowiedz mi o swojej [kategorii]\". Tryb montowania: \"zamontuj kontekst...\", \"załaduj kontekst o...\", \"pokaż kontekst...\", \"daj mi kontekst o...\", \"co wiesz o mnie...\", \"podsumuj mój kontekst...\". Tryb edycji: \"popraw...\", \"zmień to że...\", \"usuń wpis...\", \"zaktualizuj...\". Zawsze komunikuje się po polsku.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

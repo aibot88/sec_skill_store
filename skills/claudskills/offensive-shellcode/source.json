@@ -1,0 +1,18 @@
+{
+  "name": "offensive-shellcode",
+  "slug": "offensive-shellcode",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/offensive-shellcode/",
+  "download_url": "https://claudskills.com/skills/offensive-shellcode/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Shellcode development reference for offensive security engagements. Use when writing custom x86/x64 shellcode, implementing position-independent code (PIC), building shellcode loaders, evading AV/EDR detection, or converting PE files to shellcode. Covers null byte avoidance, API hashing, encoder/decoder patterns, staged vs stageless payloads, Windows PEB traversal, and cross-platform shellcode techniques.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

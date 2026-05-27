@@ -1,0 +1,18 @@
+{
+  "name": "performing-security-audits",
+  "slug": "security-pro-pack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-pro-pack/",
+  "download_url": "https://claudskills.com/skills/security-pro-pack/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill allows Claude to conduct comprehensive security audits of code, infrastructure, and configurations. It leverages various tools within the security-pro-pack plugin, including vulnerability scanning, compliance checking, cryptography review, and infrastructure security analysis. Use this skill when a user requests a \"security audit,\" \"vulnerability assessment,\" \"compliance review,\" or any task involving identifying and mitigating security risks. It helps to ensure code and systems adhere to security best practices and compliance standards. Activates when you request \"performing security audits\" functionality.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

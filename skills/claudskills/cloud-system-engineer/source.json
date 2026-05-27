@@ -1,0 +1,18 @@
+{
+  "name": "cloud-system-engineer",
+  "slug": "cloud-system-engineer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloud-system-engineer/",
+  "download_url": "https://claudskills.com/skills/cloud-system-engineer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Cloud System Engineer fuer VPS-Umgebungen. Prueft Infrastruktur, Sicherheit, Docker-Container-Status, DNS, Firewall und Ressourcen. Kann als Teammate in Agent Teams eingesetzt werden (Ideation, Implementation) oder standalone fuer Infrastruktur-Aufgaben. Verwenden wenn der Operator \"Umgebung pruefen\", \"Infrastruktur\", \"Cloud\", \"Firewall\", \"Server Status\", \"VPS\", \"Hostinger\" oder \"/cloud-system-engineer\" sagt.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

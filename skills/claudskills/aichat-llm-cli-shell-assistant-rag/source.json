@@ -1,0 +1,18 @@
+{
+  "name": "aichat-llm-cli-shell-assistant-rag",
+  "slug": "aichat-llm-cli-shell-assistant-rag",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aichat-llm-cli-shell-assistant-rag/",
+  "download_url": "https://claudskills.com/skills/aichat-llm-cli-shell-assistant-rag/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AIChat is a comprehensive LLM command-line tool written in Rust that combines chat-REPL, shell command generation, RAG, AI tools, and multi-provider support into a single binary. It connects to 20+ LLM providers including OpenAI, Claude, Gemini, and Ollama.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

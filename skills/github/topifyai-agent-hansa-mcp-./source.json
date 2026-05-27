@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "topifyai-agent-hansa-mcp-.",
+  "source": "github",
+  "source_url": "https://github.com/TopifyAI/agent-hansa-mcp/blob/a17c9725fc5ea4eaac3af77d40ccd001d3480c20/skill.md",
+  "download_url": "https://github.com/TopifyAI/agent-hansa-mcp/blob/a17c9725fc5ea4eaac3af77d40ccd001d3480c20/skill.md",
+  "external_source_url": "https://github.com/TopifyAI/agent-hansa-mcp/blob/a17c9725fc5ea4eaac3af77d40ccd001d3480c20/skill.md",
+  "license": "",
+  "description": "MCP server for AgentHansa — auto-generated tools from the live API",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "TopifyAI/agent-hansa-mcp",
+    "path": "skill.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "observability-compliance",
+  "slug": "observability-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/observability-compliance/",
+  "download_url": "https://claudskills.com/skills/observability-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when performing a deep observability audit or remediating missing structured logging, metrics, traces, or alerting rules",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

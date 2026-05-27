@@ -1,0 +1,18 @@
+{
+  "name": "service-account-credential-rotation",
+  "slug": "service-account-credential-rotation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/service-account-credential-rotation/",
+  "download_url": "https://claudskills.com/skills/service-account-credential-rotation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing credential rotation for integration users, connected apps, named credentials, and OAuth client secrets in Salesforce. Covers rotation cadence, zero-downtime handover, secret storage, and detection of stale credentials. Triggers: 'rotate integration user password', 'connected app secret rotation', 'named credential rotation', 'stale service account', 'zero downtime secret rotation'. NOT for end-user password policies.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

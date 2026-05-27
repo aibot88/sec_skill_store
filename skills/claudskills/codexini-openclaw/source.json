@@ -1,0 +1,18 @@
+{
+  "name": "codexini-openclaw",
+  "slug": "codexini-openclaw",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/codexini-openclaw/",
+  "download_url": "https://claudskills.com/skills/codexini-openclaw/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Start privacy-preserving Codexini voice calls from OpenClaw.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

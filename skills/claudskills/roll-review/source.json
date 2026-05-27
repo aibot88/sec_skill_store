@@ -1,0 +1,18 @@
+{
+  "name": "roll-.review",
+  "slug": "roll-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/roll--review/",
+  "download_url": "https://claudskills.com/skills/roll--review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Self code review step in the TCR workflow. Runs after each micro-step is completed and before commit, checking code quality, security, and design issues.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

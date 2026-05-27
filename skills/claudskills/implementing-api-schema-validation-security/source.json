@@ -1,0 +1,18 @@
+{
+  "name": "implementing-api-schema-validation-security",
+  "slug": "implementing-api-schema-validation-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-api-schema-validation-security/",
+  "download_url": "https://claudskills.com/skills/implementing-api-schema-validation-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implement API schema validation using OpenAPI specifications and JSON Schema to enforce input/output contracts",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

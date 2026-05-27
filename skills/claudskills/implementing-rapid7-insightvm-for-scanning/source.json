@@ -1,0 +1,18 @@
+{
+  "name": "implementing-rapid7-insightvm-for-scanning",
+  "slug": "implementing-rapid7-insightvm-for-scanning",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-rapid7-insightvm-for-scanning/",
+  "download_url": "https://claudskills.com/skills/implementing-rapid7-insightvm-for-scanning/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Deploy and configure Rapid7 InsightVM Security Console and Scan Engines for authenticated and unauthenticated",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

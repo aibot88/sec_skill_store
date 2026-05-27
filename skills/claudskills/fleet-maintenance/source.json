@@ -1,0 +1,18 @@
+{
+  "name": "fleet-maintenance",
+  "slug": "fleet-maintenance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fleet-maintenance/",
+  "download_url": "https://claudskills.com/skills/fleet-maintenance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze fleet maintenance programs for preventive maintenance scheduling effectiveness, parts inventory forecasting, vehicle downtime minimization, total cost of ownership modeling, and telematics integration. Covers DOT annual inspections, FMCSA DVIR requirements, ELD mandate compliance, condition-based maintenance from fault codes, PM compliance rates, and TCO replacement analysis.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

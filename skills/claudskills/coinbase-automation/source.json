@@ -1,0 +1,18 @@
+{
+  "name": "Coinbase Automation",
+  "slug": "coinbase-automation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/coinbase-automation/",
+  "download_url": "https://claudskills.com/skills/coinbase-automation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Coinbase Automation: list and manage cryptocurrency wallets, accounts, and portfolio data via Coinbase CDP SDK",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

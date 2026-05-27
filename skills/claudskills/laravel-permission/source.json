@@ -1,0 +1,18 @@
+{
+  "name": "laravel-permission",
+  "slug": "laravel-permission",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/laravel-permission/",
+  "download_url": "https://claudskills.com/skills/laravel-permission/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Spatie Laravel Permission - roles, permissions, middleware, Blade directives, teams, wildcards, super-admin, API, testing. Use when implementing RBAC, role-based access control, or user authorization.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

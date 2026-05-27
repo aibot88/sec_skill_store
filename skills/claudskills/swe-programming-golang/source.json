@@ -1,0 +1,18 @@
+{
+  "name": "swe-programming-golang",
+  "slug": "swe-programming-golang",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/swe-programming-golang/",
+  "download_url": "https://claudskills.com/skills/swe-programming-golang/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Go coding standards from authoritative docs/explanation/software-engineering/programming-languages/golang/ documentation",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

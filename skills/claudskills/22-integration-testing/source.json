@@ -1,0 +1,18 @@
+{
+  "name": "integration-testing",
+  "slug": "22-integration-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/22-integration-testing/",
+  "download_url": "https://claudskills.com/skills/22-integration-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configures integration tests with WebApplicationFactory and Testcontainers. Provides test database setup, authentication helpers, and utilities for testing API endpoints with real dependencies.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

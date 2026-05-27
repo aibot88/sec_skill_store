@@ -1,0 +1,18 @@
+{
+  "name": "performing-purple-team-atomic-testing",
+  "slug": "performing-purple-team-atomic-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-purple-team-atomic-testing/",
+  "download_url": "https://claudskills.com/skills/performing-purple-team-atomic-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Executes Atomic Red Team tests mapped to MITRE ATT&CK techniques, performs coverage gap analysis across the",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

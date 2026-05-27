@@ -1,0 +1,18 @@
+{
+  "name": "qa-tester-skill",
+  "slug": "qa-tester-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/qa-tester-skill/",
+  "download_url": "https://claudskills.com/skills/qa-tester-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Systematically test web applications for functionality, security, and usability issues using browser automation. Reports findings by severity (CRITICAL/HIGH/MEDIUM/LOW) with immediate alerts for critical failures. Use when testing web apps, validating user flows, conducting security checks, or performing pre-deployment audits.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

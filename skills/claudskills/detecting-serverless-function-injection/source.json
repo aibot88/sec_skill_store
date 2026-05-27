@@ -1,0 +1,18 @@
+{
+  "name": "detecting-serverless-function-injection",
+  "slug": "detecting-serverless-function-injection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-serverless-function-injection/",
+  "download_url": "https://claudskills.com/skills/detecting-serverless-function-injection/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detects and prevents code injection attacks targeting serverless functions (AWS Lambda, Azure Functions, Google",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

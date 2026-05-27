@@ -1,0 +1,18 @@
+{
+  "name": "remofirst-hello-world",
+  "slug": "remofirst-hello-world",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/remofirst-hello-world/",
+  "download_url": "https://claudskills.com/skills/remofirst-hello-world/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "RemoFirst hello world — global HR, EOR, and payroll platform integration. Use when working with RemoFirst for global employment, payroll, or compliance. Trigger with phrases like \"remofirst hello world\", \"remofirst-hello-world\", \"global HR API\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

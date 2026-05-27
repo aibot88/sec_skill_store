@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-dark-forest",
+  "slug": "agentprivacy-dark-forest",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-dark-forest/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-dark-forest/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Dark forest strategy and adversarial environment navigation for 0xagentprivacy. Activates when discussing R(d) strategic disclosure, information asymmetry, predator-prey dynamics in data markets, position-revealing risks, or how to navigate environments where visibility means vulnerability.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

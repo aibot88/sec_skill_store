@@ -1,0 +1,18 @@
+{
+  "name": "maw-context",
+  "slug": "maw-context",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/maw-context/",
+  "download_url": "https://claudskills.com/skills/maw-context/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Author and maintain the MAW project-context overlay (`maw/project-context/`) — the project knowledge the pipeline injects into agents. Use when the user says \"add project context\", \"set up MAW for this project\", \"register a project invariant / rule / lesson / tool / skill / domain for the pipeline\", or \"review MAW context proposals\". Supports flag: --review to go straight to folding pending PCTX_PROPOSALS.md entries.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "education-learning",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

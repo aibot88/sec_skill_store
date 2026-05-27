@@ -1,0 +1,18 @@
+{
+  "name": "add-vercel",
+  "slug": "add-vercel",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/add-vercel/",
+  "download_url": "https://claudskills.com/skills/add-vercel/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Add Vercel deployment capability to NanoClaw agents. Installs the Vercel CLI in agent containers and sets up OneCLI credential injection for api.vercel.com. Use when the user wants agents to deploy web applications to Vercel.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

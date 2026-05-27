@@ -1,0 +1,18 @@
+{
+  "name": "solana-token-launch",
+  "slug": "token-launch",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/token-launch/",
+  "download_url": "https://claudskills.com/skills/token-launch/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when the user wants to launch a fungible token on Solana (SPL or Token-2022), set metadata, mint supply, revoke authorities, and optionally add liquidity on Raydium/Meteora/Orca.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "finance-personal",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

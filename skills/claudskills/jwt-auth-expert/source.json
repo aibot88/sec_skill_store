@@ -1,0 +1,18 @@
+{
+  "name": "jwt-auth-expert",
+  "slug": "jwt-auth-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jwt-auth-expert/",
+  "download_url": "https://claudskills.com/skills/jwt-auth-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive JWT authentication expert for senior developers (10+ years experience). Intelligently detects project language/framework and implements production-ready JWT auth systems with refresh tokens, secure HTTP-only cookies, token rotation, blacklisting, RBAC, MFA, and complete security. Covers Express, FastAPI, Next.js, React, Django, Flask, NestJS, and more. Automatically audits JWT implementations, generates complete auth systems (registration, login, logout, refresh, password reset), implements middleware, prevents XSS/CSRF attacks, uses bcrypt/argon2 hashing, and follows OWASP best practices. Use for implementing JWT authentication, token refresh flows, secure cookie storage, protected routes, role-based access control, security audits, and complete auth system generation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

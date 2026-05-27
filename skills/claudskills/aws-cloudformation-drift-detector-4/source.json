@@ -1,0 +1,18 @@
+{
+  "name": "aws-cloudformation-drift-detector-4",
+  "slug": "aws-cloudformation-drift-detector-4",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-cloudformation-drift-detector-4/",
+  "download_url": "https://claudskills.com/skills/aws-cloudformation-drift-detector-4/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Monitors AWS CloudFormation stacks for configuration drift using the AWS SDK DetectStackDrift and DescribeStackResourceDrifts APIs. Generates remediation templates and integrates with AWS Config rules for continuous compliance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

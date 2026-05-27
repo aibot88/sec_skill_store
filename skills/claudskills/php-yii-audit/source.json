@@ -1,0 +1,18 @@
+{
+  "name": "php-yii-audit",
+  "slug": "php-yii-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/php-yii-audit/",
+  "download_url": "https://claudskills.com/skills/php-yii-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Yii 框架特效安全审计工具。针对 Yii（通常指 Yii2）访问控制（AccessControl/RBAC）、CSRF、输入过滤规则、输出编码策略、URL/重定向安全等进行白盒静态审计，并映射到通用漏洞类型体系（AUTH/CSRF/XSS/CFG/LOGIC 等）。",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "nyxid",
+  "slug": "nyxid",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nyxid/",
+  "download_url": "https://claudskills.com/skills/nyxid/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Brokers credentials for downstream services (OpenAI, Anthropic, GitHub, Lark, custom APIs, SSH, MCP) so the agent never sees raw API keys or OAuth tokens. Use whenever the user asks to call, proxy, or authenticate against a third-party API/service, mentions NyxID, asks to \"connect\", \"add a service\", \"set up an API key\", manage credentials/nodes/MCP, send messages through bot platforms, or wire up SSH access. Operate exclusively through the `nyxid` CLI.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

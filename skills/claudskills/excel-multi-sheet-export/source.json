@@ -1,0 +1,18 @@
+{
+  "name": "excel-multi-sheet-export",
+  "slug": "excel-multi-sheet-export",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/excel-multi-sheet-export/",
+  "download_url": "https://claudskills.com/skills/excel-multi-sheet-export/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Exportiert den dreidimensionalen Wuerfel in eine einzige Excel-Datei mit mehreren Tabellenblaettern — ein Reiter pro Arbeitsblatt-Perspektive (Recht / Steuer / Wirtschaft / Datenschutz / IT / Betrieb / Compliance). Jede Tabelle: Zeilen = Dokumente Spalten = Datenpunkte Zellinhalt = Antwort plus woertliches Zitat plus Fundstelle plus Ampel-Farbcode. Zusatzreiter: 'Uebersicht' (Aggregat) 'Hotspots' (Spalten-Top-N) 'Widersprueche' (aus Kreuzblatt) 'Pruefer-Flags' 'Belegkette' (Hash-Tabelle) 'Prompt-Versionen' (Audit). Geeignet als finales Pruefer-Paket zur menschlichen Endabnahme.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

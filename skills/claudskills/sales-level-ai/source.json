@@ -1,0 +1,18 @@
+{
+  "name": "sales-level-ai",
+  "slug": "sales-level-ai",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-level-ai/",
+  "download_url": "https://claudskills.com/skills/sales-level-ai/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Level AI platform help — contact center intelligence with Naviant semantic AI, InstaScore 100% automated QA, Real-Time Agent Assist (AgentGPT), Voice of Customer analytics (iCSAT), AI Virtual Agent, screen recording, omnichannel analysis. Use when setting up Level AI InstaScore QA scorecards for contact center agents, AgentGPT real-time assist not surfacing correct knowledge articles during calls, QA scores seem inaccurate or don't match manual evaluations, Level AI call ingestion delayed more than 24 hours, comparing Level AI vs Observe.AI or Cresta or CallMiner for contact center QA, integrating Level AI with Five9 or Talkdesk or Amazon Connect or Zendesk, configuring compliance monitoring for PCI or HIPAA, or evaluating Level AI for a mid-market contact center. Do NOT use for building a general coaching program (use /sales-coaching), reviewing a specific call transcript (use /sales-call-review), or CCaaS platform selection (use /sales-ccaas-selection).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "deal-management",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

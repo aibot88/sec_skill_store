@@ -1,0 +1,18 @@
+{
+  "name": "twinmind-security-basics",
+  "slug": "twinmind-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/twinmind-security-basics/",
+  "download_url": "https://claudskills.com/skills/twinmind-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Security best practices for TwinMind: on-device audio processing, encrypted cloud backups, microphone permissions, and data privacy controls. Use when implementing security basics, or managing TwinMind meeting AI operations. Trigger with phrases like \"twinmind security basics\", \"twinmind security basics\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

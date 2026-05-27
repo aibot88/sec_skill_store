@@ -1,0 +1,18 @@
+{
+  "name": "obsidian-security-basics",
+  "slug": "obsidian-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/obsidian-security-basics/",
+  "download_url": "https://claudskills.com/skills/obsidian-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement secure Obsidian plugin development practices. Covers credential storage, input validation, XSS prevention, network security, URI handler safety, and Electron security. Use when handling user data, storing API keys, making network requests, or preparing for community plugin submission. Trigger with phrases like \"obsidian security\", \"secure obsidian plugin\", \"obsidian data protection\", \"obsidian privacy\", \"obsidian api key storage\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

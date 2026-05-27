@@ -1,0 +1,18 @@
+{
+  "name": "create-coverage-report",
+  "slug": "create-coverage-report",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-coverage-report/",
+  "download_url": "https://claudskills.com/skills/create-coverage-report/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate comprehensive coverage report with requirement traceability mapping. Shows coverage per REQ-*, gaps, trends, and recommendations. Use for status dashboards, quality reviews, or compliance audits.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

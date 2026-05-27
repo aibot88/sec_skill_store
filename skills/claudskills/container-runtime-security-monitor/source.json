@@ -1,0 +1,18 @@
+{
+  "name": "container-runtime-security-monitor",
+  "slug": "container-runtime-security-monitor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/container-runtime-security-monitor/",
+  "download_url": "https://claudskills.com/skills/container-runtime-security-monitor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Monitors container runtime behavior using Falco rules and the Docker Engine API. Detects anomalous syscalls, privilege escalations, and unexpected network connections in real time.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

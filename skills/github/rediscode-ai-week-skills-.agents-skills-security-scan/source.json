@@ -1,0 +1,19 @@
+{
+  "name": "security-scan",
+  "slug": "rediscode-ai-week-skills-.agents-skills-security-scan",
+  "source": "github",
+  "source_url": "https://github.com/RedisCode/ai-week-skills/blob/6ac3d526a61475991ef45be23a69e7b523c78da7/.agents/skills/security-scan/SKILL.md",
+  "download_url": "https://github.com/RedisCode/ai-week-skills/blob/6ac3d526a61475991ef45be23a69e7b523c78da7/.agents/skills/security-scan/SKILL.md",
+  "external_source_url": "https://github.com/RedisCode/ai-week-skills/blob/6ac3d526a61475991ef45be23a69e7b523c78da7/.agents/skills/security-scan/SKILL.md",
+  "license": "",
+  "description": "Set of skills to make app development easier for AI Week",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "RedisCode/ai-week-skills",
+    "path": ".agents/skills/security-scan/SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

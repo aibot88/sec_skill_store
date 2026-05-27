@@ -1,0 +1,18 @@
+{
+  "name": "benchmark-prompt-injection-attacks-defenses-and-recovery-pipelin",
+  "slug": "benchmark-prompt-injection-attacks-defenses-and-recovery-pipelin",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/benchmark-prompt-injection-attacks-defenses-and-recovery-pipelin/",
+  "download_url": "https://claudskills.com/skills/benchmark-prompt-injection-attacks-defenses-and-recovery-pipelin/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run structured prompt-injection attack and defense experiments against an LLM-integrated app before production by measuring attack success and testing detection or recovery pipelines.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

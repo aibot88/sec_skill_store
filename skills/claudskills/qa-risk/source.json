@@ -1,0 +1,18 @@
+{
+  "name": "qa-risk",
+  "slug": "qa-risk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/qa-risk/",
+  "download_url": "https://claudskills.com/skills/qa-risk/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "[QA Process · ISO 31000 + ISTQB CTFL v4.0] Risk-based test prioritization — builds a risk matrix (likelihood × impact), ranks test areas by priority, and flags critical paths for performance testing.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

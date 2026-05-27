@@ -1,0 +1,19 @@
+{
+  "name": "securify",
+  "slug": "gsarmaonline-nvim-claude-skills-securify",
+  "source": "github",
+  "source_url": "https://github.com/gsarmaonline/nvim/blob/63ae161addff893fa8d52a4ff40a154061730e55/claude/skills/securify/skill.md",
+  "download_url": "https://github.com/gsarmaonline/nvim/blob/63ae161addff893fa8d52a4ff40a154061730e55/claude/skills/securify/skill.md",
+  "external_source_url": "https://github.com/gsarmaonline/nvim/blob/63ae161addff893fa8d52a4ff40a154061730e55/claude/skills/securify/skill.md",
+  "license": "",
+  "description": "Nvim dev environment",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "gsarmaonline/nvim",
+    "path": "claude/skills/securify/skill.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

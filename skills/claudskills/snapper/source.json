@@ -1,0 +1,18 @@
+{
+  "name": "snapper",
+  "slug": "snapper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/snapper/",
+  "download_url": "https://claudskills.com/skills/snapper/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "CDP browser screenshots for capturing authenticated web pages. Use when you need pixel-perfect PNG screenshots of authenticated sites like Google Sheets, dashboards, or admin panels.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

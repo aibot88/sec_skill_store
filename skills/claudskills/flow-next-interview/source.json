@@ -1,0 +1,18 @@
+{
+  "name": "flow-next-interview",
+  "slug": "flow-next-interview",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flow-next-interview/",
+  "download_url": "https://claudskills.com/skills/flow-next-interview/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Interview user in-depth about an epic, task, or spec file to extract complete implementation details. Use when user wants to flesh out a spec, refine requirements, or clarify a feature before building. Triggers on /flow-next:interview with Flow IDs (fn-1-add-oauth, fn-1-add-oauth.2, or legacy fn-1, fn-1.2, fn-1-xxx, fn-1-xxx.2) or file paths.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-environmental-commons",
+  "slug": "agentprivacy-environmental-commons",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-environmental-commons/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-environmental-commons/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Environmental commons and polycentric governance for 0xagentprivacy. Activates when discussing climate coordination, environmental DAOs, carbon accounting, ecosystem services valuation, future-representing mechanisms, or how the dual-agent architecture protects environmental whistleblowers and builds trust between nations/generations.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

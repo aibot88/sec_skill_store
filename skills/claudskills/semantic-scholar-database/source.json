@@ -1,0 +1,18 @@
+{
+  "name": "semantic-scholar-database",
+  "slug": "semantic-scholar-database",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/semantic-scholar-database/",
+  "download_url": "https://claudskills.com/skills/semantic-scholar-database/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Access the Semantic Scholar Graph API to search papers and retrieve paper/author/citation data when you need literature discovery or citation graph exploration.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

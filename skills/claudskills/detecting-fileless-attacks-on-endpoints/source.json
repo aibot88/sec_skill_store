@@ -1,0 +1,18 @@
+{
+  "name": "detecting-fileless-attacks-on-endpoints",
+  "slug": "detecting-fileless-attacks-on-endpoints",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-fileless-attacks-on-endpoints/",
+  "download_url": "https://claudskills.com/skills/detecting-fileless-attacks-on-endpoints/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detects fileless malware and in-memory attacks that execute entirely in RAM without writing persistent files",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

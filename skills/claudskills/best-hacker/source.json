@@ -1,0 +1,18 @@
+{
+  "name": "best-hacker",
+  "slug": "best-hacker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/best-hacker/",
+  "download_url": "https://claudskills.com/skills/best-hacker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "The hacker mindset - finding vulnerabilities and breaking systems to make them stronger",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

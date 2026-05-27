@@ -1,0 +1,18 @@
+{
+  "name": "securing-code",
+  "slug": "securing-code",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/securing-code/",
+  "download_url": "https://claudskills.com/skills/securing-code/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when writing or reviewing code that handles external input, manages access, touches data or crypto, or changes dependencies. Triggers: endpoints, auth/authz, DB/ORM, file handling, secrets, \"is this secure?\", \"security review\". NOT for formatting, pure UI, or explaining code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

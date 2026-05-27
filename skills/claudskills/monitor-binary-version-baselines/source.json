@@ -1,0 +1,18 @@
+{
+  "name": "monitor-binary-version-baselines",
+  "slug": "monitor-binary-version-baselines",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/monitor-binary-version-baselines/",
+  "download_url": "https://claudskills.com/skills/monitor-binary-version-baselines/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Längsgerichtete Baselines des Inhalts von CLI-Binaries über Versionen hinweg etablieren und pflegen. Behandelt Markerauswahl nach Kategorie (API / Identität / Config / Telemetrie / Flag / Funktion), gewichtete Bewertung, schwellenbasierte System-Präsenzerkennung und versions- spezifische Baseline-Einträge. Einzusetzen, wenn der Lebenszyklus eines Features über Releases hinweg verfolgt wird, wenn auf dunkel ausgerollte oder entfernte Fähigkeiten geprüft wird oder wenn verifiziert werden soll, dass ein Scanning-Werkzeug selbst auch auf alten Binaries noch bekannte-gute Marker findet.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

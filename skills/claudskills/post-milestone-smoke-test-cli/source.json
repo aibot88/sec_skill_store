@@ -1,0 +1,18 @@
+{
+  "name": "post-milestone-smoke-test-cli",
+  "slug": "post-milestone-smoke-test-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/post-milestone-smoke-test-cli/",
+  "download_url": "https://claudskills.com/skills/post-milestone-smoke-test-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Drive a CLI binary after a milestone tag is cut — invoke headline commands, observe exit code / stdout / stderr / side effects, write a pass/fail/blocked report.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:56+00:00"
+}

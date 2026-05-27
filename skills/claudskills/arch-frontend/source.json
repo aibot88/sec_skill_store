@@ -1,0 +1,18 @@
+{
+  "name": "arch-frontend",
+  "slug": "arch-frontend",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/arch-frontend/",
+  "download_url": "https://claudskills.com/skills/arch-frontend/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "프론트엔드 React 구현. Vite, React, Tailwind, 컴포넌트, 페이지, i18n, OAuth UI 관련 구현 시 사용.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

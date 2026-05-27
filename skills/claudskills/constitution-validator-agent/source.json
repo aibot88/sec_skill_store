@@ -1,0 +1,18 @@
+{
+  "name": "constitution-validator-agent",
+  "slug": "constitution-validator-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/constitution-validator-agent/",
+  "download_url": "https://claudskills.com/skills/constitution-validator-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "Proprietary",
+  "description": "Constitutional compliance validator. Enforces all 5 Constitutional Articles to ensure AI trading decisions comply with human-defined rules. Works as second line of defense alongside Risk Agent.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

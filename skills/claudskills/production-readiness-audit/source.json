@@ -1,0 +1,18 @@
+{
+  "name": "ring:production-readiness-audit",
+  "slug": "production-readiness-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/production-readiness-audit/",
+  "download_url": "https://claudskills.com/skills/production-readiness-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Ring-standards-aligned production readiness audit across Structure, Security, Operations, Quality, and Infrastructure — 43 base dimensions + 1 conditional (multi-tenant) = up to 44 dimensions. Use before production deployment, periodic reviews, onboarding, or major releases. Skip for prototypes, libraries, or single-dimension checks. Runs explorers in batches of 10 and produces a scored report (0-430 base, max 440 with multi-tenant) with severity ratings.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

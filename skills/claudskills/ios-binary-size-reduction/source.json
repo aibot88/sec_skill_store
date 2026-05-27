@@ -1,0 +1,18 @@
+{
+  "name": "ios-binary-size-reduction",
+  "slug": "ios-binary-size-reduction",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ios-binary-size-reduction/",
+  "download_url": "https://claudskills.com/skills/ios-binary-size-reduction/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when an iOS app binary/app package needs size reduction with risk-aware optimization, security-aware checks, and verifiable build/runtime evaluation so results are safe and repeatable.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

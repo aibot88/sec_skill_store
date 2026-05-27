@@ -1,0 +1,18 @@
+{
+  "name": "bun-expert",
+  "slug": "bun-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bun-expert/",
+  "download_url": "https://claudskills.com/skills/bun-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive Bun runtime expertise covering all major features. Use when working with Bun projects, migrating from Node.js, or leveraging Bun-specific APIs. Activates for: Bun.serve, Bun.file, bun:test, bun:sqlite, bun install, bun build, bunfig.toml, TypeScript in Bun, package manager operations, bundler configuration, and Node.js compatibility questions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

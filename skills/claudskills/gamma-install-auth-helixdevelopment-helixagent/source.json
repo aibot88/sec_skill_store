@@ -1,0 +1,18 @@
+{
+  "name": "gamma-install-auth",
+  "slug": "gamma-install-auth-helixdevelopment-helixagent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gamma-install-auth-helixdevelopment-helixagent/",
+  "download_url": "https://claudskills.com/skills/gamma-install-auth-helixdevelopment-helixagent/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Gamma API authentication. Use when setting up a new Gamma integration, configuring API keys, or initializing Gamma in your project. Trigger with phrases like \"install gamma\", \"setup gamma\", \"gamma auth\", \"configure gamma API key\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

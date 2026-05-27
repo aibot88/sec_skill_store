@@ -1,0 +1,18 @@
+{
+  "name": "30x-seo-backlinks",
+  "slug": "30x-seo-backlinks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/30x-seo-backlinks/",
+  "download_url": "https://claudskills.com/skills/30x-seo-backlinks/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive backlink analysis using DataForSEO API. Analyze backlink profiles, find link building opportunities, detect toxic links, compare with competitors, and identify link gaps. Use when user says \"backlinks\", \"link building\", \"referring domains\", \"link profile\", \"toxic links\", \"link gap\", \"competitor links\", or \"domain authority\".",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "seo",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "tmdd-threat-modeling",
+  "slug": "cursor-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cursor-skill/",
+  "download_url": "https://claudskills.com/skills/cursor-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Create and manage TMDD threat models grounded in actual codebase architecture. Use when the user wants to threat-model a system, add a feature, create security threat mappings, run tmdd commands, or work with .tmdd/ YAML files.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

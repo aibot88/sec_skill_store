@@ -1,0 +1,18 @@
+{
+  "name": "sast-configuration",
+  "slug": "wshobson-sast-configuration",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/wshobson-sast-configuration",
+  "download_url": "https://github.com/wshobson/agents/blob/main/plugins/security-scanning/skills/sast-configuration/SKILL.md?plain=1#L93",
+  "external_source_url": "https://github.com/wshobson/agents/blob/main/plugins/security-scanning/skills/sast-configuration/SKILL.md?plain=1#L93",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Configure Static Application Security Testing (SAST) tools for automated vulnerability detection in application code. Use when setting up security scanning, implementing DevSecOps practices, or automating code vulnerability detection.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/wshobson/agents/blob/main/plugins/security-scanning/skills/sast-configuration/SKILL.md?plain=1#L93"
+  },
+  "collected_at": "2026-05-27T03:44:51+00:00"
+}

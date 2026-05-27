@@ -1,0 +1,18 @@
+{
+  "name": "detecting-port-scanning-with-fail2ban",
+  "slug": "detecting-port-scanning-with-fail2ban",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-port-scanning-with-fail2ban/",
+  "download_url": "https://claudskills.com/skills/detecting-port-scanning-with-fail2ban/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Configures Fail2ban with custom filters and actions to detect port scanning activity, SSH brute force attempts,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

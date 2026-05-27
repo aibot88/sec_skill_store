@@ -1,0 +1,18 @@
+{
+  "name": "backend-code-review",
+  "slug": "backend-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backend-code-review/",
+  "download_url": "https://claudskills.com/skills/backend-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Conducts comprehensive backend code reviews including API design (REST/GraphQL/gRPC), database patterns, authentication/authorization, caching strategies, message queues, microservices architecture, security vulnerabilities, and performance optimization for Node.js, Python, Java, Go, and C#. Produces detailed review reports with specific issues, severity ratings, and actionable recommendations. Use when reviewing server-side code, analyzing API implementations, checking database queries, validating authentication flows, assessing microservices architecture, or when users mention \"review backend code\", \"check API design\", \"analyze server code\", \"validate database patterns\", \"security audit\", \"performance review\", or \"backend code quality\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "auth0",
+  "slug": "auth0",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth0/",
+  "download_url": "https://claudskills.com/skills/auth0/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implements Auth0 authentication with Next.js SDK, React hooks, role-based access, and API protection. Use when integrating Auth0, implementing enterprise SSO, or needing managed authentication with MFA.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agentuity-cli-project-auth-generate",
+  "slug": "agentuity-cli-project-auth-generate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentuity-cli-project-auth-generate/",
+  "download_url": "https://claudskills.com/skills/agentuity-cli-project-auth-generate/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Generate SQL schema for Agentuity Auth tables. Use for managing authentication credentials",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sales-verint",
+  "slug": "sales-verint",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-verint/",
+  "download_url": "https://claudskills.com/skills/sales-verint/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Verint Open Platform help — enterprise CX automation with Da Vinci AI bots (Quality Bot 100% QA, Coaching Bot real-time guidance, Wrap Up Bot auto-summaries, CX/EX Scoring, TimeFlex agent scheduling, Exact Transcription 80+ languages), WFM forecasting/scheduling/adherence, knowledge automation, IVA virtual assistants, speech/text analytics, financial compliance, Verint Marketplace 350+ listings. Use when Verint reports loading slowly or showing inconsistent data, Quality Bot not scoring interactions correctly, Coaching Bot recommendations irrelevant, WFM forecasts off vs actual volume, Verint API integration or developer portal questions, comparing Verint vs NICE vs Genesys WEM capabilities, or connecting Verint to your CCaaS or CRM. Do NOT use for choosing between CCaaS platforms (use /sales-ccaas-selection) or for QA tool comparison across vendors (use /sales-coaching).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-enablement",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:09+00:00"
+}

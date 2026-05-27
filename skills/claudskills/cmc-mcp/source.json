@@ -1,0 +1,18 @@
+{
+  "name": "cmc-mcp",
+  "slug": "cmc-mcp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cmc-mcp/",
+  "download_url": "https://claudskills.com/skills/cmc-mcp/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Fetches cryptocurrency market data, prices, technical analysis, news, and trends using the CoinMarketCap MCP. Use for ANY question involving cryptocurrencies, tokens, or blockchain markets, even if the user doesn't explicitly ask for data. This includes price checks, portfolio questions, market analysis, coin comparisons, holder metrics, technical indicators, and news. Trigger: \"bitcoin\", \"ETH\", \"crypto\", \"token price\", \"market cap\", \"how is [coin] doing\", \"/cmc-mcp\"",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "aif-dockerize",
+  "slug": "aif-dockerize",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aif-dockerize/",
+  "download_url": "https://claudskills.com/skills/aif-dockerize/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze project and generate Docker configuration: Dockerfile (multi-stage dev/prod), compose.yml, compose.override.yml (dev), compose.production.yml (hardened), and .dockerignore. Includes production security audit. Use when user says \"dockerize\", \"add docker\", \"docker compose\", \"containerize\", or \"setup docker\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

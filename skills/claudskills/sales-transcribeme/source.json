@@ -1,0 +1,18 @@
+{
+  "name": "sales-transcribeme",
+  "slug": "sales-transcribeme",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-transcribeme/",
+  "download_url": "https://claudskills.com/skills/sales-transcribeme/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "TranscribeMe platform help — human+AI hybrid transcription service with 99% accuracy guarantee on human-reviewed tiers, HIPAA compliance, and REST API. Use when uploading audio for human-edited transcription, choosing between Machine Express and human-reviewed tiers, integrating TranscribeMe API into a transcript pipeline, comparing TranscribeMe vs Rev vs GoTranscript vs Sonix for accuracy-critical transcription, troubleshooting slow turnaround or inconsistent punctuation, setting up HIPAA-compliant medical or legal transcription, or debugging chunked upload or OAuth token issues. Do NOT use for live meeting recording or real-time transcription (TranscribeMe is upload-only — use /sales-note-taker for live meeting tools).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:09+00:00"
+}

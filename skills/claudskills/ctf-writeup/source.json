@@ -1,0 +1,18 @@
+{
+  "name": "ctf-writeup",
+  "slug": "ctf-writeup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ctf-writeup/",
+  "download_url": "https://claudskills.com/skills/ctf-writeup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generates a single standardized submission-style CTF writeup for competition handoff and organizer review. Use after solving a CTF challenge to document the solution steps, tools used, and lessons learned in a structured format.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

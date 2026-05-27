@@ -1,0 +1,18 @@
+{
+  "name": "automating-database-backups",
+  "slug": "database-backup-automator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/database-backup-automator/",
+  "download_url": "https://claudskills.com/skills/database-backup-automator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill automates database backups using the database-backup-automator plugin. It creates scripts for scheduled backups, compression, encryption, and restore procedures across PostgreSQL, MySQL, MongoDB, and SQLite. Use this when the user requests database backup automation, disaster recovery planning, setting up backup schedules, or creating restore procedures. The skill is triggered by phrases like \"create database backup\", \"automate database backups\", \"setup backup schedule\", or \"generate restore procedure\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

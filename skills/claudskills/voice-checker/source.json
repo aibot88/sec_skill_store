@@ -1,0 +1,18 @@
+{
+  "name": "voice-checker",
+  "slug": "voice-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/voice-checker/",
+  "download_url": "https://claudskills.com/skills/voice-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reviews lyrics and prose for AI-written patterns (abstract noun stacking, over-explained metaphors, cliche escalation, missing idiosyncrasy, prose AI tells). Advisory Warning/Info severity — flags issues, does not block or rewrite. Use when reviewing lyrics for authenticity or before generation to catch AI-sounding language.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "storytelling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

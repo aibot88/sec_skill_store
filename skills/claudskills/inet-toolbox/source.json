@@ -1,0 +1,18 @@
+{
+  "name": "inet-toolbox",
+  "slug": "inet-toolbox",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/inet-toolbox/",
+  "download_url": "https://claudskills.com/skills/inet-toolbox/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Stap-voor-stap implementatiegidsen uit de internet.nl toolbox-wiki. Configuratie van DNSSEC, HTTPS/TLS, DMARC, DKIM, SPF, DANE en IPv6 op veelgebruikte platformen (BIND, NSD, Nginx, Apache, Postfix). Triggers: internet.nl toolbox, DMARC configuratie, DKIM instellen, SPF record, DANE opzetten, implementatiegids, DNSSEC instellen, Let's Encrypt, certificaat, mailserver configureren",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

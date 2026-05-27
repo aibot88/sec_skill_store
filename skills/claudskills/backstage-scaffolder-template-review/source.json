@@ -1,0 +1,18 @@
+{
+  "name": "backstage-scaffolder-template-review",
+  "slug": "backstage-scaffolder-template-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backstage-scaffolder-template-review/",
+  "download_url": "https://claudskills.com/skills/backstage-scaffolder-template-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing Backstage Scaffolder software templates. Trigger when the user asks whether a template is safe for developer self-service, whether template RBAC gates are in place, whether input parameters are validated, whether a step action has excessive blast radius, or whether template outputs expose secrets.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

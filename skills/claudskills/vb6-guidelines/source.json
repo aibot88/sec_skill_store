@@ -1,0 +1,18 @@
+{
+  "name": "vb6-guidelines",
+  "slug": "vb6-guidelines",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vb6-guidelines/",
+  "download_url": "https://claudskills.com/skills/vb6-guidelines/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Applies general Visual Basic 6 conventions when editing .bas, .cls, .frm, .frx, .vbp, .vbg, .ctl, or .dob files, or any code identified as VB6 (not VB.NET, not VBA). Covers case-preservation in existing code (VB6 is case-insensitive but diff tools are not), Option Explicit requirement, Hungarian notation with scope prefix plus type prefix (mstr/mint/mcur for module-level in .bas; m_str/m_int/m_cur for module-level in .cls; gstr/gint for global; str/int/cur for parameters and locals), file header blocks for .cls modules with 80-hyphen delimiters, comment-per-field convention, Property Get/Let/Set patterns without public fields, ByVal/ByRef explicit declarations, Long over Integer for performance and overflow safety, preservation of Windows-1252 encoding and CRLF line endings, and never editing .frx files manually due to binary offset corruption. Activates for any Visual Basic 6 development task, code review, refactoring, or new file creation in a VB6 project.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "performance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

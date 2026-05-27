@@ -1,0 +1,18 @@
+{
+  "name": "home-assistant-api",
+  "slug": "home-assistant-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/home-assistant-api/",
+  "download_url": "https://claudskills.com/skills/home-assistant-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Orchestrates access to the Home Assistant REST API for programmatic control of smart home devices. Routes requests to specialized resource files based on task type - authentication, state management, service calls, entity types, or advanced queries. Provides intelligent decision tables for selecting appropriate endpoints and managing integrations.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "home-iot",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

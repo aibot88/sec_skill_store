@@ -1,0 +1,18 @@
+{
+  "name": "trace-and-isolate",
+  "slug": "trace-and-isolate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/trace-and-isolate/",
+  "download_url": "https://claudskills.com/skills/trace-and-isolate/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Applies systematic tracing and isolation techniques to pinpoint exactly where a bug originates in code. Use when a bug is hard to locate, code is not working as expected, an error or crash appears with unclear cause, a regression was introduced between recent commits, or you need to narrow down which component, function, or line is faulty. Covers binary search debugging, git bisect for regressions, strategic logging with [TRACE] patterns, data and control flow tracing, component isolation, minimal reproduction cases, conditional breakpoints, and watch expressions across TypeScript, SQL, and bash.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "observability",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

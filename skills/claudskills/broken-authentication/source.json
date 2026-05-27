@@ -1,0 +1,18 @@
+{
+  "name": "broken-authentication",
+  "slug": "broken-authentication",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/broken-authentication/",
+  "download_url": "https://claudskills.com/skills/broken-authentication/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Identify and exploit authentication and session management vulnerabilities in web applications. Broken authentication consistently ranks in the OWASP Top 10 and can lead to account takeover, identity theft, and unauthorized access to sensitive systems.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

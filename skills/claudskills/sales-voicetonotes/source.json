@@ -1,0 +1,18 @@
+{
+  "name": "sales-voicetonotes",
+  "slug": "sales-voicetonotes",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-voicetonotes/",
+  "download_url": "https://claudskills.com/skills/sales-voicetonotes/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "VoiceToNotes platform help — AI voice-to-text transcription with real-time capture, AI summaries, grammar correction, OCR scanning, custom prompts, HIPAA compliance, web + iOS + Android. Use when setting up VoiceToNotes for a team, choosing between VoiceToNotes free vs Pro, voice notes not transcribing accurately, recordings disappearing or showing 'note without audio', configuring VoiceToNotes AI operations or custom prompts, comparing VoiceToNotes vs Otter vs Notta for personal voice notes, or exporting VoiceToNotes transcripts to other tools. Do NOT use for choosing a meeting note-taker for a sales team (use /sales-note-taker).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:09+00:00"
+}

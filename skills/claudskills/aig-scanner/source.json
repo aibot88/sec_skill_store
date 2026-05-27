@@ -1,0 +1,18 @@
+{
+  "name": "aig-scanner",
+  "slug": "aig-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aig-scanner/",
+  "download_url": "https://claudskills.com/skills/aig-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "A.I.G Scanner — AI security scanning for infrastructure, AI tools / skills, AI Agents, and LLM jailbreak evaluation via Tencent Zhuque Lab AI-Infra-Guard. Uses built-in exec + Python script, no plugin required. Requires AIG_BASE_URL to be configured. Triggers on: scan AI service, AI vulnerability scan, scan AI infra, check CVE, audit AI service, scan MCP, scan skills, audit AI tools, scan agent, red-team LLM, jailbreak test, 扫描AI服务, 检查AI漏洞, 扫描AI工具, 检查MCP安全, 审计Agent, 越狱测试.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

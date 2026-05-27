@@ -1,0 +1,18 @@
+{
+  "name": "cyber-defense-team",
+  "slug": "cyber-defense-team",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cyber-defense-team/",
+  "download_url": "https://claudskills.com/skills/cyber-defense-team/SKILL.md",
+  "external_source_url": "",
+  "license": "CC-BY-SA-4.0",
+  "description": "Orchestrate a 4-agent cyber defense pipeline to analyze log files for threats. Use when investigating security logs, detecting anomalies in access patterns, classifying breach severity, or generating incident reports from nginx/auth/syslog files.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

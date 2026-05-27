@@ -1,0 +1,18 @@
+{
+  "name": "better-auth-integration",
+  "slug": "better-auth-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/better-auth-integration/",
+  "download_url": "https://claudskills.com/skills/better-auth-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Integrate Better Auth for JWT-based authentication in Next.js frontend and FastAPI backend. Handles signup, login, logout, token management, and protected routes. Use when implementing authentication for Phase 2.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "unity-shader-graph",
+  "slug": "unity-shader-graph",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/unity-shader-graph/",
+  "download_url": "https://claudskills.com/skills/unity-shader-graph/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Unity Shader Graph skill for visual shader authoring, custom nodes, and material effects.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:31+00:00"
+}

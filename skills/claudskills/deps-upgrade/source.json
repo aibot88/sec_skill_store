@@ -1,0 +1,18 @@
+{
+  "name": "deps-upgrade",
+  "slug": "deps-upgrade",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deps-upgrade/",
+  "download_url": "https://claudskills.com/skills/deps-upgrade/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Dependency-upgrade campaign — outdated scan, batch-by-severity, breaking-change remediation, lockfile audit. Use when CVEs require remediation, when a major upstream version lands, when stack compatibility forces a sweep, or on a scheduled (quarterly) hygiene cadence. CVE-driven bumps consume security audit findings as input.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

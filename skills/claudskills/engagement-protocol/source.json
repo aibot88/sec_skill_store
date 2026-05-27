@@ -1,0 +1,18 @@
+{
+  "name": "engagement-protocol",
+  "slug": "engagement-protocol",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/engagement-protocol/",
+  "download_url": "https://claudskills.com/skills/engagement-protocol/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "[PROTOCOL] Canonical contract for agency engagement lifecycle: artefact schemas, state files, iteration budget, escalation rules, cross-domain handoff, observability. Single source of truth referenced by agency-intake, leads, directors, and pipeline skills. Pure reference — no triggers, not invoked by the secretary as a router target.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

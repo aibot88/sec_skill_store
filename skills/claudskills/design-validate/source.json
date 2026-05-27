@@ -1,0 +1,18 @@
+{
+  "name": "design-validate",
+  "slug": "design-validate",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/design-validate/",
+  "download_url": "https://claudskills.com/skills/design-validate/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate design doc structure and frontmatter. Use when checking design docs for compliance, ensuring proper formatting, or verifying metadata before commits.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-creative",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

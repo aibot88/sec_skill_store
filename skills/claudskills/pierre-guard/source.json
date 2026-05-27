@@ -1,0 +1,18 @@
+{
+  "name": "pierre-guard",
+  "slug": "pierre-guard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pierre-guard/",
+  "download_url": "https://claudskills.com/skills/pierre-guard/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Guard against breaking the @pierre/diffs integration in Plannotator's code review UI. Use this skill whenever modifying DiffViewer.tsx, upgrading the @pierre/diffs package, changing unsafeCSS injection, adding new props to FileDiff, or touching shadow DOM selectors or CSS variables that cross into Pierre's shadow boundary. Also trigger when someone asks \"will this break the diff viewer\", \"is this safe to change\", or when reviewing PRs that touch the review-editor package.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

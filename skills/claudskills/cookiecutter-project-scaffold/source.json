@@ -1,0 +1,18 @@
+{
+  "name": "cookiecutter-project-scaffold",
+  "slug": "cookiecutter-project-scaffold",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cookiecutter-project-scaffold/",
+  "download_url": "https://claudskills.com/skills/cookiecutter-project-scaffold/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generates project boilerplate from Cookiecutter templates with Jinja2 variable injection. Supports custom hooks for post-generation linting via Ruff and pre-commit framework setup.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

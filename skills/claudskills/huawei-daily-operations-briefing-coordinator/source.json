@@ -1,0 +1,18 @@
+{
+  "name": "huawei-daily-operations-briefing-coordinator",
+  "slug": "huawei-daily-operations-briefing-coordinator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/huawei-daily-operations-briefing-coordinator/",
+  "download_url": "https://claudskills.com/skills/huawei-daily-operations-briefing-coordinator/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Coordinate the daily Huawei Cloud operations standup — CBC cost delta by Enterprise Project, AOM anomaly alert review, CCE pod failure triage, CES quota utilization warnings, LTS log error spike detection, SecMaster security finding triage, and action item assignment.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

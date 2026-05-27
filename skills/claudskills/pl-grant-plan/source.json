@@ -1,0 +1,18 @@
+{
+  "name": "pl-grant-plan",
+  "slug": "pl-grant-plan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pl-grant-plan/",
+  "download_url": "https://claudskills.com/skills/pl-grant-plan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Interactive planner for Polish national grants: FESL/FERS/NOWEFIO/NIW/CERV/ESC/KPO/FEnIKS/RITA/Slaskie Lokalnie. Decision tree for program selection, indicator mapping, budget planning. Triggers: plan projekt krajowy, zaplanuj FESL, plan FERS, plan NOWEFIO, nowy wniosek krajowy, grant krajowy.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

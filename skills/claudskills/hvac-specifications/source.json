@@ -1,0 +1,18 @@
+{
+  "name": "hvac-specifications",
+  "slug": "hvac-specifications",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hvac-specifications/",
+  "download_url": "https://claudskills.com/skills/hvac-specifications/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Look up HVAC equipment specifications (capacity, efficiency, dimensions, electrical requirements) by brand and model number. Use when the user mentions equipment specs, model numbers, AHU, VAV, chiller, boiler, pump, fan specifications, or needs to find manufacturer data sheets. Searches manufacturer websites and processes PDF spec sheets with security safeguards.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "advanced",
+  "slug": "young1lin-cc-tutorial-advanced",
+  "source": "github",
+  "source_url": "https://github.com/young1lin/cc-tutorial/blob/5d939ae1ae1cf2f7eca7352f648d53f88ad7c9e6/advanced/skill.md",
+  "download_url": "https://github.com/young1lin/cc-tutorial/blob/5d939ae1ae1cf2f7eca7352f648d53f88ad7c9e6/advanced/skill.md",
+  "external_source_url": "https://github.com/young1lin/cc-tutorial/blob/5d939ae1ae1cf2f7eca7352f648d53f88ad7c9e6/advanced/skill.md",
+  "license": "",
+  "description": "Claude Code Tutorial.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "young1lin/cc-tutorial",
+    "path": "advanced/skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

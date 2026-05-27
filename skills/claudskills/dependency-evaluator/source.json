@@ -1,0 +1,18 @@
+{
+  "name": "dependency-evaluator",
+  "slug": "dependency-evaluator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dependency-evaluator/",
+  "download_url": "https://claudskills.com/skills/dependency-evaluator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Evaluates whether a programming language dependency should be used by analyzing maintenance activity, security posture, community health, documentation quality, dependency footprint, production adoption, license compatibility, API stability, and funding sustainability. Use when users ask \"should I use X or Y?\", \"are there better options for [feature]?\", \"what's a good library for [task]?\", \"how do we feel about [dependency]?\", or when considering adding a new dependency, evaluating an existing dependency, or comparing/evaluating package alternatives.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "windsurf-theme-customization",
+  "slug": "windsurf-theme-customization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/windsurf-theme-customization/",
+  "download_url": "https://claudskills.com/skills/windsurf-theme-customization/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Windsurf themes and visual settings for accessibility. Activate when users mention \"change theme\", \"customize colors\", \"accessibility settings\", \"visual preferences\", or \"dark mode\". Handles theme configuration and accessibility compliance. Use when working with windsurf theme customization functionality. Trigger with phrases like \"windsurf theme customization\", \"windsurf customization\", \"windsurf\".",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

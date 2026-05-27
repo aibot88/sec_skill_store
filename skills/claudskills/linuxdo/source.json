@@ -1,0 +1,18 @@
+{
+  "name": "linuxdo",
+  "slug": "linuxdo",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/linuxdo/",
+  "download_url": "https://claudskills.com/skills/linuxdo/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Read LINUX DO forum content via Discourse JSON API + Chrome Cookie auth. Actions: check login, latest topics, top/trending, full-text search, read topic details, browse categories. Keywords: linuxdo, linux.do, l站, 帖子, 搜索, 最新, 热门, 分类, discourse, forum.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

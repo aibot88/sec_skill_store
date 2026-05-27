@@ -1,0 +1,18 @@
+{
+  "name": "hootsuite-security-basics",
+  "slug": "hootsuite-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hootsuite-security-basics/",
+  "download_url": "https://claudskills.com/skills/hootsuite-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Hootsuite security best practices for secrets and access control. Use when securing API keys, implementing least privilege access, or auditing Hootsuite security configuration. Trigger with phrases like \"hootsuite security\", \"hootsuite secrets\", \"secure hootsuite\", \"hootsuite API key security\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

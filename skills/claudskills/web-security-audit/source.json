@@ -1,0 +1,18 @@
+{
+  "name": "web-security-audit",
+  "slug": "web-security-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/web-security-audit/",
+  "download_url": "https://claudskills.com/skills/web-security-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "Complete terms in file LICENSE",
+  "description": "Expert guidance on identifying and mitigating common web vulnerabilities from a bug hunter's perspective. Covers access control, XSS, CSRF, SSRF, insecure file uploads, and JWT security with detailed protection strategies, implementation patterns, and verification checklists.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

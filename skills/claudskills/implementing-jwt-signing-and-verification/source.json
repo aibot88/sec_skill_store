@@ -1,0 +1,18 @@
+{
+  "name": "implementing-jwt-signing-and-verification",
+  "slug": "implementing-jwt-signing-and-verification",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-jwt-signing-and-verification/",
+  "download_url": "https://claudskills.com/skills/implementing-jwt-signing-and-verification/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "JSON Web Tokens (JWT) defined in RFC 7519 are compact, URL-safe tokens used for authentication and authorization",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

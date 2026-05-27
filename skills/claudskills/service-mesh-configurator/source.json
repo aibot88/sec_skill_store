@@ -1,0 +1,18 @@
+{
+  "name": "configuring-service-meshes",
+  "slug": "service-mesh-configurator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/service-mesh-configurator/",
+  "download_url": "https://claudskills.com/skills/service-mesh-configurator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill configures service meshes like Istio and Linkerd for microservices. It generates production-ready configurations, implements best practices, and ensures a security-first approach. Use this skill when the user asks to \"configure service mesh\", \"setup Istio\", \"setup Linkerd\", or requests assistance with \"service mesh configuration\" for their microservices architecture. The configurations will be tailored to the specified infrastructure requirements.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

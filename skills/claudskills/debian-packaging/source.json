@@ -1,0 +1,18 @@
+{
+  "name": "debian-packaging",
+  "slug": "debian-packaging",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/debian-packaging/",
+  "download_url": "https://claudskills.com/skills/debian-packaging/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert Debian package builder specializing in git-buildpackage, debhelper, and Debian Policy compliance. Use for .deb packaging, debian/ directory work, dpkg operations, and package maintenance. Triggers on \"Debian\", \".deb\", \"dpkg\", \"debhelper\", \"gbp\", \"pbuilder\", \"lintian\", \"dch\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

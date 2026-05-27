@@ -1,0 +1,18 @@
+{
+  "name": "tech-prompt-engineering",
+  "slug": "tech-prompt-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tech-prompt-engineering/",
+  "download_url": "https://claudskills.com/skills/tech-prompt-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Debug and harden production LLM prompts — handle prompt injection, output format drift, instruction forgetting in long contexts, and cross-model portability issues. Use this skill when the user ships an LLM-powered feature to production and needs to diagnose why outputs are inconsistent, unsafe, or regressed after model updates — NOT for basic 'write a better prompt' questions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

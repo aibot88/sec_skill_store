@@ -1,0 +1,18 @@
+{
+  "name": "us-sox-expert",
+  "slug": "us-sox-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/us-sox-expert/",
+  "download_url": "https://claudskills.com/skills/us-sox-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Sarbanes-Oxley Act of 2002 (SOX) expert for ICFR-relevant IT and security work. Deep knowledge of 15 U.S.C. §§ 7201 et seq., §302/§404/§906 certifications, accelerated/non-accelerated filer scoping, ITGC testing across the four classic domains (Access, Change, Operations, Development), entity-level controls, IT-dependent manual controls, deficiency evaluation, SOC 1 vendor reliance, and the SEC/PCAOB/DOJ enforcement triangle.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:31+00:00"
+}

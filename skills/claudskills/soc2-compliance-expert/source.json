@@ -1,0 +1,18 @@
+{
+  "name": "soc2-compliance-expert",
+  "slug": "soc2-compliance-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/soc2-compliance-expert/",
+  "download_url": "https://claudskills.com/skills/soc2-compliance-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT + Commons Clause",
+  "description": "SOC 2 Type I and Type II compliance management. Use when conducting SOC 2 readiness assessments, performing gap analysis against Trust Services Criteria, collecting audit evidence, validating infrastructure security controls, preparing for CPA firm audits, managing the observation period, or building continuous compliance programs. Covers all TSC categories (CC1-CC9, A1, PI1, C1, P1) with infrastructure validation for cloud, DNS, TLS, endpoints, and CI/CD pipelines.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

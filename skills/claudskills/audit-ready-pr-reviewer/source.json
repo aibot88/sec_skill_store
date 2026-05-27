@@ -1,0 +1,18 @@
+{
+  "name": "audit-ready-pr-reviewer",
+  "slug": "audit-ready-pr-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-ready-pr-reviewer/",
+  "download_url": "https://claudskills.com/skills/audit-ready-pr-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reviews pull requests for compliance regressions. Scans code diffs for security and compliance violations, flags issues, and suggests fixes aligned with frameworks like SOC 2, ISO 27001, NIST 800-53.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

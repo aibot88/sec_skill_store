@@ -1,0 +1,18 @@
+{
+  "name": "back-end-dev-guidelines",
+  "slug": "back-end-dev-guidelines",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/back-end-dev-guidelines/",
+  "download_url": "https://claudskills.com/skills/back-end-dev-guidelines/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive backend development guidelines covering API design, database patterns, security, performance, and production-ready code standards.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

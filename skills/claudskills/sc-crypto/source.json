@@ -1,0 +1,18 @@
+{
+  "name": "sc-crypto",
+  "slug": "sc-crypto",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sc-crypto/",
+  "download_url": "https://claudskills.com/skills/sc-crypto/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Cryptography misuse detection — weak algorithms, ECB mode, static IVs, weak PRNG, and key management flaws",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

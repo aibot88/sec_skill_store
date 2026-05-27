@@ -1,0 +1,18 @@
+{
+  "name": "chatkit-integration",
+  "slug": "chatkit-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chatkit-integration/",
+  "download_url": "https://claudskills.com/skills/chatkit-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Integrate OpenAI ChatKit framework with custom backend and AI agents. Handles ChatKit server implementation, React component integration, context injection, and conversation persistence.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "configure-canvas-mcp",
+  "slug": "configure-canvas-mcp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/configure-canvas-mcp/",
+  "download_url": "https://claudskills.com/skills/configure-canvas-mcp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configure the Canvas Authoring MCP server for Claude Code, VS Code Copilot, or GitHub Copilot CLI. USE WHEN \"configure MCP\", \"set up MCP server\", \"MCP not working\", \"connect Canvas Apps MCP\", \"canvas-authoring not available\", \"MCP not configured\", \"set up canvas apps\". DO NOT USE WHEN prerequisites are missing — direct the user to install .NET 10 SDK first.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

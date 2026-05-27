@@ -1,0 +1,18 @@
+{
+  "name": "scanning-container-security",
+  "slug": "scanning-container-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scanning-container-security/",
+  "download_url": "https://claudskills.com/skills/scanning-container-security/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Execute use when you need to work with security and compliance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

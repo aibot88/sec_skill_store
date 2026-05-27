@@ -1,0 +1,18 @@
+{
+  "name": "disaster-recovery",
+  "slug": "disaster-recovery",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/disaster-recovery/",
+  "download_url": "https://claudskills.com/skills/disaster-recovery/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement disaster recovery and backup strategies for Proxmox. Create and manage backups, test recovery procedures, and ensure business continuity for your infrastructure.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

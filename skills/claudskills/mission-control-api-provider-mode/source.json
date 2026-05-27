@@ -1,0 +1,18 @@
+{
+  "name": "mission-control-api-provider-mode",
+  "slug": "mission-control-api-provider-mode",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mission-control-api-provider-mode/",
+  "download_url": "https://claudskills.com/skills/mission-control-api-provider-mode/SKILL.md",
+  "external_source_url": "",
+  "license": "AGPL-3.0",
+  "description": "Use or explain API-provider mode through Mission Control. Use when the user explicitly wants API-backed execution, needs billing implications explained, or wants confirmation that configured secret storage rather than chat-provided keys will be used.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

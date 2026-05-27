@@ -1,0 +1,18 @@
+{
+  "name": "implementing-code-signing-for-artifacts",
+  "slug": "implementing-code-signing-for-artifacts",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-code-signing-for-artifacts/",
+  "download_url": "https://claudskills.com/skills/implementing-code-signing-for-artifacts/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill covers implementing code signing for build artifacts to ensure integrity and authenticity throughout",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "create-agent-skills",
+  "slug": "create-agent-skills-sjdjdiejdrirhdkjej-claude-code-conducto",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-agent-skills-sjdjdiejdrirhdkjej-claude-code-conducto/",
+  "download_url": "https://claudskills.com/skills/create-agent-skills-sjdjdiejdrirhdkjej-claude-code-conducto/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guidance for creating, writing, building, and refining Claude Code Skills. Use when working with SKILL.md files, authoring new skills, improving existing skills, or understanding skill structure, progressive disclosure, workflows, validation patterns, and XML formatting.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

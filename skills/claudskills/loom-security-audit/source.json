@@ -1,0 +1,18 @@
+{
+  "name": "loom-security-audit",
+  "slug": "loom-security-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/loom-security-audit/",
+  "download_url": "https://claudskills.com/skills/loom-security-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive security audits identifying vulnerabilities, misconfigurations, and best-practice violations across applications, APIs, infrastructure, and data pipelines. Use for OWASP Top 10 reviews, compliance assessments (SOC2, PCI-DSS, HIPAA, GDPR), threat modeling, risk assessment, and hardening.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:34+00:00"
+}

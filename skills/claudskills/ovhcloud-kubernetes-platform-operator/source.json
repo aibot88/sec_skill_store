@@ -1,0 +1,18 @@
+{
+  "name": "ovhcloud-kubernetes-platform-operator",
+  "slug": "ovhcloud-kubernetes-platform-operator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ovhcloud-kubernetes-platform-operator/",
+  "download_url": "https://claudskills.com/skills/ovhcloud-kubernetes-platform-operator/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review and advise on OVHcloud Managed Kubernetes (MCK) cluster lifecycle, node pool sizing, autoscaling configuration, version upgrade planning, workload placement via taints and tolerations, network policies, RBAC hardening, and cluster security posture. Use when the user needs MCK operational guidance, Terraform IaC review for `ovh_cloud_project_kube` resources, or upgrade risk assessment.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

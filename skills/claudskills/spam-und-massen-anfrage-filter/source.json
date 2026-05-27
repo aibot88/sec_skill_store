@@ -1,0 +1,18 @@
+{
+  "name": "spam-und-massen-anfrage-filter",
+  "slug": "spam-und-massen-anfrage-filter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spam-und-massen-anfrage-filter/",
+  "download_url": "https://claudskills.com/skills/spam-und-massen-anfrage-filter/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Erkennt Spam-Muster in eingehenden Mandantenanfragen: Werbung, Spamfilter-Umgehung, klassische 419-Scams, automatisierte Recruiter-Mails, Massen-Mandantenanfragen und Phishing. Kennzeichnet die Anfrage zur Aussortierung ohne Erstantwort. Laedt wenn der Nutzer 'Spam pruefen', 'verdaechtige Anfrage', 'Scam-Mail', '419-Betrug', 'Massen-Anfrage erkennen' oder 'Phishing Kanzlei' sagt.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

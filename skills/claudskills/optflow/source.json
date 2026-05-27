@@ -1,0 +1,18 @@
+{
+  "name": "optflow",
+  "slug": "optflow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/optflow/",
+  "download_url": "https://claudskills.com/skills/optflow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Discover and deliver repository optimization work end to end: identify performance/reliability/maintainability/security/dx/cost optimization points, prioritize by impact-effort-risk, then execute fixes step by step with continuous testing and explicit commit policy (`final_only`, `per_step`, `milestone`). Default to `per_step` for implementation work so each feature is tested then committed before the next feature. Supports optional BDD (Given/When/Then).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

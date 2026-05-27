@@ -1,0 +1,18 @@
+{
+  "name": "context-checkpoint",
+  "slug": "context-checkpoint",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/context-checkpoint/",
+  "download_url": "https://claudskills.com/skills/context-checkpoint/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Save, compress, version, encrypt, and resume full chat context when approaching token/message limits. Use when the conversation is long, the user says save our progress or context is running out, approaching token limits, resuming a session across chat windows or different AI models, creating named bookmarks, merging parallel chats, or exporting conversation history as knowledge assets. Supports commands like /save, /resume, /resume light, /bookmark, /list bookmarks, /recover_last, /merge, /diff, /export.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

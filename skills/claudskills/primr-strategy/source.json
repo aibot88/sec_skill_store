@@ -1,0 +1,18 @@
+{
+  "name": "primr-strategy",
+  "slug": "primr-strategy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/primr-strategy/",
+  "download_url": "https://claudskills.com/skills/primr-strategy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate strategy documents from completed Primr research. Use when the user wants AI, CX, security, or data strategy deliverables from an existing report.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

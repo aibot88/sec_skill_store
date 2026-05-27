@@ -1,0 +1,18 @@
+{
+  "name": "specdd-plan",
+  "slug": "specdd-plan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/specdd-plan/",
+  "download_url": "https://claudskills.com/skills/specdd-plan/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when Claude Code is explicitly asked for a plan, or must resolve unclear SpecDD scope, write authority, public-contract risk, affected files, or verification before safe implementation; do not trigger for ordinary authorized changes.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

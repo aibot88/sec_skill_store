@@ -1,0 +1,18 @@
+{
+  "name": "ghsa-skill-builder",
+  "slug": "ghsa-skill-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ghsa-skill-builder/",
+  "download_url": "https://claudskills.com/skills/ghsa-skill-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when building or updating vulnerability pattern Skills from multiple sources: GitHub Security Advisories (GHSA), HackerOne Hacktivity, or NVD. Triggers on keywords: GHSA, CVE, vulnerability skill, vuln pattern, update skills, security advisory, HackerOne, H1, hacktivity, pentest skill, bug bounty, check for updates.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

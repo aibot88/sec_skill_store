@@ -1,0 +1,18 @@
+{
+  "name": "todo-homepage-ui",
+  "slug": "homepage-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/homepage-skill/",
+  "download_url": "https://claudskills.com/skills/homepage-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "A premium, minimal, animated Todo App homepage with a strong hero message, refined typography, floating icons, and a single focused CTA — visually aligned with black-pink glassmorphism used across auth and dashboard.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "personal-productivity",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

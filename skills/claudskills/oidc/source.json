@@ -1,0 +1,18 @@
+{
+  "name": "oidc",
+  "slug": "oidc",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oidc/",
+  "download_url": "https://claudskills.com/skills/oidc/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "OpenID Connect (OIDC) authentication reference. Identity layer on OAuth 2.0. Covers Authorization Code + PKCE flow step by step, ID Token JWT claims, UserInfo endpoint, discovery, Python authlib and Node.js openid-client implementations, and JWT validation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "go-strict",
+  "slug": "go-strict",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/go-strict/",
+  "download_url": "https://claudskills.com/skills/go-strict/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Go coding standards, clean code, and security rules. Use when writing, reviewing, or refactoring Go code. Covers error handling (wrapping with %w), package organization (internal/pkg split), concurrency safety (sync.RWMutex, goroutine lifecycle), Gin handler patterns, input validation, structured logging with zerolog, graceful shutdown, and naming conventions. Derived from production Go services.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

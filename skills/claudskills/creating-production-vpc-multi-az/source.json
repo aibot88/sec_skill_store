@@ -1,0 +1,18 @@
+{
+  "name": "creating-production-vpc-multi-az",
+  "slug": "creating-production-vpc-multi-az",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/creating-production-vpc-multi-az/",
+  "download_url": "https://claudskills.com/skills/creating-production-vpc-multi-az/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Creates a production-ready VPC with public and private subnets across multiple Availability Zones, including internet gateway, NAT gateways, route tables, and security groups following AWS Well-Architected principles. Use when deploying multi-AZ VPC infrastructure with automatic CIDR planning and DNS resolution.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "probabilistic-analysis-and-randomized-algorithms",
+  "slug": "probabilistic-analysis-and-randomized-algorithms",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/probabilistic-analysis-and-randomized-algorithms/",
+  "download_url": "https://claudskills.com/skills/probabilistic-analysis-and-randomized-algorithms/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when analyzing randomized algorithms, probabilistic analysis, indicator random variables, hiring and secretary problems, random permutations, balls-and-bins, birthday paradox, streaks, or average-case versus expected-time reasoning.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "fix-decomposer",
+  "slug": "fix-decomposer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fix-decomposer/",
+  "download_url": "https://claudskills.com/skills/fix-decomposer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Descompone un fix grande en porciones atomicas cuando el cambio es demasiado amplio para resolverse de una sola vez. Usa esta skill SIEMPRE que la skill fix-developer detecte que un fix supera los criterios de complejidad, o cuando el usuario mencione descomponer un fix, dividir un fix en partes, crear porciones de fix, o fix grande. La skill advierte al desarrollador, descompone el fix en porciones Front/Back, incluye una porcion de verificacion de regresion, y guarda todo en una carpeta de documentacion del modulo afectado.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

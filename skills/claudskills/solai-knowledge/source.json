@@ -1,0 +1,18 @@
+{
+  "name": "solai-knowledge",
+  "slug": "solai-knowledge",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/solai-knowledge/",
+  "download_url": "https://claudskills.com/skills/solai-knowledge/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Ground Solution AI and Contextual product answers in the official platform documentation — for **platform/runtime behavior not already covered by plugin-side reference content** (`cli-reference.md`, `node-reference.md`, the relevant `SKILL.md`). For CLI command shapes, JSONL formats, flow record structure, native-object-config shape, or node-level authoring patterns, prefer the plugin-side references first; this skill is the second stop, for behavior the plugin-side does not cover.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

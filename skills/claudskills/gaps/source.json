@@ -1,0 +1,18 @@
+{
+  "name": "gaps",
+  "slug": "gaps",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gaps/",
+  "download_url": "https://claudskills.com/skills/gaps/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Offenen Gap-Tracker anzeigen und verwalten. Laden, um zu sehen, welche Compliance-Lücken gemeldet wurden, was noch offen ist und was in Bearbeitung ist.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

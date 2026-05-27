@@ -1,0 +1,18 @@
+{
+  "name": "reproduce-sql-injection-paths-and-map-database-takeover-options-",
+  "slug": "reproduce-sql-injection-paths-and-map-database-takeover-options",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/reproduce-sql-injection-paths-and-map-database-takeover-options-/",
+  "download_url": "https://claudskills.com/skills/reproduce-sql-injection-paths-and-map-database-takeover-options-/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Take a suspected injectable request, replay it on an authorized target, confirm the finding, and enumerate reachable database actions before manual follow-up.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

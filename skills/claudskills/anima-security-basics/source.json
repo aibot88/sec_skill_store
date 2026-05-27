@@ -1,0 +1,18 @@
+{
+  "name": "anima-security-basics",
+  "slug": "anima-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/anima-security-basics/",
+  "download_url": "https://claudskills.com/skills/anima-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Secure Anima and Figma tokens for design-to-code pipelines. Use when protecting API credentials, restricting Figma access scope, or hardening CI/CD design automation pipelines. Trigger: \"anima security\", \"anima token safety\", \"figma token security\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

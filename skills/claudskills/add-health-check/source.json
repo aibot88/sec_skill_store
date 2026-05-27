@@ -1,0 +1,18 @@
+{
+  "name": "add-health-check",
+  "slug": "add-health-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/add-health-check/",
+  "download_url": "https://claudskills.com/skills/add-health-check/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Tech health check: documentation, security, architecture, data analysis. Use when user requests project audit, tech debt review, or health check.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

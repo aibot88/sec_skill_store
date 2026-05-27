@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "cyberflowtech-agent-mirror-officer-.",
+  "source": "github",
+  "source_url": "https://github.com/cyberFlowTech/agent-mirror-officer/blob/992d001d0338e42acfe595711a302d6b6b7ee947/pushSkill.md",
+  "download_url": "https://github.com/cyberFlowTech/agent-mirror-officer/blob/992d001d0338e42acfe595711a302d6b6b7ee947/pushSkill.md",
+  "external_source_url": "https://github.com/cyberFlowTech/agent-mirror-officer/blob/992d001d0338e42acfe595711a302d6b6b7ee947/pushSkill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "cyberFlowTech/agent-mirror-officer",
+    "path": "pushSkill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

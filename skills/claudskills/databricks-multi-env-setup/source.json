@@ -1,0 +1,18 @@
+{
+  "name": "databricks-multi-env-setup",
+  "slug": "databricks-multi-env-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/databricks-multi-env-setup/",
+  "download_url": "https://claudskills.com/skills/databricks-multi-env-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Databricks across development, staging, and production environments. Use when setting up multi-environment deployments, configuring per-environment secrets, or implementing environment-specific Databricks configurations. Trigger with phrases like \"databricks environments\", \"databricks staging\", \"databricks dev prod\", \"databricks environment setup\", \"databricks config by env\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "data-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

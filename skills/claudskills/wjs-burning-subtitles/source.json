@@ -1,0 +1,18 @@
+{
+  "name": "wjs-burning-subtitles",
+  "slug": "wjs-burning-subtitles",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wjs-burning-subtitles/",
+  "download_url": "https://claudskills.com/skills/wjs-burning-subtitles/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user has a video + an SRT and wants the subtitles either burned into the pixels (libass, always-visible) or soft-muxed as a togglable track. Also handles the final composite step for the localization pipeline — burn subs, mix a dub track, and keep the original audio as a low-volume bed, all in ONE ffmpeg encode (no cascade). Verifies libass availability and auto-downloads a static evermeet ffmpeg build when Homebrew's stripped binary lacks it. Triggers — \"烧字幕\", \"硬字幕\", \"burn subtitles\", \"burn-in subs\", \"embed subtitle\", \"soft mux SRT\", \"把字幕烧进视频\", \"做最终合成\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "make-git-commit",
+  "slug": "make-git-commit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/make-git-commit/",
+  "download_url": "https://claudskills.com/skills/make-git-commit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when creating a Git commit. Follow the Conventional Commits 1.0.0 specification, write a short imperative subject, keep the body concise and factual, and never add a co-author trailer for Claude, Claude Code, or any other agent.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

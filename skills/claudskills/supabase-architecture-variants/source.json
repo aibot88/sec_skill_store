@@ -1,0 +1,18 @@
+{
+  "name": "supabase-architecture-variants",
+  "slug": "supabase-architecture-variants",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-architecture-variants/",
+  "download_url": "https://claudskills.com/skills/supabase-architecture-variants/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Supabase across different app architectures: Next.js SSR with server components using service_role and client components with anon key, SPA (React/Vue), mobile (React Native), serverless (Edge Functions), and multi-tenant with schema-per-tenant or RLS isolation. Use when choosing how to integrate Supabase into your specific stack, setting up SSR auth flows, configuring mobile deep links, or designing multi-tenant data isolation. Trigger with phrases like \"supabase next.js\", \"supabase SSR\", \"supabase react native\", \"supabase SPA\", \"supabase serverless\", \"supabase multi-tenant\", \"supabase server component\", \"supabase architecture\", \"supabase service_role server\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

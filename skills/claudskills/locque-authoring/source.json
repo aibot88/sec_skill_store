@@ -1,0 +1,18 @@
+{
+  "name": "locque-authoring",
+  "slug": "locque-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/locque-authoring/",
+  "download_url": "https://claudskills.com/skills/locque-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Author or update Locque .lq code and tests with the canonical M-expr syntax, CBPV rules, data/match forms, modules/imports/opens, and project conventions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

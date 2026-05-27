@@ -1,0 +1,18 @@
+{
+  "name": "x-articles",
+  "slug": "x-articles",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/x-articles/",
+  "download_url": "https://claudskills.com/skills/x-articles/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user wants to read X Articles (long-form posts on X/Twitter). Fetches article content, author, published date, and metadata. Handles both individual article lookups and bulk extraction across an author or query.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "writing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

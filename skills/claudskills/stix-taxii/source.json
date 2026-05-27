@@ -1,0 +1,18 @@
+{
+  "name": "STIX/TAXII Intelligence Skill",
+  "slug": "stix-taxii",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/stix-taxii/",
+  "download_url": "https://claudskills.com/skills/stix-taxii/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "STIX/TAXII threat intelligence format and sharing",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "api-scaffold",
+  "slug": "api-scaffold",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-scaffold/",
+  "download_url": "https://claudskills.com/skills/api-scaffold/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scaffold a production-ready backend REST API -- generate a complete server project with routes, controllers, service layer, repository pattern, database models with migrations, JWT authentication with RBAC, request validation, global error handling with custom error classes, structured JSON logging, rate limiting, CORS, health check endpoint, OpenAPI/Swagger documentation, multi-stage Dockerfile, and docker-compose with PostgreSQL and Redis. Supports Fastify 5, NestJS, Express, FastAPI, Django REST, Gin, Chi, Echo, and Rails -- auto-detects framework from context. Build a backend, create an API, generate server, scaffold REST service, new backend project.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

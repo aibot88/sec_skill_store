@@ -1,0 +1,18 @@
+{
+  "name": "feature-creator",
+  "slug": "feature-creator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/feature-creator/",
+  "download_url": "https://claudskills.com/skills/feature-creator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide for creating DevContainer features. Use when creating a new feature for devcontainer, implementing install.sh scripts (npm package, binary download, source build, dotnet tool, or directory setup patterns), or configuring devcontainer-feature.json metadata. Triggers on phrases like \"create a feature\", \"add devcontainer feature\", \"install.sh template\", or \"devcontainer-feature.json\".",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

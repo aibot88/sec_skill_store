@@ -1,0 +1,19 @@
+{
+  "name": "spec",
+  "slug": "wasabeef-claude-code-cookbook-plugins-fr-skills-spec",
+  "source": "github",
+  "source_url": "https://github.com/wasabeef/claude-code-cookbook/blob/d4a413b713119573fce72b49d111a1dd2bbc0b91/plugins/fr/skills/spec/SKILL.md",
+  "download_url": "https://github.com/wasabeef/claude-code-cookbook/blob/d4a413b713119573fce72b49d111a1dd2bbc0b91/plugins/fr/skills/spec/SKILL.md",
+  "external_source_url": "https://github.com/wasabeef/claude-code-cookbook/blob/d4a413b713119573fce72b49d111a1dd2bbc0b91/plugins/fr/skills/spec/SKILL.md",
+  "license": "",
+  "description": "A collection of settings to make Claude Code more useful.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "wasabeef/claude-code-cookbook",
+    "path": "plugins/fr/skills/spec/SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

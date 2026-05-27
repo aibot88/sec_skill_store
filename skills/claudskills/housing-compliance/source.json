@@ -1,0 +1,18 @@
+{
+  "name": "housing-compliance",
+  "slug": "housing-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/housing-compliance/",
+  "download_url": "https://claudskills.com/skills/housing-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit affordable housing and property management software for Fair Housing Act (protected classes, disparate impact screening, AFFH), Section 504/ADA accessibility (5% mobility units, reasonable accommodations), HUD reporting (HUD-50058, PHAS, SEMAP), LIHTC compliance (IRS Section 42 income certification, rent calculation, 8823 noncompliance), lead paint disclosure (pre-1978, EPA RRP), VAWA protections (emergency transfer, lease bifurcation, confidentiality), HQS/NSPIRE inspections, and tenant rights. Use when reviewing PHA, multifamily, Section 8, or affordable housing management codebases.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

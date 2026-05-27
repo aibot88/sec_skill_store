@@ -1,0 +1,18 @@
+{
+  "name": "dynamic",
+  "slug": "dynamic",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dynamic/",
+  "download_url": "https://claudskills.com/skills/dynamic/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fullstack development with bkend.ai BaaS — authentication, database, API integration. Triggers: fullstack, BaaS, login, signup, database, web app, 풀스택, 인증, init dynamic.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

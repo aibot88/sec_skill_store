@@ -1,0 +1,18 @@
+{
+  "name": "check-security",
+  "slug": "check-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/check-security/",
+  "download_url": "https://claudskills.com/skills/check-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "코드 보안 취약점을 탐지한다. bandit을 사용하여 일반적인 보안 이슈를 검사한다.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

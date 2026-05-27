@@ -1,0 +1,18 @@
+{
+  "name": "detect-hardcoded-secrets",
+  "slug": "detect-hardcoded-secrets",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detect-hardcoded-secrets/",
+  "download_url": "https://claudskills.com/skills/detect-hardcoded-secrets/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect hardcoded secrets, API keys, passwords, and credentials in source code. Security audit for leaked secrets. Works across all languages. Use when user asks about security issues or secret detection.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

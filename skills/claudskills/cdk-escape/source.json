@@ -1,0 +1,18 @@
+{
+  "name": "cdk-escape",
+  "slug": "cdk-escape",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cdk-escape/",
+  "download_url": "https://claudskills.com/skills/cdk-escape/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "使用 CDK 进行容器环境渗透和逃逸。当已进入容器环境（Docker/K8s Pod）需要评估逃逸可能性、利用容器漏洞、或进行容器内信息收集时使用。CDK 集成了容器环境评估、多种逃逸技术（privileged/mount/cgroup/lxcfs/runc/内核漏洞）、容器内横向移动。拿到容器 shell 后第一步就应该运行 CDK 评估。涉及容器逃逸、Docker 渗透、K8s 安全、容器提权的场景使用此技能",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "bootstrap-project",
+  "slug": "bootstrap-project",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bootstrap-project/",
+  "download_url": "https://claudskills.com/skills/bootstrap-project/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Bootstrap a fresh or existing repo with nyann. TRIGGER when the user says \"set up this project\", \"initialize git workflow\", \"bootstrap this repo\", \"scaffold this project\", \"ngyamm this repo\", \"use my <name> profile\" / \"apply the nextjs-prototype profile\" (profile mode). ALSO trigger on \"standard setup\" / \"usual stack\" / \"the usual setup\" / \"install all the standard hooks\" / \"give this repo the usual setup\" / \"make this repo standard\" / \"install nyann\" — these read as opinionated bulk setup, not narrow edits, even though they sound small. Also trigger on any phrasing that mentions wiring up git hooks + branching + conventions + docs as a single opinionated setup. DO NOT trigger on narrow requests like \"add a lint hook\" or \"update CLAUDE.md\" — those are edits, not bootstraps. DO NOT trigger on \"audit this project\" / \"fix what's drifted\" / \"bring into compliance\" — those are retrofit. DO NOT trigger on \"check this project's health\" / \"is this healthy\" — those are doctor. When in doubt, run the detection step and ask.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-system-ui",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

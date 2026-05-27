@@ -1,0 +1,19 @@
+{
+  "name": ".ai",
+  "slug": "cjmki-ceylonexpress-.ai",
+  "source": "github",
+  "source_url": "https://github.com/cjmki/ceylonexpress/blob/4ee06ad2666bdbf78923081019849804ddcdb92b/.ai/backend-security.skill.md",
+  "download_url": "https://github.com/cjmki/ceylonexpress/blob/4ee06ad2666bdbf78923081019849804ddcdb92b/.ai/backend-security.skill.md",
+  "external_source_url": "https://github.com/cjmki/ceylonexpress/blob/4ee06ad2666bdbf78923081019849804ddcdb92b/.ai/backend-security.skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "cjmki/ceylonexpress",
+    "path": ".ai/backend-security.skill.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

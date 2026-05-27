@@ -1,0 +1,18 @@
+{
+  "name": "enumerating-network-services",
+  "slug": "enumerating-network-services",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/enumerating-network-services/",
+  "download_url": "https://claudskills.com/skills/enumerating-network-services/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Enumerate and exploit network services including SMB, FTP, SSH, RDP, HTTP, databases (MySQL, MSSQL, PostgreSQL, MongoDB), LDAP, NFS, DNS, and SNMP. Use when testing network service security or performing port-based exploitation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

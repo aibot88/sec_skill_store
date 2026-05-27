@@ -1,0 +1,18 @@
+{
+  "name": "competitive-displacement",
+  "slug": "competitive-displacement",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/competitive-displacement/",
+  "download_url": "https://claudskills.com/skills/competitive-displacement/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Systematically identify and win accounts from major freight brokers by exploiting their known vulnerabilities. Use when targeting competitor accounts, building displacement campaigns, or analyzing competitive weaknesses to win business.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

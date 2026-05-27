@@ -1,0 +1,18 @@
+{
+  "name": "pgvector-optimization",
+  "slug": "pgvector-optimization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pgvector-optimization/",
+  "download_url": "https://claudskills.com/skills/pgvector-optimization/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "pgvector performance optimization: HNSW vs IVFFlat index selection and tuning, ef_search / m / ef_construction parameters, iterative scanning for filtered queries, scalar and binary quantization for memory reduction, and dimensionality compression. Embedding-model-agnostic — applies to any float32 vector workload. Use when vector search queries are slow, recall is poor, or index memory footprint is too large.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

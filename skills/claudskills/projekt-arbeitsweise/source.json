@@ -1,0 +1,18 @@
+{
+  "name": "projekt-arbeitsweise",
+  "slug": "projekt-arbeitsweise",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/projekt-arbeitsweise/",
+  "download_url": "https://claudskills.com/skills/projekt-arbeitsweise/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Strukturierte Projekt- und Ordnerarbeit fuer immobilienrechtliche Rechtsabteilungen statt freihaendigem Prompting. Pro Mandat oder Objekt entsteht ein Projekt-Ordner mit fixierten Vorgaben — Playbook Mustervertraege Klauselkatalog AVV-Anforderungen Zitierregeln. Skill prueft eingehende Dokumente automatisch gegen die Projekt-Vorgaben einschliesslich AVV-Pruefung nach Art. 28 DSGVO und interner Compliance-Vorgaben. Erzeugt Projekt-Skelett mit Unterordnern Vertraege Korrespondenz Schriftsaetze Recherche Mandantenkontakt und Ablage. Dokumentiert pro Projekt welche Skills mit welchen Eingaben genutzt wurden — fuer Nachvollziehbarkeit und Audit. Unterstuetzt Agenten-Workflows die auf Datei-Eingang reagieren.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

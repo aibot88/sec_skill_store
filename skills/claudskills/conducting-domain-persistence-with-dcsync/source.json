@@ -1,0 +1,18 @@
+{
+  "name": "conducting-domain-persistence-with-dcsync",
+  "slug": "conducting-domain-persistence-with-dcsync",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/conducting-domain-persistence-with-dcsync/",
+  "download_url": "https://claudskills.com/skills/conducting-domain-persistence-with-dcsync/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Perform DCSync attacks to replicate Active Directory credentials and establish domain persistence by extracting",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

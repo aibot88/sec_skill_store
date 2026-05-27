@@ -1,0 +1,18 @@
+{
+  "name": "os-awareness",
+  "slug": "os-awareness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/os-awareness/",
+  "download_url": "https://claudskills.com/skills/os-awareness/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Evita errores por comandos incompatibles verificando SIEMPRE el SO antes de sugerir instalaciones. Trigger: \"instalar\", \"upgrade\", \"apt\", \"brew\", \"winget\", \"configurar sistema\", \"error de comando\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

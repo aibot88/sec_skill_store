@@ -1,0 +1,18 @@
+{
+  "name": "golang-dependency-management",
+  "slug": "golang-dependency-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/golang-dependency-management/",
+  "download_url": "https://claudskills.com/skills/golang-dependency-management/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Provides dependency management strategies for Golang projects including go.mod management, installing/upgrading packages, semantic versioning, Minimal Version Selection, vulnerability scanning, outdated dependency tracking, dependency size analysis, automated updates with Dependabot/Renovate, conflict resolution, and dependency graph visualization. Use this skill whenever adding, removing, updating, or auditing Go dependencies, resolving version conflicts, setting up automated dependency updates, analyzing binary size, or working with go.work workspaces.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

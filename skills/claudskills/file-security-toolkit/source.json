@@ -1,0 +1,18 @@
+{
+  "name": "file-security-toolkit",
+  "slug": "file-security-toolkit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/file-security-toolkit/",
+  "download_url": "https://claudskills.com/skills/file-security-toolkit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Encrypt/decrypt local files, redact sensitive information in documents, and validate password strength when handling private data or preparing files for sharing.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

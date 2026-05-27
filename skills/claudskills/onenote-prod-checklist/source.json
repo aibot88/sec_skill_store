@@ -1,0 +1,18 @@
+{
+  "name": "onenote-prod-checklist",
+  "slug": "onenote-prod-checklist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/onenote-prod-checklist/",
+  "download_url": "https://claudskills.com/skills/onenote-prod-checklist/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Production readiness checklist for OneNote Graph API integrations covering auth, rate limits, and failure modes. Use when preparing a OneNote integration for production deployment or conducting a launch review. Trigger with \"onenote production checklist\", \"onenote launch review\", \"onenote prod ready\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

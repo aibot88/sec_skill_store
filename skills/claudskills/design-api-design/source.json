@@ -1,0 +1,18 @@
+{
+  "name": "design-api-design",
+  "slug": "design-api-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/design-api-design/",
+  "download_url": "https://claudskills.com/skills/design-api-design/SKILL.md",
+  "external_source_url": "",
+  "license": "AGPL-3.0",
+  "description": "Design API endpoints: routes, request/response shapes, authentication, pagination, error responses, and versioning strategy.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-creative",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

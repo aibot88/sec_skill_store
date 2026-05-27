@@ -1,0 +1,18 @@
+{
+  "name": "cometchat-flutter-v6",
+  "slug": "cometchat-flutter-v6",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cometchat-flutter-v6/",
+  "download_url": "https://claudskills.com/skills/cometchat-flutter-v6/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when building chat with CometChat Flutter UIKit v6 (cometchat_chat_uikit). Triggers on CometChatUIKit, CometChatConversations, CometChatMessageList, CometChatMessageComposer, CometChatMessageHeader, CometChatUsers, CometChatGroups, UIKitSettings, CometChatThemeHelper, CometChatColorPalette, ConversationsBloc, MessageListBloc, CometChatTextBubble, CometChatImageBubble, CometChatMessageBubble, CometChatMentionsFormatter, SliverSpacing, ERR_ALREADY_LOGGED_IN, ERR_INVALID_REGION, authentication null. Also for adding chat to Flutter, customizing bubbles, theming, real-time messages. Use whenever user mentions CometChat or says \"chat UI\".",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "linters-formatters",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

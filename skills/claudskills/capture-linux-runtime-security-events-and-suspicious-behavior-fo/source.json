@@ -1,0 +1,18 @@
+{
+  "name": "capture-linux-runtime-security-events-and-suspicious-behavior-fo",
+  "slug": "capture-linux-runtime-security-events-and-suspicious-behavior-fo",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/capture-linux-runtime-security-events-and-suspicious-behavior-fo/",
+  "download_url": "https://claudskills.com/skills/capture-linux-runtime-security-events-and-suspicious-behavior-fo/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Watch live Linux and container activity through eBPF so you can triage suspicious runtime behavior before it disappears into guesswork.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

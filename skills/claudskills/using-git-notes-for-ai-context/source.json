@@ -1,0 +1,18 @@
+{
+  "name": "using-git-notes-for-ai-context",
+  "slug": "using-git-notes-for-ai-context",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/using-git-notes-for-ai-context/",
+  "download_url": "https://claudskills.com/skills/using-git-notes-for-ai-context/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reads, writes, and configures git notes and trailers for AI agent context — attribution, decision reasoning, prompts, and CI/CD metadata. Sets up namespace conventions, hook automation, team sync, and compliance. Use when storing AI attribution in git, setting up git notes for AI tracking, querying constraints or directives before modifying code, configuring notes sync for a team, choosing between git notes and trailers, or when the user mentions git notes, git trailers, AI attribution, AI provenance, Lore protocol, or decision context in commits.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

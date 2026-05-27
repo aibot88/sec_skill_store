@@ -1,0 +1,18 @@
+{
+  "name": "scanning-docker-images-with-trivy",
+  "slug": "scanning-docker-images-with-trivy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scanning-docker-images-with-trivy/",
+  "download_url": "https://claudskills.com/skills/scanning-docker-images-with-trivy/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Trivy is a comprehensive open-source vulnerability scanner by Aqua Security that detects vulnerabilities in OS",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

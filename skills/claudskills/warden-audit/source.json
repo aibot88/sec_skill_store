@@ -1,0 +1,18 @@
+{
+  "name": "warden-audit",
+  "slug": "warden-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/warden-audit/",
+  "download_url": "https://claudskills.com/skills/warden-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Full security audit — secrets, dependencies, IAM, auth, injection, XSS, HTTPS, rate limiting, public storage. Use when asked for \"security audit\", \"check for vulnerabilities\", \"security review\", or \"are we secure\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

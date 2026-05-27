@@ -1,0 +1,18 @@
+{
+  "name": "specdd-refactor",
+  "slug": "specdd-refactor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/specdd-refactor/",
+  "download_url": "https://claudskills.com/skills/specdd-refactor/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when Claude Code needs to refactor code, tests, docs, specs, or project structure in a SpecDD project while preserving specified behavior, public contracts, scenarios, ownership, and local write authority.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

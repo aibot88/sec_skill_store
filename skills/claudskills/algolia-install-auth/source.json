@@ -1,0 +1,18 @@
+{
+  "name": "algolia-install-auth",
+  "slug": "algolia-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/algolia-install-auth/",
+  "download_url": "https://claudskills.com/skills/algolia-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure the Algolia JavaScript v5 client with proper API key management. Use when setting up a new Algolia integration, configuring Application ID and API keys, or initializing the algoliasearch client in a Node.js/TypeScript project. Trigger: \"install algolia\", \"setup algolia\", \"algolia auth\", \"configure algolia keys\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

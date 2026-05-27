@@ -1,0 +1,18 @@
+{
+  "name": "bg3-steam-launcher",
+  "slug": "bg3-steam-launcher",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bg3-steam-launcher/",
+  "download_url": "https://claudskills.com/skills/bg3-steam-launcher/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Launch Baldur's Gate 3 through Steam on macOS and load saved games using macos-automator and peekaboo MCP servers. Designed for testing bg3se-macos (Script Extender) development. Use when: (1) launching BG3 from Steam, (2) loading a BG3 saved game, (3) testing SE mod injection, (4) user asks to \"start BG3\", \"load my BG3 save\", \"play Baldur's Gate\", \"test the script extender\". Requires macos-automator and peekaboo MCP servers installed with accessibility permissions.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

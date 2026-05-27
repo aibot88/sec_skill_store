@@ -1,0 +1,18 @@
+{
+  "name": "firm-spec-compliance-pack",
+  "slug": "firm-spec-compliance-pack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firm-spec-compliance-pack/",
+  "download_url": "https://claudskills.com/skills/firm-spec-compliance-pack/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "MCP 2025-11-25 specification compliance audit pack. Validates elicitation, tasks, resources/prompts, audio content, JSON Schema 2020-12, SSE transport, and icon metadata compliance. 7 specialized audit tools.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

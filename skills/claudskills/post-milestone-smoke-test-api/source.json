@@ -1,0 +1,18 @@
+{
+  "name": "post-milestone-smoke-test-api",
+  "slug": "post-milestone-smoke-test-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/post-milestone-smoke-test-api/",
+  "download_url": "https://claudskills.com/skills/post-milestone-smoke-test-api/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Drive a running HTTP API after a milestone tag is cut — hit headline endpoints with concrete requests, assert response shape and auth behaviour, write a pass/fail/blocked report.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:56+00:00"
+}

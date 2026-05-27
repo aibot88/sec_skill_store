@@ -1,0 +1,18 @@
+{
+  "name": "cometchat-flutter-v5-production",
+  "slug": "cometchat-flutter-v5-production",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cometchat-flutter-v5-production/",
+  "download_url": "https://claudskills.com/skills/cometchat-flutter-v5-production/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when preparing a CometChat Flutter UIKit v5 app for production. Covers auth tokens, ProGuard, environment config, security hardening.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

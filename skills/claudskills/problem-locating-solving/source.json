@@ -1,0 +1,18 @@
+{
+  "name": "problem-locating-solving",
+  "slug": "problem-locating-solving",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/problem-locating-solving/",
+  "download_url": "https://claudskills.com/skills/problem-locating-solving/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when locating a bug in an unfamiliar codebase, tracing a failure from symptom to source, or choosing between candidate fixes after the symptom is observed but before a patch lands. Covers the locate-to-solve workflow: problem-statement contract, search-space reduction, boundary-based fault localization, good-vs-bad path comparison, binary search through a call chain, minimal repro, root-cause isolation, fix option comparison, blast-radius review, and post-fix verification. Do NOT use for broad task planning once the bug is localized, test-pyramid design, or performance forensics.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "discovery",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

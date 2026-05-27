@@ -1,0 +1,18 @@
+{
+  "name": "local-rag-mcp",
+  "slug": "local-rag-mcp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/local-rag-mcp/",
+  "download_url": "https://claudskills.com/skills/local-rag-mcp/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when querying, ingesting, or maintaining a local RAG MCP corpus for semantic document retrieval with privacy controls.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

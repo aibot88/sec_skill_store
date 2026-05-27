@@ -1,0 +1,18 @@
+{
+  "name": "poam-automation-expert",
+  "slug": "poam-automation-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/poam-automation-expert/",
+  "download_url": "https://claudskills.com/skills/poam-automation-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expertise in FedRAMP POA&M lifecycle management, FedRAMP 20x VDR generation, and vulnerability classification using CISA KEV, EPSS, N-ratings, LEV/IRV, and NIST 800-53 control mappings.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

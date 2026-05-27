@@ -1,0 +1,18 @@
+{
+  "name": "ln-645-open-source-replacer",
+  "slug": "ln-645-open-source-replacer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-645-open-source-replacer/",
+  "download_url": "https://claudskills.com/skills/ln-645-open-source-replacer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Discovers custom modules replaceable by OSS, evaluates alternatives (stars, license, CVE), generates migration plan. Use when reducing custom code.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

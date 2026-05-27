@@ -1,0 +1,18 @@
+{
+  "name": "bitrix-service-locator",
+  "slug": "bitrix-service-locator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bitrix-service-locator/",
+  "download_url": "https://claudskills.com/skills/bitrix-service-locator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Покрывает DI-контейнер Bitrix\\Main\\DI\\ServiceLocator (PSR-11) — регистрация сервисов в секции services файла .settings.php модуля, autowire, получение зависимостей через has()/get(), constructor injection в сервисах и параметрах action-методов контроллеров, биндинг интерфейсов на реализации. Применяется при выносе логики в сервисы, отказе от статических вызовов, внедрении зависимостей в контроллеры, сервисы и консольные команды. Ключевые термины — ServiceLocator, DI, services, autowire, PSR-11, dependency injection, container.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

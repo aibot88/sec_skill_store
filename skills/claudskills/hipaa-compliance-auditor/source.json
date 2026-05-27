@@ -1,0 +1,18 @@
+{
+  "name": "hipaa-compliance-auditor",
+  "slug": "hipaa-compliance-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hipaa-compliance-auditor/",
+  "download_url": "https://claudskills.com/skills/hipaa-compliance-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "A clinical-grade PII/PHI detection and de-identification tool for healthcare text data.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

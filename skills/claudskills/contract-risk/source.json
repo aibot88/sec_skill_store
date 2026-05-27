@@ -1,0 +1,18 @@
+{
+  "name": "contract-risk",
+  "slug": "contract-risk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/contract-risk/",
+  "download_url": "https://claudskills.com/skills/contract-risk/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit contract management codebases for clause extraction accuracy, obligation tracking completeness, risk scoring model quality, renewal management, SLA monitoring, liability exposure, force majeure handling, and IP assignment detection. Covers NLP/regex pattern evaluation, obligation state machines, financial exposure modeling, and audit trail compliance for SOX/GDPR. Use when reviewing legal tech, CLM platforms, procurement systems, or any software that parses, scores, or manages contracts.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

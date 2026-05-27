@@ -1,0 +1,18 @@
+{
+  "name": "penetration-testing",
+  "slug": "penetration-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/penetration-testing/",
+  "download_url": "https://claudskills.com/skills/penetration-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when conducting authorized penetration tests, vulnerability assessments, or security audits within proper engagement scope. Triggers on pentest methodology, vulnerability scanning, OWASP testing guide, Burp Suite, reconnaissance, exploitation, reporting, and any task requiring structured security assessment within authorized engagements or CTF competitions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

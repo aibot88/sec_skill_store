@@ -1,0 +1,18 @@
+{
+  "name": "protocol-reverse-engineering",
+  "slug": "protocol-reverse-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/protocol-reverse-engineering/",
+  "download_url": "https://claudskills.com/skills/protocol-reverse-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive techniques for capturing, analyzing, and documenting network protocols for security research, interoperability, and debugging.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

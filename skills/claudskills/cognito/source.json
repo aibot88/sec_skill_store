@@ -1,0 +1,18 @@
+{
+  "name": "cognito",
+  "slug": "cognito",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cognito/",
+  "download_url": "https://claudskills.com/skills/cognito/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AWS Cognito user authentication and authorization service. Use when setting up user pools, configuring identity pools, implementing OAuth flows, managing user attributes, or integrating with social identity providers.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

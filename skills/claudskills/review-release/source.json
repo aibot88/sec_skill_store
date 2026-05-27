@@ -1,0 +1,18 @@
+{
+  "name": "review-release",
+  "slug": "review-release",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/review-release/",
+  "download_url": "https://claudskills.com/skills/review-release/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Pre-release readiness review. Scans for debug artifacts, version mismatches, changelog gaps, git hygiene issues, breaking changes, and license compliance. Runs tests and build verification. Presents consolidated findings for human review before release.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

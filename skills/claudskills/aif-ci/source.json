@@ -1,0 +1,18 @@
+{
+  "name": "aif-ci",
+  "slug": "aif-ci",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aif-ci/",
+  "download_url": "https://claudskills.com/skills/aif-ci/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate CI/CD pipeline (GitHub Actions / GitLab CI) with linting, static analysis, tests, security. Use when user says \"ci\", \"setup ci\", \"github actions\", \"gitlab ci\", \"pipeline\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

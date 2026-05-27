@@ -1,0 +1,18 @@
+{
+  "name": "ci-gatekeeper-agent",
+  "slug": "ci-gatekeeper-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ci-gatekeeper-agent/",
+  "download_url": "https://claudskills.com/skills/ci-gatekeeper-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AI-powered CI Gatekeeper Agent that enforces observability standards in CI/CD pipelines. Use when: (1) Generating GitHub Actions/Jenkins pipelines for observability gates, (2) Configuring progressive enforcement policies, (3) Validating schema compatibility in CI, (4) Generating gate status reports. Triggers: \"create observability gate\", \"configure CI enforcement\", \"generate gate policy\", \"check observability compliance\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

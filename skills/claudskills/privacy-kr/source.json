@@ -1,0 +1,18 @@
+{
+  "name": "privacy-kr",
+  "slug": "privacy-kr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/privacy-kr/",
+  "download_url": "https://claudskills.com/skills/privacy-kr/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "한국 서비스용 처리방침·이용약관·회원가입 동의 모달·쿠키 배너 자동 생성. 개인정보보호법 §30, 2025.4.21 작성지침, 2026.3 개정법, 공정위 전자상거래 표준약관 10023호 반영. Next.js 13~16 프로젝트 대상.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

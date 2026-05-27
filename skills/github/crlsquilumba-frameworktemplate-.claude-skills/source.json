@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "crlsquilumba-frameworktemplate-.claude-skills",
+  "source": "github",
+  "source_url": "https://github.com/crlsquilumba/frameworktemplate/blob/10a67648478658ef489fda930d0603229fc1341b/.claude/skills/devops-skill.md",
+  "download_url": "https://github.com/crlsquilumba/frameworktemplate/blob/10a67648478658ef489fda930d0603229fc1341b/.claude/skills/devops-skill.md",
+  "external_source_url": "https://github.com/crlsquilumba/frameworktemplate/blob/10a67648478658ef489fda930d0603229fc1341b/.claude/skills/devops-skill.md",
+  "license": "",
+  "description": "Framework template para proyectos",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "crlsquilumba/frameworktemplate",
+    "path": ".claude/skills/devops-skill.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

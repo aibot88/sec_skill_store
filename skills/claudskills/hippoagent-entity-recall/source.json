@@ -1,0 +1,18 @@
+{
+  "name": "hippoagent-entity-recall",
+  "slug": "hippoagent-entity-recall",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hippoagent-entity-recall/",
+  "download_url": "https://claudskills.com/skills/hippoagent-entity-recall/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "When the user asks \"cosa ricordi di X?\", \"dammi tutto su Y\", \"chi è Z?\", \"cosa abbiamo detto di W?\", \"ricostruisci ciò che sai di [Capitalized name or known alias]\", call hippo_entity_get(name) BEFORE answering. Triggers also on \"what do you know about X\", \"tell me about Y\", \"facts about Z\", \"history of W\". The tool returns entity+aliases+facts from a persistent SQLite KG (P2.a entity-centric KG, schema v4, Unicode-safe). Lookup is case-insensitive Unicode (Müller/MÜLLER/müller same match) and resolves aliases (\"S. Tonegawa\" → canonical \"Tonegawa\"), returning the list of fact_id linked to the entity. If entity is None, declare honestly \"non ho memoria di X\" — do NOT confabulate from training data. If entity exists but facts == [], declare \"ho il nodo entity ma nessun fatto collegato\" and suggest hippo_facts_search or hippo_recall. Zero LLM cost, sub-50ms on ~500 entity corpus, free in hosted mode. Backend SQLite WAL + UNIQUE INDEX on name_norm Python-normalized (NFC + str.lower, NOT SQLite ASCII-only LOWER). Entity-first recall — complements hippo_facts_search (topic-based) and hippo_recall (semantic episode) with a third modality, graph node lookup. ANTI-PATTERN: do NOT use for factual claim validation (\"Tonegawa won Nobel in 2014\") — that's hippo_validate_claim. Do NOT use for topic-based episode/dialog search — that's hippo_search or hippo_recall.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

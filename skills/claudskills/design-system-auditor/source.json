@@ -1,0 +1,18 @@
+{
+  "name": "design-system-auditor",
+  "slug": "design-system-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/design-system-auditor/",
+  "download_url": "https://claudskills.com/skills/design-system-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Design system accessibility auditor. Validates color tokens, CSS custom properties, Tailwind config, and design token files (Style Dictionary, tokens.json) for WCAG AA/AAA contrast compliance. Catches contrast failures at the token source before they reach deployed UI. Also validates focus ring tokens (WCAG 2.4.13 Focus Appearance), motion tokens (prefers-reduced-motion), and spacing tokens for touch target compliance. Supports MUI, Chakra UI, Radix, shadcn/ui, and Style Dictionary.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-system-ui",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

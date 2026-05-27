@@ -1,0 +1,18 @@
+{
+  "name": "headless-cli",
+  "slug": "headless-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/headless-cli/",
+  "download_url": "https://claudskills.com/skills/headless-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "无头模式 AI CLI 调用技能：支持 Gemini/Claude/Codex CLI 的无交互批量调用，包含 YOLO 模式和安全模式。用于批量翻译、代码审查、多模型编排等场景。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

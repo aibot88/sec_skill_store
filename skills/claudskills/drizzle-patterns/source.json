@@ -1,0 +1,18 @@
+{
+  "name": "drizzle-patterns",
+  "slug": "drizzle-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/drizzle-patterns/",
+  "download_url": "https://claudskills.com/skills/drizzle-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Drizzle ORM best practices including schema design with relationships, database migrations, prepared statements for performance, transactions, indexes, Turso SQLite database operations, type safety patterns, query optimization, and database workflow for ree-board project",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

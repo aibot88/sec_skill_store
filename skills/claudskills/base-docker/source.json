@@ -1,0 +1,18 @@
+{
+  "name": "base-docker",
+  "slug": "base-docker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/base-docker/",
+  "download_url": "https://claudskills.com/skills/base-docker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Excelência em contentores Docker — Dockerfile, Docker Compose (Compose Specification), BuildKit, redes, volumes, secrets, healthchecks, multi-stage builds, segurança de imagens, CI com buildx e boas práticas oficiais. Ativar para: criar ou rever Dockerfiles, ficheiros compose, pipelines de build de imagens, otimização de camadas, troubleshooting de runtime em contentores, migração local → produção. Suplementar a `34-base-deploy.md` para detalhe profundo de contentores (deploy Laravel continua na base-deploy). Referência alinhada à documentação oficial em docs.docker.com.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:03+00:00"
+}

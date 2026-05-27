@@ -1,0 +1,18 @@
+{
+  "name": "cube-sandbox",
+  "slug": "cube-sandbox",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cube-sandbox/",
+  "download_url": "https://claudskills.com/skills/cube-sandbox/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Cube Sandbox 安全沙箱执行技能。当需要安全执行 Python 代码、Shell 命令，或需要隔离环境运行不受信任的代码时使用。 适用场景： (1) 用户要求\"在沙箱中执行代码\"、\"跑一段 Python\"、\"安全执行\"、\"隔离环境运行\"； (2) 需要执行可能有副作用的代码（文件操作、网络请求、安装包等），希望通过沙箱隔离风险； (3) 需要读写沙箱内文件、挂载宿主机目录到沙箱； (4) 需要控制沙箱网络策略（完全断网、白名单、黑名单）； (5) 需要暂停/恢复沙箱（保留内存快照以实现快速复用）。 Cube Sandbox 兼容 E2B SDK，通过环境变量 E2B_API_URL 指向 Cube 部署地址即可使用。",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

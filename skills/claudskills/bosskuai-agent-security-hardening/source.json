@@ -1,0 +1,18 @@
+{
+  "name": "bosskuai-agent-security-hardening",
+  "slug": "bosskuai-agent-security-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bosskuai-agent-security-hardening/",
+  "download_url": "https://claudskills.com/skills/bosskuai-agent-security-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this for securing AI-agent workspaces themselves, including instruction files, MCP setups, memory, external content, prompt-injection surfaces, and least-privilege configuration.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

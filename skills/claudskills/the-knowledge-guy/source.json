@@ -1,0 +1,18 @@
+{
+  "name": "the-knowledge-guy",
+  "slug": "the-knowledge-guy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/the-knowledge-guy/",
+  "download_url": "https://claudskills.com/skills/the-knowledge-guy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Knowledge router AND interactive teacher across every book-derived skill in this project. Two modes — (1) **ask**: auto-discovers all domain skills (finance, vuln hunting, AI security, red-teaming, personal growth, ...), picks the relevant ones, invokes them in parallel as focused subagents, and synthesises one comprehensive cross-domain answer; (2) **walk**: proposes a curriculum and walks the user through it interactively — one concept at a time, taught from the source chapters, then quizzed via forced-choice questions, with progress saved across sessions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

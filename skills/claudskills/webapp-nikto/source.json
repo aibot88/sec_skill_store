@@ -1,0 +1,18 @@
+{
+  "name": "webapp-nikto",
+  "slug": "webapp-nikto",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/webapp-nikto/",
+  "download_url": "https://claudskills.com/skills/webapp-nikto/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Web server vulnerability scanner for identifying security issues, misconfigurations, and outdated software versions. Use when: (1) Conducting authorized web server security assessments, (2) Identifying common web vulnerabilities and misconfigurations, (3) Detecting outdated server software and known vulnerabilities, (4) Performing compliance scans for web server hardening, (5) Enumerating web server information and enabled features, (6) Validating security controls and patch levels.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

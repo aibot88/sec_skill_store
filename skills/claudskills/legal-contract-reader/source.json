@@ -1,0 +1,18 @@
+{
+  "name": "legal-contract-reader",
+  "slug": "legal-contract-reader",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/legal-contract-reader/",
+  "download_url": "https://claudskills.com/skills/legal-contract-reader/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyse un contrat en langage simple, identifie les clauses importantes et les points de vigilance. Se déclenche aussi avec \"lire ce contrat\", \"analyser un contrat\", \"clause\", \"conditions générales\", \"CGV\", \"bail\", ou toute demande de compréhension d'un document contractuel.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:30+00:00"
+}

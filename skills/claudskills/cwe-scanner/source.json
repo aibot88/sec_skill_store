@@ -1,0 +1,18 @@
+{
+  "name": "cwe-scanner",
+  "slug": "cwe-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cwe-scanner/",
+  "download_url": "https://claudskills.com/skills/cwe-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run deterministic CWE Top 25 checks (Semgrep + custom rules) before and after edits to enforce Constitution principle 7 at G2 Validate. Activate on file edits at risk moderate or high.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

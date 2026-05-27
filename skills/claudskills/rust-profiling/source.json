@@ -1,0 +1,18 @@
+{
+  "name": "rust-profiling",
+  "slug": "rust-profiling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rust-profiling/",
+  "download_url": "https://claudskills.com/skills/rust-profiling/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Rust profiling skill for performance analysis. Use when generating flamegraphs from Rust binaries, measuring monomorphization bloat with cargo-llvm-lines, analysing binary size with cargo-bloat, microbenchmarking with Criterion, or interpreting inlined frames in profiles. Activates on queries about cargo flamegraph, cargo-bloat, cargo-llvm-lines, Criterion benchmarks, Rust performance profiling, or binary size analysis.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "authensor-gateway",
+  "slug": "authensor-gateway-waggs5",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/authensor-gateway-waggs5",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/authensor/authensor-gateway/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/authensor/authensor-gateway/SKILL.md",
+  "license": "",
+  "description": "Fail-safe policy gate for OpenClaw marketplace skills.",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=3"
+  },
+  "collected_at": "2026-05-27T03:44:42+00:00"
+}

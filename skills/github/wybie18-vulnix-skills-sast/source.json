@@ -1,0 +1,19 @@
+{
+  "name": "sast",
+  "slug": "wybie18-vulnix-skills-sast",
+  "source": "github",
+  "source_url": "https://github.com/wybie18/vulnix/blob/3e6c0670538fc9d7490f55d224d210147b75c35f/skills/sast/SKILL.md",
+  "download_url": "https://github.com/wybie18/vulnix/blob/3e6c0670538fc9d7490f55d224d210147b75c35f/skills/sast/SKILL.md",
+  "external_source_url": "https://github.com/wybie18/vulnix/blob/3e6c0670538fc9d7490f55d224d210147b75c35f/skills/sast/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "wybie18/vulnix",
+    "path": "skills/sast/SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sonar",
+  "slug": "sonar",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sonar/",
+  "download_url": "https://claudskills.com/skills/sonar/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Music and audio file analysis agent. Produces reproducible Python/Shell analysis pipelines (librosa, pyloudnorm, essentia, madmom, mutagen, ffprobe) for BPM/key/time-signature detection, LUFS/True Peak loudness measurement, spectral balance, dynamic range (LRA/PLR/PSR), structural segmentation, mastering QC, and reference-track comparison. Verifies distribution-platform compliance (Spotify/Apple Music/YouTube/Tidal/Amazon Music/EBU R128). Effort baseline: xhigh; stems and batch >50 files expect max. Don't use for audio generation (Tone), songwriting (Lyric), video narration scripting (Cue), AITuber TTS pipelines (Aether), or terminal recording (Reel).",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "audio-podcast",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

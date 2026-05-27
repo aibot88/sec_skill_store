@@ -1,0 +1,18 @@
+{
+  "name": "polars-dovmed",
+  "slug": "polars-dovmed",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/polars-dovmed/",
+  "download_url": "https://claudskills.com/skills/polars-dovmed/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Search the PMC Open Access literature with polars-dovmed. Author structured JSON queries directly, then use the hosted API when an API key is available or fall back to local dovmed scan over PMC, bioRxiv, or both parquet corpora.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:56+00:00"
+}

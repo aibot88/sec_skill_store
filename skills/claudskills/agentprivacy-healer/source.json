@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-healer",
+  "slug": "agentprivacy-healer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-healer/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-healer/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Healthcare Privacy Specialist for 0xagentprivacy. Activates for health data sovereignty, minimum health disclosure calculation, provider-insurer boundary enforcement, genetic data protection, privacy-preserving medical research contribution, or any task where the body has been rendered as information that needs protecting.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

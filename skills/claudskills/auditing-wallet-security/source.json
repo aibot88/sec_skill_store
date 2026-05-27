@@ -1,0 +1,18 @@
+{
+  "name": "auditing-wallet-security",
+  "slug": "auditing-wallet-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auditing-wallet-security/",
+  "download_url": "https://claudskills.com/skills/auditing-wallet-security/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit wallet security by analyzing token approvals, permissions, and transaction patterns. Use when checking wallet security, reviewing approvals, or assessing risk exposure. Trigger with phrases like \"audit wallet\", \"check approvals\", \"security scan\", or \"revoke tokens\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

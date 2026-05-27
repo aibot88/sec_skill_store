@@ -1,0 +1,18 @@
+{
+  "name": "supply-chain-guard",
+  "slug": "supply-chain-guard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supply-chain-guard/",
+  "download_url": "https://claudskills.com/skills/supply-chain-guard/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect and remediate software supply chain attacks in npm, PyPI, crates.io, GitHub Actions, and CI/CD pipelines by scanning for known compromised packages, malicious versions, filesystem IOCs, C2 indicators, and CI/CD misconfigurations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

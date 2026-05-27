@@ -1,0 +1,18 @@
+{
+  "name": "spotify",
+  "slug": "spotify",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spotify/",
+  "download_url": "https://claudskills.com/skills/spotify/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Control Spotify — play music, search the catalog, manage playlists and library, inspect devices and playback state. Loads when the user asks to play/pause/queue music, search tracks/albums/artists, manage playlists, or check what's playing. Assumes the Hermes Spotify toolset is enabled and `hermes auth spotify` has been run.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

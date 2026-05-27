@@ -1,0 +1,18 @@
+{
+  "name": "computational-literacy",
+  "slug": "computational-literacy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/computational-literacy/",
+  "download_url": "https://claudskills.com/skills/computational-literacy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Understanding how digital systems actually work -- hardware, operating systems, networks, and information representation -- at a depth sufficient to reason about them rather than just use them. Covers CPU/RAM/storage/GPU roles, what an OS does, how packets travel the internet, and how computers represent numbers, text, images, and sound as binary. Use when a learner needs to build a mental model of computing rather than memorize menu paths.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "x-kev",
+  "slug": "kev",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kev/",
+  "download_url": "https://claudskills.com/skills/kev/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "CISA Known Exploited Vulnerabilities (KEV) catalog. List actively exploited vulnerabilities prioritized by CISA. **Dependency**: This is an x-cmd module. Install x-cmd first (see x-cmd skill for installation options). see x-cmd skill for installation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "obsidian-vault-manager",
+  "slug": "obsidian-vault-manager",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/obsidian-vault-manager/",
+  "download_url": "https://claudskills.com/skills/obsidian-vault-manager/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Obsidian Vault Manager is built around HashiCorp Vault secrets platform. The underlying ecosystem is represented by hashicorp/vault (35,266+ GitHub stars). It gives an agent a more technical and reliable way to work with the tool than a thin one-line wrapper, using stable interfaces like KV v2, policies, leases, tokens, transit, dynamic secrets and preserving the [&hellip;]",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

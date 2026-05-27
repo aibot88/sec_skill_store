@@ -1,0 +1,18 @@
+{
+  "name": "extract-data-and-complete-workflows-in-your-real-logged-in-brows",
+  "slug": "extract-data-and-complete-workflows-in-your-real-logged-in-brows",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/extract-data-and-complete-workflows-in-your-real-logged-in-brows/",
+  "download_url": "https://claudskills.com/skills/extract-data-and-complete-workflows-in-your-real-logged-in-brows/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use bb-browser when an agent needs to inspect pages, pull data, or complete form-driven tasks inside the user's actual logged-in Chrome session. It is for browser work where normal HTTP fetches fail because the important context lives behind auth, cookies, or internal web apps.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:53+00:00"
+}

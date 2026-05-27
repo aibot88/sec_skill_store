@@ -1,0 +1,18 @@
+{
+  "name": "frontend-code-review",
+  "slug": "frontend-code-review-dauquangthanh-hanoi-rainbow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/frontend-code-review-dauquangthanh-hanoi-rainbow/",
+  "download_url": "https://claudskills.com/skills/frontend-code-review-dauquangthanh-hanoi-rainbow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Conducts comprehensive frontend code reviews including React/Vue/Angular component analysis, TypeScript/JavaScript quality assessment, CSS/styling review, performance optimization, accessibility compliance, security vulnerabilities, and best practices validation. Produces detailed review reports with specific issues, severity ratings, and actionable recommendations. Use when reviewing frontend code, analyzing React/Vue/Angular components, checking JavaScript/TypeScript quality, validating CSS/SCSS, assessing web performance, or when users mention \"review frontend code\", \"check React components\", \"analyze JavaScript\", \"review TypeScript\", \"validate accessibility\", or \"frontend code quality\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "kill-the-standup",
+  "slug": "kill-the-standup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kill-the-standup/",
+  "download_url": "https://claudskills.com/skills/kill-the-standup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Reads yesterday's Linear issues and GitHub commits for the authenticated user, formats a standup update (done / doing / blockers), and posts it to Slack. Use when asked to write a standup, generate a standup update, post to the standup channel, summarize yesterday's work, or automate the daily standup. Trigger when a user says \"write my standup\", \"post standup\", \"generate standup update\", \"what did I do yesterday\", or \"kill the standup\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

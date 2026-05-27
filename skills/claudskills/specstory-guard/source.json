@@ -1,0 +1,18 @@
+{
+  "name": "specstory-guard",
+  "slug": "specstory-guard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/specstory-guard/",
+  "download_url": "https://claudskills.com/skills/specstory-guard/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Install a pre-commit hook that scans .specstory/history for secrets before commits. Run when user says \"set up secret scanning\", \"install specstory guard\", \"protect my history\", or \"check for secrets\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "storytelling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

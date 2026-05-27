@@ -1,0 +1,18 @@
+{
+  "name": "hunting-for-spearphishing-indicators",
+  "slug": "hunting-for-spearphishing-indicators",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hunting-for-spearphishing-indicators/",
+  "download_url": "https://claudskills.com/skills/hunting-for-spearphishing-indicators/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Hunt for spearphishing campaign indicators across email logs, endpoint telemetry, and network data to detect",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

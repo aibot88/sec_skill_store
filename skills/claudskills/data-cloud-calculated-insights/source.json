@@ -1,0 +1,18 @@
+{
+  "name": "data-cloud-calculated-insights",
+  "slug": "data-cloud-calculated-insights",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/data-cloud-calculated-insights/",
+  "download_url": "https://claudskills.com/skills/data-cloud-calculated-insights/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guides creation, design, and maintenance of Calculated Insights in Data Cloud: SQL authoring, dimension/measure definition, scheduling, streaming insights, and insight configuration tradeoffs. Trigger keywords: calculated insight, CI SQL, insight measure, insight dimension, streaming insight, insight schedule, Data Cloud metric, insight refresh. NOT for standard formula fields on sObjects, CRM Analytics SAQL metrics, or Data Cloud segment filter conditions that do not persist as insights.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

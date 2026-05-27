@@ -1,0 +1,18 @@
+{
+  "name": "setting-up-log-aggregation",
+  "slug": "log-aggregation-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/log-aggregation-setup/",
+  "download_url": "https://claudskills.com/skills/log-aggregation-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill sets up log aggregation solutions using ELK (Elasticsearch, Logstash, Kibana), Loki, or Splunk. It generates production-ready configurations and setup code based on specific requirements and infrastructure. Use this skill when the user requests to set up logging infrastructure, configure log aggregation, deploy ELK stack, deploy Loki, deploy Splunk, or needs help with observability. It is triggered by terms like \"log aggregation,\" \"ELK setup,\" \"Loki configuration,\" \"Splunk deployment,\" or similar requests for centralized logging solutions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "browser-tools",
+  "slug": "browser-tools",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/browser-tools/",
+  "download_url": "https://claudskills.com/skills/browser-tools/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "OrchestKit security wrapper for browser automation. Adds URL blocklisting, rate limiting, robots.txt enforcement, and ethical scraping guardrails on top of the upstream agent-browser skill. Use when automating browser workflows that need safety guardrails.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

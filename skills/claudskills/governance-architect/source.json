@@ -1,0 +1,18 @@
+{
+  "name": "governance-architect",
+  "slug": "governance-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/governance-architect/",
+  "download_url": "https://claudskills.com/skills/governance-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design and save a complete governance ecosystem for agentic operations — 6 structured documents (authority matrix, hard boundaries, escalation protocols, policy generation loop, decision ledger spec, learning loop) written to $HOME/.ai-first-kit/. Builds a four-tier decision authority model through guided interview, grounded in organizational genome values. Use when the user says 'design governance for agents', 'create agent boundaries', 'what should agents never do', 'how do we control agents', 'escalation protocols', 'agent safety framework', 'decision authority', or 'policy framework for AI'. Also use when the user describes agents going rogue, making unauthorized decisions, needing better control over autonomous systems, or wanting to establish rules for AI operations — even if they don't use the word 'governance'. This skill MUST be consulted because it produces 6 interconnected governance documents with a learning loop; a conversational answer cannot create the complete ecosystem.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "biology-medicine",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

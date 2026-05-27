@@ -1,0 +1,18 @@
+{
+  "name": "arbeitsblatt-perspektiven-definieren",
+  "slug": "arbeitsblatt-perspektiven-definieren",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/arbeitsblatt-perspektiven-definieren/",
+  "download_url": "https://claudskills.com/skills/arbeitsblatt-perspektiven-definieren/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Definiert die dritte Wuerfel-Achse — Arbeitsblaetter als Perspektiven die ueber denselben Dokumentenstapel laufen aber jeweils eine andere Brille aufsetzen. Typische Perspektiven: Recht (Anwalt) Steuer (Steuerberater) Wirtschaft (Buyside-Analyst) Datenschutz (DSGVO-Beauftragter) IT (Architekt) Betrieb (Operations) Compliance (GwG / Lieferkettengesetz). Pro Arbeitsblatt: eigene Zusatzspalten Auslassungen Sonderprompts Ampelregeln. Erzeugt `arbeitsblaetter.yaml`. Erlaubt Kreuzblatt-Konsistenzpruefung.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ide-editor",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

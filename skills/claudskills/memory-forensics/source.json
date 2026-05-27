@@ -1,0 +1,18 @@
+{
+  "name": "memory-forensics",
+  "slug": "memory-forensics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/memory-forensics/",
+  "download_url": "https://claudskills.com/skills/memory-forensics/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive techniques for acquiring, analyzing, and extracting artifacts from memory dumps for incident response and malware analysis.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

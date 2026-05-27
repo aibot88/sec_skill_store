@@ -1,0 +1,18 @@
+{
+  "name": "testing-ransomware-recovery-procedures",
+  "slug": "testing-ransomware-recovery-procedures",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/testing-ransomware-recovery-procedures/",
+  "download_url": "https://claudskills.com/skills/testing-ransomware-recovery-procedures/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Test and validate ransomware recovery procedures including backup restore operations, RTO/RPO target verification,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

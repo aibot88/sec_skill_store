@@ -1,0 +1,18 @@
+{
+  "name": "python-fastapi-patterns",
+  "slug": "python-fastapi-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/python-fastapi-patterns/",
+  "download_url": "https://claudskills.com/skills/python-fastapi-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "FastAPI web framework patterns. Triggers on: fastapi, api endpoint, dependency injection, pydantic model, openapi, swagger, starlette, async api, rest api, uvicorn.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

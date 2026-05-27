@@ -1,0 +1,18 @@
+{
+  "name": "auth-pattern",
+  "slug": "auth-pattern",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-pattern/",
+  "download_url": "https://claudskills.com/skills/auth-pattern/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Auth reference สำหรับโปรเจกต์ KAM-WEB-SCHOOLJOB — Dual Auth (Supabase + Prisma), signup/signin flow, useAuthStore interface, role-based guard, redirect pattern ใช้เพื่อลด Token โดยไม่ต้องอ่านโค้ด auth ซ้ำทุก session และป้องกัน bug จาก dual-system mismatch",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

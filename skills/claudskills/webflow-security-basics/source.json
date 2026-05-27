@@ -1,0 +1,18 @@
+{
+  "name": "webflow-security-basics",
+  "slug": "webflow-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/webflow-security-basics/",
+  "download_url": "https://claudskills.com/skills/webflow-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Webflow API security best practices — token management, scope least privilege, OAuth 2.0 secret rotation, webhook signature verification, and audit logging. Use when securing API tokens, implementing least privilege access, or auditing Webflow security configuration. Trigger with phrases like \"webflow security\", \"webflow secrets\", \"secure webflow\", \"webflow API key security\", \"webflow token rotation\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

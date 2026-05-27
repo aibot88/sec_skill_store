@@ -1,0 +1,18 @@
+{
+  "name": "cryptowatch",
+  "slug": "cryptowatch",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cryptowatch/",
+  "download_url": "https://claudskills.com/skills/cryptowatch/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Cryptowatch integration. Manage Markets, Assets, Exchanges, Pairs, Streams. Use when the user wants to interact with Cryptowatch data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

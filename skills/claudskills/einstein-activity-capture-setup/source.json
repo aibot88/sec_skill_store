@@ -1,0 +1,18 @@
+{
+  "name": "einstein-activity-capture-setup",
+  "slug": "einstein-activity-capture-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/einstein-activity-capture-setup/",
+  "download_url": "https://claudskills.com/skills/einstein-activity-capture-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configure Einstein Activity Capture (EAC) for an org: enable the feature, create Configuration profiles, set auth type (User-Level or Org-Level OAuth), define email and calendar sync scope, configure excluded domains and privacy settings, assign users, and verify sync health. NOT for manual activity logging, Einstein Opportunity Scoring setup, Pipeline Inspection, or troubleshooting email deliverability outside EAC.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

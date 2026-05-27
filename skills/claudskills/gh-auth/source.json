@@ -1,0 +1,18 @@
+{
+  "name": "gh-auth",
+  "slug": "gh-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gh-auth/",
+  "download_url": "https://claudskills.com/skills/gh-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automatically authenticate GitHub CLI using .gh-token.txt when seeing errors about \"gh auth login\", \"GH_TOKEN environment variable\", or \"not logged into any GitHub hosts",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

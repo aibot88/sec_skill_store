@@ -1,0 +1,18 @@
+{
+  "name": "kronikarz",
+  "slug": "kronikarz",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kronikarz/",
+  "download_url": "https://claudskills.com/skills/kronikarz/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Kronikarz projektu — generuje wpis dokumentujący postępy z bieżącej sesji AI (Dziennik Prac). Uruchamiaj pod koniec każdej sesji pracy, aby zapisać kontekst, decyzje architektoniczne i zaktualizować status projektu. Automatyzuje proces tworzenia commitów.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

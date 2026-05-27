@@ -1,0 +1,18 @@
+{
+  "name": "patent-claim-mapper",
+  "slug": "patent-claim-mapper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/patent-claim-mapper/",
+  "download_url": "https://claudskills.com/skills/patent-claim-mapper/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when mapping patent claims to products, analyzing patent infringement, or preparing freedom-to-operate analyses. Compares patent claims against product features for biotech and pharmaceutical IP assessment.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

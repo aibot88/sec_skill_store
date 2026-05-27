@@ -1,0 +1,18 @@
+{
+  "name": "ios-hig",
+  "slug": "ios-hig",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ios-hig/",
+  "download_url": "https://claudskills.com/skills/ios-hig/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing iOS interfaces, implementing accessibility (VoiceOver, Dynamic Type), handling dark mode, ensuring adequate touch targets, providing animation/haptic feedback, or requesting user permissions. Apple Human Interface Guidelines for iOS compliance.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

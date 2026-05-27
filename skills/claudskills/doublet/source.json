@@ -1,0 +1,18 @@
+{
+  "name": "doublet",
+  "slug": "doublet",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/doublet/",
+  "download_url": "https://claudskills.com/skills/doublet/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validates code and provides physics reasoning for the 2-D injection-production doublet model using streamline methods. Use when modifying streamline geometry, transport calculations (hydrodynamic, chemical, thermal), breakthrough curves, or Green's function kernels. Also use when debugging simulation behavior or explaining physics concepts.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "physics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "detecting-deepfake-audio-in-vishing-attacks",
+  "slug": "detecting-deepfake-audio-in-vishing-attacks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-deepfake-audio-in-vishing-attacks/",
+  "download_url": "https://claudskills.com/skills/detecting-deepfake-audio-in-vishing-attacks/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detects AI-generated deepfake audio used in voice phishing (vishing) attacks by extracting spectral features",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "azure-well-architected-framework",
+  "slug": "azure-well-architected-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-well-architected-framework/",
+  "download_url": "https://claudskills.com/skills/azure-well-architected-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive Azure Well-Architected Framework knowledge covering the five pillars: Reliability, Security, Cost Optimization, Operational Excellence, and Performance Efficiency. Provides design principles, best practices, and implementation guidance for building robust Azure solutions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

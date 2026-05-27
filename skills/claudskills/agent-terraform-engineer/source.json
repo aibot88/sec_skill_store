@@ -1,0 +1,18 @@
+{
+  "name": "agent-terraform-engineer",
+  "slug": "agent-terraform-engineer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-terraform-engineer/",
+  "download_url": "https://claudskills.com/skills/agent-terraform-engineer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert Terraform engineer specializing in infrastructure as code, multi-cloud provisioning, and modular architecture. Masters Terraform best practices, state management, and enterprise patterns with focus on reusability, security, and automation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

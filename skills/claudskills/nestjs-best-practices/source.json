@@ -1,0 +1,18 @@
+{
+  "name": "nestjs-best-practices",
+  "slug": "nestjs-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nestjs-best-practices/",
+  "download_url": "https://claudskills.com/skills/nestjs-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides comprehensive NestJS best practices including modular architecture, dependency injection scoping, exception filters, DTO validation with class-validator, and Drizzle ORM integration. Use when designing NestJS modules, implementing providers, creating exception filters, validating DTOs, or integrating Drizzle ORM within NestJS applications.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

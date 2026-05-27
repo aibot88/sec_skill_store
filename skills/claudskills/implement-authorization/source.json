@@ -1,0 +1,18 @@
+{
+  "name": "implement-authorization",
+  "slug": "implement-authorization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implement-authorization/",
+  "download_url": "https://claudskills.com/skills/implement-authorization/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement and test authorization in Rails applications using Pundit or CanCanCan. Covers policy objects, role-based access control, permission checks, and testing strategies. Use when the user needs to implement or troubleshoot authorization in a Rails app, set up user roles and permissions, or mentions Pundit, CanCanCan, policy objects, access control, roles, or permissions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

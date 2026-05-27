@@ -1,0 +1,18 @@
+{
+  "name": "configuring-auto-scaling-policies",
+  "slug": "auto-scaling-configurator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auto-scaling-configurator/",
+  "download_url": "https://claudskills.com/skills/auto-scaling-configurator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill configures auto-scaling policies for applications and infrastructure. It generates production-ready configurations based on user requirements, implementing best practices for scalability and security. Use this skill when the user requests help with auto-scaling setup, high availability, or dynamic resource allocation, specifically mentioning terms like \"auto-scaling,\" \"HPA,\" \"scaling policies,\" or \"dynamic scaling.\" This skill provides complete configuration code for various platforms.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

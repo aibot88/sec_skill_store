@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-performance-and-resilience",
+  "slug": "nodejs-performance-and-resilience",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nodejs-performance-and-resilience/",
+  "download_url": "https://claudskills.com/skills/nodejs-performance-and-resilience/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when hardening a scaffolded Node.js service for load and failure — enforcing event-loop discipline, clustering or worker threads for CPU work, backpressure and bounded concurrency, circuit breakers and bulkheads on downstream calls, timeout and retry budgets, and a load-test gate measured against the reliability SLO — after the service scaffold exists and performance budgets and SLO targets are approved or intentionally deferred. Do not use for the service shell or config, auth or security review, observability vendor wiring, or queue and event integration; use the other Node.js archetype skills instead.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

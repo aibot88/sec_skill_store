@@ -1,0 +1,18 @@
+{
+  "name": "httpx-http-probing-toolkit-projectdiscovery",
+  "slug": "httpx-http-probing-toolkit-projectdiscovery",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/httpx-http-probing-toolkit-projectdiscovery/",
+  "download_url": "https://claudskills.com/skills/httpx-http-probing-toolkit-projectdiscovery/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "httpx by ProjectDiscovery is a fast, multi-purpose HTTP toolkit for running probes against lists of hosts. It detects live web servers, extracts response metadata, fingerprints technologies, and outputs structured results for security reconnaissance and monitoring pipelines.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

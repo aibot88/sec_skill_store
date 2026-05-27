@@ -1,0 +1,18 @@
+{
+  "name": "owasp-check",
+  "slug": "owasp-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/owasp-check/",
+  "download_url": "https://claudskills.com/skills/owasp-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "OWASP Top 10 vulnerability scanning and remediation",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

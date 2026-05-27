@@ -1,0 +1,18 @@
+{
+  "name": "mission-control-import",
+  "slug": "mission-control-import",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mission-control-import/",
+  "download_url": "https://claudskills.com/skills/mission-control-import/SKILL.md",
+  "external_source_url": "",
+  "license": "AGPL-3.0",
+  "description": "Use when Codex should attach an existing repo or folder to Mission Control and keep the first pass read-only until the user authorizes more.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

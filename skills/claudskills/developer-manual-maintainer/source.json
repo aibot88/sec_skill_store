@@ -1,0 +1,18 @@
+{
+  "name": "developer-manual-maintainer",
+  "slug": "developer-manual-maintainer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/developer-manual-maintainer/",
+  "download_url": "https://claudskills.com/skills/developer-manual-maintainer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Údržba a aktualizace Klabis developer manuálu v docs/developerManual/. Použij tento skill kdykoli uživatel řekne \"vytvoř developer manuál\", \"aktualizuj manuál\", \"doplň manuál o X\", \"podívej se co se změnilo a aktualizuj manuál\", \"zkontroluj manuál proti kódu\", \"syncuj manuál se zdrojákem\", nebo žádá změnu ve struktuře/obsahu HTML stránek v docs/developerManual/. Použij ho i proaktivně po větším refactoringu v common modulu nebo framework-like částech members modulu (ActingUser, OAuth2 customizace) — manuál by měl popisovat aktuální API. Nepoužívej pro openspec specifikace, byznys-logiku modulů (events, calendar, members business), README ani jinou dokumentaci.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "conducting-mobile-app-penetration-test",
+  "slug": "conducting-mobile-app-penetration-test",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/conducting-mobile-app-penetration-test/",
+  "download_url": "https://claudskills.com/skills/conducting-mobile-app-penetration-test/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Conducts penetration testing of iOS and Android mobile applications following the OWASP Mobile Application Security",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

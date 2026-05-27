@@ -1,0 +1,18 @@
+{
+  "name": "tracking-crypto-derivatives",
+  "slug": "tracking-crypto-derivatives",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tracking-crypto-derivatives/",
+  "download_url": "https://claudskills.com/skills/tracking-crypto-derivatives/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Track cryptocurrency futures, options, and perpetual swaps with funding rates, open interest, liquidations, and comprehensive derivatives market analysis. Use when monitoring derivatives markets, analyzing funding rates, tracking open interest, finding liquidation levels, or researching options flow. Trigger with phrases like \"funding rate\", \"open interest\", \"perpetual swap\", \"futures basis\", \"liquidation levels\", \"options flow\", \"put call ratio\", \"derivatives analysis\", or \"BTC perps\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

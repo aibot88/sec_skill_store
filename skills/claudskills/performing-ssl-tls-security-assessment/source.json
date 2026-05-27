@@ -1,0 +1,18 @@
+{
+  "name": "performing-ssl-tls-security-assessment",
+  "slug": "performing-ssl-tls-security-assessment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-ssl-tls-security-assessment/",
+  "download_url": "https://claudskills.com/skills/performing-ssl-tls-security-assessment/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Assess SSL/TLS server configurations using the sslyze Python library to evaluate cipher suites, certificate chains,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

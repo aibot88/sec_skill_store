@@ -1,0 +1,18 @@
+{
+  "name": "inet-api",
+  "slug": "inet-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/inet-api/",
+  "download_url": "https://claudskills.com/skills/inet-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Internet.nl batch API voor het geautomatiseerd testen van meerdere domeinen op internetstandaarden. Authenticatie, batch requests, polling, resultaten JSON, dashboard-integratie. Triggers: internet.nl API, batch API, bulk scan, compliance dashboard, internet.nl batch, API credentials, geautomatiseerd testen, domeinenscan, monitoring dashboard",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

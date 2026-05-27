@@ -1,0 +1,18 @@
+{
+  "name": "azure-cost-management",
+  "slug": "azure-cost-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-cost-management/",
+  "download_url": "https://claudskills.com/skills/azure-cost-management/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Expert knowledge for Azure Cost Management development including troubleshooting, best practices, decision making, architecture & design patterns, limits & quotas, security, configuration, integrations & coding patterns, and deployment. Use when managing budgets/alerts, exports, Cost Management APIs, reservations/savings plans, or Hybrid Benefit, and other Azure Cost Management related development tasks. Not for Azure Advisor (use azure-advisor), Azure Monitor (use azure-monitor), Azure Quotas (use azure-quotas), Azure Portal (use azure-portal).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

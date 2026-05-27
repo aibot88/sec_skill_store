@@ -1,0 +1,18 @@
+{
+  "name": "security-incident-response-plan",
+  "slug": "security-incident-response-plan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-incident-response-plan/",
+  "download_url": "https://claudskills.com/skills/security-incident-response-plan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Plan de réponse aux incidents de sécurité — préparation, détection, containment, éradication, recovery et lessons learned. Se déclenche avec \"incident response\", \"plan de réponse\", \"breach\", \"compromission\", \"réponse à incident\", \"CSIRT\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "incident-response",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

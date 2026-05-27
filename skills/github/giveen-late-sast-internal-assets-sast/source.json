@@ -1,0 +1,19 @@
+{
+  "name": "sast",
+  "slug": "giveen-late-sast-internal-assets-sast",
+  "source": "github",
+  "source_url": "https://github.com/giveen/late-sast/blob/04b1ecb087f28f3852d8d0eb0784a52480812a13/internal/assets/sast/SKILL.md",
+  "download_url": "https://github.com/giveen/late-sast/blob/04b1ecb087f28f3852d8d0eb0784a52480812a13/internal/assets/sast/SKILL.md",
+  "external_source_url": "https://github.com/giveen/late-sast/blob/04b1ecb087f28f3852d8d0eb0784a52480812a13/internal/assets/sast/SKILL.md",
+  "license": "",
+  "description": "Autonomous SAST scanner — Docker sandbox, graph-first taint tracing, live exploit verification",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "giveen/late-sast",
+    "path": "internal/assets/sast/SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

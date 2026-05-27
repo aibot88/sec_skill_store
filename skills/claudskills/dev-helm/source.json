@@ -1,0 +1,18 @@
+{
+  "name": "ring:dev-helm",
+  "slug": "dev-helm",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-helm/",
+  "download_url": "https://claudskills.com/skills/dev-helm/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Mandatory skill for creating and maintaining Helm charts following Lerian conventions. Enforces standardized chart structure, values organization, template patterns, security defaults, and dependency management.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

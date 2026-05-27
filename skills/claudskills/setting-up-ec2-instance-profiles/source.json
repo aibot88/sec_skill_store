@@ -1,0 +1,18 @@
+{
+  "name": "setting-up-ec2-instance-profiles",
+  "slug": "setting-up-ec2-instance-profiles",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/setting-up-ec2-instance-profiles/",
+  "download_url": "https://claudskills.com/skills/setting-up-ec2-instance-profiles/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Configures EC2 instances to securely call AWS services by creating and attaching IAM roles via instance profiles, eliminating hardcoded credentials. Use when an EC2 instance needs permissions to access AWS services like S3, DynamoDB, SQS, or CloudWatch through temporary credentials.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

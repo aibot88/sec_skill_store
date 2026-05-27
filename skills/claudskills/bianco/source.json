@@ -1,0 +1,18 @@
+{
+  "name": "bianco-pyramid-of-pain",
+  "slug": "bianco",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bianco/",
+  "download_url": "https://claudskills.com/skills/bianco/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply David Bianco's threat hunting frameworks including the Pyramid of Pain and Threat Hunting Maturity Model. Emphasizes prioritizing detection by adversary cost and building mature hunting programs. Use when designing detection strategies or assessing hunting capability.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

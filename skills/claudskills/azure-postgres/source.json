@@ -1,0 +1,18 @@
+{
+  "name": "azure-postgres",
+  "slug": "azure-postgres",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-postgres/",
+  "download_url": "https://claudskills.com/skills/azure-postgres/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create new Azure Database for PostgreSQL Flexible Server instances and configure passwordless authentication with Microsoft Entra ID. Set up developer access, managed identities for apps, group-based permissions, and migrate from password-based to Entra ID authentication. Trigger phrases include \"passwordless for postgres\", \"entra id postgres\", \"azure ad postgres authentication\", \"postgres managed identity\", \"migrate postgres to passwordless\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

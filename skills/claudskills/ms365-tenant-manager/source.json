@@ -1,0 +1,18 @@
+{
+  "name": "ms365-tenant-manager",
+  "slug": "ms365-tenant-manager",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ms365-tenant-manager/",
+  "download_url": "https://claudskills.com/skills/ms365-tenant-manager/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive Microsoft 365 tenant administration skill for setup, configuration, user management, security policies, and organizational structure optimization for Global Administrators",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

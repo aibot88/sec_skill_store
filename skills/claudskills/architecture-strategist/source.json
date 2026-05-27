@@ -1,0 +1,18 @@
+{
+  "name": "architecture-strategist",
+  "slug": "architecture-strategist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/architecture-strategist/",
+  "download_url": "https://claudskills.com/skills/architecture-strategist/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this agent when you need to analyze code changes from an architectural perspective, evaluate system design decisions, or ensure modifications align with established architectural patterns. Use ddd-architect for Domain-Driven Design modeling; use this agent for general architectural compliance review.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

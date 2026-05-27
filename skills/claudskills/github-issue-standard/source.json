@@ -1,0 +1,18 @@
+{
+  "name": "github-issue-standard",
+  "slug": "github-issue-standard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-issue-standard/",
+  "download_url": "https://claudskills.com/skills/github-issue-standard/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Mandatory format standard for ALL GitHub issues created by SpecWeave with checkable acceptance criteria and proper metadata. Use when creating GitHub issues, formatting issue content, or ensuring consistent issue structure. Covers user stories, epics, features, and increments.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

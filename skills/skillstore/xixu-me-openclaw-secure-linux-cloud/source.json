@@ -1,0 +1,18 @@
+{
+  "name": "openclaw-secure-linux-cloud",
+  "slug": "xixu-me-openclaw-secure-linux-cloud",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/xixu-me-openclaw-secure-linux-cloud",
+  "download_url": "https://github.com/xixu-me/skills/blob/main/skills/openclaw-secure-linux-cloud//SKILL.md?plain=1#L16",
+  "external_source_url": "https://github.com/xixu-me/skills/blob/main/skills/openclaw-secure-linux-cloud//SKILL.md?plain=1#L16",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Use when self-hosting OpenClaw on a cloud server, hardening a remote OpenClaw gateway, choosing between SSH tunneling, Tailscale, or reverse-proxy exposure, or reviewing Podman, pairing, sandboxing, token auth, and tool-permission defaults for a secure personal deployment.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/xixu-me/skills/blob/main/skills/openclaw-secure-linux-cloud//SKILL.md?plain=1#L16"
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

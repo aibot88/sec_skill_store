@@ -1,0 +1,18 @@
+{
+  "name": "fe-quality",
+  "slug": "fe-quality",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fe-quality/",
+  "download_url": "https://claudskills.com/skills/fe-quality/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "前端质量与安全技能包，涵盖前端安全加固、错误监控集成、前端 CI/CD 流水线、无障碍（a11y）合规。 当需要加固前端安全防护（XSS/CSP/依赖审计）、集成错误监控（Sentry/自研SDK）、搭建前端 CI/CD 流水线（GitHub Actions/GitLab CI/Lighthouse CI）、或进行无障碍适配（WCAG/ARIA）时触发此技能。 支持 Angular、Vue、React、原生 JS、Node.js 技术栈。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

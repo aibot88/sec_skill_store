@@ -1,0 +1,18 @@
+{
+  "name": "redteam",
+  "slug": "redteam",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/redteam/",
+  "download_url": "https://claudskills.com/skills/redteam/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Spawn a one-shot red-team subagent to challenge a milestone result. Calibrated to return \"nothing substantive\" when the work is sound — does not invent issues to seem thorough. Use at goal-locked, major-result, or pre-write-up milestones, or whenever you want a deliberate adversarial check on something specific.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

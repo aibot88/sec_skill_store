@@ -1,0 +1,18 @@
+{
+  "name": "supabase-prod-checklist",
+  "slug": "supabase-prod-checklist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-prod-checklist/",
+  "download_url": "https://claudskills.com/skills/supabase-prod-checklist/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Execute Supabase production deployment checklist covering RLS, key hygiene, connection pooling, backups, monitoring, Edge Functions, and Storage policies. Use when deploying to production, preparing for launch, or auditing a live Supabase project for security and performance gaps. Trigger with \"supabase production\", \"supabase go-live\", \"supabase launch checklist\", \"supabase prod ready\", \"deploy supabase\", \"supabase production readiness\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

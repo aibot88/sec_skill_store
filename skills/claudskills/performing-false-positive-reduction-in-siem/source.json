@@ -1,0 +1,18 @@
+{
+  "name": "performing-false-positive-reduction-in-siem",
+  "slug": "performing-false-positive-reduction-in-siem",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-false-positive-reduction-in-siem/",
+  "download_url": "https://claudskills.com/skills/performing-false-positive-reduction-in-siem/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Perform systematic SIEM false positive reduction through rule tuning, threshold adjustment, correlation refinement,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

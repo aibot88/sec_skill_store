@@ -1,0 +1,18 @@
+{
+  "name": "kustomize-generators",
+  "slug": "kustomize-generators",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kustomize-generators/",
+  "download_url": "https://claudskills.com/skills/kustomize-generators/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when generating ConfigMaps and Secrets with Kustomize for Kubernetes configuration management.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "security-group-generator",
+  "slug": "security-group-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-group-generator/",
+  "download_url": "https://claudskills.com/skills/security-group-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Security Group Generator - Auto-activating skill for AWS Skills. Triggers on: security group generator, security group generator Part of the AWS Skills skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

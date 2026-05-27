@@ -1,0 +1,18 @@
+{
+  "name": "go-cli-builder",
+  "slug": "go-cli-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/go-cli-builder/",
+  "download_url": "https://claudskills.com/skills/go-cli-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build Go-based command-line tools following established patterns with Cobra CLI framework, Viper configuration, SQLite database, and automated GitHub Actions workflows for releases. Use when creating new Go CLI projects or adding features to existing ones that follow the Cobra/Viper/SQLite stack.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

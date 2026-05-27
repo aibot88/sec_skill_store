@@ -1,0 +1,18 @@
+{
+  "name": "node-api-review",
+  "slug": "node-api-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/node-api-review/",
+  "download_url": "https://claudskills.com/skills/node-api-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Node.js (Express/Fastify) backend review — async, validation, memory, security, observability.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

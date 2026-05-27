@@ -1,0 +1,18 @@
+{
+  "name": "django-rest-framework",
+  "slug": "django-rest-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/django-rest-framework/",
+  "download_url": "https://claudskills.com/skills/django-rest-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when Django REST Framework for building APIs with serializers, viewsets, and authentication. Use when creating RESTful APIs.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

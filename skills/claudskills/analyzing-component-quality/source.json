@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-component-quality",
+  "slug": "analyzing-component-quality",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-component-quality/",
+  "download_url": "https://claudskills.com/skills/analyzing-component-quality/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Expert at analyzing the quality and effectiveness of Claude Code components (agents, skills, commands, hooks). Assumes component is already technically valid. Evaluates description clarity, tool permissions, auto-invoke triggers, security, and usability to provide quality scores and improvement suggestions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

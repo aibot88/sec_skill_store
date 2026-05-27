@@ -1,0 +1,18 @@
+{
+  "name": "decode-minified-js-gates",
+  "slug": "decode-minified-js-gates",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/decode-minified-js-gates/",
+  "download_url": "https://claudskills.com/skills/decode-minified-js-gates/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Classify gate call variants in a minified JavaScript bundle. Covers context-window extraction around a flag occurrence, identification of 4–6 reader variants (sync boolean, sync config-object, bootstrap-aware TTL, truthy-only, async bootstrap, async bridge), default-value extraction (boolean / null / numeric / config-object literal), conjunction detection across `&&` predicates, kill-switch inversion detection, and production of a gate-mechanics record that feeds probe- feature-flag-state. Use when a flag's behavior cannot be inferred from its name alone, when the binary uses multiple reader libraries, or when config-object gates carry structured schemas distinct from boolean gates.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gh-search-issues",
+  "slug": "gh-search-issues",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gh-search-issues/",
+  "download_url": "https://claudskills.com/skills/gh-search-issues/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when searching GitHub issues ACROSS REPOSITORIES or organizations - provides syntax for filtering by labels, state, assignees, authors, comments, reactions, dates. For current repo issues, use gh issue list instead.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

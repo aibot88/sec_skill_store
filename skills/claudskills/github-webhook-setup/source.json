@@ -1,0 +1,18 @@
+{
+  "name": "github-webhook-setup",
+  "slug": "github-webhook-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-webhook-setup/",
+  "download_url": "https://claudskills.com/skills/github-webhook-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configures GitHub webhooks for auto-deployment by verifying secrets, checking endpoint accessibility, and guiding configuration. Use when you need to add a new repo for auto-deploy, configure GitHub webhooks, set up continuous deployment, or troubleshoot webhook issues. Triggers on \"setup webhook\", \"add webhook for [repo]\", \"configure auto-deploy\", \"GitHub deployment\", or \"webhook not working\". Works with config/hooks.json, .env (WEBHOOK_SECRET), and webhook.temet.ai endpoint.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

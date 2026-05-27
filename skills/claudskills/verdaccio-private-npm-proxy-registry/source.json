@@ -1,0 +1,18 @@
+{
+  "name": "verdaccio-private-npm-proxy-registry",
+  "slug": "verdaccio-private-npm-proxy-registry",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/verdaccio-private-npm-proxy-registry/",
+  "download_url": "https://claudskills.com/skills/verdaccio-private-npm-proxy-registry/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Verdaccio is a lightweight, zero-config private npm proxy registry that caches packages from npmjs.org and hosts private packages. It supports npm, yarn, and pnpm with authentication, access control, and plugin extensibility for managing internal JavaScript packages.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "package-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

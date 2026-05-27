@@ -1,0 +1,18 @@
+{
+  "name": "ohmyclaw",
+  "slug": "ohmyclaw",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ohmyclaw/",
+  "download_url": "https://claudskills.com/skills/ohmyclaw/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "OpenClaw 용 멀티프로바이더/멀티계정 라우팅 하네스. Z.ai 코딩플랜(Lite/Pro/Max) 모델 매트릭스 + ChatGPT Codex OAuth 다중 계정 풀(round-robin/cooldown/fan-out) + 추론 인식 모델 선택 + Plan→Work→Review 오케스트레이션 + 5관점 리뷰와 갭 감지. Use when: (1) Z.ai GLM 코딩 작업, (2) 다중 ChatGPT/Z.ai 계정으로 rate limit 분산, (3) 한국어 코딩/리뷰/리팩토링, (4) Plan→Work→Review 사이클로 다단계 작업 분해, (5) 같은 태스크를 여러 계정에 fan-out. NOT for: (a) 단순 1-line 수정, (b) read-only 탐색, (c) Z.ai/Codex 가 아닌 다른 프로바이더 단독 작업.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

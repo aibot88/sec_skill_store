@@ -1,0 +1,19 @@
+{
+  "name": "sast-code-scanner",
+  "slug": "dhivagar29-ci-workflow-optimizer-skills-sast-code-scanner",
+  "source": "github",
+  "source_url": "https://github.com/dhivagar29/ci-workflow-optimizer/blob/bb1229580f01c65c38911b829d2215660993d7cf/skills/sast-code-scanner/SKILL.md",
+  "download_url": "https://github.com/dhivagar29/ci-workflow-optimizer/blob/bb1229580f01c65c38911b829d2215660993d7cf/skills/sast-code-scanner/SKILL.md",
+  "external_source_url": "https://github.com/dhivagar29/ci-workflow-optimizer/blob/bb1229580f01c65c38911b829d2215660993d7cf/skills/sast-code-scanner/SKILL.md",
+  "license": "",
+  "description": "Analyze and optimize GitHub Actions CI/CD workflow files ",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "dhivagar29/ci-workflow-optimizer",
+    "path": "skills/sast-code-scanner/SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

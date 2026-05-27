@@ -1,0 +1,18 @@
+{
+  "name": "create-backend-controller",
+  "slug": "create-backend-controller",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-backend-controller/",
+  "download_url": "https://claudskills.com/skills/create-backend-controller/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Creates a backend (adminhtml) controller action in Magento 2 with proper ACL, routing, authorization, and admin UI integration. Use when building admin pages, AJAX endpoints, form handlers, or mass actions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "twinmind-data-handling",
+  "slug": "twinmind-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/twinmind-data-handling/",
+  "download_url": "https://claudskills.com/skills/twinmind-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Handle TwinMind meeting data with GDPR compliance: transcript storage, memory vault management, data export, and deletion policies. Use when implementing data handling, or managing TwinMind meeting AI operations. Trigger with phrases like \"twinmind data handling\", \"twinmind data handling\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

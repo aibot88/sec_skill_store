@@ -1,0 +1,18 @@
+{
+  "name": "snyk-license-compliance-checker",
+  "slug": "snyk-license-compliance-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/snyk-license-compliance-checker/",
+  "download_url": "https://claudskills.com/skills/snyk-license-compliance-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Uses the Snyk CLI and REST API to audit open-source dependencies for license compliance across npm, PyPI, Maven, and Go modules. Generates SPDX license reports and flags copyleft violations.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

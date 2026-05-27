@@ -1,0 +1,18 @@
+{
+  "name": "google-calendar-sync",
+  "slug": "google-calendar-sync",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-calendar-sync/",
+  "download_url": "https://claudskills.com/skills/google-calendar-sync/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Wizard to set up Google Calendar API integration with service account authentication and domain-wide delegation",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "communication",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

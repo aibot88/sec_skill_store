@@ -1,0 +1,18 @@
+{
+  "name": "ctf-ai-ml",
+  "slug": "ctf-ai-ml",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ctf-ai-ml/",
+  "download_url": "https://claudskills.com/skills/ctf-ai-ml/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Provides AI and machine learning techniques for CTF challenges. Use when attacking ML models, crafting adversarial examples, performing model extraction, prompt injection, membership inference, training data poisoning, fine-tuning manipulation, neural network analysis, LoRA adapter exploitation, LLM jailbreaking, or solving AI-related puzzles.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

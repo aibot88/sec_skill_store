@@ -1,0 +1,18 @@
+{
+  "name": "imaging-data-commons",
+  "slug": "imaging-data-commons",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/imaging-data-commons/",
+  "download_url": "https://claudskills.com/skills/imaging-data-commons/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Query and download public cancer imaging data from NCI Imaging Data Commons using idc-index. Use for accessing large-scale radiology (CT, MR, PET) and pathology datasets for AI training or research. No authentication required. Query by metadata, visualize in browser, check licenses.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "4geeksacademy-course-outline-generator-skills",
+  "source": "github",
+  "source_url": "https://github.com/4GeeksAcademy/course-outline-generator/blob/8c3a456729078afa7e340fd33fd99071783196ad/skills/module-project-readme-generator.skill.md",
+  "download_url": "https://github.com/4GeeksAcademy/course-outline-generator/blob/8c3a456729078afa7e340fd33fd99071783196ad/skills/module-project-readme-generator.skill.md",
+  "external_source_url": "https://github.com/4GeeksAcademy/course-outline-generator/blob/8c3a456729078afa7e340fd33fd99071783196ad/skills/module-project-readme-generator.skill.md",
+  "license": "",
+  "description": "This is a set of files and instructions on how to setup a Claude project to generate Learnpacks for the 4Geeks Full Stack Native AI Bootcamp",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "4GeeksAcademy/course-outline-generator",
+    "path": "skills/module-project-readme-generator.skill.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

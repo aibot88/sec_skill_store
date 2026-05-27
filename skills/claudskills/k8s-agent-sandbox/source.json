@@ -1,0 +1,18 @@
+{
+  "name": "k8s-agent-sandbox",
+  "slug": "k8s-agent-sandbox",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/k8s-agent-sandbox/",
+  "download_url": "https://claudskills.com/skills/k8s-agent-sandbox/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Documentation for Kubernetes Agent Sandbox - a CRD-based system for managing isolated AI agent execution environments. Use for queries about Sandbox CRDs (Sandbox, SandboxTemplate, SandboxClaim, SandboxWarmPool), Python SDK (SandboxClient, SandboxRouter, ComputerUseExtension), network policies, security configurations, and implementation examples. Keywords kubernetes sandbox, agent sandbox, CRD, python sdk, agentic-sandbox-client, isolated environment, gvisor, network policy.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "prioritizing-vulnerabilities-with-cvss-scoring",
+  "slug": "prioritizing-vulnerabilities-with-cvss-scoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prioritizing-vulnerabilities-with-cvss-scoring/",
+  "download_url": "https://claudskills.com/skills/prioritizing-vulnerabilities-with-cvss-scoring/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "The Common Vulnerability Scoring System (CVSS) is the industry standard framework maintained by FIRST (Forum",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

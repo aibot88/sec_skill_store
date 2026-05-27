@@ -1,0 +1,19 @@
+{
+  "name": "team",
+  "slug": "atm301-one-person-agency-ai-skills-team",
+  "source": "github",
+  "source_url": "https://github.com/atm301/one-person-agency-ai/blob/16c69c3092c0c5b0803c3669484fecd99e54f6ec/skills/team/skill.md",
+  "download_url": "https://github.com/atm301/one-person-agency-ai/blob/16c69c3092c0c5b0803c3669484fecd99e54f6ec/skills/team/skill.md",
+  "external_source_url": "https://github.com/atm301/one-person-agency-ai/blob/16c69c3092c0c5b0803c3669484fecd99e54f6ec/skills/team/skill.md",
+  "license": "",
+  "description": "14 AI colleagues for the solo marketer. Drop-in prompts for Claude Code / Claude.ai / ChatGPT.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "atm301/one-person-agency-ai",
+    "path": "skills/team/skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

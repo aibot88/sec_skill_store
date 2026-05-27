@@ -1,0 +1,18 @@
+{
+  "name": "chrome-extension-development",
+  "slug": "chrome-extension-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chrome-extension-development/",
+  "download_url": "https://claudskills.com/skills/chrome-extension-development/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guidelines for Chrome extension development with Manifest V3, covering security, performance, and best practices",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "violetconnect-bigcommerce",
+  "slug": "bigcommerce",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bigcommerce/",
+  "download_url": "https://claudskills.com/skills/bigcommerce/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "BigCommerce OAuth, embedded app JWT validation, and pre-registration patterns for VioletConnect",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

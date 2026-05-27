@@ -1,0 +1,18 @@
+{
+  "name": "go-test-quality",
+  "slug": "go-test-quality",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/go-test-quality/",
+  "download_url": "https://claudskills.com/skills/go-test-quality/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Go testing patterns for production-grade code: subtests, test helpers, fixtures, golden files, httptest, testcontainers, property-based testing, and fuzz testing. Covers mocking strategies, test isolation, coverage analysis, and test design philosophy. Use when writing tests, improving coverage, reviewing test quality, setting up test infrastructure, or choosing a testing approach. Trigger examples: \"add tests\", \"improve coverage\", \"write tests for this\", \"test helpers\", \"mock this dependency\", \"integration test\", \"fuzz test\". Do NOT use for performance benchmarking methodology (use go-performance-review), security testing (use go-security-audit), or table-driven test patterns specifically (use go-test-table-driven).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

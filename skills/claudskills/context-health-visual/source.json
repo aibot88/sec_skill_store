@@ -1,0 +1,18 @@
+{
+  "name": "context-health-visual",
+  "slug": "context-health-visual",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/context-health-visual/",
+  "download_url": "https://claudskills.com/skills/context-health-visual/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Diagnose Claude Code environment health — context budget, description obesity, trigger collisions, hooks, MCP, plugins, CLAUDE.md, memory, and skill-security scan. Use when asked to audit the environment, check context budget, review plugins, or scan installed skills for risky patterns.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

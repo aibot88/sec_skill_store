@@ -1,0 +1,18 @@
+{
+  "name": "hetzner-maestro",
+  "slug": "hetzner-maestro",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hetzner-maestro/",
+  "download_url": "https://claudskills.com/skills/hetzner-maestro/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Route and classify Hetzner Cloud tasks to the narrowest qualified specialist — cost optimization, infrastructure review, capacity planning, firewall guard, or server lifecycle guard. Use when the user's Hetzner request spans multiple domains or needs triage before specialist engagement.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "openapi-sdk-generator-pipeline",
+  "slug": "openapi-sdk-generator-pipeline",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/openapi-sdk-generator-pipeline/",
+  "download_url": "https://claudskills.com/skills/openapi-sdk-generator-pipeline/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generates typed client SDKs from OpenAPI 3.x specifications using openapi-generator-cli. Produces TypeScript, Python, and Go clients with proper authentication interceptors and retry logic.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

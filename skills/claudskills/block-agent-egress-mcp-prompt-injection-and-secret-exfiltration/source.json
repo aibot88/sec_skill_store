@@ -1,0 +1,18 @@
+{
+  "name": "block-agent-egress-mcp-prompt-injection-and-secret-exfiltration-",
+  "slug": "block-agent-egress-mcp-prompt-injection-and-secret-exfiltration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/block-agent-egress-mcp-prompt-injection-and-secret-exfiltration-/",
+  "download_url": "https://claudskills.com/skills/block-agent-egress-mcp-prompt-injection-and-secret-exfiltration-/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Put an inline firewall and containment layer in front of agent network traffic, tool calls, and MCP traffic before you trust an agent with local secrets.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

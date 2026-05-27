@@ -1,0 +1,18 @@
+{
+  "name": "vulgariser",
+  "slug": "vulgariser",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vulgariser/",
+  "download_url": "https://claudskills.com/skills/vulgariser/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when the user invokes /vulgariser, asks to \"expliquer simplement\", \"comment dire ça à mon client\", \"vulgarise [concept]\", \"explique [terme financier] à quelqu'un qui n'y connaît rien\", \"comment expliquer le PER à un retraité\", \"prépare une explication sur [sujet] pour un client\", or needs any financial or regulatory concept translated into plain language for non-expert clients. Always use cgp-persona tone (clear, reassuring, no jargon).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

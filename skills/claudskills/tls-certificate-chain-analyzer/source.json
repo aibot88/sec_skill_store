@@ -1,0 +1,18 @@
+{
+  "name": "tls-certificate-chain-analyzer",
+  "slug": "tls-certificate-chain-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tls-certificate-chain-analyzer/",
+  "download_url": "https://claudskills.com/skills/tls-certificate-chain-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyzes TLS certificate chains using OpenSSL s_client and the crt.sh Certificate Transparency API. Detects weak algorithms, expiring intermediates, and CT log compliance issues.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

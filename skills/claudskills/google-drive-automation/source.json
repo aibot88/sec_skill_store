@@ -1,0 +1,18 @@
+{
+  "name": "google-drive-automation",
+  "slug": "google-drive-automation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-drive-automation/",
+  "download_url": "https://claudskills.com/skills/google-drive-automation/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Lightweight Google Drive integration with standalone OAuth authentication. No MCP server required. Full read/write access.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

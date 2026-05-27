@@ -1,0 +1,18 @@
+{
+  "name": "bailii-case-law",
+  "slug": "bailii-case-law",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bailii-case-law/",
+  "download_url": "https://claudskills.com/skills/bailii-case-law/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Search BAILII for UK case law and retrieve full judgment text. Use when someone asks to find a case, search for case law on a topic, read a judgment, or check how courts have ruled on an issue. Covers UKSC, EWCA, EWHC, Upper Tribunal, EAT, and more. Requires the BAILII MCP server running locally (BAILII blocks cloud IPs).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:03+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "snowflake-data-handling",
+  "slug": "snowflake-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/snowflake-data-handling/",
+  "download_url": "https://claudskills.com/skills/snowflake-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Snowflake data governance with masking policies, row access policies, tagging, and GDPR/CCPA compliance patterns. Use when handling PII, implementing column masking, configuring data classification, or ensuring compliance with privacy regulations in Snowflake. Trigger with phrases like \"snowflake data governance\", \"snowflake masking\", \"snowflake PII\", \"snowflake GDPR\", \"snowflake row access policy\", \"snowflake tags\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "skills-keys",
+  "slug": "skills-keys",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skills-keys/",
+  "download_url": "https://claudskills.com/skills/skills-keys/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Manage API keys for the runner's --execute layer. CRUD on ~/.skills.env (chmod 600): list / add / update / remove / enable / disable gate flags / verify (ping vendor APIs) / export (eval-ready). Single source of truth for OPENAI_API_KEY, GEMINI_API_KEY, BFL_API_KEY, FAL_KEY, REPLICATE_API_TOKEN, RUNWAY_API_KEY, KLING_ACCESS_KEY_ID/SECRET, SUNO_API_KEY, ELEVENLABS_API_KEY, IDEOGRAM_API_KEY, ANTHROPIC_API_KEY, S3_* + gate flags (LYRIA_API_ENABLED, SUNO_API_ENABLED, OPENAI_SORA_API_ENABLED). Explicit shell exports always win over file entries. Use when the user says 'add my OpenAI key', 'rotate the Suno key', 'check which keys are set', 'verify my Gemini key works', 'where do I put my keys'.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

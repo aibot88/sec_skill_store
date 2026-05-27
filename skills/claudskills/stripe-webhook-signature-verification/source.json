@@ -1,0 +1,18 @@
+{
+  "name": "stripe-webhook-signature-verification",
+  "slug": "stripe-webhook-signature-verification",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/stripe-webhook-signature-verification/",
+  "download_url": "https://claudskills.com/skills/stripe-webhook-signature-verification/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when validating incoming Stripe webhook requests in a Node.js or Next.js backend before processing any payment event. Verifies the `stripe-signature` header against `STRIPE_WEBHOOK_SECRET` using Stripe's HMAC-SHA256 scheme, and rejects replays older than 300 seconds. Do NOT use for general HTTP signature validation (use a generic crypto-signature skill), for processing the webhook payload after signature is confirmed (use payment-provider-router), or for Stripe API calls that are not webhook-driven.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "npm-dependency-audit-scanner",
+  "slug": "npm-dependency-audit-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/npm-dependency-audit-scanner/",
+  "download_url": "https://claudskills.com/skills/npm-dependency-audit-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scans Node.js projects for vulnerable dependencies using npm audit and the OSV.dev REST API. Cross-references CVE databases via the National Vulnerability Database API v2.0 and generates SBOM documents in CycloneDX format.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "package-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

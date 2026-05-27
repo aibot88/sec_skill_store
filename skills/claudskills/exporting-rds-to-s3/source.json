@@ -1,0 +1,18 @@
+{
+  "name": "exporting-rds-to-s3",
+  "slug": "exporting-rds-to-s3",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/exporting-rds-to-s3/",
+  "download_url": "https://claudskills.com/skills/exporting-rds-to-s3/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Exports Amazon RDS or Aurora database snapshots to Amazon S3 in Apache Parquet format for analytics, backup, or data migration. Handles snapshot selection or creation, IAM role setup, KMS encryption, S3 bucket preparation, export task execution, progress monitoring, and data verification. Use when exporting RDS/Aurora data to S3 for Athena, Glue, or Redshift Spectrum consumption.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:53+00:00"
+}

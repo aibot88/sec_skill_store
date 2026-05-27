@@ -1,0 +1,18 @@
+{
+  "name": "data-quality-enforcement",
+  "slug": "data-quality-enforcement",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/data-quality-enforcement/",
+  "download_url": "https://claudskills.com/skills/data-quality-enforcement/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Enforce data quality rules and validations on pilot data streams and repositories. Use when checking for missing values, schema compliance, consistency issues, or anomalies before analysis and reporting.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "loom-security",
+  "slug": "loom-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/loom-security/",
+  "download_url": "https://claudskills.com/skills/loom-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Route security-sensitive work before implementation. Use when authentication, authorization, user input, secrets, sensitive data, uploads, webhooks, external integrations, dependency vulnerabilities, trust boundaries, or hardening need threat-aware evidence and critique.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:34+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "stocks",
+  "slug": "stocks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/stocks/",
+  "download_url": "https://claudskills.com/skills/stocks/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Stock quotes, history, search, compare, crypto via Yahoo.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "responsible-ai",
+  "slug": "responsible-ai",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/responsible-ai/",
+  "download_url": "https://claudskills.com/skills/responsible-ai/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Assess an AI feature or product for ethical risks, bias, safety issues, fairness gaps, and regulatory compliance. Use when reviewing an AI feature before launch, conducting a responsible AI audit, or responding to a bias or safety concern.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

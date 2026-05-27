@@ -1,0 +1,18 @@
+{
+  "name": "gitlab-ci-template-generator",
+  "slug": "gitlab-ci-template-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gitlab-ci-template-generator/",
+  "download_url": "https://claudskills.com/skills/gitlab-ci-template-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Creates GitLab CI/CD pipeline templates using Auto DevOps components, Kaniko for container builds, and SAST/DAST security scanning. Supports multi-project pipelines with trigger and bridge jobs.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

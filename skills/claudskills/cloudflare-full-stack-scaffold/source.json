@@ -1,0 +1,18 @@
+{
+  "name": "cloudflare-full-stack-scaffold",
+  "slug": "cloudflare-full-stack-scaffold",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloudflare-full-stack-scaffold/",
+  "download_url": "https://claudskills.com/skills/cloudflare-full-stack-scaffold/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Production-ready starter project for React + Cloudflare Workers + Hono with core services (D1, KV, R2, Workers AI) and optional advanced features (Clerk Auth, AI Chat, Queues, Vectorize). Complete with planning docs, session handoff protocol, and enable scripts for opt-in features.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

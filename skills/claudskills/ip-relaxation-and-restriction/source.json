@@ -1,0 +1,18 @@
+{
+  "name": "ip-relaxation-and-restriction",
+  "slug": "ip-relaxation-and-restriction",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ip-relaxation-and-restriction/",
+  "download_url": "https://claudskills.com/skills/ip-relaxation-and-restriction/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design IP-based access controls: profile login IP ranges, org-wide trusted IPs, IP relaxation per profile, and the interaction with MFA and SSO. Trigger keywords: login IP range, trusted IP, IP relaxation, restricted IP, IP allowlist, login hours. Does NOT cover: network-layer firewalling, corporate VPN design, or Shield Event Monitoring.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "skill-vettr",
+  "slug": "skill-vettr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-vettr/",
+  "download_url": "https://claudskills.com/skills/skill-vettr/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Static analysis security scanner for third-party OpenClaw skills. Detects eval/spawn risks, malicious dependencies, typosquatting, and prompt injection patterns before installation. Use when vetting skills from ClawHub or untrusted sources.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

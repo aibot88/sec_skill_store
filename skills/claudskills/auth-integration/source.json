@@ -1,0 +1,18 @@
+{
+  "name": "auth-integration",
+  "slug": "auth-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-integration/",
+  "download_url": "https://claudskills.com/skills/auth-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when implementing authentication - login/signup forms, session management, protected routes, or role-based access control. NOT when non-auth UI, plain data fetching, or unrelated backend logic. Triggers: \"login page\", \"signup form\", \"auth setup\", \"protected route\", \"role-based access\", \"Better Auth\", \"NextAuth\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

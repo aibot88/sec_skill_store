@@ -1,0 +1,18 @@
+{
+  "name": "diff-live-database-schemas-against-declarative-sql-before-schema",
+  "slug": "diff-live-database-schemas-against-declarative-sql-before-schema",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/diff-live-database-schemas-against-declarative-sql-before-schema/",
+  "download_url": "https://claudskills.com/skills/diff-live-database-schemas-against-declarative-sql-before-schema/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Compare checked-in SQL against live MySQL, PostgreSQL, SQLite, or SQL Server schemas and generate a reviewable apply plan before agents touch production databases.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

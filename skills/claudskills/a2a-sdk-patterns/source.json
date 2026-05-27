@@ -1,0 +1,18 @@
+{
+  "name": "a2a-sdk-patterns",
+  "slug": "a2a-sdk-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/a2a-sdk-patterns/",
+  "download_url": "https://claudskills.com/skills/a2a-sdk-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "SDK installation and setup patterns for Agent-to-Agent Protocol across Python, TypeScript, Java, C#, and Go. Use when implementing A2A protocol, setting up SDKs, configuring authentication, or when user mentions SDK installation, language-specific setup, or A2A integration.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

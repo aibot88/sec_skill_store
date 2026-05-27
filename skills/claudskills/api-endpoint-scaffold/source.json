@@ -1,0 +1,18 @@
+{
+  "name": "api-endpoint-scaffold",
+  "slug": "api-endpoint-scaffold",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-endpoint-scaffold/",
+  "download_url": "https://claudskills.com/skills/api-endpoint-scaffold/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Scaffold new Next.js API endpoints with authentication, rate limiting, and tests. Use when creating new API routes, adding endpoints, or building API features.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:50+00:00"
+}

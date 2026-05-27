@@ -1,0 +1,18 @@
+{
+  "name": "component-workflow",
+  "slug": "component-workflow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/component-workflow/",
+  "download_url": "https://claudskills.com/skills/component-workflow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide the creation of new ECS components following established architectural patterns including component class creation, JSON serialization support, editor UI implementation, dependency injection registration, and documentation. Use when adding new component types to the engine or extending existing component functionality.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

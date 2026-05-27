@@ -1,0 +1,18 @@
+{
+  "name": "falcosecurity",
+  "slug": "falcosecurity",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/falcosecurity/",
+  "download_url": "https://claudskills.com/skills/falcosecurity/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Falcosecurity integration. Manage data, records, and automate workflows. Use when the user wants to interact with Falcosecurity data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

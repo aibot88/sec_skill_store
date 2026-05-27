@@ -1,0 +1,18 @@
+{
+  "name": "hostinger-tools",
+  "slug": "hostinger-tools",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hostinger-tools/",
+  "download_url": "https://claudskills.com/skills/hostinger-tools/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Executes Hostinger API operations via Python wrapper. Use when managing VPS instances, Docker Compose projects, DNS records, domains, firewalls, SSH keys, snapshots, backups, billing, hosting, or WHOIS profiles.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

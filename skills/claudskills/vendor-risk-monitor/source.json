@@ -1,0 +1,18 @@
+{
+  "name": "vendor-risk-monitor",
+  "slug": "vendor-risk-monitor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vendor-risk-monitor/",
+  "download_url": "https://claudskills.com/skills/vendor-risk-monitor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Continuous vendor security monitoring for security ratings, breach notifications, and risk change detection",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

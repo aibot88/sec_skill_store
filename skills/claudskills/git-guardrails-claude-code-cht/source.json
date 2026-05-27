@@ -1,0 +1,18 @@
+{
+  "name": "git-guardrails-claude-code-cht",
+  "slug": "git-guardrails-claude-code-cht",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/git-guardrails-claude-code-cht/",
+  "download_url": "https://claudskills.com/skills/git-guardrails-claude-code-cht/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "設定 Claude Code hooks，在 push、reset --hard、clean、branch -D 等危險 git 指令執行前阻擋。當使用者想防止破壞性 git 操作、加入 git 安全 hooks，或阻擋 git push/reset 時使用。",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

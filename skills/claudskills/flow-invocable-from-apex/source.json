@@ -1,0 +1,18 @@
+{
+  "name": "flow-invocable-from-apex",
+  "slug": "flow-invocable-from-apex",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flow-invocable-from-apex/",
+  "download_url": "https://claudskills.com/skills/flow-invocable-from-apex/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Author @InvocableMethod Apex classes that Flow can call as Actions. Design the input / output variable contract, bulk semantics (one list in, one list out), null handling, and error surfacing. Also covers the inverse direction: calling a flow from Apex via Flow.Interview. NOT for general Apex authoring (use apex-service-selector-domain). NOT for REST-exposed Apex (use apex-rest-resource-patterns).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

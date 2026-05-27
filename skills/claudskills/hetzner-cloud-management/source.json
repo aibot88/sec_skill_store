@@ -1,0 +1,18 @@
+{
+  "name": "hetzner-cloud-management",
+  "slug": "hetzner-cloud-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hetzner-cloud-management/",
+  "download_url": "https://claudskills.com/skills/hetzner-cloud-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when deploying, managing, or troubleshooting Hetzner Cloud infrastructure via hcloud CLI. Triggers: \"hetzner cloud\", \"hcloud\", \"hetzner server\", \"create server on hetzner\", \"hetzner network\", \"hetzner firewall\", \"hetzner load balancer\", \"provision hetzner\", \"deploy to hetzner\", \"hetzner volume\", \"hetzner floating ip\", \"hetzner snapshot\". Provides comprehensive workflows for server management, networking, storage, security, and production-ready automation patterns with the official Hetzner Cloud CLI.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

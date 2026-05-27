@@ -1,0 +1,18 @@
+{
+  "name": "agent-instructions-audit",
+  "slug": "agent-instructions-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-instructions-audit/",
+  "download_url": "https://claudskills.com/skills/agent-instructions-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit the project's agent / LLM instruction files for vague rules, missing examples, drifted compliance, and mechanical-enforcement opportunities.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "forge-review",
+  "slug": "forge-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/forge-review/",
+  "download_url": "https://claudskills.com/skills/forge-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "上线前 PR 审查。分析当前分支与基础分支的 diff，检查 SQL 安全、竞态条件、 LLM 信任边界、枚举完整性等测试捕获不到的结构性问题。发现问题直接修复。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

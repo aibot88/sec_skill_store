@@ -1,0 +1,18 @@
+{
+  "name": "decision-curve-analysis",
+  "slug": "decision-curve-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/decision-curve-analysis/",
+  "download_url": "https://claudskills.com/skills/decision-curve-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when evaluating the clinical utility of a binary prediction model from a single clinical CSV file by fitting a logistic decision-curve model, plotting decision and clinical-impact curves, and exporting summary outputs. NOT for: survival calibration, ROC-only discrimination analysis, nomogram construction, or time-to-event outcomes.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

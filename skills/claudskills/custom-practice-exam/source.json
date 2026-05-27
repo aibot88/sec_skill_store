@@ -1,0 +1,18 @@
+{
+  "name": "custom-practice-exam",
+  "slug": "custom-practice-exam",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/custom-practice-exam/",
+  "download_url": "https://claudskills.com/skills/custom-practice-exam/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate a full practice exam (e.g. 60 questions) for an ExamNova exam by first scraping the vendor's latest official exam objectives via Firecrawl, then prompting Claude to author questions whose domain distribution matches the published blueprint percentages. Use when the user asks to \"generate a full exam\", \"auto-fill the exam bank\", \"create N questions for AZ-900 blueprint\", or invokes the \"AI Assist (Blueprint)\" mode in the admin.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

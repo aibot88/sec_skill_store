@@ -1,0 +1,19 @@
+{
+  "name": "028-agents_22bd7814",
+  "slug": "tools-only-x-skills-development-tools-028-agents_22bd7814",
+  "source": "github",
+  "source_url": "https://github.com/tools-only/X-Skills/blob/efb931b2e3f5d32b229105a9364b072ac5f51d85/development/tools/028-agents_22bd7814/skill.md",
+  "download_url": "https://github.com/tools-only/X-Skills/blob/efb931b2e3f5d32b229105a9364b072ac5f51d85/development/tools/028-agents_22bd7814/skill.md",
+  "external_source_url": "https://github.com/tools-only/X-Skills/blob/efb931b2e3f5d32b229105a9364b072ac5f51d85/development/tools/028-agents_22bd7814/skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "tools-only/X-Skills",
+    "path": "development/tools/028-agents_22bd7814/skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "audit",
+  "slug": "teliha-dev-workflows-skills-audit",
+  "source": "github",
+  "source_url": "https://github.com/teliha/dev-workflows/blob/3e1abfb78a4b21b3123b7af03ee1731e7fb5b664/skills/audit/skill.md",
+  "download_url": "https://github.com/teliha/dev-workflows/blob/3e1abfb78a4b21b3123b7af03ee1731e7fb5b664/skills/audit/skill.md",
+  "external_source_url": "https://github.com/teliha/dev-workflows/blob/3e1abfb78a4b21b3123b7af03ee1731e7fb5b664/skills/audit/skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "teliha/dev-workflows",
+    "path": "skills/audit/skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

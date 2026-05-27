@@ -1,0 +1,18 @@
+{
+  "name": "terraform-apply-and-promotion-mechanics",
+  "slug": "terraform-apply-and-promotion-mechanics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/terraform-apply-and-promotion-mechanics/",
+  "download_url": "https://claudskills.com/skills/terraform-apply-and-promotion-mechanics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when designing, reviewing, or hardening Terraform apply orchestration and environment promotion after the gate exists and infrastructure-platform and reliability have decided the environment ladder, approval model, and rollback expectations. Produces apply orchestration across the env ladder, manual-vs-auto-apply policy per environment, blast-radius-controlled apply discipline (targeted apply, refresh-only), a rollback procedure, a drift-remediation playbook, and runbook inputs for partial-apply failures and lock recovery. Do not use for repo/module layout, state/secret backend, pre-merge plan/policy gates, or module registry/supply chain; use the other terraform archetype skills instead.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

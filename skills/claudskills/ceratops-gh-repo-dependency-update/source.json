@@ -1,0 +1,18 @@
+{
+  "name": "ceratops-gh-repo-dependency-update",
+  "slug": "ceratops-gh-repo-dependency-update",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ceratops-gh-repo-dependency-update/",
+  "download_url": "https://claudskills.com/skills/ceratops-gh-repo-dependency-update/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Process Dependabot, Renovate, security, and manual dependency update work through GitHub with Ceratops defaults, using scripted live repo and PR checks before merge decisions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

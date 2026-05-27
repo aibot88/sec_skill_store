@@ -1,0 +1,18 @@
+{
+  "name": "cryptofeed",
+  "slug": "cryptofeed",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cryptofeed/",
+  "download_url": "https://claudskills.com/skills/cryptofeed/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Cryptofeed - Real-time cryptocurrency market data feeds from 40+ exchanges. WebSocket streaming, normalized data, order books, trades, tickers. Python library for algorithmic trading and market data analysis.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

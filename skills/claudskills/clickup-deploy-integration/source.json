@@ -1,0 +1,18 @@
+{
+  "name": "clickup-deploy-integration",
+  "slug": "clickup-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clickup-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/clickup-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy ClickUp API integrations to Vercel, Fly.io, and Cloud Run with secure secrets management and health checks. Trigger: \"deploy clickup\", \"clickup Vercel\", \"clickup production deploy\", \"clickup Cloud Run\", \"clickup Fly.io\", \"clickup hosting\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

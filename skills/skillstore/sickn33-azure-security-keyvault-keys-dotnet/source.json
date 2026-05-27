@@ -1,0 +1,18 @@
+{
+  "name": "Azure.Security.KeyVault.Keys (.NET)",
+  "slug": "sickn33-azure-security-keyvault-keys-dotnet",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-azure-security-keyvault-keys-dotnet",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/azure-security-keyvault-keys-dotnet",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/azure-security-keyvault-keys-dotnet",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "A skill for working with Azure Key Vault keys using the Azure SDK for .NET. Provides code generation, best practices, and examples for cryptographic key management operations.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 files",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/azure-security-keyvault-keys-dotnet"
+  },
+  "collected_at": "2026-05-27T03:44:46+00:00"
+}

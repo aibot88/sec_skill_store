@@ -1,0 +1,18 @@
+{
+  "name": "skill-authoring",
+  "slug": "skill-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-authoring/",
+  "download_url": "https://claudskills.com/skills/skill-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide to creating Claude Code skills using TDD methodology and persuasion principles. Use for new skill development.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

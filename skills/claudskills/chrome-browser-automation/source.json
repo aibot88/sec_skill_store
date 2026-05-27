@@ -1,0 +1,18 @@
+{
+  "name": "chrome-browser-automation",
+  "slug": "chrome-browser-automation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chrome-browser-automation/",
+  "download_url": "https://claudskills.com/skills/chrome-browser-automation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automates Chrome browser workflows for testing web apps, debugging with console/network logs, extracting data, filling forms, and interacting with authenticated web applications (Google Docs, Gmail, Notion). Use when testing local web apps, debugging frontend issues, automating data entry, scraping web content, or working with authenticated services. Triggers on \"test my web app\", \"check the console\", \"fill this form\", \"extract data from [URL]\", \"automate [browser task]\", \"open [authenticated app]\", or debugging web application issues. Works with Chrome via Claude in Chrome extension (MCP tools: navigate, click, form_input, read_console_messages, read_network_requests, tabs_context_mcp, gif_creator).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

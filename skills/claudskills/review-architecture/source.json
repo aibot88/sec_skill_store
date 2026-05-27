@@ -1,0 +1,18 @@
+{
+  "name": "review-architecture",
+  "slug": "review-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/review-architecture/",
+  "download_url": "https://claudskills.com/skills/review-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reviews an architecture (file, repo, design doc, or pasted text) against scalability, security, reliability, compliance, and anti-pattern checklists plus fitness functions. Use when the user asks to \"review my architecture\", \"critique this design\", \"audit this system\", or invokes /sdd:review-architecture.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

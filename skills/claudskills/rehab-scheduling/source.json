@@ -1,0 +1,18 @@
+{
+  "name": "rehab-scheduling",
+  "slug": "rehab-scheduling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rehab-scheduling/",
+  "download_url": "https://claudskills.com/skills/rehab-scheduling/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit a rehabilitation scheduling system -- evaluate therapist productivity and utilization rates, PTA/COTA supervision compliance, patient flow and no-show management, equipment and treatment room allocation, insurance authorization tracking with expiration alerts, CMS therapy cap monitoring (KX modifier thresholds), payer-specific visit limits, session frequency optimization, and multi-discipline coordination for PT, OT, and SLP. Covers WebPT, Clinicient, TheraOffice, Net Health, and custom EMR scheduling engines.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

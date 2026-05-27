@@ -1,0 +1,18 @@
+{
+  "name": "clerk-sdk-patterns",
+  "slug": "clerk-sdk-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk-sdk-patterns/",
+  "download_url": "https://claudskills.com/skills/clerk-sdk-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Common Clerk SDK patterns and best practices. Use when implementing authentication flows, accessing user data, or integrating Clerk SDK methods in your application. Trigger with phrases like \"clerk SDK\", \"clerk patterns\", \"clerk best practices\", \"clerk API usage\".",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

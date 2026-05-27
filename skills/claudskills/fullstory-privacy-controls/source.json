@@ -1,0 +1,18 @@
+{
+  "name": "fullstory-privacy-controls",
+  "slug": "fullstory-privacy-controls",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fullstory-privacy-controls/",
+  "download_url": "https://claudskills.com/skills/fullstory-privacy-controls/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive guide for implementing Fullstory's Element Privacy Controls (fs-exclude, fs-mask, fs-unmask) for web applications. Teaches proper privacy class usage, understanding what data leaves the device, CSS selector rules, and Form Privacy features. Includes detailed good/bad examples for protecting sensitive elements while maintaining session replay utility.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "storytelling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:02+00:00"
+}

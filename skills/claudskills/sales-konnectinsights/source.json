@@ -1,0 +1,18 @@
+{
+  "name": "sales-konnectinsights",
+  "slug": "sales-konnectinsights",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-konnectinsights/",
+  "download_url": "https://claudskills.com/skills/sales-konnectinsights/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Konnect Insights platform help — omnichannel CXM with social listening, social CRM, unified inbox (30+ channels), analytics, publishing, crisis management, Zapier integration, REST API. Use when Konnect Insights mentions are full of irrelevant noise and you need to tighten keyword queries, the unified inbox is overwhelming and you need to organize ticket routing, social listening dashboards don't show the metrics your stakeholders care about, Zapier triggers aren't firing for new mentions or tickets, API authentication isn't working with your account token and user token, or you need to connect Konnect Insights to your CRM (Salesforce, HubSpot, Zoho). Do NOT use for social listening strategy across tools (use /sales-social-listening) or choosing between social listening platforms (use /sales-social-listening).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

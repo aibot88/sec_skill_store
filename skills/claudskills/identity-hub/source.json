@@ -1,0 +1,18 @@
+{
+  "name": "identity-hub",
+  "slug": "identity-hub",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/identity-hub/",
+  "download_url": "https://claudskills.com/skills/identity-hub/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert in Identity and Access Management (IAM). Trigger this when implementing Login, Auth, RBAC, or Multi-tenancy logic.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

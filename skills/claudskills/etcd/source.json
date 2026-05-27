@@ -1,0 +1,18 @@
+{
+  "name": "etcd",
+  "slug": "etcd",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/etcd/",
+  "download_url": "https://claudskills.com/skills/etcd/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "etcd distributed key-value store reference. Backbone of Kubernetes. Covers key-value operations, watch for real-time updates, leases with TTL, atomic transactions, cluster setup, backup/restore, authentication, TLS, and Prometheus monitoring.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

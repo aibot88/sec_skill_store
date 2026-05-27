@@ -1,0 +1,18 @@
+{
+  "name": "gcp-auth",
+  "slug": "gcp-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-auth/",
+  "download_url": "https://claudskills.com/skills/gcp-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Google Cloud Platform (GCP) の Application Default Credentials 認証を実行。BigQuery や Cloud Storage 等の GCP サービス利用前に「GCP認証して」と言うだけで認証手順をガイド。",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

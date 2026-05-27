@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-on-chain-data",
+  "slug": "analyzing-on-chain-data",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-on-chain-data/",
+  "download_url": "https://claudskills.com/skills/analyzing-on-chain-data/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Process perform on-chain analysis including whale tracking, token flows, and network activity. Use when performing crypto analysis. Trigger with phrases like \"analyze crypto\", \"check blockchain\", or \"monitor market\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

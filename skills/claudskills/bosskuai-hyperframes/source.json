@@ -1,0 +1,18 @@
+{
+  "name": "bosskuai-hyperframes",
+  "slug": "bosskuai-hyperframes",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bosskuai-hyperframes/",
+  "download_url": "https://claudskills.com/skills/bosskuai-hyperframes/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this for Hyperframes video composition work, including HTML-based scene authoring, preview/render workflows, CLI commands, agent-friendly composition updates, and GSAP-assisted animation inside Hyperframes projects.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "bknd-public-vs-auth",
+  "slug": "bknd-public-vs-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bknd-public-vs-auth/",
+  "download_url": "https://claudskills.com/skills/bknd-public-vs-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when configuring public vs authenticated access in Bknd. Covers anonymous role setup, unauthenticated data access, public/private entity patterns, mixed access modes, and protecting sensitive entities while exposing public ones.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

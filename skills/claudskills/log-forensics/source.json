@@ -1,0 +1,18 @@
+{
+  "name": "log-forensics",
+  "slug": "log-forensics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/log-forensics/",
+  "download_url": "https://claudskills.com/skills/log-forensics/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Analyze system, application, and security logs for forensic investigation. Use when investigating security incidents, insider threats, system compromises, or any scenario requiring analysis of log data. Supports Windows Event Logs, Syslog, web server logs, and application-specific log formats.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "braintrust-trace-analysis",
+  "slug": "braintrust-trace-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/braintrust-trace-analysis/",
+  "download_url": "https://claudskills.com/skills/braintrust-trace-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze recent Braintrust traces from the Elçi AI Odoo agent. Use when the user asks to \"analyze traces\", \"review last N runs\", \"check trace comments\", or wants prompt/agent improvement evidence from real runs. Fetches trace metadata, per-step user/assistant/tool messages (excluding the repeated system prompt in each step to save context), span-level comments, and — most importantly — the `metadata.eval` Human Review note which is the user's authoritative evaluation of the trace.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

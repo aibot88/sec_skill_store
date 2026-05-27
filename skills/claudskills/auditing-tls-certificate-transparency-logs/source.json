@@ -1,0 +1,18 @@
+{
+  "name": "auditing-tls-certificate-transparency-logs",
+  "slug": "auditing-tls-certificate-transparency-logs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auditing-tls-certificate-transparency-logs/",
+  "download_url": "https://claudskills.com/skills/auditing-tls-certificate-transparency-logs/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Monitors Certificate Transparency (CT) logs to detect unauthorized certificate issuance, discover subdomains",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

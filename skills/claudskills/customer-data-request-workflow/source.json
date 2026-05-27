@@ -1,0 +1,18 @@
+{
+  "name": "customer-data-request-workflow",
+  "slug": "customer-data-request-workflow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/customer-data-request-workflow/",
+  "download_url": "https://claudskills.com/skills/customer-data-request-workflow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement GDPR/CCPA data subject rights (access, deletion, rectification) using Salesforce Privacy Center and/or custom workflow. NOT for general backup or org-level data retention policy.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

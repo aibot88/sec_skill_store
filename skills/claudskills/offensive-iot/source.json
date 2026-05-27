@@ -1,0 +1,18 @@
+{
+  "name": "offensive-iot",
+  "slug": "offensive-iot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/offensive-iot/",
+  "download_url": "https://claudskills.com/skills/offensive-iot/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "IoT and embedded device security testing methodology. Covers hardware reconnaissance (UART, JTAG, SWD, SPI flash, I2C EEPROM, eMMC chip-off), firmware acquisition (vendor portals, OTA capture, flash dump, binwalk extraction), firmware analysis (filesystem mounting, binary triage, hardcoded secrets, default credential discovery), bootloader attacks (U-Boot console, secure-boot bypass, fault injection), runtime attacks on embedded Linux/RTOS (busybox CVEs, MTD writes, /dev/mem), wireless protocol attacks (Zigbee, BLE, Z-Wave, LoRaWAN, Thread/Matter, sub-GHz), MQTT/CoAP/Modbus/BACnet/OPC-UA exploitation, mobile companion app analysis, cloud-IoT API abuse, and side-channel/glitching basics. Use for IoT pentest, smart-home assessment, ICS/OT testing, or embedded vulnerability research.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

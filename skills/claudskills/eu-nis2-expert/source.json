@@ -1,0 +1,18 @@
+{
+  "name": "eu-nis2-expert",
+  "slug": "eu-nis2-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eu-nis2-expert/",
+  "download_url": "https://claudskills.com/skills/eu-nis2-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "EU NIS2 Directive (Directive (EU) 2022/2555) expert. Reference-depth knowledge of essential vs important entity classification, Article 20 governance, the Article 21 ten cybersecurity risk-management measures, the Article 23 24h/72h/1mo incident-reporting timeline, and supervision/enforcement under Articles 32-34. SCF-backed gap assessment via the crosswalk.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

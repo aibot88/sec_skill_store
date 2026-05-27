@@ -1,0 +1,18 @@
+{
+  "name": "conducting-memory-forensics-with-volatility",
+  "slug": "conducting-memory-forensics-with-volatility",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/conducting-memory-forensics-with-volatility/",
+  "download_url": "https://claudskills.com/skills/conducting-memory-forensics-with-volatility/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Performs memory forensics analysis using Volatility 3 to extract evidence of malware execution, process injection,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

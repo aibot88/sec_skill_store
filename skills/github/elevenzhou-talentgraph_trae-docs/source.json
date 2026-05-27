@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "slug": "elevenzhou-talentgraph_trae-docs",
+  "source": "github",
+  "source_url": "https://github.com/ElevenZhou/talentgraph_trae/blob/2ff7ce2f0be0ead2a7c9b83f37ca705c2f6e6d72/docs/deploy-skill.md",
+  "download_url": "https://github.com/ElevenZhou/talentgraph_trae/blob/2ff7ce2f0be0ead2a7c9b83f37ca705c2f6e6d72/docs/deploy-skill.md",
+  "external_source_url": "https://github.com/ElevenZhou/talentgraph_trae/blob/2ff7ce2f0be0ead2a7c9b83f37ca705c2f6e6d72/docs/deploy-skill.md",
+  "license": "",
+  "description": "职场引力场 TalentGraph - AI 原生人才图谱与项目匹配平台",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "ElevenZhou/talentgraph_trae",
+    "path": "docs/deploy-skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

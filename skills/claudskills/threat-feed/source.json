@@ -1,0 +1,18 @@
+{
+  "name": "threat-feed",
+  "slug": "threat-feed",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/threat-feed/",
+  "download_url": "https://claudskills.com/skills/threat-feed/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Daily threat-intel digest — AI-discovered vulnerabilities, AI-in-the-wild exploitation observations, AI-authored malware families, exploit-trends rollup, vendor-trends month-over-month deltas. Use when producing a weekly security newsletter, scanning for novel threats, monitoring vendors with rising CVE counts, or tracking AI-discovered vulns from the researcher leaderboard.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

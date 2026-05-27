@@ -1,0 +1,18 @@
+{
+  "name": "vibers-code-review",
+  "slug": "vibers-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vibers-code-review/",
+  "download_url": "https://claudskills.com/skills/vibers-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Human review workflow for AI-generated GitHub projects with spec-based feedback, security review, and follow-up PRs from the Vibers service.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

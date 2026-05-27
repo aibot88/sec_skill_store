@@ -1,0 +1,18 @@
+{
+  "name": "agent-authoring",
+  "slug": "agent-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-authoring/",
+  "download_url": "https://claudskills.com/skills/agent-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide for authoring specialized AI agents. Use when creating, updating, or improving agents, choosing models, defining focus areas, configuring tools, or learning agent best practices.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

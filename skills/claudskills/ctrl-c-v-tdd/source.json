@@ -1,0 +1,18 @@
+{
+  "name": "ctrl-c-v-tdd",
+  "slug": "ctrl-c-v-tdd",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ctrl-c-v-tdd/",
+  "download_url": "https://claudskills.com/skills/ctrl-c-v-tdd/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Test-pattern doctrine. Tests are copyable from ~/.claude/patterns/tests/, three categories: input boundary, contract, effect. Make sure to consult this skill whenever code changes touch a boundary where someone else's code meets yours, even if the user doesn't say \"test\" or \"TDD\" — Claude tends to ship untested boundary code, and this skill prevents the Saturday phone call. TRIGGER when: code under change has external callers (other modules, cron, CLI, HTTP/RPC clients, \"外部调用\", \"被外部调用\"); persists state (DB write, file write, redis/cache, session storage, anything that survives the request); calls third-party API/SDK; task is classified as LARGE per ctrl-c-v sizing (4+ files, new capability, new architecture, new external contract) — LARGE always triggers TDD regardless of caller scope; user mentions tests, TDD, 测试, boundary, contract, mock, fixture, red/green; business domain involves payments, queues, webhooks, auth, external integration. SKIP when: code change is purely internal helpers used only by caller in same file; pure UI rendering with no validation/state; accessor < 10 lines with no if/loop/exception; one-file fix that ctrl-c-v classifies as SMALL. Examples that trigger: \"implement Stripe webhook handler\", \"add retry to the upload pipeline\", \"this database migration\", \"build a multi-step checkout form with validation across steps\". Examples that skip: \"rename this private function\", \"fix formatting in style.css\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "age-modern-file-encryption-tool",
+  "slug": "age-modern-file-encryption-tool",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/age-modern-file-encryption-tool/",
+  "download_url": "https://claudskills.com/skills/age-modern-file-encryption-tool/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Encrypt and decrypt files with age (FiloSottile/age), a simple, modern encryption tool with small explicit keys, post-quantum support, no config options, and UNIX-style composability. A practical replacement for GPG in most workflows.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crypto-keymgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

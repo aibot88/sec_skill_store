@@ -1,0 +1,18 @@
+{
+  "name": "webflow-data-api-javascript-sdk",
+  "slug": "webflow-data-api-javascript-sdk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/webflow-data-api-javascript-sdk/",
+  "download_url": "https://claudskills.com/skills/webflow-data-api-javascript-sdk/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automates site, CMS, and publishing workflows with Webflow’s official JavaScript SDK for the Webflow Data API. Useful for agents that need to list sites, publish changes, manage CMS data, and authenticate with workspace tokens, site tokens, or OAuth.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

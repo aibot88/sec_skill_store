@@ -1,0 +1,18 @@
+{
+  "name": "authz-per-resource",
+  "slug": "authz-per-resource",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/authz-per-resource/",
+  "download_url": "https://claudskills.com/skills/authz-per-resource/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Toda query checa que o user é dono do recurso",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "SKILL",
+  "slug": "binaryspray-auto-recon-skill",
+  "source": "github",
+  "source_url": "https://github.com/Binaryspray/Auto-Recon/blob/137f2b333474bbc2be9e113c8cff09c00936555d/SKILL/nuclei-scan-SKILL.md",
+  "download_url": "https://github.com/Binaryspray/Auto-Recon/blob/137f2b333474bbc2be9e113c8cff09c00936555d/SKILL/nuclei-scan-SKILL.md",
+  "external_source_url": "https://github.com/Binaryspray/Auto-Recon/blob/137f2b333474bbc2be9e113c8cff09c00936555d/SKILL/nuclei-scan-SKILL.md",
+  "license": "",
+  "description": "BBP 정찰 대상 선정 & 공격 표면 탐색",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Binaryspray/Auto-Recon",
+    "path": "SKILL/nuclei-scan-SKILL.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

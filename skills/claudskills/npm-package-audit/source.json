@@ -1,0 +1,18 @@
+{
+  "name": "npm-package-audit",
+  "slug": "npm-package-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/npm-package-audit/",
+  "download_url": "https://claudskills.com/skills/npm-package-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit npm packages for publishing quality, cross-OS compatibility, type declarations, build config, security, and CI/CD — produces a scored report with actionable fixes",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "package-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sast-configuration",
+  "slug": "sickn33-sast-configuration",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-sast-configuration",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/sast-configuration",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/sast-configuration",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Configure Static Application Security Testing (SAST) tools for automated vulnerability detection in application code. Use when setting up security scanning, implementing DevSecOps practices, or automating security reviews.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 files",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/sast-configuration"
+  },
+  "collected_at": "2026-05-27T03:44:49+00:00"
+}

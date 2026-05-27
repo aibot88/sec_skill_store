@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "voltwake-xianyu-monitor-.",
+  "source": "github",
+  "source_url": "https://github.com/voltwake/xianyu-monitor/blob/1920ada462816c2edc2fd1152d1551833960d5c1/SKILL.md",
+  "download_url": "https://github.com/voltwake/xianyu-monitor/blob/1920ada462816c2edc2fd1152d1551833960d5c1/SKILL.md",
+  "external_source_url": "https://github.com/voltwake/xianyu-monitor/blob/1920ada462816c2edc2fd1152d1551833960d5c1/SKILL.md",
+  "license": "",
+  "description": "🐟 闲鱼商品监控 OpenClaw Skill — 自动搜索、去重、推送到手机。零成本，不需要 API Key",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "voltwake/xianyu-monitor",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:59+00:00"
+}

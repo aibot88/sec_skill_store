@@ -1,0 +1,18 @@
+{
+  "name": "op-shell-plugins",
+  "slug": "op-shell-plugins",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/op-shell-plugins/",
+  "download_url": "https://claudskills.com/skills/op-shell-plugins/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when the user wants to authenticate third-party CLIs (gh, aws, stripe, doctl, hcloud, etc.) using 1Password instead of plaintext config files or environment variables — anything involving `op plugin init`, `op plugin run`, `op plugin list`, `op plugin inspect`, `op plugin clear`, `~/.op/plugins.sh`, biometric auth for CLIs, or replacing tokens in `~/.aws/credentials` / `~/.config/gh` / etc.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

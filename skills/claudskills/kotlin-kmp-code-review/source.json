@@ -1,0 +1,18 @@
+{
+  "name": "kotlin-project-code-review",
+  "slug": "kotlin-kmp-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kotlin-kmp-code-review/",
+  "download_url": "https://claudskills.com/skills/kotlin-kmp-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when reviewing implemented Kotlin Multiplatform / Compose Multiplatform code for architecture consistency, business-logic placement, state correctness, concurrency, Compose quality, design-system usage, security, performance, resilience, and maintainability.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

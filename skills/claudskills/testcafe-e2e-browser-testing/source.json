@@ -1,0 +1,18 @@
+{
+  "name": "testcafe-e2e-browser-testing",
+  "slug": "testcafe-e2e-browser-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/testcafe-e2e-browser-testing/",
+  "download_url": "https://claudskills.com/skills/testcafe-e2e-browser-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "TestCafe is a Node.js-based end-to-end browser testing framework by DevExpress that requires no WebDriver installation. It supports all major browsers, automatic waiting, live mode for rapid development, and both JavaScript and TypeScript test authoring.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

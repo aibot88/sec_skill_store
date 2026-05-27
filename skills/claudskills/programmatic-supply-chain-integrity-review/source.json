@@ -1,0 +1,18 @@
+{
+  "name": "programmatic-supply-chain-integrity-review",
+  "slug": "programmatic-supply-chain-integrity-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/programmatic-supply-chain-integrity-review/",
+  "download_url": "https://claudskills.com/skills/programmatic-supply-chain-integrity-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing ads.txt, app-ads.txt, and sellers.json files for a publisher or advertiser's programmatic supply chain to detect unauthorized resellers, domain-spoofing exposure, and SupplyChain Object gaps. Trigger when a user provides an ads.txt file, an app-ads.txt file, a sellers.json endpoint response, or asks whether their programmatic supply chain has unauthorized intermediaries, IVT exposure, domain-spoofing risk, or whether their supply chain declaration satisfies IAB Tech Lab, MRC, or DSP procurement requirements.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

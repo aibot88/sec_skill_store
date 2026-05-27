@@ -1,0 +1,18 @@
+{
+  "name": "hubspot-agency-multi-portal",
+  "slug": "hubspot-agency-multi-portal",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hubspot-agency-multi-portal/",
+  "download_url": "https://claudskills.com/skills/hubspot-agency-multi-portal/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Manage 10-100 HubSpot portals for agency clients with credential isolation that prevents cross-portal data contamination, per-portal audit trails for billing and GDPR/CCPA attribution, and a scriptable bulk-onboarding workflow that eliminates one-at-a-time credential setup. Use when onboarding new client portals, building a compliant per-client API call log, rotating tokens across a full agency fleet, or generating per-client compliance reports. Trigger with \"hubspot agency\", \"multi-portal management\", \"hubspot credential isolation\", \"per-portal audit log\", \"hubspot compliance report\", \"bulk portal onboarding\", \"token rotation cascade\", \"hubspot client portals\".",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

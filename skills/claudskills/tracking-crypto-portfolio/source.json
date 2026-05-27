@@ -1,0 +1,18 @@
+{
+  "name": "tracking-crypto-portfolio",
+  "slug": "tracking-crypto-portfolio",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tracking-crypto-portfolio/",
+  "download_url": "https://claudskills.com/skills/tracking-crypto-portfolio/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Track cryptocurrency portfolio with real-time valuations, allocation analysis, and P&L tracking. Use when checking portfolio value, viewing holdings breakdown, analyzing allocations, or exporting portfolio data. Trigger with phrases like \"show my portfolio\", \"check crypto holdings\", \"portfolio allocation\", \"track my crypto\", or \"export portfolio\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

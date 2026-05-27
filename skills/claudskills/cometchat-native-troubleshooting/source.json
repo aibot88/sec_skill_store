@@ -1,0 +1,18 @@
+{
+  "name": "cometchat-native-troubleshooting",
+  "slug": "cometchat-native-troubleshooting",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cometchat-native-troubleshooting/",
+  "download_url": "https://claudskills.com/skills/cometchat-native-troubleshooting/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Diagnose CometChat React Native UI Kit integration failures — init/login, gesture handler, pod install, iOS privacy manifest, Android Maven, Metro cache, permissions, calls, extensions, v4-to-v5 upgrade. For push-specific symptoms see cometchat-native-push § 12.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

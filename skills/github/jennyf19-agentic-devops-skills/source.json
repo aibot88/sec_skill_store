@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "jennyf19-agentic-devops-skills",
+  "source": "github",
+  "source_url": "https://github.com/jennyf19/agentic-devops/blob/0922180df8290b4abfa9f640cec5816e1fdcfa57/skills/build-cve-skill.md",
+  "download_url": "https://github.com/jennyf19/agentic-devops/blob/0922180df8290b4abfa9f640cec5816e1fdcfa57/skills/build-cve-skill.md",
+  "external_source_url": "https://github.com/jennyf19/agentic-devops/blob/0922180df8290b4abfa9f640cec5816e1fdcfa57/skills/build-cve-skill.md",
+  "license": "",
+  "description": "Partnership-first patterns for scaling with AI agents",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "jennyf19/agentic-devops",
+    "path": "skills/build-cve-skill.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

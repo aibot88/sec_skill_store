@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-boundary-enforcement",
+  "slug": "agentprivacy-boundary-enforcement",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-boundary-enforcement/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-boundary-enforcement/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Real-time access control decision engine for 0xagentprivacy swordsman agents. Activates when evaluating incoming data requests against consent preferences, designing allow/block/transform rule sets, implementing the swordsman's moment-to-moment operational logic, or building the enforcement layer that turns consent declarations into cryptographic actions. Triggers: \"boundary\", \"access decision\", \"allow block\", \"consent enforcement\", \"data request evaluation\", \"rules engine\", \"policy enforcement\", \"request filtering\", \"permission check\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "zero-trust",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "experience-cloud-guest-access",
+  "slug": "experience-cloud-guest-access",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/experience-cloud-guest-access/",
+  "download_url": "https://claudskills.com/skills/experience-cloud-guest-access/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing or configuring public pages on an Experience Cloud site — guest user profile setup, page-level access settings in Experience Builder, object/field visibility for unauthenticated visitors, and explicit sharing rules that expose data on public pages. Triggers: 'configure public pages Experience Cloud', 'guest user profile setup', 'unauthenticated site access', 'public community page visibility', 'make page visible without login'. NOT for authenticated user features (use admin/experience-cloud-member-management). NOT for security hardening or remediation of guest user exposure (use security/guest-user-security).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

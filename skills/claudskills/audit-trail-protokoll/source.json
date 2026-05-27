@@ -1,0 +1,18 @@
+{
+  "name": "audit-trail-protokoll",
+  "slug": "audit-trail-protokoll",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-trail-protokoll/",
+  "download_url": "https://claudskills.com/skills/audit-trail-protokoll/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fuehrt das Audit-Trail-Protokoll des Wuerfels — jeder Reviewlauf jede Prompt-Aenderung jede Pruefer-Abnahme jeder Cache-Treffer jede Hash-Pruefung wird unveraenderlich protokolliert. Spalten pro Eintrag: Zeitstempel Aktion Verantwortlicher Wuerfelversion Prompt-Version Modell-Version Eingangs-Hash Ausgangs-Hash Begruendung. Ablage als `audit-trail.jsonl` (append-only) und als `audit-trail.md` (menschenlesbar). Pflichteintrag vor jeder Mandatsuebergabe. Erlaubt Nachweis gegenueber Mandant Pruefer Aufsicht und Versicherung dass der Wuerfel reproduzierbar entstand.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

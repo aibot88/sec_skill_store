@@ -1,0 +1,18 @@
+{
+  "name": "fsharp-persistence",
+  "slug": "fsharp-persistence",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fsharp-persistence/",
+  "download_url": "https://claudskills.com/skills/fsharp-persistence/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement data persistence using SQLite with Dapper, JSON files, or event sourcing. Use when: \"database\", \"save data\", \"store\", \"CRUD\", \"create table\", \"query\", \"SQL\", \"SQLite\", \"Dapper\", \"file storage\", \"JSON file\", \"event sourcing\", \"persistence\", \"read from database\", \"write to database\", \"data access\", \"repository\". Creates code in src/Server/Persistence.fs with async I/O patterns.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

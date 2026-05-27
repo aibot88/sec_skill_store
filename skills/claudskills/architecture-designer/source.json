@@ -1,0 +1,18 @@
+{
+  "name": "architecture-designer",
+  "slug": "architecture-designer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/architecture-designer/",
+  "download_url": "https://claudskills.com/skills/architecture-designer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when designing new high-level system architecture, reviewing existing designs, or making architectural decisions. Invoke to create architecture diagrams, write Architecture Decision Records (ADRs), evaluate technology trade-offs, design component interactions, and plan for scalability. Use for system design, architecture review, microservices structuring, ADR authoring, scalability planning, and infrastructure pattern selection — distinct from code-level design patterns or database-only design tasks.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

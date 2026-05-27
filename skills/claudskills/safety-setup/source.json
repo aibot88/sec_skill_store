@@ -1,0 +1,18 @@
+{
+  "name": "cc-safe-setup",
+  "slug": "safety-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/safety-setup/",
+  "download_url": "https://claudskills.com/skills/safety-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Safety hooks for Claude Code — 695 pre-built hooks that prevent file deletion, credential leaks, git disasters, and token waste during autonomous AI coding sessions. Install with npx cc-safe-setup.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

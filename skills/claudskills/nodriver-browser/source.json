@@ -1,0 +1,18 @@
+{
+  "name": "nodriver-browser",
+  "slug": "nodriver-browser",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nodriver-browser/",
+  "download_url": "https://claudskills.com/skills/nodriver-browser/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Persistent Chrome/Chromium browser automation skill built on nodriver. Use when a page needs JavaScript rendering, authorized login/session continuity, clicking or typing, DOM snapshots with stable refs, screenshots, or multi-step look-think-act flows that ordinary WebFetch/search cannot complete. Auto-starts a headless or headed Chrome daemon, can use an isolated skill profile or the user's Chrome profile, and preserves one tab across calls; not for static pages, simple searches, JSON APIs, or one-off scrapes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

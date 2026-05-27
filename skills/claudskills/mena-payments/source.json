@@ -1,0 +1,18 @@
+{
+  "name": "mena-payments",
+  "slug": "mena-payments",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mena-payments/",
+  "download_url": "https://claudskills.com/skills/mena-payments/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when integrating, comparing, testing, or reviewing Arab/MENA payment gateways, checkout flows, payment links, refunds, captures, webhooks, sandbox credentials, and gateway selection across Egypt, GCC, Levant, and North Africa.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

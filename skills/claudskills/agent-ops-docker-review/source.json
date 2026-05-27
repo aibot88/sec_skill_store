@@ -1,0 +1,18 @@
+{
+  "name": "agent-ops-docker-review",
+  "slug": "agent-ops-docker-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-ops-docker-review/",
+  "download_url": "https://claudskills.com/skills/agent-ops-docker-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Docker image reviews, optimization, and step-building guidance. Analyzes Dockerfiles for best practices, security issues, and anti-patterns.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

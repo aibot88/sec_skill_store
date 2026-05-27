@@ -1,0 +1,18 @@
+{
+  "name": "color-contrast",
+  "slug": "color-contrast",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/color-contrast/",
+  "download_url": "https://claudskills.com/skills/color-contrast/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validates WCAG 2.1 contrast ratios and generates accessible color pairings. Use when checking accessibility compliance, fixing contrast issues, or selecting text/background combinations for AA or AAA levels.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

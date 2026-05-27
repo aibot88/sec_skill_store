@@ -1,0 +1,18 @@
+{
+  "name": "performing-iot-security-assessment",
+  "slug": "performing-iot-security-assessment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-iot-security-assessment/",
+  "download_url": "https://claudskills.com/skills/performing-iot-security-assessment/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Performs comprehensive security assessments of IoT devices and their ecosystems by testing hardware interfaces,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

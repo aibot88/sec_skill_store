@@ -1,0 +1,18 @@
+{
+  "name": "watchdog",
+  "slug": "watchdog",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/watchdog/",
+  "download_url": "https://claudskills.com/skills/watchdog/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Scan repos for health issues: stale PRs, failing CI, old issues, TODO refs, lockfile problems, and security advisories. TRIGGER when: user asks about repo health, \"check my repos\", \"stale PRs\", \"CI status\", security advisories, or invokes \"/watchdog\". DO NOT TRIGGER when: user is working on watchdog agent code itself.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

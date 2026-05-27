@@ -1,0 +1,18 @@
+{
+  "name": "lockpick",
+  "slug": "lockpick",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lockpick/",
+  "download_url": "https://claudskills.com/skills/lockpick/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "· Handle authorized privesc, CTFs, post-exploitation on Linux, containers, K8s. Triggers: 'privesc', 'CTF', 'pentest', 'post-exploitation', 'container escape', 'SUID', 'GTFOBins'. Not for hardening (use security-audit).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

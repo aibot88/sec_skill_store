@@ -1,0 +1,18 @@
+{
+  "name": "ios-app-store-submission",
+  "slug": "ios-app-store-submission",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ios-app-store-submission/",
+  "download_url": "https://claudskills.com/skills/ios-app-store-submission/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build and submit iOS apps to App Store Connect using fastlane (match/gym/pilot/deliver) or EAS (eas build / eas submit) for native (Swift/SwiftUI/UIKit), React Native, Expo, Flutter, and Capacitor projects. Use when archiving to .xcarchive, validating, uploading to TestFlight, configuring code signing and provisioning, writing ExportOptions.plist, generating or updating PrivacyInfo.xcprivacy, populating App Store Connect metadata, generating screenshots, submitting for App Review, responding to rejections, or routing ITMS-XXXXX errors. Covers first-time submission and update workflows for solo developers with local/CI builds.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

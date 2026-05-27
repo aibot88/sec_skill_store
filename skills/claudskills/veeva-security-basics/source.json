@@ -1,0 +1,18 @@
+{
+  "name": "veeva-security-basics",
+  "slug": "veeva-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/veeva-security-basics/",
+  "download_url": "https://claudskills.com/skills/veeva-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Veeva Vault security basics for REST API and clinical operations. Use when working with Veeva Vault document management and CRM. Trigger: \"veeva security basics\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

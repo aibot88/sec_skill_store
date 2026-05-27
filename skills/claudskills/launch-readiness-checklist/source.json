@@ -1,0 +1,18 @@
+{
+  "name": "launch-readiness-checklist",
+  "slug": "launch-readiness-checklist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/launch-readiness-checklist/",
+  "download_url": "https://claudskills.com/skills/launch-readiness-checklist/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "End-to-end pre-flight checklist for launching a Solana token/app: infra, wallets, liquidity, comms, security, and rollback planning. Use before mainnet launch or major release.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

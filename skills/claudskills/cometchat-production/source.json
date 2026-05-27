@@ -1,0 +1,18 @@
+{
+  "name": "cometchat-production",
+  "slug": "cometchat-production",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cometchat-production/",
+  "download_url": "https://claudskills.com/skills/cometchat-production/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Production readiness for CometChat — server-side token auth, user management CRUD, environment hardening, and security checklist. Replaces dev-mode authKey with server-side tokens.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

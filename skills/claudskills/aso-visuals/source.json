@@ -1,0 +1,18 @@
+{
+  "name": "aso-visuals",
+  "slug": "aso-visuals",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aso-visuals/",
+  "download_url": "https://claudskills.com/skills/aso-visuals/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Visual asset analysis for app store listings. Screenshots, app icon, preview videos. Evaluates composition, narrative flow, text readability, platform compliance, and conversion impact. Triggers on: \"screenshots\", \"icon\", \"preview video\", \"visual assets\".",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

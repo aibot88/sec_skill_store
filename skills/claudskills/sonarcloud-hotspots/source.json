@@ -1,0 +1,18 @@
+{
+  "name": "sonarcloud-hotspots",
+  "slug": "sonarcloud-hotspots",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sonarcloud-hotspots/",
+  "download_url": "https://claudskills.com/skills/sonarcloud-hotspots/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Arbeite gezielt mit SonarCloud Security Hotspots und normalen Issues für `smart-village-app_sva-studio`. Nutze diesen Skill, wenn Befunde gelistet, geprüft, kommentiert oder statusseitig bearbeitet werden sollen.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

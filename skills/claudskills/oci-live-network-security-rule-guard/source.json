@@ -1,0 +1,18 @@
+{
+  "name": "oci-live-network-security-rule-guard",
+  "slug": "oci-live-network-security-rule-guard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oci-live-network-security-rule-guard/",
+  "download_url": "https://claudskills.com/skills/oci-live-network-security-rule-guard/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Guard live OCI Security List and Network Security Group (NSG) rule changes with current-state capture, open-internet and sensitive-port detection, stateful/stateless assessment, and explicit approval before ingress or egress rule mutation. Use only when an intentional network rule change targets a confirmed VCN component.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

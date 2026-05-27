@@ -1,0 +1,18 @@
+{
+  "name": "asc-signing-setup",
+  "slug": "asc-signing-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/asc-signing-setup/",
+  "download_url": "https://claudskills.com/skills/asc-signing-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Set up bundle IDs, capabilities, signing certificates, provisioning profiles, and encrypted signing sync with the asc cli. Use when onboarding a new app, rotating signing assets, or sharing them across a team.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

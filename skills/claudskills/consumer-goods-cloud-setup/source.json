@@ -1,0 +1,18 @@
+{
+  "name": "consumer-goods-cloud-setup",
+  "slug": "consumer-goods-cloud-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/consumer-goods-cloud-setup/",
+  "download_url": "https://claudskills.com/skills/consumer-goods-cloud-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Consumer Goods Cloud setup: visit execution, retail execution, route planning, in-store task management, compliance checks, off-shelf detection, and image recognition. NOT for Field Service dispatch (use field-service-core-setup). NOT for B2B Commerce storefronts (use b2b-commerce-store-setup).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

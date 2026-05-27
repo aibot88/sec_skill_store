@@ -1,0 +1,18 @@
+{
+  "name": "dependency-audit-terraform",
+  "slug": "dependency-audit-terraform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dependency-audit-terraform/",
+  "download_url": "https://claudskills.com/skills/dependency-audit-terraform/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit a Terraform / OpenTofu codebase's provider, module, and backend dependencies for outdated versions, vulnerabilities, and duplicate version pins.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

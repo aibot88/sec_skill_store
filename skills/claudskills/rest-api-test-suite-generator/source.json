@@ -1,0 +1,18 @@
+{
+  "name": "rest-api-test-suite-generator",
+  "slug": "rest-api-test-suite-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rest-api-test-suite-generator/",
+  "download_url": "https://claudskills.com/skills/rest-api-test-suite-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generates comprehensive API test suites from OpenAPI specs using Postman Collection SDK and Newman CLI. Creates parameterized test scenarios with environment-specific variables, auth flows, and assertion chains.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

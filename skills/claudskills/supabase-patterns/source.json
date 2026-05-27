@@ -1,0 +1,18 @@
+{
+  "name": "supabase-patterns",
+  "slug": "supabase-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-patterns/",
+  "download_url": "https://claudskills.com/skills/supabase-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generic Supabase best practices for Row Level Security, realtime subscriptions, storage, and edge functions. Framework-agnostic.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

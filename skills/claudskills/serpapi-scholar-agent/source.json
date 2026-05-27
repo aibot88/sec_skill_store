@@ -1,0 +1,18 @@
+{
+  "name": "serpapi-scholar-agent",
+  "slug": "serpapi-scholar-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/serpapi-scholar-agent/",
+  "download_url": "https://claudskills.com/skills/serpapi-scholar-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automates academic research using the SerpAPI Google Scholar endpoint. Extracts citation graphs, h-index data, and co-author networks for literature reviews. Supports BibTeX export and cross-references with Semantic Scholar API.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

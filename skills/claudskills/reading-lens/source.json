@@ -1,0 +1,18 @@
+{
+  "name": "reading-lens",
+  "slug": "reading-lens",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/reading-lens/",
+  "download_url": "https://claudskills.com/skills/reading-lens/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Active-reading scaffolding for nonfiction books (EPUB). Parses an EPUB, generates a structured book analysis in the user's Obsidian vault at Read/{Book Name} ({Author})/, with 0. General.md as the book-level overview and one numbered markdown file per chapter containing pre-read brief, the user's own notes section, and post-read synthesis — all through configurable role lenses (e.g. PM, CEO, Entrepreneur). Six sub-skills — `reading-lens:setup` loads an EPUB with lens selection, `reading-lens:brief` generates a pre-read brief for a chapter, `reading-lens:synthesize` generates a post-read synthesis, `reading-lens:overview-redo` regenerates 0. General.md, `reading-lens:lenses` manages global lens presets, `reading-lens:to-notion` mirrors the book to Notion via MCP. Use whenever the user wants deep, structured book analysis, says \"analyze this book\", \"read this book\", \"reading lens\", \"book analysis\", \"pre-read brief\", \"chapter synthesis\", or references an EPUB path. Prefer this skill for any book-study workflow — even when the user doesn't say its name.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "knowledge-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

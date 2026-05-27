@@ -1,0 +1,18 @@
+{
+  "name": "github-workflow-standards",
+  "slug": "github-workflow-standards",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-workflow-standards/",
+  "download_url": "https://claudskills.com/skills/github-workflow-standards/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Core standards for GitHub workflow agents: authentication, repository discovery, dual MD+HTML output, accessibility compliance, safety rules, and parallel execution patterns.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

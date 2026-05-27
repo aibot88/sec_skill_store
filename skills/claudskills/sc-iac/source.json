@@ -1,0 +1,18 @@
+{
+  "name": "sc-iac",
+  "slug": "sc-iac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sc-iac/",
+  "download_url": "https://claudskills.com/skills/sc-iac/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Infrastructure-as-Code security scanning — Dockerfile, Kubernetes, Terraform, and GitHub Actions misconfigurations",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

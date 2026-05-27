@@ -1,0 +1,18 @@
+{
+  "name": "ceratops-contract-review",
+  "slug": "ceratops-contract-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ceratops-contract-review/",
+  "download_url": "https://claudskills.com/skills/ceratops-contract-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Review the Ceratops org, repo, code, PR readiness, and artifact health contracts against current GitHub, repo-content, and registry standards, then report proposed contract or checker updates for explicit approval.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

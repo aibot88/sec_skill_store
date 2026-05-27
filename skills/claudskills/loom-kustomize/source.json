@@ -1,0 +1,18 @@
+{
+  "name": "loom-kustomize",
+  "slug": "loom-kustomize",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/loom-kustomize/",
+  "download_url": "https://claudskills.com/skills/loom-kustomize/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Kubernetes-native configuration management with Kustomize. Use for environment-specific configs, resource patching (strategic merge, JSON6902), ConfigMap/Secret generation, overlays/bases, multi-environment deployments, and GitOps workflows.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:34+00:00"
+}

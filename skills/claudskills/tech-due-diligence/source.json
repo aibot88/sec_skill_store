@@ -1,0 +1,18 @@
+{
+  "name": "tech-due-diligence",
+  "slug": "tech-due-diligence",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tech-due-diligence/",
+  "download_url": "https://claudskills.com/skills/tech-due-diligence/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Technical due diligence for M&A, investment, or acquisition. Reads a target company's codebase and generates a comprehensive tech DD report with architecture assessment, tech debt quantification, scalability analysis, security posture, team capability inference, build system quality, test coverage, deployment maturity, and open source license risks. Outputs tech-dd-report.md formatted like a real investment memo with risk ratings, remediation costs, and go/no-go recommendation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

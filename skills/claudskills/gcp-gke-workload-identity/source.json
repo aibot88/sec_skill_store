@@ -1,0 +1,18 @@
+{
+  "name": "gcp-gke-workload-identity",
+  "slug": "gcp-gke-workload-identity",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-gke-workload-identity/",
+  "download_url": "https://claudskills.com/skills/gcp-gke-workload-identity/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implements Workload Identity for secure, keyless authentication between GKE pods and Google Cloud services. Use when setting up pod authentication to Pub/Sub, Cloud SQL, Secret Manager, or other GCP services. Eliminates service account key management, reduces security blast radius, and implements least privilege access patterns. Works with Spring Boot applications and IAM bindings.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

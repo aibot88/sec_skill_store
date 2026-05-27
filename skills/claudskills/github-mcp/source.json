@@ -1,0 +1,18 @@
+{
+  "name": "github-mcp",
+  "slug": "github-mcp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-mcp/",
+  "download_url": "https://claudskills.com/skills/github-mcp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "GitHub API operations - repositories, issues, pull requests, actions, code security, discussions, gists, and more. Use for GitHub-related tasks like managing PRs, issues, searching code, and monitoring workflows.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

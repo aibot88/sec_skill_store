@@ -1,0 +1,18 @@
+{
+  "name": "forge-audit",
+  "slug": "forge-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/forge-audit/",
+  "download_url": "https://claudskills.com/skills/forge-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit existing infrastructure for security issues, waste, and misconfigurations. Use when asked to \"audit my infra\", \"check cloud setup\", \"infra review\", \"are we wasting money\", \"security check on infra\", or \"review my terraform\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

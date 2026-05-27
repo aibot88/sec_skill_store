@@ -1,0 +1,18 @@
+{
+  "name": "aoa-automation-opportunity-scan",
+  "slug": "aoa-automation-opportunity-scan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aoa-automation-opportunity-scan/",
+  "download_url": "https://claudskills.com/skills/aoa-automation-opportunity-scan/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect reviewed or repeated project processes that are candidates for automation, classify whether they are seed-ready, and route them to the right owner layer without granting schedule or mutation authority. Use when a reviewed session or repeated project slice reveals a recurring manual route and the honest question is whether it should stay manual, become a bounded skill, or become a playbook automation seed candidate. Do not use for one-off exploratory work, creative synthesis with no stable trigger or output, live scheduling requests, or hidden self-change.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

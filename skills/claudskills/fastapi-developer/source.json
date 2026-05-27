@@ -1,0 +1,18 @@
+{
+  "name": "fastapi-developer",
+  "slug": "fastapi-developer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastapi-developer/",
+  "download_url": "https://claudskills.com/skills/fastapi-developer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "[Extends backend-developer] Python FastAPI specialist. Use for FastAPI apps, async endpoints, Pydantic v2, SQLAlchemy async, dependency injection. Invoke alongside backend-developer for Python API projects.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

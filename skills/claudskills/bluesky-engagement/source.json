@@ -1,0 +1,18 @@
+{
+  "name": "bluesky-engagement",
+  "slug": "bluesky-engagement",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bluesky-engagement/",
+  "download_url": "https://claudskills.com/skills/bluesky-engagement/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automated Bluesky reply monitoring and draft queueing for ThumbGate's acquisition engagement loop. Polls the AT Protocol notifications endpoint every 15 minutes, writes human-reviewable draft replies into a queue file, and never auto-posts without sign-off. Trigger when the user asks about Bluesky replies, engagement, reply monitoring, or wants to see/approve queued drafts. Also the authoritative reference for rotating the Bluesky app password or diagnosing monitor failures.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

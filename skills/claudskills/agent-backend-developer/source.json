@@ -1,0 +1,18 @@
+{
+  "name": "agent-backend-developer",
+  "slug": "agent-backend-developer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-backend-developer/",
+  "download_url": "https://claudskills.com/skills/agent-backend-developer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Senior backend engineer specializing in scalable API development and microservices architecture. Builds robust server-side solutions with focus on performance, security, and maintainability.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

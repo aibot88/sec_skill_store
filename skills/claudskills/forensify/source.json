@@ -1,0 +1,18 @@
+{
+  "name": "forensify",
+  "slug": "forensify",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/forensify/",
+  "download_url": "https://claudskills.com/skills/forensify/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Cross-agent self-inspection of your AI-agent stack. Audits skills, MCP servers, hooks, plugins, commands, credentials, and memory files across Claude Code, Codex, OpenClaw, and NanoClaw. Produces a structured inventory and narrative briefing with cross-ecosystem risk analysis. Use when the user asks to audit their own setup, check what they have installed, review their agent stack security posture, or understand cross-tool interactions. Use when a user has accumulated skills/plugins/MCP servers over time and wants visibility into their attack surface. Use after installing new skills or plugins. Do NOT use for vetting external code before install (that is repo-forensics). Do NOT use for incident response during active attacks. Do NOT use for fixing or patching vulnerabilities (forensify is read-only).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

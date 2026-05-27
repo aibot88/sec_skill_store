@@ -1,0 +1,18 @@
+{
+  "name": "naftiko-capability",
+  "slug": "naftiko-capability",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/naftiko-capability/",
+  "download_url": "https://claudskills.com/skills/naftiko-capability/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Skill for authoring, validating, and debugging Naftiko Capability YAML files (spec v1.0.0-alpha1). Activate when the user wants to: write a new capability document, add or change authentication on a consumed API, configure orchestration steps or parameter mappings, set up a forward proxy, expose an MCP server or Skill server, configure external references for secrets, add a control port for health checks and metrics, enable OpenTelemetry observability, or run the Spectral linter. The Naftiko Specification defines modular, composable capabilities that consume external APIs and expose REST, MCP, Skill, or Control adapters.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "linters-formatters",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:41+00:00"
+}

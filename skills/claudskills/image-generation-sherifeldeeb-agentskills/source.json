@@ -1,0 +1,18 @@
+{
+  "name": "image-generation",
+  "slug": "image-generation-sherifeldeeb-agentskills",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/image-generation-sherifeldeeb-agentskills/",
+  "download_url": "https://claudskills.com/skills/image-generation-sherifeldeeb-agentskills/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Create diagrams, charts, and visual assets for security documentation. Generate network diagrams, architecture visuals, and data visualizations. Use when creating visual content for reports or presentations.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "image-design",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

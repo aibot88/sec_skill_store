@@ -1,0 +1,18 @@
+{
+  "name": "ios-data",
+  "slug": "ios-data",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ios-data/",
+  "download_url": "https://claudskills.com/skills/ios-data/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "iOS data persistence expert skill covering SwiftData (@Model, ModelContainer, @Query, #Predicate, migrations, CloudKit), Core Data (NSPersistentContainer, NSFetchRequest, batch operations, CloudKit), UserDefaults/@AppStorage, FileManager (app sandbox directories), Keychain for sensitive data, iCloud key-value storage, and SQLite/GRDB. Use this skill whenever the user needs to persist data, create data models, query databases, handle migrations, sync with iCloud, or choose a storage strategy. Triggers on: SwiftData, Core Data, @Model, @Query, #Predicate, ModelContainer, NSManagedObject, NSFetchRequest, UserDefaults, @AppStorage, FileManager, documents directory, Keychain, iCloud sync, SQLite, GRDB, persistence, database, migration, schema, data model, fetch, save, delete, storage, cache, offline, or any iOS data storage question.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

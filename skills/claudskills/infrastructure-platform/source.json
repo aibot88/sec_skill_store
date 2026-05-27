@@ -1,0 +1,18 @@
+{
+  "name": "infrastructure-platform",
+  "slug": "infrastructure-platform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/infrastructure-platform/",
+  "download_url": "https://claudskills.com/skills/infrastructure-platform/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when an approved system design exists and the team needs production-grade platform and infrastructure architecture before IaC implementation. Produces cloud and account topology, environment model, runtime substrate selection, network and trust-boundary architecture, identity and secrets strategy, deployment and release substrate, IaC ownership boundaries, CI/CD posture, operational platform services, cost strategy, disaster posture, and implementation handoff guidance. Do not use for Terraform authoring, Kubernetes manifests, CI/CD YAML, application runtime tuning, incident response, or service runbooks; use the relevant implementations/infrastructure/<vendor> skill instead.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

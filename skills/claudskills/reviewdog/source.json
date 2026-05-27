@@ -1,0 +1,18 @@
+{
+  "name": "reviewdog",
+  "slug": "reviewdog",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/reviewdog/",
+  "download_url": "https://claudskills.com/skills/reviewdog/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automated code review and security linting integration for CI/CD pipelines using reviewdog. Aggregates findings from multiple security and quality tools (SAST, linters, formatters) into unified code review comments on pull requests. Use when: (1) Integrating security scanning into code review workflows, (2) Automating security feedback on pull requests, (3) Consolidating multiple tool outputs into actionable review comments, (4) Enforcing secure coding standards in CI/CD pipelines, (5) Providing inline security annotations during development.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

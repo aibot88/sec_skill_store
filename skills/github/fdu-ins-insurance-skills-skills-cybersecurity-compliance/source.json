@@ -1,0 +1,19 @@
+{
+  "name": "cybersecurity-compliance",
+  "slug": "fdu-ins-insurance-skills-skills-cybersecurity-compliance",
+  "source": "github",
+  "source_url": "https://github.com/FDU-INS/Insurance-Skills/blob/1f8d2e988a3db744c5b603589f449dc51a9ff718/Skills/cybersecurity-compliance/SKILL.md",
+  "download_url": "https://github.com/FDU-INS/Insurance-Skills/blob/1f8d2e988a3db744c5b603589f449dc51a9ff718/Skills/cybersecurity-compliance/SKILL.md",
+  "external_source_url": "https://github.com/FDU-INS/Insurance-Skills/blob/1f8d2e988a3db744c5b603589f449dc51a9ff718/Skills/cybersecurity-compliance/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "FDU-INS/Insurance-Skills",
+    "path": "Skills/cybersecurity-compliance/SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

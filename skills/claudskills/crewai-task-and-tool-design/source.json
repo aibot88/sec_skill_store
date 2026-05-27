@@ -1,0 +1,18 @@
+{
+  "name": "crewai-task-and-tool-design",
+  "slug": "crewai-task-and-tool-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crewai-task-and-tool-design/",
+  "download_url": "https://claudskills.com/skills/crewai-task-and-tool-design/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when an approved ai-architecture.md defines CrewAI tasks or callable tools. Produces task decomposition, tool schemas, an auth-enforcing execution adapter, idempotency, audit logging, and failure tests. Not for crew topology, retrieval design, or provider SDK work.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ml-ai-eng",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

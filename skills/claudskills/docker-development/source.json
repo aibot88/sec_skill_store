@@ -1,0 +1,18 @@
+{
+  "name": "docker-development",
+  "slug": "docker-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docker-development/",
+  "download_url": "https://claudskills.com/skills/docker-development/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Docker and container development agent skill and plugin for Dockerfile optimization, docker-compose orchestration, multi-stage builds, and container security hardening. Use when: user wants to optimize a Dockerfile, create or improve docker-compose configurations, implement multi-stage builds, audit container security, reduce image size, or follow container best practices. Covers build performance, layer caching, secret management, and production-ready container patterns.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

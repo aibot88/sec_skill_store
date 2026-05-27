@@ -1,0 +1,18 @@
+{
+  "name": "aoa-invariant-coverage-audit",
+  "slug": "aoa-invariant-coverage-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aoa-invariant-coverage-audit/",
+  "download_url": "https://claudskills.com/skills/aoa-invariant-coverage-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Audit whether existing tests and checks actually constrain the stable invariants that matter. Use when you need to judge if current coverage proves a rule or only repeats examples, and you want the smallest bounded follow-up gaps. Do not use when the invariant itself is still undefined or when the real task is to author new invariants rather than audit coverage.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

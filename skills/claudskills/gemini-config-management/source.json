@@ -1,0 +1,18 @@
+{
+  "name": "gemini-config-management",
+  "slug": "gemini-config-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gemini-config-management/",
+  "download_url": "https://claudskills.com/skills/gemini-config-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guide for configuring Google Gemini CLI. Covers global vs project settings.json, Trusted Folders, Policy Engine, and environment variables. Use when configuring Gemini settings, managing trusted folders, setting up security policies, or troubleshooting configuration precedence. Delegates to gemini-cli-docs for official references.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

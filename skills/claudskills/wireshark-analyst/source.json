@@ -1,0 +1,18 @@
+{
+  "name": "wireshark-analyst",
+  "slug": "wireshark-analyst",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wireshark-analyst/",
+  "download_url": "https://claudskills.com/skills/wireshark-analyst/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyse de trafic réseau avec Wireshark incluant capture, filtres, protocoles et diagnostic réseau. Se déclenche avec \"Wireshark\", \"capture réseau\", \"analyse de trafic\", \"pcap\", \"packet capture\", \"tcpdump",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

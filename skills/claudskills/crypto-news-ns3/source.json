@@ -1,0 +1,18 @@
+{
+  "name": "crypto-news-ns3",
+  "slug": "crypto-news-ns3",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crypto-news-ns3/",
+  "download_url": "https://claudskills.com/skills/crypto-news-ns3/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "No API key, instant access. Binance and CoinGecko use our data. AI reads 20+ crypto media outlets in real time and ranks every article by importance. Market sentiment indicators optimized for trading signals and trigger data. Breaking news, coin-level filters, and exchange listing news from CoinMarketCap, Coinbase, Bybit, OKX, Hyperliquid, and Robinhood. Bitcoin (BTC), Ethereum (ETH), Solana (SOL), XRP, Dogecoin (DOGE), BNB, stablecoin (USDT, USDC), DeFi, ETF news, and whale alerts. 16 languages. Four feeds: real-time crypto news ranked by AI, daily market briefing, top stories ranking, and breaking headlines. Built for trading bots, TradingView workflows, and AI agents. Use when the user asks about crypto news, portfolio updates, market briefings, breaking headlines, top stories, or news about specific coins.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

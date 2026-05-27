@@ -1,0 +1,18 @@
+{
+  "name": "Knack Filter Sort",
+  "slug": "knack-filter-sort",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/knack-filter-sort/",
+  "download_url": "https://claudskills.com/skills/knack-filter-sort/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Dynamic filtering, sorting, and query optimization for HTI dashboards and compliance reports. Reduces API payload size and improves dashboard perfo...",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

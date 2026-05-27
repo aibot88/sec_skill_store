@@ -1,0 +1,18 @@
+{
+  "name": "sonarqube-analysis-agent",
+  "slug": "sonarqube-analysis-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sonarqube-analysis-agent/",
+  "download_url": "https://claudskills.com/skills/sonarqube-analysis-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Integrates with the SonarQube REST API to run static code analysis scans, retrieve quality gate results, and flag code smells. Supports SonarCloud and on-premise SonarQube instances via token-based authentication.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

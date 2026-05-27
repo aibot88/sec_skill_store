@@ -1,0 +1,18 @@
+{
+  "name": "amazon-bedrock",
+  "slug": "amazon-bedrock",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/amazon-bedrock/",
+  "download_url": "https://claudskills.com/skills/amazon-bedrock/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Builds generative AI applications on Amazon Bedrock. Covers model invocation (Converse API, InvokeModel), RAG with Knowledge Bases, Bedrock Agents, Guardrails, and AgentCore. Use when invoking models, setting up Knowledge Bases, creating agents, applying guardrails, deploying to AgentCore, troubleshooting Bedrock errors (ThrottlingException, AccessDeniedException), or choosing models (Claude, Llama, Nova, Titan). ALSO USE for prompt caching setup and debugging, quota health checks and throttling diagnosis, cost attribution and tracking, migrating between Claude model generations (4.5 to 4.6 to 4.7), chunking strategies, API selection (Converse vs InvokeModel), guardrail capabilities, and model selection. NOT for custom model training, Rekognition, or Comprehend.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

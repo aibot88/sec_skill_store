@@ -1,0 +1,18 @@
+{
+  "name": "probe",
+  "slug": "probe",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/probe/",
+  "download_url": "https://claudskills.com/skills/probe/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "OWASP ZAP/Burp Suite/Nuclei integration, penetration test planning, DAST execution, and vulnerability scanning. For dynamic security testing, pentesting, or runtime vulnerability validation. Complements Sentinel static analysis.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

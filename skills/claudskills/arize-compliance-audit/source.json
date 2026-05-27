@@ -1,0 +1,18 @@
+{
+  "name": "arize-compliance-audit",
+  "slug": "arize-compliance-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/arize-compliance-audit/",
+  "download_url": "https://claudskills.com/skills/arize-compliance-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "INVOKE THIS SKILL when auditing an AI agent or LLM app for regulatory compliance. Covers EU AI Act, GPAI Code of Practice, GDPR, NIST AI RMF, Colorado AI Act, HIPAA, and ISO 42001. Scans the codebase for compliance gaps, cross-references Arize instrumentation for audit trail coverage, and produces an actionable remediation checklist tailored to the selected frameworks.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

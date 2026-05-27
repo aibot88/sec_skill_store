@@ -1,0 +1,18 @@
+{
+  "name": "compliance-governance",
+  "slug": "compliance-governance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/compliance-governance/",
+  "download_url": "https://claudskills.com/skills/compliance-governance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides compliance, governance, and supply chain security guidance for cloud-native systems. Covers OPA Rego policies, Kyverno cluster policies, SBOM generation, SLSA provenance, audit trail design, and regulatory framework mapping. Use when user mentions 'compliance', 'governance', 'OPA', 'kyverno', 'SBOM', 'SLSA', 'audit', 'policy-as-code', 'SOC2', 'HIPAA', 'PCI-DSS', 'artifact signing'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

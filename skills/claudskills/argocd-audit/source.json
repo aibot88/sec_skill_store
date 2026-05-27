@@ -1,0 +1,18 @@
+{
+  "name": "argocd-audit",
+  "slug": "argocd-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/argocd-audit/",
+  "download_url": "https://claudskills.com/skills/argocd-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audits ArgoCD Application manifests and raw K8s resources for anti-patterns, security issues, and best practice violations. Use when asked to audit, review, or check ArgoCD/GitOps quality. Generates a comprehensive report under reports/YYYY-MM-DD/argocd-audit.md. (project)",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cohere-data-handling",
+  "slug": "cohere-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cohere-data-handling/",
+  "download_url": "https://claudskills.com/skills/cohere-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement data privacy for Cohere API calls with PII redaction and compliance. Use when handling sensitive data, implementing PII redaction before API calls, or ensuring GDPR/CCPA compliance with Cohere integrations. Trigger with phrases like \"cohere data\", \"cohere PII\", \"cohere GDPR\", \"cohere data retention\", \"cohere privacy\", \"cohere redact\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

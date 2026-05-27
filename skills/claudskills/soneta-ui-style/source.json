@@ -1,0 +1,18 @@
+{
+  "name": "soneta-ui-style",
+  "slug": "soneta-ui-style",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/soneta-ui-style/",
+  "download_url": "https://claudskills.com/skills/soneta-ui-style/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design system Soneta / enova365 do budowania aplikacji webowych spójnych wizualnie z enova365 ERP: palety kolorów (jasny/ciemny), typografia, layout, komponenty UI (przyciski, formularze, tabele, sidebar, header, kafelki, modale), odstępy, cienie, ikony SVG, animacje, responsywność. Używaj gdy użytkownik: (1) prosi o zaprojektowanie, zbudowanie lub ostylowanie strony/aplikacji w stylu Soneta/enova365; (2) wspomina 'styl enova', 'styl Soneta', 'design system enova365', 'UI enova'; (3) chce dashboard, formularz, stronę logowania, panel administracyjny w estetyce enova365; (4) prosi o landing page lub aplikację z zielonym motywem enterprise w stylu Soneta; (5) pyta o kolory, czcionki, komponenty lub wzorce UI enova365/Soneta. Działa z każdym stackiem (HTML/CSS, React, Vue, Tailwind, itp.).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

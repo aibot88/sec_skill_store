@@ -1,0 +1,18 @@
+{
+  "name": "ips-steuern-bilanz-folgen",
+  "slug": "ips-steuern-bilanz-folgen",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ips-steuern-bilanz-folgen/",
+  "download_url": "https://claudskills.com/skills/ips-steuern-bilanz-folgen/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Prüft Steuer, Bilanz, Sanierungsgewinn, Verlustvortraege, Umsatzsteuer, Lohnsteuer, Sozialversicherung und Buchungslogik des Plans.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

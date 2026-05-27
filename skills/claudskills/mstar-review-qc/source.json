@@ -1,0 +1,18 @@
+{
+  "name": "mstar-review-qc",
+  "slug": "mstar-review-qc",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mstar-review-qc/",
+  "download_url": "https://claudskills.com/skills/mstar-review-qc/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Morning Star (启明星) QC 审查基线与 QA 验证契约 —— 三名 QC reviewer 的共享审查工作流、代码质量/安全正确性/性能可靠/可维护性清单、标准审查报告 Markdown 模板（YAML frontmatter + Findings 三档 + Source Trace + Summary + Verdict）、QC 三审分派时机（与 plan-batch 对齐）、高危变更（运维/数据/生产）最小检查、门禁规则（Approve / Request Changes / Needs Discussion）、CI 门禁补充、Residual Findings 留档门禁与关闭验证。`@qc-specialist` / `@qc-specialist-2` / `@qc-specialist-3` 开工审查前必读；`@qa-engineer` 对同 feature 做验证前必读；`@project-manager` 派发 QC 三审或 high-risk 变更审查前必读；所有涉及 QC 报告、Residual 登记或门禁判定的角色都应该优先 Read 本 skill。",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

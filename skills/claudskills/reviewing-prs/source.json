@@ -1,0 +1,18 @@
+{
+  "name": "reviewing-prs",
+  "slug": "reviewing-prs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/reviewing-prs/",
+  "download_url": "https://claudskills.com/skills/reviewing-prs/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reviews GitHub pull requests for the Medusa repository. Checks PR template compliance, contribution guidelines, code conventions, and community contribution limits. Posts a review comment and applies initial-approval or requires-more label. Use when a PR is opened or updated.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

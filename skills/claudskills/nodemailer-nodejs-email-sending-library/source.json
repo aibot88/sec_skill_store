@@ -1,0 +1,18 @@
+{
+  "name": "nodemailer-nodejs-email-sending-library",
+  "slug": "nodemailer-nodejs-email-sending-library",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nodemailer-nodejs-email-sending-library/",
+  "download_url": "https://claudskills.com/skills/nodemailer-nodejs-email-sending-library/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Nodemailer is the most widely used Node.js library for sending emails, with 17k+ GitHub stars and 7 million weekly npm downloads. It supports SMTP, OAuth2, HTML content, attachments, embedded images, and custom transports for services like SES and SendGrid.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

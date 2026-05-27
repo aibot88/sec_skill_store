@@ -1,0 +1,18 @@
+{
+  "name": "eresus-codeql-heuristics",
+  "slug": "eresus-codeql-heuristics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eresus-codeql-heuristics/",
+  "download_url": "https://claudskills.com/skills/eresus-codeql-heuristics/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Language-specific vulnerability hotspot reference for manual code audit. Trigger when the user asks to: \"what sinks should I look for in Java?\", \"Python security hotspots\", \"dangerous functions in Go\", \"JavaScript injection patterns\", or when starting a manual audit of a specific language and needing a sink/source checklist.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

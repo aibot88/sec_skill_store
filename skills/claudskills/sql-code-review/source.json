@@ -1,0 +1,18 @@
+{
+  "name": "sql-code-review",
+  "slug": "sql-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sql-code-review/",
+  "download_url": "https://claudskills.com/skills/sql-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Universal SQL code review assistant that performs comprehensive security, maintainability, and code quality analysis across all SQL databases (MySQL, PostgreSQL, SQL Server, Oracle). Focuses on SQL injection prevention, access control, code standards, and anti-pattern detection. Complements SQL optimization prompt for complete development coverage.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

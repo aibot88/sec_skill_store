@@ -1,0 +1,18 @@
+{
+  "name": "db-audit",
+  "slug": "db-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/db-audit/",
+  "download_url": "https://claudskills.com/skills/db-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Database performance and safety audit. 70+ checks across 13 dimensions (DB1-DB13): query patterns, indexes, schema design, connections, transactions, migrations, caching, query optimization, ORM anti-patterns, observability, data lifecycle, DB security, and migration deployment safety. Code-level checks for all ORMs. Optional live analysis via PostgreSQL or MySQL connection. Switches: zuvo:db-audit full | [path] | [file] | --schema | --queries | --connections | --live <conn>",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

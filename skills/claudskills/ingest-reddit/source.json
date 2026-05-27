@@ -1,0 +1,18 @@
+{
+  "name": "ingest-reddit",
+  "slug": "ingest-reddit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ingest-reddit/",
+  "download_url": "https://claudskills.com/skills/ingest-reddit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Extract post and comments from Reddit threads for wiki ingestion. Appends .json to any Reddit URL, no auth required for public subreddits.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

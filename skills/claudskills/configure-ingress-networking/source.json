@@ -1,0 +1,18 @@
+{
+  "name": "configure-ingress-networking",
+  "slug": "configure-ingress-networking",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/configure-ingress-networking/",
+  "download_url": "https://claudskills.com/skills/configure-ingress-networking/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Kubernetes-Ingress-Networking mit NGINX-Ingress-Controller, cert-manager fuer automatisiertes TLS-Zertifikat-Management, pfadbasiertes Routing, Rate-Limiting und Multi-Domain-Hosting mit SSL-Terminierung und Load-Balancing konfigurieren. Einsatz beim Exponieren mehrerer Kubernetes-Services ueber einen einzelnen Load-Balancer, beim Implementieren von pfad- oder hostbasiertem Routing, beim Automatisieren der TLS- Zertifikatausstellung mit Let's Encrypt oder beim Einrichten von Blue-Green- und Canary-Deployments mit Traffic-Splitting.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

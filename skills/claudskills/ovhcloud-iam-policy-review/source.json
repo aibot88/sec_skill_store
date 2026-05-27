@@ -1,0 +1,18 @@
+{
+  "name": "ovhcloud-iam-policy-review",
+  "slug": "ovhcloud-iam-policy-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ovhcloud-iam-policy-review/",
+  "download_url": "https://claudskills.com/skills/ovhcloud-iam-policy-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review OVHcloud IAM policies for overly permissive allow rules, missing deny blocks, unscoped URNs, absent condition blocks (IP CIDR, resource tag, expiration), and identity-group hygiene. Use when the user needs to audit access control, review `ovh_iam_policy` Terraform resources, assess OAuth2 service account scopes, or validate conditional access configuration against the principle of least privilege.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

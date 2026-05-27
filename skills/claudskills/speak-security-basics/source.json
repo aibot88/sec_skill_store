@@ -1,0 +1,18 @@
+{
+  "name": "speak-security-basics",
+  "slug": "speak-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/speak-security-basics/",
+  "download_url": "https://claudskills.com/skills/speak-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Security best practices for Speak API keys, audio data privacy, student data protection, and COPPA/FERPA compliance. Use when implementing security basics features, or troubleshooting Speak language learning integration issues. Trigger with phrases like \"speak security basics\", \"speak security basics\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

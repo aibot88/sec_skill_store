@@ -1,0 +1,18 @@
+{
+  "name": "audit-contract",
+  "slug": "audit-contract",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-contract/",
+  "download_url": "https://claudskills.com/skills/audit-contract/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Adversarial smart contract security audit. Auto-selects 5-7 specialist agents based on contract features (from a roster of 12). Attacks from every relevant angle: SWC registry, signatures, reentrancy, state machine, ERC20 edge cases, economic exploits, game theory, L2-specific, flash loans, DoS/griefing, privacy, backend integration, external boundary verification (live ABI / selector / hash checks against canonical references). Runs Slither if available. Writes Foundry PoC tests for critical findings. Produces a ranked finding list with severity and code fixes. Triggers on: \"audit this contract\", \"security review\", \"attack this contract\", \"find vulnerabilities\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": true
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

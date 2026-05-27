@@ -1,0 +1,18 @@
+{
+  "name": "healthtech-advisor",
+  "slug": "healthtech",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/healthtech/",
+  "download_url": "https://claudskills.com/skills/healthtech/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT + Commons Clause",
+  "description": "Strategic advisory for digital health and healthtech founders covering HIPAA scope, FDA SaMD vs non-SaMD classification, EHR integration patterns, payor/provider/employer GTM, and value-based care models. Complements the RA/QM compliance domain with software-side strategic guidance. Use when scoping a healthtech idea, classifying PHI, picking a GTM, or when the user mentions HIPAA, PHI, FDA SaMD, EHR integration, telehealth, or digital therapeutics.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

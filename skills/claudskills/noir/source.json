@@ -1,0 +1,18 @@
+{
+  "name": "noir",
+  "slug": "noir",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/noir/",
+  "download_url": "https://claudskills.com/skills/noir/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Zero-knowledge circuit design with Noir (Aztec's ZK DSL). TRIGGER when: working with .nr files, Nargo.toml, ZK circuits/proofs, Aztec contracts, zoir extension, or discussing zero-knowledge proof design. Covers circuit architecture, constraint optimization, ZK-specific security, and Aztec integration. DO NOT TRIGGER when: only Noir language syntax is needed (droo-stack handles that), or working with Solidity (use solidity-audit skill).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crypto-keymgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

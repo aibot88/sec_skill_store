@@ -1,0 +1,18 @@
+{
+  "name": "boutique-stored-values",
+  "slug": "boutique-stored-values",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/boutique-stored-values/",
+  "download_url": "https://claudskills.com/skills/boutique-stored-values/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Persist individual values with Boutique's @StoredValue (UserDefaults) and @SecurelyStoredValue (Keychain), including set, reset, toggle, bindings, keypath setters, array and dictionary helpers, and async observation. Use when storing preferences, settings, feature flags, or sensitive data like auth tokens.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

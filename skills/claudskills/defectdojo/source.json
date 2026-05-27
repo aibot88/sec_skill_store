@@ -1,0 +1,18 @@
+{
+  "name": "defectdojo",
+  "slug": "defectdojo",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/defectdojo/",
+  "download_url": "https://claudskills.com/skills/defectdojo/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide for implementing DefectDojo - an open-source DevSecOps, ASPM, and vulnerability management platform. Use when querying vulnerabilities, managing findings, configuring CI/CD pipeline imports, or working with security scan data. Includes MCP tools for direct API interaction.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

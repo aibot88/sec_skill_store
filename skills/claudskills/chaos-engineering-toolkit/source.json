@@ -1,0 +1,18 @@
+{
+  "name": "conducting-chaos-engineering",
+  "slug": "chaos-engineering-toolkit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chaos-engineering-toolkit/",
+  "download_url": "https://claudskills.com/skills/chaos-engineering-toolkit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill enables Claude to design and execute chaos engineering experiments to test system resilience. It is used when the user requests help with failure injection, latency simulation, resource exhaustion testing, or resilience validation. The skill is triggered by discussions of chaos experiments (GameDays), failure injection strategies, resilience testing, and validation of recovery mechanisms like circuit breakers and retry logic. It leverages tools like Chaos Mesh, Gremlin, Toxiproxy, and AWS FIS to simulate real-world failures and assess system behavior.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

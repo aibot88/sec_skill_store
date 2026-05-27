@@ -1,0 +1,18 @@
+{
+  "name": "resource-compliance",
+  "slug": "resource-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/resource-compliance/",
+  "download_url": "https://claudskills.com/skills/resource-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Resource compliance skill. Analyze one or more SmartCMP resources with componentType-driven cloud/software/OS analyzers.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

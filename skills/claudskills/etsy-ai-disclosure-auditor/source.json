@@ -1,0 +1,18 @@
+{
+  "name": "etsy-ai-disclosure-auditor",
+  "slug": "etsy-ai-disclosure-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/etsy-ai-disclosure-auditor/",
+  "download_url": "https://claudskills.com/skills/etsy-ai-disclosure-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Scans every listing in an Etsy shop for missing AI Disclosure tags required by Etsy's 2025 generative-AI policy. Use when the user wants to audit AI compliance, check AI Disclosure tags, prepare a shop for the AI policy enforcement, or avoid shop suspension. Categorizes listings by risk level (clear AI / partial AI / human-made), tags accordingly with operator approval, flags ambiguous cases for manual review.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

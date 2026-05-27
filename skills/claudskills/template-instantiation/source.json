@@ -1,0 +1,18 @@
+{
+  "name": "template-instantiation",
+  "slug": "template-instantiation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/template-instantiation/",
+  "download_url": "https://claudskills.com/skills/template-instantiation/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Creates .NET projects from templates with validated parameters, smart defaults, Central Package Management adaptation, and latest NuGet version resolution. USE FOR: creating new dotnet projects, scaffolding solutions with multiple projects, installing or uninstalling template packages, creating projects that respect Directory.Packages.props (CPM), composing multi-project solutions (API + tests + library), getting latest NuGet package versions in newly created projects. DO NOT USE FOR: finding or comparing templates (use template-discovery), authoring custom templates (use template-authoring), modifying existing projects or adding NuGet packages to existing projects.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "hyper-implement",
+  "slug": "hyper-implement",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hyper-implement/",
+  "download_url": "https://claudskills.com/skills/hyper-implement/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Execute a plan task-by-task using fresh subagents, with spec compliance + code quality reviews between tasks. Use when the user invokes /hyperclaude:hyper-implement, or when about to start a multi-task implementation from a plan in .hyperclaude/plans/. Skip for single-step trivia or fast prototyping.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

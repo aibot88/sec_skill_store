@@ -1,0 +1,18 @@
+{
+  "name": "owasp-top-10",
+  "slug": "owasp-top-10",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/owasp-top-10/",
+  "download_url": "https://claudskills.com/skills/owasp-top-10/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Revisa código contra as 10 falhas mais comuns antes de merge",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

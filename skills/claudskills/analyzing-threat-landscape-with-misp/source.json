@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-threat-landscape-with-misp",
+  "slug": "analyzing-threat-landscape-with-misp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-threat-landscape-with-misp/",
+  "download_url": "https://claudskills.com/skills/analyzing-threat-landscape-with-misp/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Analyze the threat landscape using MISP (Malware Information Sharing Platform) by querying event statistics,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

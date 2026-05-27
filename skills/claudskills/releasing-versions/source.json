@@ -1,0 +1,18 @@
+{
+  "name": "releasing-versions",
+  "slug": "releasing-versions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/releasing-versions/",
+  "download_url": "https://claudskills.com/skills/releasing-versions/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manages release preparation including validation, version bumping, documentation verification, and security checks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

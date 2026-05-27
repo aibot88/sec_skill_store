@@ -1,0 +1,18 @@
+{
+  "name": "csharp-rules",
+  "slug": "csharp-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/csharp-rules/",
+  "download_url": "https://claudskills.com/skills/csharp-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "C#/.NET coding rules from ai-toolkit: coding-style, frameworks, patterns, security, testing. Triggers: .cs, .csproj, .sln, ASP.NET, ASP.NET Core, EF Core, LINQ, NUnit, xUnit, dotnet. Load when writing, reviewing, or editing C#/.NET code.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

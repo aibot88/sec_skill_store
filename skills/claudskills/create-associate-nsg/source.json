@@ -1,0 +1,18 @@
+{
+  "name": "create-associate-nsg",
+  "slug": "create-associate-nsg",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-associate-nsg/",
+  "download_url": "https://claudskills.com/skills/create-associate-nsg/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Creates a new Network Security Group and associates it with the specified subnets and/or NICs of a Virtual Network.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

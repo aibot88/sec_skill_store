@@ -1,0 +1,18 @@
+{
+  "name": "security-headers",
+  "slug": "curiouslearner-security-headers",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/curiouslearner-security-headers",
+  "download_url": "https://github.com/CuriousLearner/devkit/blob/main/skills/security-headers/SKILL.md?plain=1#L297",
+  "external_source_url": "https://github.com/CuriousLearner/devkit/blob/main/skills/security-headers/SKILL.md?plain=1#L297",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Validate and implement HTTP security headers to protect web applications.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/CuriousLearner/devkit/blob/main/skills/security-headers/SKILL.md?plain=1#L297"
+  },
+  "collected_at": "2026-05-27T03:44:43+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "commercial-skills",
+  "slug": "commercial-skills",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/commercial-skills/",
+  "download_url": "https://claudskills.com/skills/commercial-skills/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when reviewing, approving, or designing commercial motion — pricing models, deal review, discount approval, partnership economics, channel mix, commercial policy, RFP/RFI response, bookings forecast. Triggers on \"review this deal\", \"should we discount\", \"pricing model\", \"partner economics\", \"RFP response\", \"bookings forecast\", \"channel mix\". Forks context to route to one of seven Commercial sub-skills (pricing-strategist, deal-desk, partnerships-architect, channel-economics, commercial-policy, rfp-responder, commercial-forecaster) and returns a digest. Distinct from business-growth (sales execution) and c-level-advisor/cro-advisor (strategic CRO judgment).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

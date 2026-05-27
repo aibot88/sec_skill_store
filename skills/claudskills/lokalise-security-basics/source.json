@@ -1,0 +1,18 @@
+{
+  "name": "lokalise-security-basics",
+  "slug": "lokalise-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lokalise-security-basics/",
+  "download_url": "https://claudskills.com/skills/lokalise-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Lokalise security best practices for API tokens and access control. Use when securing API tokens, implementing least privilege access, or auditing Lokalise security configuration. Trigger with phrases like \"lokalise security\", \"lokalise secrets\", \"secure lokalise\", \"lokalise API token security\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agent-security-hardener",
+  "slug": "agent-security-hardener",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-security-hardener/",
+  "download_url": "https://claudskills.com/skills/agent-security-hardener/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Sécurisation d'agents IA contre injections, abus et fuites de données. Se déclenche avec \"sécurité agent\", \"agent security\", \"prompt injection\", \"jailbreak\", \"agent abuse\", \"guardrails\", \"safe agent\", \"sécuriser mon agent\", \"agent en production sécurisé\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "teyvat-guide",
+  "slug": "teyvat-guide",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/teyvat-guide/",
+  "download_url": "https://claudskills.com/skills/teyvat-guide/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "TeyvatGuide 项目 SKILL。处理 Vue+Tauri+TypeScript 项目开发，包括组件开发、API 集成、SQLite 操作或代码规范。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

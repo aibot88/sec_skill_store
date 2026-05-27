@@ -1,0 +1,18 @@
+{
+  "name": "btca-bknd-repo-learn",
+  "slug": "btca-bknd-repo-learn",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/btca-bknd-repo-learn/",
+  "download_url": "https://claudskills.com/skills/btca-bknd-repo-learn/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use btca (Better Context App) to efficiently query and learn from the bknd backend framework. Use when working with bknd for (1) Understanding data module and schema definitions, (2) Implementing authentication and authorization, (3) Setting up media file handling, (4) Configuring adapters (Node, Cloudflare, etc.), (5) Learning from bknd source code and examples, (6) Debugging bknd-specific issues",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "skill",
+  "slug": "girste-chihuaudit-docs-skill",
+  "source": "github",
+  "source_url": "https://github.com/girste/CHIHUAUDIT/blob/34f1f39956fbf77bff64df16d87445e87a8dd306/docs/skill/chihuaudit-skill.md",
+  "download_url": "https://github.com/girste/CHIHUAUDIT/blob/34f1f39956fbf77bff64df16d87445e87a8dd306/docs/skill/chihuaudit-skill.md",
+  "external_source_url": "https://github.com/girste/CHIHUAUDIT/blob/34f1f39956fbf77bff64df16d87445e87a8dd306/docs/skill/chihuaudit-skill.md",
+  "license": "",
+  "description": "🐕 Linux security audit tool",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "girste/CHIHUAUDIT",
+    "path": "docs/skill/chihuaudit-skill.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

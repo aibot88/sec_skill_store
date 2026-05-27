@@ -1,0 +1,18 @@
+{
+  "name": "sales-flippa",
+  "slug": "sales-flippa",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-flippa/",
+  "download_url": "https://claudskills.com/skills/sales-flippa/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Flippa marketplace help — the largest open marketplace since 2009 for buying/selling SaaS, ecommerce, content sites, apps, domains, and social accounts (39,805+ sold). Covers listing packages (Entry $29, Standard $59-$99, Premium $299-$599, Ultimate $499-$699), tiered success fees (10% under $50K down to 3% over $10M), add-ons (NDA $199, legal $199, M&A report $499, private listing $599), $999 brokered service for $100K+ listings, buyer Premium $49/mo and DD reports $1,500-$2,500, OAuth verification above $50K via Stripe/GA/Shopify/Amazon, and FlippaPay/Escrow.com escrow. Use when listing a business on Flippa, auditing a listing for fraud or inflated revenue, picking between Entry/Standard/Premium/Ultimate packages, budgeting the tiered success fee against Acquire.com or Empire Flippers, or preparing financials for the above-$50K auto-verification badge. Do NOT use for cross-marketplace valuation strategy (use /sales-side-project-valuation).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

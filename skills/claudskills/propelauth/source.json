@@ -1,0 +1,18 @@
+{
+  "name": "propelauth",
+  "slug": "propelauth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/propelauth/",
+  "download_url": "https://claudskills.com/skills/propelauth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "PropelAuth integration. Manage Users, Organizations. Use when the user wants to interact with PropelAuth data.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

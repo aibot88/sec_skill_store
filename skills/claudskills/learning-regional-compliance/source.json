@@ -1,0 +1,18 @@
+{
+  "name": "learning-regional-compliance",
+  "slug": "learning-regional-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/learning-regional-compliance/",
+  "download_url": "https://claudskills.com/skills/learning-regional-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate compliance with regional data privacy laws (GDPR, CCPA, PIPEDA), accessibility requirements, age-appropriate content regulations, and copyright laws by jurisdiction. Use when ensuring legal compliance across regions. Activates on \"GDPR\", \"data privacy\", \"regional compliance\", or \"legal requirements\".",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "prd-spec",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

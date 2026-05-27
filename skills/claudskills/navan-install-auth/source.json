@@ -1,0 +1,18 @@
+{
+  "name": "navan-install-auth",
+  "slug": "navan-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/navan-install-auth/",
+  "download_url": "https://claudskills.com/skills/navan-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Set up OAuth 2.0 authentication for the Navan REST API. Use when configuring a new Navan integration or rotating API credentials. Trigger with \"install navan\", \"setup navan auth\", \"navan credentials\", \"navan oauth\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:41+00:00"
+}

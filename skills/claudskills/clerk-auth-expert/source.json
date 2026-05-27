@@ -1,0 +1,18 @@
+{
+  "name": "clerk-auth-expert",
+  "slug": "clerk-auth-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk-auth-expert/",
+  "download_url": "https://claudskills.com/skills/clerk-auth-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert in Clerk authentication for React Native/Expo apps. Handles user authentication, session management, protected routes, and integration with backend services.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

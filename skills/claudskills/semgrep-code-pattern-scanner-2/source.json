@@ -1,0 +1,18 @@
+{
+  "name": "semgrep-code-pattern-scanner-2",
+  "slug": "semgrep-code-pattern-scanner-2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/semgrep-code-pattern-scanner-2/",
+  "download_url": "https://claudskills.com/skills/semgrep-code-pattern-scanner-2/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Runs Semgrep against a codebase using official or custom rule registries and outputs a grouped report of security anti-patterns, deprecated API usage, and policy violations. Supports 30+ languages and produces SARIF output.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

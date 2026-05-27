@@ -1,0 +1,18 @@
+{
+  "name": "dsa-trees-and-heaps",
+  "slug": "dsa-trees-and-heaps",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dsa-trees-and-heaps/",
+  "download_url": "https://claudskills.com/skills/dsa-trees-and-heaps/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Binary trees, BSTs, heaps, priority queues, tries, and tree traversal patterns with complexity analysis and practical trade-offs. Use when: teaching tree or heap data structures, analyzing priority queue implementations, reviewing BFS or DFS traversal code, optimizing sorted collection usage, explaining BST vs heap trade-offs, or modeling hierarchical data.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

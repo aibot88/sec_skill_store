@@ -1,0 +1,18 @@
+{
+  "name": "loom-critique",
+  "slug": "loom-critique",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/loom-critique/",
+  "download_url": "https://claudskills.com/skills/loom-critique/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run adversarial review. Use for PR/diff/code/security/UX/API/performance/design review, or when behavior, records, evidence, risks, or acceptance claims need pressure-testing before acceptance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:34+00:00"
+}

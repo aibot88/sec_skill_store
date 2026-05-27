@@ -1,0 +1,18 @@
+{
+  "name": "gh-actions-validator",
+  "slug": "gh-actions-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gh-actions-validator/",
+  "download_url": "https://claudskills.com/skills/gh-actions-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automatically validates and enforces GitHub Actions best practices for Vertex AI and Google Cloud deployments. Expert in Workload Identity Federation (WIF), Vertex AI Agent Engine deployment pipelines, security validation, and CI/CD automation. Triggers: \"create github actions\", \"deploy vertex ai\", \"setup wif\", \"validate github workflow\", \"gcp deployment pipeline\"",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:05+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "questionnaire",
+  "slug": "questionnaire",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/questionnaire/",
+  "download_url": "https://claudskills.com/skills/questionnaire/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Auto-fill security questionnaires (SIG Lite, CAIQ, Enterprise) using scan data and policy documents.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

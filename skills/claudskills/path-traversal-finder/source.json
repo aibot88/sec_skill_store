@@ -1,0 +1,18 @@
+{
+  "name": "path-traversal-finder",
+  "slug": "path-traversal-finder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/path-traversal-finder/",
+  "download_url": "https://claudskills.com/skills/path-traversal-finder/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Path Traversal Finder - Auto-activating skill for Security Fundamentals. Triggers on: path traversal finder, path traversal finder Part of the Security Fundamentals skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

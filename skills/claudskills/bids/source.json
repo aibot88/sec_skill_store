@@ -1,0 +1,18 @@
+{
+  "name": "bids",
+  "slug": "bids",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bids/",
+  "download_url": "https://claudskills.com/skills/bids/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when working with Brain Imaging Data Structure (BIDS) datasets: organizing neuroscience and biomedical data (MRI, EEG, MEG, iEEG, PET, microscopy, NIRS, motion capture, EMG, MR spectroscopy, behavioral), querying BIDS layouts, validating compliance, converting DICOM to BIDS, writing metadata sidecars, or creating BIDS derivatives.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "physics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

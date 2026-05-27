@@ -1,0 +1,18 @@
+{
+  "name": "linear-remote",
+  "slug": "linear-remote",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/linear-remote/",
+  "download_url": "https://claudskills.com/skills/linear-remote/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Read-first wrapper around the Linear GraphQL API. Single-call issue context (comments + relations + state), name-resolved teams/projects/states/labels, `issues create --from-markdown` turns a design doc into a Linear issue without hand-stitching flags. Use whenever the user wants to read, triage, or write Linear issues — creating an issue from a markdown doc, fetching issue context (including comments and relations) without chaining 5+ MCP calls, listing project work by state, or moving an issue and waiting for webhook-driven transitions. Wraps a static personal API key, so it sidesteps the MCP OAuth browser-auth wall entirely.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

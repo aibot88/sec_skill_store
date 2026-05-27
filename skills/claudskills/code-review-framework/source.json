@@ -1,0 +1,18 @@
+{
+  "name": "code-review-framework",
+  "slug": "code-review-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-review-framework/",
+  "download_url": "https://claudskills.com/skills/code-review-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automatically applies when reviewing code. Ensures structured review checklist covering correctness, security, performance, maintainability, testing, and documentation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

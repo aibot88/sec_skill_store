@@ -1,0 +1,18 @@
+{
+  "name": "github-authenticator",
+  "slug": "github-authenticator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-authenticator/",
+  "download_url": "https://claudskills.com/skills/github-authenticator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Verify and troubleshoot GitHub CLI authentication. Use when gh commands fail with auth errors or when setting up GitHub integration for the first time.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "maui-dependency-injection",
+  "slug": "maui-dependency-injection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/maui-dependency-injection/",
+  "download_url": "https://claudskills.com/skills/maui-dependency-injection/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Guidance for configuring dependency injection in .NET MAUI apps — service registration in MauiProgram.cs, lifetime selection (Singleton / Transient / Scoped), constructor injection, Shell navigation auto-resolution, platform-specific registrations, and testability patterns. USE FOR: \"dependency injection\", \"DI setup\", \"AddSingleton\", \"AddTransient\", \"AddScoped\", \"service registration\", \"constructor injection\", \"IServiceProvider\", \"MauiProgram DI\", \"register services\", \"BindingContext injection\". DO NOT USE FOR: data binding (use maui-data-binding), Shell route configuration (use maui-shell-navigation), unit-test mocking frameworks (use standard xUnit and NSubstitute patterns).",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

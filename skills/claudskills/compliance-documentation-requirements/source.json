@@ -1,0 +1,18 @@
+{
+  "name": "compliance-documentation-requirements",
+  "slug": "compliance-documentation-requirements",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/compliance-documentation-requirements/",
+  "download_url": "https://claudskills.com/skills/compliance-documentation-requirements/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when setting up or auditing how compliance documentation is structured, collected, and preserved for regulatory audit in Salesforce FSC — covering KYC data collection workflows, AML screening integration setup, audit trail configuration, and regulatory reporting readiness. Triggers: KYC form setup, AML integration configuration, compliance data collection, audit trail setup, regulatory documentation workflow, Field Audit Trail configuration, Setup Audit Trail, Event Monitoring, Discovery Framework, FSC KYC objects, Identity Document setup, Party Identity Verification. NOT for security implementation, NOT for designing AML/KYC architecture (use architect/aml-kyc-process-architecture), NOT for configuring who can access deal or client data (use admin/compliant-data-sharing-setup).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

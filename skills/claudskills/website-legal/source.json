@@ -1,0 +1,18 @@
+{
+  "name": "website-legal",
+  "slug": "website-legal",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/website-legal/",
+  "download_url": "https://claudskills.com/skills/website-legal/SKILL.md",
+  "external_source_url": "",
+  "license": "AGPL-3.0",
+  "description": "Generate legally required pages (Impressum, Datenschutzerklärung, Cookie-Hinweis, or the EU equivalents) for a cogni-website project based on the publishing jurisdiction (DE, AT, CH, EU). Captures the legal entity facts, fills jurisdiction-specific boilerplate templates, writes the markdown source files, and patches website-plan.json so the existing build pipeline renders them. Use this skill whenever the user mentions \"Impressum\", \"Datenschutz\", \"Datenschutzerklärung\", \"Cookie-Hinweis\", \"DSGVO\", \"GDPR\", \"Pflichtangaben\", \"rechtliche Seiten\", \"legal pages\", \"legal notice\", \"privacy policy\", \"compliance pages\", \"TMG\", \"ECG\", \"revDSG\", \"Rechtstexte erzeugen\", or wants to add legally required content for Germany, Austria, Switzerland, or the EU — even if they don't say \"skill\" or name a specific page. Requires website-project.json (from website-setup).",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "geekjourneyx-travel-guidebook-.",
+  "source": "github",
+  "source_url": "https://github.com/geekjourneyx/travel-guidebook/blob/e8ae3fe82eac448751b957cf84f42fb069de645c/SKILL.md",
+  "download_url": "https://github.com/geekjourneyx/travel-guidebook/blob/e8ae3fe82eac448751b957cf84f42fb069de645c/SKILL.md",
+  "external_source_url": "https://github.com/geekjourneyx/travel-guidebook/blob/e8ae3fe82eac448751b957cf84f42fb069de645c/SKILL.md",
+  "license": "",
+  "description": "AI agent skill that generates beautifully typeset travel guidebook PDFs —  from research to print, powered by parallel agents and Amap MCP.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "geekjourneyx/travel-guidebook",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:59+00:00"
+}

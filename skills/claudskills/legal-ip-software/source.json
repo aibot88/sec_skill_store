@@ -1,0 +1,18 @@
+{
+  "name": "legal-ip-software",
+  "slug": "legal-ip-software",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/legal-ip-software/",
+  "download_url": "https://claudskills.com/skills/legal-ip-software/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Proprietà intellettuale su software — diritto italiano ed europeo. MODO A interna: OSS compliance policy, SBOM process (SPDX/CycloneDX), IP register aziendale, invention assignment, clean room procedure, trade secret protection protocol (artt. 98-99 CPI + D.Lgs. 63/2018), AI usage policy. MODO B contrattuale: IP Assignment clausole complete, license agreement proprietaria, SaaS subscription con IP, OSS disclosure annex, AI-generated output ownership clause + training data clause, trademark license, trade secret in NDA, patent RAND/FRAND, CLA contributor. Copre LDA 633/1941 artt. 64-bis/ter/quater + art. 12-bis (dipendenti) + art. 110 (cessione), brevetti CII art. 45 CPI + EPO G 1/19 (10/3/2021), OSS SPDX/GPL/MIT/Apache2/BSL, AI-generated (Cass. 1107/2023 Biancheri + L. 132/2025 art. 25), TDM opt-out art. 70-septies LDA. Giurisprudenza chiave: Kadrey v Meta, Getty v Stability UK 4/11/2025, Bartz v Anthropic. Attivati su LDA, art. 64-bis, art. 12-bis, SIAE, CII brevetto, art. 45 CPI, SPDX, GPL, SBOM, trade secrets art. 98 CPI, Cass. 1107/2023, TDM opt-out, training data, AI-generated.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:30+00:00"
+}

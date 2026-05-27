@@ -1,0 +1,18 @@
+{
+  "name": "security-scanner",
+  "slug": "security-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-scanner/",
+  "download_url": "https://claudskills.com/skills/security-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run security scans including SAST, dependency scanning, and secret detection",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

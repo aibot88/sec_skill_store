@@ -1,0 +1,18 @@
+{
+  "name": "performing-red-team-phishing-with-gophish",
+  "slug": "performing-red-team-phishing-with-gophish",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-red-team-phishing-with-gophish/",
+  "download_url": "https://claudskills.com/skills/performing-red-team-phishing-with-gophish/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Automate GoPhish phishing simulation campaigns using the Python gophish library. Creates email templates with",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

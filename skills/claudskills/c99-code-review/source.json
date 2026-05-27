@@ -1,0 +1,18 @@
+{
+  "name": "c99-code-review",
+  "slug": "c99-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/c99-code-review/",
+  "download_url": "https://claudskills.com/skills/c99-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review C99 code for compliance with HBF's strict coding standards including compiler warnings, Linux kernel style, and licensing constraints. Use when reviewing or writing C code in this project.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

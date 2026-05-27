@@ -1,0 +1,19 @@
+{
+  "name": "AI",
+  "slug": "abelrguezr-hacktricks-skills-skills-ai-ai",
+  "source": "github",
+  "source_url": "https://github.com/abelrguezr/hacktricks-skills/blob/b856f838a36c16deb457413ea9d3ab7afbd486f6/skills/AI/AI/SKILL.MD",
+  "download_url": "https://github.com/abelrguezr/hacktricks-skills/blob/b856f838a36c16deb457413ea9d3ab7afbd486f6/skills/AI/AI/SKILL.MD",
+  "external_source_url": "https://github.com/abelrguezr/hacktricks-skills/blob/b856f838a36c16deb457413ea9d3ab7afbd486f6/skills/AI/AI/SKILL.MD",
+  "license": "",
+  "description": "A collection of reusable red teaming agent skills derived from Hacktricks created with Qwen3.5-27B-FP8",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "abelrguezr/hacktricks-skills",
+    "path": "skills/AI/AI/SKILL.MD",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "reopt-cli",
+  "slug": "reopt-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/reopt-cli/",
+  "download_url": "https://claudskills.com/skills/reopt-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Baseline guidance for the reopt CLI — authentication, login, global flags, security rules, and exit codes. Use before other reopt CLI skills or whenever a task involves `reopt login`, `reopt status`, brandapp credentials, or CI automation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

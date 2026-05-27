@@ -1,0 +1,18 @@
+{
+  "name": "when-reviewing-code-comprehensively-use-code-review-assistant",
+  "slug": "when-reviewing-code-comprehensively-use-code-review-assistant",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/when-reviewing-code-comprehensively-use-code-review-assistant/",
+  "download_url": "https://claudskills.com/skills/when-reviewing-code-comprehensively-use-code-review-assistant/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive PR review with multi-agent swarm specialization for security, performance, style, tests, and documentation",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

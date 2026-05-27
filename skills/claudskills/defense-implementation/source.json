@@ -1,0 +1,18 @@
+{
+  "name": "defense-implementation",
+  "slug": "defense-implementation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/defense-implementation/",
+  "download_url": "https://claudskills.com/skills/defense-implementation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement mitigations, create input filters, design output guards, and build defensive prompting for LLM security",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "webflow-install-auth",
+  "slug": "webflow-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/webflow-install-auth/",
+  "download_url": "https://claudskills.com/skills/webflow-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install the Webflow JS SDK (webflow-api) and configure OAuth 2.0 or API token authentication. Use when setting up a new Webflow integration, configuring access tokens, or initializing the WebflowClient in your project. Trigger with phrases like \"install webflow\", \"setup webflow\", \"webflow auth\", \"configure webflow API token\", \"webflow OAuth\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

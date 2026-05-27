@@ -1,0 +1,18 @@
+{
+  "name": "artifact-orchestration",
+  "slug": "artifact-orchestration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/artifact-orchestration/",
+  "download_url": "https://claudskills.com/skills/artifact-orchestration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Orchestrate multi-agent artifact generation with the Primary Author → Parallel Reviewers → Synthesizer → Archive pattern. Use when relevant to the task.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

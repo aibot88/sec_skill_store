@@ -1,0 +1,18 @@
+{
+  "name": "agentic-nerd",
+  "slug": "agentic-nerd",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentic-nerd/",
+  "download_url": "https://claudskills.com/skills/agentic-nerd/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Running companion for a software engineer doing Agents 102 Agentic Engineering 101 alone — no in-person trainer. Invoke on first session to orient; invoke later sessions with \"continue\" to pick up where they left off. Runs as the Teacher Claude alongside a separate Builder Claude in the student's real repo where exercises execute. Manages progress, the 4 Cs cadence per module, and the module-by-module push-backs the in-room Nerd would deliver. Do NOT invoke for curriculum authoring — that's `/content-creation`.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

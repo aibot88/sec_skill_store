@@ -1,0 +1,18 @@
+{
+  "name": "aws-inspector-expert",
+  "slug": "aws-inspector-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-inspector-expert/",
+  "download_url": "https://claudskills.com/skills/aws-inspector-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expertise in evaluating AWS accounts for compliance — what checks are meaningful, which SCF controls they map to, and how to interpret aws CLI output.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

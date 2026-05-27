@@ -1,0 +1,18 @@
+{
+  "name": "Mail",
+  "slug": "mail",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mail/",
+  "download_url": "https://claudskills.com/skills/mail/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Execute email operations with platform-specific optimizations and security protocols.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

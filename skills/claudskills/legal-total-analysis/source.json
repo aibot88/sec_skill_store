@@ -1,0 +1,18 @@
+{
+  "name": "legal-total-analysis",
+  "slug": "legal-total-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/legal-total-analysis/",
+  "download_url": "https://claudskills.com/skills/legal-total-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Lean meta-skill pre-flight audit DÁVKY právního podání před F1X.4 capsule build a ISDS odesláním. Generuje GO/NO-GO verdict ze 3 unique kroků (DON'T grep, Cross-check, Verdict) + reuse existing optimize/audit výstupů 91-99 + audit_report. Trigger: \"total analysis\", \"total analyza\", \"pre-flight\", \"GO/NO-GO check\", \"before capsule\", \"before ISDS\", \"F13 audit\", \"audit dávky\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:30+00:00"
+}

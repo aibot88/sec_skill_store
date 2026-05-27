@@ -1,0 +1,18 @@
+{
+  "name": "auditing-seo",
+  "slug": "auditing-seo",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auditing-seo/",
+  "download_url": "https://claudskills.com/skills/auditing-seo/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyzes a single web page URL for SEO quality, identifying issues with title tags, meta descriptions, heading structure, and content. Use when the user says \"audit this page\", \"check SEO for\", or \"analyze this URL for SEO\". Outputs a structured audit report with prioritized fixes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

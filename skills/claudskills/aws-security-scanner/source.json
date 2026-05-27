@@ -1,0 +1,18 @@
+{
+  "name": "aws-security-scanner",
+  "slug": "aws-security-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-security-scanner/",
+  "download_url": "https://claudskills.com/skills/aws-security-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AWS security configuration scanning and hardening using Prowler, Security Hub, and AWS Config",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

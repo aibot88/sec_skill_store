@@ -1,0 +1,18 @@
+{
+  "name": "triaging-security-incident-with-ir-playbook",
+  "slug": "triaging-security-incident-with-ir-playbook",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/triaging-security-incident-with-ir-playbook/",
+  "download_url": "https://claudskills.com/skills/triaging-security-incident-with-ir-playbook/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Classify and prioritize security incidents using structured IR playbooks to determine severity, assign response",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

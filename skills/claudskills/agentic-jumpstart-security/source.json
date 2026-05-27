@@ -1,0 +1,18 @@
+{
+  "name": "agentic-jumpstart-security",
+  "slug": "agentic-jumpstart-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentic-jumpstart-security/",
+  "download_url": "https://claudskills.com/skills/agentic-jumpstart-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security best practices and guidelines for the Jarvy CLI codebase - a cross-platform development environment provisioning tool that executes system commands with elevated privileges",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

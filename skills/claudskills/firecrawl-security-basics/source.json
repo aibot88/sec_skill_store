@@ -1,0 +1,18 @@
+{
+  "name": "firecrawl-security-basics",
+  "slug": "firecrawl-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firecrawl-security-basics/",
+  "download_url": "https://claudskills.com/skills/firecrawl-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Firecrawl security best practices for API key management and webhook verification. Use when securing API keys, implementing webhook signature validation, or auditing Firecrawl security configuration. Trigger with phrases like \"firecrawl security\", \"firecrawl secrets\", \"secure firecrawl\", \"firecrawl API key security\", \"firecrawl webhook signature\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

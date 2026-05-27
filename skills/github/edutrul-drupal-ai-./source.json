@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "edutrul-drupal-ai-.",
+  "source": "github",
+  "source_url": "https://github.com/edutrul/drupal-ai/blob/9e3a55c6c155ca0d15a7eb728b0b8afd6c88ea90/SKILL.md",
+  "download_url": "https://github.com/edutrul/drupal-ai/blob/9e3a55c6c155ca0d15a7eb728b0b8afd6c88ea90/SKILL.md",
+  "external_source_url": "https://github.com/edutrul/drupal-ai/blob/9e3a55c6c155ca0d15a7eb728b0b8afd6c88ea90/SKILL.md",
+  "license": "",
+  "description": "Drupal AI skills, agents, rules, hooks, commands for claude, codex, etc.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "edutrul/drupal-ai",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

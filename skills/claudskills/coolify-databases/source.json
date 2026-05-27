@@ -1,0 +1,18 @@
+{
+  "name": "coolify-databases",
+  "slug": "coolify-databases",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/coolify-databases/",
+  "download_url": "https://claudskills.com/skills/coolify-databases/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when provisioning databases in Coolify, configuring database backups, restoring database backups, setting up S3-compatible backup storage, managing database SSL/TLS, connecting external clients to Coolify databases, rotating database credentials, running migrations against Coolify databases, tuning database resource limits, or choosing between standalone databases and service databases. Trigger when: \"Coolify database\", \"create database in Coolify\", \"Coolify PostgreSQL\", \"Coolify MySQL\", \"Coolify Redis\", \"database backup Coolify\", \"restore database Coolify\", \"S3 backup Coolify\", \"connect to Coolify database\", \"database migration Coolify\", \"Coolify MongoDB\", \"Coolify MariaDB\", \"Coolify ClickHouse\", \"database credentials\", \"database SSL Coolify\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

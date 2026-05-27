@@ -1,0 +1,18 @@
+{
+  "name": "jenkins-pipeline-lint-agent",
+  "slug": "jenkins-pipeline-lint-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jenkins-pipeline-lint-agent/",
+  "download_url": "https://claudskills.com/skills/jenkins-pipeline-lint-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validates Jenkinsfile declarative and scripted pipelines using the Jenkins Pipeline Linter API endpoint. Checks for deprecated step usage, security anti-patterns, and Groovy sandbox violations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

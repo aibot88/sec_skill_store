@@ -1,0 +1,18 @@
+{
+  "name": "attack-methods-lookup",
+  "slug": "attack-methods-lookup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/attack-methods-lookup/",
+  "download_url": "https://claudskills.com/skills/attack-methods-lookup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Looks up OWASP Top 10 attack methods, CWE references, and form-specific vulnerability patterns with a bounty hunter mindset. Returns attack vectors, payloads, and payout estimates. Use when user asks about \"XSS\", \"SQL injection\", \"CSRF\", \"OWASP\", \"CWE\", \"IDOR\", \"injection\", \"bypass\", \"vulnerability\", \"exploit\", \"SQLインジェクション\", \"クロスサイトスクリプティング\", \"脆弱性\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

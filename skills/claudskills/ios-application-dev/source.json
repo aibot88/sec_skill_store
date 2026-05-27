@@ -1,0 +1,18 @@
+{
+  "name": "ios-application-dev",
+  "slug": "ios-application-dev",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ios-application-dev/",
+  "download_url": "https://claudskills.com/skills/ios-application-dev/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "iOS application development guide covering UIKit, SnapKit, and SwiftUI. Includes touch targets, safe areas, navigation patterns, Dynamic Type, Dark Mode, accessibility, collection views, common UI components, and SwiftUI design guidelines. For detailed references on specific topics, see the reference files. Use when: developing iOS apps, implementing UI, reviewing iOS code, working with UIKit/SnapKit/SwiftUI layouts, building iPhone interfaces, Swift mobile development, Apple HIG compliance, iOS accessibility implementation.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

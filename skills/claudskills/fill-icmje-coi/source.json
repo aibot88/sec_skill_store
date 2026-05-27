@@ -1,0 +1,18 @@
+{
+  "name": "fill-icmje-coi",
+  "slug": "fill-icmje-coi",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fill-icmje-coi/",
+  "download_url": "https://claudskills.com/skills/fill-icmje-coi/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Batch-generate per-author ICMJE Conflict of Interest Disclosure Forms (`coi_disclosure.docx`) for manuscript submission. Pre-fills all 13 disclosure items as \"☒ None\" + final certification ☒ using a synthetic seed template shipped with the skill, then clones the seed per author with Date, Name, and Manuscript Title replaced. Designed for the common case of hospital-based observational research where no author has real financial conflicts; the circulated forms become \"reply 변경 없음 + sign\" for most authors and only flag those who need to amend.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

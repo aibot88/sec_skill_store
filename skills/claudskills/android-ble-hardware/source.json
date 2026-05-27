@@ -1,0 +1,18 @@
+{
+  "name": "android-ble-hardware",
+  "slug": "android-ble-hardware",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/android-ble-hardware/",
+  "download_url": "https://claudskills.com/skills/android-ble-hardware/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Android BLE hardware integration using the Nordic Semiconductor BLE library (no.nordicsemi.android:ble). Covers UART/GATT service discovery, callbackFlow-based device scanning, connection lifecycle management, multi-device type detection, automatic reconnection, and byte-level protocol parsing. Use this when: integrating a BLE peripheral, implementing a GATT profile, scanning for devices by UUID or name pattern, handling BLE permissions on Android 12+, parsing binary telemetry packets, building a BleManager subclass, handling disconnect/reconnect loops, integrating GPS loggers, sensor hardware, OBD-II adapters, or any custom BLE peripheral.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

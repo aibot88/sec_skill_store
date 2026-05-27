@@ -1,0 +1,18 @@
+{
+  "name": "performing-thick-client-application-penetration-test",
+  "slug": "performing-thick-client-application-penetration-test",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-thick-client-application-penetration-test/",
+  "download_url": "https://claudskills.com/skills/performing-thick-client-application-penetration-test/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Conduct a thick client application penetration test to identify insecure local storage, hardcoded credentials,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

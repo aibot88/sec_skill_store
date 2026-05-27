@@ -1,0 +1,18 @@
+{
+  "name": "solana-program-audit",
+  "slug": "program-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/program-audit/",
+  "download_url": "https://claudskills.com/skills/program-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when the user wants to audit a Solana or Anchor program for security vulnerabilities — account validation, PDA safety, arithmetic, CPI risks, reinit attacks, and authority confusion. Includes a checklist and the most common bug classes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

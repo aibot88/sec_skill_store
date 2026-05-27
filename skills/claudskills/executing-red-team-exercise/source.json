@@ -1,0 +1,18 @@
+{
+  "name": "executing-red-team-exercise",
+  "slug": "executing-red-team-exercise",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/executing-red-team-exercise/",
+  "download_url": "https://claudskills.com/skills/executing-red-team-exercise/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Executes comprehensive red team exercises that simulate real-world adversary operations against an organization''s",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

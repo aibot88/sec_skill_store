@@ -1,0 +1,18 @@
+{
+  "name": "x-ray",
+  "slug": "x-ray",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/x-ray/",
+  "download_url": "https://claudskills.com/skills/x-ray/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generates an x-ray.md pre-audit report covering overview, enhanced threat model (protocol-type profiling, git-weighted attack surfaces, temporal risk analysis, composability dependency mapping), invariants, integrations, docs quality, test analysis, and developer/git history. Triggers on 'x-ray', 'audit readiness', 'readiness report', 'pre-audit report', 'prep this protocol', 'protocol prep', 'summarize this protocol'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "accessible-motion",
+  "slug": "accessible-motion",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/accessible-motion/",
+  "download_url": "https://claudskills.com/skills/accessible-motion/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when implementing reduced motion alternatives, vestibular-safe animations, WCAG compliance, or designing for users with motion sensitivity.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

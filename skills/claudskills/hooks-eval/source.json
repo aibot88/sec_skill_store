@@ -1,0 +1,18 @@
+{
+  "name": "hooks-eval",
+  "slug": "hooks-eval",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hooks-eval/",
+  "download_url": "https://claudskills.com/skills/hooks-eval/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Evaluate hook security, performance, and SDK compliance. Use for audits.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agentv-dev",
+  "slug": "agentv-dev",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentv-dev/",
+  "download_url": "https://claudskills.com/skills/agentv-dev/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "AgentV CLI skills for evaluating, optimizing, and governing AI agents. Triggers: run evals, benchmark agents, write evals, review evals, analyze traces, optimize prompts, governance linting. Covers: eval running, eval writing, eval review, trace analysis, description optimization, autoresearch, and governance compliance.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "math-stats",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

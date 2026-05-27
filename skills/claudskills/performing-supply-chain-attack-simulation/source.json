@@ -1,0 +1,18 @@
+{
+  "name": "performing-supply-chain-attack-simulation",
+  "slug": "performing-supply-chain-attack-simulation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-supply-chain-attack-simulation/",
+  "download_url": "https://claudskills.com/skills/performing-supply-chain-attack-simulation/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Simulate and detect software supply chain attacks including typosquatting detection via Levenshtein distance,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

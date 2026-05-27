@@ -1,0 +1,18 @@
+{
+  "name": "performing-sca-dependency-scanning-with-snyk",
+  "slug": "performing-sca-dependency-scanning-with-snyk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-sca-dependency-scanning-with-snyk/",
+  "download_url": "https://claudskills.com/skills/performing-sca-dependency-scanning-with-snyk/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill covers implementing Software Composition Analysis (SCA) using Snyk to detect vulnerable open-source",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

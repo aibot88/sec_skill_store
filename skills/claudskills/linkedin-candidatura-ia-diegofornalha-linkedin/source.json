@@ -1,0 +1,18 @@
+{
+  "name": "linkedin-candidatura-ia",
+  "slug": "linkedin-candidatura-ia-diegofornalha-linkedin",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/linkedin-candidatura-ia-diegofornalha-linkedin/",
+  "download_url": "https://claudskills.com/skills/linkedin-candidatura-ia-diegofornalha-linkedin/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Esta skill deve ser usada quando o usuário solicitar candidaturas automáticas em vagas do LinkedIn relacionadas a Inteligência Artificial (IA) no Brasil, priorizando vagas com cadastro simplificado (Easy Apply). A skill filtra vagas por palavras-chave de IA, localização no Brasil, nível de senioridade (se especificado) e tipo de candidatura simplificada.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

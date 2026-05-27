@@ -1,0 +1,18 @@
+{
+  "name": "automation-build-flow",
+  "slug": "automation-build-flow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/automation-build-flow/",
+  "download_url": "https://claudskills.com/skills/automation-build-flow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Workflow builder for Power Automate, n8n, Make, Zapier and other platforms. Generates complete, production-ready workflow JSON from implementation plans or requirements. Uses flow-builder sub-agent to create valid platform-specific JSON with all triggers, actions, error handling, and configurations. Triggers when user has a plan/requirements and wants to generate workflow JSON, or says \"build this workflow\", \"create the flow\", \"generate JSON\". Output ready for import into target platform.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

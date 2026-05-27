@@ -1,0 +1,18 @@
+{
+  "name": "when-reviewing-pull-request-orchestrate-comprehensive-code-revie",
+  "slug": "when-reviewing-pull-request-orchestrate-comprehensive-code-revie",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/when-reviewing-pull-request-orchestrate-comprehensive-code-revie/",
+  "download_url": "https://claudskills.com/skills/when-reviewing-pull-request-orchestrate-comprehensive-code-revie/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when conducting comprehensive code review for pull requests across multiple quality dimensions. Orchestrates 12-15 specialized reviewer agents across 4 phases using star topology coordination. Covers automated checks, parallel specialized reviews (quality, security, performance, architecture, documentation), integration analysis, and final merge recommendation in a 4-hour workflow.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "batch-optimization",
+  "slug": "batch-optimization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/batch-optimization/",
+  "download_url": "https://claudskills.com/skills/batch-optimization/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze pharmaceutical batch production records for yield optimization, process parameter tuning, deviation trending, and cycle time reduction under cGMP compliance. USE THIS SKILL WHEN: user mentions batch records, pharma manufacturing, yield optimization, cGMP, process parameters, deviation analysis, batch production, pharmaceutical cycle time, process capability (Cpk), or drug manufacturing quality. Trigger phrases: \"optimize batch yield\", \"analyze batch records\", \"pharma manufacturing analysis\", \"process parameter tuning\", \"deviation trending\", \"cycle time reduction\", \"cGMP compliance review\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:03+00:00"
+}

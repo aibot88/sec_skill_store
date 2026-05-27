@@ -1,0 +1,18 @@
+{
+  "name": "general-best-practices",
+  "slug": "general-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/general-best-practices/",
+  "download_url": "https://claudskills.com/skills/general-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "General software development best practices covering code quality, testing, security, performance, and maintainability across technology stacks",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:05+00:00"
+}

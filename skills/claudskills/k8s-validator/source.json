@@ -1,0 +1,18 @@
+{
+  "name": "k8s-validator",
+  "slug": "k8s-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/k8s-validator/",
+  "download_url": "https://claudskills.com/skills/k8s-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate Kubernetes manifests for security, best practices, and resource limits",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

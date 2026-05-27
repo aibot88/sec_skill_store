@@ -1,0 +1,18 @@
+{
+  "name": "database-backup-restore",
+  "slug": "database-backup-restore",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/database-backup-restore/",
+  "download_url": "https://claudskills.com/skills/database-backup-restore/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement backup and restore strategies for disaster recovery. Use when creating backup plans, testing restore procedures, or setting up automated backups.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-braid-reasoning",
+  "slug": "agentprivacy-braid-reasoning",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-braid-reasoning/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-braid-reasoning/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Bounded reasoning architecture for privacy-preserving AI agents using BRAID Mermaid graphs. Activates when discussing Generator/Solver split architecture, Performance-Per-Dollar (PPD) inference economics, BRAID Parity Effect (small model + structure ≥ large model), Mermaid reasoning graph construction, node atomicity, procedural scaffolding vs answer leakage, terminal verification loops, Numerical Masking Protocol, cached reasoning graph libraries, split- architecture deployment, or any task where reasoning structure should be decoupled from reasoning execution for cost efficiency and privacy preservation. Use whenever designing how dual agents reason, not just what they reason about.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

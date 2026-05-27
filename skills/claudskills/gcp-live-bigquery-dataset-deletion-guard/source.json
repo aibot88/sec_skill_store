@@ -1,0 +1,18 @@
+{
+  "name": "gcp-live-bigquery-dataset-deletion-guard",
+  "slug": "gcp-live-bigquery-dataset-deletion-guard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-live-bigquery-dataset-deletion-guard/",
+  "download_url": "https://claudskills.com/skills/gcp-live-bigquery-dataset-deletion-guard/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Gate BigQuery dataset deletion, table truncation, and authorized view changes against a full downstream dependency audit and export confirmation. Dataset deletion is immediate and permanent with no recycle bin — this guard ensures no dataset is deleted without enumerating all tables, scheduled queries, Data Transfer jobs, Looker connections, and Dataflow pipelines that depend on it.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "data-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

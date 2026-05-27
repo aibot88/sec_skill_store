@@ -1,0 +1,18 @@
+{
+  "name": "eks-security",
+  "slug": "eks-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eks-security/",
+  "download_url": "https://claudskills.com/skills/eks-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "EKS security hardening and best practices. Use when configuring cluster security, implementing pod security, managing secrets, preparing for compliance audits, hardening infrastructure, scanning containers, or responding to security incidents.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

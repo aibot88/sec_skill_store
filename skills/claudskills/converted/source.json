@@ -1,0 +1,18 @@
+{
+  "name": "api-crud-generator",
+  "slug": "converted",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/converted/",
+  "download_url": "https://claudskills.com/skills/converted/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate production-ready CRUD REST API endpoints with validation, auth, error handling, pagination, tests, and OpenAPI docs. Auto-triggers when asked to create API endpoints, REST resources, or backend CRUD operations.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

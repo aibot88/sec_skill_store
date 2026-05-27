@@ -1,0 +1,18 @@
+{
+  "name": "create-node-api",
+  "slug": "create-node-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-node-api/",
+  "download_url": "https://claudskills.com/skills/create-node-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scaffold a production-ready Node.js API — choose Express TypeScript or NestJS, then select database, auth, and extras.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

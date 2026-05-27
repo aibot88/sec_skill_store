@@ -1,0 +1,18 @@
+{
+  "name": "claude-session-logs",
+  "slug": "claude-session-logs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/claude-session-logs/",
+  "download_url": "https://claudskills.com/skills/claude-session-logs/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Access Claude Code session logs (JSONL transcripts and SQLite FTS index) for cross-session context, handoff, and memory retrieval. Use when: resuming work from a previous session, finding past decisions, referencing prior implementations, or building session continuity. Skip when: data is in PIL memory (check gfv_memory.db first).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

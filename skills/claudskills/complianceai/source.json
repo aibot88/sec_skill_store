@@ -1,0 +1,18 @@
+{
+  "name": "complianceai",
+  "slug": "complianceai",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/complianceai/",
+  "download_url": "https://claudskills.com/skills/complianceai/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Compliance.ai integration. Manage data, records, and automate workflows. Use when the user wants to interact with Compliance.ai data.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

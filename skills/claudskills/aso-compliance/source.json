@@ -1,0 +1,18 @@
+{
+  "name": "aso-compliance",
+  "slug": "aso-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aso-compliance/",
+  "download_url": "https://claudskills.com/skills/aso-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Store policy compliance checker for iOS App Store and Google Play. Validates metadata against Apple App Store Review Guidelines and Google Play Developer Program Policies. Catches violations that would cause rejection. Also validates ASO recommendations from other agents. Triggers on: \"compliance\", \"policy check\", \"guidelines\", \"store policies\", \"review guidelines\", \"will this get rejected\", \"is this allowed\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

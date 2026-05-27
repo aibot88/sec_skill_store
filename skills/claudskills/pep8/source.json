@@ -1,0 +1,18 @@
+{
+  "name": "pep8",
+  "slug": "pep8",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pep8/",
+  "download_url": "https://claudskills.com/skills/pep8/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Enforces modern Python 3.11+ coding standards, PEP 8 compliance, and type-hinting best practices automatically. This skill should be used when writing, reviewing, or refactoring Python code to ensure consistency with PEP 8, proper type hints, Google-style docstrings, and modern Python idioms.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:51+00:00"
+}

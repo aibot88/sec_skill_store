@@ -1,0 +1,18 @@
+{
+  "name": "fintech-engineer",
+  "slug": "fintech-engineer-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fintech-engineer-skill/",
+  "download_url": "https://claudskills.com/skills/fintech-engineer-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert in financial technology systems, double-entry ledger design, high-precision math, and regulatory compliance. Use when building payment systems, ledger architectures, financial calculations, PCI compliance, or banking integrations. Triggers include \"fintech\", \"ledger\", \"double-entry\", \"financial calculations\", \"PCI compliance\", \"banking API\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

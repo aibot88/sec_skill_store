@@ -1,0 +1,18 @@
+{
+  "name": "formula-authoring",
+  "slug": "formula-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/formula-authoring/",
+  "download_url": "https://claudskills.com/skills/formula-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Author TOML-based Formula workflow templates that become Protomolecules and active Molecules in Gas Town's durable workflow system.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "biology-medicine",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

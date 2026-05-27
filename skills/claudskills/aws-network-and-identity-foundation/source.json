@@ -1,0 +1,18 @@
+{
+  "name": "aws-network-and-identity-foundation",
+  "slug": "aws-network-and-identity-foundation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-network-and-identity-foundation/",
+  "download_url": "https://claudskills.com/skills/aws-network-and-identity-foundation/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when designing, reviewing, or hardening the in-account AWS network and identity foundation after account topology exists and security and infrastructure-platform have decided trust zones and the identity model. Produces VPC topology (per-env, per-tier, multi-AZ subnets), inter-account connectivity (Transit Gateway / peering / PrivateLink), IAM Identity Center federation, IAM role-assumption patterns and permission boundaries, KMS CMK strategy, Secrets Manager with rotation, and Route 53 zone strategy. Do not use for org/account/SCP topology, workload compute selection, observability/cost wiring, or DR/multi-region; use the other aws archetype skills. Emits IaC-ready definitions, not Terraform module/state mechanics.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

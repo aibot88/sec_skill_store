@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-edge-value",
+  "slug": "agentprivacy-edge-value",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-edge-value/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-edge-value/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Edge value and trajectory dynamics for sovereignty transitions in 0xagentprivacy. Activates when discussing T(π) trajectory terms, sovereignty lattice transitions (64-vertex {0,1}⁶), Yoneda lemma applications, vertical vs lateral sovereignty movement, or edge weight functions. Use for sovereignty path optimisation and transition analysis.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

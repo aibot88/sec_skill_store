@@ -1,0 +1,18 @@
+{
+  "name": "postgres-indexing-and-query-optimization",
+  "slug": "postgres-indexing-and-query-optimization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/postgres-indexing-and-query-optimization/",
+  "download_url": "https://claudskills.com/skills/postgres-indexing-and-query-optimization/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when reviewing or remediating PostgreSQL query and index performance against a stated performance budget. Produces an index audit (B-tree, hash, GIN, GiST, BRIN, partial, expression, covering), EXPLAIN (ANALYZE, BUFFERS)-driven query review, pg_stat_statements hot-query identification, partitioning validation (range/list/hash), N+1 and join-order remediation, and autovacuum and bloat posture. Do not use for initial schema design, new-table modeling, migration authoring, replication topology, or backup strategy; use postgres-schema-and-migration, postgres-replication-and-ha-readiness, or postgres-backup-and-operational-readiness instead.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:56+00:00"
+}

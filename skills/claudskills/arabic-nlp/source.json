@@ -1,0 +1,18 @@
+{
+  "name": "arabic-nlp",
+  "slug": "arabic-nlp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/arabic-nlp/",
+  "download_url": "https://claudskills.com/skills/arabic-nlp/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when selecting or applying Arabic NLP, tokenization, stemming, diacritization, morphological analysis, stopword, OCR, speech, or language-model tools including CAMeL Tools, Farasa, PyArabic, Tashaphyne, Qalsadi, and Arabic corpora.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

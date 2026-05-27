@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-ring-algebra",
+  "slug": "agentprivacy-ring-algebra",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-ring-algebra/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-ring-algebra/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "UOR ring algebra foundation for 0xagentprivacy. Activates when discussing Z/(2^6)Z structure, the five operations (neg, bnot, xor, and, or), the critical identity neg(bnot(x))=succ(x), stratum as popcount, Pascal's row distribution, or why the lattice has no dead ends.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

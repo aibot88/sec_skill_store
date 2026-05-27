@@ -1,0 +1,18 @@
+{
+  "name": "spring-framework",
+  "slug": "spring-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spring-framework/",
+  "download_url": "https://claudskills.com/skills/spring-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guidance for Spring Framework and Spring Boot development with Java best practices, dependency injection, and RESTful API design",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

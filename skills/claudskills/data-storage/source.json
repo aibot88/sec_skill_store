@@ -1,0 +1,18 @@
+{
+  "name": "data-storage",
+  "slug": "data-storage",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/data-storage/",
+  "download_url": "https://claudskills.com/skills/data-storage/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement client-side data storage with localStorage, IndexedDB, or SQLite WASM. Use when storing user preferences, caching data, or building offline-first applications.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

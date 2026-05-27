@@ -1,0 +1,18 @@
+{
+  "name": "osint-investigator",
+  "slug": "osint-claude",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/osint-claude/",
+  "download_url": "https://claudskills.com/skills/osint-claude/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "OSINT Investigator v2.1 — comprehensive open-source intelligence skill. Triggers on: OSINT, recon, digital footprint, dorking, social media investigation, username lookups, email tracing, domain recon, entity mapping, OPSEC, image verification, metadata analysis, threat intel, people search, background research. Slash commands: /dork, /recon, /pivot, /entity, /timeline, /analyze-metadata, /verif-photo, /sock-opsec, /report, /simple-report, /full, /track, /link, /entities, /confidence, /export-entities, /import-entities, /compare, /timeline-entity, /find-path, /visualize, /stats, /export-graph, /risk-score, /anomaly, /pattern, /threat-model, /sanitize, /export-risk, /wizard, /template, /simple-mode, /progress, /save-checkpoint, /load-checkpoint, /qa-check, /coverage, /gaps, /verify-sources. Professional playbooks: journalist verification, HR background checks, cyber threat intel, private investigation. Integrations: Maltego, Obsidian, Notion.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

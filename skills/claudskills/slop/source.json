@@ -1,0 +1,18 @@
+{
+  "name": "slop",
+  "slug": "slop",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/slop/",
+  "download_url": "https://claudskills.com/skills/slop/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect AI-generated design slop with concrete, locatable findings. Use when the user wants to check code for AI authorship tells, design inconsistency, or generic UI patterns. Each finding includes file, line, column, the offending snippet, why it's a problem, and a concrete fix. 12 rules covering shadow/radius variant explosion, AI-default gradients, lorem ipsum, inline styles, off-grid spacing (when a manifest exists), off-palette colors (when a manifest exists), tailwind class bloat, missing alt text, console.log leftover, emoji in headings, and transition-all defaults. Run as `node ~/.claude/skills/dragoon/skills/slop/scripts/slop.js [path]`.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

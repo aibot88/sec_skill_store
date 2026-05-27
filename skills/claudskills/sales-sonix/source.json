@@ -1,0 +1,18 @@
+{
+  "name": "sales-sonix",
+  "slug": "sales-sonix",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-sonix/",
+  "download_url": "https://claudskills.com/skills/sales-sonix/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Sonix platform help — AI transcription, translation, and subtitling in 53+ languages with SOC 2 / HIPAA compliance. Use when uploading audio or video files for batch transcription, translating transcripts into multiple languages, generating SRT/VTT subtitles or burning captions into video, integrating Sonix REST API into a transcript pipeline, troubleshooting speaker diarization errors, comparing Sonix vs Otter vs Trint vs Rev for media transcription, choosing between Standard pay-as-you-go or Premium subscription, or debugging upload failures and slow processing. Do NOT use for live meeting recording or real-time transcription (Sonix is upload-only — use /sales-note-taker for live meeting tools).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

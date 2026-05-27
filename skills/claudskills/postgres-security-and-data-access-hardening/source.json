@@ -1,0 +1,18 @@
+{
+  "name": "postgres-security-and-data-access-hardening",
+  "slug": "postgres-security-and-data-access-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/postgres-security-and-data-access-hardening/",
+  "download_url": "https://claudskills.com/skills/postgres-security-and-data-access-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when designing, reviewing, or hardening PostgreSQL access control and data protection against the security architecture and data classification. Produces TLS and connection-security configuration, least-privilege role and grant model, row-level security policies for tenant isolation, column-level grants and encryption for PII, pgcrypto and at-rest/TDE posture, pgaudit configuration, credential and secret rotation posture, and network-exposure review. Do not use for schema design, query optimization, replication topology, or backup and restore; use postgres-schema-and-migration, postgres-indexing-and-query-optimization, postgres-replication-and-ha-readiness, or postgres-backup-and-operational-readiness instead.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "core-data",
+  "slug": "core-data",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/core-data/",
+  "download_url": "https://claudskills.com/skills/core-data/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build, review, or improve Core Data persistence in apps that have not adopted SwiftData. Use when working with NSManagedObject subclasses, NSFetchedResultsController for list-driven UI, NSBatchInsertRequest / NSBatchDeleteRequest / NSBatchUpdateRequest for bulk operations, NSPersistentHistoryChangeRequest for persistent history tracking and multi-target sync, NSStagedMigrationManager for staged schema migrations (iOS 17+), NSCompositeAttributeDescription for composite attributes (iOS 17+), or when integrating Core Data threading with Swift Concurrency. For Core Data + SwiftData coexistence or migration, see the swiftdata skill instead.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

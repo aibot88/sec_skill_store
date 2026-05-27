@@ -1,0 +1,18 @@
+{
+  "name": "commodity-pricing",
+  "slug": "commodity-pricing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/commodity-pricing/",
+  "download_url": "https://claudskills.com/skills/commodity-pricing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze commodity pricing and trading systems including forward curves, option models, position management, risk metrics, and regulatory reporting. Use when: 'review pricing models', 'audit trading system', 'evaluate VaR implementation', 'check commodity risk management', 'assess ETRM system', 'review derivatives valuation', 'analyze energy trading platform', 'evaluate hedge accounting'.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

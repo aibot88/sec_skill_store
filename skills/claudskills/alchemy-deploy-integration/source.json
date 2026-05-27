@@ -1,0 +1,18 @@
+{
+  "name": "alchemy-deploy-integration",
+  "slug": "alchemy-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alchemy-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/alchemy-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Alchemy-powered Web3 applications to Vercel, Cloud Run, and AWS. Use when deploying dApps with server-side Alchemy SDK access, configuring API key secrets, or setting up RPC proxy endpoints. Trigger: \"deploy alchemy\", \"alchemy Vercel\", \"alchemy Cloud Run\", \"alchemy production deploy\", \"dApp deploy\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

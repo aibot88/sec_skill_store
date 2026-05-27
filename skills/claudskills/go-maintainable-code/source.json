@@ -1,0 +1,18 @@
+{
+  "name": "go-maintainable-code",
+  "slug": "go-maintainable-code",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/go-maintainable-code/",
+  "download_url": "https://claudskills.com/skills/go-maintainable-code/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Write clean, maintainable Go code following Clean Architecture, dependency injection, and ChecklistApplication patterns. Use when writing new Go code, refactoring, or implementing features.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "attack-path-architect",
+  "slug": "attack-path-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/attack-path-architect/",
+  "download_url": "https://claudskills.com/skills/attack-path-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generates strategic attack trees and kill chains from reconnaissance data or domain input. Maps MITRE ATT&CK TTPs, identifies chaining opportunities, trust relationships, and prioritizes attack paths by feasibility and impact. Use when user asks for \"attack path\", \"kill chain\", \"attack tree\", \"threat modeling from recon\", \"attack surface analysis\", or \"prioritize targets\". Requires prior recon data or a domain to analyze. For authorized pentesting and red team engagements only.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

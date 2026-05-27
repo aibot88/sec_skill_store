@@ -1,0 +1,18 @@
+{
+  "name": "blog-voice-review",
+  "slug": "blog-voice-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/blog-voice-review/",
+  "download_url": "https://claudskills.com/skills/blog-voice-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review blog content for authentic voice and tone. Checks if content sounds like Fabio's conversational, honest technical writing style. Trigger phrases: \"voice\", \"voice review\", \"tone\", \"sounds like me\", \"authentic\", \"check voice\", \"voice check\"",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

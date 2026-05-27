@@ -1,0 +1,18 @@
+{
+  "name": "implementing-delinea-secret-server-for-pam",
+  "slug": "implementing-delinea-secret-server-for-pam",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-delinea-secret-server-for-pam/",
+  "download_url": "https://claudskills.com/skills/implementing-delinea-secret-server-for-pam/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implements Delinea Secret Server for privileged access management (PAM) including secret vault configuration,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

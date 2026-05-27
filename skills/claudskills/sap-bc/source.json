@@ -1,0 +1,18 @@
+{
+  "name": "sap-bc",
+  "slug": "sap-bc",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sap-bc/",
+  "download_url": "https://claudskills.com/skills/sap-bc/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill handles SAP BC (Basis Component) tasks from the Korean consulting field perspective. Use when the user mentions BC, 베이시스, Solution Manager Korea, HANA locale, 한국 세금계산서, e-Document, 망분리, KISA, 공인인증서, 전자서명, 한국 특수 STMS, PFCG 한국 권한, SM50/SM66 한국어 환경, 한국어 SAPGUI, Unicode 변환, 한국 고객지원 OSS, 한국 SAP BTP 리전, local 코드 페이지, NLS 설정, SAP 한국법인 SAPNet. Covers classic Basis topics (STMS, PFCG, SM50, ST22, SM21, SM36, performance, authorization, transports) with Korean enterprise specifics layered on top — Solman 연동, HANA 한국 로케일, KT/LG/SK CDN 연동, 망분리·폐쇄망 배포, 한국 전자세금계산서 규제, 개인정보보호법 준수, 한국 SAP 계정 SAP OSS 사용법.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

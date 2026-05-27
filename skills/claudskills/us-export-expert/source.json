@@ -1,0 +1,18 @@
+{
+  "name": "us-export-expert",
+  "slug": "us-export-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/us-export-expert/",
+  "download_url": "https://claudskills.com/skills/us-export-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "US Export Controls expert covering ITAR and EAR. Provides comprehensive guidance on defense articles (USML), dual-use commercial items (CCL), jurisdiction determination, FIPS encryption, denied party screening, and cloud compliance strategies.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:31+00:00"
+}

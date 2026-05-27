@@ -1,0 +1,18 @@
+{
+  "name": "gh-search-commits",
+  "slug": "gh-search-commits",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gh-search-commits/",
+  "download_url": "https://claudskills.com/skills/gh-search-commits/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when searching commit history across GitHub repositories - provides syntax for filtering by author, committer, dates, hashes, and merge commits with proper exclusion handling",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

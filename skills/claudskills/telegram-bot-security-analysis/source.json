@@ -1,0 +1,18 @@
+{
+  "name": "telegram-bot-security-analysis",
+  "slug": "telegram-bot-security-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/telegram-bot-security-analysis/",
+  "download_url": "https://claudskills.com/skills/telegram-bot-security-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Reverse engineer and security-test Telegram bots — API analysis, callback interception, exploit discovery, and vulnerability documentation",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

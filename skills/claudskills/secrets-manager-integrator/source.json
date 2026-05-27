@@ -1,0 +1,18 @@
+{
+  "name": "integrating-secrets-managers",
+  "slug": "secrets-manager-integrator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/secrets-manager-integrator/",
+  "download_url": "https://claudskills.com/skills/secrets-manager-integrator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill enables Claude to seamlessly integrate with various secrets managers like HashiCorp Vault and AWS Secrets Manager. It generates configurations and setup code, ensuring best practices for secure credential management. Use this skill when you need to manage sensitive information, generate production-ready configurations, or implement a security-first approach for your DevOps infrastructure. Trigger terms include \"integrate secrets manager\", \"configure Vault\", \"AWS Secrets Manager setup\", \"manage credentials securely\", or requests for secure configuration generation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

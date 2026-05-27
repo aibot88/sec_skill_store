@@ -1,0 +1,18 @@
+{
+  "name": "binary-re",
+  "slug": "binary-re",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/binary-re/",
+  "download_url": "https://claudskills.com/skills/binary-re/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when analyzing binaries, executables, or bytecode to understand what they do or how they work. Triggers on \"binary\", \"executable\", \"ELF\", \"what does this do\", \"reverse engineer\", \"disassemble\", \"decompile\", \"pyc file\", \"python bytecode\", \"analyze binary\", \"figure out\", \"marshal\". Routes to sub-skills for triage, static analysis, dynamic analysis, synthesis, or tool setup.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

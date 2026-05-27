@@ -1,0 +1,18 @@
+{
+  "name": "frontend-skill",
+  "slug": "frontend-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/frontend-skill/",
+  "download_url": "https://claudskills.com/skills/frontend-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implementa frontends Next.js (App Router) com UI alinhada ao design system, Atomic Design, TypeScript, SCSS, ShadCN sem Tailwind, DTOs Zod, React Hook Form, middleware/auth, RBAC na UI, estados de carregamento/erro e SSE quando o produto exigir. Use ao criar ou alterar páginas, componentes, hooks, integração com API ou qualquer UI neste repositório.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

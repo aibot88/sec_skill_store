@@ -1,0 +1,18 @@
+{
+  "name": "shopify-data-handling",
+  "slug": "shopify-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/shopify-data-handling/",
+  "download_url": "https://claudskills.com/skills/shopify-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Handle Shopify customer PII, implement GDPR/CCPA compliance, and manage data retention with Shopify's mandatory privacy webhooks. Use when building apps that store customer data, preparing for App Store review, or implementing deletion workflows. Trigger with phrases like \"shopify data\", \"shopify PII\", \"shopify GDPR\", \"shopify customer data\", \"shopify privacy\", \"shopify CCPA\", \"shopify data request\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

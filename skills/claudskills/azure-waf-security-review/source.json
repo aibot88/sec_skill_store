@@ -1,0 +1,18 @@
+{
+  "name": "azure-waf-security-review",
+  "slug": "azure-waf-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-waf-security-review/",
+  "download_url": "https://claudskills.com/skills/azure-waf-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review Azure workload security posture against the Well-Architected Framework Security pillar: identity and access, network boundaries, data protection, threat detection, DevSecOps maturity, and policy compliance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

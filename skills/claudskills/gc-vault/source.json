@@ -1,0 +1,18 @@
+{
+  "name": "gc-vault",
+  "slug": "gc-vault",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gc-vault/",
+  "download_url": "https://claudskills.com/skills/gc-vault/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "gc-vault でラップされた GCP プロジェクトに対して gcloud / gcloud storage / bq / terraform 等のコマンドを実行する際に使用する。直接の gcloud auth login やローカル credentials に頼らず、1Password に保管された bootstrap SA キーから短命の借用トークンを発行してコマンドを実行する。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

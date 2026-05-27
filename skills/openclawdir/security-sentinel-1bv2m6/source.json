@@ -1,0 +1,17 @@
+{
+  "name": "security-sentinel",
+  "slug": "security-sentinel-1bv2m6",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/security-sentinel-1bv2m6",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/security-sentinel/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/autogame-17/security-sentinel/SKILL.md",
+  "license": "",
+  "description": "Scan the workspace for security vulnerabilities",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=1"
+  },
+  "collected_at": "2026-05-27T03:44:40+00:00"
+}

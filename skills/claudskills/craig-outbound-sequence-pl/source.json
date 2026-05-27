@@ -1,0 +1,18 @@
+{
+  "name": "craig-outbound-sequence-pl",
+  "slug": "craig-outbound-sequence-pl",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/craig-outbound-sequence-pl/",
+  "download_url": "https://claudskills.com/skills/craig-outbound-sequence-pl/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Multi-channel outbound sequences dla polskiego SaaS B2B micro-small (deal 299-4999 PLN/mies). Capacity math (meeting rate benchmarks PL), 14-day sprint cadence, channel mix (email + LinkedIn + telefon), branching logic (positive reply / objection / \"wyślij info\"), 3 najczęstsze odpowiedzi. Używaj gdy user mówi \"zbuduj sekwencję\", \"zaprojektuj cadence\", \"ile touchy\", \"multi-channel plan\", \"follow-up strategia\", \"sekwencja outboundu\". Bazuje na TheCraigHewitt/outbound-sequence — wycięto enterprise SEP tools (Outreach/Salesloft), dodano polskie benchmarki i 14-day sprint dla solo foundera.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

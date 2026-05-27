@@ -1,0 +1,18 @@
+{
+  "name": "b2c-slas",
+  "slug": "b2c-slas",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/b2c-slas/",
+  "download_url": "https://claudskills.com/skills/b2c-slas/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage SLAS (Shopper Login and API Access Service) clients. Use when configuring shopper authentication, creating API clients for PWA/headless, managing OAuth scopes (including custom scopes like c_loyalty), or debugging token issues.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

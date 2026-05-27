@@ -1,0 +1,18 @@
+{
+  "name": "sales-xpoz",
+  "slug": "sales-xpoz",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-xpoz/",
+  "download_url": "https://claudskills.com/skills/sales-xpoz/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Xpoz platform help — social data API and MCP server for AI agents, searching Twitter/X, Instagram, TikTok, Reddit via natural language queries, 1.5B+ indexed posts, OAuth 2.1, TypeScript/Python SDKs, CSV exports. Use when Xpoz MCP server isn't connecting or authenticating, search results are returning irrelevant posts and you need better queries, CSV exports are timing out or returning incomplete data, you want to build a brand monitoring pipeline using the Xpoz SDK, you're hitting the 100K free tier limit and need to understand upgrade options, or you need to compare Xpoz vs Octolens vs Brand24 for developer-first social listening. Do NOT use for social listening strategy across tools (use /sales-social-listening) or choosing between social listening platforms (use /sales-social-listening).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:09+00:00"
+}

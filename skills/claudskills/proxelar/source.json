@@ -1,0 +1,18 @@
+{
+  "name": "proxelar",
+  "slug": "proxelar",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/proxelar/",
+  "download_url": "https://claudskills.com/skills/proxelar/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Intercept, inspect, and modify HTTP/HTTPS traffic via a Rust MITM proxy with Lua scripting hooks. Supports API debugging, LLM call capture for evals, endpoint mocking, CORS/auth header injection, latency simulation, and telemetry blocking. Triggers on 'proxy', 'intercept traffic', 'inspect requests', 'mock API', 'capture API calls', 'MITM', 'network debug', 'HTTP inspection'.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

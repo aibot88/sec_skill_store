@@ -1,0 +1,18 @@
+{
+  "name": "frontend-ultimate",
+  "slug": "frontend-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/frontend-expert/",
+  "download_url": "https://claudskills.com/skills/frontend-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Ultimate 25+ years expert-level frontend skill covering Next.js, React, TypeScript, Tailwind CSS, styled-components, Redux, Zustand, Webpack, Vite, Parcel, Jest/Vitest testing, performance optimization, and ALL security aspects comprehensively (XSS, CSRF, injection, data privacy, CSP, dependency security, etc.). Covers all use cases (SPAs, PWAs, e-commerce, dashboards, real-time apps, mobile-responsive). Advanced features include A11y, Core Web Vitals, SEO, i18n, error handling, monitoring, component architecture, design patterns. Maximum security hardening, genius-level optimization, modernized development standards. Use when building ANY frontend application requiring enterprise security, performance, and scalability.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

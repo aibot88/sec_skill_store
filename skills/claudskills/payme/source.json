@@ -1,0 +1,18 @@
+{
+  "name": "payme",
+  "slug": "payme",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/payme/",
+  "download_url": "https://claudskills.com/skills/payme/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Send and receive USDC/USDT crypto payments via PayMe smart wallets. Check balances, send stablecoins, view history, manage contacts, sell crypto for local currency via P2P in 10 African countries (Nigeria, Ghana, Kenya, South Africa, Cameroon, Senegal, Benin, Togo, Tanzania, Uganda). Supports bank transfer and mobile money. All payments require explicit user confirmation by default. Supports Base, Arbitrum, Polygon, BNB Chain, and Avalanche.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

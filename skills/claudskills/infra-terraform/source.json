@@ -1,0 +1,18 @@
+{
+  "name": "infra-terraform",
+  "slug": "infra-terraform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/infra-terraform/",
+  "download_url": "https://claudskills.com/skills/infra-terraform/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Enforces Terraform best practices for safe and scalable infrastructure as code. Emphasizes modularity, state management, and security. Automatically applied for IaC implementation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "db-auth-check",
+  "slug": "db-auth-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/db-auth-check/",
+  "download_url": "https://claudskills.com/skills/db-auth-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Используй когда база 1С нужна для workspace init, dump, build, launch или update, а логин/пароль отсутствуют, неизвестны, не проходят или вывод команды похож на проблему лицензии",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

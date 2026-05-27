@@ -1,0 +1,18 @@
+{
+  "name": "deeptutor",
+  "slug": "deeptutor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deeptutor/",
+  "download_url": "https://claudskills.com/skills/deeptutor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive academic advisor investigation and evaluation system for graduate school decisions. Investigates professors at any institution worldwide — searches publications (PubMed/Scopus/Scholar/OpenAlex), maps co-author networks, tracks student trajectories (the #1 predictive signal), classifies advisor type, and assesses exploitation/toxicity risk. Automatically applies region-specific search strategies: Chinese institutions (mainland China) use 知乎/小木虫/百度学术/CNKI; international institutions use Reddit/RateMyProfessors/ GradCafe/LinkedIn. Outputs a standalone .html report in the user's language — Chinese input produces Chinese report, English input produces English report, and so on for any language.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

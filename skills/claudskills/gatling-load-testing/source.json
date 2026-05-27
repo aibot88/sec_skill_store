@@ -1,0 +1,18 @@
+{
+  "name": "gatling-load-testing",
+  "slug": "gatling-load-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gatling-load-testing/",
+  "download_url": "https://claudskills.com/skills/gatling-load-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert skill for Gatling simulation development, load test execution, and performance analysis. Write Gatling simulations in Scala DSL, configure injection profiles and feeders, define assertions, analyze HTML reports, and integrate with Gatling Enterprise.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

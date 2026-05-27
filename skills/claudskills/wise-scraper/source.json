@@ -1,0 +1,18 @@
+{
+  "name": "wise-scraper",
+  "slug": "wise-scraper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wise-scraper/",
+  "download_url": "https://claudskills.com/skills/wise-scraper/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Structured web scraping for AI coders: explore, then exploit with shipped templates, runner, and hooks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

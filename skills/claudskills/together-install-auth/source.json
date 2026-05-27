@@ -1,0 +1,18 @@
+{
+  "name": "together-install-auth",
+  "slug": "together-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/together-install-auth/",
+  "download_url": "https://claudskills.com/skills/together-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install Together AI SDK and configure API key for inference and fine-tuning. Use when setting up Together AI, configuring the OpenAI-compatible API, or initializing the together Python package. Trigger: \"install together, setup together ai, together API key\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ml-ai-eng",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

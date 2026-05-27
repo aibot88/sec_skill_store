@@ -1,0 +1,18 @@
+{
+  "name": "security-scanner",
+  "slug": "1166-security-scanner-e661055b",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/1166-security-scanner-e661055b/",
+  "download_url": "https://claudskills.com/skills/1166-security-scanner-e661055b/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security-Scanner Agent fuer fabrikIQ und andere Projekte. Fuehrt umfassende Sicherheitspruefungen durch.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

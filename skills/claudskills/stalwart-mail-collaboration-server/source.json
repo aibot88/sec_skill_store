@@ -1,0 +1,18 @@
+{
+  "name": "stalwart-mail-collaboration-server",
+  "slug": "stalwart-mail-collaboration-server",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/stalwart-mail-collaboration-server/",
+  "download_url": "https://claudskills.com/skills/stalwart-mail-collaboration-server/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Stalwart is an open-source mail and collaboration server written in Rust that provides JMAP, IMAP4, POP3, SMTP, CalDAV, CardDAV, and WebDAV support. It enables agents to deploy and manage self-hosted email infrastructure with built-in spam filtering, DKIM/DMARC/SPF authentication, and full calendar and contact synchronization.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-creative",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

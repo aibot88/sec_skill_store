@@ -1,0 +1,18 @@
+{
+  "name": "dailyquest-db-analysis",
+  "slug": "dailyquest-db-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dailyquest-db-analysis/",
+  "download_url": "https://claudskills.com/skills/dailyquest-db-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Anleitung zur Analyse der DailyQuest Supabase-Datenbank mit der Supabase CLI. Enthält den kompletten Workflow: CLI installieren, authentifizieren, Projekt verknüpfen, Schema untersuchen, Nutzerdaten analysieren und gezielte Queries ausführen.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "data-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

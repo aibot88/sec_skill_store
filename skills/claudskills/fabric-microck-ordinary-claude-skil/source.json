@@ -1,0 +1,18 @@
+{
+  "name": "fabric",
+  "slug": "fabric-microck-ordinary-claude-skil",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fabric-microck-ordinary-claude-skil/",
+  "download_url": "https://claudskills.com/skills/fabric-microck-ordinary-claude-skil/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Intelligent pattern selection for Fabric CLI. Automatically selects the right pattern from 242+ specialized prompts based on your intent - threat modeling, analysis, summarization, content creation, extraction, and more. USE WHEN processing content, analyzing data, creating summaries, threat modeling, or transforming text.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

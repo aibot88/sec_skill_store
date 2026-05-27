@@ -1,0 +1,18 @@
+{
+  "name": "sast-horusec",
+  "slug": "sast-horusec",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sast-horusec/",
+  "download_url": "https://claudskills.com/skills/sast-horusec/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Multi-language static application security testing using Horusec with support for 18+ programming languages and 20+ security analysis tools. Performs SAST scans, secret detection in git history, and provides vulnerability findings with severity classification. Use when: (1) Analyzing code for security vulnerabilities across multiple languages simultaneously, (2) Detecting exposed secrets and credentials in git history, (3) Integrating SAST into CI/CD pipelines for secure SDLC, (4) Performing comprehensive security analysis during development, (5) Managing false positives and prioritizing security findings.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

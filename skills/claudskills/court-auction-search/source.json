@@ -1,0 +1,18 @@
+{
+  "name": "court-auction-search",
+  "slug": "court-auction-search",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/court-auction-search/",
+  "download_url": "https://claudskills.com/skills/court-auction-search/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "대법원 법원경매정보(courtauction.go.kr) 부동산 매각공고를 매각기일·법원·기일/기간 입찰 기준으로 조회하고, 각 공고를 사건번호·용도·주소·감정평가액·최저매각가로 펼쳐서 보여줍니다. 법원사무소 코드와 사건번호로 단건 직접 조회도 지원합니다. read-only이며 IP 차단 방지를 위해 호출당 약 2초 지연을 둡니다.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

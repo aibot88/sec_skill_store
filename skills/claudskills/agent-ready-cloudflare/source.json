@@ -1,0 +1,18 @@
+{
+  "name": "agent-ready-cloudflare",
+  "slug": "agent-ready-cloudflare",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-ready-cloudflare/",
+  "download_url": "https://claudskills.com/skills/agent-ready-cloudflare/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit and improve website readiness for AI agents using the Cloudflare \"Is It Agent Ready?\" scanner (isitagentready.com). Covers scanning via API, interpreting results, generating implementation prompts, and fixing every check. Use when the user mentions \"agent ready\", \"isitagentready\", \"AI agent scan\", \"agent readiness\", \"agent-ready score\", \"MCP server card\", \"agent skills index\", \"markdown for agents\", \"content signals\", \"web bot auth\", \"agent discovery\", \"RFC 9727\", \"RFC 8288\", \"RFC 9728\", \"SEP-1649\", \"WebMCP\", \"x402\", \"UCP\", \"ACP\", or wants to make a website discoverable and usable by AI agents.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

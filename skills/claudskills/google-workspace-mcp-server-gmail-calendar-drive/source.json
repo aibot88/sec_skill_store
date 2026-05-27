@@ -1,0 +1,18 @@
+{
+  "name": "google-workspace-mcp-server-gmail-calendar-drive",
+  "slug": "google-workspace-mcp-server-gmail-calendar-drive",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-workspace-mcp-server-gmail-calendar-drive/",
+  "download_url": "https://claudskills.com/skills/google-workspace-mcp-server-gmail-calendar-drive/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "The Google Workspace MCP Server provides comprehensive natural language control over Gmail, Google Calendar, Drive, Docs, Sheets, Slides, Forms, Tasks, Contacts, and Chat through any MCP-compatible AI assistant. It supports OAuth 2.1 multi-user authentication and includes a CLI for coding agents.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

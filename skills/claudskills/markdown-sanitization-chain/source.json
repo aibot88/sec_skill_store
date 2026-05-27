@@ -1,0 +1,18 @@
+{
+  "name": "markdown-sanitization-chain",
+  "slug": "markdown-sanitization-chain",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/markdown-sanitization-chain/",
+  "download_url": "https://claudskills.com/skills/markdown-sanitization-chain/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Markdown sanitization order matters — marked.js then DOMPurify then Mermaid to prevent XSS",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

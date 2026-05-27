@@ -1,0 +1,18 @@
+{
+  "name": "duplicate-rule-person-account-edge-cases",
+  "slug": "duplicate-rule-person-account-edge-cases",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/duplicate-rule-person-account-edge-cases/",
+  "download_url": "https://claudskills.com/skills/duplicate-rule-person-account-edge-cases/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "When and how to author Duplicate Rules and Matching Rules in B2C / Person Account orgs without breaking lead conversion, cross-object matching, or PII hygiene. Covers PA's dual-record (001/003) shape, PersonEmail vs Contact.Email, multi-phone normalization, IsPersonAccount filtering, RecordType filtering for PA, and Lead-to-PA convert. NOT for B2B duplicate management — see data/duplicate-management. NOT for Data.com / Lightning Data — see integration/data-com.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

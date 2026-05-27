@@ -1,0 +1,18 @@
+{
+  "name": "sales-airmail",
+  "slug": "sales-airmail",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-airmail/",
+  "download_url": "https://claudskills.com/skills/sales-airmail/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Airmail platform help — Apple-exclusive email client with customizable swipe actions, multi-step Custom Actions, Smart Inbox, Send Later, snooze, AppleScript automation, Siri Shortcuts, Objective-C plugin framework, S/MIME and GPG encryption, Privacy Mode with local-only processing (Free 1 account / Pro ~$9/mo or ~$49/yr via App Store). Use when setting up Airmail across Mac iPhone iPad and Apple Watch, custom swipe actions or multi-step Custom Actions not working as expected, comparing Airmail to Spark Mail or Superhuman or Apple Mail, Airmail crashing or sync broken between Mac and iPhone, wondering if Airmail Pro subscription is worth upgrading from free, automating Airmail with AppleScript or Siri Shortcuts, or Airmail plugin development with the Objective-C framework. Do NOT use for cross-platform email clients on Windows or Android (use /sales-bluemail or /sales-em-client). Do NOT use for team shared inbox with ticketing (use /sales-hiver or /sales-missive).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

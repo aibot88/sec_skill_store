@@ -1,0 +1,18 @@
+{
+  "name": "fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid",
+  "slug": "fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid/",
+  "download_url": "https://claudskills.com/skills/fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Off-Label-Use bei Long-COVID und ME/CFS Erstattung durch gesetzliche Krankenversicherung GKV. § 35c SGB V Off-Label-Liste § 92 Abs. 1 SGB V Richtlinie Methodenbewertung. Nikolaus-Beschluss BVerfG 1 BvR 347/98 lebensbedrohliche Erkrankungen ohne Alternative. BSG B 1 KR 19/22 zu Long-COVID. Therapien Low-Dose-Naltrexon Apheresen Immunadsorption. Klage Sozialgericht Verfahrensbeschleunigung.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

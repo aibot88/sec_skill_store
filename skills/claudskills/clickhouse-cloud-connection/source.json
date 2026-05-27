@@ -1,0 +1,18 @@
+{
+  "name": "clickhouse-cloud-connection",
+  "slug": "clickhouse-cloud-connection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clickhouse-cloud-connection/",
+  "download_url": "https://claudskills.com/skills/clickhouse-cloud-connection/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Test and validate ClickHouse Cloud connection using clickhouse-connect for gapless-crypto-clickhouse. Use when validating connectivity, troubleshooting connection issues, or verifying environment configuration. Includes version check and query validation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

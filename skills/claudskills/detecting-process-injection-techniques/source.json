@@ -1,0 +1,18 @@
+{
+  "name": "detecting-process-injection-techniques",
+  "slug": "detecting-process-injection-techniques",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-process-injection-techniques/",
+  "download_url": "https://claudskills.com/skills/detecting-process-injection-techniques/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detects and analyzes process injection techniques used by malware including classic DLL injection, process hollowing,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

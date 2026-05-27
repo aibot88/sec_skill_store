@@ -1,0 +1,18 @@
+{
+  "name": "flyio-core-workflow-a",
+  "slug": "flyio-core-workflow-a",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flyio-core-workflow-a/",
+  "download_url": "https://claudskills.com/skills/flyio-core-workflow-a/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Execute Fly.io primary workflow: deploy, scale, and manage apps with flyctl and fly.toml. Use when deploying applications, configuring regions, setting secrets, or managing the app lifecycle on Fly.io. Trigger: \"fly deploy\", \"fly.io app management\", \"fly scale\", \"fly.io regions\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

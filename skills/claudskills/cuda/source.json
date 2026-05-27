@@ -1,0 +1,18 @@
+{
+  "name": "cuda",
+  "slug": "cuda",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cuda/",
+  "download_url": "https://claudskills.com/skills/cuda/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CUDA kernel development, debugging, and performance optimization for Claude Code. Use when writing, debugging, or optimizing CUDA code, GPU kernels, or parallel algorithms. Covers non-interactive profiling with nsys/ncu, debugging with cuda-gdb/compute-sanitizer, binary inspection with cuobjdump, and performance analysis workflows. Triggers on CUDA, GPU programming, kernel optimization, nsys, ncu, cuda-gdb, compute-sanitizer, PTX, GPU profiling, parallel performance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "performance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "google-drive",
+  "slug": "google-drive",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-drive/",
+  "download_url": "https://claudskills.com/skills/google-drive/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Interact with Google Drive - search files, find folders, list contents, download files, upload files, create folders, move, copy, rename, and trash files. Use when user asks to: search Google Drive, find a file/folder, list Drive contents, download or upload files, create folders, move files, or organize Drive content. Lightweight integration with standalone OAuth authentication supporting full read/write access.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

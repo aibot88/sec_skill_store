@@ -1,0 +1,18 @@
+{
+  "name": "language-audit",
+  "slug": "language-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/language-audit/",
+  "download_url": "https://claudskills.com/skills/language-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when the user wants to audit multilingual content consistency — check hreflang tags, content parity across languages, regional compliance, translation quality, and localization completeness.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "translation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

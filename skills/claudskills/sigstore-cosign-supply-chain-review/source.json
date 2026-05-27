@@ -1,0 +1,18 @@
+{
+  "name": "sigstore-cosign-supply-chain-review",
+  "slug": "sigstore-cosign-supply-chain-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sigstore-cosign-supply-chain-review/",
+  "download_url": "https://claudskills.com/skills/sigstore-cosign-supply-chain-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing Sigstore Cosign supply chain security for Kubernetes workloads. Trigger when the user asks whether images are properly signed, whether Kyverno imageVerify policy is correctly scoped, whether SLSA provenance attestations exist, whether SBOM attestations are present, whether keyless signing is in use, or whether Rekor transparency log posture is appropriate for private images.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crypto-keymgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

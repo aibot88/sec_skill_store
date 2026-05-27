@@ -1,0 +1,18 @@
+{
+  "name": "remix-components",
+  "slug": "components",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/components/",
+  "download_url": "https://claudskills.com/skills/components/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "The shipped `remix/ui/<component>` headless library — Accordion, Anchor (positioning), Breadcrumbs, Button, Combobox, Glyph (icons), Listbox, Menu (dropdown / context), Popover (with focus management), Scroll Lock, Select, Separator, Animation (entrance / exit / layout / spring / tween), and Theme (CSS variables + design tokens). Plus first-class web-components interop — bring in third-party custom elements (Shoelace, Lit, Web Awesome) or author your own. Load whenever the user needs a button, dropdown, modal, tooltip, popover, autocomplete, breadcrumb, accordion, icon, animation, color tokens, dark/light theme, or is about to install Radix UI / shadcn/ui / Headless UI / Floating UI / Framer Motion / lucide-react / heroicons / react-select / body-scroll-lock. Also load on questions like \"how do I do a tooltip in Remix?\" or \"what's the equivalent of Radix Popover?\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

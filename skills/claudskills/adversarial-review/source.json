@@ -1,0 +1,18 @@
+{
+  "name": "adversarial-review",
+  "slug": "adversarial-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/adversarial-review/",
+  "download_url": "https://claudskills.com/skills/adversarial-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Fresh adversarial code review with binary PASS/FAIL verdicts, evidence citations, and anchoring bias prevention via fresh reviewer spawning.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

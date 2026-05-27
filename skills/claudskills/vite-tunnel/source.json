@@ -1,0 +1,18 @@
+{
+  "name": "vite-tunnel",
+  "slug": "vite-tunnel",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vite-tunnel/",
+  "download_url": "https://claudskills.com/skills/vite-tunnel/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "在 Vite dev server 前掛 Cloudflare Named Tunnel，給固定 HTTPS hostname。Use when 跨裝置（手機 / 平板 / 另一台筆電）測 OAuth flow、跨裝置測 webhook callback、行動裝置 debug 需要穩定 HTTPS URL、Vite 加 Cloudflare tunnel、設定 dev HTTPS hostname、改 OAuth callback 不想每次回 provider 後台。對 Workers/Pages 用官方 @cloudflare/vite-plugin 內建 tunnel；對一般 Vite 走第三方 vite-plugin-cloudflare-tunnel。不適用於 prod tunnel（這 skill 只管 dev）、其他 provider（ngrok / localtunnel）、單機開發夠用的情境（用 vendor/snippets/dev-auth/ cookbook 繞 OAuth 更快）、需要 quick tunnel 隨機 hostname 的場景（直接跑 cloudflared tunnel --url 即可，不必走這 skill）。",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

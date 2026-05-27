@@ -1,0 +1,18 @@
+{
+  "name": "volunteer-coordination",
+  "slug": "volunteer-coordination",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/volunteer-coordination/",
+  "download_url": "https://claudskills.com/skills/volunteer-coordination/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze volunteer management platforms for skill-based matching algorithms, shift scheduling optimization, availability tracking, and retention analysis. Evaluates training compliance workflows, background check integration, communication channel efficiency, engagement scoring, churn prediction, impact reporting, and recognition systems for nonprofits, disaster response, healthcare, and community service organizations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

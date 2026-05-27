@@ -1,0 +1,18 @@
+{
+  "name": "shrink-vector-store",
+  "slug": "shrink-vector-store",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/shrink-vector-store/",
+  "download_url": "https://claudskills.com/skills/shrink-vector-store/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Shrink an embedding/RAG vector store 4–32× via int8 or binary quantization with a float rescore pass, preserving recall and provenance metadata. Use when a vector store is too large to be laptop-resident, query cost/latency is too high, or embeddings need to be quantized for FAISS/Qdrant/usearch. Do NOT use for embed-time ingestion failures (e.g. a provider 'too many tokens' 400 — that is an upstream chunking bug, not a storage-size problem) and do NOT enable the dark TurboQuant 4-bit path without the gate below.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

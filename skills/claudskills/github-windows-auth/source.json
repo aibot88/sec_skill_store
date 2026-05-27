@@ -1,0 +1,18 @@
+{
+  "name": "github-windows-auth",
+  "slug": "github-windows-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-windows-auth/",
+  "download_url": "https://claudskills.com/skills/github-windows-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Diagnose and fix GitHub authentication issues on Windows when pushing fails with \"Repository not found\" or wrong-account errors. Use when git push fails despite the repo existing, when multiple GitHub accounts are in play (personal + org), or when Windows Credential Manager has stale credentials. Trigger on phrases like \"push failed\", \"repository not found\", \"wrong account\", \"gh auth\", \"credential\", \"git push 403\", or any push error after a gh auth login.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

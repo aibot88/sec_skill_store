@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-email-headers-for-phishing-investigation",
+  "slug": "analyzing-email-headers-for-phishing-investigation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-email-headers-for-phishing-investigation/",
+  "download_url": "https://claudskills.com/skills/analyzing-email-headers-for-phishing-investigation/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Parse and analyze email headers to trace the origin of phishing emails, verify sender authenticity, and identify",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

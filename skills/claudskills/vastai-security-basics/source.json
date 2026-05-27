@@ -1,0 +1,18 @@
+{
+  "name": "vastai-security-basics",
+  "slug": "vastai-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vastai-security-basics/",
+  "download_url": "https://claudskills.com/skills/vastai-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Vast.ai security best practices for API keys and instance access. Use when securing API keys, hardening SSH access to GPU instances, or auditing Vast.ai security configuration. Trigger with phrases like \"vastai security\", \"vastai secrets\", \"secure vastai\", \"vastai API key security\", \"vastai ssh security\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

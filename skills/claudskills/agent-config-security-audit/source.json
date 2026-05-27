@@ -1,0 +1,18 @@
+{
+  "name": "agent-config-security-audit",
+  "slug": "agent-config-security-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-config-security-audit/",
+  "download_url": "https://claudskills.com/skills/agent-config-security-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Audit agent configuration files for security vulnerabilities and misconfigurations. Covers settings.json, .mcp.json, .codex/config.toml, AGENTS.md, hooks, plugin manifests, and relay config. Classify findings as P0 or P1.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "chrome-auth-recorder",
+  "slug": "chrome-auth-recorder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chrome-auth-recorder/",
+  "download_url": "https://claudskills.com/skills/chrome-auth-recorder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Records workflows in authenticated browser sessions and generates annotated GIF tutorials without handling credentials. Use when you need to document authenticated processes, create tutorials from existing sessions, or capture workflows that require login. Triggers on \"record my workflow\", \"document authenticated process\", \"create tutorial from session\", \"capture this workflow as GIF\", or \"show me how to do this\". Works with Chrome browser via MCP integration and authenticated sessions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

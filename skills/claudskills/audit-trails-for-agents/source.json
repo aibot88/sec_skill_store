@@ -1,0 +1,18 @@
+{
+  "name": "Audit Trails for Agents",
+  "slug": "audit-trails-for-agents",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-trails-for-agents/",
+  "download_url": "https://claudskills.com/skills/audit-trails-for-agents/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive guide to implementing audit trails and logging for AI agents including tracing, observability, compliance, and debugging",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

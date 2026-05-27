@@ -1,0 +1,18 @@
+{
+  "name": "cg-cloud",
+  "slug": "cg-cloud",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cg-cloud/",
+  "download_url": "https://claudskills.com/skills/cg-cloud/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Invoke when the user wants to understand or manage the cloud layer — publishing, governance, adopt/sync/unpublish, account authentication, registry configuration, or whether to use cg vs a self-hosted registry. Covers both conceptual questions (\"what does X mean\") and operational ones (\"how do I log in\", \"how do I add a registry\"). Fires on \"how does cloud work\", \"explain publishing\", \"what's governance\", \"open vs protected\", \"why can't I push this widget\", \"what does adopt do\", \"should I use cg or my own registry\", \"manage my cloud account\", \"how do I log in to cartograph\", \"how do I add a registry\", \"list my registries\", \"who am I logged in as\", \"whoami\", \"how do I connect to a new registry\". Does NOT fire on one-off agent MCP calls made as part of a task (e.g. the agent calling checkin_widget with publish=true). Does NOT fire on config/defaults intent — that's cg-config. Does NOT fire on reviewing an incoming proposals queue — that's cg-proposals.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

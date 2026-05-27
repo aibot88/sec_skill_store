@@ -1,0 +1,18 @@
+{
+  "name": "alibaba-live-kms-key-mutation-guard",
+  "slug": "alibaba-live-kms-key-mutation-guard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibaba-live-kms-key-mutation-guard/",
+  "download_url": "https://claudskills.com/skills/alibaba-live-kms-key-mutation-guard/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Gate KMS key deletion and disable operations. All data encrypted with a deleted CMK (OSS SSE-KMS, ECS encrypted disks, RDS/PolarDB TDE) becomes permanently and irrecoverably inaccessible. This guard enforces complete CMK dependency audits, deletion window confirmation, and explicit operator approval before any key state mutation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

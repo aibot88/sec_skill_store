@@ -1,0 +1,18 @@
+{
+  "name": "zoom-meeting-sdk-electron",
+  "slug": "electron",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/electron/",
+  "download_url": "https://claudskills.com/skills/electron/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Zoom Meeting SDK for Electron desktop applications. Use when embedding Zoom meetings in an Electron app with the Node addon wrapper, JWT auth, join/start flows, settings controllers, and raw data integration.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "anaiis-duckdb",
+  "slug": "anaiis-duckdb",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/anaiis-duckdb/",
+  "download_url": "https://claudskills.com/skills/anaiis-duckdb/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Ad hoc SQL analytics on local parquet, CSV, Excel, JSON, Avro, or SQLite files — auto-triggers on data analysis requests",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

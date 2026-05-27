@@ -1,0 +1,18 @@
+{
+  "name": "crypto-protocol-diagram",
+  "slug": "crypto-protocol-diagram",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crypto-protocol-diagram/",
+  "download_url": "https://claudskills.com/skills/crypto-protocol-diagram/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Extracts protocol message flow from source code, RFCs, academic papers, pseudocode, informal prose, ProVerif (.pv), or Tamarin (.spthy) models and generates Mermaid sequenceDiagrams with cryptographic annotations. Use when diagramming a crypto protocol, visualizing a handshake or key exchange flow, extracting message flow from a spec or RFC, diagramming a ProVerif or Tamarin model, or drawing sequence diagrams for TLS, Noise, Signal, X3DH, Double Ratchet, FROST, DH, or ECDH protocols.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

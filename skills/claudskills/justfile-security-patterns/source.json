@@ -1,0 +1,18 @@
+{
+  "name": "justfile-security-patterns",
+  "slug": "justfile-security-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/justfile-security-patterns/",
+  "download_url": "https://claudskills.com/skills/justfile-security-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Level 2 patterns - vulns, lic, sbom, doctor (security, compliance, environment health)",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

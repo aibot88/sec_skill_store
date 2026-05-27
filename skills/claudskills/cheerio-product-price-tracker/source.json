@@ -1,0 +1,18 @@
+{
+  "name": "cheerio-product-price-tracker",
+  "slug": "cheerio-product-price-tracker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cheerio-product-price-tracker/",
+  "download_url": "https://claudskills.com/skills/cheerio-product-price-tracker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Monitors e-commerce product prices using Cheerio.js for server-side DOM parsing with got-scraping for stealth HTTP requests. Tracks price history in SQLite and triggers alerts via nodemailer when prices drop below thresholds.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "roadmap",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

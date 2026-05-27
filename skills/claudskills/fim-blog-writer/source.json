@@ -1,0 +1,18 @@
+{
+  "name": "fim-blog-writer",
+  "slug": "fim-blog-writer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fim-blog-writer/",
+  "download_url": "https://claudskills.com/skills/fim-blog-writer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scrive articoli blog in italiano per FIM Insurance Broker, seguendo il tone of voice del sito, la struttura JSON esistente e le regole di compliance IVASS. Usa quando l'utente chiede di \"scrivere un articolo\", \"creare un post blog\", \"aggiungere contenuto blog\", \"generare un articolo su [topic]\" o simili.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-marketing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

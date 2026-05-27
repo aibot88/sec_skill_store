@@ -1,0 +1,18 @@
+{
+  "name": "contract-analyzer",
+  "slug": "contract-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/contract-analyzer/",
+  "download_url": "https://claudskills.com/skills/contract-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Contract analysis and negotiation support skill with clause extraction and risk identification",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

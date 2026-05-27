@@ -1,0 +1,18 @@
+{
+  "name": "author-response-builder",
+  "slug": "author-response-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/author-response-builder/",
+  "download_url": "https://claudskills.com/skills/author-response-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Turns reviewer comments into structured, professional point-by-point responses linked to manuscript revisions, clarifications, rebuttals, and additional analyses.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:57+00:00"
+}

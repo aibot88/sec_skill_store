@@ -1,0 +1,18 @@
+{
+  "name": "django-codegen",
+  "slug": "django-codegen",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/django-codegen/",
+  "download_url": "https://claudskills.com/skills/django-codegen/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "트리거: \"django 코드 생성\", \"django rest\", \"drf 만들어줘\", \"django 모델 생성\", \"django viewset 만들어줘\" 수행: Python Django REST Framework 기반 Model·Serializer·ViewSet·URL패턴·Permission을 일괄 생성한다. DRF ModelSerializer, ModelViewSet, DefaultRouter, IsAuthenticated/커스텀 Permission 클래스 적용. 출력: 앱 디렉토리 구조 + 각 파일 코드 블록 + urls.py 등록 안내.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

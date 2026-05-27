@@ -1,0 +1,18 @@
+{
+  "name": "sales-read-ai",
+  "slug": "sales-read-ai",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-read-ai/",
+  "download_url": "https://claudskills.com/skills/sales-read-ai/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Read.ai platform help — meeting intelligence with engagement/sentiment analytics, Search Copilot across meetings/email/chat, Ada digital twin, REST API (beta) + MCP Server (`api.read.ai/mcp/`), OAuth auth, webhook automations (`meeting_end` events with HMAC signing), CRM sync to Salesforce/HubSpot, Zapier/n8n workflows, 20+ language transcription. Use when setting up Read.ai webhooks or API integration, connecting Read.ai transcripts to a CRM or data warehouse, configuring Read.ai engagement analytics for a sales team, comparing Read.ai pricing tiers, troubleshooting Read.ai auto-joining meetings without permission, or setting up the Read.ai MCP server with Claude or Cursor. Do NOT use for picking between note-takers (use /sales-note-taker) or reviewing a specific call for coaching (use /sales-call-review).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "outreach",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

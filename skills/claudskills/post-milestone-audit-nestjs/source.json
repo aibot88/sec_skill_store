@@ -1,0 +1,18 @@
+{
+  "name": "post-milestone-audit-nestjs",
+  "slug": "post-milestone-audit-nestjs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/post-milestone-audit-nestjs/",
+  "download_url": "https://claudskills.com/skills/post-milestone-audit-nestjs/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit a NestJS (TypeScript) codebase after a milestone tag is cut — drift, regressions, extraction signals, and convention compliance against documented rules.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:56+00:00"
+}

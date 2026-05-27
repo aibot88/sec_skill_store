@@ -1,0 +1,18 @@
+{
+  "name": "cloud-security-monitor",
+  "slug": "cloud-security-monitor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloud-security-monitor/",
+  "download_url": "https://claudskills.com/skills/cloud-security-monitor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Activate when users need help setting up cloud security monitoring for AWS, Azure, or GCP, including adapter configuration, detection rules, and threat response.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

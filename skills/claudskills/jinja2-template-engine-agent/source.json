@@ -1,0 +1,18 @@
+{
+  "name": "jinja2-template-engine-agent",
+  "slug": "jinja2-template-engine-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jinja2-template-engine-agent/",
+  "download_url": "https://claudskills.com/skills/jinja2-template-engine-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Renders Jinja2 templates with variable injection, macro expansion, and template inheritance. Integrates with the Jinja2 Environment API for sandboxed execution and custom filter registration.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

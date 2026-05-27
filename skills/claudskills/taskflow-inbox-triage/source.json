@@ -1,0 +1,18 @@
+{
+  "name": "taskflow-inbox-triage",
+  "slug": "taskflow-inbox-triage",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/taskflow-inbox-triage/",
+  "download_url": "https://claudskills.com/skills/taskflow-inbox-triage/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Example TaskFlow authoring pattern for inbox triage. Use when messages need different treatment based on intent, with some routes notifying immediately, some waiting on outside answers, and others rolling into a later summary.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

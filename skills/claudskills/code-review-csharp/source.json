@@ -1,0 +1,18 @@
+{
+  "name": "code-review-csharp",
+  "slug": "code-review-csharp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-review-csharp/",
+  "download_url": "https://claudskills.com/skills/code-review-csharp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Perform structured code reviews of C# source code covering naming conventions, performance, security, readability, and .NET best practices. Trigger phrases include \"review this C# code\", \"check my C# for best practices\", \"analyze this C# class\", \"find issues in my C# code\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

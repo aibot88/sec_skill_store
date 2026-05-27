@@ -1,0 +1,18 @@
+{
+  "name": "citrix-comprehensive-knowledge",
+  "slug": "citrix-comprehensive-knowledge",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/citrix-comprehensive-knowledge/",
+  "download_url": "https://claudskills.com/skills/citrix-comprehensive-knowledge/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive Citrix domain knowledge covering CVAD, DaaS, Gateway, NetScaler, and Workspace products. Use when needing deep product knowledge, architecture understanding, troubleshooting patterns, administration best practices, security hardening, performance optimization, or operational workflows. Provides foundational Citrix expertise for all engineering tasks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

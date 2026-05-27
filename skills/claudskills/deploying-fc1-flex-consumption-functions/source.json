@@ -1,0 +1,18 @@
+{
+  "name": "deploying-fc1-flex-consumption-functions",
+  "slug": "deploying-fc1-flex-consumption-functions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deploying-fc1-flex-consumption-functions/",
+  "download_url": "https://claudskills.com/skills/deploying-fc1-flex-consumption-functions/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploys standalone Azure Function Apps on Flex Consumption (FC1) for workloads SWA managed functions can't handle — timer triggers, queue triggers, AI workloads, long-running operations. Provisions via ARM REST API or Bicep because az CLI flags silently fall back to deprecated Y1/Dynamic. Includes the forbidden-app-settings list, the ESM-vs-CommonJS module setting, and managed-identity storage authentication. Use when adding a non-HTTP trigger, exceeding the 30s SWA limit, or fixing a Function App that the CLI placed on the wrong plan.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

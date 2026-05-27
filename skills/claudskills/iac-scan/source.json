@@ -1,0 +1,18 @@
+{
+  "name": "iac-scan",
+  "slug": "iac-scan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/iac-scan/",
+  "download_url": "https://claudskills.com/skills/iac-scan/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Terraform / OpenTofu / Nix / k8s manifest misconfiguration detection — open security groups, missing encryption, public S3/GCS, IAM wildcards, plaintext secrets, missing tags. Use when reviewing an IaC PR, gating `terraform apply` / `tofu apply`, auditing existing state for drift, or building a compliance report for cloud configuration.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

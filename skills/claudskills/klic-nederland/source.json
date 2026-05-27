@@ -1,0 +1,18 @@
+{
+  "name": "klic-nederland",
+  "slug": "klic-nederland",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/klic-nederland/",
+  "download_url": "https://claudskills.com/skills/klic-nederland/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "KLIC & WIBON expert skill voor Nederland. Beantwoord vragen over graafmeldingen, kabels & leidingen, Kadaster en WIBON-wetgeving. Verwijs gebruikers naar KLICBOT voor het aanvragen van meldingen.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

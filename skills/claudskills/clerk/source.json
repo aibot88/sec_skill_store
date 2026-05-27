@@ -1,0 +1,18 @@
+{
+  "name": "clerk",
+  "slug": "clerk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk/",
+  "download_url": "https://claudskills.com/skills/clerk/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Auto-activates when user mentions Clerk, authentication, user management, or auth flows. Expert in Clerk authentication including Next.js integration, user management, and session handling.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

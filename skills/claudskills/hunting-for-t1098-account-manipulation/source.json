@@ -1,0 +1,18 @@
+{
+  "name": "hunting-for-t1098-account-manipulation",
+  "slug": "hunting-for-t1098-account-manipulation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hunting-for-t1098-account-manipulation/",
+  "download_url": "https://claudskills.com/skills/hunting-for-t1098-account-manipulation/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Hunt for MITRE ATT&CK T1098 account manipulation including shadow admin creation, SID history injection, group",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

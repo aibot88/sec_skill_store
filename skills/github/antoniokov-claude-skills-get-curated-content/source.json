@@ -1,0 +1,19 @@
+{
+  "name": "get-curated-content",
+  "slug": "antoniokov-claude-skills-get-curated-content",
+  "source": "github",
+  "source_url": "https://github.com/antoniokov/claude-skills/blob/c7028f49f21d6b2cfe9c6e25f2516144a3a6503e/get-curated-content/SKILL.MD",
+  "download_url": "https://github.com/antoniokov/claude-skills/blob/c7028f49f21d6b2cfe9c6e25f2516144a3a6503e/get-curated-content/SKILL.MD",
+  "external_source_url": "https://github.com/antoniokov/claude-skills/blob/c7028f49f21d6b2cfe9c6e25f2516144a3a6503e/get-curated-content/SKILL.MD",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "antoniokov/claude-skills",
+    "path": "get-curated-content/SKILL.MD",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "clade-common-errors",
+  "slug": "clade-common-errors",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clade-common-errors/",
+  "download_url": "https://claudskills.com/skills/clade-common-errors/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Diagnose and fix Anthropic API errors — authentication, rate limits, Use when working with common-errors patterns. overloaded, context length, and content policy issues. Trigger with \"anthropic error\", \"claude 429\", \"claude overloaded\", \"anthropic not working\", \"debug claude api\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

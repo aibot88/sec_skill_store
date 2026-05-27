@@ -1,0 +1,18 @@
+{
+  "name": "hekate-state",
+  "slug": "hekate-state",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hekate-state/",
+  "download_url": "https://claudskills.com/skills/hekate-state/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Inspect and reset Hekate SQLite and Redis runtime state",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

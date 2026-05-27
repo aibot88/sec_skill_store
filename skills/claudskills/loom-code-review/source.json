@@ -1,0 +1,18 @@
+{
+  "name": "loom-code-review",
+  "slug": "loom-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/loom-code-review/",
+  "download_url": "https://claudskills.com/skills/loom-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run multi-axis implementation review through Loom critique. Use before merge, after feature or bug-fix implementation, when receiving review feedback, when reviewing AI/human code, or when correctness, readability, architecture, security, performance, tests, or evidence need pressure-testing.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:34+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "release-orchestrator",
+  "slug": "release-orchestrator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/release-orchestrator/",
+  "download_url": "https://claudskills.com/skills/release-orchestrator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT + Commons Clause",
+  "description": "Use when running pre-release validation, generating changelogs, bumping semantic versions, scoring deployment readiness, or orchestrating end-to-end release pipelines. Provides pre-flight checks, secret scanning, conventional commit parsing, and GO/CONDITIONAL/NO-GO gating.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "workflow-orchestration",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

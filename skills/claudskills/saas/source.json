@@ -1,0 +1,18 @@
+{
+  "name": "saas",
+  "slug": "saas",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/saas/",
+  "download_url": "https://claudskills.com/skills/saas/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "SaaS product wizard — captures preferences (auth, billing, multi-tenancy, free tier), generates phase plan, pipes design decisions into UI/UX Pro Max, hands the rest to GSD for execution",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

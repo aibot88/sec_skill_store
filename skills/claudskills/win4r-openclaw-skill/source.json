@@ -1,0 +1,18 @@
+{
+  "name": "openclaw",
+  "slug": "win4r-openclaw-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/win4r-openclaw-skill/",
+  "download_url": "https://claudskills.com/skills/win4r-openclaw-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive guide for installing, configuring, operating, and troubleshooting OpenClaw — a self-hosted, multi-channel AI agent gateway. Use when the user asks about OpenClaw setup, configuration, channel management (WhatsApp/Telegram/Discord/Slack/iMessage/etc.), model provider setup, Gateway operations, multi-agent routing, security hardening, troubleshooting, or any maintenance task related to their local OpenClaw installation. Also use when encountering errors from `openclaw` CLI commands or the Gateway daemon.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

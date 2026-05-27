@@ -1,0 +1,18 @@
+{
+  "name": "asset-semantic-extractor",
+  "slug": "asset-semantic-extractor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/asset-semantic-extractor/",
+  "download_url": "https://claudskills.com/skills/asset-semantic-extractor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Sinh TOML semantic index cho ảnh/video raw để các skill phía sau map vào kịch bản. Ưu tiên đọc từ asset-index SQLite vector DB (mỗi file gọi Gemini đúng 1 lần trong toàn bộ project), chỉ fallback về probe + vision pass tươi khi không có index.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

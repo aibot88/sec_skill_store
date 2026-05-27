@@ -1,0 +1,18 @@
+{
+  "name": "doc-project",
+  "slug": "doc-project",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/doc-project/",
+  "download_url": "https://claudskills.com/skills/doc-project/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Gera documentação rica e profissional para projetos — README bilíngue EN+PT-BR, docs estruturados, placeholders de imagem com dimensões corretas, CHANGELOG, CONTRIBUTING, SECURITY e templates GitHub",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

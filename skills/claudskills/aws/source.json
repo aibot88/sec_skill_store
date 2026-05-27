@@ -1,0 +1,18 @@
+{
+  "name": "aws",
+  "slug": "aws",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws/",
+  "download_url": "https://claudskills.com/skills/aws/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "AWS infrastructure management — EKS, ECR, VPC, RDS, ElastiCache, S3, Route53, ACM, Secrets Manager, CloudWatch, IAM",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

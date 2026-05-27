@@ -1,0 +1,18 @@
+{
+  "name": "https-certificate-checker",
+  "slug": "https-certificate-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/https-certificate-checker/",
+  "download_url": "https://claudskills.com/skills/https-certificate-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Https Certificate Checker - Auto-activating skill for Security Fundamentals. Triggers on: https certificate checker, https certificate checker Part of the Security Fundamentals skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

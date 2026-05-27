@@ -1,0 +1,18 @@
+{
+  "name": "binance",
+  "slug": "binance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/binance/",
+  "download_url": "https://claudskills.com/skills/binance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Binance exchange integration. Trade spot, futures, and manage portfolio on the world's largest crypto exchange.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

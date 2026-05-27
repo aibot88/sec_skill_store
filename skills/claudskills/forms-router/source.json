@@ -1,0 +1,18 @@
+{
+  "name": "forms-router",
+  "slug": "forms-router",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/forms-router/",
+  "download_url": "https://claudskills.com/skills/forms-router/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Router for web form development. Use when creating forms, handling validation, user input, or data entry across React, Vue, or vanilla JavaScript. Routes to 7 specialized skills for accessibility, validation, security, UX patterns, and framework-specific implementations. Start here for form projects.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "horcrux-shamir-secret-file-splitter",
+  "slug": "horcrux-shamir-secret-file-splitter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/horcrux-shamir-secret-file-splitter/",
+  "download_url": "https://claudskills.com/skills/horcrux-shamir-secret-file-splitter/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Horcrux splits files into encrypted fragments using Shamir Secret Sharing, so you can distribute pieces across locations and reconstruct the original with a configurable threshold — no password required.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

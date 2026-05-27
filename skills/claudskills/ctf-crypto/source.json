@@ -1,0 +1,18 @@
+{
+  "name": "ctf-crypto",
+  "slug": "ctf-crypto",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ctf-crypto/",
+  "download_url": "https://claudskills.com/skills/ctf-crypto/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Cryptography techniques for CTF challenges. Use when attacking encryption, hashing, ZKP, signatures, or mathematical crypto problems.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

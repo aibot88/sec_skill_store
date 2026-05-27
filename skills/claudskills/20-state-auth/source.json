@@ -1,0 +1,18 @@
+{
+  "name": "State Management & Auth Contexts",
+  "slug": "20-state-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/20-state-auth/",
+  "download_url": "https://claudskills.com/skills/20-state-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Gestion de l'état global dans Next.js — contextes d'auth Sanctuaire/Expert, entitlements, et hooks React personnalisés.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

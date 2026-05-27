@@ -1,0 +1,18 @@
+{
+  "name": "firmware-analyst",
+  "slug": "firmware-analyst",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firmware-analyst/",
+  "download_url": "https://claudskills.com/skills/firmware-analyst/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert firmware analyst specializing in embedded systems, IoT security, and hardware reverse engineering.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ln-761-secret-scanner",
+  "slug": "levn-ln-761-secret-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/levn-ln-761-secret-scanner/",
+  "download_url": "https://claudskills.com/skills/levn-ln-761-secret-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scans codebase for hardcoded secrets. Returns normalized findings with severity and remediation guidance. Pre-commit hook integration.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

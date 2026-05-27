@@ -1,0 +1,18 @@
+{
+  "name": "solon-development-skill",
+  "slug": "solon-development-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/solon-development-skill/",
+  "download_url": "https://claudskills.com/skills/solon-development-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Specialized knowledge for developing Java applications with the Solon framework. Covers core concepts, web, data, security, remoting, AI, flow orchestration, cloud-native, testing, and more. Solon is an independent Java enterprise framework (NOT based on Spring) with its own annotation system, IoC/AOP container, and plugin ecosystem.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

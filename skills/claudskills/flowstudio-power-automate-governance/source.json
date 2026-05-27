@@ -1,0 +1,18 @@
+{
+  "name": "flowstudio-power-automate-governance",
+  "slug": "flowstudio-power-automate-governance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flowstudio-power-automate-governance/",
+  "download_url": "https://claudskills.com/skills/flowstudio-power-automate-governance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Govern Power Automate flows and Power Apps at scale using the FlowStudio MCP cached store. Classify flows by business impact, detect orphaned resources, audit connector usage, enforce compliance standards, manage notification rules, and compute governance scores — all without Dataverse or the CoE Starter Kit. Load this skill when asked to: tag or classify flows, set business impact, assign ownership, detect orphans, audit connectors, check compliance, compute archive scores, manage notification rules, run a governance review, generate a compliance report, offboard a maker, or any task that involves writing governance metadata to flows. Requires a FlowStudio for Teams or MCP Pro+ subscription — see https://mcp.flowstudio.app",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

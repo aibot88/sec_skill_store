@@ -1,0 +1,18 @@
+{
+  "name": "npm-package-changelog-analyzer",
+  "slug": "npm-package-changelog-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/npm-package-changelog-analyzer/",
+  "download_url": "https://claudskills.com/skills/npm-package-changelog-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyzes NPM package changelogs and release notes using the NPM Registry API and GitHub Releases API. Detects breaking changes, security patches, and dependency conflicts across package upgrade paths.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "package-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

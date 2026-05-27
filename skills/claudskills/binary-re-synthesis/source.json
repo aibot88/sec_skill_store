@@ -1,0 +1,18 @@
+{
+  "name": "binary-re-synthesis",
+  "slug": "binary-re-synthesis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/binary-re-synthesis/",
+  "download_url": "https://claudskills.com/skills/binary-re-synthesis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when ready to document findings, generate a report, or summarize binary analysis results. Compiles analysis findings into structured reports - correlates facts from triage/static/dynamic phases, validates hypotheses, generates documentation with evidence chains. Keywords - \"summarize findings\", \"generate report\", \"document analysis\", \"what did we find\", \"write up results\", \"export findings",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

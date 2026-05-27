@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "void3110-rego-skill-.",
+  "source": "github",
+  "source_url": "https://github.com/Void3110/rego-skill/blob/d840c39bfdb54b18d5688dfbca0e6713248092cb/SKILL.md",
+  "download_url": "https://github.com/Void3110/rego-skill/blob/d840c39bfdb54b18d5688dfbca0e6713248092cb/SKILL.md",
+  "external_source_url": "https://github.com/Void3110/rego-skill/blob/d840c39bfdb54b18d5688dfbca0e6713248092cb/SKILL.md",
+  "license": "",
+  "description": "A Claude Code skill for generating, reviewing, and testing OPA Rego policies following security best practices.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Void3110/rego-skill",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

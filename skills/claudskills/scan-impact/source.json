@@ -1,0 +1,18 @@
+{
+  "name": "scan-impact",
+  "slug": "scan-impact",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scan-impact/",
+  "download_url": "https://claudskills.com/skills/scan-impact/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Identify the most mind-blowing, game-changing changes that could be made next assuming users will shortly abandon this project if it doesn't differentiate itself soon. TRIGGER whenever the user asks what work would be most impactful to do next.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "django-security",
+  "slug": "django-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/django-security/",
+  "download_url": "https://claudskills.com/skills/django-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Django security best practices, authentication, authorization, CSRF protection, SQL injection prevention, XSS prevention, and secure deployment configurations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

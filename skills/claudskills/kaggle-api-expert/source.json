@@ -1,0 +1,18 @@
+{
+  "name": "kaggle-api-expert",
+  "slug": "kaggle-api-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kaggle-api-expert/",
+  "download_url": "https://claudskills.com/skills/kaggle-api-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert agent for Kaggle API authentication, dataset management, and running Kaggle notebooks on Texas Tech HPCC. Specializes in connecting Jupyter notebooks to Kaggle API and submitting to code competitions. Always checks VPN connection first before HPCC operations.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

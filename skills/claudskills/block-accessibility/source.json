@@ -1,0 +1,18 @@
+{
+  "name": "block-accessibility",
+  "slug": "block-accessibility",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/block-accessibility/",
+  "download_url": "https://claudskills.com/skills/block-accessibility/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deep accessibility audit for AEM Edge Delivery Services block markup patterns. Goes beyond generic WCAG testing by understanding how EDS blocks generate DOM, how the table-to-block transformation works, and common accessibility failures in block decoration including missing ARIA roles, broken focus management, and keyboard navigation gaps. Use when auditing blocks for WCAG 2.1 AA compliance or preparing for accessibility certification.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

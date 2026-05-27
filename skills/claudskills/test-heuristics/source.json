@@ -1,0 +1,18 @@
+{
+  "name": "test-heuristics",
+  "slug": "test-heuristics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/test-heuristics/",
+  "download_url": "https://claudskills.com/skills/test-heuristics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when reviewing, designing, triaging, or rationalizing test suites — unit, integration, e2e/UI, exploratory, property-based, contract, snapshot, mutation, or performance tests. Trigger for flakiness triage, false-pass risk, brittleness on refactor, suite pruning, test-pyramid/trophy decisions, exploratory charters, and snapshot review. Routes by activity (triage / review / author / strategize / prune) and layer.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

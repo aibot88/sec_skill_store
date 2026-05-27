@@ -1,0 +1,18 @@
+{
+  "name": "cpg-analysis",
+  "slug": "cpg-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cpg-analysis/",
+  "download_url": "https://claudskills.com/skills/cpg-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deep code property graph analysis with Joern CPG (AST+CFG+PDG) and CodeQL for control flow, data flow, taint analysis, and security auditing",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

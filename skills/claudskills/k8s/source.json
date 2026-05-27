@@ -1,0 +1,18 @@
+{
+  "name": "k8s",
+  "slug": "k8s",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/k8s/",
+  "download_url": "https://claudskills.com/skills/k8s/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate production-grade Kubernetes manifests — Deployments with probes and security contexts, Services, Ingress with TLS, HPA, PDB, NetworkPolicy, ConfigMaps, Secrets — with optional Helm charts, Kustomize overlays, Istio mesh, and ArgoCD GitOps",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

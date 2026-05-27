@@ -1,0 +1,18 @@
+{
+  "name": "nomos-mcp",
+  "slug": "nomos-mcp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nomos-mcp/",
+  "download_url": "https://claudskills.com/skills/nomos-mcp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage Nomos artifacts via MCP Server. Use when creating, updating, or deleting products, rules, requirements, blueprints, or instances in a Nomos catalog. Also use to validate the catalog after changes, manage workspaces (Git branches), or check the compliance status of product instances.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

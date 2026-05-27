@@ -1,0 +1,18 @@
+{
+  "name": "scanning-market-movers",
+  "slug": "scanning-market-movers",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scanning-market-movers/",
+  "download_url": "https://claudskills.com/skills/scanning-market-movers/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Detect significant price movements and unusual volume across crypto markets. Calculates significance scores combining price change, volume ratio, and market cap. Use when tracking market movers, finding gainers/losers, or detecting volume spikes. Trigger with phrases like \"scan market movers\", \"top gainers\", \"biggest losers\", \"volume spikes\", \"what's moving\", \"find pumps\", or \"market scan\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

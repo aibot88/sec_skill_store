@@ -1,0 +1,18 @@
+{
+  "name": "code-reviewer-pro",
+  "slug": "code-reviewer-pro",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-reviewer-pro/",
+  "download_url": "https://claudskills.com/skills/code-reviewer-pro/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review code with security scanning, complexity analysis, and auto docs. Use when auditing codebases, suggesting refactors, or enforcing standards.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

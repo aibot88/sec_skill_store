@@ -1,0 +1,18 @@
+{
+  "name": "sales-spark-mail",
+  "slug": "sales-spark-mail",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-spark-mail/",
+  "download_url": "https://claudskills.com/skills/sales-spark-mail/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Spark Mail platform help — cross-platform AI email client by Readdle with Smart Inbox categorization, Gatekeeper sender screening, AI writing and summarization, email translation, team collaboration (shared drafts, internal comments, delegation), calendar integration, works with Gmail/Outlook/iCloud/Exchange/Yahoo/IMAP on Mac/Windows/iOS/Android (Free, Premium $5/mo, Teams $6.99/user/mo). Use when setting up Spark Mail Smart Inbox or Gatekeeper for email triage, Spark AI writing or summarization not working well, Spark sync issues or crashes across devices, comparing Spark to Superhuman or Shortwave or Apple Mail, choosing between Spark free vs Premium vs Teams plans, or worried about Spark Mail privacy and server-side processing. Do NOT use for comparing AI email assistants broadly (use /sales-do). Do NOT use for team shared inbox with ticketing (use /sales-missive or /sales-hiver).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

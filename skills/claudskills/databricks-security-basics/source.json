@@ -1,0 +1,18 @@
+{
+  "name": "databricks-security-basics",
+  "slug": "databricks-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/databricks-security-basics/",
+  "download_url": "https://claudskills.com/skills/databricks-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Databricks security best practices for secrets and access control. Use when securing API tokens, implementing least privilege access, or auditing Databricks security configuration. Trigger with phrases like \"databricks security\", \"databricks secrets\", \"secure databricks\", \"databricks token security\", \"databricks scopes\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

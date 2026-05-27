@@ -1,0 +1,19 @@
+{
+  "name": "plugin",
+  "slug": "expanso-io-skills.expanso.io-plugin",
+  "source": "github",
+  "source_url": "https://github.com/expanso-io/skills.expanso.io/blob/97ef705d2acc1684a3fadc8ddd29e1ab65b3ad1d/plugin/expanso-skill.md",
+  "download_url": "https://github.com/expanso-io/skills.expanso.io/blob/97ef705d2acc1684a3fadc8ddd29e1ab65b3ad1d/plugin/expanso-skill.md",
+  "external_source_url": "https://github.com/expanso-io/skills.expanso.io/blob/97ef705d2acc1684a3fadc8ddd29e1ab65b3ad1d/plugin/expanso-skill.md",
+  "license": "",
+  "description": "Official marketplace for Expanso skills - 172+ pre-built data processing pipelines for OpenClaw, Claude, and MCP",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "expanso-io/skills.expanso.io",
+    "path": "plugin/expanso-skill.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

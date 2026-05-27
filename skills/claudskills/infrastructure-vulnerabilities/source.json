@@ -1,0 +1,18 @@
+{
+  "name": "infrastructure-vulnerabilities",
+  "slug": "infrastructure-vulnerabilities",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/infrastructure-vulnerabilities/",
+  "download_url": "https://claudskills.com/skills/infrastructure-vulnerabilities/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "OWASP Infrastructure Top 10 vulnerability knowledge base for identifying, assessing, and remediating security risks in internal IT infrastructure environments.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "newspaper4k-python-article-extraction-nlp",
+  "slug": "newspaper4k-python-article-extraction-nlp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/newspaper4k-python-article-extraction-nlp/",
+  "download_url": "https://claudskills.com/skills/newspaper4k-python-article-extraction-nlp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Newspaper4k is an actively maintained fork of the popular Newspaper3k library for Python. It extracts articles, titles, images, authors, and metadata from news websites, with built-in NLP for keyword extraction and text summarization.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "writing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

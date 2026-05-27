@@ -1,0 +1,18 @@
+{
+  "name": "401-frameworks-quarkus-core",
+  "slug": "401-frameworks-quarkus-core",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/401-frameworks-quarkus-core/",
+  "download_url": "https://claudskills.com/skills/401-frameworks-quarkus-core/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when building or reviewing core Quarkus applications with CDI beans and scopes, SmallRye Config and profiles, lifecycle, interceptors and events, virtual threads, and test-friendly design. This should trigger for requests such as Review Java code for Quarkus application structure and CDI; Apply best practices for Quarkus configuration and beans; Improve CDI interceptors, events, or programmatic injection in Quarkus; Add virtual-thread configuration or tune CDI lifecycle. Part of cursor-rules-java project",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

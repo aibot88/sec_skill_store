@@ -1,0 +1,18 @@
+{
+  "name": "bir-tax-filing",
+  "slug": "bir-tax-filing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bir-tax-filing/",
+  "download_url": "https://claudskills.com/skills/bir-tax-filing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automate Philippine BIR (Bureau of Internal Revenue) tax form generation and filing. Handles 1601-C (withholding tax), 2550Q (quarterly VAT), 1702-RT/EX (annual income tax), and ATP (Authorization to Print) validation. Ensures 100% compliance with BIR regulations.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "finance-personal",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

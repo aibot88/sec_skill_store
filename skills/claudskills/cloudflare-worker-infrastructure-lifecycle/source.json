@@ -1,0 +1,18 @@
+{
+  "name": "myco:cloudflare-worker-infrastructure-lifecycle",
+  "slug": "cloudflare-worker-infrastructure-lifecycle",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloudflare-worker-infrastructure-lifecycle/",
+  "download_url": "https://claudskills.com/skills/cloudflare-worker-infrastructure-lifecycle/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Deploy, maintain, and operate Myco's multi-worker Cloudflare infrastructure including team sync D1/Vectorize deployment, cloud MCP server operations, collective worker configuration, Wrangler upgrade hardening, Workers KV auth token lifecycle, and D1 schema migration ordering. Use this for any Cloudflare Worker deployment, D1 database operations, MCP server management, multi-worker coordination, Wrangler CLI troubleshooting, or cross-worker infrastructure tasks, even if the user doesn't explicitly mention the full infrastructure scope.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

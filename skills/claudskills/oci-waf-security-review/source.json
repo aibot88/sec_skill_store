@@ -1,0 +1,18 @@
+{
+  "name": "oci-waf-security-review",
+  "slug": "oci-waf-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oci-waf-security-review/",
+  "download_url": "https://claudskills.com/skills/oci-waf-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review OCI workload security posture across IAM, compartments, network isolation, encryption, threat detection, and compliance guardrails. Use when assessing OCI WAF security pillar alignment, auditing Cloud Guard and Security Zones, evaluating defense-in-depth configuration, or challenging risky assumptions before security-impacting changes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

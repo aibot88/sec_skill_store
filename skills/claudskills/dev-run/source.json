@@ -1,0 +1,18 @@
+{
+  "name": "dev-run",
+  "slug": "dev-run",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-run/",
+  "download_url": "https://claudskills.com/skills/dev-run/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill should be used when the user asks to \"dev-run\", \"自動実装\", \"タスクを一括実装\", \"auto implement\", \"run all tasks\", \"タスクを自動実行\", \"バッチ実装\", \"dev-run auth 001 005\". Plan内の指定範囲のタスクをdev-impl/dev-verify/dev-debugのワークフローで自動実行するオーケストレーションスキル。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

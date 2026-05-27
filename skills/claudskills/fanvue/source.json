@@ -1,0 +1,18 @@
+{
+  "name": "Fanvue",
+  "slug": "fanvue",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fanvue/",
+  "download_url": "https://claudskills.com/skills/fanvue/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage content, chats, subscribers, and earnings on the Fanvue creator platform via OAuth 2.0 API.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

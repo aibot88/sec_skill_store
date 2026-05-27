@@ -1,0 +1,18 @@
+{
+  "name": "bazel",
+  "slug": "bazel",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bazel/",
+  "download_url": "https://claudskills.com/skills/bazel/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Bazel build system skill for C/C++ projects. Use when writing BUILD files with cc_library and cc_binary rules, registering toolchains, configuring remote execution, debugging sandbox issues, using query and cquery for dependency graphs, or migrating from CMake to Bazel. Activates on queries about Bazel, BUILD files, cc_library, cc_binary, Bzlmod, bazel query, remote execution, or Bazel toolchain registration.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:04+00:00"
+}

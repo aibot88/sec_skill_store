@@ -1,0 +1,18 @@
+{
+  "name": "testing-cors-misconfiguration",
+  "slug": "testing-cors-misconfiguration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/testing-cors-misconfiguration/",
+  "download_url": "https://claudskills.com/skills/testing-cors-misconfiguration/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Identifying and exploiting Cross-Origin Resource Sharing misconfigurations that allow unauthorized cross-domain",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

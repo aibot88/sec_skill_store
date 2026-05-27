@@ -1,0 +1,18 @@
+{
+  "name": "government-compliance",
+  "slug": "government-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/government-compliance/",
+  "download_url": "https://claudskills.com/skills/government-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit government and federal software for FedRAMP authorization readiness (Low/Moderate/High), NIST 800-53 controls (AC, AU, CM, IA, SC, SI families), FISMA compliance, Section 508 / WCAG 2.1 AA accessibility, FOIA search and redaction, NARA records retention, FIPS 140-2 cryptography, CJIS Security Policy, IRS Pub 1075, data sovereignty, and ATO-blocking gaps. Use when reviewing GovTech, federal contractor, or public sector codebases for compliance certification.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:09+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "reflection-injection",
+  "slug": "reflection-injection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/reflection-injection/",
+  "download_url": "https://claudskills.com/skills/reflection-injection/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Inject relevant past reflections into agent context at iteration start so agents learn from prior mistakes without repeating them",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "personal-productivity",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

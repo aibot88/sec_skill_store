@@ -1,0 +1,18 @@
+{
+  "name": "offensive-reporting",
+  "slug": "offensive-reporting",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/offensive-reporting/",
+  "download_url": "https://claudskills.com/skills/offensive-reporting/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Penetration test and red team report writing methodology. Covers executive summary structuring (risk-led narrative for non-technical readers), technical finding format (title, severity, affected scope, narrative, reproduction steps, impact, remediation, references), CVSS v3.1 / v4.0 scoring with vector justification, OWASP risk rating, evidence hygiene (redacting credentials, hashing client data, time-stamping every action), screenshot and PoC artifact management, finding chain narratives, scope/limitations/assumptions documentation, retest evidence and remediation tracking, deliverable formats (PDF, DOCX, HTML, JSON for SIEM ingestion), client-customer-deliverable separation, and common report mistakes (over-CVSSing, undermining the triager, missing the 'so what'). Use at the end of an engagement when authoring a deliverable, when restructuring a draft for executive readability, or when establishing a reusable report template for a consulting practice.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

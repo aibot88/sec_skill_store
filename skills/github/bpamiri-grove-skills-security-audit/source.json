@@ -1,0 +1,19 @@
+{
+  "name": "security-audit",
+  "slug": "bpamiri-grove-skills-security-audit",
+  "source": "github",
+  "source_url": "https://github.com/bpamiri/grove/blob/32717bad6394add523a7bd7006e8a35df754dcdd/skills/security-audit/skill.md",
+  "download_url": "https://github.com/bpamiri/grove/blob/32717bad6394add523a7bd7006e8a35df754dcdd/skills/security-audit/skill.md",
+  "external_source_url": "https://github.com/bpamiri/grove/blob/32717bad6394add523a7bd7006e8a35df754dcdd/skills/security-audit/skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "bpamiri/grove",
+    "path": "skills/security-audit/skill.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

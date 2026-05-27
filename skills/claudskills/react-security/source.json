@@ -1,0 +1,18 @@
+{
+  "name": "react-security",
+  "slug": "react-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/react-security/",
+  "download_url": "https://claudskills.com/skills/react-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when the user is securing a React application, asking about \"XSS in React\", \"dangerouslySetInnerHTML security\", \"Server Actions security\", \"React data exposure\", \"sensitive data in React\", \"auth token storage\", \"IDOR in Next.js\", \"React security audit\", \"secure React forms\", \"Server Component secrets\", \"server-only package\", \"React taint API\", \"DOMPurify React\", \"prototype pollution React\", \"hardcoded secrets React\", or reviewing React code for security vulnerabilities.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

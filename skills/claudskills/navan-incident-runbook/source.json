@@ -1,0 +1,18 @@
+{
+  "name": "navan-incident-runbook",
+  "slug": "navan-incident-runbook",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/navan-incident-runbook/",
+  "download_url": "https://claudskills.com/skills/navan-incident-runbook/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when responding to Navan platform incidents — flight cancellations, booking API failures, expense sync outages, or OAuth authentication errors. Trigger with \"navan incident runbook\" or \"navan outage response\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "operations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:41+00:00"
+}

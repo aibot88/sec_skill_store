@@ -1,0 +1,18 @@
+{
+  "name": "caddy",
+  "slug": "caddy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/caddy/",
+  "download_url": "https://claudskills.com/skills/caddy/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Comprehensive Caddy web server management across multiple environments. Handles multi-server operations, zero-downtime deployments, secret management with 1Password, custom builds with plugins, and systemd service management.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ci-cd-reviewer",
+  "slug": "ci-cd-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ci-cd-reviewer/",
+  "download_url": "https://claudskills.com/skills/ci-cd-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "WHEN: CI/CD pipeline review, GitHub Actions, GitLab CI, Jenkins, build optimization WHAT: Pipeline structure + Job optimization + Security scanning + Caching strategy + Deployment patterns WHEN NOT: Kubernetes → k8s-reviewer, Terraform → terraform-reviewer",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

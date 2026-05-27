@@ -1,0 +1,18 @@
+{
+  "name": "webhook-integration",
+  "slug": "webhook-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/webhook-integration/",
+  "download_url": "https://claudskills.com/skills/webhook-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when implementing or reviewing an inbound webhook handler for any third-party provider - verifying signatures, deduplicating retries, choosing the right HTTP status code for retry vs no-retry, persisting raw payloads before canonical mapping, and quarantining unverifiable events. Covers signature schemes, idempotency patterns, provider retry contracts, raw-then-canonical pipelines, quarantine, secret rotation, and PII-capture timing. Do NOT use for outbound webhook publishing (use `event-contract-design`), general background-job orchestration, or chasing a webhook handler that has already failed in production (use `debugging`).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "workflow-orchestration",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "implementing-agent-modes",
+  "slug": "implementing-agent-modes",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-agent-modes/",
+  "download_url": "https://claudskills.com/skills/implementing-agent-modes/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guidelines to create/update a new mode for PostHog AI agent. Modes are a way to limit what tools, prompts, and prompt injections are applied and under what conditions. Achieve better results using your plan mode.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

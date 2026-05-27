@@ -1,0 +1,18 @@
+{
+  "name": "moai-library-shadcn",
+  "slug": "moai-library-shadcn",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/moai-library-shadcn/",
+  "download_url": "https://claudskills.com/skills/moai-library-shadcn/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Provides shadcn/ui component library expertise for React applications with shadcn/cli v4, preset system, RTL support, unified radix-ui, and OKLCH theming. Use when implementing UI components, design systems, CLI workflows, or registry authoring with shadcn/ui.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

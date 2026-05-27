@@ -1,0 +1,19 @@
+{
+  "name": "cicd-agent",
+  "slug": "farmountain-sdlc_agent_swarm-.agents-skills-cicd-agent",
+  "source": "github",
+  "source_url": "https://github.com/farmountain/sdlc_agent_swarm/blob/523743adeffa6d7cdaaf61e931f8eb8fe1ab630b/.agents/skills/cicd-agent/skill.md",
+  "download_url": "https://github.com/farmountain/sdlc_agent_swarm/blob/523743adeffa6d7cdaaf61e931f8eb8fe1ab630b/.agents/skills/cicd-agent/skill.md",
+  "external_source_url": "https://github.com/farmountain/sdlc_agent_swarm/blob/523743adeffa6d7cdaaf61e931f8eb8fe1ab630b/.agents/skills/cicd-agent/skill.md",
+  "license": "",
+  "description": "A quick replicate of my Codex Boaster project using VS code no code agentic framework",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "farmountain/sdlc_agent_swarm",
+    "path": ".agents/skills/cicd-agent/skill.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

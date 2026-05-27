@@ -1,0 +1,18 @@
+{
+  "name": "review-input",
+  "slug": "review-input",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/review-input/",
+  "download_url": "https://claudskills.com/skills/review-input/SKILL.md",
+  "external_source_url": "",
+  "license": "ELv2",
+  "description": "Adversarial review of any input (human idea, agent analysis, research report, feedback, observation) BEFORE it mutates persistent project state. Universal interceptor with domain auto-detection, 2-phase classification + evaluation, and triple-verdict output (veracity / fit / actionability). Anti-girouette guardrail that distinguishes drift from pivot — preserves human decisional authority. Manual invocation only (no hooks, no enforcement). Activate when an input may affect strategic-frame.md, a DEC, an OT, an architecture/pattern doc, an agent definition, a backlog story scope/AC/wedge field, or user-facing copy.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

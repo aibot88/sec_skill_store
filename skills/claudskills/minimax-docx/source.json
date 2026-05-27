@@ -1,0 +1,18 @@
+{
+  "name": "minimax-docx",
+  "slug": "minimax-docx",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/minimax-docx/",
+  "download_url": "https://claudskills.com/skills/minimax-docx/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Professional DOCX document creation and editing using OpenXML SDK. Useful for branded reports, polished proposals, and template-based authoring.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

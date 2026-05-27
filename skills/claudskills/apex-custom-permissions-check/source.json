@@ -1,0 +1,18 @@
+{
+  "name": "apex-custom-permissions-check",
+  "slug": "apex-custom-permissions-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/apex-custom-permissions-check/",
+  "download_url": "https://claudskills.com/skills/apex-custom-permissions-check/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Custom Permissions in Apex: FeatureManagement.checkPermission, $Permission global variable, permission-set gating of feature code, Custom Permission metadata. NOT for CRUD/FLS enforcement (use security-apex-crud-fls). NOT for standard Salesforce permissions (use permission-set-architecture).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "crisis-triage",
+  "slug": "crisis-triage",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crisis-triage/",
+  "download_url": "https://claudskills.com/skills/crisis-triage/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit emergency and crisis triage systems for call prioritization accuracy, resource dispatching algorithm quality, severity classification model evaluation, response time optimization, geographic coverage analysis, mutual aid protocol readiness, and post-incident review workflows. Covers CAD integration, GIS spatial indexing, queue management under resource constraints, demand forecasting, NFIRS/NEMSIS compliance reporting, and interagency interoperability. Use when reviewing 911 dispatch platforms, emergency management software, crisis hotline systems, disaster response tools, or any software that classifies incident severity and coordinates responder dispatch.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "clanky-konvence",
+  "slug": "clanky-konvence",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clanky-konvence/",
+  "download_url": "https://claudskills.com/skills/clanky-konvence/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Konvence pro psaní a editaci článků v Astro monorepu orlojWeb (hodinarium-eu, horologie-cz). Aktivuje se při editaci .md/.mdx v content/hodinarium-eu/ nebo content/horologie-cz/, při tvorbě/úpravě komponent v apps/*/src/components/, při psaní frontmatteru (perex/tldr, author, references), při vkládání obrázků s creditem, při formátování odkazů (wiki, mapy, PDF), při řešení layoutu článku (hero, float images, mezititulky, single * * *) a při kontrole deploymentu na Cloudflare Pages.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

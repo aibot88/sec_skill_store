@@ -1,0 +1,18 @@
+{
+  "name": "adr-review",
+  "slug": "adr-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/adr-review/",
+  "download_url": "https://claudskills.com/skills/adr-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Multi-agent debate orchestration for Architecture Decision Records. Automatically triggers on ADR create/edit/delete. Coordinates architect, critic, independent-thinker, security, analyst, and high-level-advisor agents in structured debate rounds until consensus.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

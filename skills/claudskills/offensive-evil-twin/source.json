@@ -1,0 +1,18 @@
+{
+  "name": "offensive-evil-twin",
+  "slug": "offensive-evil-twin",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/offensive-evil-twin/",
+  "download_url": "https://claudskills.com/skills/offensive-evil-twin/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Evil Twin / KARMA / Mana access point methodology — rogue AP construction with hostapd-mana / wifiphisher / airgeddon, KARMA universal probe response, Mana selective probe response, captive portal phishing, deauth-driven client coercion to attacker AP, MAC randomization defeat via PNL leak analysis, post-association MITM (DNS, ARP, transparent proxy), credential capture for portal/web/SMB, and detection-evasion tactics. Use to coerce client devices onto an attacker-controlled AP, intercept their traffic, harvest credentials, or deliver payloads via captive portal.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "rwrw01-security-audit",
+  "slug": "rwrw01-security-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rwrw01-security-audit/",
+  "download_url": "https://claudskills.com/skills/rwrw01-security-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run a full security-in-depth audit including OWASP Top 10, dependency analysis, and defense-in-depth review. Use for security audit, pentest review, or vulnerability assessment.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

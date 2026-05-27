@@ -1,0 +1,18 @@
+{
+  "name": "quarkdown",
+  "slug": "quarkdown",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/quarkdown/",
+  "download_url": "https://claudskills.com/skills/quarkdown/SKILL.md",
+  "external_source_url": "",
+  "license": "GPL-3.0",
+  "description": "Author Quarkdown (.qd) documents, a Markdown-superset typesetting language that compiles to HTML, PDF, or plaintext. Use when the user wants to write or edit .qd files, produce typeset output (articles, reports, slides, books, wikis, notes, static sites) beyond what plain Markdown offers, or share structured plans in a presentation-ready format. Quarkdown adds function calls (`.func {arg}`), variables, layouts, math, diagrams, and document types (plain/paged/slides/docs).",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

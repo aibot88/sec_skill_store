@@ -1,0 +1,18 @@
+{
+  "name": "native-mcp",
+  "slug": "native-mcp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/native-mcp/",
+  "download_url": "https://claudskills.com/skills/native-mcp/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Built-in MCP (Model Context Protocol) client that connects to external MCP servers, discovers their tools, and registers them as native Hermes Agent tools. Supports stdio and HTTP transports with automatic reconnection, security filtering, and zero-config tool injection.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:41+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ln-610-code-comments-auditor",
+  "slug": "ln-610-code-comments-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-610-code-comments-auditor/",
+  "download_url": "https://claudskills.com/skills/ln-610-code-comments-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit code comments and docstrings quality across 6 categories (WHY-not-WHAT, Density, Forbidden Content, Docstrings, Actuality, Legacy). Use when code needs comment review, after major refactoring, or as part of ln-100-documents-pipeline. Outputs Compliance Score X/10 per category + Findings + Recommended Actions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

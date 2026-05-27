@@ -1,0 +1,18 @@
+{
+  "name": "ag-8-seguranca",
+  "slug": "ag-8-seguranca",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ag-8-seguranca/",
+  "download_url": "https://claudskills.com/skills/ag-8-seguranca/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Maquina autonoma de seguranca (wrapper SENTINEL). Security + load testing + LGPD compliance. 6 dimensoes, modo hybrid, convergencia SSS >= 80. Security Certificate.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

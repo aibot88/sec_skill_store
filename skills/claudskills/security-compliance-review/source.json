@@ -1,0 +1,18 @@
+{
+  "name": "security-compliance-review",
+  "slug": "security-compliance-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-compliance-review/",
+  "download_url": "https://claudskills.com/skills/security-compliance-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Performs advanced SAST (Static Application Security Testing) and compliance analysis on Pull Request diffs. Identifies real security vulnerabilities, secrets, and regulatory compliance violations (GDPR, HIPAA, SOC2, PCI-DSS) by analyzing only changed code. Multi-language with exploitability assessment and CWE mapping.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

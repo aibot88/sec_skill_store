@@ -1,0 +1,18 @@
+{
+  "name": "validating-api-contracts",
+  "slug": "contract-test-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/contract-test-validator/",
+  "download_url": "https://claudskills.com/skills/contract-test-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill validates API contracts using consumer-driven testing and OpenAPI validation. It leverages Pact for consumer-driven contract testing, ensuring that API providers adhere to the expectations of their consumers. It also validates APIs against OpenAPI specifications to guarantee compliance and identify breaking changes. Use this skill when the user asks to generate contract tests, validate API responses, check backward compatibility, or validate requests/responses using the terms \"contract-test\", \"ct\", \"Pact\", \"OpenAPI validation\", or \"consumer-driven contract testing\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

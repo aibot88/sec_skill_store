@@ -1,0 +1,18 @@
+{
+  "name": "sweep-flag-namespace",
+  "slug": "sweep-flag-namespace",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sweep-flag-namespace/",
+  "download_url": "https://claudskills.com/skills/sweep-flag-namespace/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Bulk-extract every candidate flag from a binary namespace, build an extraction inventory with occurrence counts and call-type tags, cross- reference against a documented set, and track completeness across probe campaigns until the undocumented remainder reaches zero. Covers namespace prefix harvesting, gate-vs-telemetry disambiguation at the call-site level, completeness metrics, DEFAULT-TRUE population reporting, and a final completion confirmation scan. Use upstream of probe-feature-flag- state when you need a complete catalog rather than a sample, or when a prior wave-based campaign needs a verifiable end condition.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

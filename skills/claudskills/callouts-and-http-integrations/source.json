@@ -1,0 +1,18 @@
+{
+  "name": "callouts-and-http-integrations",
+  "slug": "callouts-and-http-integrations",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/callouts-and-http-integrations/",
+  "download_url": "https://claudskills.com/skills/callouts-and-http-integrations/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when building, reviewing, or debugging outbound Apex HTTP callouts, Named Credentials, request/response handling, timeout behavior, or mock-based tests. Triggers: 'HttpRequest', 'Named Credential', 'callout exception', 'uncommitted work pending', 'HttpCalloutMock'. NOT for inbound Apex REST service design or non-HTTP integration architecture.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

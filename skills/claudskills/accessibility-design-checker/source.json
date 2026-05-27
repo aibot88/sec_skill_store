@@ -1,0 +1,18 @@
+{
+  "name": "accessibility-design-checker",
+  "slug": "accessibility-design-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/accessibility-design-checker/",
+  "download_url": "https://claudskills.com/skills/accessibility-design-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Ensures designs meet accessibility requirements including WCAG compliance, color contrast, keyboard navigation, screen reader support, and focus management. Reviews designs for accessibility issues and provides recommendations.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

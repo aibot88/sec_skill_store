@@ -1,0 +1,18 @@
+{
+  "name": "building-patch-tuesday-response-process",
+  "slug": "building-patch-tuesday-response-process",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-patch-tuesday-response-process/",
+  "download_url": "https://claudskills.com/skills/building-patch-tuesday-response-process/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Establish a structured operational process to triage, test, and deploy Microsoft Patch Tuesday security updates",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

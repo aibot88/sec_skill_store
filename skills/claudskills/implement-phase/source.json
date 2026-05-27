@@ -1,0 +1,18 @@
+{
+  "name": "implement-phase",
+  "slug": "implement-phase",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implement-phase/",
+  "download_url": "https://claudskills.com/skills/implement-phase/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Execute a single phase from an implementation plan with all quality gates. This skill is the unit of work for implement-plan, handling implementation, verification, code review, ADR compliance, and plan synchronization for ONE phase. Triggers when implement-plan delegates a phase, or manually with \"/implement-phase\" and a phase reference.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

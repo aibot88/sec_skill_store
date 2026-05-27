@@ -1,0 +1,18 @@
+{
+  "name": "prompt-injection-defense",
+  "slug": "prompt-injection-defense",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prompt-injection-defense/",
+  "download_url": "https://claudskills.com/skills/prompt-injection-defense/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Red-team an Agentforce agent against prompt-injection and jailbreak attacks; codify test cases and guardrails. NOT for general application-security reviews outside the agent boundary.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

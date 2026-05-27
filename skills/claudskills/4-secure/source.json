@@ -1,0 +1,18 @@
+{
+  "name": "security",
+  "slug": "4-secure",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/4-secure/",
+  "download_url": "https://claudskills.com/skills/4-secure/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Protect your SaaS app from common vulnerabilities. Use when building auth, handling user data, or deploying features. Covers authentication, data protection, API security, and OWASP Top 10 for non-technical founders using AI tools.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

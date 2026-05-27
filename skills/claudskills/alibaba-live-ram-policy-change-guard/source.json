@@ -1,0 +1,18 @@
+{
+  "name": "alibaba-live-ram-policy-change-guard",
+  "slug": "alibaba-live-ram-policy-change-guard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibaba-live-ram-policy-change-guard/",
+  "download_url": "https://claudskills.com/skills/alibaba-live-ram-policy-change-guard/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Gate RAM policy/role mutations against the Alibaba Cloud account hierarchy. RAM AdministratorAccess assignment, policy deletion with active STS tokens, and Resource Directory Control Policy changes carry account-wide or org-wide blast radius. This guard enforces blast-radius assessment, STS token impact analysis, and explicit authority approval before any policy mutation is executed.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

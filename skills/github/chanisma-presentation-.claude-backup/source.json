@@ -1,0 +1,19 @@
+{
+  "name": "backup",
+  "slug": "chanisma-presentation-.claude-backup",
+  "source": "github",
+  "source_url": "https://github.com/chanisma/presentation/blob/a0c7394c051bb3b4fda301ef98e896196a314981/.claude/backup/SKILL.md.bak",
+  "download_url": "https://github.com/chanisma/presentation/blob/a0c7394c051bb3b4fda301ef98e896196a314981/.claude/backup/SKILL.md.bak",
+  "external_source_url": "https://github.com/chanisma/presentation/blob/a0c7394c051bb3b4fda301ef98e896196a314981/.claude/backup/SKILL.md.bak",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "chanisma/presentation",
+    "path": ".claude/backup/SKILL.md.bak",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

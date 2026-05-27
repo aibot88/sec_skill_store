@@ -1,0 +1,18 @@
+{
+  "name": "stripe-webhook-signature-verifier",
+  "slug": "stripe-webhook-signature-verifier",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/stripe-webhook-signature-verifier/",
+  "download_url": "https://claudskills.com/skills/stripe-webhook-signature-verifier/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Verifies Stripe webhook payload signatures using the Stripe.js SDK and the stripe.webhooks.constructEvent method. Validates the Stripe-Signature header against the raw request body and a configured endpoint secret. Handles tolerance windows for replay attack prevention and logs verification failures to Datadog via the Datadog Logs API.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

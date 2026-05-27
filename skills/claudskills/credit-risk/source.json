@@ -1,0 +1,18 @@
+{
+  "name": "credit-risk",
+  "slug": "credit-risk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/credit-risk/",
+  "download_url": "https://claudskills.com/skills/credit-risk/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit credit risk modeling software for scoring algorithm accuracy, regulatory compliance (ECOA, FCRA, SR 11-7), bias and disparate impact testing, model governance lifecycle, and explainability. Covers logistic regression, GBM, neural net evaluation, protected class proxy detection, adverse action notice generation, SHAP/LIME explainability, champion-challenger frameworks, and PSI drift monitoring. Use when reviewing lending platforms, underwriting engines, credit scoring APIs, fintech decisioning systems, or any codebase that scores creditworthiness or generates approval/denial decisions.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

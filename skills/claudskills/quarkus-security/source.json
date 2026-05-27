@@ -1,0 +1,18 @@
+{
+  "name": "quarkus-security",
+  "slug": "quarkus-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/quarkus-security/",
+  "download_url": "https://claudskills.com/skills/quarkus-security/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Quarkus Security best practices for authentication, authorization, JWT/OIDC, RBAC, input validation, CSRF, secrets management, and dependency security.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

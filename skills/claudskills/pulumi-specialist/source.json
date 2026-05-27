@@ -1,0 +1,18 @@
+{
+  "name": "pulumi-specialist",
+  "slug": "pulumi-specialist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pulumi-specialist/",
+  "download_url": "https://claudskills.com/skills/pulumi-specialist/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deep-dive Pulumi stack review, component design, Automation API audit, and secrets management. Use for structured investigations of Pulumi stack drift, ComponentResource coupling, ESC configuration, and Automation API workflows. Triggers on: \"Pulumi audit\", \"stack review\", \"Automation API review\", \"ComponentResource design\", \"ESC audit\", \"Pulumi secrets\", \"Pulumi testing\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

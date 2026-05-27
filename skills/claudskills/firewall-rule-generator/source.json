@@ -1,0 +1,18 @@
+{
+  "name": "firewall-rule-generator",
+  "slug": "firewall-rule-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firewall-rule-generator/",
+  "download_url": "https://claudskills.com/skills/firewall-rule-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Firewall Rule Generator - Auto-activating skill for GCP Skills. Triggers on: firewall rule generator, firewall rule generator Part of the GCP Skills skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

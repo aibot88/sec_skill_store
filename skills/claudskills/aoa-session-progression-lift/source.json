@@ -1,0 +1,18 @@
+{
+  "name": "aoa-session-progression-lift",
+  "slug": "aoa-session-progression-lift",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aoa-session-progression-lift/",
+  "download_url": "https://claudskills.com/skills/aoa-session-progression-lift/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Lift reviewed session evidence into a bounded multi-axis progression delta with explicit unlock hints, quest reflection cues, and no fake single-score authority. Use when a reviewed session produced meaningful mastery evidence and you need progression legibility without mutating source role profiles or routing authority. Do not use when there is no reviewed evidence, when the request wants one universal power number, or when progression language is being used as hidden policy.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "personal-productivity",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

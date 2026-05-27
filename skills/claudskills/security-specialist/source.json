@@ -1,0 +1,18 @@
+{
+  "name": "security-specialist",
+  "slug": "security-specialist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-specialist/",
+  "download_url": "https://claudskills.com/skills/security-specialist/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "סיוע באבטחת אפליקציות ווב ו-APIs. השתמש כשמבקשים לאבטח פרויקט, לבדוק חולשות, להגדיר הרשאות, לנהל API keys, או להגן על נתונים. מותאם ל-Vibe Coders שעובדים עם Supabase, FastAPI, ו-Claude Code. מסביר מושגי אבטחה בשפה פשוטה עם צ'קליסטים מעשיים.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

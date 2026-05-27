@@ -1,0 +1,18 @@
+{
+  "name": "int-youtube",
+  "slug": "int-youtube",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/int-youtube/",
+  "download_url": "https://claudskills.com/skills/int-youtube/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Query YouTube Data API v3 — channel stats, recent videos, top videos, comments. Supports multi-account (OAuth or API Key). Use when user asks about YouTube metrics, YouTube channel, subscribers, views, videos, engagement, or any reference to YouTube analytics.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

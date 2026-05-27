@@ -1,0 +1,18 @@
+{
+  "name": "sync-team-profiles",
+  "slug": "sync-team-profiles",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sync-team-profiles/",
+  "download_url": "https://claudskills.com/skills/sync-team-profiles/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fetch (or refresh) registered team-profile sources — git clone on first run, shallow git fetch + reset on subsequent runs — and register discovered profiles under a namespace. TRIGGER when the user says \"sync team profiles\", \"pull the latest team profiles\", \"refresh team profiles\", \"update team profiles\", \"sync from <team-name> profile source\", \"fetch profiles from the team repo\", \"/nyann:sync-team-profiles\". Do NOT trigger on \"add a new team profile source\" (that's `add-team-source` — registers without pulling). Do NOT trigger on \"sync my branch\" (that's the `sync` skill — feature-branch rebase/merge). Do NOT trigger on \"install a profile\" from a URL when no source is registered yet — walk the user through `add-team-source` first.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

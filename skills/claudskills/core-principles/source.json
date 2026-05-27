@@ -1,0 +1,18 @@
+{
+  "name": "core-principles",
+  "slug": "core-principles",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/core-principles/",
+  "download_url": "https://claudskills.com/skills/core-principles/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Core principles and project structure for React 19 SPA development. Covers stack overview, project organization, agent execution rules, and authoritative sources. Use when planning new projects, onboarding, or reviewing architectural decisions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

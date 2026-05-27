@@ -1,0 +1,18 @@
+{
+  "name": "authentication-strategies",
+  "slug": "authentication-strategies",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/authentication-strategies/",
+  "download_url": "https://claudskills.com/skills/authentication-strategies/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authentication patterns including JWT, sessions, and OAuth. Use when implementing user authentication.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:57+00:00"
+}

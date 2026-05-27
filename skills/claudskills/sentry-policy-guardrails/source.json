@@ -1,0 +1,18 @@
+{
+  "name": "sentry-policy-guardrails",
+  "slug": "sentry-policy-guardrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sentry-policy-guardrails/",
+  "download_url": "https://claudskills.com/skills/sentry-policy-guardrails/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Enforce organizational governance and policy guardrails for Sentry usage. Use when standardizing Sentry configuration across services, enforcing PII scrubbing, building shared config packages, or auditing drift. Trigger with phrases like \"sentry governance\", \"sentry policy\", \"sentry standards\", \"enforce sentry config\", \"sentry compliance\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

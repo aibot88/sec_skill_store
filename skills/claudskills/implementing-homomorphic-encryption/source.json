@@ -1,0 +1,18 @@
+{
+  "name": "implementing-homomorphic-encryption",
+  "slug": "implementing-homomorphic-encryption",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-homomorphic-encryption/",
+  "download_url": "https://claudskills.com/skills/implementing-homomorphic-encryption/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Guide to implementing homomorphic encryption for privacy-preserving computation under GDPR. Covers scheme selection (BFV, BGV, CKKS, TFHE), Microsoft SEAL, IBM HELib, and Google FHE transpiler. Includes performance benchmarks, parameter tuning, and basic HE example code for encrypted arithmetic operations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

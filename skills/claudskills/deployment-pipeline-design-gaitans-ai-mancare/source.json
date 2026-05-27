@@ -1,0 +1,18 @@
+{
+  "name": "deployment-pipeline-design",
+  "slug": "deployment-pipeline-design-gaitans-ai-mancare",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/deployment-pipeline-design-gaitans-ai-mancare/",
+  "download_url": "https://claudskills.com/skills/deployment-pipeline-design-gaitans-ai-mancare/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design multi-stage CI/CD pipelines with approval gates, security checks, and deployment orchestration. Use when architecting deployment workflows, setting up continuous delivery, or implementing GitOps practices.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

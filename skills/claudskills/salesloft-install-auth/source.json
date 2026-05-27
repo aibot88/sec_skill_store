@@ -1,0 +1,18 @@
+{
+  "name": "salesloft-install-auth",
+  "slug": "salesloft-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/salesloft-install-auth/",
+  "download_url": "https://claudskills.com/skills/salesloft-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Set up SalesLoft API authentication with OAuth 2.0 or API key. Use when configuring a new SalesLoft integration, setting up OAuth flows, or initializing API access to the SalesLoft REST API v2. Trigger: \"install salesloft\", \"setup salesloft\", \"salesloft auth\", \"salesloft API key\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

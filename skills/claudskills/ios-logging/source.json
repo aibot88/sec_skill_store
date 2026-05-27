@@ -1,0 +1,18 @@
+{
+  "name": "ios-logging",
+  "slug": "ios-logging",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ios-logging/",
+  "download_url": "https://claudskills.com/skills/ios-logging/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Enterprise skill for iOS production error observability and logging (iOS 15+, Swift 5.5+). The trigger is OBSERVABILITY intent — the user wants errors captured and visible in production, not just handled. Use when: adding os.Logger or replacing print() with structured logging; setting up or integrating a crash SDK (Sentry, Crashlytics, PostHog); auditing error handling for silent failures (catch blocks with no Logger/ErrorReporter call, try? on network/auth/payment operations, Task {} with no do-catch, Combine .replaceError() killing error visibility); adding privacy annotations to logs; integrating MetricKit for OOM/hang detection; or asking why errors are disappearing silently in production. Also use when reviewing any catch block, try?, or Task {} specifically to ensure errors reach a remote crash reporting service — not just for writing error handling in general.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

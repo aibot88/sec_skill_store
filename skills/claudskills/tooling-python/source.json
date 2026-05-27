@@ -1,0 +1,18 @@
+{
+  "name": "tooling-python",
+  "slug": "tooling-python",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tooling-python/",
+  "download_url": "https://claudskills.com/skills/tooling-python/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Python audit tooling: ruff (linting), mypy (types), bandit (SAST), pip-audit (CVEs), radon (complexity), vulture (dead code), mutmut (mutations). Use during audit phases for Python projects.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

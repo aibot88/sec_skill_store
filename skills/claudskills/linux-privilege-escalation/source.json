@@ -1,0 +1,18 @@
+{
+  "name": "linux-privilege-escalation",
+  "slug": "linux-privilege-escalation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/linux-privilege-escalation/",
+  "download_url": "https://claudskills.com/skills/linux-privilege-escalation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Execute systematic privilege escalation assessments on Linux systems to identify and exploit misconfigurations, vulnerable services, and security weaknesses that allow elevation from low-privilege user access to root-level control.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ux-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

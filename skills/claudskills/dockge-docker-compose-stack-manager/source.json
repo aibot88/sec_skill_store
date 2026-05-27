@@ -1,0 +1,18 @@
+{
+  "name": "dockge-docker-compose-stack-manager",
+  "slug": "dockge-docker-compose-stack-manager",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dockge-docker-compose-stack-manager/",
+  "download_url": "https://claudskills.com/skills/dockge-docker-compose-stack-manager/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Dockge is a self-hosted Docker Compose stack manager with a reactive web UI for managing compose.yaml files. Created by Louis Lam (author of Uptime Kuma), it provides an interactive editor, web terminal, and multi-agent support for managing Docker stacks across hosts.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

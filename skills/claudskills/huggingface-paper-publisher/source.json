@@ -1,0 +1,18 @@
+{
+  "name": "huggingface-paper-publisher",
+  "slug": "huggingface-paper-publisher",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/huggingface-paper-publisher/",
+  "download_url": "https://claudskills.com/skills/huggingface-paper-publisher/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datasets, claiming authorship, and generating professional markdown-based research articles.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "research-methods",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

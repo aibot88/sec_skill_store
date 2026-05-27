@@ -1,0 +1,18 @@
+{
+  "name": "red-team-agent-workflows-for-jailbreaks-prompt-injection-and-pol",
+  "slug": "red-team-agent-workflows-for-jailbreaks-prompt-injection-and-pol",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/red-team-agent-workflows-for-jailbreaks-prompt-injection-and-pol/",
+  "download_url": "https://claudskills.com/skills/red-team-agent-workflows-for-jailbreaks-prompt-injection-and-pol/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run local adversarial attack passes against agents, RAG pipelines, and chatbots to surface concrete failure classes before production rollout.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

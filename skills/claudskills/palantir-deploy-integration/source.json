@@ -1,0 +1,18 @@
+{
+  "name": "palantir-deploy-integration",
+  "slug": "palantir-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/palantir-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/palantir-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Palantir Foundry integrations to cloud platforms with secrets management. Use when deploying Foundry-powered applications to production, configuring platform-specific secrets, or setting up deployment pipelines. Trigger with phrases like \"deploy palantir\", \"foundry deploy\", \"palantir production deploy\", \"foundry Cloud Run\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "code-test-review-expert",
+  "slug": "code-test-review-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-test-review-skill/",
+  "download_url": "https://claudskills.com/skills/code-test-review-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache 2.0",
+  "description": "Advanced code testing and review expert system that provides comprehensive code quality analysis, security vulnerability assessment, test strategy design, and quality assurance through multi-expert collaboration and intelligent tool integration.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

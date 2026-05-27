@@ -1,0 +1,18 @@
+{
+  "name": "firebase-operations",
+  "slug": "firebase-operations",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-operations/",
+  "download_url": "https://claudskills.com/skills/firebase-operations/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Performs Firebase Firestore operations. Use when querying collections, creating/updating/deleting documents, using batch writes, or working with Timestamps. Includes pagination, transactions, and security rules patterns.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

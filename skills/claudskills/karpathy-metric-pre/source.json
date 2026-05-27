@@ -1,0 +1,18 @@
+{
+  "name": "karpathy-metric-pre",
+  "slug": "karpathy-metric-pre",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/karpathy-metric-pre/",
+  "download_url": "https://claudskills.com/skills/karpathy-metric-pre/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this when: red-team my optimization metric, find ways to game my metric, metric pre-mortem, adversarial metric evaluation, gaming vectors for my KPI, what could an agent exploit in my metric, metric failure modes, proxy divergence risk, eval contamination, silent degradation from optimization, metric gaming pre-mortem, is my metric robust enough for auto-improvement, build secondary metrics, evaluation diversity plan, metric countermeasures, what does overfitting look like in my system, holdout scenario design, disappearance test, metric gaming attack surface, is my metric gameable, optimization agent failure modes, what could go wrong with my eval, unsupervised optimization risk, metric red team",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

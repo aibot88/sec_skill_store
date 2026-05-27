@@ -1,0 +1,18 @@
+{
+  "name": "auth-implementation-patterns",
+  "slug": "wshobson-auth-implementation-patterns",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/wshobson-auth-implementation-patterns",
+  "download_url": "https://github.com/wshobson/agents/blob/main/plugins/developer-essentials/skills/auth-implementation-patterns/SKILL.md?plain=1#L57-L123",
+  "external_source_url": "https://github.com/wshobson/agents/blob/main/plugins/developer-essentials/skills/auth-implementation-patterns/SKILL.md?plain=1#L57-L123",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Master authentication and authorization patterns including JWT, OAuth2, session management, and RBAC to build secure, scalable access control systems. Use when implementing auth systems, securing APIs, or debugging security issues.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/wshobson/agents/blob/main/plugins/developer-essentials/skills/auth-implementation-patterns/SKILL.md?plain=1#L57-L123"
+  },
+  "collected_at": "2026-05-27T03:44:51+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "plan-writing-gherkin-criteria",
+  "slug": "plan-writing-gherkin-criteria",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/plan-writing-gherkin-criteria/",
+  "download_url": "https://claudskills.com/skills/plan-writing-gherkin-criteria/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Guide for writing Gherkin acceptance criteria using Given-When-Then syntax for testable requirements. Covers scenario structure, background blocks, scenario outlines with examples tables, common patterns for authentication/CRUD/validation/error handling, and best practices for clear testable specifications. Essential for writing user stories and plan acceptance criteria",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

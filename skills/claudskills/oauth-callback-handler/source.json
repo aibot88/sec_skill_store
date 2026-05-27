@@ -1,0 +1,18 @@
+{
+  "name": "oauth-callback-handler",
+  "slug": "oauth-callback-handler",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oauth-callback-handler/",
+  "download_url": "https://claudskills.com/skills/oauth-callback-handler/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Oauth Callback Handler - Auto-activating skill for API Integration. Triggers on: oauth callback handler, oauth callback handler Part of the API Integration skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

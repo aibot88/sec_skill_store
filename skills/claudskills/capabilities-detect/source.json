@@ -1,0 +1,18 @@
+{
+  "name": "capabilities-detect",
+  "slug": "capabilities-detect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/capabilities-detect/",
+  "download_url": "https://claudskills.com/skills/capabilities-detect/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect installed security binaries (nuclei, snort, yara, semgrep, syft, grype, trivy, cosign, gh, package managers) and repo signals (manifests, Dockerfiles, IaC, CI configs); write .vulnetix/capabilities.yaml. Use when starting a session, after installing a new tool (brew install yara), when other Pix skills emit \"unknown capability\" notes, or to force-refresh stale capability state.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

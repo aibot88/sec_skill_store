@@ -1,0 +1,18 @@
+{
+  "name": "developer-delphi-horse-basic-auth",
+  "slug": "developer-delphi-horse-basic-auth-v1-0-0",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/developer-delphi-horse-basic-auth-v1-0-0/",
+  "download_url": "https://claudskills.com/skills/developer-delphi-horse-basic-auth-v1-0-0/SKILL.md",
+  "external_source_url": "",
+  "license": "GPL-3.0",
+  "description": "Middleware HTTP Basic Authentication para Horse. Cobre HorseBasicAuthentication (callback de validação, configuração THorseBasicAuthenticationConfig), Header, RealmMessage, SkipRoutes e proteção por rota. Fonte: app/package/docs/pacotes/horse-basic-auth.md.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "craft-author-voice",
+  "slug": "craft-author-voice",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/craft-author-voice/",
+  "download_url": "https://claudskills.com/skills/craft-author-voice/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Captures writing style/voice into AUTHOR_VOICE.md so AI can write like the user. Use when asked to match tone, write like me, replicate voice, or capture writing style for content generation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

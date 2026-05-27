@@ -1,0 +1,18 @@
+{
+  "name": "detecting-api-enumeration-attacks",
+  "slug": "detecting-api-enumeration-attacks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-api-enumeration-attacks/",
+  "download_url": "https://claudskills.com/skills/detecting-api-enumeration-attacks/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect and prevent API enumeration attacks including BOLA and IDOR exploitation by monitoring sequential identifier",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

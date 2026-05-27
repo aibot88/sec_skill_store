@@ -1,0 +1,18 @@
+{
+  "name": "iam-policy-reviewer",
+  "slug": "iam-policy-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/iam-policy-reviewer/",
+  "download_url": "https://claudskills.com/skills/iam-policy-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Iam Policy Reviewer - Auto-activating skill for Security Advanced. Triggers on: iam policy reviewer, iam policy reviewer Part of the Security Advanced skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

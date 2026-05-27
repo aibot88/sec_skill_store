@@ -1,0 +1,18 @@
+{
+  "name": "fleet-safety",
+  "slug": "fleet-safety",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fleet-safety/",
+  "download_url": "https://claudskills.com/skills/fleet-safety/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze fleet safety programs including driver behavior scoring, accident trend analysis, CSA BASIC score monitoring, DOT audit readiness, Hours of Service compliance, and drug and alcohol testing programs. Covers telematics event review, dashcam AI classification, preventability determinations, roadside inspection management, and risk mitigation ROI per FMCSA regulations and CSA methodology.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

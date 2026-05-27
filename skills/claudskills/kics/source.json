@@ -1,0 +1,18 @@
+{
+  "name": "kics",
+  "slug": "kics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kics/",
+  "download_url": "https://claudskills.com/skills/kics/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run Checkmarx KICS for Infrastructure as Code security scanning. Use when analyzing Terraform, CloudFormation, Kubernetes, Ansible, Dockerfile, or other IaC for misconfigurations and security issues.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

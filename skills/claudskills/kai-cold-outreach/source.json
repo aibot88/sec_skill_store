@@ -1,0 +1,18 @@
+{
+  "name": "kai-cold-outreach",
+  "slug": "kai-cold-outreach",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kai-cold-outreach/",
+  "download_url": "https://claudskills.com/skills/kai-cold-outreach/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Build a complete cold email outreach system — ICP definition, sequence architecture, personalization strategy, and batch-produced email sequences with CAN-SPAM/deliverability compliance. Use when \"cold outreach\", \"cold email sequence\", \"outbound campaign\", \"prospecting emails\", \"sales outreach\", \"build outreach sequence\", or any request to create systematic cold email campaigns for lead generation.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "outreach",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

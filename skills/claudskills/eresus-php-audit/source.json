@@ -1,0 +1,18 @@
+{
+  "name": "eresus-php-audit",
+  "slug": "eresus-php-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eresus-php-audit/",
+  "download_url": "https://claudskills.com/skills/eresus-php-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deep PHP-specific security audit skill covering injection, deserialization, file operations, auth bypass, POP chain discovery, and CMS-specific patterns. Trigger when auditing PHP code: \"audit this PHP app\", \"find PHP security issues\", \"check Laravel/WordPress for vulnerabilities\", \"PHP SAST review\", \"check for PHP deserialization\", \"review this WordPress plugin\". Includes scripts/rules.json for programmatic rule lookup.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

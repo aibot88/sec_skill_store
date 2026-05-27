@@ -1,0 +1,18 @@
+{
+  "name": "hunting-for-ntlm-relay-attacks",
+  "slug": "hunting-for-ntlm-relay-attacks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hunting-for-ntlm-relay-attacks/",
+  "download_url": "https://claudskills.com/skills/hunting-for-ntlm-relay-attacks/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect NTLM relay attacks by analyzing Windows Event 4624 logon type 3 with NTLMSSP authentication, identifying",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

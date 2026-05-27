@@ -1,0 +1,18 @@
+{
+  "name": "ln-632-test-e2e-priority-auditor",
+  "slug": "ln-632-test-e2e-priority-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-632-test-e2e-priority-auditor/",
+  "download_url": "https://claudskills.com/skills/ln-632-test-e2e-priority-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Validates E2E coverage for critical paths (money, security, data integrity). Risk-based prioritization. Use when auditing E2E test coverage.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

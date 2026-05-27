@@ -1,0 +1,18 @@
+{
+  "name": "api-endpoint-builder",
+  "slug": "api-endpoint-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-endpoint-builder/",
+  "download_url": "https://claudskills.com/skills/api-endpoint-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Builds production-ready REST API endpoints with validation, error handling, authentication, and documentation. Follows best practices for security and scalability.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:50+00:00"
+}

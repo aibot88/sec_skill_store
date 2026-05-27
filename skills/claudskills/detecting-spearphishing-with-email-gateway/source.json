@@ -1,0 +1,18 @@
+{
+  "name": "detecting-spearphishing-with-email-gateway",
+  "slug": "detecting-spearphishing-with-email-gateway",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-spearphishing-with-email-gateway/",
+  "download_url": "https://claudskills.com/skills/detecting-spearphishing-with-email-gateway/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Spearphishing targets specific individuals using personalized, researched content that bypasses generic spam",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

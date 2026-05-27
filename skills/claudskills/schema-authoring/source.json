@@ -1,0 +1,18 @@
+{
+  "name": "schema-authoring",
+  "slug": "schema-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/schema-authoring/",
+  "download_url": "https://claudskills.com/skills/schema-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Author a Schema.yaml from scratch for the Jardis Designer — from a plain-text domain idea, draft tables (snake_case plural), columns with realistic types, primary keys, indexes (primary/unique/index), optional foreign keys. Output matches the DB-export format the Designer's importer parses.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

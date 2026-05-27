@@ -1,0 +1,18 @@
+{
+  "name": "angular-typescript-web-framework",
+  "slug": "angular-typescript-web-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/angular-typescript-web-framework/",
+  "download_url": "https://claudskills.com/skills/angular-typescript-web-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Angular is a TypeScript-based web application platform by Google providing dependency injection, declarative templates, a powerful CLI, and comprehensive libraries for routing, forms, and HTTP communication.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

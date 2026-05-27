@@ -1,0 +1,18 @@
+{
+  "name": "gemini-to-seedream-migration",
+  "slug": "gemini-to-seedream-migration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gemini-to-seedream-migration/",
+  "download_url": "https://claudskills.com/skills/gemini-to-seedream-migration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Migrate AI image generation from Google Gemini 2.5 Flash to BytePlus SeeDream v4.5. Use when: (1) User wants to switch from Gemini to SeeDream/BytePlus for image generation, (2) User asks about migrating image generation APIs or replacing Gemini with BytePlus, (3) User needs cost optimization or better image quality for AI-generated images, (4) User mentions SeeDream, BytePlus, or wants SDK-to-REST API migration for image generation",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

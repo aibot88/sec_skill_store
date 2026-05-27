@@ -1,0 +1,18 @@
+{
+  "name": "sales-deliverability",
+  "slug": "sales-deliverability",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-deliverability/",
+  "download_url": "https://claudskills.com/skills/sales-deliverability/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Email deliverability for outbound sales — SPF/DKIM/DMARC authentication, mailbox warmup, inbox placement, sender reputation, and list hygiene. Use when emails are landing in spam, open rates dropped suddenly, a domain or IP got blacklisted, you're not sure if SPF/DKIM/DMARC is set up right, a new mailbox needs warming, bounce rates are too high, or volume scaling is hurting reputation. Do NOT use for cadence content/strategy (use /sales-cadence), Apollo sequences (use /sales-apollo-sequences), or platform-specific config — use the dedicated platform skill instead (e.g., /sales-mailshake, /sales-smartlead, /sales-lemlist, /sales-mailchimp, /sales-sendgrid, /sales-klaviyo, /sales-activecampaign, /sales-omnisend, /sales-brevo, etc.).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "prospecting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

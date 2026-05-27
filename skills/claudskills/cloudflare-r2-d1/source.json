@@ -1,0 +1,18 @@
+{
+  "name": "cloudflare-r2-d1",
+  "slug": "cloudflare-r2-d1",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloudflare-r2-d1/",
+  "download_url": "https://claudskills.com/skills/cloudflare-r2-d1/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when working with Cloudflare R2 object storage, D1 SQLite database, KV, or Workers integration - covers bindings, limits, gotchas, and best practices",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

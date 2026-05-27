@@ -1,0 +1,18 @@
+{
+  "name": "sentinel",
+  "slug": "sentinel",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sentinel/",
+  "download_url": "https://claudskills.com/skills/sentinel/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Static security analysis agent. Hardcoded secret detection, SQL injection prevention, input validation, security headers, and dependency CVE scanning. Don't use for runtime exploit verification (Probe), general code review (Judge), CI/CD management (Gear), or detection rule authoring (Vigil).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

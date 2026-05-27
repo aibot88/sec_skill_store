@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-reputation-credentials",
+  "slug": "agentprivacy-reputation-credentials",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-reputation-credentials/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-reputation-credentials/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Reputation and credential evolution (SBT→VRC) for 0xagentprivacy. Activates when discussing soulbound tokens, verifiable credentials, credential lifecycle, reputation staking, progressive credential trust, or the evolution from static credentials to living relationship records.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

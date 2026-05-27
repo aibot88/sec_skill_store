@@ -1,0 +1,18 @@
+{
+  "name": "dep-add-guard",
+  "slug": "dep-add-guard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dep-add-guard/",
+  "download_url": "https://claudskills.com/skills/dep-add-guard/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Pre-add risk gate for a new dependency — composes vuln history (`vdb vulns`), AI-malware check (`vdb ai-malware`), license compatibility, EOL status, maintainer health, version-lag — into one ALLOW/WARN/BLOCK verdict. Use when about to `npm install` / `pip install` / `cargo add` something new, vetting alternatives, or hardening the CI pre-add policy.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:37+00:00"
+}

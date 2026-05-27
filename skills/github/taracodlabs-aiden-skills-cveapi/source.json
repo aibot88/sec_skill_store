@@ -1,0 +1,19 @@
+{
+  "name": "cveapi",
+  "slug": "taracodlabs-aiden-skills-cveapi",
+  "source": "github",
+  "source_url": "https://github.com/taracodlabs/aiden/blob/02667a21cf69459ef9abd37ccd5668302dd637ad/skills/cveapi/SKILL.md",
+  "download_url": "https://github.com/taracodlabs/aiden/blob/02667a21cf69459ef9abd37ccd5668302dd637ad/skills/cveapi/SKILL.md",
+  "external_source_url": "https://github.com/taracodlabs/aiden/blob/02667a21cf69459ef9abd37ccd5668302dd637ad/skills/cveapi/SKILL.md",
+  "license": "",
+  "description": "Aiden — Autonomous AI agent that operates your computer with prompts: browser control, terminal execution, workflows, tools, recovery systems, and persistent memory. Built solo. AGPL-3.0.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "taracodlabs/aiden",
+    "path": "skills/cveapi/SKILL.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

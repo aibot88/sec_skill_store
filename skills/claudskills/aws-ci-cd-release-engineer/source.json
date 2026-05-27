@@ -1,0 +1,18 @@
+{
+  "name": "aws-ci-cd-release-engineer",
+  "slug": "aws-ci-cd-release-engineer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-ci-cd-release-engineer/",
+  "download_url": "https://claudskills.com/skills/aws-ci-cd-release-engineer/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review AWS CI/CD and release safety across CodePipeline, CodeBuild, CodeDeploy, GitHub Actions, GitLab, artifact provenance, deployment gates, approvals, tests, progressive delivery, rollback, change correlation, and incident-prevention recommendations. Use when AWS releases or pipelines can affect production reliability or security.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

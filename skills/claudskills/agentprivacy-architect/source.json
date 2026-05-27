@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-architect",
+  "slug": "agentprivacy-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-architect/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "AI Agent System Designer for 0xagentprivacy. Activates for dual-agent TEE architecture, separation matrix physical enforcement, agent lifecycle design, Oracle architecture, multi-chain deployment (NEAR/Zcash/Ethereum), tetrahedral orientation, or any task requiring the broadest specialist view of how the system is built. Widest skill set (20 total).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

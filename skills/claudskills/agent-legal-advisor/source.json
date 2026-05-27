@@ -1,0 +1,18 @@
+{
+  "name": "agent-legal-advisor",
+  "slug": "agent-legal-advisor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-legal-advisor/",
+  "download_url": "https://claudskills.com/skills/agent-legal-advisor/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Expert legal advisor specializing in technology law, compliance, and risk mitigation. Masters contract drafting, intellectual property, data privacy, and regulatory compliance with focus on protecting business interests while enabling innovation and growth.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

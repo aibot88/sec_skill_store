@@ -1,0 +1,18 @@
+{
+  "name": "test-integration",
+  "slug": "vant-skill-test-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vant-skill-test-integration/",
+  "download_url": "https://claudskills.com/skills/vant-skill-test-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Test how components work together. Test database + API, auth + user service, etc. Use when testing multi-component flows or after unit tests pass.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

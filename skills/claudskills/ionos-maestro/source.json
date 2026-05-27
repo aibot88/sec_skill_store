@@ -1,0 +1,18 @@
+{
+  "name": "ionos-maestro",
+  "slug": "ionos-maestro",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ionos-maestro/",
+  "download_url": "https://claudskills.com/skills/ionos-maestro/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Classify incoming IONOS Cloud requests and route them to the narrowest applicable specialist agent. Covers DCD topology review, security and GDPR compliance, managed Kubernetes, cost optimization, and DBaaS lifecycle operations. Use this skill when the task domain is not yet identified or spans multiple IONOS Cloud areas.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "security-auditor-saas",
+  "slug": "security-auditor-saas",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-auditor-saas/",
+  "download_url": "https://claudskills.com/skills/security-auditor-saas/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Application security agent that audits code for OWASP Top 10 vulnerabilities, hardcoded secrets, and common security flaws. Triggers on: security audit, vulnerability scan, OWASP check, security review, penetration test, hardening.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "biz-context",
+  "slug": "biz-context",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/biz-context/",
+  "download_url": "https://claudskills.com/skills/biz-context/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Business performance and context analysis for CX projects. Diagnoses a company's health across five domains — revenue, customer metrics, operational health, market position, and org capability — then surfaces key tensions and the strategic implications for CX. Use before starting a CX transformation, when building a business case, or whenever a user describes what a company is doing without making clear what pressure it's under. Trigger when users mention NPS, churn, cost-to-serve, competitive threats, or \"the context behind this initiative.\" Refuses to produce flattering analysis — every health rating is grounded in evidence and data gaps are named explicitly.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

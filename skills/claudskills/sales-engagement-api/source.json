@@ -1,0 +1,18 @@
+{
+  "name": "sales-engagement-api",
+  "slug": "sales-engagement-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-engagement-api/",
+  "download_url": "https://claudskills.com/skills/sales-engagement-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when enrolling records in Sales Engagement cadences from Apex, logging call outcomes on cadence steps, customizing cadence step actions via Apex, or consuming cadence lifecycle events through Change Data Capture. Triggers: 'enroll lead in cadence', 'assignTargetToSalesCadence', 'ActionCadenceTracker', 'log call result cadence', 'Sales Engagement Apex'. NOT for building or administering cadence structures (steps, branches, variants) — cadence content must be authored in the Cadence Builder UI and cannot be created or mutated via API.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "outreach",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

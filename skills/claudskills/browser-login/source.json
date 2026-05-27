@@ -1,0 +1,18 @@
+{
+  "name": "browser-login",
+  "slug": "browser-login",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/browser-login/",
+  "download_url": "https://claudskills.com/skills/browser-login/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Drive an authentication flow once, sanitize cookies through AIDefence, and vault a reusable cookie handle in browser-cookies for future sessions",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

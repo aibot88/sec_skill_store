@@ -1,0 +1,18 @@
+{
+  "name": "cilium-expert",
+  "slug": "cilium-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cilium-expert/",
+  "download_url": "https://claudskills.com/skills/cilium-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert in Cilium eBPF-based networking and security for Kubernetes. Use for CNI setup, network policies (L3/L4/L7), service mesh, Hubble observability, zero-trust security, and cluster-wide network troubleshooting. Specializes in high-performance, secure cluster networking.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "zero-trust",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

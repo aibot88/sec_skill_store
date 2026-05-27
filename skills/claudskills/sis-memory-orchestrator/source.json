@@ -1,0 +1,18 @@
+{
+  "name": "sis-memory-orchestrator",
+  "slug": "sis-memory-orchestrator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sis-memory-orchestrator/",
+  "download_url": "https://claudskills.com/skills/sis-memory-orchestrator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Substrate-aware memory orchestration for Starlight Intelligence System. Coordinates a 7-subagent team that proactively manages memory writes, retrieval, knowledge-graph maintenance, privacy redaction, decay, audit, and substrate benchmarking across pluggable backends (mempalace, Letta, Mem0, AgentDB, Qdrant, screenpipe, filesystem). Use when the user asks about SIS memory architecture, wants to add or swap a memory substrate, runs `/sis memory`, asks \"where should this capture go\", reports memory leaks or staleness, requests benchmarks across substrates, or sets up a new sovereign user adopting SIS. Honors privacy-by-default (everything local; embeddings local; PII redaction before any external call).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "workflow-orchestration",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

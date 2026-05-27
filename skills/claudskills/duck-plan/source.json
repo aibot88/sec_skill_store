@@ -1,0 +1,18 @@
+{
+  "name": "duck-plan",
+  "slug": "duck-plan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/duck-plan/",
+  "download_url": "https://claudskills.com/skills/duck-plan/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Plan-review session with the rubber duck — verify the user understands decisions and trade-offs before execution. Use after a plan/spec/RFC was produced, or when they say \\\"duck plan\\\", \\\"이 플랜 검수해\\\". Not for plan authoring or code review.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

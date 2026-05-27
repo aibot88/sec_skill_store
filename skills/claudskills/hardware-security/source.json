@@ -1,0 +1,18 @@
+{
+  "name": "hardware-security",
+  "slug": "hardware-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hardware-security/",
+  "download_url": "https://claudskills.com/skills/hardware-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Hardware and embedded security research capabilities. Interface with JTAG debuggers, analyze SPI/I2C communications, dump and analyze firmware, support fault injection, side-channel analysis, and hardware exploitation research.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

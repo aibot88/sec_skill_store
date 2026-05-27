@@ -1,0 +1,18 @@
+{
+  "name": "nextjs-testing",
+  "slug": "nextjs-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nextjs-testing/",
+  "download_url": "https://claudskills.com/skills/nextjs-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when writing or setting up tests for a Next.js application. Trigger when: configuring Vitest, Cypress, or Playwright for Next.js; writing unit tests for components or hooks; writing E2E tests; testing React Server Components; testing API routes or Route Handlers; testing Server Actions; setting up test infrastructure; choosing between testing tools; implementing data-testid attributes; testing authentication flows; mocking API responses with cy.intercept() or page.route(); troubleshooting test failures; testing with production builds; or asking about Next.js testing best practices, patterns, or anti-patterns.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

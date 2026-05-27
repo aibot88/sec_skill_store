@@ -1,0 +1,18 @@
+{
+  "name": "claude-platform",
+  "slug": "claude-platform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/claude-platform/",
+  "download_url": "https://claudskills.com/skills/claude-platform/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authoritative reference and authoring guide for the Claude platform — both the Claude Code `.claude/` config layer (skills, subagents, output styles, hooks, plugins, settings) and the Anthropic Agent SDK (Managed Agents API: agents, sessions, threads, multiagent, skills). Use when authoring a skill / subagent / output style / hook / plugin manifest, when designing a multi-agent system, or when comparing CLI vs SDK and translating between them.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

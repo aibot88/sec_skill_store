@@ -1,0 +1,18 @@
+{
+  "name": "system-field-behavior-and-audit",
+  "slug": "system-field-behavior-and-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/system-field-behavior-and-audit/",
+  "download_url": "https://claudskills.com/skills/system-field-behavior-and-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when practitioners need to understand system-managed fields (CreatedDate, LastModifiedDate, SystemModstamp, CreatedById, LastModifiedById, IsDeleted) — their update behavior, indexing, and queryability. Triggers: 'difference between SystemModstamp and LastModifiedDate', 'how to query deleted records', 'set CreatedDate during data migration', 'why does LastModifiedDate not match SystemModstamp', 'Create Audit Fields permission'. NOT for field-level change tracking (use field-history-tracking skill), Shield Field Audit Trail for compliance retention (use field-audit-trail skill), or custom audit logging with Apex triggers.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

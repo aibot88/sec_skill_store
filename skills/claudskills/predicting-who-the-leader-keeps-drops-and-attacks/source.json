@@ -1,0 +1,18 @@
+{
+  "name": "predicting-who-the-leader-keeps-drops-and-attacks",
+  "slug": "predicting-who-the-leader-keeps-drops-and-attacks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/predicting-who-the-leader-keeps-drops-and-attacks/",
+  "download_url": "https://claudskills.com/skills/predicting-who-the-leader-keeps-drops-and-attacks/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when the user is trying to predict how a dominance-seeking leader will sort people in their orbit — who gets kept, who gets rehabilitated after a rift, who gets quietly dropped, who gets actively attacked. The sort logic is not moral or loyalty-based; it is constituency-based, and this skill makes that logic explicit so the user can forecast decisions and, if they are themselves in the orbit, move their own standing. Triggers on phrases like \"why did the leader drop X and keep Y despite Y's disloyalty\", \"am I about to be discarded\", \"will this person be rehabilitated\", \"who will the leader go after next\", \"why does the leader forgive some critics but attack others\", \"how do I preserve my standing\", \"is it safe to leave quietly\". Do not use for: leaders with conventional loyalty-based retention logic; ordinary HR decision-making; personal-friendship dynamics; situations without a public constituency angle.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

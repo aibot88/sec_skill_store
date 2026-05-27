@@ -1,0 +1,18 @@
+{
+  "name": "eslint-config-enforcer",
+  "slug": "eslint-config-enforcer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eslint-config-enforcer/",
+  "download_url": "https://claudskills.com/skills/eslint-config-enforcer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Enforces consistent ESLint configurations across monorepo packages using eslint-config-inspector and flat config merging. Detects rule conflicts between shared configs, auto-generates override files, and reports compliance gaps via eslint --inspect-config.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "linters-formatters",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

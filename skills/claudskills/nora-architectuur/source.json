@@ -1,0 +1,18 @@
+{
+  "name": "nora-architectuur",
+  "slug": "nora-architectuur",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nora-architectuur/",
+  "download_url": "https://claudskills.com/skills/nora-architectuur/SKILL.md",
+  "external_source_url": "",
+  "license": "EUPL-1.2",
+  "description": "Helpt bij het ontwerpen van overheidssystemen conform de Nederlandse Overheid Referentie Architectuur (NORA), inclusief basisprincipes, afgeleide principes, informatiebeveiliging (BIO), en de GDI (Generieke Digitale Infrastructuur). Biedt richtlijnen voor architectuurprincipes, standaarden en voorzieningen. Gebruik deze skill wanneer de gebruiker vraagt over 'NORA', 'referentiearchitectuur', 'enterprise architectuur overheid', 'government architecture', 'NORA principes', 'basisprincipes overheid', 'afgeleide principes', 'BIO', 'Baseline Informatiebeveiliging Overheid', 'informatiebeveiliging overheid', 'information security government', 'GDI', 'Generieke Digitale Infrastructuur', 'voorzieningen overheid', 'Diginetwerk', 'Digipoort', 'Digikoppeling', 'Digilevering', 'Stelsel van Basisregistraties', 'basisregistratie', 'FORUM standaardisatie', 'pas toe of leg uit', 'comply or explain', 'open standaarden overheid', 'lijsten open standaarden', 'verplichte standaard', 'architectuurprincipe overheid', 'TOGAF overheid', 'ArchiMate overheid', 'PETRA', 'WILMA', 'ROSA', 'domeinarchitectuur', of wanneer de gebruiker een systeem wil ontwerpen volgens Nederlandse overheidsarchitectuurprincipes en -standaarden.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

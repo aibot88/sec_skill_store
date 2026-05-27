@@ -1,0 +1,18 @@
+{
+  "name": "anti-ai-slop-writing",
+  "slug": "anti-ai-slop-writing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/anti-ai-slop-writing/",
+  "download_url": "https://claudskills.com/skills/anti-ai-slop-writing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Produces human-sounding text that avoids detectable AI writing patterns. Activates on any writing task — tweets, emails, articles, bios, captions, reports, copy, messages, LinkedIn posts, cover letters, README files, or any content where the output must not read as AI-generated. Enforces banned vocabulary, structural variety, punctuation discipline, accuracy rules, and voice calibration. Use when the user says \"write,\" \"draft,\" \"rewrite,\" \"make this sound human,\" \"anti-slop,\" \"not AI,\" or any variation of wanting authentic-sounding output.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "writing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

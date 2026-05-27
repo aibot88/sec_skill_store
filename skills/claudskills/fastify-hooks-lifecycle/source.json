@@ -1,0 +1,18 @@
+{
+  "name": "fastify-hooks-lifecycle",
+  "slug": "fastify-hooks-lifecycle",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastify-hooks-lifecycle/",
+  "download_url": "https://claudskills.com/skills/fastify-hooks-lifecycle/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when implementing Fastify hooks, understanding hook execution order, using onRequest/preParsing/preValidation/preHandler/preSerialization/onError/onSend/onResponse hooks, using onReady/onListen/onClose/onRoute/onRegister application hooks, debugging hook chain issues, adding authentication hooks, implementing request lifecycle interceptors, working with Fastify lifecycle events, or understanding when request.body is available.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

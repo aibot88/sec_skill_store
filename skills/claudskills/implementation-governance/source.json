@@ -1,0 +1,18 @@
+{
+  "name": "implementation-governance",
+  "slug": "implementation-governance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementation-governance/",
+  "download_url": "https://claudskills.com/skills/implementation-governance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run a TOGAF Phase G Implementation Governance review. Produces Architecture Contracts (joint sponsor/delivery agreements), Compliance Assessments against the 8 TOGAF checklists, exception and dispensation logs, and Implementation Governance Model. Use when governing a live implementation project, validating that delivery is proceeding in line with the approved architecture, or preparing an Architecture Board submission for a project in flight.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

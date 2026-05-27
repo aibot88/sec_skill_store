@@ -1,0 +1,18 @@
+{
+  "name": "a11y-review",
+  "slug": "a11y-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/a11y-review/",
+  "download_url": "https://claudskills.com/skills/a11y-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when the user asks for an accessibility review, accessibility audit, a11y check, WCAG compliance review, screen reader audit, \"is this accessible?\", \"does my site meet WCAG?\", \"check my component for accessibility\", \"accessibility overview of this page\", \"review accessibility of\", \"check for a11y issues\", \"fix accessibility issues\", or any request to audit a web page, component, or codebase for WCAG 2.2 AA compliance.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

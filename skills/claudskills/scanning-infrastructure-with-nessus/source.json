@@ -1,0 +1,18 @@
+{
+  "name": "scanning-infrastructure-with-nessus",
+  "slug": "scanning-infrastructure-with-nessus",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scanning-infrastructure-with-nessus/",
+  "download_url": "https://claudskills.com/skills/scanning-infrastructure-with-nessus/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Tenable Nessus is the industry-leading vulnerability scanner used to identify security weaknesses across network",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

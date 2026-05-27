@@ -1,0 +1,18 @@
+{
+  "name": "crypto-hard-filter-simplification",
+  "slug": "crypto-hard-filter-simplification",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crypto-hard-filter-simplification/",
+  "download_url": "https://claudskills.com/skills/crypto-hard-filter-simplification/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Simplify crypto hard filters to essential checks only. Trigger when: (1) crypto symbols fail multiple filters, (2) data_quality/spread/trading_status fail for crypto, (3) yfinance data gaps causing false failures.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

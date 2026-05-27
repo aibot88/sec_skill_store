@@ -1,0 +1,18 @@
+{
+  "name": "housing-audit",
+  "slug": "housing-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/housing-audit/",
+  "download_url": "https://claudskills.com/skills/housing-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "End-to-end affordable housing compliance and risk audit: analyze property management and waitlist operations, predict eviction risk with early warning models, review Fair Housing Act and HUD regulatory compliance, and model rent burden and subsidy accuracy across the portfolio. Use when building or auditing a housing authority system, property management platform, Section 8 voucher program, LIHTC portfolio, or tenant services application.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

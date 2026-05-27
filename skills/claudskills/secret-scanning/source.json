@@ -1,0 +1,18 @@
+{
+  "name": "secret-scanning",
+  "slug": "secret-scanning",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/secret-scanning/",
+  "download_url": "https://claudskills.com/skills/secret-scanning/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide for configuring and managing GitHub secret scanning, push protection, custom patterns, and secret alert remediation. For pre-commit secret scanning in AI coding agents via the GitHub MCP Server, this skill references the Advanced Security plugin (`advanced-security@copilot-plugins`). Use this skill when enabling secret scanning, setting up push protection, defining custom patterns, triaging alerts, resolving blocked pushes, or when an agent needs to scan code for secrets before committing.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

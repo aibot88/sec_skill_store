@@ -1,0 +1,18 @@
+{
+  "name": "detecting-container-escape-attempts",
+  "slug": "detecting-container-escape-attempts",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-container-escape-attempts/",
+  "download_url": "https://claudskills.com/skills/detecting-container-escape-attempts/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Container escape is a critical attack technique where an adversary breaks out of container isolation to access",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

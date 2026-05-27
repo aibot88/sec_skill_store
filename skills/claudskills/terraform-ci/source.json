@@ -1,0 +1,18 @@
+{
+  "name": "terraform-ci",
+  "slug": "terraform-ci",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/terraform-ci/",
+  "download_url": "https://claudskills.com/skills/terraform-ci/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Terraform in CI/CD — plan on PR, apply on merge, OIDC auth, drift detection, importing existing resources, common CLI commands, anti-patterns, and Terraform vs Pulumi vs CDK decision guide.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

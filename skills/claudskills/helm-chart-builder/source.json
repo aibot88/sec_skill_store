@@ -1,0 +1,18 @@
+{
+  "name": "helm-chart-builder",
+  "slug": "helm-chart-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/helm-chart-builder/",
+  "download_url": "https://claudskills.com/skills/helm-chart-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Helm chart development agent skill and plugin for Claude Code, Codex, Gemini CLI, Cursor, OpenClaw — chart scaffolding, values design, template patterns, dependency management, security hardening, and chart testing. Use when: user wants to create or improve Helm charts, design values.yaml files, implement template helpers, audit chart security (RBAC, network policies, pod security), manage subcharts, or run helm lint/test.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

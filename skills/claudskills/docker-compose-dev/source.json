@@ -1,0 +1,18 @@
+{
+  "name": "docker-compose-dev",
+  "slug": "docker-compose-dev",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docker-compose-dev/",
+  "download_url": "https://claudskills.com/skills/docker-compose-dev/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Run mjr.wtf locally using Docker Compose (SQLite), including migrations, logs, and teardown.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

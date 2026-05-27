@@ -1,0 +1,18 @@
+{
+  "name": "docker-compose-to-nixos",
+  "slug": "docker-compose-to-nixos",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docker-compose-to-nixos/",
+  "download_url": "https://claudskills.com/skills/docker-compose-to-nixos/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Converts Docker Compose configurations to NixOS modules using the dendritic pattern with Arion. Creates modules with system users, sops secrets, Arion docker-compose config, and Tailscale integration. Use when converting docker-compose.yaml files to NixOS modules or creating new Arion-based services.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ok-git",
+  "slug": "ok-git",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ok-git/",
+  "download_url": "https://claudskills.com/skills/ok-git/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "git config global を前提に、日常的な Git 操作（状況確認・ブランチ作成・安全コミット・同期）を bundled script で実行する。ユーザーが「コミットして」「ブランチ切って」「pushして」「差分見て」などを依頼したときに使う。作業リポジトリ直下の scripts/ は前提にせず、agent skills ディレクトリ内の ok-git/scripts/git_ops.sh を解決して使う。git config は変更せず既存設定を利用する。",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "scanning-for-data-privacy-issues",
+  "slug": "scanning-for-data-privacy-issues",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scanning-for-data-privacy-issues/",
+  "download_url": "https://claudskills.com/skills/scanning-for-data-privacy-issues/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Scan for data privacy issues and sensitive information exposure. Use when reviewing data handling practices. Trigger with 'scan privacy issues', 'check sensitive data', or 'validate data protection'.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

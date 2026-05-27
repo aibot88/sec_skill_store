@@ -1,0 +1,18 @@
+{
+  "name": "scanning-accessibility",
+  "slug": "scanning-accessibility",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scanning-accessibility/",
+  "download_url": "https://claudskills.com/skills/scanning-accessibility/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Validate WCAG compliance and accessibility standards (ARIA, keyboard navigation). Use when auditing WCAG compliance or screen reader compatibility. Trigger with phrases like \"scan accessibility\", \"check WCAG compliance\", or \"validate screen readers\".",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

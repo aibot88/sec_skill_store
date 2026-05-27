@@ -1,0 +1,18 @@
+{
+  "name": "teya",
+  "slug": "teya",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/teya/",
+  "download_url": "https://claudskills.com/skills/teya/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Teya payment integration guide covering POSLink (cloud-based terminal integration), All-In-One (single-device Android), E-Commerce APIs (hosted checkout, payment links), and Payments Gateway. Includes decision trees, authentication patterns, test cards, and certification guidance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

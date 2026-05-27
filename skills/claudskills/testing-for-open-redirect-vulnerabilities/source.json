@@ -1,0 +1,18 @@
+{
+  "name": "testing-for-open-redirect-vulnerabilities",
+  "slug": "testing-for-open-redirect-vulnerabilities",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/testing-for-open-redirect-vulnerabilities/",
+  "download_url": "https://claudskills.com/skills/testing-for-open-redirect-vulnerabilities/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Identify and test open redirect vulnerabilities in web applications by analyzing URL redirection parameters,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

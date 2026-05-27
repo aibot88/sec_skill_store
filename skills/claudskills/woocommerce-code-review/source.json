@@ -1,0 +1,18 @@
+{
+  "name": "woocommerce-code-review",
+  "slug": "woocommerce-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/woocommerce-code-review/",
+  "download_url": "https://claudskills.com/skills/woocommerce-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review WooCommerce code changes for coding standards compliance. Use when reviewing code locally, performing automated PR reviews, or checking code quality.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

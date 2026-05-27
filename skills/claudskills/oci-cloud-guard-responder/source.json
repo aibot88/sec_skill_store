@@ -1,0 +1,18 @@
+{
+  "name": "oci-cloud-guard-responder",
+  "slug": "oci-cloud-guard-responder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oci-cloud-guard-responder/",
+  "download_url": "https://claudskills.com/skills/oci-cloud-guard-responder/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Triage and govern OCI Cloud Guard problems, targets, responder recipes, detector findings, and security remediation safely. Use for Cloud Guard reviews, problem prioritization, remediation planning, and compliance evidence when official Oracle MCP tools or documentation fallback are needed.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "docs-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

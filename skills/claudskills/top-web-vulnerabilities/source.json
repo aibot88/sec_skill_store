@@ -1,0 +1,18 @@
+{
+  "name": "Top 100 Web Vulnerabilities Reference",
+  "slug": "top-web-vulnerabilities",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/top-web-vulnerabilities/",
+  "download_url": "https://claudskills.com/skills/top-web-vulnerabilities/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when the user asks to \"identify web application vulnerabilities\", \"explain common security flaws\", \"understand vulnerability categories\", \"learn about injection attacks\", \"review access control weaknesses\", \"analyze API security issues\", \"assess security misconfigurations\", \"understand client-side vulnerabilities\", \"examine mobile and IoT security flaws\", or \"reference the OWASP-aligned vulnerability taxonomy\". Use this skill to provide comprehensive vulnerability definitions, root causes, impacts, and mitigation strategies across all major web security categories.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

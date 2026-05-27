@@ -1,0 +1,18 @@
+{
+  "name": "elisym-config",
+  "slug": "elisym-config",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/elisym-config/",
+  "download_url": "https://claudskills.com/skills/elisym-config/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Edit an existing elisym agent's profile (display name, avatar, banner, description, relays, payment addresses, LLM provider/model, security flags) by patching elisym.yaml directly. Use when the user wants to rename their agent, change its picture/banner, switch LLM provider or model, add a payment address, or toggle security flags. Does not rotate secret keys - route those to `elisym init`.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

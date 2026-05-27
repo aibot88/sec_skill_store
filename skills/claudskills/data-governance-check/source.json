@@ -1,0 +1,18 @@
+{
+  "name": "data-governance-check",
+  "slug": "data-governance-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/data-governance-check/",
+  "download_url": "https://claudskills.com/skills/data-governance-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review data handling for privacy and retention. Use when a senior developer needs governance validation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:35+00:00"
+}

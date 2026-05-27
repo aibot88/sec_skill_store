@@ -1,0 +1,18 @@
+{
+  "name": "correlating-security-events-in-qradar",
+  "slug": "correlating-security-events-in-qradar",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/correlating-security-events-in-qradar/",
+  "download_url": "https://claudskills.com/skills/correlating-security-events-in-qradar/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Correlates security events in IBM QRadar SIEM using AQL (Ariel Query Language), custom rules, building blocks,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

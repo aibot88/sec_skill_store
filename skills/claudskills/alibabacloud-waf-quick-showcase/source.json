@@ -1,0 +1,18 @@
+{
+  "name": "alibabacloud-waf-quick-showcase",
+  "slug": "alibabacloud-waf-quick-showcase",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibabacloud-waf-quick-showcase/",
+  "download_url": "https://claudskills.com/skills/alibabacloud-waf-quick-showcase/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Solution skill for using WAF to protect web applications on ECS. Used for quickly deploying network environments including VPC, security groups, and ECS instances, and integrating WAF for web application protection. Trigger words: \"WAF protection\", \"ECS web protection\", \"Web Application Firewall\", \"website security\"",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

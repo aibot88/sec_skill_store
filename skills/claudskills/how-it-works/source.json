@@ -1,0 +1,18 @@
+{
+  "name": "how-it-works",
+  "slug": "how-it-works",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/how-it-works/",
+  "download_url": "https://claudskills.com/skills/how-it-works/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Explain how claude-mem captures observations, when memory injection kicks in, and where data lives. Use when the user asks \"how does claude-mem work?\" or \"what is this thing doing?\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

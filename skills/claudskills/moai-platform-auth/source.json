@@ -1,0 +1,18 @@
+{
+  "name": "moai-platform-auth",
+  "slug": "moai-platform-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/moai-platform-auth/",
+  "download_url": "https://claudskills.com/skills/moai-platform-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Authentication and authorization specialist covering Auth0, Clerk, and Firebase Auth. Use when implementing authentication, MFA, SSO, passkeys, WebAuthn, social login, or security features.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

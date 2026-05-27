@@ -1,0 +1,18 @@
+{
+  "name": "Accessibility A11y Enhanced",
+  "slug": "accessibility-a11y-enhanced",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/accessibility-a11y-enhanced/",
+  "download_url": "https://claudskills.com/skills/accessibility-a11y-enhanced/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Comprehensive WCAG compliance and accessibility testing covering ARIA, keyboard navigation, screen readers, color contrast, and automated a11y validation.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "open-source-pruefung",
+  "slug": "open-source-pruefung",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/open-source-pruefung/",
+  "download_url": "https://claudskills.com/skills/open-source-pruefung/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Open-Source-Lizenz-Compliance-Prüfung für eine Abhängigkeitsliste, eine einzelne Bibliothek oder ausgehenden Code. Lädt bei der Prüfung eines Manifests, SBOM oder Repositories auf Copyleft-Pflichten und Lizenzkompatibilität, bei der Frage ob eine Bibliothek ausgeliefert werden darf, oder bei der Vorbereitung von Code zur Veröffentlichung als Open Source.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

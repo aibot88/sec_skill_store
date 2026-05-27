@@ -1,0 +1,18 @@
+{
+  "name": "jutsu-bun:bun-sqlite",
+  "slug": "jutsu-bunbun-sqlite",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/jutsu-bunbun-sqlite/",
+  "download_url": "https://claudskills.com/skills/jutsu-bunbun-sqlite/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when working with SQLite databases in Bun. Covers Bun's built-in SQLite driver, database operations, prepared statements, and transactions with high performance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

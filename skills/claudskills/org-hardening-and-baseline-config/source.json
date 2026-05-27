@@ -1,0 +1,18 @@
+{
+  "name": "org-hardening-and-baseline-config",
+  "slug": "org-hardening-and-baseline-config",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/org-hardening-and-baseline-config/",
+  "download_url": "https://claudskills.com/skills/org-hardening-and-baseline-config/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when defining or reviewing baseline org hardening settings, especially Security Health Check gaps, clickjack and browser protections, CSP and CORS governance, password/session policies, network restrictions, and release-update hygiene. Triggers: 'org hardening', 'baseline security config', 'Health Check', 'CSP trusted sites', 'clickjack protection'. NOT for feature-level app permissions or record-sharing design.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

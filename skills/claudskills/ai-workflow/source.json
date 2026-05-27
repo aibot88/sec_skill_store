@@ -1,0 +1,18 @@
+{
+  "name": "ai-workflow",
+  "slug": "ai-workflow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-workflow/",
+  "download_url": "https://claudskills.com/skills/ai-workflow/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Set up LLM workflow discipline for projects that use AI / LLM calls in production or eval suites. Authors an eval-cost-watcher agent that projects token cost BEFORE regression evals run, plus an AI-workflow-discipline rule covering mock-mode placement, fixture freshness, and multi-stage cost accumulation. Optionally a small eval-regression skill stub. Invoke /dotclaude:ai-workflow only when the project actually has AI workflows.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

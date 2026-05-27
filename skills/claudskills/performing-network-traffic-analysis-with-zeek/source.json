@@ -1,0 +1,18 @@
+{
+  "name": "performing-network-traffic-analysis-with-zeek",
+  "slug": "performing-network-traffic-analysis-with-zeek",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-network-traffic-analysis-with-zeek/",
+  "download_url": "https://claudskills.com/skills/performing-network-traffic-analysis-with-zeek/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Deploy Zeek network security monitor to capture, parse, and analyze network traffic metadata for threat detection,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

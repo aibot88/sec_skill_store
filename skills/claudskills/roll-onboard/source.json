@@ -1,0 +1,18 @@
+{
+  "name": "roll-onboard",
+  "slug": "roll-onboard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/roll-onboard/",
+  "download_url": "https://claudskills.com/skills/roll-onboard/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Interactive onboarding for legacy projects. Reads existing code, understands the project, asks 9 questions in 3 groups (cognition / scope / privacy), and writes .roll/onboard-plan.yaml as the contract for `roll init --apply` to execute.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

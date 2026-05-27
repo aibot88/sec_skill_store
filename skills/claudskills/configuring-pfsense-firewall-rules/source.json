@@ -1,0 +1,18 @@
+{
+  "name": "configuring-pfsense-firewall-rules",
+  "slug": "configuring-pfsense-firewall-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/configuring-pfsense-firewall-rules/",
+  "download_url": "https://claudskills.com/skills/configuring-pfsense-firewall-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Configures pfSense firewall rules, NAT policies, VPN tunnels, and traffic shaping to enforce network segmentation,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

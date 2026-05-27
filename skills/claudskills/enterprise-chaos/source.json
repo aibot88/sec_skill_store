@@ -1,0 +1,18 @@
+{
+  "name": "gremlin-enterprise-chaos",
+  "slug": "enterprise-chaos",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/enterprise-chaos/",
+  "download_url": "https://claudskills.com/skills/enterprise-chaos/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply Gremlin's enterprise chaos engineering methodology. Emphasizes categorized failure injection, safety controls, and structured experimentation. Use when implementing chaos engineering in enterprise environments with compliance requirements.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

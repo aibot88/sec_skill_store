@@ -1,0 +1,18 @@
+{
+  "name": "heuristic-bilingual-ar-en-mirror-clauses",
+  "slug": "heuristic-bilingual-ar-en-mirror-clauses",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/heuristic-bilingual-ar-en-mirror-clauses/",
+  "download_url": "https://claudskills.com/skills/heuristic-bilingual-ar-en-mirror-clauses/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when drafting or reviewing bilingual Arabic-English legal documents across MENA jurisdictions. Enforces the rule that every clause must mirror one-to-one between both language versions — same clause numbers, same legal effect, consistent defined terms, matching numerals. Also requires a controlling-language statement. Applies to all document types filed with MENA courts or government authorities where Arabic is an official language of the proceedings.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "language-learning",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

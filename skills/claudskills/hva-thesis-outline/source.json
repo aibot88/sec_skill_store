@@ -1,0 +1,18 @@
+{
+  "name": "hva-thesis-outline",
+  "slug": "hva-thesis-outline",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hva-thesis-outline/",
+  "download_url": "https://claudskills.com/skills/hva-thesis-outline/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Converts a long source document (opdrachtbeschrijving, stage-plan, intern rapport, draft, bedrijfsbrief, onderzoeksnotities) into a properly structured afstudeerrapport-outline following the HvA HBO-ICT richtlijnen (Januari 2024). Use this skill whenever a user mentions HvA, HBO-ICT, Hogeschool van Amsterdam, afstudeerrapport, afstudeerscriptie, BSc thesis, bachelor thesis, thesis outline, afstudeeropdracht, or asks to \"structure\", \"outline\", \"convert\", \"turn into a thesis\", or \"make a thesis skeleton\" from any longer document. Also trigger when a student or supervisor shares a draft, stage-report, or project-brief and wants it reorganised into chapters. Produces a Dutch-language outline with the fixed sections (omslag → titelpagina → samenvatting → inhoudsopgave → inleiding → kernhoofdstukken → conclusies → aanbevelingen → bronnenlijst → bijlagen) and pulls existing content from the source into the right places.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

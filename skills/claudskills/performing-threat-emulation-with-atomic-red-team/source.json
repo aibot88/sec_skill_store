@@ -1,0 +1,18 @@
+{
+  "name": "performing-threat-emulation-with-atomic-red-team",
+  "slug": "performing-threat-emulation-with-atomic-red-team",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-threat-emulation-with-atomic-red-team/",
+  "download_url": "https://claudskills.com/skills/performing-threat-emulation-with-atomic-red-team/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Executes Atomic Red Team tests for MITRE ATT&CK technique validation using the atomic-operator Python framework.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

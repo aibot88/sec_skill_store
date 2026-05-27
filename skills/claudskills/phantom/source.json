@@ -1,0 +1,18 @@
+{
+  "name": "phantom",
+  "slug": "phantom",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/phantom/",
+  "download_url": "https://claudskills.com/skills/phantom/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build frontend Solana applications with Phantom Connect SDK and Helius infrastructure. Covers React, React Native, and browser SDK integration, transaction signing via Helius Sender, API key proxying, token gating, NFT minting, crypto payments, real-time updates, and secure frontend architecture.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

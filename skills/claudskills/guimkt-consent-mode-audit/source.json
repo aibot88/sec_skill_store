@@ -1,0 +1,18 @@
+{
+  "name": "guimkt-consent-mode-audit",
+  "slug": "guimkt-consent-mode-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/guimkt-consent-mode-audit/",
+  "download_url": "https://claudskills.com/skills/guimkt-consent-mode-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audita implementação de Consent Mode v2, LGPD compliance, CMP e disparos indevidos de tags sem consentimento. Deep dive pós-implementação que complementa a seção \"Consent & Privacy Architecture\" do measurement-plan. Valida default/update states, CMP integration, comportamento de cada tag por estado de consent, certificação Google CMP Partner, data retention settings, e gera relatório com score, itens críticos e checklist de correção. Use quando precisar auditar consent mode, validar LGPD compliance, verificar CMP, checar se tags disparam sem consentimento, auditar privacidade, consent mode v2 audit, verificar cookie policy, auditoria de CMP, compliance de dados, LGPD audit, ou qualquer variação de \"meu consent está funcionando?\", \"tags sem consentimento\", \"auditoria LGPD\", \"consent mode audit\", \"CMP review\", \"privacidade do site\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

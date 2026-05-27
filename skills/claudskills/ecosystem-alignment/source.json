@@ -1,0 +1,18 @@
+{
+  "name": "ecosystem-alignment",
+  "slug": "ecosystem-alignment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ecosystem-alignment/",
+  "download_url": "https://claudskills.com/skills/ecosystem-alignment/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Upstream version checking, agentskills.io spec compliance audit, Claude Code feature gap analysis. Activates on updates, version checks, or alignment work.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

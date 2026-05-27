@@ -1,0 +1,18 @@
+{
+  "name": "turn-windows-event-logs-into-sigma-backed-threat-hunting-timelin",
+  "slug": "turn-windows-event-logs-into-sigma-backed-threat-hunting-timelin",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/turn-windows-event-logs-into-sigma-backed-threat-hunting-timelin/",
+  "download_url": "https://claudskills.com/skills/turn-windows-event-logs-into-sigma-backed-threat-hunting-timelin/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Parse Windows event logs into fast timelines and detection-rich outputs so agents can triage suspicious host activity, search for known patterns, and hand investigators reviewable artifacts.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

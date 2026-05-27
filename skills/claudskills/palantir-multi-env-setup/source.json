@@ -1,0 +1,18 @@
+{
+  "name": "palantir-multi-env-setup",
+  "slug": "palantir-multi-env-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/palantir-multi-env-setup/",
+  "download_url": "https://claudskills.com/skills/palantir-multi-env-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Palantir Foundry across development, staging, and production environments. Use when setting up multi-environment Foundry deployments, managing per-environment credentials, or implementing environment-specific configurations. Trigger with phrases like \"palantir environments\", \"foundry staging\", \"foundry dev prod\", \"palantir environment setup\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

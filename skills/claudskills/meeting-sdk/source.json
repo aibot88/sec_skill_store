@@ -1,0 +1,18 @@
+{
+  "name": "build-zoom-meeting-sdk-app",
+  "slug": "meeting-sdk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/meeting-sdk/",
+  "download_url": "https://claudskills.com/skills/meeting-sdk/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reference skill for Zoom Meeting SDK. Use after routing to a meeting-embed workflow when implementing real Zoom meeting joins, platform-specific SDK behavior, auth and join flows, waiting room issues, or meeting bot patterns.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

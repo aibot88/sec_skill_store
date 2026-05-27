@@ -1,0 +1,18 @@
+{
+  "name": "cf-analytics",
+  "slug": "cf-analytics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cf-analytics/",
+  "download_url": "https://claudskills.com/skills/cf-analytics/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Track content quality scores, pipeline timing, and compliance trends with insights and alerts.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

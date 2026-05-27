@@ -1,0 +1,18 @@
+{
+  "name": "cloudflare-mcp-server",
+  "slug": "cloudflare-mcp-server-dennislee928-smart-zone",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloudflare-mcp-server-dennislee928-smart-zone/",
+  "download_url": "https://claudskills.com/skills/cloudflare-mcp-server-dennislee928-smart-zone/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build MCP servers on Cloudflare Workers - the only platform with official remote MCP support. TypeScript-based with OAuth, Durable Objects, and WebSocket hibernation. Prevents 24 documented errors.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "context-witness",
+  "slug": "context-witness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/context-witness/",
+  "download_url": "https://claudskills.com/skills/context-witness/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Decide between Context Tag witness and capability patterns for dependency injection, understanding coupling trade-offs",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

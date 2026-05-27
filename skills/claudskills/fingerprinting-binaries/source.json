@@ -1,0 +1,18 @@
+{
+  "name": "fingerprinting-binaries",
+  "slug": "fingerprinting-binaries",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fingerprinting-binaries/",
+  "download_url": "https://claudskills.com/skills/fingerprinting-binaries/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Identifies binary file characteristics including compiler signatures, version information, and build environment details. Use when analyzing unknown binaries, investigating binary origins, or identifying build configurations.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

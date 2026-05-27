@@ -1,0 +1,18 @@
+{
+  "name": "alibaba-registry-artifact-governor",
+  "slug": "alibaba-registry-artifact-governor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibaba-registry-artifact-governor/",
+  "download_url": "https://claudskills.com/skills/alibaba-registry-artifact-governor/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Govern Alibaba Cloud Container Registry (ACR) — Enterprise Edition vs Personal Edition selection, image vulnerability scanning, namespace IAM least privilege, image retention policies, cross-region replication, and supply chain security posture.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

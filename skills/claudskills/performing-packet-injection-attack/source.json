@@ -1,0 +1,18 @@
+{
+  "name": "performing-packet-injection-attack",
+  "slug": "performing-packet-injection-attack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-packet-injection-attack/",
+  "download_url": "https://claudskills.com/skills/performing-packet-injection-attack/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Crafts and injects custom network packets using Scapy, hping3, and Nemesis during authorized security assessments",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

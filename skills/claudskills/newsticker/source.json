@@ -1,0 +1,18 @@
+{
+  "name": "newsticker",
+  "slug": "newsticker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/newsticker/",
+  "download_url": "https://claudskills.com/skills/newsticker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "German-language news skill for the OpenClaw and AI agent ecosystem. Use when the user asks for current news, briefings, breaking alerts, or ClawNews.de archive search about OpenClaw, ClawHub, LLMs, AI agents, security, tools, open source, or community topics. Typical triggers: \"Was gibt es Neues?\", \"Gibt es Breaking News?\", \"Suche ClawNews nach X\", \"ClawNews Briefing\", \"News zu [Thema]\", \"What's new in OpenClaw?\". DACH region, German-language output and sources from ClawNews.de.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

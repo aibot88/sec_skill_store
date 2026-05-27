@@ -1,0 +1,18 @@
+{
+  "name": "express-guide",
+  "slug": "express-guide",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/express-guide/",
+  "download_url": "https://claudskills.com/skills/express-guide/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Développement d'APIs Node.js avec Express, middleware, routing, gestion d'erreurs, authentification et bonnes pratiques de conception. Se déclenche avec \"Express\", \"Express.js\", \"middleware Express\", \"Node.js API\", \"router Express\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:53+00:00"
+}

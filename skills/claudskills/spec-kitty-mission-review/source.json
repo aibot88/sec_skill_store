@@ -1,0 +1,18 @@
+{
+  "name": "spec-kitty-mission-review",
+  "slug": "spec-kitty-mission-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spec-kitty-mission-review/",
+  "download_url": "https://claudskills.com/skills/spec-kitty-mission-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review a fully merged Spec Kitty mission post-merge (all WPs done/approved) to verify spec→code fidelity, FR coverage, drift, risks, and security. Triggers: \"review the merged mission\", \"post-merge mission review\", \"verify the completed mission\", \"audit the mission implementation\", \"mission-level acceptance review\", \"is this mission releasable\", \"final review before tagging\", \"cross-WP coverage audit\". Does NOT handle: per-WP review during implementation (use spec-kitty-runtime-review), implement-review loop orchestration (use spec-kitty-implement-review), setup or repair (use spec-kitty-setup-doctor), or glossary maintenance (use spec-kitty-glossary-context).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

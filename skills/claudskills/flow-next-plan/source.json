@@ -1,0 +1,18 @@
+{
+  "name": "flow-next-plan",
+  "slug": "flow-next-plan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flow-next-plan/",
+  "download_url": "https://claudskills.com/skills/flow-next-plan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create structured build plans from feature requests or Flow IDs. Use when planning features or designing implementation. Triggers on /flow-next:plan with text descriptions or Flow IDs (fn-1-add-oauth, fn-1-add-oauth.2, or legacy fn-1, fn-1.2, fn-1-xxx, fn-1-xxx.2).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

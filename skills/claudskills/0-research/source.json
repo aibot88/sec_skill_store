@@ -1,0 +1,18 @@
+{
+  "name": "research",
+  "slug": "0-research",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/0-research/",
+  "download_url": "https://claudskills.com/skills/0-research/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Technical research methodology with YAGNI/KISS/DRY principles. Phases: scope definition, information gathering, analysis, synthesis, recommendation. Capabilities: technology evaluation, architecture analysis, best practices research, trade-off assessment, solution design. Actions: research, analyze, evaluate, compare, recommend technical solutions. Keywords: research, technology evaluation, best practices, architecture analysis, trade-offs, scalability, security, maintainability, YAGNI, KISS, DRY, technical analysis, solution design, competitive analysis, feasibility study. Use when: researching technologies, evaluating architectures, analyzing best practices, comparing solutions, assessing technical trade-offs, planning scalable/secure systems.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

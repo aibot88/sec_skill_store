@@ -1,0 +1,18 @@
+{
+  "name": "a11y",
+  "slug": "a11y",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/a11y/",
+  "download_url": "https://claudskills.com/skills/a11y/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Production-grade accessibility skill for WCAG 2.2 AA compliance. Covers auditing, remediation, component authoring, and validation workflows. Auto-invoked for UI implementation, a11y fixes, and accessibility testing.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:34+00:00"
+}

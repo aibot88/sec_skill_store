@@ -1,0 +1,18 @@
+{
+  "name": "mcp-security-audit",
+  "slug": "mcp-security-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mcp-security-audit/",
+  "download_url": "https://claudskills.com/skills/mcp-security-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit MCP (Model Context Protocol) server configurations for security issues. Use this skill when: - Reviewing .mcp.json files for security risks - Checking MCP server args for hardcoded secrets or shell injection patterns - Validating that MCP servers use pinned versions (not @latest) - Detecting unpinned dependencies in MCP server configurations - Auditing which MCP servers a project registers and whether they're on an approved list - Checking for environment variable usage vs. hardcoded credentials in MCP configs - Any request like \"is my MCP config secure?\", \"audit my MCP servers\", or \"check .mcp.json\" keywords: [mcp, security, audit, secrets, shell-injection, supply-chain, governance]",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

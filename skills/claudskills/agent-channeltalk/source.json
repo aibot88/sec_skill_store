@@ -1,0 +1,18 @@
+{
+  "name": "agent-channeltalk",
+  "slug": "agent-channeltalk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-channeltalk/",
+  "download_url": "https://claudskills.com/skills/agent-channeltalk/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Interact with Channel Talk using extracted desktop app or browser credentials - read chats, send messages, search messages, manage groups",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

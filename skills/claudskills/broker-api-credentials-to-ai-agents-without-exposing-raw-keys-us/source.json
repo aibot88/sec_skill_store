@@ -1,0 +1,18 @@
+{
+  "name": "broker-api-credentials-to-ai-agents-without-exposing-raw-keys-us",
+  "slug": "broker-api-credentials-to-ai-agents-without-exposing-raw-keys-us",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/broker-api-credentials-to-ai-agents-without-exposing-raw-keys-us/",
+  "download_url": "https://claudskills.com/skills/broker-api-credentials-to-ai-agents-without-exposing-raw-keys-us/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Store credentials once, then inject them into outbound agent requests at runtime so agents can call services without receiving raw secrets.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

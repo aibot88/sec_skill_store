@@ -1,0 +1,18 @@
+{
+  "name": "bknd-login-flow",
+  "slug": "bknd-login-flow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bknd-login-flow/",
+  "download_url": "https://claudskills.com/skills/bknd-login-flow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when implementing login and logout functionality in a Bknd application. Covers SDK authentication methods, REST API endpoints, React integration, session checking, and error handling.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

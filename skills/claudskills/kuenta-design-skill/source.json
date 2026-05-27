@@ -1,0 +1,18 @@
+{
+  "name": "kuenta-design",
+  "slug": "kuenta-design-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kuenta-design-skill/",
+  "download_url": "https://claudskills.com/skills/kuenta-design-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design system y guía visual completa para el proyecto KUENTA (PWA de pagos P2P Chile). Usar SIEMPRE que se cree o modifique cualquier componente visual, pantalla, estilo, layout o elemento de interfaz en el proyecto KUENTA. Incluye tipografía (Syne + DM Sans), paleta de colores con tokens CSS, glassmorphism, wordmark, modos claro/oscuro, iconografía SVG, animaciones, componentes y checklist de implementación. También usar cuando se mencione: wordmark, splash screen, login, header, tab bar, cards, botones, inputs, avatares, colores, fuentes o cualquier elemento visual de KUENTA.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

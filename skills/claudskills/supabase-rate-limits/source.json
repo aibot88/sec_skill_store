@@ -1,0 +1,18 @@
+{
+  "name": "supabase-rate-limits",
+  "slug": "supabase-rate-limits",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-rate-limits/",
+  "download_url": "https://claudskills.com/skills/supabase-rate-limits/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Manage Supabase rate limits and quotas across all plan tiers. Use when hitting 429 errors, configuring connection pooling, optimizing API throughput, or understanding tier-specific quotas for Auth, Storage, Realtime, and Edge Functions. Trigger: \"supabase rate limit\", \"supabase 429\", \"supabase throttle\", \"supabase quota\", \"supabase connection pool\", \"supabase too many requests\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:24+00:00"
+}

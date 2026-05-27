@@ -1,0 +1,18 @@
+{
+  "name": "bug-bounty",
+  "slug": "bug-bounty",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bug-bounty/",
+  "download_url": "https://claudskills.com/skills/bug-bounty/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Bug bounty program management and security disclosure expertise for smart contracts. Covers program setup on Immunefi, vulnerability triage, responsible disclosure coordination, bounty payments, and post-disclosure analysis.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:09+00:00"
+}

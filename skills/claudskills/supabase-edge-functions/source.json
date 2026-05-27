@@ -1,0 +1,18 @@
+{
+  "name": "supabase-edge-functions",
+  "slug": "supabase-edge-functions",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-edge-functions/",
+  "download_url": "https://claudskills.com/skills/supabase-edge-functions/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when developing, deploying, or managing Supabase Edge Functions, working with Deno in Supabase, or building serverless endpoints. Trigger when: \"edge function\", \"deploy function\", \"supabase functions\", \"Deno function\", \"serverless endpoint\", \"functions serve\", \"functions deploy\", \"create function\", \"webhook handler\", \"Supabase function secrets\", \"function logs\", \"supabase functions new\", \"invoke function\", \"edge runtime\", \"Deno.serve\", \"Supabase Cron\", \"scheduled function\", \"pg_cron\", \"scheduled edge function\", \"Stripe in Supabase\", \"Stripe v22\", or building any server-side TypeScript function for Supabase.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

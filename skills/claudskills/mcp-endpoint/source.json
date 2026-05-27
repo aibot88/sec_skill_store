@@ -1,0 +1,18 @@
+{
+  "name": "waaseyaa:mcp-endpoint",
+  "slug": "mcp-endpoint",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mcp-endpoint/",
+  "download_url": "https://claudskills.com/skills/mcp-endpoint/SKILL.md",
+  "external_source_url": "",
+  "license": "GPL-2.0",
+  "description": "Use when working with the MCP server endpoint, JSON-RPC handling, tool registry, authentication, or files in packages/mcp/",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

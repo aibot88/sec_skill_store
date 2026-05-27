@@ -1,0 +1,18 @@
+{
+  "name": "cohere-security-basics",
+  "slug": "cohere-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cohere-security-basics/",
+  "download_url": "https://claudskills.com/skills/cohere-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Cohere security best practices for API key management and access control. Use when securing API keys, implementing key rotation, or auditing Cohere security configuration. Trigger with phrases like \"cohere security\", \"cohere secrets\", \"secure cohere\", \"cohere API key security\", \"cohere key rotation\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

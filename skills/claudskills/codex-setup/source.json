@@ -1,0 +1,18 @@
+{
+  "name": "codex-setup",
+  "slug": "codex-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/codex-setup/",
+  "download_url": "https://claudskills.com/skills/codex-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Check Codex CLI, auth, Official plugin status, and configure defaults. Use when asked \\\"codex setup\\\", \\\"codex 설정\\\", \\\"코덱스 설치\\\", or when another codex-advisor skill reports setup issues.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

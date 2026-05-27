@@ -1,0 +1,18 @@
+{
+  "name": "clickhouse-multi-env-setup",
+  "slug": "clickhouse-multi-env-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clickhouse-multi-env-setup/",
+  "download_url": "https://claudskills.com/skills/clickhouse-multi-env-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure ClickHouse across dev, staging, and production with environment-specific settings, secrets management, and infrastructure-as-code patterns. Use when setting up per-environment ClickHouse instances, managing connection configs, or deploying to multiple environments. Trigger: \"clickhouse environments\", \"clickhouse dev staging prod\", \"clickhouse multi-env\", \"clickhouse environment config\", \"clickhouse staging setup\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "data-engineering",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

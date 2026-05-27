@@ -1,0 +1,18 @@
+{
+  "name": "firebase-ai-logic",
+  "slug": "firebase-ai-logic",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-ai-logic/",
+  "download_url": "https://claudskills.com/skills/firebase-ai-logic/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Official skill for integrating Firebase AI Logic (Gemini API) into web applications. Covers setup, multimodal inference, structured output, and security.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

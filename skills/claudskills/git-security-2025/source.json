@@ -1,0 +1,18 @@
+{
+  "name": "git-security-2025",
+  "slug": "git-security-2025",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/git-security-2025/",
+  "download_url": "https://claudskills.com/skills/git-security-2025/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Git security best practices for 2025 including signed commits, zero-trust workflows, secret scanning, and verification",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "zero-trust",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "reddit-post-writer",
+  "slug": "reddit-post-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/reddit-post-skill/",
+  "download_url": "https://claudskills.com/skills/reddit-post-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Master authentic Reddit content generator using emotion-first, phased architecture. Creates posts that sound genuinely human through cognitive state simulation, not just rule-following. Use when the user asks to write a Reddit post, create Reddit content, or needs help with Reddit engagement. Includes adversarial committee review, Claude-ism detection, and interactive refinement workflow.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

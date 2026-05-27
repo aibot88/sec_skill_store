@@ -1,0 +1,18 @@
+{
+  "name": "review-migration",
+  "slug": "review-migration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/review-migration/",
+  "download_url": "https://claudskills.com/skills/review-migration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when planning or reviewing production database migrations, adding columns, indexes, constraints, backfills, renames, table rewrites, or concurrent operations. Covers phased rollouts, lock behavior, rollback strategy, strong_migrations compliance, and deployment ordering for schema changes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:05+00:00"
+}

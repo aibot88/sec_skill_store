@@ -1,0 +1,18 @@
+{
+  "name": "Create Dual-Mode Enemy",
+  "slug": "create-dual-mode-enemy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-dual-mode-enemy/",
+  "download_url": "https://claudskills.com/skills/create-dual-mode-enemy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Creates a new GameMaker enemy that can switch between melee and ranged attacks based on distance, formation role, cooldowns, and line of sight. Use when the user asks to create an enemy with both melee and ranged capabilities, context-based attack switching, or tactical combat behavior.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

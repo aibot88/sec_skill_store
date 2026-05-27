@@ -1,0 +1,18 @@
+{
+  "name": "ai-llm-engineering",
+  "slug": "ai-llm-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-llm-engineering/",
+  "download_url": "https://claudskills.com/skills/ai-llm-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Operational skill hub for LLM system architecture, evaluation, deployment, and optimization (modern production standards). Links to specialized skills for prompts, RAG, agents, and safety. Integrates recent advances: PEFT/LoRA fine-tuning, hybrid RAG handoff (see dedicated skill), vLLM 24x throughput, multi-layered security (90%+ bypass for single-layer), automated drift detection (18-second response), and CI/CD-aligned evaluation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

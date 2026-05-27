@@ -1,0 +1,18 @@
+{
+  "name": "learning-global-accessibility",
+  "slug": "learning-global-accessibility",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/learning-global-accessibility/",
+  "download_url": "https://claudskills.com/skills/learning-global-accessibility/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate accessibility across international standards (WCAG, EN 301 549, Section 508), support diverse assistive technologies, address regional accessibility regulations, and design for global ability contexts. Use when ensuring worldwide accessibility. Activates on \"global accessibility\", \"international WCAG\", or \"worldwide compliance\".",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

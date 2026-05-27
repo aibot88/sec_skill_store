@@ -1,0 +1,18 @@
+{
+  "name": "remotion-to-hyperframes",
+  "slug": "remotion-to-hyperframes",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/remotion-to-hyperframes/",
+  "download_url": "https://claudskills.com/skills/remotion-to-hyperframes/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Translate an existing Remotion (React-based) video composition into a HyperFrames HTML composition. Use ONLY when the user explicitly asks to port, convert, migrate, translate, or rewrite a Remotion composition as HyperFrames (e.g. \"port my Remotion project to HyperFrames\"). Do NOT use when (a) authoring a NEW HyperFrames composition (even if A/B-testing a Remotion video); (b) Remotion is mentioned in passing; (c) Remotion code is shared as reference, not for translation; (d) the user wants \"the same video as my Remotion one\" without explicitly asking to migrate the source — treat as a fresh HyperFrames build. When in doubt, default to the `hyperframes` skill. Detects unsupported patterns (useState, useEffect side effects, async calculateMetadata, third-party React component libraries, `@remotion/lambda`) and recommends the runtime interop escape hatch instead of a lossy translation.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "video",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

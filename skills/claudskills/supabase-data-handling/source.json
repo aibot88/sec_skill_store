@@ -1,0 +1,18 @@
+{
+  "name": "supabase-data-handling",
+  "slug": "supabase-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/supabase-data-handling/",
+  "download_url": "https://claudskills.com/skills/supabase-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement GDPR/CCPA compliance with Supabase: RLS for data isolation, user deletion via auth.admin.deleteUser(), data export via SQL, PII column management, backup/restore workflows, and retention policies. Use when handling sensitive data, implementing right-to-deletion, configuring data retention, or auditing PII in Supabase database columns. Trigger: \"supabase GDPR\", \"supabase data handling\", \"supabase PII\", \"supabase compliance\", \"supabase data retention\", \"supabase delete user\", \"supabase data export\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

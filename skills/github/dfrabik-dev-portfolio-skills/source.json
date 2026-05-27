@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "dfrabik-dev-portfolio-skills",
+  "source": "github",
+  "source_url": "https://github.com/dfrabik/dev-portfolio/blob/236ae0515b9bcde90655f793426d4caed09e5a18/skills/Claude.skill.md",
+  "download_url": "https://github.com/dfrabik/dev-portfolio/blob/236ae0515b9bcde90655f793426d4caed09e5a18/skills/Claude.skill.md",
+  "external_source_url": "https://github.com/dfrabik/dev-portfolio/blob/236ae0515b9bcde90655f793426d4caed09e5a18/skills/Claude.skill.md",
+  "license": "",
+  "description": "AI-optimized multi-project infrastructure with centralized skills and agent.md files",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "dfrabik/dev-portfolio",
+    "path": "skills/Replit.skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

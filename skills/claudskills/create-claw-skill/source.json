@@ -1,0 +1,18 @@
+{
+  "name": "create-claw-skill",
+  "slug": "create-claw-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-claw-skill/",
+  "download_url": "https://claudskills.com/skills/create-claw-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when the user asks to \"create an OpenClaw skill\", \"make a claw skill\", \"build a skill for OpenClaw\", \"write a SKILL.md for openclaw\", \"add a skill to openclaw\", \"generate openclaw skill frontmatter\", \"create a clawhub skill\", \"port a skill to OpenClaw\", \"convert a Claude Code skill to claw\", \"migrate my skill to openclaw\", or wants to author a new skill or port an existing Claude Code skill for the pi-coding-agent / OpenClaw ecosystem.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

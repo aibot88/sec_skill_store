@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-proverbiogenesis",
+  "slug": "agentprivacy-proverbiogenesis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-proverbiogenesis/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-proverbiogenesis/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Proverb lifecycle and the 5-phase proverb evolution for 0xagentprivacy RPP. Activates when discussing proverb formation (reception→compression→regeneration→propagation→inevitability), proverb-as-authentication, wisdom compression, or the Relationship Proverb Protocol as an anti-extraction mechanism.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cto-risk-resilience",
+  "slug": "cto-risk-resilience",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cto-risk-resilience/",
+  "download_url": "https://claudskills.com/skills/cto-risk-resilience/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert methodology for identifying, assessing, and mitigating technical and operational risks including security, incidents, compliance, and disaster recovery.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

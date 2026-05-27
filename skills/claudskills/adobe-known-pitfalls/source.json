@@ -1,0 +1,18 @@
+{
+  "name": "adobe-known-pitfalls",
+  "slug": "adobe-known-pitfalls",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/adobe-known-pitfalls/",
+  "download_url": "https://claudskills.com/skills/adobe-known-pitfalls/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Identify and avoid Adobe-specific anti-patterns: using deprecated JWT auth, not caching IMS tokens, ignoring Firefly content policy, missing async job polling, and leaking p8_ secrets. Real code examples with fixes. Trigger with phrases like \"adobe mistakes\", \"adobe anti-patterns\", \"adobe pitfalls\", \"adobe what not to do\", \"adobe code review\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "performance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

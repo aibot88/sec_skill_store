@@ -1,0 +1,18 @@
+{
+  "name": "nvidia-gpu-operator-kubernetes-hardening",
+  "slug": "nvidia-gpu-operator-kubernetes-hardening",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nvidia-gpu-operator-kubernetes-hardening/",
+  "download_url": "https://claudskills.com/skills/nvidia-gpu-operator-kubernetes-hardening/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing NVIDIA GPU Operator deployments on Kubernetes — device plugin, MIG manager, NFD labels, time-sliced GPU configuration, container toolkit, securityContext posture, namespace tenancy, and admission policy coverage. Trigger when the user asks whether GPUs are being shared safely across tenants, whether MIG profiles are enforced, or whether the GPU Operator is deployed per NVIDIA hardening guidance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

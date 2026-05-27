@@ -1,0 +1,18 @@
+{
+  "name": "remote-site-settings",
+  "slug": "remote-site-settings",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/remote-site-settings/",
+  "download_url": "https://claudskills.com/skills/remote-site-settings/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when configuring Remote Site Settings to allow Apex callouts to external URLs, or when distinguishing Remote Site Settings from CSP Trusted Sites for Lightning component resource loading. NOT for Named Credentials (use named-credential-configuration).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

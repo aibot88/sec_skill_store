@@ -1,0 +1,18 @@
+{
+  "name": "convex-backend-development",
+  "slug": "convex-backend-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/convex-backend-development/",
+  "download_url": "https://claudskills.com/skills/convex-backend-development/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Develop and maintain Convex backend functions including queries, mutations, and actions. Use when working with database operations, authentication, game management, scoring logic, and real-time data updates in the dev-quiz-battle app.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "education-learning",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

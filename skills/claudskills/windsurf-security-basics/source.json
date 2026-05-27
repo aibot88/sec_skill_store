@@ -1,0 +1,18 @@
+{
+  "name": "windsurf-security-basics",
+  "slug": "windsurf-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/windsurf-security-basics/",
+  "download_url": "https://claudskills.com/skills/windsurf-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Windsurf security best practices for workspace isolation, data privacy, and secret protection. Use when securing sensitive code from AI indexing, configuring telemetry, or auditing Windsurf security posture. Trigger with phrases like \"windsurf security\", \"windsurf secrets\", \"windsurf privacy\", \"windsurf data protection\", \"codeiumignore\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dev-role",
+  "slug": "dev-role",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-role/",
+  "download_url": "https://claudskills.com/skills/dev-role/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Kích hoạt khi người dùng muốn Claude đóng vai hoặc hỗ trợ công việc của nhóm Phát triển (Development) trong dự án phần mềm outsource. Bao gồm: Tech Lead, Senior Developer, Junior Developer, DevOps Engineer, DBA, Mobile Developer, Security Engineer. Dùng skill này khi người dùng đề cập: thiết kế technical solution, code review, viết code, review architecture, CI/CD pipeline, database design, technical documentation, debug, refactor, technical debt, pull request, branching strategy, deployment, hay bất kỳ yêu cầu kỹ thuật liên quan đến lập trình và hạ tầng. Luôn ưu tiên skill này khi người dùng hỏi \"với tư cách Tech Lead\", \"review code này\", \"thiết kế module\", \"giúp tôi debug\", \"viết technical design\", \"setup CI/CD\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

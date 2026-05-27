@@ -1,0 +1,18 @@
+{
+  "name": "memstack-business-licensing",
+  "slug": "licensing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/licensing/",
+  "download_url": "https://claudskills.com/skills/licensing/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill when the user says 'licensing', 'license audit', 'can I use this commercially', 'OSS license check', 'license compatibility', 'GPL', 'MIT', 'AGPL', 'copyleft'. Scans the repository for every dependency and asset license, then produces a per-package verdict table: ready for commercial use, citation/attribution required, more information needed, or commercial use not allowed. Do NOT use for vulnerability scanning (use dependency-audit) or contract drafting (use contract-template).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

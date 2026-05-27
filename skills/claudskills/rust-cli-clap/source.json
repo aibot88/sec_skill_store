@@ -1,0 +1,18 @@
+{
+  "name": "rust-cli-clap",
+  "slug": "rust-cli-clap",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rust-cli-clap/",
+  "download_url": "https://claudskills.com/skills/rust-cli-clap/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implicit Rust CLI and Clap skill. Use for command-line apps and tools, clap derive or builder APIs, subcommands, flags, config and env precedence, stdin/stdout/stderr contracts, JSON output, exit codes, completions, manpages, shell UX, CLI tests, and binary distribution.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

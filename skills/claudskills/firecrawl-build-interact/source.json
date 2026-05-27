@@ -1,0 +1,18 @@
+{
+  "name": "firecrawl-build-interact",
+  "slug": "firecrawl-build-interact",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firecrawl-build-interact/",
+  "download_url": "https://claudskills.com/skills/firecrawl-build-interact/SKILL.md",
+  "external_source_url": "",
+  "license": "ISC",
+  "description": "Integrate Firecrawl `/interact` into product code for dynamic pages and browser actions after scraping. Use when a feature needs clicks, form fills, pagination, authentication-aware flows, or other multi-step interactions that plain `/scrape` cannot complete.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

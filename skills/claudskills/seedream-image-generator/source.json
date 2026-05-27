@@ -1,0 +1,18 @@
+{
+  "name": "seedream-image-generator",
+  "slug": "seedream-image-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/seedream-image-generator/",
+  "download_url": "https://claudskills.com/skills/seedream-image-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generate images using the Doubao SeeDream API based on text prompts. Use this skill when users request AI-generated images, artwork, illustrations, or visual content creation. The skill handles API calls, downloads generated images to the project's /pic folder, and supports batch generation of up to 4 sequential images.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

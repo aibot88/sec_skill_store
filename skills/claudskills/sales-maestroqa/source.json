@@ -1,0 +1,18 @@
+{
+  "name": "sales-maestroqa",
+  "slug": "sales-maestroqa",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-maestroqa/",
+  "download_url": "https://claudskills.com/skills/sales-maestroqa/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "MaestroQA platform help — conversation data QA platform with customizable scorecards, AI-powered coaching workflows, conversation analytics (AskAI), reverse-ETL to CRM/Slack/data warehouses, CSAT ingestion, chatbot QA monitoring. 60+ integrations (Zendesk, Freshdesk, Salesforce, Intercom, ServiceNow, Kustomer, Front, Gorgias, Gladly, Khoros Care, Five9, Talkdesk, Amazon Connect, NICE, Aircall, Gong, Zoom, Dialpad, Snowflake, BigQuery, Redshift). Rippit API (app.rippit.com/api/v1, token auth, 10 req/s). Use when QA scorecards not catching the right issues, coaching workflows feel disconnected from QA data, grading data export to warehouse, CSAT scores not correlating with QA scores, setting up MaestroQA integrations with helpdesk or phone system, MaestroQA API automation, or evaluating MaestroQA vs Observe.AI or Enthu.AI or Klaus. Do NOT use for CCaaS platform selection (use /sales-ccaas-selection) or real-time agent coaching during calls (use /sales-balto).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

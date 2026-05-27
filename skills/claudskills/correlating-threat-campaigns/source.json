@@ -1,0 +1,18 @@
+{
+  "name": "correlating-threat-campaigns",
+  "slug": "correlating-threat-campaigns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/correlating-threat-campaigns/",
+  "download_url": "https://claudskills.com/skills/correlating-threat-campaigns/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Correlates disparate security incidents, IOCs, and adversary behaviors across time and organizations to identify",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

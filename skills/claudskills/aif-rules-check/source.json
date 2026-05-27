@@ -1,0 +1,18 @@
+{
+  "name": "aif-rules-check",
+  "slug": "aif-rules-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aif-rules-check/",
+  "download_url": "https://claudskills.com/skills/aif-rules-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run a standalone read-only rules compliance gate against changed files or a git ref. Use when you need a dedicated project-rules check without a full review or verify pass.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

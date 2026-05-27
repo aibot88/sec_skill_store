@@ -1,0 +1,18 @@
+{
+  "name": "authoring-analysis",
+  "slug": "authoring-analysis-adobe-helix-website",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/authoring-analysis-adobe-helix-website/",
+  "download_url": "https://claudskills.com/skills/authoring-analysis-adobe-helix-website/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze content sequences and determine authoring approach (default content vs blocks). Validates block selection and section styling for import/migration to AEM Edge Delivery Services.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:57+00:00"
+}

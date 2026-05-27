@@ -1,0 +1,18 @@
+{
+  "name": "fullstory-capture-control",
+  "slug": "fullstory-capture-control",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fullstory-capture-control/",
+  "download_url": "https://claudskills.com/skills/fullstory-capture-control/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive guide for implementing Fullstory's Capture Control APIs (shutdown/restart) for web applications. Teaches proper session management, capture pausing, and resource optimization. Includes detailed good/bad examples for performance-sensitive sections, privacy zones, and SPA cleanup to help developers control when Fullstory captures sessions.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "storytelling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:02+00:00"
+}

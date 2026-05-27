@@ -1,0 +1,18 @@
+{
+  "name": "digitalocean-droplet-deployment",
+  "slug": "digitalocean-droplet-deployment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/digitalocean-droplet-deployment/",
+  "download_url": "https://claudskills.com/skills/digitalocean-droplet-deployment/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generic DigitalOcean droplet deployment using doctl CLI for any application type (APIs, web servers, background workers). Includes validation, deployment scripts, systemd service management, secret handling, health checks, and deployment tracking. Use when deploying Python/Node.js/any apps to droplets, managing systemd services, handling secrets securely, or when user mentions droplet deployment, doctl, systemd, or server deployment.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:43+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Kubernetes Platform Engineering",
+  "slug": "kubernetes-platform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kubernetes-platform/",
+  "download_url": "https://claudskills.com/skills/kubernetes-platform/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Production Kubernetes platform patterns covering cluster architecture, security, GitOps, observability, autoscaling, and operational guardrails",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

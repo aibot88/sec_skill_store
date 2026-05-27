@@ -1,0 +1,18 @@
+{
+  "name": "github-sync",
+  "slug": "github-sync",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-sync/",
+  "download_url": "https://claudskills.com/skills/github-sync/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Two-way synchronization between SpecWeave specs and GitHub Projects (push & pull by default). Use when asking about GitHub integration setup, troubleshooting sync issues, or configuring sync settings. For actual syncing, use /sw-github:sync-spec command.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

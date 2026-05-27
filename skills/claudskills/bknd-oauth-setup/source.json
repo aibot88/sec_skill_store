@@ -1,0 +1,18 @@
+{
+  "name": "bknd-oauth-setup",
+  "slug": "bknd-oauth-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bknd-oauth-setup/",
+  "download_url": "https://claudskills.com/skills/bknd-oauth-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when configuring OAuth or social login providers in a Bknd application. Covers Google OAuth, GitHub OAuth, custom OAuth providers, callback URLs, environment variables, and frontend OAuth integration.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

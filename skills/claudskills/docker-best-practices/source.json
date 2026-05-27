@@ -1,0 +1,18 @@
+{
+  "name": "docker-best-practices",
+  "slug": "docker-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docker-best-practices/",
+  "download_url": "https://claudskills.com/skills/docker-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create optimized Dockerfiles with multi-stage builds, security hardening, layer caching, and health checks. Includes docker-compose patterns for development and production environments.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "modularize-chrome-browser",
+  "slug": "modularize-chrome-browser",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/modularize-chrome-browser/",
+  "download_url": "https://claudskills.com/skills/modularize-chrome-browser/SKILL.md",
+  "external_source_url": "",
+  "license": "BSD-3-Clause",
+  "description": "Modularize a chrome/browser/ subfolder by splitting its sources out of the monolithic //chrome/browser:browser target into dedicated source_set targets in the subfolder's own BUILD.gn. Use when the user asks to modularize, extract, or create BUILD targets for a chrome/browser/ subfolder, or mentions \"Project Bedrock\", \"//chrome/browser modularization\", or wants to split a subfolder into header/impl/test targets. Also use when the user says \"modularize chrome/browser/X\" for any X.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

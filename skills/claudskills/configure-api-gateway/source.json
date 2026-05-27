@@ -1,0 +1,18 @@
+{
+  "name": "configure-api-gateway",
+  "slug": "configure-api-gateway",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/configure-api-gateway/",
+  "download_url": "https://claudskills.com/skills/configure-api-gateway/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "API-Gateway (Kong oder Traefik) deployen und konfigurieren fuer API-Traffic-Management, Authentifizierung, Rate-Limiting, Anfrage-/Antwort- Transformation und Routing. Behandelt Plugin-Konfiguration, Upstream-Services, Consumer-Management und Integration mit bestehender Infrastruktur. Einsatz wenn mehrere Backend-Services einen einheitlichen API-Endpunkt benoetigen, zentrale Authentifizierung oder Rate-Limiting erforderlich ist, API- Versionierung implementiert werden soll oder detaillierte Analysen und Load-Balancing fuer Microservices benoetigt werden.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

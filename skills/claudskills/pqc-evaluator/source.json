@@ -1,0 +1,18 @@
+{
+  "name": "pqc-evaluator",
+  "slug": "pqc-evaluator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pqc-evaluator/",
+  "download_url": "https://claudskills.com/skills/pqc-evaluator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Post-quantum cryptography evaluation skill for quantum-safe migration",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crypto-keymgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

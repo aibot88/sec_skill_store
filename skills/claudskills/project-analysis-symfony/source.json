@@ -1,0 +1,18 @@
+{
+  "name": "project-analysis-symfony",
+  "slug": "project-analysis-symfony",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/project-analysis-symfony/",
+  "download_url": "https://claudskills.com/skills/project-analysis-symfony/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use for deep Symfony project analysis: kernel/bootstrap, container wiring, routing/request flow, Doctrine, security, Messenger, and Symfony-specific failure patterns.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

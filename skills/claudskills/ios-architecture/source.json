@@ -1,0 +1,18 @@
+{
+  "name": "ios-architecture",
+  "slug": "ios-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ios-architecture/",
+  "download_url": "https://claudskills.com/skills/ios-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "iOS app architecture expert skill covering MVVM with @Observable, Clean Architecture, The Composable Architecture (TCA), modular architecture with SPM, Repository pattern, Coordinator/Router pattern, Dependency Injection (Factory, Environment), error handling patterns, and protocol-oriented programming. Use this skill when the user architects an iOS app, designs feature modules, sets up project structure, implements MVVM/Clean/TCA patterns, creates repositories or use cases, or asks about iOS code organization. Triggers on: architecture, MVVM, clean architecture, TCA, composable architecture, repository pattern, coordinator, dependency injection, DI, view model, use case, interactor, modular, SPM package, feature module, project structure, folder structure, app architecture, design pattern, unidirectional data flow, reducer, store, or any iOS app structure discussion.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "mobile",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

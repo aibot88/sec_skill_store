@@ -1,0 +1,18 @@
+{
+  "name": "code-review-pro",
+  "slug": "code-review-pro",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-review-pro/",
+  "download_url": "https://claudskills.com/skills/code-review-pro/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive code review covering security vulnerabilities, performance bottlenecks, best practices, and refactoring opportunities. Use when user requests code review, security audit, or performance analysis.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

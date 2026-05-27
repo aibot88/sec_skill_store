@@ -1,0 +1,18 @@
+{
+  "name": "users-service",
+  "slug": "users-service",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/users-service/",
+  "download_url": "https://claudskills.com/skills/users-service/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill should be used when the user asks to \"add an endpoint to users\", \"create a route in users service\", \"write tests for users\", \"test users service\", \"add auth to a route\", \"work on users API\", or mentions the users service, Fastify routes, or user management functionality.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:31+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "lps",
+  "slug": "build-a-persona",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/build-a-persona/",
+  "download_url": "https://claudskills.com/skills/build-a-persona/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Author, scaffold, or review a Lollms Personality Structure (LPS) — the standard package format for lollms AI personas. Use this skill whenever the user wants to create a new lollms personality, write a SOUL.md, add tools or memory seeds to a personality, package a persona as a .lps archive, or understand how the LPS format works. Also trigger when the user asks about personality fields, SOUL.md sections, tool bindings, feature flags, or the lollms personality folder structure.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "mkcert-local-dev-tls-certificate-generator",
+  "slug": "mkcert-local-dev-tls-certificate-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mkcert-local-dev-tls-certificate-generator/",
+  "download_url": "https://claudskills.com/skills/mkcert-local-dev-tls-certificate-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "mkcert is a zero-configuration CLI tool by Filippo Valsorda that creates locally-trusted development certificates. It automatically installs a local CA in the system root store and generates TLS certificates for localhost, custom domains, and IP addresses without manual PKI management.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

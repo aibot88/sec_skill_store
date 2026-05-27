@@ -1,0 +1,18 @@
+{
+  "name": "performing-clickjacking-attack-test",
+  "slug": "performing-clickjacking-attack-test",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-clickjacking-attack-test/",
+  "download_url": "https://claudskills.com/skills/performing-clickjacking-attack-test/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Testing web applications for clickjacking vulnerabilities by assessing frame embedding controls and crafting",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:51+00:00"
+}

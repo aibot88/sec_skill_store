@@ -1,0 +1,18 @@
+{
+  "name": "performing-network-packet-capture-analysis",
+  "slug": "performing-network-packet-capture-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-network-packet-capture-analysis/",
+  "download_url": "https://claudskills.com/skills/performing-network-packet-capture-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Perform forensic analysis of network packet captures (PCAP/PCAPNG) using Wireshark, tshark, and tcpdump to reconstruct",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

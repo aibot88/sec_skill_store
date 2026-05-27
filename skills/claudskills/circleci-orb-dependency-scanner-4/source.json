@@ -1,0 +1,18 @@
+{
+  "name": "circleci-orb-dependency-scanner-4",
+  "slug": "circleci-orb-dependency-scanner-4",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/circleci-orb-dependency-scanner-4/",
+  "download_url": "https://claudskills.com/skills/circleci-orb-dependency-scanner-4/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scans CircleCI config.yml for outdated orb versions using the CircleCI Orbs Registry API. Reports CVEs linked to orb dependencies via Snyk vulnerability database lookups.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

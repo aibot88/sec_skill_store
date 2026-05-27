@@ -1,0 +1,18 @@
+{
+  "name": "framework-source-security-analyzer",
+  "slug": "framework-source-security-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/framework-source-security-analyzer/",
+  "download_url": "https://claudskills.com/skills/framework-source-security-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "프레임워크와 언어의 소스코드 및 개발자 가이드를 직접 분석하여 메타적 보안 구조를 파악하는 스킬. Spring의 mass assignment, Java getHost()의 URL Confusion처럼 프레임워크/언어 설계상의 보안 함의를 소스코드 레벨에서 추출한다. GitHub 소스, 공식 문서, 보안 가이드를 직접 조회하고, 아키텍처 패턴-취약점 매핑을 생성한다. 대상: Spring, Django, Rails, Express, ASP.NET 등 프레임워크와 Java, Python, JavaScript, C# 등 언어의 표준 라이브러리. '프레임워크 보안 분석', '소스코드 보안 분석', '메타 구조 취약점', '언어 설계 취약점' 같은 표현에 트리거된다.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:01+00:00"
+}

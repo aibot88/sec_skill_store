@@ -1,0 +1,18 @@
+{
+  "name": "claude-agent-sdk",
+  "slug": "claude-agent-sdk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/claude-agent-sdk/",
+  "download_url": "https://claudskills.com/skills/claude-agent-sdk/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Build autonomous AI agents with Claude Agent SDK. Structured outputs (v0.1.45, Nov 2025) guarantee JSON schema validation, plugins system, hooks for event-driven workflows. Use when: building coding agents with validated JSON responses, SRE systems, security auditors, or troubleshooting CLI not found, structured output validation, session forking errors.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

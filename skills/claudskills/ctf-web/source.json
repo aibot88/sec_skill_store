@@ -1,0 +1,18 @@
+{
+  "name": "ctf-web",
+  "slug": "ctf-web",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ctf-web/",
+  "download_url": "https://claudskills.com/skills/ctf-web/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Web exploitation techniques for CTF challenges. Use when solving web security challenges involving XSS, SQLi, CSRF, file upload bypasses, JWT attacks, Web3/blockchain exploits, or other web vulnerabilities.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

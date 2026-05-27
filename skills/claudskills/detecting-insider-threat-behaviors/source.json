@@ -1,0 +1,18 @@
+{
+  "name": "detecting-insider-threat-behaviors",
+  "slug": "detecting-insider-threat-behaviors",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-insider-threat-behaviors/",
+  "download_url": "https://claudskills.com/skills/detecting-insider-threat-behaviors/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect insider threat behavioral indicators including unusual data access, off-hours activity, mass file downloads,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "lindy-enterprise-rbac",
+  "slug": "lindy-enterprise-rbac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lindy-enterprise-rbac/",
+  "download_url": "https://claudskills.com/skills/lindy-enterprise-rbac/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure enterprise role-based access control for Lindy AI workspaces. Use when setting up team permissions, managing workspace access, or implementing enterprise security policies with SSO/SCIM. Trigger with phrases like \"lindy permissions\", \"lindy RBAC\", \"lindy access control\", \"lindy enterprise security\", \"lindy SSO\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

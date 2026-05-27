@@ -1,0 +1,18 @@
+{
+  "name": "oauth2-token-introspection-agent",
+  "slug": "oauth2-token-introspection-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oauth2-token-introspection-agent/",
+  "download_url": "https://claudskills.com/skills/oauth2-token-introspection-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validates OAuth2 tokens using RFC 7662 introspection endpoints. Integrates with Keycloak, Auth0, and Okta token introspection APIs to verify token claims, scopes, and expiration in real time.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

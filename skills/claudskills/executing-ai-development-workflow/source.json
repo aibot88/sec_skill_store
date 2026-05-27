@@ -1,0 +1,18 @@
+{
+  "name": "executing-ai-development-workflow",
+  "slug": "executing-ai-development-workflow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/executing-ai-development-workflow/",
+  "download_url": "https://claudskills.com/skills/executing-ai-development-workflow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Execute a comprehensive AI-driven development workflow with planning, implementation, multi-layer review (Sub-agents + /review + CodeRabbit CLI), automated fixes, and PR creation. Use when implementing new features, performing large refactorings, developing security-critical features, or when the user mentions \"AI開発ワークフロー\", \"AI development workflow\", or \"計画的に実装\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

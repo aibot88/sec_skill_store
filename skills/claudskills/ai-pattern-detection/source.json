@@ -1,0 +1,18 @@
+{
+  "name": "ai-pattern-detection",
+  "slug": "ai-pattern-detection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-pattern-detection/",
+  "download_url": "https://claudskills.com/skills/ai-pattern-detection/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Detects AI-generated writing patterns and suggests authentic alternatives. Auto-applies when reviewing content, editing documents, generating text, or when user mentions writing quality, AI detection, authenticity, or natural voice.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sqlite",
+  "slug": "sqlite",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sqlite/",
+  "download_url": "https://claudskills.com/skills/sqlite/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "SQLite - embedded database, SQL queries, schema design, Python integration, optimization",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

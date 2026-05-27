@@ -1,0 +1,18 @@
+{
+  "name": "team-composition-patterns",
+  "slug": "team-composition-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/team-composition-patterns/",
+  "download_url": "https://claudskills.com/skills/team-composition-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design optimal agent team compositions with sizing heuristics, preset configurations, and agent type selection. Use this skill when deciding how many agents to spawn for a task, when choosing between a review team versus a feature team versus a debug team, when selecting the correct subagent_type for each role to ensure agents have the tools they need, when configuring display modes (tmux, iTerm2, in-process) for a CI or local environment, or when building a custom team composition for a non-standard workflow such as a migration or security audit.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

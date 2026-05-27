@@ -1,0 +1,18 @@
+{
+  "name": "ips-darstellender-teil",
+  "slug": "ips-darstellender-teil",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ips-darstellender-teil/",
+  "download_url": "https://claudskills.com/skills/ips-darstellender-teil/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Schreibt und prüft den darstellenden Teil mit Krise, Maßnahmen, Planwirkungen, Vergleichsrechnung, Risiken, Sonderaktiva und entscheidungserheblichen Angaben.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

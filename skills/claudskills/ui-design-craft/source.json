@@ -1,0 +1,18 @@
+{
+  "name": "ui-design-craft",
+  "slug": "ui-design-craft",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ui-design-craft/",
+  "download_url": "https://claudskills.com/skills/ui-design-craft/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when designing, polishing, prototyping, or reviewing user-facing UI, frontend screens, visual systems, interaction prototypes, slide decks, motion/effects, artifact handoff, or anti-slop visual quality. Trigger for \"make this UI look better\", \"design a dashboard\", \"create frontend mockup\", \"prototype this flow\", \"author a design system\", \"make a deck\", \"add motion\", \"prepare handoff\", or \"review visual craft\". Do not use for pure accessibility audits without visual design work; use ux-accessibility-heuristics for that.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-system-ui",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:31+00:00"
+}

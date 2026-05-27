@@ -1,0 +1,18 @@
+{
+  "name": "transparency-audit",
+  "slug": "transparency-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/transparency-audit/",
+  "download_url": "https://claudskills.com/skills/transparency-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Prüft die Transparenz-Compliance des Menschlichkeit Österreich Projekts — ZVR-Nummer 1182213083, Vereinsstatuten, Datenschutzerklärung und Impressum auf Vollständigkeit und Korrektheit. Wird aufgerufen bei `/transparency-audit`.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

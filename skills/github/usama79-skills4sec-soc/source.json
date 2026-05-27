@@ -1,0 +1,19 @@
+{
+  "name": "SOC",
+  "slug": "usama79-skills4sec-soc",
+  "source": "github",
+  "source_url": "https://github.com/Usama79/Skills4Sec/blob/64ce4d076930ebde35a1653b84f78322b34047cf/SOC/wazuh_indexer_skill.md",
+  "download_url": "https://github.com/Usama79/Skills4Sec/blob/64ce4d076930ebde35a1653b84f78322b34047cf/SOC/wazuh_indexer_skill.md",
+  "external_source_url": "https://github.com/Usama79/Skills4Sec/blob/64ce4d076930ebde35a1653b84f78322b34047cf/SOC/wazuh_indexer_skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Usama79/Skills4Sec",
+    "path": "SOC/wazuh_indexer_skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

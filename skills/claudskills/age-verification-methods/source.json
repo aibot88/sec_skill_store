@@ -1,0 +1,18 @@
+{
+  "name": "age-verification-methods",
+  "slug": "age-verification-methods",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/age-verification-methods/",
+  "download_url": "https://claudskills.com/skills/age-verification-methods/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Evaluates and implements age estimation and verification technologies for online services. Covers facial age estimation, digital ID verification, self-declaration with risk assessment, AI-based age estimation, and the accuracy versus privacy tradeoff. Includes ICO guidance and euCONSENT framework. Keywords: age verification, age estimation, facial analysis, digital ID, children, online safety.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "stripe-webhook-security",
+  "slug": "stripe-webhook-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/stripe-webhook-security/",
+  "download_url": "https://claudskills.com/skills/stripe-webhook-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill should be used when implementing security for Stripe webhook endpoints, handling \"webhook rate limiting\", \"Stripe secret management\", \"webhook abuse prevention\", \"log redaction for billing\", \"STRIPE_WEBHOOK_SECRET storage\", \"webhook endpoint protection\", \"Stripe API key security\", \"billing security review\", \"sensitive data in logs\", \"production webhook hardening\", \"DDoS protection for webhooks\", or when the user asks about securing Stripe webhook endpoints and billing infrastructure in Fastify.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

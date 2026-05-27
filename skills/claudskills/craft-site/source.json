@@ -1,0 +1,18 @@
+{
+  "name": "craft-site",
+  "slug": "craft-site",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/craft-site/",
+  "download_url": "https://claudskills.com/skills/craft-site/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Craft CMS 5 front-end Twig development — atomic design, template architecture, component patterns, Vite buildchain. Covers the full site template surface: atoms, molecules, organisms, props/extends/block pattern, layout chains, view routing, content builders, image presets, Tailwind named-key collections, multi-brand CSS tokens, JavaScript boundaries (Alpine/DataStar/Vue, tabs, accordions, interactive components), Vite asset loading, and front-end auth (login, registration, password reset, user profiles). Triggers on: {% include ... only %}, {% embed %}, _atoms/, _molecules/, _organisms/, _views/, _builders/, _boilerplate/, component--variant.twig, _component--props.twig, image presets, Tailwind class collections, collect({}), utilities prop, multi-brand theming, data-brand, hero sections, card components, content builders, Matrix block rendering, craft.vite.script, vite.php, vite.config.ts, nystudio107, buildchain, asset loading, per-page scripts, Blitz, static caching, page caching, dynamic caching with Sprig, ImageOptimize, Imager-X, responsive images, srcset, image transforms, SEOmatic, meta tags, OpenGraph, JSON-LD, Sprig, htmx, multi-language site, language switcher, hreflang, localization, Formie, form styling, login form, registration form, user authentication front-end, RSS feed, Atom feed, JSON Feed, XML sitemap, feed.xml, sitemap.xml, |rss, |atom, search page, search results, .search(), search index, search form, search configuration, headless, headless CMS, GraphQL queries, preview tokens, Next.js, Nuxt, Astro, consuming GraphQL API, front-end framework integration. Always use when creating, editing, or reviewing any Craft CMS front-end Twig template, component, layout, view, builder, buildchain configuration, or front-end auth flow — including plugin template integration (Blitz, SEOmatic, Sprig, Formie, Imager-X). Do NOT trigger for PHP plugin/module development or content modeling decisions.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "biology-medicine",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

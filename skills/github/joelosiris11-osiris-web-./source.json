@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "joelosiris11-osiris-web-.",
+  "source": "github",
+  "source_url": "https://github.com/joelosiris11/osiris-web/blob/a698c6ffe628a92088a32c5dbd1596c8cb8b34e8/osiriswebskill.md",
+  "download_url": "https://github.com/joelosiris11/osiris-web/blob/a698c6ffe628a92088a32c5dbd1596c8cb8b34e8/osiriswebskill.md",
+  "external_source_url": "https://github.com/joelosiris11/osiris-web/blob/a698c6ffe628a92088a32c5dbd1596c8cb8b34e8/osiriswebskill.md",
+  "license": "",
+  "description": "Cinematic scroll-driven portfolio — frame-sequence canvas scrubbing, GSAP ScrollTrigger, Lenis, auto-scroll with narrative stop points. Includes osiriswebskill.md (reusable skill recipe).",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "joelosiris11/osiris-web",
+    "path": "osiriswebskill.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

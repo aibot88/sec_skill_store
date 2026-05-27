@@ -1,0 +1,17 @@
+{
+  "name": "audit-badge-demo",
+  "slug": "audit-badge-demo-dz2jkb",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/audit-badge-demo-dz2jkb",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/tezatezaz/audit-badge-demo/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/tezatezaz/audit-badge-demo/SKILL.md",
+  "license": "",
+  "description": "Demo skill showcasing the audit badge workflow; still",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=3"
+  },
+  "collected_at": "2026-05-27T03:44:42+00:00"
+}

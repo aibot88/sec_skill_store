@@ -1,0 +1,18 @@
+{
+  "name": "salesforce-data-handling",
+  "slug": "salesforce-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/salesforce-data-handling/",
+  "download_url": "https://claudskills.com/skills/salesforce-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Salesforce data privacy, GDPR/CCPA compliance, and field-level encryption patterns. Use when handling PII in Salesforce records, implementing data subject access requests, or configuring Salesforce Shield encryption. Trigger with phrases like \"salesforce data privacy\", \"salesforce PII\", \"salesforce GDPR\", \"salesforce data retention\", \"salesforce encryption\", \"salesforce CCPA\".",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:09+00:00"
+}

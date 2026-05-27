@@ -1,0 +1,18 @@
+{
+  "name": "ring:dev-readyz",
+  "slug": "dev-readyz",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-readyz/",
+  "download_url": "https://claudskills.com/skills/dev-readyz/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Readiness implementation orchestrator for Lerian services. Drives a 12-gate cycle that detects stack, audits existing /readyz compliance, dispatches language-specific engineers (Go / TypeScript / Next.js) to implement the canonical /readyz contract, ValidateSaaSTLS() enforcement, metrics emission, startup self-probe, graceful-drain coupling, circuit-breaker integration, and multi-tenant carve-out — then runs 13 parallel reviewers.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "workflow-orchestration",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

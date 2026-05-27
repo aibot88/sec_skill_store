@@ -1,0 +1,18 @@
+{
+  "name": "conducting-internal-network-penetration-test",
+  "slug": "conducting-internal-network-penetration-test",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/conducting-internal-network-penetration-test/",
+  "download_url": "https://claudskills.com/skills/conducting-internal-network-penetration-test/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Execute an internal network penetration test simulating an insider threat or post-breach attacker to identify",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

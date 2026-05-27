@@ -1,0 +1,18 @@
+{
+  "name": "tachi-report-assembly",
+  "slug": "tachi-report-assembly",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tachi-report-assembly/",
+  "download_url": "https://claudskills.com/skills/tachi-report-assembly/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Domain knowledge for PDF security report assembly — artifact detection patterns with tier selection rules, Typst data variable contract with type specifications and image path resolution, and brand asset handling with logo location and fallback rules. Consumed by the report-assembler agent during report generation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

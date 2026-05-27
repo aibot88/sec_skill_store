@@ -1,0 +1,18 @@
+{
+  "name": "conducting-full-scope-red-team-engagement",
+  "slug": "conducting-full-scope-red-team-engagement",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/conducting-full-scope-red-team-engagement/",
+  "download_url": "https://claudskills.com/skills/conducting-full-scope-red-team-engagement/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Plan and execute a comprehensive red team engagement covering reconnaissance through post-exploitation using",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

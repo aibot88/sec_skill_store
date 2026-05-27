@@ -1,0 +1,18 @@
+{
+  "name": "php-rules",
+  "slug": "php-rules",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/php-rules/",
+  "download_url": "https://claudskills.com/skills/php-rules/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "PHP coding rules from ai-toolkit: coding-style, frameworks, patterns, security, testing. Triggers: .php, composer.json, Laravel, Symfony, PHPUnit, PSR-12, Composer. Load when writing, reviewing, or editing PHP code.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

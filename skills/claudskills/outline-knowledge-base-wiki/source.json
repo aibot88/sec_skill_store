@@ -1,0 +1,18 @@
+{
+  "name": "outline-knowledge-base-wiki",
+  "slug": "outline-knowledge-base-wiki",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/outline-knowledge-base-wiki/",
+  "download_url": "https://claudskills.com/skills/outline-knowledge-base-wiki/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Outline is a fast, collaborative knowledge base for teams built with React and Node.js. It provides real-time editing, Markdown support, and a rich API for integration with Slack, authentication providers, and custom workflows.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "knowledge-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

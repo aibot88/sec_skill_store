@@ -1,0 +1,18 @@
+{
+  "name": "klaviyo-install-auth",
+  "slug": "klaviyo-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/klaviyo-install-auth/",
+  "download_url": "https://claudskills.com/skills/klaviyo-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Klaviyo Node.js SDK with API key authentication. Use when setting up a new Klaviyo integration, configuring API keys, or initializing the klaviyo-api package in your project. Trigger with phrases like \"install klaviyo\", \"setup klaviyo\", \"klaviyo auth\", \"configure klaviyo API key\", \"klaviyo SDK setup\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

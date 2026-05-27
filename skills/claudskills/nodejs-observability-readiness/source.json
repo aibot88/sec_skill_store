@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-observability-readiness",
+  "slug": "nodejs-observability-readiness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nodejs-observability-readiness/",
+  "download_url": "https://claudskills.com/skills/nodejs-observability-readiness/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when making a scaffolded Node.js service production-observable — replacing the no-op telemetry seam with OpenTelemetry tracing, prom-client RED metrics, and trace-correlated structured logs, then defining SLIs/SLOs and multi-burn-rate alert rules — after the service scaffold exists and reliability SLO targets are approved or intentionally deferred. Do not use for the service shell, config, or error tiers, auth or security review, queue or event integration, or performance and resilience gating; use the other Node.js archetype skills instead.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

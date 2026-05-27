@@ -1,0 +1,18 @@
+{
+  "name": "lindy-multi-env-setup",
+  "slug": "lindy-multi-env-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lindy-multi-env-setup/",
+  "download_url": "https://claudskills.com/skills/lindy-multi-env-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Lindy AI across development, staging, and production environments. Use when setting up isolated workspaces, per-environment secrets, or environment-specific agent configurations. Trigger with phrases like \"lindy environments\", \"lindy staging\", \"lindy dev prod\", \"lindy environment setup\", \"lindy workspace isolation\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

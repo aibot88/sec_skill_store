@@ -1,0 +1,18 @@
+{
+  "name": "ctf-app-system",
+  "slug": "ctf-app-system",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ctf-app-system/",
+  "download_url": "https://claudskills.com/skills/ctf-app-system/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Root-Me app-system (SSH-only): ELF x86/x64/ARM64 & Windows Kernel x64. No local GDB. Libc.rip fingerprint, patchelf, ret2libc/ROP/ret2dlresolve, FSOP glibc 2.35+, BROP, ARM64 AAPCS64 / PAC / TikTag MTE, Windows token steal / PreviousMode / Segment Heap.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

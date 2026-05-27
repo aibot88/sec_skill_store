@@ -1,0 +1,18 @@
+{
+  "name": "veeva-install-auth",
+  "slug": "veeva-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/veeva-install-auth/",
+  "download_url": "https://claudskills.com/skills/veeva-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Veeva Vault install auth with REST API and VQL. Use when integrating with Veeva Vault for life sciences document management. Trigger: \"veeva install auth\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

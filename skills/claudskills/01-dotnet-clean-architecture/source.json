@@ -1,0 +1,18 @@
+{
+  "name": "dotnet-clean-architecture",
+  "slug": "01-dotnet-clean-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/01-dotnet-clean-architecture/",
+  "download_url": "https://claudskills.com/skills/01-dotnet-clean-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Scaffolds a complete .NET solution following Clean Architecture principles with proper layer separation (API, Application, Domain, Infrastructure). Creates project structure, dependency injection setup, and cross-cutting concerns configuration.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

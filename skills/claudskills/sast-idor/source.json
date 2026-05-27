@@ -1,0 +1,18 @@
+{
+  "name": "sast-idor",
+  "slug": "sast-idor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sast-idor/",
+  "download_url": "https://claudskills.com/skills/sast-idor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detect Insecure Direct Object Reference (IDOR) vulnerabilities in a codebase using a three-phase approach: recon (find candidates), batched verify (check authorization in parallel subagents, 3 candidates each), and merge (consolidate batch results). Checks endpoints for missing ownership or authorization checks on user-supplied identifiers. Requires sast/architecture.md (run sast-analysis first). Outputs findings to sast/idor-results.md. Use when asked to find IDOR or authorization bypass bugs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

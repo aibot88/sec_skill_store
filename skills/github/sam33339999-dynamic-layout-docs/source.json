@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "slug": "sam33339999-dynamic-layout-docs",
+  "source": "github",
+  "source_url": "https://github.com/sam33339999/dynamic-layout/blob/62ccd538dff3fdbc2fed84c0c904de3c10ee4570/docs/skill.md",
+  "download_url": "https://github.com/sam33339999/dynamic-layout/blob/62ccd538dff3fdbc2fed84c0c904de3c10ee4570/docs/skill.md",
+  "external_source_url": "https://github.com/sam33339999/dynamic-layout/blob/62ccd538dff3fdbc2fed84c0c904de3c10ee4570/docs/skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "sam33339999/dynamic-layout",
+    "path": "docs/skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:59+00:00"
+}

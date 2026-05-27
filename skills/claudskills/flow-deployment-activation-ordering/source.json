@@ -1,0 +1,18 @@
+{
+  "name": "flow-deployment-activation-ordering",
+  "slug": "flow-deployment-activation-ordering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flow-deployment-activation-ordering/",
+  "download_url": "https://claudskills.com/skills/flow-deployment-activation-ordering/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when deploying Flow metadata across environments and worrying about activation order: which flow version becomes active, how paused interviews survive deploys, and how to avoid the 'two active versions for a moment' race. Covers SFDX / Metadata API deploy flags, 'Deploy as Active', rollback, and paused-interview safety. Does NOT cover Flow authoring best practices (see flow-bulkification) or general release management.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

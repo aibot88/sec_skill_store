@@ -1,0 +1,18 @@
+{
+  "name": "oraclecloud-data-handling",
+  "slug": "oraclecloud-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oraclecloud-data-handling/",
+  "download_url": "https://claudskills.com/skills/oraclecloud-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Manage OCI Object Storage — buckets, uploads, PARs, and lifecycle policies. Use when uploading objects, creating pre-authenticated requests, or configuring lifecycle rules. Trigger with \"oci object storage\", \"oci bucket\", \"par url\", \"multipart upload\", \"oci lifecycle\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

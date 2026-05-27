@@ -1,0 +1,18 @@
+{
+  "name": "healthcare-compliance",
+  "slug": "healthcare-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/healthcare-compliance/",
+  "download_url": "https://claudskills.com/skills/healthcare-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit a healthcare software codebase for HIPAA Privacy and Security Rule compliance, HITECH breach notification readiness, 21st Century Cures Act interoperability requirements, and state-level regulatory gaps. Produces severity-rated findings with remediation priorities. Use when building EHR/EMR systems, patient portals, telehealth platforms, clinical decision support, or any software that handles PHI.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

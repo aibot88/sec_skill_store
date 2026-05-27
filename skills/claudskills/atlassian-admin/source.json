@@ -1,0 +1,18 @@
+{
+  "name": "atlassian-admin",
+  "slug": "atlassian-admin",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/atlassian-admin/",
+  "download_url": "https://claudskills.com/skills/atlassian-admin/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Atlassian Administrator for managing and organizing Atlassian products (Jira, Confluence, Bitbucket, Trello), users, permissions, security, integrations, system configuration, and org-wide governance. Use when asked to add users to Jira, change Confluence permissions, configure access control, update admin settings, manage Atlassian groups, set up SSO, install marketplace apps, review security policies, or handle any org-wide Atlassian administration task.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

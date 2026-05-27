@@ -1,0 +1,18 @@
+{
+  "name": "agent-board-cli",
+  "slug": "paks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/paks/",
+  "download_url": "https://claudskills.com/skills/paks/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Command-line task management tool for AI coding agents and humans. Provides local SQLite-based task boards for tracking work items, checklists, and comments without requiring an external API. Use this skill when: - Managing multi-step coding tasks - Tracking progress on complex implementations - Breaking down work into checkable subtasks - Documenting decisions and progress via comments - Coordinating work across agent sessions",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "eresus-pr-security-review",
+  "slug": "eresus-pr-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eresus-pr-security-review/",
+  "download_url": "https://claudskills.com/skills/eresus-pr-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security-focused pull request and diff review skill for finding newly introduced vulnerabilities, risky regressions, and missing security tests in changed code. Trigger when the user asks to: \"review this PR for security\", \"check this diff for vulns\", \"do a security code review\", \"audit changed files\", or wants findings on a patch instead of a full-repo scan. Best used alongside eresus-sast-scanner.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

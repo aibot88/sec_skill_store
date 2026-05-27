@@ -1,0 +1,18 @@
+{
+  "name": "alibabacloud-elasticsearch-network-manage",
+  "slug": "alibabacloud-elasticsearch-network-manage",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibabacloud-elasticsearch-network-manage/",
+  "download_url": "https://claudskills.com/skills/alibabacloud-elasticsearch-network-manage/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Alibaba Cloud Elasticsearch Instance Network Management Skill. Use for managing ES instance network configurations including triggering network, Kibana PVL network, white IP list, HTTPS settings, and Kibana SSO authentication. Triggers: \"elasticsearch network\", \"ES network\", \"kibana pvl\", \"white ip\", \"https\", \"trigger network\", \"modify white ips\", \"kibana sso\", \"kibana authentication\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

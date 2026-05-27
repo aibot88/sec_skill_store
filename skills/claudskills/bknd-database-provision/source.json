@@ -1,0 +1,18 @@
+{
+  "name": "bknd-database-provision",
+  "slug": "bknd-database-provision",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bknd-database-provision/",
+  "download_url": "https://claudskills.com/skills/bknd-database-provision/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when setting up a production database for Bknd. Covers SQLite file, LibSQL/Turso, Cloudflare D1, PostgreSQL, Neon, Supabase, and Xata configuration.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

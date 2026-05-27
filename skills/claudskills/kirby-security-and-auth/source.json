@@ -1,0 +1,18 @@
+{
+  "name": "kirby-security-and-auth",
+  "slug": "kirby-security-and-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kirby-security-and-auth/",
+  "download_url": "https://claudskills.com/skills/kirby-security-and-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Secures Kirby sites with access restriction, user roles, permissions, and protected downloads. Use when implementing login/role-based access, permissions, or file protection.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

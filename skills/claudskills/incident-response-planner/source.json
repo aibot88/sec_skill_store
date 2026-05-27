@@ -1,0 +1,18 @@
+{
+  "name": "incident-response-planner",
+  "slug": "incident-response-planner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/incident-response-planner/",
+  "download_url": "https://claudskills.com/skills/incident-response-planner/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Incident Response Planner - Auto-activating skill for Security Advanced. Triggers on: incident response planner, incident response planner Part of the Security Advanced skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "incident-response",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

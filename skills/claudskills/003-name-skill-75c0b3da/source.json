@@ -1,0 +1,18 @@
+{
+  "name": "twinmind-security-basics",
+  "slug": "003-name-skill-75c0b3da",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/003-name-skill-75c0b3da/",
+  "download_url": "https://claudskills.com/skills/003-name-skill-75c0b3da/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement security best practices for TwinMind integrations. Use when securing API keys, configuring privacy settings, or implementing data protection for meeting recordings. Trigger with phrases like \"twinmind security\", \"secure twinmind\", \"twinmind privacy\", \"protect twinmind data\", \"twinmind api key security\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

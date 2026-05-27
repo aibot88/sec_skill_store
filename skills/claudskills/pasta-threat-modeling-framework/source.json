@@ -1,0 +1,18 @@
+{
+  "name": "pasta-threat-modeling-framework",
+  "slug": "pasta-threat-modeling-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pasta-threat-modeling-framework/",
+  "download_url": "https://claudskills.com/skills/pasta-threat-modeling-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Systematically identify and classify technical and business risks using the risk-centric PASTA framework across seven stages: 1. Define the Objectives, 2. Define the Technical Scope, 3. Decompose the Application, 4. Analyze the Threats, 5. Analyze the Vulnerabilities and Weaknesses, 6. Analyze the Attacks, and 7. Analyze the Residual Risk and Impact.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

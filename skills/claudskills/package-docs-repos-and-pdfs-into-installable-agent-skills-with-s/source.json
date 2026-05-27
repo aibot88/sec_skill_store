@@ -1,0 +1,18 @@
+{
+  "name": "package-docs-repos-and-pdfs-into-installable-agent-skills-with-s",
+  "slug": "package-docs-repos-and-pdfs-into-installable-agent-skills-with-s",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/package-docs-repos-and-pdfs-into-installable-agent-skills-with-s/",
+  "download_url": "https://claudskills.com/skills/package-docs-repos-and-pdfs-into-installable-agent-skills-with-s/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Turn documentation sites, GitHub repos, and PDFs into installable agent skill packages when hand-authoring a reusable skill would be slow or inconsistent.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

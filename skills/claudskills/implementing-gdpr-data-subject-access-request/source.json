@@ -1,0 +1,18 @@
+{
+  "name": "implementing-gdpr-data-subject-access-request",
+  "slug": "implementing-gdpr-data-subject-access-request",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-gdpr-data-subject-access-request/",
+  "download_url": "https://claudskills.com/skills/implementing-gdpr-data-subject-access-request/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Automates GDPR Data Subject Access Request (DSAR) workflows including identity verification, PII discovery across",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

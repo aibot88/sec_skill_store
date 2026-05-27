@@ -1,0 +1,18 @@
+{
+  "name": "avg-privacy",
+  "slug": "avg-privacy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/avg-privacy/",
+  "download_url": "https://claudskills.com/skills/avg-privacy/SKILL.md",
+  "external_source_url": "",
+  "license": "EUPL-1.2",
+  "description": "Helpt bij het bouwen van privacy-conforme systemen volgens de AVG (Algemene Verordening Gegevensbescherming / GDPR), Privacy by Design, Privacy by Default en DPIA-vereisten voor Nederlandse overheidsorganisaties. Biedt richtlijnen voor gegevensverwerking, rechten van betrokkenen, bewaartermijnen en technische privacy-maatregelen. Gebruik deze skill wanneer de gebruiker vraagt over 'AVG', 'GDPR', 'privacy', 'persoonsgegevens', 'personal data', 'gegevensbescherming', 'data protection', 'Privacy by Design', 'Privacy by Default', 'DPIA', 'gegevensbeschermingseffectbeoordeling', 'data protection impact assessment', 'verwerkingsregister', 'register of processing activities', 'verwerkersovereenkomst', 'data processing agreement', 'Autoriteit Persoonsgegevens', 'AP', 'functionaris gegevensbescherming', 'FG', 'DPO', 'data protection officer', 'rechten betrokkenen', 'data subject rights', 'recht op inzage', 'right of access', 'recht op vergetelheid', 'right to erasure', 'dataportabiliteit', 'data portability', 'dataminimalisatie', 'data minimization', 'doelbinding', 'purpose limitation', 'bewaartermijnen', 'retention periods', 'toestemming', 'consent', 'grondslag verwerking', 'lawful basis', 'pseudonimisering', 'pseudonymization', 'anonimisering', 'anonymization', 'datalek', 'data breach', 'datalekmelding', 'breach notification', 'BSN', 'burgerservicenummer', 'bijzondere persoonsgegevens', 'special categories of data', 'profilering', 'profiling', 'geautomatiseerde besluitvorming', 'automated decision-making', of wanneer de gebruiker een systeem privacy-conform wil ontwerpen of bouwen volgens de AVG en Nederlandse privacywetgeving.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:58+00:00"
+}

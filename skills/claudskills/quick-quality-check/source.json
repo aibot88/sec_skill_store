@@ -1,0 +1,18 @@
+{
+  "name": "quick-quality-check",
+  "slug": "quick-quality-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/quick-quality-check/",
+  "download_url": "https://claudskills.com/skills/quick-quality-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Lightning-fast quality check using parallel command execution. Runs theater detection, linting, security scan, and basic tests in parallel for instant feedback on code quality.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

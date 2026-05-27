@@ -1,0 +1,18 @@
+{
+  "name": "sales-proton-mail",
+  "slug": "sales-proton-mail",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-proton-mail/",
+  "download_url": "https://claudskills.com/skills/sales-proton-mail/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Proton Mail platform help — privacy-first encrypted email with end-to-end encryption, zero-access architecture, Hide-my-Email aliases, Proton Mail Bridge for IMAP/SMTP, bundled Calendar/Drive/VPN/Pass (Free 1GB / Mail Plus ~$4/mo / Unlimited ~$10/mo, Swiss-based, 100M+ users). Use when setting up Proton Mail and migrating from Gmail or Outlook with Easy Switch, Proton Mail Bridge not connecting to Thunderbird or Apple Mail or Outlook, encrypted search not finding old emails you know exist, storage filling up on the free plan and wondering whether to upgrade, comparing Proton Mail to Tuta or Fastmail or Hey for privacy email, using Hide-my-Email aliases to reduce spam, wondering if Proton Mail works with third-party apps or automation tools, or evaluating Proton Mail for a small business with custom domains. Do NOT use for AI email drafting or inbox triage (use /sales-superhuman or /sales-shortwave). Do NOT use for team shared inbox with ticketing (use /sales-hiver or /sales-missive).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

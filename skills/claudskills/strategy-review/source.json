@@ -1,0 +1,18 @@
+{
+  "name": "strategy-review",
+  "slug": "strategy-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/strategy-review/",
+  "download_url": "https://claudskills.com/skills/strategy-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when reviewing, critiquing, or stress-testing an existing strategy document. Evaluates seven dimensions \\u2014 diagnosis quality, guiding policy strength, action coherence, assumption exposure, falsifiability \\u2014 with optional 7S, Five Forces, Balanced Scorecard, and Hoshin Kanri lenses. Triggers on: review my strategy, poke holes in this plan, what's weak here, strategy audit, red team this. Does NOT build strategy (use strategy-interview) or brainstorm project ideas (use brainstorm-beagle).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "java-security",
+  "slug": "java-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/java-security/",
+  "download_url": "https://claudskills.com/skills/java-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reviews or implements Spring Security configuration — JWT authentication, OAuth2, method-level security, CORS, and CSRF. Use when user asks to \"add authentication\", \"secure this API\", \"implement JWT\", \"configure Spring Security\", \"add OAuth2 login\", \"protect endpoints\", or \"review security config\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "auditing-cloud-with-cis-benchmarks",
+  "slug": "auditing-cloud-with-cis-benchmarks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auditing-cloud-with-cis-benchmarks/",
+  "download_url": "https://claudskills.com/skills/auditing-cloud-with-cis-benchmarks/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "This skill details how to conduct cloud security audits using Center for Internet Security benchmarks for AWS,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

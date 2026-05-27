@@ -1,0 +1,18 @@
+{
+  "name": "execute-script-safely",
+  "slug": "execute-script-safely",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/execute-script-safely/",
+  "download_url": "https://claudskills.com/skills/execute-script-safely/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "使い捨ての Python / shell スクリプトを sandbox 内で実行する前に、 haiku Agent で security pre-review を通して安全性を判定する。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

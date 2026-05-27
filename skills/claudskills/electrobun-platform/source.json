@@ -1,0 +1,18 @@
+{
+  "name": "Electrobun Platform",
+  "slug": "electrobun-platform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/electrobun-platform/",
+  "download_url": "https://claudskills.com/skills/electrobun-platform/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Cross-platform specifics for Electrobun apps — platform support matrix, Linux/Windows/macOS behavioral differences, CEF requirements by platform, events API, security patterns, CI release matrix, artifact naming, and common pitfalls. Use when targeting multiple platforms, handling platform-specific bugs, setting up CI, or understanding webview differences.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

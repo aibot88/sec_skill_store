@@ -1,0 +1,18 @@
+{
+  "name": "greynoise",
+  "slug": "greynoise",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/greynoise/",
+  "download_url": "https://claudskills.com/skills/greynoise/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Classify IP addresses as internet scanners (benign/malicious) or targeted attackers — filters noise from security alerts",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:10+00:00"
+}

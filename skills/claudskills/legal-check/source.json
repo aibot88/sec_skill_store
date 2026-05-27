@@ -1,0 +1,18 @@
+{
+  "name": "legal-check",
+  "slug": "legal-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/legal-check/",
+  "download_url": "https://claudskills.com/skills/legal-check/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reviews code, documents, and configurations for IT legal compliance. Triggers: legal, license, compliance, privacy, GDPR, copyright, terms, contract, OSS license, intellectual property, data protection. Source-code read-only — never modifies source code or test files. Outputs legal check report to output/reports/legal/ (requires Write permission to output/reports/legal/). Takes optional argument: /legal-check <target-scope or instruction>",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:30+00:00"
+}

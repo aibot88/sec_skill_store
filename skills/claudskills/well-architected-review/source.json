@@ -1,0 +1,18 @@
+{
+  "name": "well-architected-review",
+  "slug": "well-architected-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/well-architected-review/",
+  "download_url": "https://claudskills.com/skills/well-architected-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when conducting a formal Salesforce Well-Architected Framework (WAF) review of an org or solution design. Covers all three pillars: Trusted (security, compliance), Easy (user experience, adoption), and Adaptable (scalability, maintainability). Produces a structured assessment with findings and recommendations. Triggers: well-architected review, WAF assessment, org architecture review, architecture health check, trusted easy adaptable. NOT for deep-dives into individual pillars (use security-architecture-review, limits-and-scalability-planning, or technical-debt-assessment) or for implementation guidance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

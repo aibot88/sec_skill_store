@@ -1,0 +1,18 @@
+{
+  "name": "nis2",
+  "slug": "nis2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nis2/",
+  "download_url": "https://claudskills.com/skills/nis2/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "EU NIS2 Directive (Directive (EU) 2022/2555) compliance advisor for essential and important entities — entity classification, Art. 21 risk management measures, Art. 23 incident reporting timelines (24h/72h/1 month), Art. 20 governance obligations, supply chain security (Art. 26), gap assessments, policy drafting, ISO 27001 alignment, and penalty exposure analysis. Use for NIS2 readiness, transposition questions, ENISA guidelines, supervisory differences between essential and important entities, and cross-border coordination.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

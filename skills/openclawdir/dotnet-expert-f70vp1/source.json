@@ -1,0 +1,17 @@
+{
+  "name": "dotnet-expert",
+  "slug": "dotnet-expert-f70vp1",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/dotnet-expert-f70vp1",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/jgarrison929/dotnet-expert/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/jgarrison929/dotnet-expert/SKILL.md",
+  "license": "",
+  "description": "Use when building .NET 8/9 applications, ASP.NET Core APIs",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=2"
+  },
+  "collected_at": "2026-05-27T03:44:41+00:00"
+}

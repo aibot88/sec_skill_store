@@ -1,0 +1,18 @@
+{
+  "name": "metasploit-framework",
+  "slug": "sickn33-metasploit-framework",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-metasploit-framework",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/metasploit-framework/SKILL.md?plain=1#L1-L484",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/metasploit-framework/SKILL.md?plain=1#L1-L484",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Comprehensive penetration testing guide for the Metasploit Framework - covering exploitation, payload generation, post-exploitation, and authorized security assessment workflows.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/metasploit-framework/SKILL.md?plain=1#L1-L484"
+  },
+  "collected_at": "2026-05-27T03:44:47+00:00"
+}

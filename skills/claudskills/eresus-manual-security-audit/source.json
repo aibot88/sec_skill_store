@@ -1,0 +1,18 @@
+{
+  "name": "eresus-manual-security-audit",
+  "slug": "eresus-manual-security-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eresus-manual-security-audit/",
+  "download_url": "https://claudskills.com/skills/eresus-manual-security-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Elite manual security code review skill for deep, adversarial vulnerability hunting and exploit-chain discovery. Trigger when the user asks to: \"do a deep security audit\", \"manual code review\", \"find exploit chains\", \"hunt for logic bugs\", \"red-team this codebase\", \"do an offensive security review\", \"review this like a pentester\", or needs a human-class manual code review that goes far beyond pattern matching. This skill operates as a top-tier offensive security engineer reading code line by line, tracing attacker-controlled data across trust boundaries, and proving exploitability before reporting. Complements eresus-sast-scanner with depth-first manual reasoning where the scanner provides breadth-first coverage.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

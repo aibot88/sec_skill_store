@@ -1,0 +1,18 @@
+{
+  "name": "backend-core",
+  "slug": "backend-core",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backend-core/",
+  "download_url": "https://claudskills.com/skills/backend-core/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Language-agnostic backend patterns: API design, authentication, security, databases. Use when: designing APIs, implementing auth, securing endpoints, modeling data. Triggers: \"api design\", \"rest api\", \"graphql\", \"authentication\", \"jwt\", \"oauth\", \"security\", \"owasp\", \"database schema\", \"migrations\", \"sql\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "apple-app-store-agent",
+  "slug": "apple-app-store-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/apple-app-store-agent/",
+  "download_url": "https://claudskills.com/skills/apple-app-store-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive agent for preparing and generating all assets needed for Apple App Store submission. Use when user needs to prepare an iOS/iPadOS/macOS app for App Store release, including generating app metadata (descriptions, promotional text, keywords), creating app icons, designing screenshots, preparing privacy policy URLs, and organizing fastlane-compatible folder structures. Triggers on requests like \"prepare my app for App Store\", \"create App Store screenshots\", \"generate app description\", \"make app icon\", or \"set up fastlane metadata\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

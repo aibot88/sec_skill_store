@@ -1,0 +1,18 @@
+{
+  "name": "pasta-check",
+  "slug": "pasta-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pasta-check/",
+  "download_url": "https://claudskills.com/skills/pasta-check/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "pasta_check CLIツールのリファレンス。ゴーストリリースビルド（release サブコマンド）、将来的なテスト・検証コマンドを含む。USE FOR: pasta_check, pasta check, ghost release, ゴーストリリース, NAR作成, release.bat, release.ps1, pasta_check release, .nar, リリースビルド, ゴースト配布, updates.txt, build ghost, deploy ghost, publish ghost, リリース手順, pasta_check test, ゴースト検証. DO NOT USE FOR: pasta DSL文法（pasta-ghost-authoringを使用）, Lua API（pasta-lua-codingを使用）, crates.ioパブリッシュ（release-workflow specを参照）.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

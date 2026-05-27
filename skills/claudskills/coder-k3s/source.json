@@ -1,0 +1,18 @@
+{
+  "name": "coder-k3s",
+  "slug": "coder-k3s",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/coder-k3s/",
+  "download_url": "https://claudskills.com/skills/coder-k3s/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deploy, configure, manage, and troubleshoot Coder self-hosted dev environments on a k3s Kubernetes cluster. Use when: installing Coder on k3s, creating or updating workspace templates, debugging 502 Bad Gateway errors, fixing code-server connectivity, managing Coder CLI authentication, pushing Terraform workspace templates, configuring PostgreSQL backend, debugging workspace pod failures, setting up per-user namespaces, or integrating Coder workspaces with LiteLLM / GPU nodes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

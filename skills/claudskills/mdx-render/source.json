@@ -1,0 +1,18 @@
+{
+  "name": "mdx-render",
+  "slug": "mdx-render",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mdx-render/",
+  "download_url": "https://claudskills.com/skills/mdx-render/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when converting a finalized 3-Zone chapter YAML (plus optional dashboard.yml) into Docusaurus MDX files — generating frontmatter with authors/ai_assisted/source metadata, importing custom components, placing components in the editor-specified render_order, writing the /appendix dashboard page, and preserving backups of previously written MDX. Also use when deciding which part-XX/ folder a chapter belongs to.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

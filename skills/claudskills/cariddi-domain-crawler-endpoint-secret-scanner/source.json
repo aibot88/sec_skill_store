@@ -1,0 +1,18 @@
+{
+  "name": "cariddi-domain-crawler-endpoint-secret-scanner",
+  "slug": "cariddi-domain-crawler-endpoint-secret-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cariddi-domain-crawler-endpoint-secret-scanner/",
+  "download_url": "https://claudskills.com/skills/cariddi-domain-crawler-endpoint-secret-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Cariddi is a Go-based security tool that takes a list of domains, crawls their URLs, and scans for endpoints, secrets, API keys, file extensions, tokens, and errors. It supports configurable concurrency, depth limits, proxy routing, and multiple output formats.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

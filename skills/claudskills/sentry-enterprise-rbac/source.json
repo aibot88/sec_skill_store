@@ -1,0 +1,18 @@
+{
+  "name": "sentry-enterprise-rbac",
+  "slug": "sentry-enterprise-rbac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sentry-enterprise-rbac/",
+  "download_url": "https://claudskills.com/skills/sentry-enterprise-rbac/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure enterprise role-based access control, SSO/SAML2, and SCIM provisioning in Sentry. Use when setting up organization hierarchy, team permissions, identity provider integration, API token governance, or audit logging for compliance. Trigger: \"sentry rbac\", \"sentry permissions\", \"sentry team access\", \"sentry sso setup\", \"sentry scim\", \"sentry audit log\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

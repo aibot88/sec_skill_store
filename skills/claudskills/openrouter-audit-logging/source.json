@@ -1,0 +1,18 @@
+{
+  "name": "openrouter-audit-logging",
+  "slug": "openrouter-audit-logging",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/openrouter-audit-logging/",
+  "download_url": "https://claudskills.com/skills/openrouter-audit-logging/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement audit logging for OpenRouter API calls. Use when building compliance trails, debugging production issues, or tracking model usage. Triggers: 'openrouter audit', 'openrouter logging', 'audit trail openrouter', 'log openrouter requests'.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "observability",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

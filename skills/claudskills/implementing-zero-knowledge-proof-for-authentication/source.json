@@ -1,0 +1,18 @@
+{
+  "name": "implementing-zero-knowledge-proof-for-authentication",
+  "slug": "implementing-zero-knowledge-proof-for-authentication",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-zero-knowledge-proof-for-authentication/",
+  "download_url": "https://claudskills.com/skills/implementing-zero-knowledge-proof-for-authentication/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Zero-Knowledge Proofs (ZKPs) allow a prover to demonstrate knowledge of a secret (such as a password or private",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "knowledge-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

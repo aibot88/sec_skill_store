@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-temporal-dynamics",
+  "slug": "agentprivacy-temporal-dynamics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-temporal-dynamics/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-temporal-dynamics/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Temporal dynamics and memory accumulation for 0xagentprivacy. Activates when discussing e^{-λt}·(1+A(τ)), decay rates, memory scaling (α·ln(1+|τ|)·h(τ)), the h(τ) integrity gate, crossover time calculations, or how privacy value compounds over time. Use for temporal modelling of sovereignty value.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

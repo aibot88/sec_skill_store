@@ -1,0 +1,18 @@
+{
+  "name": "ring:dev-docker-security",
+  "slug": "dev-docker-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dev-docker-security/",
+  "download_url": "https://claudskills.com/skills/dev-docker-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Creates or audits Dockerfiles to achieve Docker Hub Health Score grade A. Enforces non-root user, minimal base images, supply chain attestations, and zero fixable CVEs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

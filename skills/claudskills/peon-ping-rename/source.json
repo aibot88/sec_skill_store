@@ -1,0 +1,18 @@
+{
+  "name": "peon-ping-rename",
+  "slug": "peon-ping-rename",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/peon-ping-rename/",
+  "download_url": "https://claudskills.com/skills/peon-ping-rename/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Rename the current Claude session for peon-ping notifications and terminal tab title. Use when user wants to give this session a custom name like \"/peon-ping-rename Auth Refactor\". Call with no argument to reset to auto-detect.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:51+00:00"
+}

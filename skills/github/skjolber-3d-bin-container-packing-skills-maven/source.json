@@ -1,0 +1,19 @@
+{
+  "name": "maven",
+  "slug": "skjolber-3d-bin-container-packing-skills-maven",
+  "source": "github",
+  "source_url": "https://github.com/skjolber/3d-bin-container-packing/blob/6ba2d87e729ca94e2c821466172088bbbd586992/skills/maven/SKILL.md",
+  "download_url": "https://github.com/skjolber/3d-bin-container-packing/blob/6ba2d87e729ca94e2c821466172088bbbd586992/skills/maven/SKILL.md",
+  "external_source_url": "https://github.com/skjolber/3d-bin-container-packing/blob/6ba2d87e729ca94e2c821466172088bbbd586992/skills/maven/SKILL.md",
+  "license": "",
+  "description": "A variant of the Largest Area Fit First (LAFF) algorithm + brute force algorithm",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "skjolber/3d-bin-container-packing",
+    "path": "skills/maven/SKILL.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

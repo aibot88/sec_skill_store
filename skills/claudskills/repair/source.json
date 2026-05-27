@@ -1,0 +1,18 @@
+{
+  "name": "airc:repair",
+  "slug": "repair",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/repair/",
+  "download_url": "https://claudskills.com/skills/repair/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Full re-pair of a stale airc mesh — `teardown --flush` + reconnect using the saved invite string. Use when your sends silently fail or `resume` reports stale auth.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

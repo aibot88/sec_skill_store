@@ -1,0 +1,18 @@
+{
+  "name": "affordable-housing",
+  "slug": "affordable-housing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/affordable-housing/",
+  "download_url": "https://claudskills.com/skills/affordable-housing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyzes affordable housing management software for unit allocation algorithms, waitlist management, income verification workflows, Fair Housing compliance, LIHTC and Section 8 program tracking, inspection scheduling, and tenant reporting.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

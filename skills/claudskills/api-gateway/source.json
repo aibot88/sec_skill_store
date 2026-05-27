@@ -1,0 +1,18 @@
+{
+  "name": "api-gateway",
+  "slug": "api-gateway",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-gateway/",
+  "download_url": "https://claudskills.com/skills/api-gateway/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "AWS API Gateway for REST and HTTP API management. Use when creating APIs, configuring integrations, setting up authorization, managing stages, implementing rate limiting, or troubleshooting API issues.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:50+00:00"
+}

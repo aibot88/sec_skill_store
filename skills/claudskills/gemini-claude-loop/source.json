@@ -1,0 +1,18 @@
+{
+  "name": "gemini-claude-loop",
+  "slug": "gemini-claude-loop",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gemini-claude-loop/",
+  "download_url": "https://claudskills.com/skills/gemini-claude-loop/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Dual-AI engineering loop orchestrating Claude Code (planning/implementation) and Gemini (validation/review). Use when (1) complex feature development requiring validation, (2) high-quality code with security/performance concerns, (3) large-scale refactoring, (4) user requests gemini-claude loop or dual-AI review. Do NOT use for simple one-off fixes or prototypes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

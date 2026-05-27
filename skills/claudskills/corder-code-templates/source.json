@@ -1,0 +1,18 @@
+{
+  "name": "corder-code-templates",
+  "slug": "corder-code-templates",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/corder-code-templates/",
+  "download_url": "https://claudskills.com/skills/corder-code-templates/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate code templates for common patterns: REST API endpoints, React components, database models, authentication, error handling. Use when implementing new features or creating boilerplate code.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

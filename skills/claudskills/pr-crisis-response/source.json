@@ -1,0 +1,18 @@
+{
+  "name": "pr-crisis-response",
+  "slug": "pr-crisis-response",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pr-crisis-response/",
+  "download_url": "https://claudskills.com/skills/pr-crisis-response/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage PR crises using classification, golden hour response, crisis statement templates (3C framework), and reputation recovery planning. Use this skill when the user faces negative media coverage, a viral complaint, product safety issues, executive misconduct, or any situation threatening brand reputation — even if they say 'we're getting destroyed on social media', 'draft a response to this article', 'how do we handle this PR disaster', or 'prepare for potential backlash'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

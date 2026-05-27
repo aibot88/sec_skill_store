@@ -1,0 +1,18 @@
+{
+  "name": "fastapi-auth-patterns",
+  "slug": "fastapi-auth-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastapi-auth-patterns/",
+  "download_url": "https://claudskills.com/skills/fastapi-auth-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement and validate FastAPI authentication strategies including JWT tokens, OAuth2 password flows, OAuth2 scopes for permissions, and Supabase integration. Use when implementing authentication, securing endpoints, handling user login/signup, managing permissions, integrating OAuth providers, or when user mentions JWT, OAuth2, Supabase auth, protected routes, access control, role-based permissions, or authentication errors.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

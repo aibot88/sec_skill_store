@@ -1,0 +1,18 @@
+{
+  "name": "gcp-waf-security-review",
+  "slug": "gcp-waf-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-waf-security-review/",
+  "download_url": "https://claudskills.com/skills/gcp-waf-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Evaluate GCP workload security posture against the Google Cloud Well-Architected Framework security pillar — covering zero trust, shift-left security, preemptive cyber defense, AI security governance, and regulatory compliance. Use when assessing architecture security requirements, designing security controls, or auditing a GCP workload against WAF security recommendations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

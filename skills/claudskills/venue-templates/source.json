@@ -1,0 +1,18 @@
+{
+  "name": "venue-templates",
+  "slug": "venue-templates",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/venue-templates/",
+  "download_url": "https://claudskills.com/skills/venue-templates/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Venue-specific LaTeX templates, formatting requirements, and submission guidelines for journals, conferences, posters, and grants—use when a target venue imposes strict layout, page limits, anonymization, or agency compliance rules.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

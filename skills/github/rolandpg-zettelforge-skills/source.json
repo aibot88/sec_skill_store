@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "rolandpg-zettelforge-skills",
+  "source": "github",
+  "source_url": "https://github.com/rolandpg/zettelforge/blob/467eeeaa4a76820e812477eaaa90ff914f0e629f/skills/openclaw-skill.md",
+  "download_url": "https://github.com/rolandpg/zettelforge/blob/467eeeaa4a76820e812477eaaa90ff914f0e629f/skills/openclaw-skill.md",
+  "external_source_url": "https://github.com/rolandpg/zettelforge/blob/467eeeaa4a76820e812477eaaa90ff914f0e629f/skills/openclaw-skill.md",
+  "license": "",
+  "description": "Agentic memory for CTI in Python — STIX knowledge graphs, threat-actor alias resolution, offline-first RAG, MCP server for Claude Code and LangChain agents",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "rolandpg/zettelforge",
+    "path": "skills/claude-code-skill.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

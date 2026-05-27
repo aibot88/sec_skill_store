@@ -1,0 +1,18 @@
+{
+  "name": "Implementing Next.js with Supabase",
+  "slug": "nextjs-supabase-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nextjs-supabase-patterns/",
+  "download_url": "https://claudskills.com/skills/nextjs-supabase-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guides implementation of Next.js 15 App Router features with Supabase SSR. Helps choose between Server/Client Components, select correct Supabase client, and follow security patterns. Use when building pages, components, or API routes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

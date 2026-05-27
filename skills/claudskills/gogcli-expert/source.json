@@ -1,0 +1,18 @@
+{
+  "name": "gogcli-expert",
+  "slug": "gogcli-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gogcli-expert/",
+  "download_url": "https://claudskills.com/skills/gogcli-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "gogcli（gog コマンド）の専門家スキル。Google Workspaceの13サービス（Gmail, Calendar, Drive, Sheets, Docs, Slides, Contacts, Tasks, Chat, Groups, Keep, Classroom, People）をターミナルから操作するGoベースCLIツールの使い方を支援。OAuth2/サービスアカウント認証、マルチアカウント管理、自動化パターンを提供。Use when working with Google Workspace services via CLI, managing Gmail/Calendar/Drive/Sheets, automating Google Workspace tasks, or setting up gogcli authentication.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

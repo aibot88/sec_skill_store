@@ -1,0 +1,18 @@
+{
+  "name": "skill-security-vetter",
+  "slug": "skill-security-vetter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-security-vetter/",
+  "download_url": "https://claudskills.com/skills/skill-security-vetter/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Sistema de validação de segurança para skills — Bianinho Vetter. Valida skills antes de instalar, detecta padrões maliciosos (exfiltração, injection, shell injection, commands destrutivos), audit das já instaladas, e integração automática no workflow de instalação. CORREIGIDO E AMPLIADO em 19/04/2026.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

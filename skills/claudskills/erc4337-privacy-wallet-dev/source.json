@@ -1,0 +1,18 @@
+{
+  "name": "erc4337-privacy-wallet",
+  "slug": "erc4337-privacy-wallet-dev",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/erc4337-privacy-wallet-dev/",
+  "download_url": "https://claudskills.com/skills/erc4337-privacy-wallet-dev/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Privacy-preserving ERC-4337 wallet development for vehicle identity and sensitive data protection. Use when implementing ERC-4337 account abstraction wallets that handle sensitive information (vehicle license plates, biometric data, personal IDs) requiring on-chain privacy. Triggers on requests like \"implement ERC-4337 wallet for vehicle\", \"create privacy-protected account abstraction\", \"build wallet with vehicle number privacy\", \"develop ERC-4337 with ZK proof integration\", or any smart contract wallet development requiring commitment schemes, deterministic address generation, and sensitive data protection.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "finance-personal",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

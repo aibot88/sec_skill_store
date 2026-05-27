@@ -1,0 +1,18 @@
+{
+  "name": "implementing-agent-skills",
+  "slug": "implementing-agent-skills",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-agent-skills/",
+  "download_url": "https://claudskills.com/skills/implementing-agent-skills/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implements new Agent Skills for the project. Identifies the AI coding tool (Cursor, Claude Code, Gemini CLI), ensures specification compliance, and provides specialized templates. Use when creating, authoring, or adding a new skill, or when the user asks about Agent Skills format or SKILL.md.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

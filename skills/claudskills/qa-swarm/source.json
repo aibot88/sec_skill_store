@@ -1,0 +1,18 @@
+{
+  "name": "qa-swarm",
+  "slug": "qa-swarm",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/qa-swarm/",
+  "download_url": "https://claudskills.com/skills/qa-swarm/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Parallel QA using agent teams for comprehensive multi-type testing. Spawns specialized QA agents that simultaneously run different test categories (unit, integration, lint, security scan) and consolidate results. Triggers on: \"QA 스웜\", \"전체 QA\", \"qa-swarm\", \"병렬 테스트\", \"종합 테스트\", or when comprehensive multi-category testing is needed for a project.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "setting-up-cloudwatch-alarm-notifications",
+  "slug": "setting-up-cloudwatch-alarm-notifications",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/setting-up-cloudwatch-alarm-notifications/",
+  "download_url": "https://claudskills.com/skills/setting-up-cloudwatch-alarm-notifications/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Sets up notification channels for CloudWatch alarms using SNS topics and subscriptions. Always use this skill when configuring alarm notifications — it creates encrypted SNS topics, configures topic policies for CloudWatch access, sets up email/SMS/webhook subscriptions, and links alarms to notification actions with proper security controls.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "flow-security-review-cycle",
+  "slug": "flow-security-review-cycle",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flow-security-review-cycle/",
+  "download_url": "https://claudskills.com/skills/flow-security-review-cycle/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Orchestrate continuous security validation, threat modeling, vulnerability management, and security gate enforcement across SDLC phases",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

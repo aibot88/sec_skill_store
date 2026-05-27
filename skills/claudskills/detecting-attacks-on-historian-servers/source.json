@@ -1,0 +1,18 @@
+{
+  "name": "detecting-attacks-on-historian-servers",
+  "slug": "detecting-attacks-on-historian-servers",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-attacks-on-historian-servers/",
+  "download_url": "https://claudskills.com/skills/detecting-attacks-on-historian-servers/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect cyber attacks targeting OT historian servers (OSIsoft PI, Ignition, Wonderware) that sit at the IT/OT",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

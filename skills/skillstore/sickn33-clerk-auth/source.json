@@ -1,0 +1,18 @@
+{
+  "name": "clerk-auth",
+  "slug": "sickn33-clerk-auth",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-clerk-auth",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/clerk-auth/SKILL.md?plain=1#L3",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/clerk-auth/SKILL.md?plain=1#L3",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Expert patterns for Clerk auth implementation, middleware, organizations, webhooks, and user sync Use when: adding authentication, clerk auth, user authentication, sign in, sign up.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/blob/main/skills/clerk-auth/SKILL.md?plain=1#L3"
+  },
+  "collected_at": "2026-05-27T03:44:46+00:00"
+}

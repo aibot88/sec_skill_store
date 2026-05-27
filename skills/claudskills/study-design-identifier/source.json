@@ -1,0 +1,18 @@
+{
+  "name": "study-design-identifier",
+  "slug": "study-design-identifier",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/study-design-identifier/",
+  "download_url": "https://claudskills.com/skills/study-design-identifier/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Identifies the real underlying study design used in a medical or biomedical paper, distinguishes primary and secondary design components when papers are hybrid, and converts the paper into an evidence-aware design label suitable for literature appraisal, evidence grading, and downstream review workflows. Always identify the actual design from what the study did, not from how the authors describe it. Never fabricate references, metadata, or study features.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "education-learning",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:23+00:00"
+}

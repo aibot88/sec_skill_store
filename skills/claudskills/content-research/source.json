@@ -1,0 +1,18 @@
+{
+  "name": "content-research",
+  "slug": "content-research",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/content-research/",
+  "download_url": "https://claudskills.com/skills/content-research/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Research-first content creation optimized for both human readers and AI search engines (Claude, ChatGPT, Perplexity, Gemini). Creates authentic, authoritative content that becomes the go-to citation source for AI models answering user questions.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

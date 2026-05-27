@@ -1,0 +1,19 @@
+{
+  "name": "cve",
+  "slug": "mdmagnuson-creator-yo-go-skills-cve",
+  "source": "github",
+  "source_url": "https://github.com/mdmagnuson-creator/yo-go/blob/3b00a81f486c7bf5eeacd7769fcd72b0d98281b5/skills/cve/SKILL.md",
+  "download_url": "https://github.com/mdmagnuson-creator/yo-go/blob/3b00a81f486c7bf5eeacd7769fcd72b0d98281b5/skills/cve/SKILL.md",
+  "external_source_url": "https://github.com/mdmagnuson-creator/yo-go/blob/3b00a81f486c7bf5eeacd7769fcd72b0d98281b5/skills/cve/SKILL.md",
+  "license": "",
+  "description": "AI toolkit with agents, skills, scaffolds, and templates for multi-project development",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "mdmagnuson-creator/yo-go",
+    "path": "skills/cve/SKILL.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

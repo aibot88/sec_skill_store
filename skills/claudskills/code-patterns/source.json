@@ -1,0 +1,18 @@
+{
+  "name": "ruoyi-vue-plus-code-patterns",
+  "slug": "code-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-patterns/",
+  "download_url": "https://claudskills.com/skills/code-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "基于若依-vue-plus框架的全栈代码规范指南。定义后端Java Spring Boot与前端Vue3 + TypeScript的标准化编码模式。 核心内容： - 后端分层架构规范：Controller/Service/Mapper三层设计，对象流转模式（Bo/DTO → Entity → Vo） - 前端Vue3组合式API规范：<script setup>语法糖、响应式数据管理、组件通信模式 - 数据库操作规范：MyBatis-Plus的使用规范、批量操作、事务管理 - 统一响应处理：AjaxResult封装、异常处理、日志记录 - 安全与权限：@PreAuthorize注解、数据权限、敏感字段处理 触发场景： - 编写新的业务模块（CRUD功能） - 重构旧代码或优化现有代码 - 进行代码审查（Code Review） - 解决分层架构设计问题 - 处理Vue3响应式数据丢失问题 触发关键词：代码规范、若依框架、分层架构、DTO/VO转换、对象映射、Vue3 Setup、Composition API、组件封装、响应式、MyBatis-Plus",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

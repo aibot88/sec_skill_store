@@ -1,0 +1,18 @@
+{
+  "name": "dotnet-meziantou-analyzer",
+  "slug": "dotnet-meziantou-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dotnet-meziantou-analyzer/",
+  "download_url": "https://claudskills.com/skills/dotnet-meziantou-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use the open-source free `Meziantou.Analyzer` package for design, usage, security, performance, and style rules in .NET. Use when a repo wants broader analyzer coverage with a single NuGet package.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "performance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

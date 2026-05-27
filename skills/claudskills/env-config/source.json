@@ -1,0 +1,18 @@
+{
+  "name": "env-config",
+  "slug": "env-config",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/env-config/",
+  "download_url": "https://claudskills.com/skills/env-config/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Environment configuration and secrets management skill using UV for Python projects. Handles .env files, environment variables, secrets encryption, multi-environment setups, and secure configuration patterns. Use when setting up project environments, managing API keys, or implementing configuration best practices.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "content-filter",
+  "slug": "hypedelta",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hypedelta/",
+  "download_url": "https://claudskills.com/skills/hypedelta/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Filter and classify AI research content for relevance. Use when processing raw content from Twitter, Substacks, blogs, or podcasts to determine if it's worth extracting claims from. Assigns relevance scores, topics, and author categories.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

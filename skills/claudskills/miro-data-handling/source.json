@@ -1,0 +1,18 @@
+{
+  "name": "miro-data-handling",
+  "slug": "miro-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/miro-data-handling/",
+  "download_url": "https://claudskills.com/skills/miro-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Miro REST API v2 data handling with PII detection in board content, data export via API, retention policies, and GDPR/CCPA compliance patterns. Trigger with phrases like \"miro data\", \"miro PII\", \"miro GDPR\", \"miro data export\", \"miro privacy\", \"miro compliance\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

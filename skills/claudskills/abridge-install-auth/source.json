@@ -1,0 +1,18 @@
+{
+  "name": "abridge-install-auth",
+  "slug": "abridge-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/abridge-install-auth/",
+  "download_url": "https://claudskills.com/skills/abridge-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Set up Abridge clinical AI platform authentication and EHR integration credentials. Use when onboarding a healthcare org to Abridge, configuring Epic/Athena integration, or setting up developer sandbox access for ambient AI documentation. Trigger: \"install abridge\", \"setup abridge\", \"abridge auth\", \"configure abridge credentials\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

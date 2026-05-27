@@ -1,0 +1,18 @@
+{
+  "name": "vendor-assessor",
+  "slug": "vendor-assessor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vendor-assessor/",
+  "download_url": "https://claudskills.com/skills/vendor-assessor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Conducts comprehensive vendor security assessments. Evaluates vendor security posture, identifies risks, and generates assessment reports with recommendations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

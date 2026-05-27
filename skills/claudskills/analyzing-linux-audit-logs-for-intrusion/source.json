@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-linux-audit-logs-for-intrusion",
+  "slug": "analyzing-linux-audit-logs-for-intrusion",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-linux-audit-logs-for-intrusion/",
+  "download_url": "https://claudskills.com/skills/analyzing-linux-audit-logs-for-intrusion/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Uses the Linux Audit framework (auditd) with ausearch and aureport utilities to detect intrusion attempts, unauthorized",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

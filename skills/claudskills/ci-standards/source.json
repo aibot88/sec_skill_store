@@ -1,0 +1,18 @@
+{
+  "name": "ci-standards",
+  "slug": "ci-standards",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ci-standards/",
+  "download_url": "https://claudskills.com/skills/ci-standards/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "CI/CD standards knowledge for validating project compliance with CI conventions",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "library-design-patterns",
+  "slug": "library-design-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/library-design-patterns/",
+  "download_url": "https://claudskills.com/skills/library-design-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Standardized library design patterns for autonomous-dev including two-tier design, progressive enhancement, non-blocking enhancements, and security-first architecture. Use when creating or refactoring Python libraries.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

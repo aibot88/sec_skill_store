@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "haribu-personalwebsite-skills",
+  "source": "github",
+  "source_url": "https://github.com/Haribu/PersonalWebsite/blob/1dd262532017fe235a6f8b50fcb3bf5f404c4e5b/skills/secure_engineering_skill.md",
+  "download_url": "https://github.com/Haribu/PersonalWebsite/blob/1dd262532017fe235a6f8b50fcb3bf5f404c4e5b/skills/secure_engineering_skill.md",
+  "external_source_url": "https://github.com/Haribu/PersonalWebsite/blob/1dd262532017fe235a6f8b50fcb3bf5f404c4e5b/skills/secure_engineering_skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Haribu/PersonalWebsite",
+    "path": "skills/secure_engineering_skill.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

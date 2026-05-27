@@ -1,0 +1,18 @@
+{
+  "name": "auth-implementation-patterns",
+  "slug": "auth-implementation-patterns-ccf-claude-code-ccf-mark",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-implementation-patterns-ccf-claude-code-ccf-mark/",
+  "download_url": "https://claudskills.com/skills/auth-implementation-patterns-ccf-claude-code-ccf-mark/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Master authentication and authorization patterns including JWT, OAuth2, session management, and RBAC to build secure, scalable access control systems. Use when implementing auth systems, securing APIs, or debugging security issues.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

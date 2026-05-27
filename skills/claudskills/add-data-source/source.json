@@ -1,0 +1,18 @@
+{
+  "name": "add-data-source",
+  "slug": "add-data-source",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/add-data-source/",
+  "download_url": "https://claudskills.com/skills/add-data-source/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Guide the user to add a data source, connection, or API connector to a Canvas App via Power Apps Studio, then verify and continue. USE WHEN the user asks to add a data source, add a connection, add an API, add a connector, connect to SharePoint / Dataverse / SQL / Excel / OneDrive / Teams / Office 365, or any similar request to make new data available to the app. DO NOT USE WHEN the user is asking to list or describe existing data sources — call list_data_sources or list_apis directly instead.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

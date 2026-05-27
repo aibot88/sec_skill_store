@@ -1,0 +1,18 @@
+{
+  "name": "preprint-surveillance-finder",
+  "slug": "preprint-surveillance-finder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/preprint-surveillance-finder/",
+  "download_url": "https://claudskills.com/skills/preprint-surveillance-finder/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Tracks the latest preprints and emerging research topics related to your topic across bioRxiv, medRxiv, and arXiv. Use when a user wants to discover what is being published right now before it reaches journals, monitor competitor directions, spot new methodology trends, or get an early-warning scan of a research area. Triggers on phrases like \"what's new in X\", \"latest preprints on Y\", \"emerging topics in Z\", \"monitor bioRxiv for\", or \"what are people working on in this field\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

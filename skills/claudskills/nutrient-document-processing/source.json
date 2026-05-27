@@ -1,0 +1,18 @@
+{
+  "name": "nutrient-document-processing",
+  "slug": "nutrient-document-processing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nutrient-document-processing/",
+  "download_url": "https://claudskills.com/skills/nutrient-document-processing/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Process documents with Nutrient DWS. Use when the user wants to generate PDFs from HTML or URLs, convert Office/images/PDFs, assemble or split packets, OCR scans, extract text/tables/key-value pairs, redact PII, watermark, sign, fill forms, optimize PDFs, or produce compliance outputs like PDF/A or PDF/UA. Triggers include convert to PDF, merge these PDFs, OCR this scan, extract tables, redact PII, sign this PDF, make this PDF/A, or linearize for web delivery.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}

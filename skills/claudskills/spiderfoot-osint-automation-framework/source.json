@@ -1,0 +1,18 @@
+{
+  "name": "spiderfoot-osint-automation-framework",
+  "slug": "spiderfoot-osint-automation-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spiderfoot-osint-automation-framework/",
+  "download_url": "https://claudskills.com/skills/spiderfoot-osint-automation-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "SpiderFoot is an open-source OSINT automation tool that queries over 200 data sources to gather intelligence about IP addresses, domain names, email addresses, and other targets. Written in Python, it provides both a web UI and CLI for reconnaissance, threat intelligence, and attack surface mapping.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

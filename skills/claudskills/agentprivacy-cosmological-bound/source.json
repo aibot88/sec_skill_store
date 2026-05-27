@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-cosmological-bound",
+  "slug": "agentprivacy-cosmological-bound",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-cosmological-bound/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-cosmological-bound/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Meta skill for recognizing cosmological precedents in privacy architecture. The dual-agent pattern predates biology—it was written in orbital mechanics 4.5 billion years before the first line of code. This skill maps celestial architecture to software architecture.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "physics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

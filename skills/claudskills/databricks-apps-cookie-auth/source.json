@@ -1,0 +1,18 @@
+{
+  "name": "databricks-apps-cookie-auth",
+  "slug": "databricks-apps-cookie-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/databricks-apps-cookie-auth/",
+  "download_url": "https://claudskills.com/skills/databricks-apps-cookie-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guide for authenticating with Databricks Apps using cookie-based auth when OAuth/PAT tokens don't work. Use when connecting to Databricks Apps with User Authorization enabled.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:36+00:00"
+}

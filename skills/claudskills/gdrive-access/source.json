@@ -1,0 +1,18 @@
+{
+  "name": "gdrive-access",
+  "slug": "gdrive-access",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gdrive-access/",
+  "download_url": "https://claudskills.com/skills/gdrive-access/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Access Google Drive via CLI with 1Password OAuth. Use when user wants to list files, download from Drive, sync folders, or mentions google drive access. TRIGGERS - google drive, gdrive, drive folder, download drive, sync drive, list drive files.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

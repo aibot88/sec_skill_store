@@ -1,0 +1,18 @@
+{
+  "name": "app-sharing",
+  "slug": "app-sharing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/app-sharing/",
+  "download_url": "https://claudskills.com/skills/app-sharing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage Glide app access, privacy, authentication, and publishing. Use when configuring who can access an app, setting up sign-in methods, publishing apps, inviting users, or configuring Row Owners for data security.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

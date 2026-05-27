@@ -1,0 +1,18 @@
+{
+  "name": "cursor-best-practices",
+  "slug": "cursor-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cursor-best-practices/",
+  "download_url": "https://claudskills.com/skills/cursor-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Best practices for using Cursor—rules, commands, skills, subagents, ignore files, Agent security, workflows, and community resources. Use when setting up Cursor, initializing or creating the .cursor folder, writing .cursor/rules or AGENTS.md, creating commands or skills, configuring .cursorignore, working with Agent, discovering rules or MCPs (e.g. cursor.directory), making codebases cursor-compatible, or asking about Cursor workflows, TDD, git commands, or large codebases.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

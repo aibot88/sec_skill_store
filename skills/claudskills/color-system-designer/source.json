@@ -1,0 +1,18 @@
+{
+  "name": "color-system-designer",
+  "slug": "color-system-designer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/color-system-designer/",
+  "download_url": "https://claudskills.com/skills/color-system-designer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Creates color palettes and color systems for applications. Defines primary, secondary, neutral colors, and semantic colors (success, error, warning, info). Ensures accessibility compliance and provides usage guidelines.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

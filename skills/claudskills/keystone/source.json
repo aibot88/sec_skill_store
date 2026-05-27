@@ -1,0 +1,18 @@
+{
+  "name": "openstack-keystone",
+  "slug": "keystone",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/keystone/",
+  "download_url": "https://claudskills.com/skills/keystone/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "OpenStack Keystone identity service skill for deploying, configuring, operating, and troubleshooting the authentication and authorization backbone of an OpenStack cloud. Covers identity management, token lifecycle (Fernet provider with rotation), service catalog registration, RBAC policy customization, domain/project/user hierarchy, federation basics (SAML/OIDC), credential encryption, and endpoint management. Use when deploying Keystone via Kolla-Ansible, managing users and projects, debugging 401 errors, rotating Fernet keys, configuring RBAC policies, or integrating services through the service catalog.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

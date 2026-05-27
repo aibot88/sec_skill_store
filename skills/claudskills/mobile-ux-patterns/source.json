@@ -1,0 +1,18 @@
+{
+  "name": "mobile-ux-patterns",
+  "slug": "mobile-ux-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mobile-ux-patterns/",
+  "download_url": "https://claudskills.com/skills/mobile-ux-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit mobile UX implementation against platform conventions -- navigation patterns, gesture handling, pull-to-refresh, infinite scroll, skeleton screens, haptic feedback, adaptive layouts, deep linking, and accessibility. Checks compliance with iOS Human Interface Guidelines, Material Design 3, WCAG AA, and cross-platform adaptive behavior for Flutter and React Native apps. Use when reviewing navigation flows, fixing gesture conflicts, adding loading/error/empty states, or preparing for accessibility audit.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ux-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "penetration-test-planner",
+  "slug": "penetration-test-planner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/penetration-test-planner/",
+  "download_url": "https://claudskills.com/skills/penetration-test-planner/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Penetration Test Planner - Auto-activating skill for Security Advanced. Triggers on: penetration test planner, penetration test planner Part of the Security Advanced skill category.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "pydantic-ai-dependency-injection",
+  "slug": "pydantic-ai-dependency-injection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pydantic-ai-dependency-injection/",
+  "download_url": "https://claudskills.com/skills/pydantic-ai-dependency-injection/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implement dependency injection in PydanticAI agents using RunContext and deps_type. Use when agents need database connections, API clients, user context, or any external resources.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "scan-mcp-servers-for-security-findings-before-connecting-them-to",
+  "slug": "scan-mcp-servers-for-security-findings-before-connecting-them-to",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scan-mcp-servers-for-security-findings-before-connecting-them-to/",
+  "download_url": "https://claudskills.com/skills/scan-mcp-servers-for-security-findings-before-connecting-them-to/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run MCP Scanner against a remote or local MCP server before trusting it, so the agent gets a bounded security review of tools, prompts, resources, dependencies, and supply-chain risk.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

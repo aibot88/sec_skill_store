@@ -1,0 +1,18 @@
+{
+  "name": "trivy-security-scanner-containers-iac",
+  "slug": "trivy-security-scanner-containers-iac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/trivy-security-scanner-containers-iac/",
+  "download_url": "https://claudskills.com/skills/trivy-security-scanner-containers-iac/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Trivy is Aqua Security’s scanner for vulnerabilities, misconfigurations, secrets, SBOMs, and license issues. It fits security review, container hygiene, and infrastructure-as-code checks in one CLI.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

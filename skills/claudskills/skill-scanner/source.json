@@ -1,0 +1,18 @@
+{
+  "name": "skill-scanner",
+  "slug": "skill-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-scanner/",
+  "download_url": "https://claudskills.com/skills/skill-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scan agent skills for security issues before adoption. Detects prompt injection, malicious code, excessive permissions, secret exposure, and supply chain risks.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

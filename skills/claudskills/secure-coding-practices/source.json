@@ -1,0 +1,18 @@
+{
+  "name": "secure-coding-practices",
+  "slug": "secure-coding-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/secure-coding-practices/",
+  "download_url": "https://claudskills.com/skills/secure-coding-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Secure coding practices and defensive programming patterns for building security-first applications. Use when implementing authentication, handling user input, managing sensitive data, or conducting secure code reviews.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

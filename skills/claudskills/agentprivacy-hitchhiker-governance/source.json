@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-hitchhiker-governance",
+  "slug": "agentprivacy-hitchhiker-governance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-hitchhiker-governance/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-hitchhiker-governance/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Decentralised governance (Hitchhiker's Guide pattern) for 0xagentprivacy guilds. Activates when discussing Heart of Gold crew pattern, distributed authority, guild charter design, liquid democracy, conviction voting, treasury governance, or 'ships without captains' coordination.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "edition-data-author",
+  "slug": "edition-data-author",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/edition-data-author/",
+  "download_url": "https://claudskills.com/skills/edition-data-author/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Creates and validates catalog items for edition JSON files including spells, qualities, gear, augmentations, weapons, armor, adept powers, foci, and complex forms. Use when adding new items to core-rulebook.json or sourcebook files, or when validating existing catalog entries.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

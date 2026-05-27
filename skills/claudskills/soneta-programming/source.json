@@ -1,0 +1,18 @@
+{
+  "name": "soneta-programming",
+  "slug": "soneta-programming",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/soneta-programming/",
+  "download_url": "https://claudskills.com/skills/soneta-programming/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Klasy ORM i wzorce kodu biznesowego enova365 / Soneta Enterprise / Triva: Row/Table/Module, sesja i transakcje (Session, Commit/CommitUI, Save, optimistic lock), Login/Database/BusApplication, Datapack/GuidedRow/ExportedRow, serwerowy LINQ (RowCondition, SubTable[condition]), Context, Worker/Extender/[Action], ViewInfo/FolderView, Features, Translate/ILogger oraz zasady bezpiecznego kodu (safe-code, code review). Używaj gdy użytkownik: (1) pisze, modyfikuje lub refaktoruje kod biznesowy enova365/Soneta/Triva; (2) pyta o Session, Row, Table, Module, Login, Database, Context, Datapack, Worker, Extender, ViewInfo, RowCondition; (3) wspomina sesje, transakcje, Commit, Save, optimistic lock, blokady wierszy; (4) prosi o code review kodu biznesowego Soneta; (5) pisze dodatek, worker, extender, akcję w menu Czynności, folder/listę; (6) pyta o thread-safety, ExecuteConfig, dane konfiguracyjne vs operacyjne.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

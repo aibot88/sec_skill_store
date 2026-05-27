@@ -1,0 +1,18 @@
+{
+  "name": "detecting-dead-code",
+  "slug": "detecting-dead-code",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-dead-code/",
+  "download_url": "https://claudskills.com/skills/detecting-dead-code/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Identifies unreachable functions, unused variables, and abandoned code in binary programs. Use when optimizing binary size, analyzing code coverage, or investigating abandoned functionality.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

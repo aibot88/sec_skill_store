@@ -1,0 +1,18 @@
+{
+  "name": "electron-security",
+  "slug": "electron-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/electron-security/",
+  "download_url": "https://claudskills.com/skills/electron-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when working on Electron applications — detected by `electron` in package.json dependencies, presence of `main.ts`/`main.js` entry, or `BrowserWindow` usage in source. Enforces contextIsolation true, nodeIntegration false, CSP, and draggable region discipline. Do NOT use for regular web apps, Node.js CLI tools, or non-Electron desktop frameworks (Tauri, Neutralino, NW.js).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

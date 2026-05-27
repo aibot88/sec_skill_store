@@ -1,0 +1,18 @@
+{
+  "name": "alibaba-kms-secret-lifecycle-steward",
+  "slug": "alibaba-kms-secret-lifecycle-steward",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibaba-kms-secret-lifecycle-steward/",
+  "download_url": "https://claudskills.com/skills/alibaba-kms-secret-lifecycle-steward/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Audit and govern Alibaba Cloud KMS key lifecycles, Certificate Manager, SSM (Secrets Manager), and HSM key operations. Ensure encryption-at-rest coverage and rotation compliance across CMKs, envelope encryption, and certificate lifecycle.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

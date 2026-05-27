@@ -1,0 +1,18 @@
+{
+  "name": "firebase-firestore-standard",
+  "slug": "firebase-firestore-standard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-firestore-standard/",
+  "download_url": "https://claudskills.com/skills/firebase-firestore-standard/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive guide for Firestore Standard Edition, including provisioning, security rules, and SDK usage. Use this skill when the user needs help setting up Firestore, writing security rules, or using the Firestore SDK in their application.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

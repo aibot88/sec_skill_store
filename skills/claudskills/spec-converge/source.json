@@ -1,0 +1,18 @@
+{
+  "name": "spec-converge",
+  "slug": "spec-converge",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/spec-converge/",
+  "download_url": "https://claudskills.com/skills/spec-converge/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Iteratively review an instar-development spec with multi-angle internal reviewers (security, scalability, adversarial, integration) and cross-model external reviewers (GPT, Gemini, Grok) until convergence, then produce a comprehensive ELI10 convergence report. Output is a spec tagged review-convergence — one of the two tags /instar-dev requires before it will touch instar source. NOT user-invocable; run by the instar-developing agent before any spec-driven /instar-dev work.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:20+00:00"
+}

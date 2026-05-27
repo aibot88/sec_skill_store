@@ -1,0 +1,17 @@
+{
+  "name": "skill-guard",
+  "slug": "skill-guard-tutfla",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/skill-guard-tutfla",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/jamesouttake/skill-guard/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/jamesouttake/skill-guard/SKILL.md",
+  "license": "",
+  "description": "Scan ClawHub skills for security vulnerabilities",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=1"
+  },
+  "collected_at": "2026-05-27T03:44:40+00:00"
+}

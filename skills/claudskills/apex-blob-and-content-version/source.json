@@ -1,0 +1,18 @@
+{
+  "name": "apex-blob-and-content-version",
+  "slug": "apex-blob-and-content-version",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/apex-blob-and-content-version/",
+  "download_url": "https://claudskills.com/skills/apex-blob-and-content-version/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when Apex must create, persist, stream, or serve binary files — including uploading from LWC/REST, generating ContentVersion records, chunking large bodies, relating files to records via ContentDocumentLink, and handling the heap/payload limits that trip binary workflows. Triggers: 'ContentVersion VersionData Blob', 'upload file from LWC to Apex', 'large file heap limit Apex', 'ContentDocumentLink sharing'. NOT for generating PDFs (use pdf-generation-patterns); NOT for email attachment parsing (use apex-email-services).",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

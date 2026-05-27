@@ -1,0 +1,18 @@
+{
+  "name": "web2-recon",
+  "slug": "web2-recon",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/web2-recon/",
+  "download_url": "https://claudskills.com/skills/web2-recon/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Web2 recon pipeline — subdomain enumeration (subfinder, Chaos API, assetfinder), live host discovery (dnsx, httpx), URL crawling (katana, waybackurls, gau), directory fuzzing (ffuf), JS analysis (LinkFinder, SecretFinder), continuous monitoring (new subdomain alerts, JS change detection, GitHub commit watch). Use when starting recon on any web2 target or when asked about asset discovery, subdomain enum, or attack surface mapping.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

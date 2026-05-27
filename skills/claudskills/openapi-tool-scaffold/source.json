@@ -1,0 +1,18 @@
+{
+  "name": "openapi-tool-scaffold",
+  "slug": "openapi-tool-scaffold",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/openapi-tool-scaffold/",
+  "download_url": "https://claudskills.com/skills/openapi-tool-scaffold/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "OpenAPI 3.x (JSON/YAML) 스펙을 MCP stdio 서버(Python) 코드로 자동 변환하는 스킬. 외부 REST API를 MCP tool로 빠르게 브릿지할 때 사용. 인증(Bearer, API Key, OAuth stub) 지원, endpoint별 tool 자동 생성. 트리거: OpenAPI→MCP 변환, 외부 API MCP 연동, REST API tool 자동화, Python MCP scaffold.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

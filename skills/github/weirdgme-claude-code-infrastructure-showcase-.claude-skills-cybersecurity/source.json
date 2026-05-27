@@ -1,0 +1,19 @@
+{
+  "name": "cybersecurity",
+  "slug": "weirdgme-claude-code-infrastructure-showcase-.claude-skills-cybersecurity",
+  "source": "github",
+  "source_url": "https://github.com/weirdgme/Claude-code-infrastructure-showcase/blob/cedb8d9090dd31a43a527d57e25446b0a043a0fb/.claude/skills/cybersecurity/SKILL.md",
+  "download_url": "https://github.com/weirdgme/Claude-code-infrastructure-showcase/blob/cedb8d9090dd31a43a527d57e25446b0a043a0fb/.claude/skills/cybersecurity/SKILL.md",
+  "external_source_url": "https://github.com/weirdgme/Claude-code-infrastructure-showcase/blob/cedb8d9090dd31a43a527d57e25446b0a043a0fb/.claude/skills/cybersecurity/SKILL.md",
+  "license": "",
+  "description": "Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "weirdgme/Claude-code-infrastructure-showcase",
+    "path": ".claude/skills/cybersecurity/SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

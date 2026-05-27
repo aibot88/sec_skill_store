@@ -1,0 +1,18 @@
+{
+  "name": "immunize-fetch-missing-credentials",
+  "slug": "fetch-missing-credentials",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fetch-missing-credentials/",
+  "download_url": "https://claudskills.com/skills/fetch-missing-credentials/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when writing cross-origin fetch() calls that require cookies or session auth to ensure `credentials: 'include'` is set.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

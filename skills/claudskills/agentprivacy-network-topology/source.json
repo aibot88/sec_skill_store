@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-network-topology",
+  "slug": "agentprivacy-network-topology",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-network-topology/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-network-topology/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Network topology and stratum-weighted effects for 0xagentprivacy Privacy Pools. Activates when discussing (1 + Σ wᵢ nᵢ/N₀)^k, binomial coefficients across strata, Metcalfe generalisation, pool composition optimisation, or network scaling exponents. Use for Privacy Pool design and network value modelling.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

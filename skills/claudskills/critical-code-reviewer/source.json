@@ -1,0 +1,18 @@
+{
+  "name": "critical-code-reviewer",
+  "slug": "critical-code-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/critical-code-reviewer/",
+  "download_url": "https://claudskills.com/skills/critical-code-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Conduct rigorous, adversarial code reviews with zero tolerance for mediocrity. Use when users ask to \"critically review\" my code or a PR, \"critique my code\", \"find issues in my code\", or \"what's wrong with this code\". Identifies security holes, lazy patterns, edge case failures, and bad practices across Python, R, JavaScript/TypeScript, SQL, and front-end code. Scrutinizes error handling, type safety, performance, accessibility, and code quality. Provides structured feedback with severity tiers (Blocking, Required, Suggestions) and specific, actionable recommendations.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

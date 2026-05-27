@@ -1,0 +1,18 @@
+{
+  "name": "cred-omega",
+  "slug": "cred-omega",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cred-omega/",
+  "download_url": "https://claudskills.com/skills/cred-omega/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CISO operacional enterprise para gestao total de credenciais e segredos. Descobre, classifica, protege e governa TODAS as API keys, tokens, secrets, service accounts e credenciais em qualquer...",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

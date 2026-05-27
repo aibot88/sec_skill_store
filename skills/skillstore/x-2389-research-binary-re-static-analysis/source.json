@@ -1,0 +1,18 @@
+{
+  "name": "binary-re:static-analysis",
+  "slug": "x-2389-research-binary-re-static-analysis",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/x-2389-research-binary-re-static-analysis",
+  "download_url": "https://github.com/2389-research/claude-plugins/blob/main/binary-re/skills/static-analysis/SKILL.md?plain=1#L1-L407",
+  "external_source_url": "https://github.com/2389-research/claude-plugins/blob/main/binary-re/skills/static-analysis/SKILL.md?plain=1#L1-L407",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Use when analyzing binary structure, disassembling code, or decompiling functions. Deep static analysis via radare2 (r2) and Ghidra headless - function enumeration, cross-references (xrefs), decompilation, control flow graphs. Keywords - \"disassemble\", \"decompile\", \"what does this function do\", \"find functions\", \"analyze code\", \"r2\", \"ghidra\", \"pdg\", \"afl\"",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/2389-research/claude-plugins/blob/main/binary-re/skills/static-analysis/SKILL.md?plain=1#L1-L407"
+  },
+  "collected_at": "2026-05-27T03:44:52+00:00"
+}

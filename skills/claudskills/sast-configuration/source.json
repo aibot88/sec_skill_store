@@ -1,0 +1,18 @@
+{
+  "name": "sast-configuration",
+  "slug": "sast-configuration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sast-configuration/",
+  "download_url": "https://claudskills.com/skills/sast-configuration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Static Application Security Testing (SAST) tool setup, configuration, and custom rule creation for comprehensive security scanning across multiple programming languages.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

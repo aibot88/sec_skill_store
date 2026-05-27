@@ -1,0 +1,18 @@
+{
+  "name": "detecting-null-pointer-dereference",
+  "slug": "detecting-null-pointer-dereference",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-null-pointer-dereference/",
+  "download_url": "https://claudskills.com/skills/detecting-null-pointer-dereference/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Detects null pointer dereference vulnerabilities by identifying unchecked pointer usage and missing validation. Use when analyzing pointer operations, input validation, or investigating crash vulnerabilities.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

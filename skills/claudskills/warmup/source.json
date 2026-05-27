@@ -1,0 +1,18 @@
+{
+  "name": "warmup",
+  "slug": "warmup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/warmup/",
+  "download_url": "https://claudskills.com/skills/warmup/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "The Warmup. A daily intelligence brief for the first coffee. CISO mode delivers a structured cybersecurity digest — active threat actors mapped to MITRE ATT&CK, emerging CVEs with exploitation status, research from CrowdStrike, Palo Alto Unit 42, Elastic Security Labs, and others, plus vendor M&A and regulatory movement. Product Leader mode delivers a product intelligence brief for GMs, PMs, and anyone steering a product — company signal, competitor moves, AI in product, funding and M&A, platform risk, regulatory pressure, analyst sentiment, and a vertical-specific section that adapts to what they build and who they build for. Custom mode lets any user describe their morning interests — stocks, industry news, competitor moves, policy, social signal — and maps them to a curated source suite. Output: a live Iron Log-branded HTML artifact, transparent about every source used, pulled on demand with your first coffee. Trigger phrases: \"warmup\", \"run warmup\", \"run the warmup\", \"start my warmup\", \"give me my warmup\", \"warmup setup\", \"set up the warmup\", \"configure the warmup\", \"warmup config\", \"add source to warmup\", \"remove source from warmup\", \"show my warmup sources\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "prompt-craft",
+  "slug": "prompt-craft",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prompt-craft/",
+  "download_url": "https://claudskills.com/skills/prompt-craft/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Write and refine production-grade prompts and tool definitions for Claude. Use when the user needs to craft a system prompt, improve an existing prompt, design tool schemas (ACI), or apply techniques like few-shot, XML structuring, role prompting, or chain-of-thought. Covers Claude 4.6 specifics. Do NOT use for skill authoring (use skill-author) or agent architecture (use agent-patterns).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

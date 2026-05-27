@@ -1,0 +1,18 @@
+{
+  "name": "detecting-mimikatz-execution-patterns",
+  "slug": "detecting-mimikatz-execution-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-mimikatz-execution-patterns/",
+  "download_url": "https://claudskills.com/skills/detecting-mimikatz-execution-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect Mimikatz execution through command-line patterns, LSASS access signatures, binary indicators, and in-memory",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:40+00:00"
+}

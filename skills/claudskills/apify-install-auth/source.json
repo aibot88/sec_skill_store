@@ -1,0 +1,18 @@
+{
+  "name": "apify-install-auth",
+  "slug": "apify-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/apify-install-auth/",
+  "download_url": "https://claudskills.com/skills/apify-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Apify SDK, CLI, and API client authentication. Use when setting up a new Apify project, configuring API tokens, or initializing apify-client / Apify SDK in your codebase. Trigger: \"install apify\", \"setup apify\", \"apify auth\", \"configure apify token\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

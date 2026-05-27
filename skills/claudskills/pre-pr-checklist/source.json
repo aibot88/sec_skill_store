@@ -1,0 +1,18 @@
+{
+  "name": "pre-pr-checklist",
+  "slug": "pre-pr-checklist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pre-pr-checklist/",
+  "download_url": "https://claudskills.com/skills/pre-pr-checklist/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Before opening a pull request, run the project's check suite, scan the diff for things reviewers can't easily catch (debug code, secrets, missing tests), and draft a PR body.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "operations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

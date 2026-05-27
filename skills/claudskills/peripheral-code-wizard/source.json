@@ -1,0 +1,18 @@
+{
+  "name": "peripheral-code-wizard",
+  "slug": "peripheral-code-wizard",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/peripheral-code-wizard/",
+  "download_url": "https://claudskills.com/skills/peripheral-code-wizard/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Genera fragmentos de código inicial funcionales para Arduino IDE y ESP-IDF a partir del mapeo de pines y periféricos de un microcontrolador ESP32. Activa cuando el usuario menciona: código, code, programar ESP32, Arduino, ESP-IDF, GPIO, periférico, peripheral, firmware, sketch, ejemplo de código, pin mapping, o cuando se necesita generar código que controle un periférico específico del microcontrolador para un proyecto de domótica. Usar SIEMPRE después de schematic-storyteller para traducir las conexiones de hardware en código ejecutable.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "mulesoft-salesforce-connector",
+  "slug": "mulesoft-salesforce-connector",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mulesoft-salesforce-connector/",
+  "download_url": "https://claudskills.com/skills/mulesoft-salesforce-connector/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Designing and configuring MuleSoft Anypoint Salesforce Connector flows: API selection (SOAP/REST/Bulk/Streaming), OAuth 2.0 JWT Bearer auth, watermark-based incremental sync with Object Store, batch processing with record-level error isolation, and replay topic subscriptions. Use when building Mule 4 flows that read from or write to Salesforce, migrating from Mule 3 watermark to Mule 4 Object Store, or troubleshooting connector authentication and API limits. NOT for native Salesforce-to-Salesforce integration without MuleSoft (use platform-events-integration or change-data-capture-integration). NOT for generic REST callout patterns from Apex (use rest-api-patterns).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

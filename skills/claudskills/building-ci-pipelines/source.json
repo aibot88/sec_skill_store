@@ -1,0 +1,18 @@
+{
+  "name": "building-ci-pipelines",
+  "slug": "building-ci-pipelines",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-ci-pipelines/",
+  "download_url": "https://claudskills.com/skills/building-ci-pipelines/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Constructs secure, efficient CI/CD pipelines with supply chain security (SLSA), monorepo optimization, caching strategies, and parallelization patterns for GitHub Actions, GitLab CI, and Argo Workflows. Use when setting up automated testing, building, or deployment workflows.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

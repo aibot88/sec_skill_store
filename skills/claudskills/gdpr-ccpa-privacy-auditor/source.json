@@ -1,0 +1,18 @@
+{
+  "name": "gdpr-ccpa-privacy-auditor",
+  "slug": "gdpr-ccpa-privacy-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gdpr-ccpa-privacy-auditor/",
+  "download_url": "https://claudskills.com/skills/gdpr-ccpa-privacy-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audits web applications to ensure declared privacy policies match actual technical data collection practices. Use to identify discrepancies in cookie usage, tracking scripts, and user data handling.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

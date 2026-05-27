@@ -1,0 +1,18 @@
+{
+  "name": "go-security-audit",
+  "slug": "go-security-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/go-security-audit/",
+  "download_url": "https://claudskills.com/skills/go-security-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security review for Go applications: input validation, SQL injection, authentication/authorization, secrets management, TLS, OWASP Top 10, and secure coding patterns. Use when performing security reviews, checking for vulnerabilities, hardening Go services, or reviewing auth implementations. Trigger examples: \"security review\", \"check vulnerabilities\", \"OWASP\", \"SQL injection\", \"input validation\", \"secrets management\", \"auth review\". Do NOT use for dependency CVE scanning (use go-dependency-audit) or concurrency safety (use go-concurrency-review).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

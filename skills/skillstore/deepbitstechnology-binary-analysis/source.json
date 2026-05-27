@@ -1,0 +1,18 @@
+{
+  "name": "binary-analysis",
+  "slug": "deepbitstechnology-binary-analysis",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/deepbitstechnology-binary-analysis",
+  "download_url": "https://github.com/DeepBitsTechnology/claude-plugins/blob/main/drbinary-chat-plugin/skills/binary-analysis/SKILL.md?plain=1#L80-L105",
+  "external_source_url": "https://github.com/DeepBitsTechnology/claude-plugins/blob/main/drbinary-chat-plugin/skills/binary-analysis/SKILL.md?plain=1#L80-L105",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Analyze binary files (exe, dll, sys, bin, ocx, scr, cpl, drv) to assess if they are malicious, perform decompilation, extract strings/imports/exports, detect malware, and provide threat assessment. Use this skill when user asks to analyze, examine, check, or assess any binary file, asks if a file is malicious/suspicious/safe, or provides a file path to a binary. Trigger for phrases like \"Is [file] malicious?\", \"Analyze [file]\", \"What does [binary] do?\", or any request involving binary file analysis.",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 file",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/DeepBitsTechnology/claude-plugins/blob/main/drbinary-chat-plugin/skills/binary-analysis/SKILL.md?plain=1#L80-L105"
+  },
+  "collected_at": "2026-05-27T03:44:43+00:00"
+}

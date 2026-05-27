@@ -1,0 +1,18 @@
+{
+  "name": "anyquery-universal-sql-engine-mcp-integration",
+  "slug": "anyquery-universal-sql-engine-mcp-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/anyquery-universal-sql-engine-mcp-integration/",
+  "download_url": "https://claudskills.com/skills/anyquery-universal-sql-engine-mcp-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Anyquery is a SQL query engine that lets you run SQL against 40+ apps, files, and databases including GitHub, Notion, Chrome, and Apple Notes. Built on SQLite with MCP server support for connecting AI agents to structured data across services.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

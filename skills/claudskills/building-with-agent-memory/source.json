@@ -1,0 +1,18 @@
+{
+  "name": "building-with-agent-memory",
+  "slug": "building-with-agent-memory",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/building-with-agent-memory/",
+  "download_url": "https://claudskills.com/skills/building-with-agent-memory/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build persistent memory systems for AI agents using Mem0, claude-mem, or custom implementations. Use when adding conversation memory, user preferences, or contextual recall to agents. Covers memory architecture patterns, retrieval strategies, and privacy controls. NOT for RAG systems (use building-rag-systems).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ml-ai-eng",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

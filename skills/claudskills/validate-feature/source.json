@@ -1,0 +1,18 @@
+{
+  "name": "validate-feature",
+  "slug": "validate-feature",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/validate-feature/",
+  "download_url": "https://claudskills.com/skills/validate-feature/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Validate a feature implementation: build, tests, compliance, quality",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

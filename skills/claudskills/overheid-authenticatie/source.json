@@ -1,0 +1,18 @@
+{
+  "name": "overheid-authenticatie",
+  "slug": "overheid-authenticatie",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/overheid-authenticatie/",
+  "download_url": "https://claudskills.com/skills/overheid-authenticatie/SKILL.md",
+  "external_source_url": "",
+  "license": "EUPL-1.2",
+  "description": "Helpt bij het implementeren van authenticatie en autorisatie voor overheidsdiensten met DigiD, eHerkenning, eIDAS en het Afsprakenstelsel Elektronische Toegangsdiensten. Biedt richtlijnen voor SAML, OpenID Connect, betrouwbaarheidsniveaus en BSN-verwerking. Gebruik deze skill wanneer de gebruiker vraagt over 'DigiD', 'eHerkenning', 'eIDAS', 'inloggen overheid', 'authenticatie overheid', 'government authentication', 'BSN koppeling', 'betrouwbaarheidsniveau', 'LOA', 'level of assurance', 'SAML overheid', 'OpenID Connect overheid', 'OIDC overheid', 'Tvs', 'Toegangsverleningservice', 'routeringsvoorziening', 'DigiD Machtigen', 'eHerkenning Machtigen', 'machtiging', 'ketenmachtiging', 'DigiD app', 'DigiD hoog', 'substantieel', 'hoog betrouwbaarheidsniveau', 'Logius', 'GDI', 'Generieke Digitale Infrastructuur', 'SAML artifact', 'SAML metadata', 'BSN ophalen', 'pseudoniem', 'sectoraal nummer', of wanneer de gebruiker DigiD, eHerkenning of overheidsauthenticatie wil integreren in een applicatie.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

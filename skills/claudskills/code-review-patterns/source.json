@@ -1,0 +1,18 @@
+{
+  "name": "code-review-patterns",
+  "slug": "code-review-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-review-patterns/",
+  "download_url": "https://claudskills.com/skills/code-review-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Multi-dimensional code assessment across security, quality, performance, and maintainability with confidence-gated reporting (>=80%) and Router Contract generation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

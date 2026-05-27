@@ -1,0 +1,18 @@
+{
+  "name": "dependency-audit-assistant",
+  "slug": "dependency-audit-assistant",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dependency-audit-assistant/",
+  "download_url": "https://claudskills.com/skills/dependency-audit-assistant/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reviews package dependencies for security vulnerabilities, outdated versions, and license compliance. Use when user asks about dependencies, security audits, or before releases.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

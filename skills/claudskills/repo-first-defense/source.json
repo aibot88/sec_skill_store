@@ -1,0 +1,18 @@
+{
+  "name": "repo-first-defense",
+  "slug": "repo-first-defense",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/repo-first-defense/",
+  "download_url": "https://claudskills.com/skills/repo-first-defense/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Auditoría defensiva para repositorios AI-native. Usar SIEMPRE que el usuario quiera revisar un repo antes de lanzar, mergear, actualizar dependencias, migrar package manager, configurar un agente IA, MCP, Claude/Cursor/Codex/OpenClaw, o cuando mencione supply chain, prompt injection, secretos, GitHub Actions, npm/pnpm, paquetes maliciosos, scripts peligrosos, o riesgos de seguridad en repos con IA. Activar también si el usuario dice \"revisa el repo\", \"está seguro esto\", \"antes de producción\", \"audita el PR\" o cualquier variación.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

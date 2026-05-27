@@ -1,0 +1,18 @@
+{
+  "name": "gitleaks-git-secret-scanner",
+  "slug": "gitleaks-git-secret-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gitleaks-git-secret-scanner/",
+  "download_url": "https://claudskills.com/skills/gitleaks-git-secret-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Gitleaks is an open-source SAST tool for detecting hardcoded secrets like passwords, API keys, and tokens in Git repositories, files, and directories. With 24,000+ GitHub stars and 20 million Docker downloads, it is the most widely adopted open-source secret scanner.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

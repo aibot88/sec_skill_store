@@ -1,0 +1,17 @@
+{
+  "name": "domain-trust-check",
+  "slug": "domain-trust-check-3n8kbc",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/domain-trust-check-3n8kbc",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/jamesouttake/domain-trust-check/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/jamesouttake/domain-trust-check/SKILL.md",
+  "license": "",
+  "description": "Check any URL for phishing, malware, brand abuse, and scams before visiting. Powered by the Outtake Trust API.",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=1"
+  },
+  "collected_at": "2026-05-27T03:44:41+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "clean-architecture-review",
+  "slug": "clean-architecture-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clean-architecture-review/",
+  "download_url": "https://claudskills.com/skills/clean-architecture-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate Clean Architecture implementation in iOS. Checks layer separation (Presentation/Domain/Data), MVVM patterns, dependency injection with Swinject, and UseCase/Repository patterns. Use when reviewing architecture, checking layer boundaries, or validating DI.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "product-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agentforce-pii-redaction",
+  "slug": "agentforce-pii-redaction",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentforce-pii-redaction/",
+  "download_url": "https://claudskills.com/skills/agentforce-pii-redaction/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Redact PII before it reaches Agentforce prompts, models, and logs. Trigger keywords: agentforce pii, pii redaction, data masking llm, einstein trust layer, prompt pii filter, audit pii leakage. Does NOT cover: Shield Platform Encryption at-rest (separate skill), GDPR data subject requests, or classic field-level security policy.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:39+00:00"
+}

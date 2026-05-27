@@ -1,0 +1,18 @@
+{
+  "name": "draft-setup-collab",
+  "slug": "draft-setup-collab",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/draft-setup-collab/",
+  "download_url": "https://claudskills.com/skills/draft-setup-collab/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Collaboration configuration for Draft. Sets up gh CLI auth, configures the shared GitHub repo, writes config files, and seeds the shared repo on first use. Invoked from /draft:setup Q5.5 or run standalone at any time.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "backend-implementation-patterns",
+  "slug": "backend-implementation-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backend-implementation-patterns/",
+  "download_url": "https://claudskills.com/skills/backend-implementation-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Production-ready backend API implementation patterns including REST, GraphQL, authentication, error handling, and data validation",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

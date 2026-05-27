@@ -1,0 +1,19 @@
+{
+  "name": "llm-sast-scanner",
+  "slug": "sunweb3sec-llm-sast-scanner-llm-sast-scanner",
+  "source": "github",
+  "source_url": "https://github.com/SunWeb3Sec/llm-sast-scanner/blob/a0a539df6e1f3e9f36bd556caa41567274d3afb7/llm-sast-scanner/SKILL.md",
+  "download_url": "https://github.com/SunWeb3Sec/llm-sast-scanner/blob/a0a539df6e1f3e9f36bd556caa41567274d3afb7/llm-sast-scanner/SKILL.md",
+  "external_source_url": "https://github.com/SunWeb3Sec/llm-sast-scanner/blob/a0a539df6e1f3e9f36bd556caa41567274d3afb7/llm-sast-scanner/SKILL.md",
+  "license": "",
+  "description": "A SAST skill that gives AI coding agents structured vulnerability detection across 34 vulnerability classes.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "SunWeb3Sec/llm-sast-scanner",
+    "path": "llm-sast-scanner/SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

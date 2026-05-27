@@ -1,0 +1,18 @@
+{
+  "name": "misardefender",
+  "slug": "misardefender",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/misardefender/",
+  "download_url": "https://claudskills.com/skills/misardefender/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage and interact with MisarDefender — the local macOS security daemon. Use when: checking security daemon status, viewing security events, starting/stopping defender, scanning for threats, checking file integrity, reviewing network activity logs. Triggers: 'defender', 'misardefender', 'security daemon', 'check threats', 'file integrity', 'security events', 'defender status'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

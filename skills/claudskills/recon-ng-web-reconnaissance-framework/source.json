@@ -1,0 +1,18 @@
+{
+  "name": "recon-ng-web-reconnaissance-framework",
+  "slug": "recon-ng-web-reconnaissance-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/recon-ng-web-reconnaissance-framework/",
+  "download_url": "https://claudskills.com/skills/recon-ng-web-reconnaissance-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Recon-ng is a full-featured modular reconnaissance framework written in Python, designed to conduct web-based open source intelligence (OSINT) gathering quickly and thoroughly. Its Metasploit-like interface and extensible module system make it the standard tool for structured OSINT workflows.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

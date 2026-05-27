@@ -1,0 +1,18 @@
+{
+  "name": "load-production-context",
+  "slug": "load-production-context",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/load-production-context/",
+  "download_url": "https://claudskills.com/skills/load-production-context/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Carica nel contesto corrente la Knowledge Base di produzione cinematografica (MovieMagic Scheduling + MovieMagic Budgeting + Final Draft + produzione italiana compliance + set operations + competitor landscape). Usata dall'orchestrator prima di task su moduli produzione (lib/schedule, lib/odg, lib/budget, lib/screenplay, lib/schedule/compliance) e prima di ogni sessione parlamento. Garantisce che ogni decisione architetturale sia production-aware e tracciabile a pattern MMS/MMB/FD/CCNL concreti.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "storytelling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

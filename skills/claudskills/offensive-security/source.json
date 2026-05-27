@@ -1,0 +1,18 @@
+{
+  "name": "Offensive Security Skill",
+  "slug": "offensive-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/offensive-security/",
+  "download_url": "https://claudskills.com/skills/offensive-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Offensive security tools and techniques integration",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

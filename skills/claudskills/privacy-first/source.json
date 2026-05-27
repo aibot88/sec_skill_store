@@ -1,0 +1,18 @@
+{
+  "name": "privacy-first",
+  "slug": "privacy-first",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/privacy-first/",
+  "download_url": "https://claudskills.com/skills/privacy-first/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Prevent email addresses and personal data from entering the codebase. Use when user asks to \"prevent emails\", \"remove personal data\", \"privacy check\", \"no email\", or when writing/ editing any code, config, or documentation files.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

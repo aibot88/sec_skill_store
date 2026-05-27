@@ -1,0 +1,18 @@
+{
+  "name": "util-preparek8senv",
+  "slug": "util-preparek8senv",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/util-preparek8senv/",
+  "download_url": "https://claudskills.com/skills/util-preparek8senv/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Prepare Kubernetes environment infrastructure by generating K8s manifests for all 3rd party supporting applications for a single target environment defined in CLAUDE.md. Creates/updates ENVIRONMENT.md with per-environment configs and credentials, then generates persistent StatefulSet-based K8s manifests for each 3rd party application (databases, message queues, caches, SSO, API gateways, etc.) directly in the `environment/` folder. Since the `environment/` folder is gitignored, each machine maintains its own independent copy. Ensures all services are remotely accessible using tools from DEVTOOL.md. Trigger on keywords: \"prepare k8s environment\", \"prepare kubernetes\", \"setup k8s infra\", \"generate k8s manifests for 3rd party\", \"prepare environment\", \"setup infrastructure\", \"prepare k8s\", \"init k8s environment\", \"scaffold k8s environment\". Accepts an optional environment argument to select which Kubernetes environment to generate for.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

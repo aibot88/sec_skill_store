@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "yaojingang-yao-doctor-skill-.",
+  "source": "github",
+  "source_url": "https://github.com/yaojingang/yao-doctor-skill/blob/0140af750b417bc5e1a0ae746fca0f795cf4f003/SKILL.md",
+  "download_url": "https://github.com/yaojingang/yao-doctor-skill/blob/0140af750b417bc5e1a0ae746fca0f795cf4f003/SKILL.md",
+  "external_source_url": "https://github.com/yaojingang/yao-doctor-skill/blob/0140af750b417bc5e1a0ae746fca0f795cf4f003/SKILL.md",
+  "license": "",
+  "description": "Security-first audit skill for local skill libraries and AI workbench surfaces",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "yaojingang/yao-doctor-skill",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

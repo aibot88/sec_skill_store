@@ -1,0 +1,18 @@
+{
+  "name": "create-auth-skill",
+  "slug": "create-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-auth/",
+  "download_url": "https://claudskills.com/skills/create-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scaffold and implement authentication in TypeScript/JavaScript apps using Better Auth. Detect frameworks, configure database adapters, set up route handlers, add OAuth providers, and create auth UI pages. Use when users want to add login, sign-up, or authentication to a new or existing project with Better Auth.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

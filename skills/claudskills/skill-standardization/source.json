@@ -1,0 +1,18 @@
+{
+  "name": "skill-standardization",
+  "slug": "skill-standardization",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-standardization/",
+  "download_url": "https://claudskills.com/skills/skill-standardization/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Standardize and validate SKILL.md files against the Agent Skills specification (agentskills.io). Use when creating new skills, auditing existing skills for spec compliance, converting legacy skill formats to standard structure, or improving descriptions for reliable triggering. Triggers on: \"validate skill\", \"create SKILL.md\", \"standardize skill format\", \"check skill spec\", \"skill frontmatter\", \"improve skill description\", \"add evals to skill\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

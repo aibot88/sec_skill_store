@@ -1,0 +1,18 @@
+{
+  "name": "code-warden",
+  "slug": "code-warden",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-warden/",
+  "download_url": "https://claudskills.com/skills/code-warden/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "AI development governance protocol for Codex, Claude Code, and Cowork. Enforces modular architecture, adversarial feedback, patch-first editing, blast radius safety, zero-trust secrets, and context drift prevention. Use at the start of any coding session, when generating or modifying modules, when refactoring existing code, when making architectural changes, or when any of the following are said: \"load protocol\", \"apply dev rules\", \"check the rules\", \"start a new module\", \"review this before we write\", \"are we following the rules\", \"new session\", \"begin coding\", \"load code-warden\", \"governance check\", or any request to begin writing code.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

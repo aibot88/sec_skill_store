@@ -1,0 +1,18 @@
+{
+  "name": "check-prior-work",
+  "slug": "check-prior-work",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/check-prior-work/",
+  "download_url": "https://claudskills.com/skills/check-prior-work/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use BEFORE starting any non-trivial coding task in an existing project — feature work, refactors, bugfixes, or \"look at this codebase\" requests. Triggers when the user asks to add/change/fix something inside a repo (e.g. \"add X to the dashboard\", \"refactor the auth flow\", \"fix the bug in cost calculation\", \"why is this slow\"). Surfaces recent prior sessions in the same project so the agent isn't redoing work or contradicting decisions made in past sessions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

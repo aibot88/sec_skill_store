@@ -1,0 +1,19 @@
+{
+  "name": "rules",
+  "slug": "sswym-oh-my-agent-skills-rules",
+  "source": "github",
+  "source_url": "https://github.com/sswym/oh-my-agent/blob/1d65de83b496761992f5664b0df63f526c45f746/skills/rules/SKILL.md",
+  "download_url": "https://github.com/sswym/oh-my-agent/blob/1d65de83b496761992f5664b0df63f526c45f746/skills/rules/SKILL.md",
+  "external_source_url": "https://github.com/sswym/oh-my-agent/blob/1d65de83b496761992f5664b0df63f526c45f746/skills/rules/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "sswym/oh-my-agent",
+    "path": "skills/rules/SKILL.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

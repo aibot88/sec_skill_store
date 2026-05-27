@@ -1,0 +1,18 @@
+{
+  "name": "anti-slop-writing",
+  "slug": "english",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/english/",
+  "download_url": "https://claudskills.com/skills/english/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Write text that avoids all known AI writing patterns and passes human detection. Use when writing articles, essays, blog posts, social media copy, or any content that must read as authentically human. Triggers on requests to write naturally, avoid AI slop, avoid AI detection, humanize writing, write like a human, or make text sound authentic.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "writing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:49+00:00"
+}

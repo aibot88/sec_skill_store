@@ -1,0 +1,18 @@
+{
+  "name": "creating-kubernetes-deployments",
+  "slug": "creating-kubernetes-deployments",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/creating-kubernetes-deployments/",
+  "download_url": "https://claudskills.com/skills/creating-kubernetes-deployments/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy applications to Kubernetes with production-ready manifests. Supports Deployments, Services, Ingress, HPA, ConfigMaps, Secrets, StatefulSets, and NetworkPolicies. Includes health checks, resource limits, auto-scaling, and TLS termination. Use when working with creating kubernetes deployments. Trigger with 'creating', 'kubernetes', 'deployments'.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:31+00:00"
+}

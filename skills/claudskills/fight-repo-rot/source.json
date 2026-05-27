@@ -1,0 +1,18 @@
+{
+  "name": "fight-repo-rot",
+  "slug": "fight-repo-rot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fight-repo-rot/",
+  "download_url": "https://claudskills.com/skills/fight-repo-rot/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Finds what's rotting in a repo and returns a prioritized diagnosis — dead code first, then god files / hotspots / hardcoded paths / stale TODOs / lopsided import graphs. Dead-code candidates are tagged HIGH / MEDIUM / LOW confidence so the operator can delete with calibrated risk. Pure diagnosis — never edits code, never plans fixes, never runs verification. Hand off to refactor-verify for deletions and restructures, to project-conventions for config issues, to audit-security for CVE dependency rot. Language-agnostic.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "lokalise-data-handling",
+  "slug": "lokalise-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lokalise-data-handling/",
+  "download_url": "https://claudskills.com/skills/lokalise-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Lokalise translation data handling, PII management, and compliance patterns. Use when handling sensitive translation data, implementing data redaction, or ensuring compliance with privacy regulations for Lokalise integrations. Trigger with phrases like \"lokalise data\", \"lokalise PII\", \"lokalise GDPR\", \"lokalise data retention\", \"lokalise privacy\", \"lokalise compliance\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "translation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "posthog-install-auth",
+  "slug": "posthog-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/posthog-install-auth/",
+  "download_url": "https://claudskills.com/skills/posthog-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure PostHog SDKs with authentication. Use when setting up posthog-js (browser), posthog-node (server), or configuring API keys for a new PostHog integration. Trigger: \"install posthog\", \"setup posthog\", \"posthog auth\", \"configure posthog API key\", \"posthog init\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:57+00:00"
+}

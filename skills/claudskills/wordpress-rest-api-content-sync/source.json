@@ -1,0 +1,18 @@
+{
+  "name": "wordpress-rest-api-content-sync",
+  "slug": "wordpress-rest-api-content-sync",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/wordpress-rest-api-content-sync/",
+  "download_url": "https://claudskills.com/skills/wordpress-rest-api-content-sync/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Synchronizes content between WordPress multisite installations using the WP REST API /wp/v2/posts endpoint with OAuth 1.0a authentication. Handles media sideloading, shortcode transformation, and conflict resolution.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

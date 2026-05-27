@@ -1,0 +1,18 @@
+{
+  "name": "Core Layer Patterns",
+  "slug": "core-layer-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/core-layer-patterns/",
+  "download_url": "https://claudskills.com/skills/core-layer-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Base classes, error handling, utilities, configuration, and dependency injection patterns for Flutter Clean Architecture",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "mobile",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:28+00:00"
+}

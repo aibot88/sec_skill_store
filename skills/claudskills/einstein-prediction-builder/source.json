@@ -1,0 +1,18 @@
+{
+  "name": "einstein-prediction-builder",
+  "slug": "einstein-prediction-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/einstein-prediction-builder/",
+  "download_url": "https://claudskills.com/skills/einstein-prediction-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Einstein Prediction Builder for creating custom binary classification predictions on Salesforce objects: field selection, training data requirements, model activation, score embedding, and monitoring. NOT for Einstein Discovery (Tableau CRM Analytics) or Agentforce agent creation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

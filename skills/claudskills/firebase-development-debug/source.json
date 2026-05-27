@@ -1,0 +1,18 @@
+{
+  "name": "firebase-development-debug",
+  "slug": "firebase-development-debug",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-development-debug/",
+  "download_url": "https://claudskills.com/skills/firebase-development-debug/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when troubleshooting Firebase emulator issues, rules violations, function errors, auth problems, or deployment failures. Triggers on \"error\", \"not working\", \"debug\", \"troubleshoot\", \"failing\", \"broken\", \"permission denied\", \"emulator issue\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

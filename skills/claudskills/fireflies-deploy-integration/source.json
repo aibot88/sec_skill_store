@@ -1,0 +1,18 @@
+{
+  "name": "fireflies-deploy-integration",
+  "slug": "fireflies-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fireflies-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/fireflies-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Fireflies.ai webhook receivers and GraphQL clients to Vercel, Docker, and Cloud Run. Use when deploying Fireflies.ai-powered applications to production, configuring platform-specific secrets, or hosting webhook endpoints. Trigger with phrases like \"deploy fireflies\", \"fireflies Vercel\", \"fireflies production deploy\", \"fireflies Cloud Run\", \"fireflies Docker\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

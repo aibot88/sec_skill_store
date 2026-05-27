@@ -1,0 +1,18 @@
+{
+  "name": "azure-landing-zone-architect",
+  "slug": "azure-landing-zone-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-landing-zone-architect/",
+  "download_url": "https://claudskills.com/skills/azure-landing-zone-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill for Azure landing-zone design, management-group and subscription hierarchy reviews, platform-versus-application boundary decisions, or multi-subscription Azure platform architecture critiques that span governance, identity, networking, security, and operations.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

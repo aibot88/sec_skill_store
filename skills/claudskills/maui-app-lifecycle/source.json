@@ -1,0 +1,18 @@
+{
+  "name": "maui-app-lifecycle",
+  "slug": "maui-app-lifecycle",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/maui-app-lifecycle/",
+  "download_url": "https://claudskills.com/skills/maui-app-lifecycle/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": ".NET MAUI app lifecycle guidance — the four app states, cross-platform Window lifecycle events (Created, Activated, Deactivated, Stopped, Resumed, Destroying), platform-specific lifecycle mapping, backgrounding and resume behavior, and state-preservation patterns. USE FOR: \"app lifecycle\", \"window lifecycle events\", \"save state on background\", \"resume app\", \"OnStopped\", \"OnResumed\", \"backgrounding\", \"deactivated event\", \"ConfigureLifecycleEvents\", \"platform lifecycle hooks\". DO NOT USE FOR: navigation events (use maui-shell-navigation), dependency injection setup (use maui-dependency-injection), platform API invocation (use conditional compilation and partial classes).",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

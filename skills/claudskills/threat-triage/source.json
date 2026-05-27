@@ -1,0 +1,18 @@
+{
+  "name": "threat-triage",
+  "slug": "threat-triage",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/threat-triage/",
+  "download_url": "https://claudskills.com/skills/threat-triage/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze cybersecurity threat intelligence, triage security alerts, classify IOCs, map attacks to MITRE ATT&CK kill chain, reduce false positives, and attribute threat actors. Covers SIEM tuning, threat feed quality, detection coverage gaps, Diamond Model analysis, and strategic threat assessments for SOC and incident response teams.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

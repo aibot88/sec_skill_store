@@ -1,0 +1,18 @@
+{
+  "name": "web2-vuln-classes",
+  "slug": "web2-vuln-classes",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/web2-vuln-classes/",
+  "download_url": "https://claudskills.com/skills/web2-vuln-classes/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Complete reference for 18 web2 bug classes with root causes, detection patterns, bypass tables, exploit techniques, and real paid examples. Covers IDOR, auth bypass, XSS, SSRF (11 IP bypass techniques), SQLi, business logic, race conditions, OAuth/OIDC, file upload (10 bypass techniques), GraphQL, LLM/AI (ASI01-ASI10 agentic framework), API misconfig, ATO taxonomy, SSTI, subdomain takeover, cloud/infra misconfigs, HTTP smuggling, cache poisoning. Use when hunting a specific vuln class or studying what makes bugs pay.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

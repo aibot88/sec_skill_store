@@ -1,0 +1,18 @@
+{
+  "name": "lookalike-audience-upload-compliance-review",
+  "slug": "lookalike-audience-upload-compliance-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lookalike-audience-upload-compliance-review/",
+  "download_url": "https://claudskills.com/skills/lookalike-audience-upload-compliance-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing custom-audience and lookalike-audience upload specifications for hashing adequacy, PII field scope, consent-basis validity, and platform data-sharing restrictions before the upload is submitted to Meta, Google, LinkedIn, or TikTok. Trigger when a user provides an audience upload field-mapping specification (CSV schema or platform upload template), declared hashing method, consent-basis documentation, or originating list segment metadata — or when they ask whether their customer list upload or lookalike seed list is compliant with GDPR, CCPA/CPRA, or platform terms before uploading.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "social-media",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

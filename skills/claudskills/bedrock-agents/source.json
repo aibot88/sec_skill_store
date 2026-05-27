@@ -1,0 +1,18 @@
+{
+  "name": "bedrock-agents",
+  "slug": "bedrock-agents",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bedrock-agents/",
+  "download_url": "https://claudskills.com/skills/bedrock-agents/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Amazon Bedrock Agents for building autonomous AI agents with foundation model orchestration, action groups, knowledge bases, and session management. Use when creating AI agents, orchestrating multi-step workflows, integrating tools with LLMs, building conversational agents, implementing RAG patterns, managing agent sessions, deploying production agents, or connecting knowledge bases to agents.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:04+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "slug": "lucastigrereal-dev-openclaw_aurora-docs",
+  "source": "github",
+  "source_url": "https://github.com/lucastigrereal-dev/openclaw_aurora/blob/b37265a7f9055d314b3efc6504d5072611524022/docs/GUARDRAIL_SKILL.md",
+  "download_url": "https://github.com/lucastigrereal-dev/openclaw_aurora/blob/b37265a7f9055d314b3efc6504d5072611524022/docs/GUARDRAIL_SKILL.md",
+  "external_source_url": "https://github.com/lucastigrereal-dev/openclaw_aurora/blob/b37265a7f9055d314b3efc6504d5072611524022/docs/GUARDRAIL_SKILL.md",
+  "license": "",
+  "description": " 🤖 OpenClaw Aurora - Executor Agêntico com IA + Bot Telegram. 20 skills, 18 workflows, Claude API integration",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "lucastigrereal-dev/openclaw_aurora",
+    "path": "docs/GUARDRAIL_SKILL.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

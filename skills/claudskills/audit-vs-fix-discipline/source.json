@@ -1,0 +1,18 @@
+{
+  "name": "audit-vs-fix-discipline",
+  "slug": "audit-vs-fix-discipline",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-vs-fix-discipline/",
+  "download_url": "https://claudskills.com/skills/audit-vs-fix-discipline/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user asks to audit, review, investigate, check, scan, \"look at\", or \"find issues in\" code — anything that sounds like a diagnostic request without an explicit fix authorization. Enforces findings-only output with severity tiering, forbids in-place fixes during audit, and blocks the dismissal-as-\"pre-existing\" rationalisation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

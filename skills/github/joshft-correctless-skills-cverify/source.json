@@ -1,0 +1,19 @@
+{
+  "name": "cverify",
+  "slug": "joshft-correctless-skills-cverify",
+  "source": "github",
+  "source_url": "https://github.com/joshft/correctless/blob/d88609ff573d86dabb03f4875e6d605c381bb829/skills/cverify/SKILL.md",
+  "download_url": "https://github.com/joshft/correctless/blob/d88609ff573d86dabb03f4875e6d605c381bb829/skills/cverify/SKILL.md",
+  "external_source_url": "https://github.com/joshft/correctless/blob/d88609ff573d86dabb03f4875e6d605c381bb829/skills/cverify/SKILL.md",
+  "license": "",
+  "description": "The agent that writes the code never reviews it. Spec-driven TDD with agent separation, adversarial QA, and dynamic rigor for Claude Code.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "joshft/correctless",
+    "path": "skills/cverify/SKILL.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

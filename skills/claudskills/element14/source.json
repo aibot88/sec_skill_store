@@ -1,0 +1,18 @@
+{
+  "name": "element14",
+  "slug": "element14",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/element14/",
+  "download_url": "https://claudskills.com/skills/element14/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Search Newark, Farnell, and element14 for electronic components — find parts by MPN or distributor part number, check pricing/stock, download datasheets, analyze specifications. One unified API covers all three storefronts (Newark for US, Farnell for UK/EU, element14 for APAC). Free API key, simple query-parameter auth, no OAuth. Datasheets download directly from farnell.com CDN with no bot protection. Sync and maintain a local datasheets directory for a KiCad project, or use batch MPN-list seeding (`--mpn-list`) for bulk workflows without a project. Use this skill when the user mentions Newark, Farnell, element14, needs parts from a non-US distributor, wants to compare pricing across regions, or needs datasheets from a source that doesn't require complex API auth. For package cross-reference tables and BOM workflow, see the `bom` skill.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

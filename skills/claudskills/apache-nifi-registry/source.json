@@ -1,0 +1,18 @@
+{
+  "name": "apache-nifi-registry",
+  "slug": "apache-nifi-registry",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/apache-nifi-registry/",
+  "download_url": "https://claudskills.com/skills/apache-nifi-registry/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guidance for Apache NiFi Registry including flow versioning, buckets, Git integration, security, and registry client configuration. Use this when working with flow version control and registry management.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:49+00:00"
+}

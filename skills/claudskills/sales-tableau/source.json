@@ -1,0 +1,18 @@
+{
+  "name": "sales-tableau",
+  "slug": "sales-tableau",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-tableau/",
+  "download_url": "https://claudskills.com/skills/sales-tableau/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Tableau platform help — Tableau Desktop, Tableau Cloud, Tableau Server, Tableau Prep, Tableau Pulse, Embedding API, REST API (v3.28, PAT/JWT auth, 300+ endpoints), MCP server, and Tableau+. Use when dashboards are slow with large datasets, LOD expressions or calculated fields aren't working, licensing costs are confusing or spiraling, Tableau won't connect to Salesforce or your data warehouse, embedded analytics aren't rendering, Tableau Prep flows keep failing, or you need help choosing Creator vs Explorer vs Viewer licenses. Do NOT use for general CRM config (use /sales-salesforce) or sales forecasting methodology (use /sales-forecast).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-enablement",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:09+00:00"
+}

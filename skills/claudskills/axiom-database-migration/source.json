@@ -1,0 +1,18 @@
+{
+  "name": "axiom-database-migration",
+  "slug": "axiom-database-migration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/axiom-database-migration/",
+  "download_url": "https://claudskills.com/skills/axiom-database-migration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when adding/modifying database columns, encountering \"FOREIGN KEY constraint failed\", \"no such column\", \"cannot add NOT NULL column\" errors, or creating schema migrations for SQLite/GRDB/SQLiteData - prevents data loss with safe migration patterns and testing workflows for iOS/macOS apps",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:00+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-dual-territory",
+  "slug": "agentprivacy-dual-territory",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-dual-territory/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-dual-territory/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Dual-territory ceremony architecture specification. Activates when discussing Swordsman/Mage separation at infrastructure level, three territories (Spellweb, Agentprivacy, Bgin), ceremony channels, or territory sovereignty.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

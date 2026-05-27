@@ -1,0 +1,18 @@
+{
+  "name": "owasp-mobile-security-checker",
+  "slug": "owasp-mobile-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/owasp-mobile-security/",
+  "download_url": "https://claudskills.com/skills/owasp-mobile-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when performing security audits, vulnerability assessments, or compliance checks on Flutter or mobile applications. Covers OWASP Mobile Top 10 (2024) — hardcoded secrets (M1), insecure storage (M9), weak cryptography (M10), network issues (M5), and 6 more categories with automated scanners and remediation guidance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

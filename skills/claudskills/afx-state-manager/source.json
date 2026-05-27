@@ -1,0 +1,18 @@
+{
+  "name": "state-manager",
+  "slug": "afx-state-manager",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/afx-state-manager/",
+  "download_url": "https://claudskills.com/skills/afx-state-manager/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Three-file state management for session continuity. Maintains STATE.md, DECISIONS.md, and PROGRESS.md as human-readable session context alongside the SQLite ticket database. Use this skill when updating workflow state, logging decisions, tracking session progress, or resuming work after a context break.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

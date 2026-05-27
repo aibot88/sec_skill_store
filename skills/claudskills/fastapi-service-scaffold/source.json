@@ -1,0 +1,18 @@
+{
+  "name": "fastapi-service-scaffold",
+  "slug": "fastapi-service-scaffold",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fastapi-service-scaffold/",
+  "download_url": "https://claudskills.com/skills/fastapi-service-scaffold/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when scaffolding or production-hardening a FastAPI service shell after backend architecture is approved or deferred. Produces the settings/logging/health/error-handling/lifespan/DI/container baseline the other FastAPI skills extend. Not for auth, observability, tasks, or performance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

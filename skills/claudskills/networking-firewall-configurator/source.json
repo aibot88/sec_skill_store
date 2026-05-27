@@ -1,0 +1,18 @@
+{
+  "name": "networking-firewall-configurator",
+  "slug": "networking-firewall-configurator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/networking-firewall-configurator/",
+  "download_url": "https://claudskills.com/skills/networking-firewall-configurator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configuration de firewalls et règles de sécurité réseau pour iptables, pfSense, Azure NSG et AWS Security Groups. Se déclenche avec \"firewall\", \"iptables\", \"pfSense\", \"NSG\", \"Security Group\", \"règles firewall\", \"ports",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

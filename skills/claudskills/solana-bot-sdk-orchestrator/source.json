@@ -1,0 +1,18 @@
+{
+  "name": "solana-bot-sdk-orchestrator",
+  "slug": "solana-bot-sdk-orchestrator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/solana-bot-sdk-orchestrator/",
+  "download_url": "https://claudskills.com/skills/solana-bot-sdk-orchestrator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this skill when building Solana trading bots or automation that combines solana-streamer, sol-parser-sdk, sol-trade-sdk, and sol-safekey, including multi-language SDK variants for Rust, Node.js/TypeScript, Python, and Go. It helps agents choose the right SDK boundary, wire event streams into trades, handle wallet security, and produce runnable bot code for Codex, Claude Code, Cursor, or similar coding agents.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

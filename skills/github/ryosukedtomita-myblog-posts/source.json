@@ -1,0 +1,19 @@
+{
+  "name": "posts",
+  "slug": "ryosukedtomita-myblog-posts",
+  "source": "github",
+  "source_url": "https://github.com/RyosukeDTomita/myblog/blob/3a9dfa9e0799005a702821304ba213a0b29095c3/posts/my_skill.md",
+  "download_url": "https://github.com/RyosukeDTomita/myblog/blob/3a9dfa9e0799005a702821304ba213a0b29095c3/posts/my_skill.md",
+  "external_source_url": "https://github.com/RyosukeDTomita/myblog/blob/3a9dfa9e0799005a702821304ba213a0b29095c3/posts/my_skill.md",
+  "license": "",
+  "description": "My blog site created by Haskell library Hakyll.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "RyosukeDTomita/myblog",
+    "path": "posts/my_skill.md",
+    "query": "filename:SKILL.md \"OWASP\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

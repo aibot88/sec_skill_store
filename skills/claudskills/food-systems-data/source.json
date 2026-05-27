@@ -1,0 +1,18 @@
+{
+  "name": "food-systems-data",
+  "slug": "food-systems-data",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/food-systems-data/",
+  "download_url": "https://claudskills.com/skills/food-systems-data/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this Skill to analyze food systems data from FAOSTAT: production/trade/food balance sheets, food security indicators, dietary diversity, and trade flow Sankey diagrams.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

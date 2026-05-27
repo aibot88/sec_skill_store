@@ -1,0 +1,18 @@
+{
+  "name": "skill-guide",
+  "slug": "skill-guide",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-guide/",
+  "download_url": "https://claudskills.com/skills/skill-guide/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guidelines for authoring SKILL.md files with progressive disclosure. Apply when editing files under `.claude/skills/` or creating new skills. Use for pattern extraction, skill assimilation, simplification, bullet format. Keywords: skill creation, SKILL.md, progressive disclosure, reference files, pattern extraction, skill assimilation, bullet format, guideline skill.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

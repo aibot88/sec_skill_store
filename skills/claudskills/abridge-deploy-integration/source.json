@@ -1,0 +1,18 @@
+{
+  "name": "abridge-deploy-integration",
+  "slug": "abridge-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/abridge-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/abridge-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Abridge clinical AI integration to HIPAA-compliant cloud infrastructure. Use when deploying to GCP Cloud Run, AWS ECS, or Azure Container Apps with healthcare-grade secrets management and compliance controls. Trigger: \"deploy abridge\", \"abridge production deploy\", \"abridge Cloud Run\", \"abridge AWS deploy\", \"abridge HIPAA infrastructure\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

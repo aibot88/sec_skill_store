@@ -1,0 +1,18 @@
+{
+  "name": "finding-security-misconfigurations",
+  "slug": "security-misconfiguration-finder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-misconfiguration-finder/",
+  "download_url": "https://claudskills.com/skills/security-misconfiguration-finder/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill enables Claude to identify potential security misconfigurations in various systems and configurations. It leverages the security-misconfiguration-finder plugin to analyze infrastructure-as-code, application configurations, and system settings, pinpointing common vulnerabilities and compliance issues. Use this skill when the user asks to \"find security misconfigurations\", \"check for security vulnerabilities in my configuration\", \"audit security settings\", or requests a security assessment of a specific system or file. This skill will assist in identifying and remediating potential security weaknesses.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

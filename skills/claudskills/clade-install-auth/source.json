@@ -1,0 +1,18 @@
+{
+  "name": "clade-install-auth",
+  "slug": "clade-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clade-install-auth/",
+  "download_url": "https://claudskills.com/skills/clade-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure the Anthropic SDK for Claude API access. Use when setting up Claude integration, configuring API keys, or initializing the Anthropic client in your project. Trigger with phrases like \"install anthropic\", \"setup claude api\", \"anthropic auth\", \"configure anthropic API key\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:16+00:00"
+}

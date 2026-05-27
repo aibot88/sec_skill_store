@@ -1,0 +1,18 @@
+{
+  "name": "ideogram-security-basics",
+  "slug": "ideogram-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ideogram-security-basics/",
+  "download_url": "https://claudskills.com/skills/ideogram-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Ideogram security best practices for API key management and access control. Use when securing API keys, implementing key rotation, or auditing Ideogram security configuration. Trigger with phrases like \"ideogram security\", \"ideogram secrets\", \"secure ideogram\", \"ideogram API key security\", \"ideogram key rotation\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:16+00:00"
+}

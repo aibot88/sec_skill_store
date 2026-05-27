@@ -1,0 +1,18 @@
+{
+  "name": "gcp-workspace-pivot",
+  "slug": "gcp-workspace-pivot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gcp-workspace-pivot/",
+  "download_url": "https://claudskills.com/skills/gcp-workspace-pivot/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "GCP 到 Google Workspace 的穿越攻击方法论。当已获取 GCP Service Account 或 Project 权限并发现目标组织使用 Google Workspace、需要从云平台穿越到企业邮件/文档/管理控制台、或发现 Domain-Wide Delegation 配置时使用。覆盖 Domain-Wide Delegation 滥用、OAuth 范围利用、Workspace API 数据窃取（Gmail/Drive/Calendar/Admin Directory）、以及 Workspace 持久化技术",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

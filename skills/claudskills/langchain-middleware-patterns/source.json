@@ -1,0 +1,18 @@
+{
+  "name": "langchain-middleware-patterns",
+  "slug": "langchain-middleware-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/langchain-middleware-patterns/",
+  "download_url": "https://claudskills.com/skills/langchain-middleware-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Build composable middleware for LangChain 1.0 chains and LangGraph 1.0 agents — PII redaction, caching, retry, token budgets, guardrails — with ORDERING rules that avoid cache-key leakage and double-counting. Use when adding cross-cutting behavior, hardening against prompt injection, enforcing per-tenant budgets, or debugging cache-poisoning incidents. Trigger with \"langchain middleware\", \"langgraph middleware\", \"PII redaction middleware\", \"cache middleware order\", \"langchain guardrails\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "performance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

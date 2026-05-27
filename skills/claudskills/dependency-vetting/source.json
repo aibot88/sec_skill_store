@@ -1,0 +1,18 @@
+{
+  "name": "dependency-vetting",
+  "slug": "dependency-vetting",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dependency-vetting/",
+  "download_url": "https://claudskills.com/skills/dependency-vetting/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Vet new package dependencies before installation. Triggers when adding packages via pip, npm, yarn, or similar package managers. Checks for typosquatting, known vulnerabilities, low adoption (potential supply chain risk), and package metadata anomalies.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

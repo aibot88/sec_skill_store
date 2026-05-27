@@ -1,0 +1,18 @@
+{
+  "name": "evaluating-threat-intelligence-platforms",
+  "slug": "evaluating-threat-intelligence-platforms",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/evaluating-threat-intelligence-platforms/",
+  "download_url": "https://claudskills.com/skills/evaluating-threat-intelligence-platforms/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Evaluates and selects Threat Intelligence Platform (TIP) products based on organizational requirements including",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

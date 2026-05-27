@@ -1,0 +1,18 @@
+{
+  "name": "contract-extractor",
+  "slug": "contract-extractor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/contract-extractor/",
+  "download_url": "https://claudskills.com/skills/contract-extractor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Extracts key terms from contracts, identifies risks, flags unusual provisions",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Config & Environment Conventions",
+  "slug": "config-env-conventions-amnadtaowsoam-cerebratechai-claude",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/config-env-conventions-amnadtaowsoam-cerebratechai-claude/",
+  "download_url": "https://claudskills.com/skills/config-env-conventions-amnadtaowsoam-cerebratechai-claude/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Conventions for service configuration and environment variables: naming, precedence, validation at startup, secrets handling, environment detection, and documentation patterns",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

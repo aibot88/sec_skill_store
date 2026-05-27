@@ -1,0 +1,18 @@
+{
+  "name": "mcp-server-builder",
+  "slug": "mcp-server-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mcp-server-builder/",
+  "download_url": "https://claudskills.com/skills/mcp-server-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT + Commons Clause",
+  "description": "Build production-ready MCP (Model Context Protocol) servers with tool definitions, resource providers, prompt templates, and transport configuration. Covers OpenAPI-to-MCP conversion, TypeScript and Python implementations, testing strategies, authentication, and deployment. Use when exposing APIs to AI agents, building tool servers, or creating MCP integrations.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "particle-swarm-sim",
+  "slug": "particle-swarm-sim",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/particle-swarm-sim/",
+  "download_url": "https://claudskills.com/skills/particle-swarm-sim/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generate 20,000+ particle swarm simulators in two modes: sandbox (complete Three.js host runtime with gesture controls, security validation, code injection pipeline) and sim (behavior function bodies that position/color particles via a sandboxed API). The AI writes ONLY a function body — the host handles rendering, input, and security. Triggers on particle swarm, swarm simulator, particle behavior, swarm sandbox, gesture particles, 20K particles, particle function body, swarm sim, particle playground.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "writing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

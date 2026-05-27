@@ -1,0 +1,18 @@
+{
+  "name": "instantly-data-handling",
+  "slug": "instantly-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/instantly-data-handling/",
+  "download_url": "https://claudskills.com/skills/instantly-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Instantly.ai lead data management, GDPR/CAN-SPAM compliance, and list operations. Use when handling lead imports, managing block lists, implementing unsubscribe flows, or ensuring compliance with email regulations. Trigger with phrases like \"instantly leads\", \"instantly data\", \"instantly GDPR\", \"instantly block list\", \"instantly lead management\", \"instantly unsubscribe\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

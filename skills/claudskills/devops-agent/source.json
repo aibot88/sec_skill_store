@@ -1,0 +1,18 @@
+{
+  "name": "devops-agent",
+  "slug": "devops-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/devops-agent/",
+  "download_url": "https://claudskills.com/skills/devops-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Your on-call DevOps assistant — one-click deploy, monitoring setup, scheduled backups, and fault diagnosis. Safety-first design with confirmation prompts, dry-run mode, snapshot rollback, and audit logging. (中文) 一键部署、监控搭建、定时备份、故障诊断，安全公约贯穿全局。",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

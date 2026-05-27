@@ -1,0 +1,18 @@
+{
+  "name": "alibabacloud-cfw-ips-event",
+  "slug": "alibabacloud-cfw-ips-event",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibabacloud-cfw-ips-event/",
+  "download_url": "https://claudskills.com/skills/alibabacloud-cfw-ips-event/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Query and analyze security events and alerts detected by Alibaba Cloud Firewall IPS (Intrusion Prevention System), helping quickly locate threats and provide remediation recommendations. Triggers when user mentions IPS alerts, intrusion detection, intrusion prevention, attack events, security alerts, threat detection, attack analysis, IDS/IPS, being attacked, any attacks, security incidents, security warnings, server under attack, machine alarms. Also triggers when user asks about \"any recent attacks\", \"which assets were attacked\", \"does this IP have attack behavior\", \"security alerts for a specific server/machine\", \"which IPs attacked a specific IP\", even without explicitly saying \"IPS\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

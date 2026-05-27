@@ -1,0 +1,18 @@
+{
+  "name": "implementing-syslog-centralization-with-rsyslog",
+  "slug": "implementing-syslog-centralization-with-rsyslog",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-syslog-centralization-with-rsyslog/",
+  "download_url": "https://claudskills.com/skills/implementing-syslog-centralization-with-rsyslog/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Configure rsyslog for centralized log collection with TLS encryption, custom templates, and log rotation. Generates",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

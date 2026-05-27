@@ -1,0 +1,18 @@
+{
+  "name": "pdf-decrypt",
+  "slug": "pdf-decrypt",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pdf-decrypt/",
+  "download_url": "https://claudskills.com/skills/pdf-decrypt/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "自动猜密码解 PDF（银行账单 / 投资报告 / 信用卡对账单等）。读 ~/.personal_env 的 PDF_ID_* 身份变量，按发行方密码规则生成候选并用 qpdf 试解。当用户提供加密 PDF 且未提供密码（\"读不了\" / \"解密一下\" / \"这个 PDF 加密了\"）时触发。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

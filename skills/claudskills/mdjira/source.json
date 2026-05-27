@@ -1,0 +1,18 @@
+{
+  "name": "mdjira",
+  "slug": "mdjira",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mdjira/",
+  "download_url": "https://claudskills.com/skills/mdjira/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Convert a markdown product/engineering doc into a structured Jira Cloud backlog (Epic → Story → Subtask) with priorities, story points, labels, descriptions, and acceptance criteria written to a senior agile contractor's standard. TRIGGER when the user references a markdown file and asks to create Jira tickets, epics, stories, a backlog, or \"convert / import / push / send / turn\" a markdown doc into Jira. REQUIRES the `mdjira` Python CLI installed (pip install mdjira) and Atlassian credentials in ~/.jira-email and ~/.jira-token. SKIP for unrelated tasks or when no markdown source is given.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:37+00:00"
+}

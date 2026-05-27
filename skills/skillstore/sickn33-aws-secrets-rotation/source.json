@@ -1,0 +1,18 @@
+{
+  "name": "aws-secrets-rotation",
+  "slug": "sickn33-aws-secrets-rotation",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/sickn33-aws-secrets-rotation",
+  "download_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/security/aws-secrets-rotation",
+  "external_source_url": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/security/aws-secrets-rotation",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Automate rotation of secrets, credentials, and API keys using AWS Secrets Manager and Lambda",
+  "category": "Security",
+  "download_status": "downloaded",
+  "download_note": "1 files",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/sickn33/antigravity-awesome-skills/tree/main/skills/security/aws-secrets-rotation"
+  },
+  "collected_at": "2026-05-27T03:44:46+00:00"
+}

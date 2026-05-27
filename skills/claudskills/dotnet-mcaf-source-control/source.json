@@ -1,0 +1,18 @@
+{
+  "name": "dotnet-mcaf-source-control",
+  "slug": "dotnet-mcaf-source-control",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dotnet-mcaf-source-control/",
+  "download_url": "https://claudskills.com/skills/dotnet-mcaf-source-control/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply MCAF source-control guidance for repository structure, branch naming, merge strategy, commit hygiene, and secrets-in-git discipline. Use when bootstrapping a repo, tightening PR flow, or documenting branch and release policy.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

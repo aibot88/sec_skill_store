@@ -1,0 +1,18 @@
+{
+  "name": "sales-meetily",
+  "slug": "sales-meetily",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-meetily/",
+  "download_url": "https://claudskills.com/skills/sales-meetily/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Meetily platform help — open-source, privacy-first AI meeting assistant with local Whisper/Parakeet transcription and Ollama summarization (MIT license). Use when setting up Meetily on macOS or Windows, transcription model not downloading or stuck on processing, microphone not being captured in meetings, choosing between Whisper and Parakeet models for accuracy vs speed, configuring Ollama or Claude or Groq for local summarization, audio device selection not saving after restart, comparing Meetily to Granola or Otter or Fathom for privacy, deploying Meetily self-hosted for an enterprise team, or importing existing audio files for batch transcription. Do NOT use for picking between note-takers generally (use /sales-note-taker) or reviewing a single call for coaching (use /sales-call-review).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "deal-management",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "open-data-quality",
+  "slug": "open-data-quality",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/open-data-quality/",
+  "download_url": "https://claudskills.com/skills/open-data-quality/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive open data quality validator for two audiences: data analysts who need to assess whether a dataset is ready to use, and public administrations who want to self-evaluate their published data. Automatically adapts based on input type: (A) local CSV file only — performs file-level structural and content checks; (B) CKAN/open data portal dataset — adds metadata completeness, resource accessibility, URL reachability, and DCAT-AP compliance (supports all national profiles: DCAT-AP 2.x baseline, IT, BE, NL, DE, FR, UK, ES, and others). Always use this skill when the user mentions: data quality, validate dataset, check CSV, open data compliance, metadata audit, CKAN dataset review, \\\"is this data usable?\\\", or whenever a CSV file or CKAN dataset ID/URL is provided for quality assessment. Produces severity-ranked reports (blocker / major / minor) with concrete fixes, quality score, and a plain-language summary for non-technical stakeholders.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

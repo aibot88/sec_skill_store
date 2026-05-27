@@ -1,0 +1,18 @@
+{
+  "name": "intent-recognition",
+  "slug": "intent-recognition",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/intent-recognition/",
+  "download_url": "https://claudskills.com/skills/intent-recognition/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use BEFORE any tool call that could modify state, touch sensitive targets, rewrite history, install dependencies, publish packages, or expose credentials/environment data. Classifies intent into Passive/Read, Reconnaissance, Modification, or Destructive/Irreversible using operation type plus target sensitivity, then runs Identify / Confirm / Verify before action. Do NOT use for deciding what code to write, executing already-classified work, reactive post-execution guardrails, or defining upstream governance policy.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

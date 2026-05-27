@@ -1,0 +1,18 @@
+{
+  "name": "implementing-rsa-key-pair-management",
+  "slug": "implementing-rsa-key-pair-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-rsa-key-pair-management/",
+  "download_url": "https://claudskills.com/skills/implementing-rsa-key-pair-management/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "RSA (Rivest-Shamir-Adleman) is the most widely deployed asymmetric cryptographic algorithm, used for digital",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crypto-keymgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

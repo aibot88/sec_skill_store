@@ -1,0 +1,18 @@
+{
+  "name": "varlock-claude-skill",
+  "slug": "varlock-claude-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/varlock-claude-skill/",
+  "download_url": "https://claudskills.com/skills/varlock-claude-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Secure environment variable management ensuring secrets are never exposed in Claude sessions, terminals, logs, or git commits",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

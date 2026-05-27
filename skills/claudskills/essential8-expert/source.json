@@ -1,0 +1,18 @@
+{
+  "name": "essential8-expert",
+  "slug": "essential8-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/essential8-expert/",
+  "download_url": "https://claudskills.com/skills/essential8-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Essential 8 expert for Australian cyber security. Deep knowledge of ACSC Essential Eight mitigation strategies including 8 strategies, 3 maturity levels, implementation guidance, and Australian government requirements.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "repo-security-review",
+  "slug": "repo-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/repo-security-review/",
+  "download_url": "https://claudskills.com/skills/repo-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security audit for GitHub repositories before installation. Use when user wants to check if a repo/app is safe to install, review install scripts for malicious code, verify an open source project isn't collecting data, or audit dependencies for suspicious packages. Triggers on phrases like \"is this safe to install\", \"check this repo\", \"review this script\", \"audit this code\", \"is this sketchy\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "zd",
+  "slug": "zd",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/zd/",
+  "download_url": "https://claudskills.com/skills/zd/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Manage Zendesk support tickets via the `zd` CLI. Use when the user asks about Zendesk tickets, support tickets, customer issues, helpdesk operations, or ticket triage. Covers listing, searching, creating, updating, and deleting tickets, plus authentication setup and Zendesk search queries. Triggers on tasks involving \"zendesk\", \"zd\", \"support ticket\", \"ticket queue\", \"helpdesk\", or \"customer support\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

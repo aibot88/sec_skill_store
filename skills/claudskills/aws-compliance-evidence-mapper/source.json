@@ -1,0 +1,18 @@
+{
+  "name": "aws-compliance-evidence-mapper",
+  "slug": "aws-compliance-evidence-mapper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-compliance-evidence-mapper/",
+  "download_url": "https://claudskills.com/skills/aws-compliance-evidence-mapper/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Map AWS compliance evidence for audits across Security Hub controls, AWS Config rules/conformance packs, Audit Manager assessments, evidence folders, manual evidence, AWS Artifact reports, CloudTrail, and control narratives. Use for evidence packaging and audit readiness, not general security hardening.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

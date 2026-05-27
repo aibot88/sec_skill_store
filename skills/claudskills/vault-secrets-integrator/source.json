@@ -1,0 +1,18 @@
+{
+  "name": "vault-secrets-integrator",
+  "slug": "vault-secrets-integrator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vault-secrets-integrator/",
+  "download_url": "https://claudskills.com/skills/vault-secrets-integrator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Vault Secrets Integrator - Auto-activating skill for DevOps Advanced. Triggers on: vault secrets integrator, vault secrets integrator Part of the DevOps Advanced skill category.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

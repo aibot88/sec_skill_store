@@ -1,0 +1,18 @@
+{
+  "name": "drain-labeled-backlog",
+  "slug": "drain-labeled-backlog",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/drain-labeled-backlog/",
+  "download_url": "https://claudskills.com/skills/drain-labeled-backlog/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when draining a labeled issue backlog (deferred-scope-out, code-review, type/security) in one cleanup PR. Groups by code area and delegates to /soleur:one-shot.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

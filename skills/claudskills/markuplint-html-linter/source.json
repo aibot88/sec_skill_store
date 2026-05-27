@@ -1,0 +1,18 @@
+{
+  "name": "markuplint-html-linter",
+  "slug": "markuplint-html-linter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/markuplint-html-linter/",
+  "download_url": "https://claudskills.com/skills/markuplint-html-linter/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "markuplint is a comprehensive HTML linter designed for all markup developers. It enforces accessibility, spec compliance, and best practices across HTML, JSX, Vue, Svelte, Astro, PHP, Pug, and more template languages through a pluggable parser architecture.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "linters-formatters",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "asyncapi-authoring",
+  "slug": "asyncapi-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/asyncapi-authoring/",
+  "download_url": "https://claudskills.com/skills/asyncapi-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Author and validate AsyncAPI 3.0 specifications for event-driven API design, message brokers, and async communication patterns",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:53+00:00"
+}

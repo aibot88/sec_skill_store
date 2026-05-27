@@ -1,0 +1,18 @@
+{
+  "name": "jwt-authentication",
+  "slug": "12-jwt-authentication",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/12-jwt-authentication/",
+  "download_url": "https://claudskills.com/skills/12-jwt-authentication/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Configures JWT Bearer authentication for .NET APIs. Includes token generation, validation, refresh tokens, and user context extraction from claims.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

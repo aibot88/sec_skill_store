@@ -1,0 +1,18 @@
+{
+  "name": "beam-master",
+  "slug": "beam-master",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/beam-master/",
+  "download_url": "https://claudskills.com/skills/beam-master/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Shared resource library for Beam AI integration skills. DO NOT load directly - provides common references (setup, API docs, error handling, authentication) and scripts used by beam-connect and individual Beam skills.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:04+00:00"
+}

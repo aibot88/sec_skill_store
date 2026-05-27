@@ -1,0 +1,18 @@
+{
+  "name": "context-testing-infrastructure",
+  "slug": "context-testing-infrastructure",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/context-testing-infrastructure/",
+  "download_url": "https://claudskills.com/skills/context-testing-infrastructure/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Tiered testing strategy (UI mock, auth stub, full-stack), fixtures, mocks, and test configuration. Handles test setup, Playwright E2E tests, pytest backend tests, mocking strategies, and CI test configuration. Use when working with tests, test setup, mocking strategies, or CI test configuration, or when user mentions test patterns, auth stub, fixture loaders, Playwright tests, test failures, tiered testing, UI mock, E2E tests, pytest, vitest, or debugging test issues.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

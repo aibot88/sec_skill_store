@@ -1,0 +1,18 @@
+{
+  "name": "aws-cloudformation-cloudfront",
+  "slug": "aws-cloudformation-cloudfront",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-cloudformation-cloudfront/",
+  "download_url": "https://claudskills.com/skills/aws-cloudformation-cloudfront/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AWS CloudFormation patterns for CloudFront distributions, origins (ALB, S3, Lambda@Edge, VPC Origins), CacheBehaviors, Functions, SecurityHeaders, parameters, Outputs and cross-stack references. Use when creating CloudFront distributions with CloudFormation, configuring multiple origins, implementing caching strategies, managing custom domains with ACM, configuring WAF, and optimizing performance.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "docx-processing-lawvable",
+  "slug": "docx-processing-lawvable",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docx-processing-lawvable/",
+  "download_url": "https://claudskills.com/skills/docx-processing-lawvable/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Programmatically edit Word documents (.docx) with live preview and track changes via SuperDoc VS Code extension. Use when editing DOCX files, making tracked changes, redlining, marking up contracts, or when the user wants to modify Word documents with insertions/deletions visible. Triggers on docx, Word, track changes, redline, markup.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

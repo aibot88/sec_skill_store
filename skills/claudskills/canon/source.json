@@ -1,0 +1,18 @@
+{
+  "name": "canon",
+  "slug": "canon",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/canon/",
+  "download_url": "https://claudskills.com/skills/canon/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Standards compliance assessment and gap analysis agent. Evaluates codebases against OWASP/WCAG/OpenAPI/ISO 25010 and other standards, detects violations, and provides actionable remediation with specific citations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

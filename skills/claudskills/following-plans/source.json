@@ -1,0 +1,18 @@
+{
+  "name": "following-plans",
+  "slug": "following-plans",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/following-plans/",
+  "download_url": "https://claudskills.com/skills/following-plans/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Algorithmic decision tree for when to follow plan exactly vs when to report BLOCKED - prevents scope creep and unauthorized deviations",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "secrets-management",
+  "slug": "secrets-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/secrets-management/",
+  "download_url": "https://claudskills.com/skills/secrets-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Secure secrets management practices for CI/CD pipelines using Vault, AWS Secrets Manager, and other tools.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:12+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "rwrw01-wcag-audit",
+  "slug": "rwrw01-wcag-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rwrw01-wcag-audit/",
+  "download_url": "https://claudskills.com/skills/rwrw01-wcag-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run a WCAG 2.2 AA accessibility audit with automated and manual checks on the current project. Use for accessibility checks, a11y audits, or WCAG compliance reviews.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "domotics-tutorial-composer",
+  "slug": "domotics-tutorial-composer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/domotics-tutorial-composer/",
+  "download_url": "https://claudskills.com/skills/domotics-tutorial-composer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Escribe tutoriales completos en lenguaje natural para proyectos de domótica, contextualizados en escenarios reales de automatización del hogar con integración Home Assistant. Activa cuando el usuario menciona: tutorial, guía paso a paso, proyecto de domótica, home assistant, automatización del hogar, smart home, tutorial completo, escribir tutorial, compose tutorial, domótica, o cuando se necesita transformar el currículo y los materiales técnicos en contenido educativo final listo para publicar en la plataforma e-learning. Usar SIEMPRE como el ÚLTIMO skill del pipeline, después de que curriculum-architect haya organizado todos los materiales.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

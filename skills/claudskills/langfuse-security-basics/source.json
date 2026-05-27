@@ -1,0 +1,18 @@
+{
+  "name": "langfuse-security-basics",
+  "slug": "langfuse-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/langfuse-security-basics/",
+  "download_url": "https://claudskills.com/skills/langfuse-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement Langfuse security best practices for API keys and data privacy. Use when securing Langfuse integration, protecting API keys, or implementing data privacy controls for LLM observability. Trigger with phrases like \"langfuse security\", \"langfuse API key security\", \"langfuse data privacy\", \"secure langfuse\", \"langfuse PII\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:28+00:00"
+}

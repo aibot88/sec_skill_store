@@ -1,0 +1,19 @@
+{
+  "name": "examples",
+  "slug": "jumbo-wjb-semantic-trap-detector-examples",
+  "source": "github",
+  "source_url": "https://github.com/Jumbo-WJB/semantic-trap-detector/blob/e9882f9900636b27a8935509c9bf5a8d54f91212/examples/fixed-skill.md",
+  "download_url": "https://github.com/Jumbo-WJB/semantic-trap-detector/blob/e9882f9900636b27a8935509c9bf5a8d54f91212/examples/fixed-skill.md",
+  "external_source_url": "https://github.com/Jumbo-WJB/semantic-trap-detector/blob/e9882f9900636b27a8935509c9bf5a8d54f91212/examples/fixed-skill.md",
+  "license": "",
+  "description": "Detect and fix semantic traps in Claude Skills that cause LLM hallucinations",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "Jumbo-WJB/semantic-trap-detector",
+    "path": "examples/fixed-skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

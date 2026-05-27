@@ -1,0 +1,18 @@
+{
+  "name": "architecture-doc-auditor",
+  "slug": "architecture-doc-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/architecture-doc-auditor/",
+  "download_url": "https://claudskills.com/skills/architecture-doc-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Systematic completeness audit of Architecture Documentation using 188-item viewpoint-based checklist, severity-classified gap detection, technical debt indicators, and architecture anti-pattern scanning. Supports TOGAF, C4, arc42, and IEEE 42010 frameworks. PROACTIVELY activate for: (1) Architecture review gates, (2) ADR validation before implementation, (3) C4 diagram completeness check, (4) Technical debt assessment, (5) Pre-implementation validation, (6) Governance compliance audit, (7) Design doc handoff review. Triggers: \"audit architecture\", \"review ADR\", \"check architecture doc\", \"validate design doc\", \"architecture review\", \"audit C4 diagrams\", \"check system context\", \"technical debt assessment\", \"architecture health check\", \"governance review\", \"architecture completeness\"",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

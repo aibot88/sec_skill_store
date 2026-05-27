@@ -1,0 +1,18 @@
+{
+  "name": "session-security-checker",
+  "slug": "session-security-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/session-security-checker/",
+  "download_url": "https://claudskills.com/skills/session-security-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Session Security Checker - Auto-activating skill for Security Fundamentals. Triggers on: session security checker, session security checker Part of the Security Fundamentals skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

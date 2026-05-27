@@ -1,0 +1,18 @@
+{
+  "name": "brakeman",
+  "slug": "brakeman",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/brakeman/",
+  "download_url": "https://claudskills.com/skills/brakeman/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Static analysis security vulnerability scanner for Ruby on Rails applications. Use when analyzing Rails code for security issues, running security audits, reviewing code for vulnerabilities, setting up security scanning in CI/CD, managing security warnings, or investigating specific vulnerability types (SQL injection, XSS, command injection, etc.). Also use when configuring Brakeman, reducing false positives, or integrating with automated workflows.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "github-security-review",
+  "slug": "github-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-security-review/",
+  "download_url": "https://claudskills.com/skills/github-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze GitHub repository security alerts and generate remediation plans. Use when the user asks to review security alerts, fix vulnerabilities, check dependabot alerts, review code scanning issues, or address secret scanning findings for a GitHub repository. Triggers on requests mentioning GitHub security, repo security review, vulnerability remediation, or security audit.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

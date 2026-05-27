@@ -1,0 +1,18 @@
+{
+  "name": "marketing-conversion-flow-dark-pattern-review",
+  "slug": "marketing-conversion-flow-dark-pattern-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/marketing-conversion-flow-dark-pattern-review/",
+  "download_url": "https://claudskills.com/skills/marketing-conversion-flow-dark-pattern-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing marketing conversion flow specifications — subscription sign-up, upsell interstitial, free-trial enrollment, and cancellation path — for dark-pattern practices that invalidate consent or constitute unfair or deceptive acts under FTC Section 5 and state privacy laws. Trigger when a user provides a UX flow specification including step-by-step page descriptions, annotated wireframes, CTA labels, pre-checked options, visual weight of accept vs decline paths, countdown timer specs, or cancellation flow step counts. Scope is limited to marketing conversion flows; consent banner review is handled by a separate skill.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

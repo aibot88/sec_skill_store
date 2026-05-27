@@ -1,0 +1,18 @@
+{
+  "name": "blog-content-authoring",
+  "slug": "blog-content-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/blog-content-authoring/",
+  "download_url": "https://claudskills.com/skills/blog-content-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create/update Markdown blog posts and topic metadata for this Next.js static-export blog (multi-language en/tr). Use when adding/editing files under content/posts/**, updating post/topic indexes, choosing valid topic colors, and creating 1200x630 WebP thumbnails under public/images.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:07+00:00"
+}

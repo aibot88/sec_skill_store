@@ -1,0 +1,18 @@
+{
+  "name": "performing-cloud-asset-inventory-with-cartography",
+  "slug": "performing-cloud-asset-inventory-with-cartography",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-cloud-asset-inventory-with-cartography/",
+  "download_url": "https://claudskills.com/skills/performing-cloud-asset-inventory-with-cartography/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Perform comprehensive cloud asset inventory and relationship mapping using Cartography to build a Neo4j security",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:51+00:00"
+}

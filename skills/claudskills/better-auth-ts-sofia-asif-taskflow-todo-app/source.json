@@ -1,0 +1,18 @@
+{
+  "name": "better-auth-ts",
+  "slug": "better-auth-ts-sofia-asif-taskflow-todo-app",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/better-auth-ts-sofia-asif-taskflow-todo-app/",
+  "download_url": "https://claudskills.com/skills/better-auth-ts-sofia-asif-taskflow-todo-app/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Better Auth TypeScript/JavaScript authentication library. Use when implementing auth in Next.js, React, Express, or any TypeScript project. Covers email/password, OAuth, JWT, sessions, 2FA, magic links, social login with Next.js 16 proxy.ts patterns.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "engineering-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:05+00:00"
+}

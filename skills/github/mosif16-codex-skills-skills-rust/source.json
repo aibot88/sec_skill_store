@@ -1,0 +1,19 @@
+{
+  "name": "Rust",
+  "slug": "mosif16-codex-skills-skills-rust",
+  "source": "github",
+  "source_url": "https://github.com/mosif16/codex-Skills/blob/f10bf9466c5287a2766d10d7c1fb2740d5749aee/skills/Rust/Skill.md",
+  "download_url": "https://github.com/mosif16/codex-Skills/blob/f10bf9466c5287a2766d10d7c1fb2740d5749aee/skills/Rust/Skill.md",
+  "external_source_url": "https://github.com/mosif16/codex-Skills/blob/f10bf9466c5287a2766d10d7c1fb2740d5749aee/skills/Rust/Skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "mosif16/codex-Skills",
+    "path": "skills/Rust/Skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

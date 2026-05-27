@@ -1,0 +1,18 @@
+{
+  "name": "build-only-validate-capability-flow",
+  "slug": "build-only-validate-capability-flow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/build-only-validate-capability-flow/",
+  "download_url": "https://claudskills.com/skills/build-only-validate-capability-flow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate a capability flow specification against schema constraints. Use after designing a process to ensure it conforms to framework rules. Triggers on \"validate capability flow\", \"check process spec\", \"verify schema compliance\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:10+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "workflow-guardrails",
+  "slug": "workflow-guardrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/workflow-guardrails/",
+  "download_url": "https://claudskills.com/skills/workflow-guardrails/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Umbrella skill for agent work discipline across development, analysis, and documentation: inspect the repo before restructuring, keep durable truth in repo artifacts instead of chat memory, co-evolve specs/design/steering/user docs with code, apply sound coding patterns, verify work honestly, avoid shortcuts, work efficiently with subagents without hallucinating, and keep moving through the next concrete work item when the human is away. References cover coding patterns, AI-authored code review, and artifact co-evolution. Trigger when the user asks for workflow discipline, coding patterns, doc/artifact maintenance, code review of AI-authored code, project hygiene, execution guardrails, repo normalization, or when a task risks drifting across architecture, storage, specs, continuity, or tooling boundaries.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "workflow-orchestration",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:37+00:00"
+}

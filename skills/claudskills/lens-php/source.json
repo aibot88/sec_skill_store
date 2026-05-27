@@ -1,0 +1,18 @@
+{
+  "name": "first-plan-lens-php",
+  "slug": "lens-php",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lens-php/",
+  "download_url": "https://claudskills.com/skills/lens-php/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Stack lens para PHP. Use durante Discovery quando composer.json for detectado. Cobre Laravel, Symfony, Slim, Hyperf, Laminas, raw PHP. Identifica PSR compliance, ORM, padrões de fila.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

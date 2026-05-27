@@ -1,0 +1,18 @@
+{
+  "name": "terraform-module-reuse-and-supply-chain",
+  "slug": "terraform-module-reuse-and-supply-chain",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/terraform-module-reuse-and-supply-chain/",
+  "download_url": "https://claudskills.com/skills/terraform-module-reuse-and-supply-chain/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when designing, reviewing, or hardening Terraform module reuse and dependency supply chain after the repo scaffold exists and security and operations have decided versioning and provenance requirements. Produces a versioned module registry strategy (private TFC registry or Git tags), semantic versioning of modules, provider and module dependency pinning in consumers, provenance review for community modules, an SBOM-equivalent for the module dependency tree, and a deprecation policy for breaking changes. Do not use for repo/module layout, state/secret backend, plan/policy gates, or apply and promotion mechanics; use the other terraform archetype skills instead.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "xss-html-injection",
+  "slug": "xss-html-injection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/xss-html-injection/",
+  "download_url": "https://claudskills.com/skills/xss-html-injection/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Execute comprehensive client-side injection vulnerability assessments on web applications to identify XSS and HTML injection flaws, demonstrate exploitation techniques for session hijacking and credential theft, and validate input sanitization and output encoding mechanisms.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

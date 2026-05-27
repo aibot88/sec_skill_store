@@ -1,0 +1,18 @@
+{
+  "name": "privacy-redacted-repl-bridge-system-init",
+  "slug": "privacy-redacted-repl-bridge-system-init",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/privacy-redacted-repl-bridge-system-init/",
+  "download_url": "https://claudskills.com/skills/privacy-redacted-repl-bridge-system-init/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reuse one system init payload shape across trusted and remote transports, but redact tool, MCP, and plugin metadata when the bridge path would leak local integrations or filesystem paths.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:58+00:00"
+}

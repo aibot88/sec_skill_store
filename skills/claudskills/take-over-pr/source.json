@@ -1,0 +1,18 @@
+{
+  "name": "take-over-pr",
+  "slug": "take-over-pr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/take-over-pr/",
+  "download_url": "https://claudskills.com/skills/take-over-pr/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Take over a stale or abandoned PR. Checks out the work, merges main, deep-reviews the code, addresses all review comments, then re-creates a clean PR crediting the original author.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

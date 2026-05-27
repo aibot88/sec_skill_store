@@ -1,0 +1,18 @@
+{
+  "name": "writing-claude-directives",
+  "slug": "writing-claude-directives",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/writing-claude-directives/",
+  "download_url": "https://claudskills.com/skills/writing-claude-directives/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when writing instructions that guide Claude behavior - skills, CLAUDE.md files, agent prompts, system prompts. Covers token efficiency, compliance techniques, and discovery optimization.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

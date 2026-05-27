@@ -1,0 +1,18 @@
+{
+  "name": "ql-review",
+  "slug": "ql-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ql-review/",
+  "download_url": "https://claudskills.com/skills/ql-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Part of the quantum-loop autonomous development pipeline (brainstorm \\u2192 spec \\u2192 plan \\u2192 execute \\u2192 review \\u2192 verify). Two-stage code review. Spec compliance first, then code quality. Use after implementation or before merge. Triggers on: review code, code review, check implementation, ql-review.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "physics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

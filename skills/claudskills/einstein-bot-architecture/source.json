@@ -1,0 +1,18 @@
+{
+  "name": "einstein-bot-architecture",
+  "slug": "einstein-bot-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/einstein-bot-architecture/",
+  "download_url": "https://claudskills.com/skills/einstein-bot-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing conversational AI architecture on Salesforce: Einstein Bot dialog design, Agentforce Agent topic planning, intent models, NLU training strategy, bot-to-agent handoff, escalation paths, knowledge article surfacing, and bot analytics. Triggers: 'einstein bot architecture', 'agentforce dialog design', 'bot handoff to agent', 'intent model training'. NOT for bot implementation code, Apex action authoring, Flow screen design, or Omni-Channel routing rule configuration.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

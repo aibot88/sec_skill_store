@@ -1,0 +1,18 @@
+{
+  "name": "quickbooks-invoice-reconciliation",
+  "slug": "quickbooks-invoice-reconciliation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/quickbooks-invoice-reconciliation/",
+  "download_url": "https://claudskills.com/skills/quickbooks-invoice-reconciliation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Connects to the QuickBooks Online Accounting API using OAuth 2.0 via the intuit-oauth Node.js SDK to fetch unpaid invoices and match them against bank transaction records. Discrepancies are flagged and a reconciliation report is generated as a PDF using PDFKit, then emailed via SendGrid.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "project-open-database-cli",
+  "slug": "project-open-database-cli-v1-0-0",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/project-open-database-cli-v1-0-0/",
+  "download_url": "https://claudskills.com/skills/project-open-database-cli-v1-0-0/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Skill multi-SGBD para operar bancos de dados (SQL Server, MySQL, SQLite, PostgreSQL, Firebird) via CLI. Cobre conexão, cache de sessão por pasta de SGBD, varredura automática pós-conexão, inspeção de colunas com PK (fields por database > schema > table), renovação de cache a cada 15 min e política de limpeza (7 dias). Usar quando o usuário pedir para conectar, explorar, consultar, exportar dados ou executar scripts SQL.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

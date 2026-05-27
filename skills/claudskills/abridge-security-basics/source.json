@@ -1,0 +1,18 @@
+{
+  "name": "abridge-security-basics",
+  "slug": "abridge-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/abridge-security-basics/",
+  "download_url": "https://claudskills.com/skills/abridge-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply HIPAA-compliant security practices for Abridge clinical AI integrations. Use when securing PHI in transit/at rest, configuring access controls, implementing audit logging, or preparing for HIPAA security audits. Trigger: \"abridge security\", \"abridge HIPAA\", \"abridge PHI protection\", \"abridge access control\", \"abridge audit logging\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:35+00:00"
+}

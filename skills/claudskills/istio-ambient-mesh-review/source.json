@@ -1,0 +1,18 @@
+{
+  "name": "istio-ambient-mesh-review",
+  "slug": "istio-ambient-mesh-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/istio-ambient-mesh-review/",
+  "download_url": "https://claudskills.com/skills/istio-ambient-mesh-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill for Istio service mesh review across both sidecar mode and ambient mode (ztunnel L4 + optional waypoint L7). Covers PeerAuthentication, AuthorizationPolicy, RequestAuthentication, Gateway, VirtualService, DestinationRule, Sidecar, and waypoint placement. Trigger when the user asks whether an Istio policy is correct, whether mTLS is strict, whether L7 AuthorizationPolicy will actually be enforced in ambient mode, or whether a mesh-wide PeerAuthentication change is safe.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:24+00:00"
+}

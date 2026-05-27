@@ -1,0 +1,17 @@
+{
+  "name": "insecure-defaults",
+  "slug": "insecure-defaults-2g8c61",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/insecure-defaults-2g8c61",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/atlas-secint/insecure-defaults/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/atlas-secint/insecure-defaults/SKILL.md",
+  "license": "",
+  "description": "Detects fail-open insecure defaults",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=3"
+  },
+  "collected_at": "2026-05-27T03:44:43+00:00"
+}

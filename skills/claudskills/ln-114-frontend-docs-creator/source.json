@@ -1,0 +1,18 @@
+{
+  "name": "ln-114-frontend-docs-creator",
+  "slug": "ln-114-frontend-docs-creator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-114-frontend-docs-creator/",
+  "download_url": "https://claudskills.com/skills/ln-114-frontend-docs-creator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Creates design_guidelines.md with WCAG 2.1 compliance and design system docs. Use when project has a frontend.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

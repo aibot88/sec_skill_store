@@ -1,0 +1,18 @@
+{
+  "name": "twitter-data-export",
+  "slug": "twitter-data-export",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/twitter-data-export/",
+  "download_url": "https://claudskills.com/skills/twitter-data-export/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Export Twitter/X data to CSV for analysis using Xpoz. Search by keywords, author, date range, and download complete datasets (up to 500K rows). Use when asked to \"export tweets\", \"download Twitter data\", \"get tweets as CSV\", \"Twitter dataset\", or \"bulk tweet download\".",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "social-media",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

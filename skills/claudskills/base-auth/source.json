@@ -1,0 +1,18 @@
+{
+  "name": "base-auth",
+  "slug": "base-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/base-auth/",
+  "download_url": "https://claudskills.com/skills/base-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authentication scaffolding Laravel — Breeze (Blade+Alpine ou React/Vue), Jetstream (Livewire ou Inertia, Teams, 2FA) e Fortify (headless). Usar quando configurar login, registo, passwords, guards ou middleware de autenticação. Requer 01-base-laravel.md como foundation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:03+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "ionos-datacenter-designer-reviewer",
+  "slug": "ionos-datacenter-designer-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ionos-datacenter-designer-reviewer/",
+  "download_url": "https://claudskills.com/skills/ionos-datacenter-designer-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review IONOS Data Center Designer (DCD) topology for resource organization, multi-availability-zone placement, private LAN segmentation, volume layout, NIC configuration, and firewall posture. DCD is unique to IONOS as a graphical infrastructure orchestrator where topology changes carry datacenter-wide blast radius. Use when the user asks to review, redesign, or assess the safety of an IONOS datacenter topology or resource layout.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

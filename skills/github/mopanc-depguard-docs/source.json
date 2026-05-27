@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "slug": "mopanc-depguard-docs",
+  "source": "github",
+  "source_url": "https://github.com/mopanc/depguard/blob/f2fd23a1ecaf86ddfb9b0d979fee078b2d064f50/docs/AGENT-SKILL.md",
+  "download_url": "https://github.com/mopanc/depguard/blob/f2fd23a1ecaf86ddfb9b0d979fee078b2d064f50/docs/AGENT-SKILL.md",
+  "external_source_url": "https://github.com/mopanc/depguard/blob/f2fd23a1ecaf86ddfb9b0d979fee078b2d064f50/docs/AGENT-SKILL.md",
+  "license": "",
+  "description": "Audit npm packages for security, maintenance, licenses and dependencies. Recommends install or write-from-scratch.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "mopanc/depguard",
+    "path": "docs/AGENT-SKILL.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

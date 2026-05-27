@@ -1,0 +1,18 @@
+{
+  "name": "find-bugs",
+  "slug": "find-bugs-ledger101-apt",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/find-bugs-ledger101-apt/",
+  "download_url": "https://claudskills.com/skills/find-bugs-ledger101-apt/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review changes, find bugs, security review, or audit code on the current branch.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dotnet-testing-advanced-aspnet-integration-testing",
+  "slug": "dotnet-testing-advanced-aspnet-integration-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dotnet-testing-advanced-aspnet-integration-testing/",
+  "download_url": "https://claudskills.com/skills/dotnet-testing-advanced-aspnet-integration-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "ASP.NET Core 整合測試的專門技能。當需要測試 Web API 端點、HTTP 請求/回應、中介軟體、依賴注入時使用。涵蓋 WebApplicationFactory、TestServer、HttpClient 測試、記憶體資料庫配置等。 Keywords: integration testing, 整合測試, web api testing, WebApplicationFactory, TestServer, HttpClient testing, controller testing, endpoint testing, 端點測試, RESTful API testing, Microsoft.AspNetCore.Mvc.Testing, CreateClient, ConfigureWebHost, AwesomeAssertions.Web, Be200Ok, Be404NotFound, middleware testing, 中介軟體測試, dependency injection testing",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

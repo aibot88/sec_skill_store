@@ -1,0 +1,18 @@
+{
+  "name": "hunt-new-case",
+  "slug": "hunt-new-case",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hunt-new-case/",
+  "download_url": "https://claudskills.com/skills/hunt-new-case/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Initialize a threat hunting case from a signal, detection, intel lead, or analyst suspicion",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "keycloak-admin",
+  "slug": "keycloak-admin",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/keycloak-admin/",
+  "download_url": "https://claudskills.com/skills/keycloak-admin/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Keycloak administration including realm management, client configuration, OAuth 2.0 setup, user management with custom attributes, role and group management, theme deployment, and token configuration. Activate for Keycloak Admin API operations, authentication setup, and identity provider configuration.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

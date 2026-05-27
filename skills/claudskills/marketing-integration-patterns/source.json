@@ -1,0 +1,18 @@
+{
+  "name": "marketing-integration-patterns",
+  "slug": "marketing-integration-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/marketing-integration-patterns/",
+  "download_url": "https://claudskills.com/skills/marketing-integration-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing or selecting an integration pattern between Marketing Cloud and an external system or Salesforce CRM — including Triggered Sends, Journey injection via Event API, async batch contact entry, SFTP file-based batch sync, and MC Connect Synchronized Data Extensions. Triggers: 'send transactional email from external app', 'inject contacts into a journey from e-commerce', 'batch sync customer records into Marketing Cloud', 'connect Marketing Cloud to Salesforce CRM', 'real-time triggered messages from external platform'. NOT for generic integration framework design unrelated to Marketing Cloud, NOT for Marketing Cloud Automation Studio scripting logic, NOT for Salesforce core-to-core integration patterns (use architect/sales-cloud-integration-patterns).",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "growth-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:36+00:00"
+}

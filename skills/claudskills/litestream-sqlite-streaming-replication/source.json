@@ -1,0 +1,18 @@
+{
+  "name": "litestream-sqlite-streaming-replication",
+  "slug": "litestream-sqlite-streaming-replication",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/litestream-sqlite-streaming-replication/",
+  "download_url": "https://claudskills.com/skills/litestream-sqlite-streaming-replication/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Litestream is a streaming replication tool for SQLite databases that continuously replicates changes to S3, Azure, GCS, SFTP, or local storage. Written in Go with 13k+ GitHub stars, it enables SQLite to be used as a production database with disaster recovery.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gesundheit",
+  "slug": "gesundheit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gesundheit/",
+  "download_url": "https://claudskills.com/skills/gesundheit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when user asks about 8 Gesundheit, Health, Social Security, health, Gesundheit, Sozialversicherung, AHV, IV, Heilmittel, Krankenversicherung, KVG, Lebensmittel, SR 8xx. Covers SR category 8 of the Systematische Rechtssammlung.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:05+00:00"
+}

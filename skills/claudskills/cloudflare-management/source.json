@@ -1,0 +1,18 @@
+{
+  "name": "cloudflare-management",
+  "slug": "cloudflare-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloudflare-management/",
+  "download_url": "https://claudskills.com/skills/cloudflare-management/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when working with Cloudflare services (Workers, Pages, R2, D1, KV, DNS, SSL, WAF, Zero Trust, etc.). Provides comprehensive management via Wrangler CLI (primary) and direct REST API access for services not covered by Wrangler (DNS, SSL certificates, load balancers, security rules, analytics). Triggers: \"deploy worker\", \"manage cloudflare\", \"cloudflare dns\", \"wrangler setup\", \"r2 bucket\", \"d1 database\", \"cloudflare api\", \"cf pages\", \"cloudflare ssl\", \"waf rules\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "track-hashtags",
+  "slug": "track-hashtags",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/track-hashtags/",
+  "download_url": "https://claudskills.com/skills/track-hashtags/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user wants to track a hashtag on X (Twitter). Pulls recent tweets using the hashtag, the top posts, the unique authors, and can set up continuous monitoring. Covers one-shot reads and long-running hashtag monitors.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

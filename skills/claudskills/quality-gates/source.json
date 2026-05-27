@@ -1,0 +1,18 @@
+{
+  "name": "quality-gates",
+  "slug": "quality-gates",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/quality-gates/",
+  "download_url": "https://claudskills.com/skills/quality-gates/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run comprehensive quality checks including linting, type checking, tests, and security audits before commits or deployments",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

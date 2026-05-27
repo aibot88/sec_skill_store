@@ -1,0 +1,18 @@
+{
+  "name": "handler-hosting-aws",
+  "slug": "handler-hosting-aws",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/handler-hosting-aws/",
+  "download_url": "https://claudskills.com/skills/handler-hosting-aws/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AWS hosting handler - centralized AWS operations including authentication, resource deployment, verification, and querying. Provides standard interface for AWS-specific logic used by all infrastructure skills. Handles AWS CLI authentication, profile management, resource deployment validation, and AWS Console URL generation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

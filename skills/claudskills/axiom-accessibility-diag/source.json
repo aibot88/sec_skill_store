@@ -1,0 +1,18 @@
+{
+  "name": "axiom-accessibility-diag",
+  "slug": "axiom-accessibility-diag",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/axiom-accessibility-diag/",
+  "download_url": "https://claudskills.com/skills/axiom-accessibility-diag/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when fixing VoiceOver issues, Dynamic Type violations, color contrast failures, touch target problems, keyboard navigation gaps, or Reduce Motion support - comprehensive accessibility diagnostics with WCAG compliance, Accessibility Inspector workflows, and App Store Review preparation for iOS/macOS",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:00+00:00"
+}

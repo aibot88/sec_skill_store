@@ -1,0 +1,18 @@
+{
+  "name": "gws-shared",
+  "slug": "gws-shared",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gws-shared/",
+  "download_url": "https://claudskills.com/skills/gws-shared/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "gws CLI: Shared patterns for authentication, global flags, and output formatting.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

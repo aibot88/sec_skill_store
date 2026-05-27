@@ -1,0 +1,18 @@
+{
+  "name": "agent-native-audit",
+  "slug": "agent-native-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-native-audit/",
+  "download_url": "https://claudskills.com/skills/agent-native-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill should be used when conducting a scored agent-native architecture review. It launches 8 parallel sub-agents to audit action parity, context injection, CRUD completeness, capability discovery, and prompt-native features.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

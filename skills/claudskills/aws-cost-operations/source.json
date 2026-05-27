@@ -1,0 +1,18 @@
+{
+  "name": "aws-cost-operations",
+  "slug": "aws-cost-operations",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-cost-operations/",
+  "download_url": "https://claudskills.com/skills/aws-cost-operations/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AWS cost optimization, monitoring, and operational excellence expert. Use when analyzing AWS bills, estimating costs, setting up CloudWatch alarms, querying logs, auditing CloudTrail activity, or assessing security posture. Essential when user mentions AWS costs, spending, billing, budget, pricing, CloudWatch, observability, monitoring, alerting, CloudTrail, audit, or wants to optimize AWS infrastructure costs and operational efficiency.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

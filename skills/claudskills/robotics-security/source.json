@@ -1,0 +1,18 @@
+{
+  "name": "robotics-security",
+  "slug": "robotics-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/robotics-security/",
+  "download_url": "https://claudskills.com/skills/robotics-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Security hardening and best practices for robotic systems, covering SROS2 DDS security, network segmentation, secrets management, secure boot, and the physical-cyber safety intersection. Use this skill when securing ROS2 communications, configuring DDS encryption and access control, hardening robot onboard computers, managing certificates and credentials, setting up network segmentation for robot fleets, or addressing the unique security challenges where cyber vulnerabilities become physical safety risks. Trigger whenever the user mentions SROS2, DDS security, robot security, robot hardening, ROS2 encryption, ROS2 access control, robot network security, secure robot deployment, robot certificates, keystore generation, robot firewall, e-stop security, safety controller isolation, or IEC 62443 for robotics.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

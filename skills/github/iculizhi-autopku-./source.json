@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "iculizhi-autopku-.",
+  "source": "github",
+  "source_url": "https://github.com/ICUlizhi/AutoPku/blob/89a9d2d893569ba8373806e1d2440dd90632af61/skill.md",
+  "download_url": "https://github.com/ICUlizhi/AutoPku/blob/89a9d2d893569ba8373806e1d2440dd90632af61/skill.md",
+  "external_source_url": "https://github.com/ICUlizhi/AutoPku/blob/89a9d2d893569ba8373806e1d2440dd90632af61/skill.md",
+  "license": "",
+  "description": "为你召唤一支专家agent团队，端到端托管pku学业",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "ICUlizhi/AutoPku",
+    "path": "skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:59+00:00"
+}

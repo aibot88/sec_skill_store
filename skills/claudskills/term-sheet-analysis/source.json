@@ -1,0 +1,18 @@
+{
+  "name": "term-sheet-analysis",
+  "slug": "term-sheet-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/term-sheet-analysis/",
+  "download_url": "https://claudskills.com/skills/term-sheet-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Analyze and compare term sheets — valuation, liquidation preferences, anti-dilution, board composition, protective provisions, and option pool dynamics. Use when the user asks about analyzing a term sheet, comparing term sheets, understanding liquidation preferences, modeling exit outcomes, or evaluating board and control provisions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

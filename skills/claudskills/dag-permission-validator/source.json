@@ -1,0 +1,18 @@
+{
+  "name": "dag-permission-validator",
+  "slug": "dag-permission-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dag-permission-validator/",
+  "download_url": "https://claudskills.com/skills/dag-permission-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validates permission inheritance between parent and child agents. Ensures child permissions are equal to or more restrictive than parent. Activate on 'validate permissions', 'permission check', 'inheritance validation', 'permission matrix', 'security validation'. NOT for runtime enforcement (use dag-scope-enforcer) or isolation management (use dag-isolation-manager).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

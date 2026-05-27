@@ -1,0 +1,18 @@
+{
+  "name": "auditing-kubernetes-cluster-rbac",
+  "slug": "auditing-kubernetes-cluster-rbac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auditing-kubernetes-cluster-rbac/",
+  "download_url": "https://claudskills.com/skills/auditing-kubernetes-cluster-rbac/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Auditing Kubernetes cluster RBAC configurations to identify overly permissive roles, wildcard permissions, dangerous",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "alibabacloud-network-reachability-analysis",
+  "slug": "alibabacloud-network-reachability-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibabacloud-network-reachability-analysis/",
+  "download_url": "https://claudskills.com/skills/alibabacloud-network-reachability-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Perform Alibaba Cloud NIS (Network Intelligence Service) network path reachability analysis with forward/reverse path diagnosis, topology visualization, and resource monitoring. Use when analyzing network connectivity, diagnosing unreachable paths, checking security groups or route tables, or visualizing network topology between cloud resources. Triggers: \"reachability analysis\", \"network path analysis\", \"NIS analysis\", \"connectivity diagnosis\", \"path reachable\", \"network troubleshooting\", \"可达性分析\", \"网络路径分析\", \"NIS分析\", \"连通性诊断\", \"路径可达\", \"网络排障\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "oci-solution-architect",
+  "slug": "oci-solution-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oci-solution-architect/",
+  "download_url": "https://claudskills.com/skills/oci-solution-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Design, review, and stress-test Oracle Cloud Infrastructure solution architectures across identity, compartments, networking, compute, database, storage, observability, security, reliability, cost, and operations. Use when asked for OCI landing zones, target architectures, architecture review boards, migration designs, production readiness, or tradeoff decisions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

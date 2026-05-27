@@ -1,0 +1,18 @@
+{
+  "name": "performing-android-app-static-analysis-with-mobsf",
+  "slug": "performing-android-app-static-analysis-with-mobsf",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-android-app-static-analysis-with-mobsf/",
+  "download_url": "https://claudskills.com/skills/performing-android-app-static-analysis-with-mobsf/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Performs automated static analysis of Android applications using Mobile Security Framework (MobSF) to identify",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:51+00:00"
+}

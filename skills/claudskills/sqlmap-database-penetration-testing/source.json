@@ -1,0 +1,18 @@
+{
+  "name": "sqlmap-database-penetration-testing",
+  "slug": "sqlmap-database-penetration-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sqlmap-database-penetration-testing/",
+  "download_url": "https://claudskills.com/skills/sqlmap-database-penetration-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when the user asks to \"automate SQL injection testing,\" \"enumerate database structure,\" \"extract database credentials using sqlmap,\" \"dump tables and columns from a vulnerable database,\" or \"perform automated database penetration testing.\" It provides comprehensive guidance for using SQLMap to detect and exploit SQL injection vulnerabilities.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

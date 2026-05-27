@@ -1,0 +1,18 @@
+{
+  "name": "dotfile-systems-architect",
+  "slug": "dotfile-systems-architect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dotfile-systems-architect/",
+  "download_url": "https://claudskills.com/skills/dotfile-systems-architect/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Guides the creation of a \"Minimal Root\" home directory using the XDG Base Directory specification and a Bare Git Repository. Manages config separation, secrets, and cross-platform syncing.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

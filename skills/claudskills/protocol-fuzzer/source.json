@@ -1,0 +1,18 @@
+{
+  "name": "protocol-fuzzer",
+  "slug": "protocol-fuzzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/protocol-fuzzer/",
+  "download_url": "https://claudskills.com/skills/protocol-fuzzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert skill for protocol fuzzing, vulnerability discovery, and security testing",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

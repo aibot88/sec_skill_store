@@ -1,0 +1,18 @@
+{
+  "name": "monocloud-auth-express",
+  "slug": "monocloud-auth-express",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/monocloud-auth-express/",
+  "download_url": "https://claudskills.com/skills/monocloud-auth-express/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when integrating MonoCloud access-token validation into an Express API — installing or configuring `@monocloud/backend-node/express`, wiring the `protectApi()` middleware factory, validating JWT or opaque (introspection) bearer tokens, enforcing scopes/groups, attaching `claims` to `req` via `AuthenticatedExpressRequest`, or troubleshooting `MONOCLOUD_BACKEND_*` env vars / audience / JWKS / mTLS certificate binding.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

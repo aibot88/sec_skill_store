@@ -1,0 +1,18 @@
+{
+  "name": "appsec",
+  "slug": "appsec",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/appsec/",
+  "download_url": "https://claudskills.com/skills/appsec/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Skills para trabalho de AppSec defensivo ponta-a-ponta. Inclui intake, threat modeling, code review, testes de seguranca, correcoes e entrega de relatorios.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

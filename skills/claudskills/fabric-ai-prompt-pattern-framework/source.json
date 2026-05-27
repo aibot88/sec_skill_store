@@ -1,0 +1,18 @@
+{
+  "name": "fabric-ai-prompt-pattern-framework",
+  "slug": "fabric-ai-prompt-pattern-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fabric-ai-prompt-pattern-framework/",
+  "download_url": "https://claudskills.com/skills/fabric-ai-prompt-pattern-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system of crowdsourced prompt patterns that solve specific problems—from summarizing content to extracting wisdom to analyzing security threats—all usable from the command line.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

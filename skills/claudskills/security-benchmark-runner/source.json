@@ -1,0 +1,18 @@
+{
+  "name": "security-benchmark-runner",
+  "slug": "security-benchmark-runner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-benchmark-runner/",
+  "download_url": "https://claudskills.com/skills/security-benchmark-runner/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Security Benchmark Runner - Auto-activating skill for Security Advanced. Triggers on: security benchmark runner, security benchmark runner Part of the Security Advanced skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

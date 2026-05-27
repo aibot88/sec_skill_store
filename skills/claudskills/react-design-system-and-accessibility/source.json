@@ -1,0 +1,18 @@
+{
+  "name": "react-design-system-and-accessibility",
+  "slug": "react-design-system-and-accessibility",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/react-design-system-and-accessibility/",
+  "download_url": "https://claudskills.com/skills/react-design-system-and-accessibility/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when integrating, reviewing, or hardening the design system and accessibility posture of a React app after the app scaffold exists and frontend architecture has defined the design-system seam and a11y target. Produces design-token wiring (CSS variables / Tailwind theme / vanilla-extract), primitive composition over an accessible headless library (Radix / React Aria / Headless UI), theming and dark-mode strategy, WCAG 2.2 AA conformance posture, keyboard-navigation and focus-management discipline, ARIA usage rules, screen-reader testing, and the internationalization seam. This is the React archetype meta-frameworks (e.g. nextjs) inherit rather than re-author. Do not use for app scaffolding, routing, state or data-fetching, or performance budgeting; use the other react archetype skills instead.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "design-system-ui",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "clawsec-feed",
+  "slug": "clawsec-feed",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clawsec-feed/",
+  "download_url": "https://claudskills.com/skills/clawsec-feed/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security advisory feed package for OpenClaw-related threats and vulnerabilities. The upstream feed is updated daily; local automation is handled by clawsec-suite or the operator.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "compliance-architecture",
+  "slug": "compliance-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/compliance-architecture/",
+  "download_url": "https://claudskills.com/skills/compliance-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Enterprise compliance architecture for SOC 2, HIPAA, GDPR, and PCI-DSS regulated systems. Use when designing compliant systems, preparing for audits, or implementing regulatory requirements. Covers compliance checklists, data protection controls, audit evidence collection, and security policies.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "when-automating-github-actions-use-workflow-automation",
+  "slug": "when-automating-github-actions-use-workflow-automation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/when-automating-github-actions-use-workflow-automation/",
+  "download_url": "https://claudskills.com/skills/when-automating-github-actions-use-workflow-automation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Advanced GitHub Actions workflow automation with AI swarm coordination, intelligent CI/CD pipelines, and comprehensive repository management. Coordinates cicd-engineer, workflow-automation, tester, and security-auditor agents through mesh topology to create, optimize, and maintain GitHub Actions workflows. Handles workflow generation, performance optimization, security hardening, matrix testing strategies, and workflow debugging. Use when building CI/CD pipelines, optimizing existing workflows, or establishing automation standards.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

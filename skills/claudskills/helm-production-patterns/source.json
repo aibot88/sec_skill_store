@@ -1,0 +1,18 @@
+{
+  "name": "helm-production-patterns",
+  "slug": "helm-production-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/helm-production-patterns/",
+  "download_url": "https://claudskills.com/skills/helm-production-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implement production deployment strategies including secrets management, blue-green deployments, canary releases, and upgrade procedures. Use when deploying charts to production, implementing secrets management, setting up blue-green or canary deployments, configuring chart testing strategies, or planning upgrade and rollback procedures.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

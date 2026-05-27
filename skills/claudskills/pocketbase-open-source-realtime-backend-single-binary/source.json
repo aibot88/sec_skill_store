@@ -1,0 +1,18 @@
+{
+  "name": "pocketbase-open-source-realtime-backend-single-binary",
+  "slug": "pocketbase-open-source-realtime-backend-single-binary",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pocketbase-open-source-realtime-backend-single-binary/",
+  "download_url": "https://claudskills.com/skills/pocketbase-open-source-realtime-backend-single-binary/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "PocketBase is an open-source Go backend that ships as a single portable executable. It includes an embedded SQLite database with realtime subscriptions, built-in file and user management, a convenient admin dashboard UI, and a simple REST-ish API.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

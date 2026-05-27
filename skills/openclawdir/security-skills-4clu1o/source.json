@@ -1,0 +1,17 @@
+{
+  "name": "security-skills",
+  "slug": "security-skills-4clu1o",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/security-skills-4clu1o",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/chandrasekar-r",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/chandrasekar-r",
+  "license": "",
+  "description": "Security audit and real-time monitoring for Cla...",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=1"
+  },
+  "collected_at": "2026-05-27T03:44:40+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "elysiajs-expert",
+  "slug": "elysiajs-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/elysiajs-expert/",
+  "download_url": "https://claudskills.com/skills/elysiajs-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guidance for ElysiaJS web framework development. Use when building REST APIs, GraphQL services, or WebSocket applications with Elysia on Bun. Covers routing, lifecycle hooks, TypeBox validation, Eden type-safe clients, authentication with JWT/Bearer, all official plugins (OpenAPI, CORS, JWT, static, cron, GraphQL, tRPC), testing patterns, and production deployment. Assumes bun-expert skill is active for Bun runtime expertise.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

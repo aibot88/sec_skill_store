@@ -1,0 +1,18 @@
+{
+  "name": "trae-agents",
+  "slug": "trae-agents",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/trae-agents/",
+  "download_url": "https://claudskills.com/skills/trae-agents/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Collection of expert-level TRAE agent system prompts for code generation, debugging, optimization, security auditing, and workflow acceleration. Reference library — use prompts as templates for specialized agent behavior.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

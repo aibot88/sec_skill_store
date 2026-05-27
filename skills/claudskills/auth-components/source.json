@@ -1,0 +1,18 @@
+{
+  "name": "auth-components",
+  "slug": "auth-components",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-components/",
+  "download_url": "https://claudskills.com/skills/auth-components/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Pre-built and custom Clerk authentication component templates with theming and customization patterns. Use when building authentication UI, creating sign-in/sign-up pages, customizing Clerk components, implementing user buttons, theming auth flows, or when user mentions Clerk components, SignIn, SignUp, UserButton, auth UI, appearance customization, or authentication theming.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

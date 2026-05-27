@@ -1,0 +1,18 @@
+{
+  "name": "experiment-hooks",
+  "slug": "experiment-hooks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/experiment-hooks/",
+  "download_url": "https://claudskills.com/skills/experiment-hooks/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Author pre/post-iteration hooks for an experiment session. Use when the user asks to add research fetching, Slack/webhook notifications, persistent learnings, auto-tagging, anti-thrash intervention, idea rotation, or any side effect around iterations.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

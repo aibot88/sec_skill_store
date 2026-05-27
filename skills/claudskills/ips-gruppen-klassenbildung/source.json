@@ -1,0 +1,18 @@
+{
+  "name": "ips-gruppen-klassenbildung",
+  "slug": "ips-gruppen-klassenbildung",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ips-gruppen-klassenbildung/",
+  "download_url": "https://claudskills.com/skills/ips-gruppen-klassenbildung/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Bildet InsO Gruppen und StaRUG Klassen sachgerecht nach Rechtsstellung und wirtschaftlichen Interessen mit Stimmrechts und Gleichbehandlungslogik.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

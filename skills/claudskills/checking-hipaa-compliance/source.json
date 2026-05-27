@@ -1,0 +1,18 @@
+{
+  "name": "checking-hipaa-compliance",
+  "slug": "checking-hipaa-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/checking-hipaa-compliance/",
+  "download_url": "https://claudskills.com/skills/checking-hipaa-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Check HIPAA compliance for healthcare data security requirements. Use when auditing healthcare applications. Trigger with 'check HIPAA compliance', 'validate health data security', or 'audit PHI protection'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

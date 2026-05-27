@@ -1,0 +1,18 @@
+{
+  "name": "axiom-core-location-ref",
+  "slug": "axiom-core-location-ref",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/axiom-core-location-ref/",
+  "download_url": "https://claudskills.com/skills/axiom-core-location-ref/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use for Core Location API reference - CLLocationUpdate, CLMonitor, CLServiceSession, authorization, background location, geofencing",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:00+00:00"
+}

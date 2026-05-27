@@ -1,0 +1,18 @@
+{
+  "name": "ln-600-docs-auditor",
+  "slug": "ln-600-docs-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-600-docs-auditor/",
+  "download_url": "https://claudskills.com/skills/ln-600-docs-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit project documentation quality across 8 categories (Hierarchy, SSOT, Compactness, Requirements, Actuality, Legacy, Stack Adaptation, Semantic Content). Delegates to ln-601 for deep semantic verification of project documents. Use when documentation needs quality review, after major doc updates, or as part of ln-100-documents-pipeline. Outputs Compliance Score X/10 per category + Findings + Recommended Actions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

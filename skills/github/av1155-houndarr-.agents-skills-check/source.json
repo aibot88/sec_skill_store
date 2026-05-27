@@ -1,0 +1,19 @@
+{
+  "name": "check",
+  "slug": "av1155-houndarr-.agents-skills-check",
+  "source": "github",
+  "source_url": "https://github.com/av1155/houndarr/blob/2979fb3f4a3e80dcc24c20f44816dc8b26b8d909/.agents/skills/check/SKILL.md",
+  "download_url": "https://github.com/av1155/houndarr/blob/2979fb3f4a3e80dcc24c20f44816dc8b26b8d909/.agents/skills/check/SKILL.md",
+  "external_source_url": "https://github.com/av1155/houndarr/blob/2979fb3f4a3e80dcc24c20f44816dc8b26b8d909/.agents/skills/check/SKILL.md",
+  "license": "",
+  "description": "Self-hosted *arr companion for controlled missing, cutoff, and upgrade searches.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "av1155/houndarr",
+    "path": ".agents/skills/check/SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "code-checklist",
+  "slug": "code-checklist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/code-checklist/",
+  "download_url": "https://claudskills.com/skills/code-checklist/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Team code quality checklist - use for checking Python code quality, bugs, security issues, and best practices",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

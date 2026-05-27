@@ -1,0 +1,18 @@
+{
+  "name": "ga4-privacy-compliance",
+  "slug": "ga4-privacy-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ga4-privacy-compliance/",
+  "download_url": "https://claudskills.com/skills/ga4-privacy-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert guidance for GA4 privacy and compliance including GDPR, CCPA, Consent Mode v2, data deletion, and privacy settings. Use when implementing Consent Mode, ensuring GDPR compliance, handling data deletion requests, configuring consent banners, or implementing privacy-first tracking. Covers consent parameters (ad_user_data, ad_personalization), data retention, IP anonymization, and compliance workflows.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:02+00:00"
+}

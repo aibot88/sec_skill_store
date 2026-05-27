@@ -1,0 +1,18 @@
+{
+  "name": "firebase-google-app-development-platform",
+  "slug": "firebase-google-app-development-platform",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-google-app-development-platform/",
+  "download_url": "https://claudskills.com/skills/firebase-google-app-development-platform/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Firebase is Google's app development platform providing real-time databases, authentication, cloud functions, hosting, storage, and analytics for web, iOS, Android, and Flutter applications.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

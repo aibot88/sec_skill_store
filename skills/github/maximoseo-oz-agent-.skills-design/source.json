@@ -1,0 +1,19 @@
+{
+  "name": "design",
+  "slug": "maximoseo-oz-agent-.skills-design",
+  "source": "github",
+  "source_url": "https://github.com/maximoseo/oz-agent/blob/28eead96e5d382f9e6adedf03083d08f0c94a129/.skills/design/ui-ux-design-system-SKILL.md",
+  "download_url": "https://github.com/maximoseo/oz-agent/blob/28eead96e5d382f9e6adedf03083d08f0c94a129/.skills/design/ui-ux-design-system-SKILL.md",
+  "external_source_url": "https://github.com/maximoseo/oz-agent/blob/28eead96e5d382f9e6adedf03083d08f0c94a129/.skills/design/ui-ux-design-system-SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "maximoseo/oz-agent",
+    "path": ".skills/design/ui-ux-design-system-SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

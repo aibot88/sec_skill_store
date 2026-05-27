@@ -1,0 +1,18 @@
+{
+  "name": "digital-systems",
+  "slug": "digital-systems",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/digital-systems/",
+  "download_url": "https://claudskills.com/skills/digital-systems/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Foundational digital technology literacy covering binary and data representation, computer architecture (CPU, memory, storage, I/O), networking fundamentals (protocols, the internet, LAN/WAN), operating systems, and software concepts. Use when explaining how computers work, how data is stored and transmitted, how networks operate, or how hardware and software interact. Distinct from programming -- this skill covers what digital systems are and how they function, not how to write code for them.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

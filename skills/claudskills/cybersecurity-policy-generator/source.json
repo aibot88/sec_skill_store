@@ -1,0 +1,18 @@
+{
+  "name": "cybersecurity-policy-generator",
+  "slug": "cybersecurity-policy-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cybersecurity-policy-generator/",
+  "download_url": "https://claudskills.com/skills/cybersecurity-policy-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generate enterprise cybersecurity policies from 51 professional templates (SANS, CIS Controls) for ISO 27001, SOC 2, NIST, and CIS Controls compliance in Markdown, Word, HTML, and PDF formats",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

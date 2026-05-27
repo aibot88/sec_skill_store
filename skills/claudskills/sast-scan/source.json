@@ -1,0 +1,18 @@
+{
+  "name": "sast-scan",
+  "slug": "sast-scan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sast-scan/",
+  "download_url": "https://claudskills.com/skills/sast-scan/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Static application security testing (SAST) for changed source files — Vulnetix''s built-in rule set plus optional Semgrep augmentation when `.semgrep` config is present. Use when reviewing a PR for code-level vulnerabilities, scanning a feature branch before merge, gating CI on critical findings, or running rule-specific checks for a known weakness class.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "vertex-engine-inspector",
+  "slug": "vertex-engine-inspector",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vertex-engine-inspector/",
+  "download_url": "https://claudskills.com/skills/vertex-engine-inspector/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Inspect and validate Vertex AI Agent Engine deployments including Code Execution Sandbox, Memory Bank, A2A protocol compliance, and security posture. Generates production readiness scores. Use when asked to inspect, validate, or audit an Agent Engine deployment. Trigger with \"inspect agent engine\", \"validate agent engine deployment\", \"check agent engine config\", \"audit agent engine security\", \"agent engine readiness check\", \"vertex engine health\", or \"reasoning engine status\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

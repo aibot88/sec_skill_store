@@ -1,0 +1,18 @@
+{
+  "name": "ground",
+  "slug": "ground",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ground/",
+  "download_url": "https://claudskills.com/skills/ground/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Anchor claims to evidence from authoritative sources. Use when validating assertions, establishing provenance, verifying facts, or ensuring claims are supported by evidence.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:10+00:00"
+}

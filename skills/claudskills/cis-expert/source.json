@@ -1,0 +1,18 @@
+{
+  "name": "cis-expert",
+  "slug": "cis-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cis-expert/",
+  "download_url": "https://claudskills.com/skills/cis-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "CIS Controls v8 expert for baseline security. Deep knowledge of 18 controls, 153 safeguards, Implementation Groups (IG1/IG2/IG3), and practical implementation guidance for organizations of all sizes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:15+00:00"
+}

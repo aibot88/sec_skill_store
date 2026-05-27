@@ -1,0 +1,18 @@
+{
+  "name": "tia-project-general",
+  "slug": "tia-project-general",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tia-project-general/",
+  "download_url": "https://claudskills.com/skills/tia-project-general/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Routed by tia-openness-roadmap. C# Openness implementation of project and portal lifecycle: opening, attaching, creating, archiving, retrieving, saving, copying, closing, deleting projects, project server sessions, transactions, exclusive access, UMAC/UMC, project library entry points, project-level CAx exchange, authentication events, project history, language settings, diagnostics, and advanced multiuser/VCI workflows.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "roadmap",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "mls-listing-craft",
+  "slug": "mls-listing-craft",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mls-listing-craft/",
+  "download_url": "https://claudskills.com/skills/mls-listing-craft/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate MLS-compliant property listing copy in five length variants (tagline, MLS-short ≤250 char, MLS-long ≤4000 char, marketing description ~600-800 words, social caption) PLUS schema.org RealEstateListing JSON-LD for SEO/AEO syndication. Auto-runs HUD Fair Housing Act compliance check (catches discriminatory language patterns — \"perfect for families\", \"walking distance\", \"exclusive\", \"safe neighborhood\", \"Christian community\", etc.). TRIGGER on phrases like \"MLS listing\", \"property listing description\", \"listing copy\", \"real estate description\", \"Zillow listing\", \"compelling listing\", \"write the listing\", \"MLS remarks\", \"marketing copy for [property]\", \"open house copy\". Saves agents 30-60 minutes per listing — and prevents the fair-housing violations that cost agents licenses.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "seo",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "biorxiv-search",
+  "slug": "biorxiv-search",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/biorxiv-search/",
+  "download_url": "https://claudskills.com/skills/biorxiv-search/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Search bioRxiv preprints through the official bioRxiv API and locally filter titles, abstracts, and authors for keyword queries. Use when you need recent biology preprints, bioRxiv-native metadata, date-range scans, DOI lookups, or author shortlists that may not yet appear in peer-reviewed literature indexes.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "biology-medicine",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

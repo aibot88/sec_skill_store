@@ -1,0 +1,18 @@
+{
+  "name": "cfn-parameterized-queries",
+  "slug": "cfn-parameterized-queries",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cfn-parameterized-queries/",
+  "download_url": "https://claudskills.com/skills/cfn-parameterized-queries/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Secure SQL query execution with parameterized queries to prevent SQL injection attacks. Use when executing database queries, inserting/updating records, or performing any SQL operations that require security hardening.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:13+00:00"
+}

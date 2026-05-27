@@ -1,0 +1,18 @@
+{
+  "name": "security-hygiene",
+  "slug": "security-hygiene",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-hygiene/",
+  "download_url": "https://claudskills.com/skills/security-hygiene/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security hygiene for GSD's self-modifying skill and agent system. Use this skill whenever: creating, editing, or deleting skill files (.claude/skills/, .claude/commands/), modifying agent definitions (.claude/agents/), working with YAML configuration or chipset files, handling JSONL observation data (.planning/patterns/), processing community-contributed skills or chipsets, any file path operations that could involve user input, or when installing/updating project-claude configuration. Also activates for discussions about skill-creator security, trust models, or content hygiene.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

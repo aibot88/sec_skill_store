@@ -1,0 +1,18 @@
+{
+  "name": "canonical-format-checker",
+  "slug": "canonical-format-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/canonical-format-checker/",
+  "download_url": "https://claudskills.com/skills/canonical-format-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when content teaches patterns (skills, subagents, ADRs, PHRs, specifications) that have canonical sources elsewhere. Prevents format drift by ensuring content references and follows the authoritative format from canonical sources. Use before implementing lessons that teach platform patterns, or when reviewing content for format consistency.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "education-learning",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

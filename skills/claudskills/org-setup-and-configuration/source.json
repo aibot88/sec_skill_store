@@ -1,0 +1,18 @@
+{
+  "name": "org-setup-and-configuration",
+  "slug": "org-setup-and-configuration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/org-setup-and-configuration/",
+  "download_url": "https://claudskills.com/skills/org-setup-and-configuration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when configuring org-wide platform settings: MFA enforcement, My Domain setup and deployment, session timeout and security settings, password policies, trusted IP ranges (Network Access), and CSP Trusted Sites. Trigger keywords: 'MFA setup', 'My Domain', 'session settings', 'password policy', 'trusted IP ranges', 'CSP trusted sites'. NOT for user-level login restrictions (use user-management), NOT for permission model design (use permission-sets-vs-profiles), NOT for security audit and hardening review (use security/org-hardening-and-baseline-config).",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

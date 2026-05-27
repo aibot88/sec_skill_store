@@ -1,0 +1,18 @@
+{
+  "name": "git-hooks",
+  "slug": "git-hooks-autumnsgrove-grovescout",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/git-hooks-autumnsgrove-grovescout/",
+  "download_url": "https://claudskills.com/skills/git-hooks-autumnsgrove-grovescout/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Set up and configure Git pre-commit hooks for code quality, secrets scanning, and commit message validation. Use when installing git hooks, configuring pre-commit checks, or enforcing code standards.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "git-workflow",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

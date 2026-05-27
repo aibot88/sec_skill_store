@@ -1,0 +1,18 @@
+{
+  "name": "mac-keychain",
+  "slug": "mac-keychain",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mac-keychain/",
+  "download_url": "https://claudskills.com/skills/mac-keychain/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Work with macOS Keychain generic password items through bundled scripts. Use when Codex needs to check, read metadata, create, update, retrieve, reveal, or delete local credentials by `service + account` on macOS, especially as a thin credential-store wrapper inside another workflow.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

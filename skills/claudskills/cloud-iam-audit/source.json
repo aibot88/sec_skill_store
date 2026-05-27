@@ -1,0 +1,18 @@
+{
+  "name": "cloud-iam-audit",
+  "slug": "cloud-iam-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloud-iam-audit/",
+  "download_url": "https://claudskills.com/skills/cloud-iam-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "云 IAM 权限审计与提权。当获取了云平台凭据（AWS AK/SK、Azure SPN、GCP SA、腾讯云 SecretId/SecretKey）需要评估权限范围和提权路径时使用。覆盖 AWS/Azure/GCP/腾讯云的 IAM/CAM 策略分析、常见提权路径（PassRole、AssumeRole、Lambda/SCF 提权）、跨账号攻击、CloudTrail/CloudAudit 规避。发现任何云凭据、AK/SK、SecretId/SecretKey 时都应使用此技能",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

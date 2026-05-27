@@ -1,0 +1,18 @@
+{
+  "name": "audit-backend",
+  "slug": "audit-backend",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-backend/",
+  "download_url": "https://claudskills.com/skills/audit-backend/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit backend code for SQL safety, error handling, auth coverage, PII exposure, dead code, TODO density",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

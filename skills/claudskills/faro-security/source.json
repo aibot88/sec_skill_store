@@ -1,0 +1,18 @@
+{
+  "name": "faro-security",
+  "slug": "faro-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/faro-security/",
+  "download_url": "https://claudskills.com/skills/faro-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit sicurezza OWASP avanzato per pre-lancio. Checklist completa. Trigger: \"audit sicurezza\", \"OWASP\", \"penetration test\", \"security review\"",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

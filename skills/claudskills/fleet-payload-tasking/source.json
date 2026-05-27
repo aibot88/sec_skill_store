@@ -1,0 +1,18 @@
+{
+  "name": "fleet-payload-tasking",
+  "slug": "fleet-payload-tasking",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fleet-payload-tasking/",
+  "download_url": "https://claudskills.com/skills/fleet-payload-tasking/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deploy payloads and shell commands fleet-wide using reliable tasking. Execute scripts, collect data, or run commands across all endpoints with automatic handling of offline sensors. Use for vulnerability scanning, data collection, software inventory, compliance checks, or any fleet-wide operation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "whatsapp-template-4jawaly",
+  "slug": "whatsapp-template-4jawaly",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/whatsapp-template-4jawaly/",
+  "download_url": "https://claudskills.com/skills/whatsapp-template-4jawaly/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "إرسال قوالب واتساب (Meta-approved templates) عبر 4jawaly مع تثبيت كل العوامل (endpoint، auth، namespace، language) وتغيير body/parameters فقط. استخدمها عند ذكر \"قالب واتساب\"، \"template\"، \"OTP\"، \"إشعار\" أو أي إرسال خارج نافذة الـ 24 ساعة.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

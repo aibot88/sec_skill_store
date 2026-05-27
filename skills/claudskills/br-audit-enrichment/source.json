@@ -1,0 +1,18 @@
+{
+  "name": "br-audit-enrichment",
+  "slug": "br-audit-enrichment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/br-audit-enrichment/",
+  "download_url": "https://claudskills.com/skills/br-audit-enrichment/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Enrich better-route 0.5.0 audit events with safe operational metadata. Use when adding AuditEnricherMiddleware, AuditMiddleware context fields, auth user/provider metadata, hashed Idempotency-Key logging, resource/action audit fields, or reviewing sensitive REST write routes that need traceable but redacted audit events.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

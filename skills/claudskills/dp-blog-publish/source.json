@@ -1,0 +1,18 @@
+{
+  "name": "dp-blog-publish",
+  "slug": "dp-blog-publish",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dp-blog-publish/",
+  "download_url": "https://claudskills.com/skills/dp-blog-publish/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Publie des articles sur WordPress via l'API REST. Gère l'authentification par mot de passe d'application, la mise en brouillon, les catégories, les tags, les images à la une, et les meta SEO (Yoast/RankMath). Peut publier un article existant ou un batch d'articles. Triggers: publier, wordpress, publish, wp, mise en ligne blog, poster article.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "seo",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

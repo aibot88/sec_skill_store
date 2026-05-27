@@ -1,0 +1,18 @@
+{
+  "name": "performing-security-audits",
+  "slug": "performing-security-audits",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-security-audits/",
+  "download_url": "https://claudskills.com/skills/performing-security-audits/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Analyze code, infrastructure, and configurations by conducting comprehensive security audits. It leverages tools within the security-pro-pack plugin, including vulnerability scanning, compliance checking, and cryptography review. Use when assessing security or running audits. Trigger with phrases like 'security scan', 'audit', or 'vulnerability'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:53+00:00"
+}

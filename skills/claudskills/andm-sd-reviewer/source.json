@@ -1,0 +1,18 @@
+{
+  "name": "andm-sd-reviewer",
+  "slug": "andm-sd-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/andm-sd-reviewer/",
+  "download_url": "https://claudskills.com/skills/andm-sd-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Adversarial System Design auditor that reviews SD deliverables (requirements, architecture, deep-dive, data flow, security, tradeoffs, evolution, product breakdown) plus ADRs and API specs against an attack-vector checklist. Use to audit SD artifacts and produce a Claim Review file. Read-only - never modifies SD docs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

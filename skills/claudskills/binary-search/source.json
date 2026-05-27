@@ -1,0 +1,18 @@
+{
+  "name": "binary-search",
+  "slug": "binary-search",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/binary-search/",
+  "download_url": "https://claudskills.com/skills/binary-search/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Search on monotonic predicates for sorted arrays, answer spaces, and rotated arrays. Use when finding minimum/maximum values, insertion points, or solving 'minimize the maximum' problems.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

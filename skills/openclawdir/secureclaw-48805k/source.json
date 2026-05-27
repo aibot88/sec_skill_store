@@ -1,0 +1,17 @@
+{
+  "name": "secureclaw",
+  "slug": "secureclaw-48805k",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/secureclaw-48805k",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/alonx2/secureclaw/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/alonx2/secureclaw/SKILL.md",
+  "license": "",
+  "description": "Community-driven security intelligence for AI agents.",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=1"
+  },
+  "collected_at": "2026-05-27T03:44:40+00:00"
+}

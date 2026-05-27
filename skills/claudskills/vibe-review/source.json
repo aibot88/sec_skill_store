@@ -1,0 +1,18 @@
+{
+  "name": "vibe-review",
+  "slug": "vibe-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vibe-review/",
+  "download_url": "https://claudskills.com/skills/vibe-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when a PR is open and CI green - dispatches a fresh subagent for two-stage code review (spec compliance then quality), posts findings to the GitHub PR as review comments with severity classification",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "agents-skills-meta",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

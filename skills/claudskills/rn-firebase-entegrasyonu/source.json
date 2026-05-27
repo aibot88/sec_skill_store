@@ -1,0 +1,18 @@
+{
+  "name": "rn-firebase-entegrasyonu",
+  "slug": "rn-firebase-entegrasyonu",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/rn-firebase-entegrasyonu/",
+  "download_url": "https://claudskills.com/skills/rn-firebase-entegrasyonu/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "React Native uygulamada Firebase modüllerinin (Auth/Firestore/Storage/Crashlytics vb.) entegrasyonunu projeye uygun standartta uygulat; config, environment ve güvenli kullanım kurallarını uygula.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "mobile",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

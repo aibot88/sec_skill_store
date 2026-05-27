@@ -1,0 +1,18 @@
+{
+  "name": "compose-preview-review",
+  "slug": "compose-preview-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/compose-preview-review/",
+  "download_url": "https://claudskills.com/skills/compose-preview-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review pull requests that change Compose UI by rendering @Preview composables on base and head and diffing them. Use when reviewing a UI PR locally, authoring an agent-opened PR that touches UI, or wiring compose-preview/main baselines and PR-comment GitHub Actions for a project. Pairs with the compose-preview skill.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:24+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "clerk",
+  "slug": "clerk-claude-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk-claude-skill/",
+  "download_url": "https://claudskills.com/skills/clerk-claude-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Clerk authentication integration for Astro/Next.js. Use when implementing authentication, handling Clerk middleware, testing with Playwright, or debugging auth issues. Trigger phrases include \"Clerk auth\", \"sign in\", \"authentication\", \"middleware\", \"E2E testing with Clerk\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

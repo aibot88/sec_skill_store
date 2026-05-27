@@ -1,0 +1,18 @@
+{
+  "name": "k8s-scaling-and-resilience-topology",
+  "slug": "k8s-scaling-and-resilience-topology",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/k8s-scaling-and-resilience-topology/",
+  "download_url": "https://claudskills.com/skills/k8s-scaling-and-resilience-topology/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when sizing and hardening the scaling and resilience posture of a Kubernetes workload after reliability and performance have decided SLOs, replica floors, and disruption budgets. Produces tuned HPA / VPA / KEDA selection and parameters, tier-correct PodDisruptionBudget sizing, pod anti-affinity and topology-spread constraints, multi-zone placement, graceful-shutdown wiring (terminationGracePeriodSeconds + preStop), and surge/maxUnavailable budgets per workload tier. This tunes the baseline HPA/PDB the manifest archetype created. Do not use for base manifest authoring, network/identity policy, observability pipeline wiring, image hardening, or cluster/node provisioning and the cluster-autoscaler/Karpenter node layer; use the other Family G archetype skills (node provisioning is out of family).",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

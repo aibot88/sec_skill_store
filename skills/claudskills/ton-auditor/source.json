@@ -1,0 +1,18 @@
+{
+  "name": "ton-auditor",
+  "slug": "ton-auditor",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ton-auditor/",
+  "download_url": "https://claudskills.com/skills/ton-auditor/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Security audit of TON/FunC/Tact smart contracts while you develop. Trigger on \"audit\", \"check this contract\", \"review for security\". Modes - default (full repo), DEEP (+ TON protocol analysis), or a specific filename.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

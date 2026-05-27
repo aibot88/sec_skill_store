@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "dxcsithlordpadawan-securebypolicy-app-skills",
+  "source": "github",
+  "source_url": "https://github.com/DXCSithlordPadawan/SecureByPolicy/blob/45aced69272b3a6084474fdf4a4015fb2a18e70f/app/skills/c_skill.md",
+  "download_url": "https://github.com/DXCSithlordPadawan/SecureByPolicy/blob/45aced69272b3a6084474fdf4a4015fb2a18e70f/app/skills/c_skill.md",
+  "external_source_url": "https://github.com/DXCSithlordPadawan/SecureByPolicy/blob/45aced69272b3a6084474fdf4a4015fb2a18e70f/app/skills/c_skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "DXCSithlordPadawan/SecureByPolicy",
+    "path": "app/skills/c_skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

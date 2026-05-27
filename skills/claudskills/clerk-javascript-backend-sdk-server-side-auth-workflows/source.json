@@ -1,0 +1,18 @@
+{
+  "name": "clerk-javascript-backend-sdk-server-side-auth-workflows",
+  "slug": "clerk-javascript-backend-sdk-server-side-auth-workflows",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk-javascript-backend-sdk-server-side-auth-workflows/",
+  "download_url": "https://claudskills.com/skills/clerk-javascript-backend-sdk-server-side-auth-workflows/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Clerk’s JavaScript backend SDK gives agents a real server-side interface for auth and user management. It is useful for verifying sessions, fetching users, issuing invitations, and integrating Clerk into custom backend or edge workflows.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ide-editor",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cg-plan",
+  "slug": "cg-plan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cg-plan/",
+  "download_url": "https://claudskills.com/skills/cg-plan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Invoke when the user wants to plan a feature by identifying which parts should be widgets and which parts should stay as app glue. Fires on \"plan this feature\", \"break this feature into widgets\", \"what widgets would I need for X\", \"how should I decompose Y\", \"what parts of this are reusable\". Works per-feature, not per-app — if the user brings a whole app, narrow to one feature first. Does NOT fire once implementation has started, or for one-off fixes. Does NOT teach widget design patterns, glue gotchas, or authoring (that's widget creation, not identification). Does NOT teach the cloud layer (cg-cloud), change config (cg-config), or review proposals (cg-proposals).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "website-publisher",
+  "slug": "website-publisher",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/website-publisher/",
+  "download_url": "https://claudskills.com/skills/website-publisher/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Manage your author website — auto-publish books on completion, draft blog posts from your projects, render and deploy with one command",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

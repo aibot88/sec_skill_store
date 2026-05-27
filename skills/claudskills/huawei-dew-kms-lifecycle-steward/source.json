@@ -1,0 +1,18 @@
+{
+  "name": "huawei-dew-kms-lifecycle-steward",
+  "slug": "huawei-dew-kms-lifecycle-steward",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/huawei-dew-kms-lifecycle-steward/",
+  "download_url": "https://claudskills.com/skills/huawei-dew-kms-lifecycle-steward/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Manage Huawei DEW (Data Encryption Workshop) — KMS key lifecycle and rotation, CSMS secret rotation automation, CBH (Cloud Bastion Host) privileged access session management, and DBSS database encryption and SQL audit.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "clerk-incident-runbook",
+  "slug": "clerk-incident-runbook",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clerk-incident-runbook/",
+  "download_url": "https://claudskills.com/skills/clerk-incident-runbook/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Manage incident response for Clerk authentication issues. Use when handling auth outages, security incidents, or production authentication problems. Trigger with phrases like \"clerk incident\", \"clerk outage\", \"clerk down\", \"auth not working\", \"clerk emergency\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "incident-response",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:17+00:00"
+}

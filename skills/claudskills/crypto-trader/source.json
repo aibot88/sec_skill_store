@@ -1,0 +1,18 @@
+{
+  "name": "crypto-trader",
+  "slug": "crypto-trader",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/crypto-trader/",
+  "download_url": "https://claudskills.com/skills/crypto-trader/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "วิเคราะห์ crypto market — BTC/ETH/altcoin, on-chain metrics (MVRV, NUPL), DeFi yield, fear/greed (risk สูงมาก)",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

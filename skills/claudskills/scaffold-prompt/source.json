@@ -1,0 +1,18 @@
+{
+  "name": "prompt-engineer-scaffold-prompt",
+  "slug": "scaffold-prompt",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scaffold-prompt/",
+  "download_url": "https://claudskills.com/skills/scaffold-prompt/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "\\\"Create defensive prompt scaffolding with guardrails and safety measures. 創建帶護欄與安全措施之防禦提示架構。 Use when: building user-facing prompts, adding injection protection, implementing harm prevention layers.\\",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "scaffolders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

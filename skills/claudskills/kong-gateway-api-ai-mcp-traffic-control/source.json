@@ -1,0 +1,18 @@
+{
+  "name": "kong-gateway-api-ai-mcp-traffic-control",
+  "slug": "kong-gateway-api-ai-mcp-traffic-control",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kong-gateway-api-ai-mcp-traffic-control/",
+  "download_url": "https://claudskills.com/skills/kong-gateway-api-ai-mcp-traffic-control/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Kong Gateway is an open-source API gateway that handles routing, authentication, load balancing, observability, and newer AI and MCP traffic patterns. It fits teams that need one control layer in front of services, model providers, or mixed API estates.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

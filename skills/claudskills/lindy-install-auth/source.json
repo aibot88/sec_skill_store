@@ -1,0 +1,18 @@
+{
+  "name": "lindy-install-auth",
+  "slug": "lindy-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lindy-install-auth/",
+  "download_url": "https://claudskills.com/skills/lindy-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Set up Lindy AI account, API access, and webhook authentication. Use when onboarding to Lindy, configuring API keys for webhook triggers, or connecting Lindy agents to your application. Trigger with phrases like \"install lindy\", \"setup lindy\", \"lindy auth\", \"configure lindy API key\", \"lindy webhook secret\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

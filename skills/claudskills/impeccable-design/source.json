@@ -1,0 +1,18 @@
+{
+  "name": "impeccable-design",
+  "slug": "impeccable-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/impeccable-design/",
+  "download_url": "https://claudskills.com/skills/impeccable-design/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Bind agent-authored `.DESIGN.md` files to paperboard's design doctrine. Loads the impeccable anti-slop methodology (vendored, Apache 2.0, pinned to commit `4af581e23f17d112d8f9d6b7a5b7ff37823494e1`) and the binding rules in `core/designs/DESIGN-AUTHORITY.md`. Read these BEFORE writing or editing any `.DESIGN.md` file.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "security-best-practices",
+  "slug": "supercent-io-security-best-practices",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/supercent-io-security-best-practices",
+  "download_url": "https://github.com/supercent-io/skills-template/tree/main/.agent-skills/security-best-practices/",
+  "external_source_url": "https://github.com/supercent-io/skills-template/tree/main/.agent-skills/security-best-practices/",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Implement security best practices for web applications and infrastructure. Use when securing APIs, preventing common vulnerabilities, or implementing security policies. Handles HTTPS, CORS, XSS, SQL Injection, CSRF, rate limiting, and OWASP Top 10.",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/supercent-io/skills-template/tree/main/.agent-skills/security-best-practices/"
+  },
+  "collected_at": "2026-05-27T03:44:51+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "aws-private-ca-issuer-review",
+  "slug": "aws-private-ca-issuer-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-private-ca-issuer-review/",
+  "download_url": "https://claudskills.com/skills/aws-private-ca-issuer-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when reviewing AWS ACM Private CA (Private Certificate Authority) issuer configurations for cert-manager. Trigger on any request to audit AWSPCAIssuer, AWSPCAClusterIssuer, IRSA policy for cert-manager, certificate template ARNs, CRL configuration, or cross-account PCA usage.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

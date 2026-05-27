@@ -1,0 +1,18 @@
+{
+  "name": "postgres-strict",
+  "slug": "postgres-strict",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/postgres-strict/",
+  "download_url": "https://claudskills.com/skills/postgres-strict/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "PostgreSQL strictness, schema design, indexing, migration safety, and operational rules. Use when designing schemas, writing queries, reviewing migrations, tuning performance, or hardening a Postgres deployment. Targets PostgreSQL 16-18, with notes on pgvector, partitioning, and RLS. Pairs with security-audit-standard and performance-audit-standard.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:56+00:00"
+}

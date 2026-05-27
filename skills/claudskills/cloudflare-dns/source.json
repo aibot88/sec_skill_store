@@ -1,0 +1,18 @@
+{
+  "name": "cloudflare-dns",
+  "slug": "cloudflare-dns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cloudflare-dns/",
+  "download_url": "https://claudskills.com/skills/cloudflare-dns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive guide for managing Cloudflare DNS with Azure integration. Use when configuring Cloudflare as authoritative DNS provider for Azure-hosted applications, managing DNS records via API, setting up API tokens, configuring proxy settings, troubleshooting DNS issues, implementing DNS security best practices, or integrating External-DNS with Cloudflare for Kubernetes workloads.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:19+00:00"
+}

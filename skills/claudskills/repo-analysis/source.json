@@ -1,0 +1,18 @@
+{
+  "name": "repo-analysis",
+  "slug": "repo-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/repo-analysis/",
+  "download_url": "https://claudskills.com/skills/repo-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Dual-lens repo analysis: Creator View (knowledge, insights, home-repo comparison) + Engineer View (health, security, process). Two user-invokable depths (Standard / Deep); Quick Scan is triage-only. Link mining for curated lists. Fit separation via dual scoring lenses. Outputs to .research/analysis/<repo-slug>/.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:03+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "web3-security-analysis",
+  "slug": "security-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-analysis/",
+  "download_url": "https://claudskills.com/skills/security-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze Web3 security risks with SpoonOS agents. Use when checking token safety (honeypots, rugs), simulating transactions, detecting MEV, or auditing contracts.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

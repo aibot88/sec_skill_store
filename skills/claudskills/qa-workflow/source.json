@@ -1,0 +1,18 @@
+{
+  "name": "qa-workflow",
+  "slug": "qa-workflow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/qa-workflow/",
+  "download_url": "https://claudskills.com/skills/qa-workflow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Gestión del QA del proyecto GitHooks: ejecutar herramientas de análisis estático y tests, interpretar y corregir violaciones, y garantizar que el código está limpio antes de commitear. Usa esta skill SIEMPRE antes de commitear, o cuando un commit falle por un hook de QA, o cuando el usuario pida \"ejecutar QA\", \"pasar análisis\", \"arreglar phpmd\", \"arreglar phpstan\", \"limpiar violaciones\", \"preparar para commit\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

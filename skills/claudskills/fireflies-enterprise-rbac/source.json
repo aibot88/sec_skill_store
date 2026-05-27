@@ -1,0 +1,18 @@
+{
+  "name": "fireflies-enterprise-rbac",
+  "slug": "fireflies-enterprise-rbac",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fireflies-enterprise-rbac/",
+  "download_url": "https://claudskills.com/skills/fireflies-enterprise-rbac/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Configure Fireflies.ai workspace roles, channels, privacy controls, and meeting sharing. Use when managing team access, setting up channels, or configuring transcript visibility and sharing rules. Trigger with phrases like \"fireflies roles\", \"fireflies permissions\", \"fireflies channels\", \"fireflies privacy\", \"fireflies sharing\", \"fireflies RBAC\".",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:58+00:00"
+}

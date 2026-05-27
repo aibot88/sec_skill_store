@@ -1,0 +1,18 @@
+{
+  "name": "gdpr-compliance-check",
+  "slug": "gdpr-compliance-check",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gdpr-compliance-check/",
+  "download_url": "https://claudskills.com/skills/gdpr-compliance-check/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audits web applications and architectures for compliance with GDPR, CCPA, and other privacy regulations, focusing on consent, data minimization, and user rights.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:04+00:00"
+}

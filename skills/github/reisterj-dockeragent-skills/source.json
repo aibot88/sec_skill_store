@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "reisterj-dockeragent-skills",
+  "source": "github",
+  "source_url": "https://github.com/ReisterJ/DockerAgent/blob/b4b81debc326d62205d701495c8c6e758828d39b/skills/orchestrate.skill.md",
+  "download_url": "https://github.com/ReisterJ/DockerAgent/blob/b4b81debc326d62205d701495c8c6e758828d39b/skills/orchestrate.skill.md",
+  "external_source_url": "https://github.com/ReisterJ/DockerAgent/blob/b4b81debc326d62205d701495c8c6e758828d39b/skills/orchestrate.skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "ReisterJ/DockerAgent",
+    "path": "skills/setup_env.skill.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

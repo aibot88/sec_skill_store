@@ -1,0 +1,18 @@
+{
+  "name": "ops-package",
+  "slug": "ops-package",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ops-package/",
+  "download_url": "https://claudskills.com/skills/ops-package/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Ship parcels via any configured carrier — MyParcel, Sendcloud, DHL Parcel NL, PostNL, DPD, UPS, FedEx. Auto-selects the first carrier whose credentials are configured, or pass --carrier <name> to override. Verbs: ship, label, track, list, carriers.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

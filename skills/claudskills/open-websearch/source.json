@@ -1,0 +1,18 @@
+{
+  "name": "open-websearch",
+  "slug": "open-websearch",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/open-websearch/",
+  "download_url": "https://claudskills.com/skills/open-websearch/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Użyj tego skilla do wieloźródłowego researchu w sieci: wyszukiwania jednego lub wielu tematów, pobierania wielu stron przez fetchWebContent i zapisywania oczyszczonych plików Markdown do research_data/<folder-badania>/zrodla_i_analiza przed analizą.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

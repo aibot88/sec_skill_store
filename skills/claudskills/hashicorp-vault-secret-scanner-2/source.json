@@ -1,0 +1,18 @@
+{
+  "name": "hashicorp-vault-secret-scanner-2",
+  "slug": "hashicorp-vault-secret-scanner-2",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hashicorp-vault-secret-scanner-2/",
+  "download_url": "https://claudskills.com/skills/hashicorp-vault-secret-scanner-2/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scans codebases for hardcoded secrets using HashiCorp Vault SDK and truffleHog patterns. Integrates with Vault Transit engine for automatic secret rotation and re-encryption of detected credentials.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

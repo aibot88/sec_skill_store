@@ -1,0 +1,18 @@
+{
+  "name": "backend-annotations",
+  "slug": "backend-annotations",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backend-annotations/",
+  "download_url": "https://claudskills.com/skills/backend-annotations/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "基于若依-vue-plus框架的后端Java注解标准使用规范。涵盖实体映射（Lombok、MyBatis-Plus）、接口安全（Sa-Token权限）、 日志审计（操作日志）、数据校验（JSR-303）、数据导入导出（Excel注解）、防重复提交、接口限流等全方位注解使用标准。 触发场景： - 编写Entity实体类并映射数据库表结构 - 开发Controller RESTful接口并配置安全权限 - 实现Service业务逻辑并管理事务 - 配置数据导入导出功能（Excel/Word/PDF） - 添加接口防护机制（防重、限流、脱敏） - 进行参数校验和异常处理 触发词：注解规范、实体注解、权限注解、日志注解、参数校验、数据导出、事务管理、接口防护",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

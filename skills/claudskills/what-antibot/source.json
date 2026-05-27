@@ -1,0 +1,18 @@
+{
+  "name": "what-antibot",
+  "slug": "what-antibot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/what-antibot/",
+  "download_url": "https://claudskills.com/skills/what-antibot/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Detect antibot vendors on one or more URLs without opening a browser session. Use when the user asks what antibot, bot protection, WAF, captcha, or challenge provider a site uses, or asks to check sites for Cloudflare, Akamai, DataDome, PerimeterX, Imperva/Incapsula, Kasada, reCAPTCHA, hCaptcha, Anubis, or Shape Security markers.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

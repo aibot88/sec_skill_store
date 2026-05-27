@@ -1,0 +1,18 @@
+{
+  "name": "opencli-adapter-author",
+  "slug": "opencli-adapter-author",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/opencli-adapter-author/",
+  "download_url": "https://claudskills.com/skills/opencli-adapter-author/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when writing an OpenCLI adapter for a new site or adding a new command to an existing site. Guides end-to-end from first recon through field decoding, adapter coding, and verify. Replaces opencli-oneshot / opencli-explorer. For ad-hoc browser driving (no adapter), see opencli-browser instead; for a top-level orientation to opencli, see opencli-usage.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

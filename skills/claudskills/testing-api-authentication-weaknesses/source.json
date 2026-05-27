@@ -1,0 +1,18 @@
+{
+  "name": "testing-api-authentication-weaknesses",
+  "slug": "testing-api-authentication-weaknesses",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/testing-api-authentication-weaknesses/",
+  "download_url": "https://claudskills.com/skills/testing-api-authentication-weaknesses/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Tests API authentication mechanisms for weaknesses including broken token validation, missing authentication",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:27+00:00"
+}

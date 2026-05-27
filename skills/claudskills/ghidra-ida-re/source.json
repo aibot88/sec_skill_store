@@ -1,0 +1,18 @@
+{
+  "name": "Ghidra/IDA Reverse Engineering Skill",
+  "slug": "ghidra-ida-re",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ghidra-ida-re/",
+  "download_url": "https://claudskills.com/skills/ghidra-ida-re/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deep integration with Ghidra and IDA Pro for binary analysis and reverse engineering",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

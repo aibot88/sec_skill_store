@@ -1,0 +1,18 @@
+{
+  "name": "scan-claude-code-configs-for-secrets-permission-drift-and-unsafe",
+  "slug": "scan-claude-code-configs-for-secrets-permission-drift-and-unsafe",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/scan-claude-code-configs-for-secrets-permission-drift-and-unsafe/",
+  "download_url": "https://claudskills.com/skills/scan-claude-code-configs-for-secrets-permission-drift-and-unsafe/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit a Claude Code setup before use by flagging hardcoded secrets, broad allow rules, risky hooks, and dangerous MCP server config.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:11+00:00"
+}

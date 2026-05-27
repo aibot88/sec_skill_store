@@ -1,0 +1,18 @@
+{
+  "name": "agent-ops-dependencies",
+  "slug": "agent-ops-dependencies",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-ops-dependencies/",
+  "download_url": "https://claudskills.com/skills/agent-ops-dependencies/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Dependency management, updates, and security advisory handling. Use when adding, updating, or auditing project dependencies.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

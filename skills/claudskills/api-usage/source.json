@@ -1,0 +1,18 @@
+{
+  "name": "api-usage",
+  "slug": "api-usage",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/api-usage/",
+  "download_url": "https://claudskills.com/skills/api-usage/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "REST API for creating AI-powered video ads programmatically. Bearer token auth via API key, OAuth client_credentials, or OAuth Authorization Code (Connect flow).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:51+00:00"
+}

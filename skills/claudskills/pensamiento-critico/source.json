@@ -1,0 +1,18 @@
+{
+  "name": "pensamiento-critico",
+  "slug": "pensamiento-critico",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pensamiento-critico/",
+  "download_url": "https://claudskills.com/skills/pensamiento-critico/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Analiza textos aplicando pensamiento crítico — el marco de los 8 elementos del pensamiento y los estándares intelectuales universales de Richard Paul y Linda Elder — y detecta las falacias lógicas graves presentes. Úsala siempre que el usuario comparta un texto (pegado o en un archivo) y pida analizarlo críticamente, detectar falacias, evaluar argumentos, identificar sesgos, o preguntas como \"¿qué problemas tiene este argumento?\", \"¿es sólido este razonamiento?\", \"analiza esto\", \"dame una crítica\". También actívala cuando el usuario comparta un artículo de opinión, un post, un discurso, un ensayo o cualquier texto argumentativo y quiera evaluar su calidad argumentativa.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:50+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "sast-analysis",
+  "slug": "sast-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sast-analysis/",
+  "download_url": "https://claudskills.com/skills/sast-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Perform codebase analysis and architecture mapping as the first phase of a security assessment. Explores the tech stack, frameworks, entry points, data flows, and trust boundaries. Outputs sast/architecture.md. Run this before any vulnerability detection skill. Use when asked to analyze a codebase for security or when sast/architecture.md does not yet exist.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

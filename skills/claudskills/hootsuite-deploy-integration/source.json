@@ -1,0 +1,18 @@
+{
+  "name": "hootsuite-deploy-integration",
+  "slug": "hootsuite-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hootsuite-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/hootsuite-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Hootsuite integrations to Vercel, Fly.io, and Cloud Run platforms. Use when deploying Hootsuite-powered applications to production, configuring platform-specific secrets, or setting up deployment pipelines. Trigger with phrases like \"deploy hootsuite\", \"hootsuite Vercel\", \"hootsuite production deploy\", \"hootsuite Cloud Run\", \"hootsuite Fly.io\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:14+00:00"
+}

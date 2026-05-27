@@ -1,0 +1,18 @@
+{
+  "name": "senior-backend",
+  "slug": "senior-backend",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/senior-backend/",
+  "download_url": "https://claudskills.com/skills/senior-backend/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive backend development skill for building scalable backend systems using NodeJS, Express, Go, Python, Postgres, GraphQL, REST APIs. Includes API scaffolding, database optimization, security implementation, and performance tuning. Use when designing APIs, optimizing database queries, implementing business logic, handling authentication/authorization, or reviewing backend code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:15+00:00"
+}

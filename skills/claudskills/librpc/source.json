@@ -1,0 +1,18 @@
+{
+  "name": "librpc",
+  "slug": "librpc",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/librpc/",
+  "download_url": "https://claudskills.com/skills/librpc/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "librpc - gRPC framework for microservices. RpcServer and RpcClient provide base classes. loadProto loads protobuf definitions. createClientFactory builds typed service clients. hmacAuth provides authentication support. createTracer enables distributed tracing. Use for inter-service communication, building gRPC services, and service client creation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

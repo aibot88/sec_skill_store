@@ -1,0 +1,18 @@
+{
+  "name": "agent-code-reviewer",
+  "slug": "agent-code-reviewer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-code-reviewer/",
+  "download_url": "https://claudskills.com/skills/agent-code-reviewer/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Expert code reviewer specializing in code quality, security vulnerabilities, and best practices across multiple languages. Masters static analysis, design patterns, and performance optimization with focus on maintainability and technical debt reduction.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

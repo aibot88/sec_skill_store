@@ -1,0 +1,18 @@
+{
+  "name": "ollama-model-safety-guardrails",
+  "slug": "ollama-model-safety-guardrails",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ollama-model-safety-guardrails/",
+  "download_url": "https://claudskills.com/skills/ollama-model-safety-guardrails/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Select appropriate Ollama models for processing sensitive but legal content. Use when: (1) llama3.2 or deepseek-r1 refuses to process content with \"I cannot assist\" responses, (2) Local LLM returns generic safety disclaimers instead of following instructions, (3) Need to process adult content, sex work data, or other legal-but-sensitive material through a local LLM. Also covers using /api/chat vs /api/generate for system prompt support, and structuring prompts for consistent format compliance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

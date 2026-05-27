@@ -1,0 +1,18 @@
+{
+  "name": "testing-websocket-api-security",
+  "slug": "testing-websocket-api-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/testing-websocket-api-security/",
+  "download_url": "https://claudskills.com/skills/testing-websocket-api-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Tests WebSocket API implementations for security vulnerabilities including missing authentication on WebSocket",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:28+00:00"
+}

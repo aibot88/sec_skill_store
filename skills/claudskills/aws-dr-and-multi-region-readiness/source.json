@@ -1,0 +1,18 @@
+{
+  "name": "aws-dr-and-multi-region-readiness",
+  "slug": "aws-dr-and-multi-region-readiness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-dr-and-multi-region-readiness/",
+  "download_url": "https://claudskills.com/skills/aws-dr-and-multi-region-readiness/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when designing and rehearsing AWS disaster-recovery and multi-region posture for a workload after the runtime and observability exist and reliability and operations have decided RPO/RTO targets and failover ownership. Produces multi-AZ baseline, tier-driven multi-region topology (active-passive / active-active), cross-region data replication (RDS replicas, S3 CRR, DynamoDB Global Tables), Route 53 health-check failover, AWS Backup posture, and a documented, rehearsed failover drill with measured RPO/RTO. Do not use for org/account topology, network/identity foundation, single-region workload runtime, observability/cost wiring, or Terraform module/state mechanics; use the other aws (or Family H) skills.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

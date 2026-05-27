@@ -1,0 +1,18 @@
+{
+  "name": "react-routing-and-rendering-strategy",
+  "slug": "react-routing-and-rendering-strategy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/react-routing-and-rendering-strategy/",
+  "download_url": "https://claudskills.com/skills/react-routing-and-rendering-strategy/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when defining, reviewing, or hardening the routing topology and client rendering strategy of a standalone React SPA after the app scaffold exists and frontend architecture has decided rendering modes per route. Produces React Router 6 data-router topology (nested routes, loaders, actions, deferred data), CSR-only rendering posture with suspense and transition boundaries, per-route loading and error UI, route-level metadata and SEO posture, and protected-route gates and redirect flows wired to the auth provider baseline from the scaffold. Do not use for app scaffolding, global state or data-fetching libraries, design-system or accessibility work, performance budgeting, or any SSR/RSC/server-action rendering; use the other react archetype skills or the nextjs stack instead.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

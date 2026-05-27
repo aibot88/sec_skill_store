@@ -1,0 +1,18 @@
+{
+  "name": "vergabe-nachpruefung-aussicht",
+  "slug": "vergabe-nachpruefung-aussicht",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vergabe-nachpruefung-aussicht/",
+  "download_url": "https://claudskills.com/skills/vergabe-nachpruefung-aussicht/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Pruefraster fuer Vergabenachpruefungs-Verfahren bei Vergabekammern (oberhalb der EU-Schwellenwerte). Pruefung Rechtsschutz § 155 ff. GWB Antragsbefugnis § 160 Abs. 2 GWB Ruegeobliegenheit § 160 Abs. 3 GWB Antragsfrist § 160 Abs. 2 GWB Auswahlfehler Bekanntmachung Eignung Praequalifikation ungewoehnlich niedriges Angebot § 60 VgV Wertungsfehler Ausschlussgruende fakultativ obligatorisch Submission Aufhebung Zuschlag-Stop § 169 GWB sofortige Beschwerde § 171 GWB OLG Vergabesenat Bietergemeinschaft Bietersorgfaltspflicht.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

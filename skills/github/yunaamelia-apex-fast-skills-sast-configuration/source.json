@@ -1,0 +1,19 @@
+{
+  "name": "sast-configuration",
+  "slug": "yunaamelia-apex-fast-skills-sast-configuration",
+  "source": "github",
+  "source_url": "https://github.com/yunaamelia/apex-fast/blob/bc96753e5ba9bcf471ef6d3f72dafd4abb0b8d02/skills/sast-configuration/SKILL.md",
+  "download_url": "https://github.com/yunaamelia/apex-fast/blob/bc96753e5ba9bcf471ef6d3f72dafd4abb0b8d02/skills/sast-configuration/SKILL.md",
+  "external_source_url": "https://github.com/yunaamelia/apex-fast/blob/bc96753e5ba9bcf471ef6d3f72dafd4abb0b8d02/skills/sast-configuration/SKILL.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "yunaamelia/apex-fast",
+    "path": "skills/sast-configuration/SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

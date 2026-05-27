@@ -1,0 +1,18 @@
+{
+  "name": "generating-threat-intelligence-reports",
+  "slug": "generating-threat-intelligence-reports",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/generating-threat-intelligence-reports/",
+  "download_url": "https://claudskills.com/skills/generating-threat-intelligence-reports/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Generates structured cyber threat intelligence reports at strategic, operational, and tactical levels tailored",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:05+00:00"
+}

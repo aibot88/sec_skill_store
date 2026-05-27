@@ -1,0 +1,18 @@
+{
+  "name": "pm-red-team",
+  "slug": "pm-red-team",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pm-red-team/",
+  "download_url": "https://claudskills.com/skills/pm-red-team/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Adversarially re-review a PM artifact, recommendation, or AI-generated critique that already exists. Use as a second pass after another skill (pm-evaluator, pm-prd-drafter, pm-decision-coach, pm-value-hypothesis-tester) has produced output, or on any external AI output the user wants pressure-tested before deferring to it. Plays the role of a hostile exec, skeptical board member, or competing PM — looking for what the first pass missed, what bias it brought, and what would not survive a real review. Returns the three load-bearing holes, what's already strong enough to keep, and the specific re-writes that would close the gaps.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

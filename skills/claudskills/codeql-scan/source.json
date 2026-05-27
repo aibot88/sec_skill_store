@@ -1,0 +1,18 @@
+{
+  "name": "codeql-scan",
+  "slug": "codeql-scan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/codeql-scan/",
+  "download_url": "https://claudskills.com/skills/codeql-scan/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Execute CodeQL security scans with language detection, database caching, and SARIF output. Use when performing static security analysis on Python or GitHub Actions code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

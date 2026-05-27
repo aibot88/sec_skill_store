@@ -1,0 +1,18 @@
+{
+  "name": "keitaro",
+  "slug": "keitaro",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/keitaro/",
+  "download_url": "https://claudskills.com/skills/keitaro/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Keitaro tracker management for affiliate marketers and media buyers. Manage campaigns, flows, landings, reports, and optimization via natural language through Keitaro Admin API. Supports all verticals: gambling, crypto, nutra, dating, finance, sweepstakes, e-commerce. Triggers on: keitaro, tracker, campaigns, flows, landings, TDS, traffic distribution, affiliate tracking, media buying, postback, conversion tracking, ROI optimization, split test.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

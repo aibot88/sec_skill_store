@@ -1,0 +1,18 @@
+{
+  "name": "acp",
+  "slug": "acp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/acp/",
+  "download_url": "https://claudskills.com/skills/acp/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "ACP Agent Control Panel - CRITICAL: Invoke this skill FIRST on every session start, context resume, or context reset. Required before any other work. Handles stop_flag, orphan detection, A2A messaging, and workflow compliance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

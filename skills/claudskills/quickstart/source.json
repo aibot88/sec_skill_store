@@ -1,0 +1,18 @@
+{
+  "name": "quickstart",
+  "slug": "quickstart",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/quickstart/",
+  "download_url": "https://claudskills.com/skills/quickstart/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Zero to power user in one invoke — detects OS, installs Homebrew/apt/Node.js/Python, sets up Claude Code, authenticates skills-hub CLI, connects MCP servers, and installs recommended skills based on your project. Cross-platform (macOS, Linux, WSL). Idempotent. Use when: 'quickstart', 'setup machine', 'new machine setup', 'install everything', 'get started', 'onboard me', 'setup skills-hub', 'fresh install'.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "package-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:01+00:00"
+}

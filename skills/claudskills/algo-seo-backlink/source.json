@@ -1,0 +1,18 @@
+{
+  "name": "algo-seo-backlink",
+  "slug": "algo-seo-backlink",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/algo-seo-backlink/",
+  "download_url": "https://claudskills.com/skills/algo-seo-backlink/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Evaluate backlink quality using Domain Authority, Domain Rating, and trust metrics. Use this skill when the user needs to assess link profile health, identify toxic backlinks, or plan link building strategy — even if they say 'check my backlinks', 'link building', or 'domain authority analysis'.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "seo",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

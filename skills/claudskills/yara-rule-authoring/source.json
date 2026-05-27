@@ -1,0 +1,18 @@
+{
+  "name": "yara-rule-authoring",
+  "slug": "yara-rule-authoring",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/yara-rule-authoring/",
+  "download_url": "https://claudskills.com/skills/yara-rule-authoring/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Guides authoring of high-quality YARA-X detection rules for malware identification. Use when writing, reviewing, or optimizing YARA rules. Covers naming conventions, string selection, performance optimization, migration from legacy YARA, and false positive reduction. Triggers on: YARA, YARA-X, malware detection, threat hunting, IOC, signature, crx module, dex module.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

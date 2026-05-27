@@ -1,0 +1,18 @@
+{
+  "name": "ai-scan",
+  "slug": "ai-scan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-scan/",
+  "download_url": "https://claudskills.com/skills/ai-scan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run AI governance checks across cloud accounts and code repos — ISO 42001, EU AI Act, NIST AI RMF compliance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

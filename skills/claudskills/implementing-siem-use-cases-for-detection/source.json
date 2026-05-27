@@ -1,0 +1,18 @@
+{
+  "name": "implementing-siem-use-cases-for-detection",
+  "slug": "implementing-siem-use-cases-for-detection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-siem-use-cases-for-detection/",
+  "download_url": "https://claudskills.com/skills/implementing-siem-use-cases-for-detection/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implements SIEM detection use cases by designing correlation rules, threshold alerts, and behavioral analytics",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "docker-compose-stack-analyzer",
+  "slug": "docker-compose-stack-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docker-compose-stack-analyzer/",
+  "download_url": "https://claudskills.com/skills/docker-compose-stack-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyzes Docker Compose configurations for security, networking, and resource optimization using the Docker Engine API and Compose specification parser. Detects misconfigurations and dependency issues.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "hcs-adr-review",
+  "slug": "hcs-adr-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hcs-adr-review/",
+  "download_url": "https://claudskills.com/skills/hcs-adr-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Review an Architecture Decision Record (ADR) in this repo for boundary discipline, charter compliance, and decision-ledger consistency.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:12+00:00"
+}

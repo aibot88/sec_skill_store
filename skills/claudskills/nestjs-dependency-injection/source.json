@@ -1,0 +1,18 @@
+{
+  "name": "nestjs-dependency-injection",
+  "slug": "nestjs-dependency-injection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nestjs-dependency-injection/",
+  "download_url": "https://claudskills.com/skills/nestjs-dependency-injection/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "NestJS dependency injection system, providers, injection tokens, scoped providers, and advanced DI patterns. Use when working with dependency injection, creating services, or managing provider lifecycles in NestJS.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:42+00:00"
+}

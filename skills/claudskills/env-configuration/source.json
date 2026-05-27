@@ -1,0 +1,18 @@
+{
+  "name": "env-configuration",
+  "slug": "env-configuration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/env-configuration/",
+  "download_url": "https://claudskills.com/skills/env-configuration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply when managing application configuration: environment variables, secrets management, and config validation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:50+00:00"
+}

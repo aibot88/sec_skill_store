@@ -1,0 +1,18 @@
+{
+  "name": "metadata-api-retrieve-deploy",
+  "slug": "metadata-api-retrieve-deploy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/metadata-api-retrieve-deploy/",
+  "download_url": "https://claudskills.com/skills/metadata-api-retrieve-deploy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Metadata API retrieve/deploy via sf CLI and package.xml: manifest authoring, destructiveChanges, deploy options (checkOnly, testLevel, rollbackOnError), CI scripting. NOT for DX source format conversions (use salesforce-dx-source-tracking). NOT for unlocked packages (use unlocked-packages).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

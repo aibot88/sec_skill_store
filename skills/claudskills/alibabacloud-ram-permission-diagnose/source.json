@@ -1,0 +1,18 @@
+{
+  "name": "alibabacloud-ram-permission-diagnose",
+  "slug": "alibabacloud-ram-permission-diagnose",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibabacloud-ram-permission-diagnose/",
+  "download_url": "https://claudskills.com/skills/alibabacloud-ram-permission-diagnose/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Alibaba Cloud RAM permission diagnosis and repair assistant. When an agent encounters any permission-related error while operating Alibaba Cloud resources (403, NoPermission, Forbidden, AccessDenied, InvalidSecurityToken, etc.), or when the user describes an Alibaba Cloud RAM permission issue, use this skill immediately. Do not wait for the user to explicitly request it — proactively start the diagnostic process whenever a permission error appears. Also applies when: a developer encounters permission issues while writing Alibaba Cloud SDK code, the user asks how to configure minimum permissions for an operation, or the user wants to know which permissions the current identity is missing.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

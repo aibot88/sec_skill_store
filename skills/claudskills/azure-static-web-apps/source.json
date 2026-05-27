@@ -1,0 +1,18 @@
+{
+  "name": "azure-static-web-apps",
+  "slug": "azure-static-web-apps",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-static-web-apps/",
+  "download_url": "https://claudskills.com/skills/azure-static-web-apps/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Deploy static sites with Azure Static Web Apps. Configure API routes, authentication, custom domains, and staging environments. Use for JAMstack, SPAs, static sites, and serverless backends on Azure.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

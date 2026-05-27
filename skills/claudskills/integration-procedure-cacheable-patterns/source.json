@@ -1,0 +1,18 @@
+{
+  "name": "integration-procedure-cacheable-patterns",
+  "slug": "integration-procedure-cacheable-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/integration-procedure-cacheable-patterns/",
+  "download_url": "https://claudskills.com/skills/integration-procedure-cacheable-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when designing Integration Procedures (IPs) with platform cache to cut latency and callout load. Covers cache key design, TTL selection, per-user vs org-wide partitions, invalidation on data changes, and safe fallback on cache miss/stale. Does NOT cover general IP authoring (see omnistudio-error-handling-patterns) or LWC client-side caching.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:21+00:00"
+}

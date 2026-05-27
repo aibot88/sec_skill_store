@@ -1,0 +1,18 @@
+{
+  "name": "clickhouse-security-basics",
+  "slug": "clickhouse-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clickhouse-security-basics/",
+  "download_url": "https://claudskills.com/skills/clickhouse-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Secure ClickHouse with user management, network restrictions, TLS, and audit logging. Use when hardening a ClickHouse deployment, creating restricted users, or configuring network-level access controls. Trigger: \"clickhouse security\", \"clickhouse user management\", \"secure clickhouse\", \"clickhouse TLS\", \"clickhouse access control\", \"clickhouse firewall\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

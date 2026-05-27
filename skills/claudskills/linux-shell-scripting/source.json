@@ -1,0 +1,18 @@
+{
+  "name": "linux-shell-scripting",
+  "slug": "linux-shell-scripting",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/linux-shell-scripting/",
+  "download_url": "https://claudskills.com/skills/linux-shell-scripting/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provide production-ready shell script templates for common Linux system administration tasks including backups, monitoring, user management, log analysis, and automation. These scripts serve as building blocks for security operations and penetration testing environments.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ux-research",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

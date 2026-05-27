@@ -1,0 +1,18 @@
+{
+  "name": "implementing-container-image-minimal-base-with-distroless",
+  "slug": "implementing-container-image-minimal-base-with-distroless",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-container-image-minimal-base-with-distroless/",
+  "download_url": "https://claudskills.com/skills/implementing-container-image-minimal-base-with-distroless/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Reduce container attack surface by building application images on Google distroless base images that contain",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

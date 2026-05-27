@@ -1,0 +1,18 @@
+{
+  "name": "chatgpt-send",
+  "slug": "chatgpt-send",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chatgpt-send/",
+  "download_url": "https://claudskills.com/skills/chatgpt-send/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Posle zpravu do ChatGPT vlakna pres Playwright CDP — ovlada Edge prohlizec a zapise zpravu primo do ChatGPT input boxu. Pouzij kdyz uzivatel explicitne chce ODESLAT zpravu: 'chatgpt-send', '/chatgpt-send', 'spust chatgpt-send', nebo 'posli [neco] do chatgpt pres playwright/CDP'. Parametry: project= (Legal/Coding/LG13), thread= (URL), message= (text), special= (/github /search). Nepouz: kdyz uzivatel jen mluvi o chatgpt, chce precist odpoved (→ chatgpt-force-read), nebo chce second-opinion (→ chatgpt-ask).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

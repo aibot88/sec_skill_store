@@ -1,0 +1,18 @@
+{
+  "name": "eval-driven-development",
+  "slug": "eval-driven-development",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eval-driven-development/",
+  "download_url": "https://claudskills.com/skills/eval-driven-development/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when reasoning about building language-model-integrated systems by writing evaluations before and alongside the system: the statistical (not binary) nature of LLM evals, the five primitives (dataset, evaluation function, aggregation, iteration loop, regression budget), the judgment-mechanism taxonomy (programmatic, model-graded, human-graded, preference comparison), the difference between system-specific evals and canonical benchmarks (MMLU, HumanEval, BIG-bench, GAIA), how evals drive prompt/model/scaffolding/tooling changes, why Goodhart's Law means higher eval scores are not always improvements, and the offline-eval-vs-production-telemetry distinction. Do NOT use for deterministic unit testing (use testing-strategy), production monitoring (use evaluation or error-tracking), general-software TDD (use testing-strategy), or the construction of individual eval rubrics and task sets (use agent-eval-design — it owns construction; this skill owns the iteration discipline).",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "math-stats",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

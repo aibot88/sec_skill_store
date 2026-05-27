@@ -1,0 +1,18 @@
+{
+  "name": "lead-project",
+  "slug": "lead-project",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/lead-project/",
+  "download_url": "https://claudskills.com/skills/lead-project/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Autonomous technical lead. Takes commander's intent and drives a project to completion through an OODA loop over implementation, refactoring, review, and bug-hunting skills. Has broad authority — creates tickets, commits, invokes any skill — and only escalates via andon cord for irreversible actions, public releases, or genuinely blocking decisions. User acts as product owner; skill acts as tech lead.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cube-definition",
+  "slug": "cube-definition",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cube-definition/",
+  "download_url": "https://claudskills.com/skills/cube-definition/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Define semantic layer cubes with Drizzle ORM tables, including dimensions, measures, time dimensions, and security context. Use when creating analytics cubes, defining data models, setting up multi-tenant filtering, or working with drizzle-cube semantic layers.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

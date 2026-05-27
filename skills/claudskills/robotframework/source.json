@@ -1,0 +1,18 @@
+{
+  "name": "robotframework",
+  "slug": "robotframework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/robotframework/",
+  "download_url": "https://claudskills.com/skills/robotframework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use this skill for general Robot Framework work: authoring `.robot` suites, tasks, keywords, variables, resource files, execution, dry runs, tags, Rebot/Libdoc usage, and Python test-library patterns. Trigger when the user mentions Robot Framework, `.robot` files, keywords, libraries, resource files, tasks, listeners, Libdoc, Rebot, or Robot Framework syntax and execution.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

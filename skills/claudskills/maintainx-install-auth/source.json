@@ -1,0 +1,18 @@
+{
+  "name": "maintainx-install-auth",
+  "slug": "maintainx-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/maintainx-install-auth/",
+  "download_url": "https://claudskills.com/skills/maintainx-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure MaintainX REST API authentication. Use when setting up a new MaintainX integration, configuring API keys, or initializing MaintainX API access in your project. Trigger with phrases like \"install maintainx\", \"setup maintainx\", \"maintainx auth\", \"configure maintainx API key\", \"maintainx credentials\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:35+00:00"
+}

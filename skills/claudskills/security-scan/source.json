@@ -1,0 +1,18 @@
+{
+  "name": "security-scan",
+  "slug": "security-scan",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-scan/",
+  "download_url": "https://claudskills.com/skills/security-scan/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scan the codebase for security vulnerabilities based on the OWASP Top 10. Use when the user asks to audit security, find vulnerabilities, check for security issues, or says \"security scan\", \"audit this\", \"find security bugs\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:14+00:00"
+}

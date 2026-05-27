@@ -1,0 +1,18 @@
+{
+  "name": "Bun Drizzle Integration",
+  "slug": "bun-drizzle-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bun-drizzle-integration/",
+  "download_url": "https://claudskills.com/skills/bun-drizzle-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when integrating Drizzle ORM with Bun's SQLite driver for type-safe schema definitions and migrations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

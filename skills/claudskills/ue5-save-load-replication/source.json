@@ -1,0 +1,18 @@
+{
+  "name": "ue5-save-load-replication",
+  "slug": "ue5-save-load-replication",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ue5-save-load-replication/",
+  "download_url": "https://claudskills.com/skills/ue5-save-load-replication/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "UE5.6/UE5.7 save/load and multiplayer replication workflow for gameplay systems. Use when requests involve SaveGame schema design, serialization, restore pipelines, RepNotify handling, RPC entry points, and server-authoritative validation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:31+00:00"
+}

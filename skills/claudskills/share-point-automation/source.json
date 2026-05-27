@@ -1,0 +1,18 @@
+{
+  "name": "SharePoint Automation",
+  "slug": "share-point-automation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/share-point-automation/",
+  "download_url": "https://claudskills.com/skills/share-point-automation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "SharePoint Automation: manage sites, lists, documents, folders, pages, and search content across SharePoint and OneDrive",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:17+00:00"
+}

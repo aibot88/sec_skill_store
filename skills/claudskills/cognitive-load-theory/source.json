@@ -1,0 +1,18 @@
+{
+  "name": "cognitive-load-theory",
+  "slug": "cognitive-load-theory",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cognitive-load-theory/",
+  "download_url": "https://claudskills.com/skills/cognitive-load-theory/SKILL.md",
+  "external_source_url": "",
+  "license": "CC-BY-4.0",
+  "description": "Sweller's Cognitive Load Theory (CLT) for agents writing skill content, designing prompts, building UI/dashboards, and authoring documentation. Working memory holds roughly 4 chunks at a time; CLT classifies load into three types — intrinsic (irreducible task difficulty), extraneous (unnecessary load from poor presentation, ELIMINATE), and germane (load that builds schemas, PROMOTE). Use when writing a SKILL.md body (does this section add extraneous load?), designing prompts (am I asking the model to hold too much at once?), building dashboards (what is the per-screen cognitive budget?), or authoring docs (is intrinsic load minimized via segmentation?). Do NOT use for retrieval and context-loading design (use context-management), prompt engineering tactics (use prompt-craft), or instructional design beyond what grounds the theory.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "education-learning",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

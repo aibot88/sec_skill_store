@@ -1,0 +1,18 @@
+{
+  "name": "persona-security-basics",
+  "slug": "persona-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/persona-security-basics/",
+  "download_url": "https://claudskills.com/skills/persona-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Secure Persona API keys, webhook secrets, PII handling in verification data. Use when working with Persona identity verification. Trigger with phrases like \"persona security-basics\", \"persona security-basics\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:54+00:00"
+}

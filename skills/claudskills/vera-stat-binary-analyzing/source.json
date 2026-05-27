@@ -1,0 +1,18 @@
+{
+  "name": "vera-stat-binary-analyzing",
+  "slug": "vera-stat-binary-analyzing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vera-stat-binary-analyzing/",
+  "download_url": "https://claudskills.com/skills/vera-stat-binary-analyzing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Server-side extension that completes the full analysis pipeline for binary outcome variables after vera-stat-binary-testing has run. Adds remaining association tests (chi-square/Fisher's for additional predictors, point-biserial for continuous predictors), stratified odds ratio analysis with Breslow-Day test and forest plot, full modeling (logistic regression with OR and 95% CI, Hosmer-Lemeshow GOF, pseudo-R2, ROC curve with AUC, classification table, tree-based classification with CART/RF/GBM), and cross-method variable importance comparison on a 0-100 unified scale. Generates manuscript-ready methods.md and results.md with formatted tables, publication-quality figures, and references.bib. Applies output variation and code style variation for natural, non-repetitive output. Triggered after vera-stat-binary-testing completes, or direct request with a binary outcome variable.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:33+00:00"
+}

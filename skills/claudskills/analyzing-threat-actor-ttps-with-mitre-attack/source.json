@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-threat-actor-ttps-with-mitre-attack",
+  "slug": "analyzing-threat-actor-ttps-with-mitre-attack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-threat-actor-ttps-with-mitre-attack/",
+  "download_url": "https://claudskills.com/skills/analyzing-threat-actor-ttps-with-mitre-attack/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "MITRE ATT&CK is a globally-accessible knowledge base of adversary tactics, techniques, and procedures (TTPs)",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

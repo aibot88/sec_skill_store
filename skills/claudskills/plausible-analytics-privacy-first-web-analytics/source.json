@@ -1,0 +1,18 @@
+{
+  "name": "plausible-analytics-privacy-first-web-analytics",
+  "slug": "plausible-analytics-privacy-first-web-analytics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/plausible-analytics-privacy-first-web-analytics/",
+  "download_url": "https://claudskills.com/skills/plausible-analytics-privacy-first-web-analytics/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Plausible Analytics is a lightweight, open-source, privacy-friendly alternative to Google Analytics. It requires no cookies, is fully GDPR/CCPA/PECR compliant, and provides a clean single-page dashboard with all essential website metrics and traffic insights.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

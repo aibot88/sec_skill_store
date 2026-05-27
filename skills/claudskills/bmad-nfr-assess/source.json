@@ -1,0 +1,18 @@
+{
+  "name": "bmad-nfr-assess",
+  "slug": "bmad-nfr-assess",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bmad-nfr-assess/",
+  "download_url": "https://claudskills.com/skills/bmad-nfr-assess/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Assesses Non-Functional Requirements (security, performance, reliability, maintainability, observability) with evidence-based codebase analysis. Scans actual code for patterns, scores each aspect, and produces a structured assessment saved as a tracker document. Supports epic-level (specific project) or system-level (whole codebase) scope. Use when 'nfr assess', 'nfr assessment', 'non functional', 'évaluation nfr', 'exigences non fonctionnelles', 'testarch nfr', 'testability assessment', 'test engineering nfr' is mentioned.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:08+00:00"
+}

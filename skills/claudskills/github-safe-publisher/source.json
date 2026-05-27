@@ -1,0 +1,18 @@
+{
+  "name": "github-safe-publisher",
+  "slug": "github-safe-publisher",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/github-safe-publisher/",
+  "download_url": "https://claudskills.com/skills/github-safe-publisher/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Prepare private work for safe public GitHub publishing. Use when the user asks to publish safely, turn private project work into a GitHub-safe artifact, sanitize a project, make a public case study, prepare material for GitHub, review a repo before pushing, or check whether files contain secrets, client data, raw prompts, logs, local paths, private source, or other sensitive material.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:07+00:00"
+}

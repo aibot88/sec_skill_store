@@ -1,0 +1,18 @@
+{
+  "name": "keystonejs-headless-cms-graphql-react-admin",
+  "slug": "keystonejs-headless-cms-graphql-react-admin",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/keystonejs-headless-cms-graphql-react-admin/",
+  "download_url": "https://claudskills.com/skills/keystonejs-headless-cms-graphql-react-admin/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "KeystoneJS is a powerful open-source headless CMS for Node.js that auto-generates a GraphQL API and React-based Admin UI from your schema definition. Built by Thinkmill, it supports PostgreSQL and SQLite, custom access control, hooks, virtual fields, and document-based rich text editing.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "frontend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

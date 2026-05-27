@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-sovereignty-economics",
+  "slug": "agentprivacy-sovereignty-economics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-sovereignty-economics/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-sovereignty-economics/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Sovereignty economics and P^1.5 superlinearity for 0xagentprivacy. Activates when discussing the superlinear returns of protection, sovereignty gap quantification (17×-12,000×), V_sovereign/V_surveillance ratios, or the mathematical proof that privacy creates exponentially more value than surveillance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

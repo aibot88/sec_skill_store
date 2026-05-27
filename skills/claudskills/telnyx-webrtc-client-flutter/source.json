@@ -1,0 +1,18 @@
+{
+  "name": "telnyx-webrtc-client-flutter",
+  "slug": "telnyx-webrtc-client-flutter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/telnyx-webrtc-client-flutter/",
+  "download_url": "https://claudskills.com/skills/telnyx-webrtc-client-flutter/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build cross-platform VoIP calling apps with Flutter using Telnyx WebRTC SDK. Covers authentication, making/receiving calls, push notifications (FCM + APNS), call quality metrics, and AI Agent integration. Works on Android, iOS, and Web.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:26+00:00"
+}

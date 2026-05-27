@@ -1,0 +1,19 @@
+{
+  "name": "skills-audit",
+  "slug": "xwtro0tk1t-cloud-harness-bundled-skills-skills-audit",
+  "source": "github",
+  "source_url": "https://github.com/xwtro0tk1t-cloud/harness/blob/3e8bb50bc16aa8b706a2151e6b24a2966b2f8f19/bundled-skills/skills-audit/SKILL.md",
+  "download_url": "https://github.com/xwtro0tk1t-cloud/harness/blob/3e8bb50bc16aa8b706a2151e6b24a2966b2f8f19/bundled-skills/skills-audit/SKILL.md",
+  "external_source_url": "https://github.com/xwtro0tk1t-cloud/harness/blob/3e8bb50bc16aa8b706a2151e6b24a2966b2f8f19/bundled-skills/skills-audit/SKILL.md",
+  "license": "",
+  "description": "Harness is an AI Agent development guardrail Meta-Skill that establishes four layers of defense for any project in one command: knowledge management, architecture constraints, feedback loops, and entropy management.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "xwtro0tk1t-cloud/harness",
+    "path": "bundled-skills/skills-audit/SKILL.md",
+    "query": "filename:SKILL.md \"CWE\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

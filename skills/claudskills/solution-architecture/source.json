@@ -1,0 +1,18 @@
+{
+  "name": "solution-architecture",
+  "slug": "solution-architecture",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/solution-architecture/",
+  "download_url": "https://claudskills.com/skills/solution-architecture/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "[discovery-phase pack · scoping] High-level solution design as a discovery deliverable — system context, logical components, data flow, integrations, NFRs (perf/scale/security/SLA), and tech-stack rationale. Not detailed design; feeds estimation and surfaces tech risks. Produces solution-architecture.md. Reads scope-doc.md, mvp-definition.md, risk-assumption-map.md.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

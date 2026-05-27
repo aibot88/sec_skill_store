@@ -1,0 +1,18 @@
+{
+  "name": "pmcro-project-generator",
+  "slug": "pmcro-project-generator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/pmcro-project-generator/",
+  "download_url": "https://claudskills.com/skills/pmcro-project-generator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generates a complete, production-ready PMCR-O Cognitive Architecture .NET 10 Aspire project as a downloadable ZIP file. The generated project follows the real PMCRO substrate pattern: Aspire AppHost, gRPC-internal / REST-external hybrid, Microsoft Agent Framework (MAF) phase services (Planner, Maker, Checker, Reflector, OrchestratorService, OrchestrationApi), MCP actuators with three pillars (Tools + Resources + Prompts), Central Package Management, Directory.Build.props/targets, SKILL.md per service, and SeedIntent injection. Use this skill whenever a user provides a CompanyName, ProjectName, and SeedIntent and wants to scaffold a full PMCRO project. Triggers on: \"generate PMCRO project\", \"scaffold cognitive architecture\", \"new PMCRO project\", \"generate project zip\", \"dotnet new pmcro\", or any combination of intent + project name implying a PMCRO scaffold is desired.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

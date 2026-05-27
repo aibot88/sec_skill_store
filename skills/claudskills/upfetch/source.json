@@ -1,0 +1,18 @@
+{
+  "name": "upfetch",
+  "slug": "upfetch",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/upfetch/",
+  "download_url": "https://claudskills.com/skills/upfetch/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Load this skill for any up-fetch task: `up(fetch, getDefaultOptions?)`, `upfetch(url, options?)`. Covers dynamic defaults, auth, request shaping, validation, error handling, lifecycle timing, and runtime caveats.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:31+00:00"
+}

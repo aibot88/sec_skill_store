@@ -1,0 +1,18 @@
+{
+  "name": "intercom-security-basics",
+  "slug": "intercom-security-basics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/intercom-security-basics/",
+  "download_url": "https://claudskills.com/skills/intercom-security-basics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Apply Intercom security best practices for tokens, webhook verification, and scopes. Use when securing access tokens, implementing webhook signature validation, or configuring least-privilege OAuth scopes. Trigger with phrases like \"intercom security\", \"intercom secrets\", \"secure intercom\", \"intercom webhook signature\", \"intercom token rotation\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:22+00:00"
+}

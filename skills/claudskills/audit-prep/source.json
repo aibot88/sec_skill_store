@@ -1,0 +1,18 @@
+{
+  "name": "audit-prep",
+  "slug": "audit-prep",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-prep/",
+  "download_url": "https://claudskills.com/skills/audit-prep/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Prepare Solidity projects for a security audit — test coverage, test quality, NatSpec docs, code hygiene, dependency health, best-practice enforcement, deployment readiness, and project documentation checks. Generates a scored Audit Readiness Report and optionally runs static analysis. Trigger on: \"prepare for audit\", \"audit readiness\", \"pre-audit check\", \"audit prep\", \"NatSpec check\", or any request to review a Solidity codebase before a security review.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

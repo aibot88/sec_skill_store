@@ -1,0 +1,18 @@
+{
+  "name": "mission-control-codex-cli-mode",
+  "slug": "mission-control-codex-cli-mode",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mission-control-codex-cli-mode/",
+  "download_url": "https://claudskills.com/skills/mission-control-codex-cli-mode/SKILL.md",
+  "external_source_url": "",
+  "license": "AGPL-3.0",
+  "description": "Use or prefer Codex CLI runner mode through Mission Control. Use when the user wants Codex CLI as the runner, needs its status explained, or wants the distinction between subscription auth and API-based providers kept clear.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:39+00:00"
+}

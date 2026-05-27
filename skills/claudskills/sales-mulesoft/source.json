@@ -1,0 +1,18 @@
+{
+  "name": "sales-mulesoft",
+  "slug": "sales-mulesoft",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-mulesoft/",
+  "download_url": "https://claudskills.com/skills/sales-mulesoft/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "MuleSoft platform help — Anypoint Platform, API-led connectivity, Design Center, Anypoint Studio, Code Builder, Exchange, Runtime Manager, API Manager, Flex Gateway, Composer, RPA, IDP, DataWeave, CloudHub, 450+ connectors. Use when Anypoint Studio crashes or gives misleading errors, DataWeave transformation isn't working, CloudHub deployment fails or runs out of CPU credits, API policies aren't enforcing correctly, connectors won't authenticate to SAP or Salesforce, vCore pricing is spiraling and you need to optimize, or MuleSoft implementation is stalling. Do NOT use for general CRM platform config (use /sales-salesforce) or simple Zapier/Make integrations (use /sales-integration).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

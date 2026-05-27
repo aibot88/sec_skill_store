@@ -1,0 +1,18 @@
+{
+  "name": "dotnet-backend-expert",
+  "slug": "dotnet-backend-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dotnet-backend-expert/",
+  "download_url": "https://claudskills.com/skills/dotnet-backend-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill should be used when the user is writing, reviewing, debugging, or architecting pure .NET backend code for Kestrel-hosted services. It provides expert critique for REST endpoints, SignalR hubs, TypeScript/React client integration shape, pragmatic Rust interop, application services, AppHost-aware project structure, EF Core and database boundaries, dependency injection lifetimes, OOP and SOLID quality, concurrency, and distributed-architecture tradeoffs. Use when the user asks \"critique my .NET backend\", \"review this service\", \"should this be singleton or scoped\", \"structure my solution\", \"review my SignalR hub\", \"review my AppHost\", \"is this clean architecture\", \"should I use repositories\", \"fix my DbContext usage\", \"design my REST endpoints\", \"review my concurrency\", or \"should this be microservices\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

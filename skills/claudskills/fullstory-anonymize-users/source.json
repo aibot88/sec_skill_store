@@ -1,0 +1,18 @@
+{
+  "name": "fullstory-anonymize-users",
+  "slug": "fullstory-anonymize-users",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fullstory-anonymize-users/",
+  "download_url": "https://claudskills.com/skills/fullstory-anonymize-users/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive guide for implementing Fullstory's User Anonymization API (setIdentity with anonymous:true) for web applications. Teaches proper logout handling, session management, privacy compliance, and user switching scenarios. Includes detailed good/bad examples for logout flows, multi-user applications, and privacy-conscious implementations.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "storytelling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:02+00:00"
+}

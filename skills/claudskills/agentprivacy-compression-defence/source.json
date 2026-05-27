@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-compression-defence",
+  "slug": "agentprivacy-compression-defence",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-compression-defence/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-compression-defence/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Compression-as-defence principle for 0xagentprivacy V5. Activates when discussing BRAID 74× compression, R(d,compression) modifier, token reduction as attack surface reduction, the compression spectrum (7 layers), or why efficient inference is also private inference.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:40+00:00"
+}

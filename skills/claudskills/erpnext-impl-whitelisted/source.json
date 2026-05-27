@@ -1,0 +1,18 @@
+{
+  "name": "erpnext-impl-whitelisted",
+  "slug": "erpnext-impl-whitelisted",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/erpnext-impl-whitelisted/",
+  "download_url": "https://claudskills.com/skills/erpnext-impl-whitelisted/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Implementation workflows and decision trees for Frappe Whitelisted Methods (REST APIs). Use when determining HOW to implement API endpoints: public vs authenticated, permission patterns, error handling, response formats, client integration. Triggers: how do I create API, build REST endpoint, frappe.call pattern, API permission check, guest API, secure endpoint.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

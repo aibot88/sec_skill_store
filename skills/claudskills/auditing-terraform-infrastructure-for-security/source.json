@@ -1,0 +1,18 @@
+{
+  "name": "auditing-terraform-infrastructure-for-security",
+  "slug": "auditing-terraform-infrastructure-for-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auditing-terraform-infrastructure-for-security/",
+  "download_url": "https://claudskills.com/skills/auditing-terraform-infrastructure-for-security/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Auditing Terraform infrastructure-as-code for security misconfigurations using Checkov, tfsec, Terrascan, and",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:55+00:00"
+}

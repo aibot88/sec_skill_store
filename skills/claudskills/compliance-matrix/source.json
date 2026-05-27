@@ -1,0 +1,18 @@
+{
+  "name": "compliance-matrix",
+  "slug": "compliance-matrix",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/compliance-matrix/",
+  "download_url": "https://claudskills.com/skills/compliance-matrix/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate and track compliance matrices for RFP requirements. Use when building requirements tracking features, implementing compliance checklists, or ensuring proposal coverage.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "operations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "kratos-tests",
+  "slug": "kratos-tests",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kratos-tests/",
+  "download_url": "https://claudskills.com/skills/kratos-tests/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generates comprehensive table-driven tests for go-kratos microservices using testify/mock and testify/assert. Creates repository tests with in-memory SQLite, business layer tests with mocks, and service layer tests with proper context propagation. Use when writing unit tests for any kratos layer, adding test coverage, creating mock implementations, or validating CRUD operations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:27+00:00"
+}

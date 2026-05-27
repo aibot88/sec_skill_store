@@ -1,0 +1,18 @@
+{
+  "name": "amazon-review-checker",
+  "slug": "amazon-review-checker",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/amazon-review-checker/",
+  "download_url": "https://claudskills.com/skills/amazon-review-checker/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Amazon review authenticity analyzer. Detect fake reviews, suspicious patterns, and rating manipulation. Includes time clustering detection, content similarity analysis, rating distribution checks, and verified purchase validation. Progressive analysis with L1-L4 depth levels. No API key required.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

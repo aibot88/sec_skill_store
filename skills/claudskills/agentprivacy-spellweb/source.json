@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-spellweb",
+  "slug": "agentprivacy-spellweb",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-spellweb/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-spellweb/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Spellweb navigation architecture for 0xagentprivacy V5. Activates when discussing grimoire navigation at scale, acts as nodes, proverbs as waypoints, boundaries as edges, holographic documentation, or traversal accumulating T_∫.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:42+00:00"
+}

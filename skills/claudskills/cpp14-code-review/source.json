@@ -1,0 +1,18 @@
+{
+  "name": "cpp14-code-review",
+  "slug": "cpp14-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cpp14-code-review/",
+  "download_url": "https://claudskills.com/skills/cpp14-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "AUTOSAR C++14およびCERT C++コーディング規約に準拠したC++14コードレビュー。安全性重視のC++システムのコードレビュー、セキュリティ監査、品質評価、静的解析ツール設定を行う際に使用。",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:29+00:00"
+}

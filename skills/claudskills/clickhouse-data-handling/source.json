@@ -1,0 +1,18 @@
+{
+  "name": "clickhouse-data-handling",
+  "slug": "clickhouse-data-handling",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clickhouse-data-handling/",
+  "download_url": "https://claudskills.com/skills/clickhouse-data-handling/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Handle data lifecycle in ClickHouse — TTL expiration, data deletion (GDPR), column-level encryption, and audit logging with real ClickHouse SQL. Use when implementing data retention, GDPR deletion requests, or managing sensitive data in ClickHouse. Trigger: \"clickhouse data retention\", \"clickhouse TTL\", \"clickhouse GDPR\", \"delete data clickhouse\", \"clickhouse data lifecycle\", \"clickhouse PII\".",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

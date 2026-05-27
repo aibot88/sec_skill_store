@@ -1,0 +1,18 @@
+{
+  "name": "email-deliverability-audit",
+  "slug": "email-deliverability-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/email-deliverability-audit/",
+  "download_url": "https://claudskills.com/skills/email-deliverability-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Diagnostic audit for a running cold email program. Checks domain authentication (SPF/DKIM/DMARC), inbox health/reputation from Smartlead, bounce rate by inbox type, and optionally runs a spam placement test via Smartlead's Smart Delivery API. Outputs markdown report + CSV with per-domain/per-inbox scores and concrete action items. Use when reply rates drop, when bounces spike, when onboarding someone else's account, or as a weekly/monthly health check.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

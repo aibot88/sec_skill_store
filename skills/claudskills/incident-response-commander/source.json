@@ -1,0 +1,18 @@
+{
+  "name": "incident-response-commander",
+  "slug": "incident-response-commander",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/incident-response-commander/",
+  "download_url": "https://claudskills.com/skills/incident-response-commander/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Guides teams through IT outages and security incidents, providing structured workflows for detection, containment, eradication, and post-mortem analysis.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "incident-response",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "express.js-guide",
+  "slug": "express-js-guide",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/express-js-guide/",
+  "download_url": "https://claudskills.com/skills/express-js-guide/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Express 5+ API server guidelines for TypeScript. Apply when editing `*.ts` files with Express imports or `@types/express`. Use for route organization, error handling, authentication, testing. Keywords: Express, routes, controllers, middleware, Zod validation, JWT, error handling, CORS, Morgan.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:53+00:00"
+}

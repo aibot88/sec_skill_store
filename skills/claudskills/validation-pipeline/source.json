@@ -1,0 +1,18 @@
+{
+  "name": "validation-pipeline",
+  "slug": "validation-pipeline",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/validation-pipeline/",
+  "download_url": "https://claudskills.com/skills/validation-pipeline/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "[PROTOCOL] Cross-cutting validation chains. Defines which validators to run, in what order, with which triggers, across marketing / dev / design domains. Preloaded by lead agents (marketing-lead, dev-lead, design-lead). Pure reference — no triggers, not invoked by secretary.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "conversion",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:32+00:00"
+}

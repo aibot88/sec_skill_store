@@ -1,0 +1,18 @@
+{
+  "name": "gamma-common-errors",
+  "slug": "gamma-common-errors",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gamma-common-errors/",
+  "download_url": "https://claudskills.com/skills/gamma-common-errors/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Debug and resolve common Gamma API errors. Use when encountering authentication failures, rate limits, generation errors, or unexpected API responses. Trigger with phrases like \"gamma error\", \"gamma not working\", \"gamma API error\", \"gamma debug\", \"gamma troubleshoot\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:03+00:00"
+}

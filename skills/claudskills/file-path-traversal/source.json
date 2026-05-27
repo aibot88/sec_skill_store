@@ -1,0 +1,18 @@
+{
+  "name": "file-path-traversal",
+  "slug": "file-path-traversal",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/file-path-traversal/",
+  "download_url": "https://claudskills.com/skills/file-path-traversal/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Identify and exploit file path traversal (directory traversal) vulnerabilities that allow attackers to read arbitrary files on the server, potentially including sensitive configuration files, credentials, and source code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:56+00:00"
+}

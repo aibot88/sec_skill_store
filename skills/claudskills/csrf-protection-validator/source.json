@@ -1,0 +1,18 @@
+{
+  "name": "csrf-protection-validator",
+  "slug": "csrf-protection-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/csrf-protection-validator/",
+  "download_url": "https://claudskills.com/skills/csrf-protection-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Csrf Protection Validator - Auto-activating skill for Security Fundamentals. Triggers on: csrf protection validator, csrf protection validator Part of the Security Fundamentals skill category.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:32+00:00"
+}

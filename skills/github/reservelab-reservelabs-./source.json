@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "reservelab-reservelabs-.",
+  "source": "github",
+  "source_url": "https://github.com/reservelab/reservelabs/blob/2c263373f8fe271e0f0d9f581c75f0e58d99963d/skill.md",
+  "download_url": "https://github.com/reservelab/reservelabs/blob/2c263373f8fe271e0f0d9f581c75f0e58d99963d/skill.md",
+  "external_source_url": "https://github.com/reservelab/reservelabs/blob/2c263373f8fe271e0f0d9f581c75f0e58d99963d/skill.md",
+  "license": "",
+  "description": "Design drift detector for AI-generated codebases. Stage-aware UIX quality checkpoints for vibecoding workflows.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "reservelab/reservelabs",
+    "path": "skill.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

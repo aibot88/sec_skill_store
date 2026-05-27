@@ -1,0 +1,18 @@
+{
+  "name": "axiom-accessibility",
+  "slug": "axiom-accessibility",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/axiom-accessibility/",
+  "download_url": "https://claudskills.com/skills/axiom-accessibility/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when fixing or auditing ANY accessibility issue — VoiceOver, Dynamic Type, color contrast, touch targets, WCAG compliance, App Store accessibility review.",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "accessibility",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:00+00:00"
+}

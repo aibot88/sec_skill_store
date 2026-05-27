@@ -1,0 +1,18 @@
+{
+  "name": "content-evaluation-framework",
+  "slug": "content-evaluation-framework",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/content-evaluation-framework/",
+  "download_url": "https://claudskills.com/skills/content-evaluation-framework/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when evaluating the quality of book chapters, lessons, or educational content. It provides a systematic 6-category rubric with weighted scoring (Technical Accuracy 30%, Pedagogical Effectiveness 25%, Writing Quality 20%, Structure & Organization 15%, AI-First Teaching 10%, Constitution Compliance Pass/Fail) and multi-tier assessment (Excellent/Good/Needs Work/Insufficient). Use this during iterative drafting, after content completion, on-demand review requests, or before validation phases.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

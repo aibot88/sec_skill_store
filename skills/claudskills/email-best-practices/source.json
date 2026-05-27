@@ -1,0 +1,18 @@
+{
+  "name": "email-best-practices",
+  "slug": "email-best-practices",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/email-best-practices/",
+  "download_url": "https://claudskills.com/skills/email-best-practices/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when building email features, emails going to spam, high bounce rates, setting up SPF/DKIM/DMARC authentication, implementing email capture, ensuring compliance (CAN-SPAM, GDPR, CASL), handling webhooks, retry logic, or deciding transactional vs marketing.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:48+00:00"
+}

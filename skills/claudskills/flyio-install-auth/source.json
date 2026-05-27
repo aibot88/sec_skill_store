@@ -1,0 +1,18 @@
+{
+  "name": "flyio-install-auth",
+  "slug": "flyio-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flyio-install-auth/",
+  "download_url": "https://claudskills.com/skills/flyio-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install flyctl CLI and configure Fly.io authentication with API tokens. Use when setting up a new Fly.io project, configuring deploy tokens, or initializing the Machines API for edge compute deployments. Trigger: \"install fly.io\", \"setup flyctl\", \"fly.io auth\", \"fly.io API token\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-platforms",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:00+00:00"
+}

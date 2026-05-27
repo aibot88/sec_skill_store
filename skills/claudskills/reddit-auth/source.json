@@ -1,0 +1,18 @@
+{
+  "name": "reddit-auth",
+  "slug": "reddit-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/reddit-auth/",
+  "download_url": "https://claudskills.com/skills/reddit-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Reddit authentication management skill. Check login status, log out. Triggered when user asks to check Reddit login status or log out.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:02+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "performing-credential-access-with-lazagne",
+  "slug": "performing-credential-access-with-lazagne",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-credential-access-with-lazagne/",
+  "download_url": "https://claudskills.com/skills/performing-credential-access-with-lazagne/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Extract stored credentials from compromised endpoints using the LaZagne post-exploitation tool to recover passwords",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:52+00:00"
+}

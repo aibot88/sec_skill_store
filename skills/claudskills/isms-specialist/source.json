@@ -1,0 +1,18 @@
+{
+  "name": "isms-specialist",
+  "slug": "isms-specialist",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/isms-specialist/",
+  "download_url": "https://claudskills.com/skills/isms-specialist/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert for Information Security Management Systems (ISMS) according to ISO 27001:2022, with deep knowledge of BaFin requirements, EU-DORA, NIS2, and German regulatory landscape. Specializes in data reuse patterns, workflow optimization, and compliance automation. Automatically activated for ISO 27001, BaFin, DORA, NIS2, compliance frameworks, and ISMS topics.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

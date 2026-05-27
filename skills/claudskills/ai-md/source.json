@@ -1,0 +1,18 @@
+{
+  "name": "ai-md",
+  "slug": "ai-md",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-md/",
+  "download_url": "https://claudskills.com/skills/ai-md/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Convert human-written CLAUDE.md into AI-native structured-label format. Battle-tested across 4 models. Same rules, fewer tokens, higher compliance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:44+00:00"
+}

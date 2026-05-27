@@ -1,0 +1,18 @@
+{
+  "name": "staff-code-review",
+  "slug": "staff-code-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/staff-code-review/",
+  "download_url": "https://claudskills.com/skills/staff-code-review/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Staff-engineer-level code review that goes beyond correctness to evaluate architectural alignment, system-level implications, failure modes, performance, scalability, backward compatibility, observability, security, and cross-team impact. Use when reviewing a PR (URL or diff), analyzing code changes for architectural fitness, or when the user asks for a thorough/staff-level/senior review of code changes. Triggers on \"review this PR\", \"review these changes\", \"staff review\", \"thorough code review\", sharing a GitHub PR URL for review, or asking about the architectural impact of changes.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "code-quality",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

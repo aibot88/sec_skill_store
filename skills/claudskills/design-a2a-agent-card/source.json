@@ -1,0 +1,18 @@
+{
+  "name": "design-a2a-agent-card",
+  "slug": "design-a2a-agent-card",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/design-a2a-agent-card/",
+  "download_url": "https://claudskills.com/skills/design-a2a-agent-card/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Eine A2A-Agentenkarte (.well-known/agent.json) als Manifest entwerfen, das Agentenfaehigkeiten, Skills, Authentifizierungsanforderungen und unterstuetzte Inhaltstypen beschreibt. Verwenden beim Erstellen eines Agenten, der von anderen A2A-konformen Agenten auffindbar sein muss, beim Bereitstellen von Faehigkeiten fuer Multi-Agenten-Orchestrierung, beim Migrieren eines bestehenden Agenten zum A2A-Protokoll, beim Definieren des oeffentlichen Vertrags fuer einen Agenten vor der Implementierung oder beim Integrieren mit Agentenregistern, die Agentenkarten konsumieren.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

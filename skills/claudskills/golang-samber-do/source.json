@@ -1,0 +1,18 @@
+{
+  "name": "golang-samber-do",
+  "slug": "golang-samber-do",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/golang-samber-do/",
+  "download_url": "https://claudskills.com/skills/golang-samber-do/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implements dependency injection in Golang using samber/do. Apply this skill when working with dependency injection, setting up service containers, managing service lifecycles, or when you see code using github.com/samber/do/v2. Also use when refactoring manual dependency injection, implementing health checks, graceful shutdown, or organizing services into scopes/modules.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

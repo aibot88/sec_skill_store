@@ -1,0 +1,18 @@
+{
+  "name": "package-vuln-scanner-osv-api",
+  "slug": "package-vuln-scanner-osv-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/package-vuln-scanner-osv-api/",
+  "download_url": "https://claudskills.com/skills/package-vuln-scanner-osv-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Scans npm, PyPI, and Go module dependencies for known vulnerabilities using the OSV.dev API and GitHub Advisory Database. Generates SBOM reports in CycloneDX format.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "cmd-analyze",
+  "slug": "cmd-analyze",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cmd-analyze/",
+  "download_url": "https://claudskills.com/skills/cmd-analyze/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Perform comprehensive codebase analysis and generate reports (usage: /analyze [full|security|performance])",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:20+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "create_or_update-onboarding-file",
+  "slug": "c-05-create-or-update-onboarding-files",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/c-05-create-or-update-onboarding-files/",
+  "download_url": "https://claudskills.com/skills/c-05-create-or-update-onboarding-files/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create and maintain onboarding artifacts including file-level onboarding MDs and repo-level entity catalogs. Covers template, folder organization, section conventions, and metadata. Enforces strict 1-to-1 mapping for source files and one entity catalog per repo. Use this whenever creating new onboarding files, repo entity catalogs, or auditing existing onboarding artifacts for format compliance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "business-ops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

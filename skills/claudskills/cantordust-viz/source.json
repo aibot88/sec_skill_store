@@ -1,0 +1,18 @@
+{
+  "name": "cantordust-viz",
+  "slug": "cantordust-viz",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cantordust-viz/",
+  "download_url": "https://claudskills.com/skills/cantordust-viz/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Binary visualization for human pattern recognition - Ghidra plugin by Chris Domas (xoreaxeaxeax)",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:12+00:00"
+}

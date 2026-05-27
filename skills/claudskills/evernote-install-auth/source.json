@@ -1,0 +1,18 @@
+{
+  "name": "evernote-install-auth",
+  "slug": "evernote-install-auth",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/evernote-install-auth/",
+  "download_url": "https://claudskills.com/skills/evernote-install-auth/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Install and configure Evernote SDK and OAuth authentication. Use when setting up a new Evernote integration, configuring API keys, or initializing Evernote in your project. Trigger with phrases like \"install evernote\", \"setup evernote\", \"evernote auth\", \"configure evernote API\", \"evernote oauth\".",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "hello-world-templates",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

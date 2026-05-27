@@ -1,0 +1,19 @@
+{
+  "name": ".prompt",
+  "slug": "xiaomingx-awesome-hacker-tools-.prompt",
+  "source": "github",
+  "source_url": "https://github.com/XiaomingX/awesome-hacker-tools/blob/afde0b4f99b8d6c747f6b46f09edec3e2b63a872/.prompt/skill.md",
+  "download_url": "https://github.com/XiaomingX/awesome-hacker-tools/blob/afde0b4f99b8d6c747f6b46f09edec3e2b63a872/.prompt/skill.md",
+  "external_source_url": "https://github.com/XiaomingX/awesome-hacker-tools/blob/afde0b4f99b8d6c747f6b46f09edec3e2b63a872/.prompt/skill.md",
+  "license": "",
+  "description": "\"Everything About Hacker Tools\" 是一站式信息平台，汇聚了关于黑客工具的全面指南，包括实用技巧、应用案例和安全防范建议，帮助技术爱好者深入了解网络安全技术，探索工具使用背后的逻辑与原理，同时强化对网络安全威胁的防范意识。无论是新手还是专业人士，这里都有值得你关注的内容。",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "XiaomingX/awesome-hacker-tools",
+    "path": ".prompt/skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:55+00:00"
+}

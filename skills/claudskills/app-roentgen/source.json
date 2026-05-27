@@ -1,0 +1,18 @@
+{
+  "name": "app-roentgen",
+  "slug": "app-roentgen",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/app-roentgen/",
+  "download_url": "https://claudskills.com/skills/app-roentgen/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Durchleuchtet eine Android-App systematisch und vollstaendig wie ein Roentgengeraet — extrahiert ALLE Funktionen, Bildschirme, Klick-Pfade, Paywall-Stufen und Hidden Features aus dem Quellcode, damit Werbeaussagen 1:1 gegen die tatsaechliche Funktionalitaet geprueft werden koennen. Nutze diesen Skill IMMER wenn der Benutzer sagt \"App durchleuchten\", \"App roentgen\", \"Roentgen-Skill\", \"App-Architektur extrahieren\", \"Feature-Inventar\", \"was kann die App genau\", \"Werbeaussagen pruefen\", \"Werbeaussagen-Audit\", \"UWG-Audit\", \"Paywall-Audit\", \"Marketing-Compliance\", \"Feature-Audit\", \"Compliance-Pruefung\", \"App-Analyse fuer Rechtssicherheit\", \"rechtssichere Werbung pruefen\", \"stimmt was wir versprechen mit der App ueberein\", \"App komplett analysieren\", \"alle Funktionen einer App auflisten\", oder generell jede Android-App systematisch durchleuchtet werden soll. Auch triggern bei Voice-Schreibweisen wie \"Roentgen\", \"X-Ray\", \"Durchleuchten\" im Kontext von Apps. Funktioniert fuer beliebige Android-Apps (modernes Kotlin/Compose bevorzugt, Java/XML wird auch unterstuetzt). Erzeugt einen sehr detaillierten strukturierten Audit-Bericht mit allen Bildschirmen, Klick-Pfaden, Paywall-Stufen, Permissions-Mappings und einer Werbeaussage-vs-Feature-Matrix.",
+  "category": "growth",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "growth-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

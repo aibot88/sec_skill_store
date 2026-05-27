@@ -1,0 +1,18 @@
+{
+  "name": "solodit",
+  "slug": "solodit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/solodit/",
+  "download_url": "https://claudskills.com/skills/solodit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Search 50,000+ smart contract vulnerabilities from Cyfrin Solodit. 8 MCP tools with intelligent caching for searching, filtering, and analyzing blockchain security findings.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:19+00:00"
+}

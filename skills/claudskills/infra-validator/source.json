@@ -1,0 +1,18 @@
+{
+  "name": "infra-validator",
+  "slug": "infra-validator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/infra-validator/",
+  "download_url": "https://claudskills.com/skills/infra-validator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate infrastructure configuration - run Terraform validate, check syntax, verify resource configurations, validate security settings, and ensure compliance with best practices. Reports validation errors and warnings.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

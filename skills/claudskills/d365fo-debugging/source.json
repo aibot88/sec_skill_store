@@ -1,0 +1,18 @@
+{
+  "name": "d365fo-debugging",
+  "slug": "d365fo-debugging",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/d365fo-debugging/",
+  "download_url": "https://claudskills.com/skills/d365fo-debugging/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Complete D365 Finance & Operations debugging framework. Routes symptoms to correct playbook (Finance, SCM, WMS, Batch, Security, Integration, Performance, Reporting). Activates for D365, Dynamics, AX, voucher, posting, batch job, SSRS, DMF, work order, wave, security, can't post, missing, wrong amount, slow, stuck.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "performance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

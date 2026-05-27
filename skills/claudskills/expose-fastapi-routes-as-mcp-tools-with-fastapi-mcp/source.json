@@ -1,0 +1,18 @@
+{
+  "name": "expose-fastapi-routes-as-mcp-tools-with-fastapi-mcp",
+  "slug": "expose-fastapi-routes-as-mcp-tools-with-fastapi-mcp",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/expose-fastapi-routes-as-mcp-tools-with-fastapi-mcp/",
+  "download_url": "https://claudskills.com/skills/expose-fastapi-routes-as-mcp-tools-with-fastapi-mcp/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Mount FastAPI-MCP on an existing FastAPI app so agents can call authenticated route-backed MCP tools with preserved schemas.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:53+00:00"
+}

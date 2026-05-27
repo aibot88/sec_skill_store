@@ -1,0 +1,18 @@
+{
+  "name": "project-ambassador",
+  "slug": "project-ambassador",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/project-ambassador/",
+  "download_url": "https://claudskills.com/skills/project-ambassador/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "The project's institutional memory and decision authority. Acts as an autonomous representative of the project — its goals, architecture, conventions, constraints, and intent. Use this skill whenever the active agent or another skill needs clarification about the project before proceeding. Triggers on: \"/project-ambassador\", \"/ambassador\", \"ask the ambassador\", \"check with the ambassador\", \"what does the project want\", \"what's the project's stance on\", or when any skill produces clarifying questions that the user redirects here. Also triggers when the user says \"let the ambassador decide\", \"the ambassador knows\", \"don't ask me, ask the project\", or similar delegation phrases. Use proactively when you're about to ask the user a question about project intent, conventions, or architecture — consult the ambassador first. If invoked without a prompt, performs a project knowledge audit.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

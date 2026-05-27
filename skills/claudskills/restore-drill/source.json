@@ -1,0 +1,18 @@
+{
+  "name": "restore-drill",
+  "slug": "restore-drill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/restore-drill/",
+  "download_url": "https://claudskills.com/skills/restore-drill/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use for recurring backup-restore validation and disaster-recovery simulation, including restore runbooks, drill frequency, pass/fail gates, evidence capture, and remediation tracking.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "forensics",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

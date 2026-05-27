@@ -1,0 +1,18 @@
+{
+  "name": "azure-platform-automation-devops",
+  "slug": "azure-platform-automation-devops",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/azure-platform-automation-devops/",
+  "download_url": "https://claudskills.com/skills/azure-platform-automation-devops/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Design and review Azure platform automation and DevOps delivery for landing zones, shared platform services, and safe infrastructure rollout flows. Use for IaC approach selection, Bicep versus Terraform positioning, bootstrap/run phase separation, pipeline control design, secret-handling posture, and rollout validation gates.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:01+00:00"
+}

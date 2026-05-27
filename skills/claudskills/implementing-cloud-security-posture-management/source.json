@@ -1,0 +1,18 @@
+{
+  "name": "implementing-cloud-security-posture-management",
+  "slug": "implementing-cloud-security-posture-management",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-cloud-security-posture-management/",
+  "download_url": "https://claudskills.com/skills/implementing-cloud-security-posture-management/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implementing Cloud Security Posture Management (CSPM) to continuously monitor multi-cloud environments for misconfigurations,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cloud-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:17+00:00"
+}

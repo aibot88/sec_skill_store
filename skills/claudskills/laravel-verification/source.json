@@ -1,0 +1,18 @@
+{
+  "name": "laravel-verification",
+  "slug": "laravel-verification",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/laravel-verification/",
+  "download_url": "https://claudskills.com/skills/laravel-verification/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Verification loop for Laravel projects: env checks, linting, static analysis, tests with coverage, security scans, and deployment readiness.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:29+00:00"
+}

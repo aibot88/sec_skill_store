@@ -1,0 +1,18 @@
+{
+  "name": "robot-bi-dev",
+  "slug": "robot-bi-dev",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/robot-bi-dev/",
+  "download_url": "https://claudskills.com/skills/robot-bi-dev/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Master skill cho dự án Robot Bi. Kết hợp TDD, diagnosis loop, security audit, git safety, UI prototyping, và session hygiene — tất cả được calibrate cho codebase Python/FastAPI/SQLite/Groq của Robot Bi. Trigger khi: implement feature mới, debug bug, security review, làm UI frontend/robot display, hoặc bắt đầu session dev bất kỳ.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:06+00:00"
+}

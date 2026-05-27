@@ -1,0 +1,18 @@
+{
+  "name": "clickhouse-cloud-service-setup",
+  "slug": "clickhouse-cloud-service-setup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/clickhouse-cloud-service-setup/",
+  "download_url": "https://claudskills.com/skills/clickhouse-cloud-service-setup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fetch ClickHouse Cloud service details from API (organization ID, service endpoints, configuration). Use when setting up new ClickHouse Cloud services, discovering endpoints, or validating service metadata for gapless-crypto-clickhouse project.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:18+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "WebAssessment",
+  "slug": "webassessment",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/webassessment/",
+  "download_url": "https://claudskills.com/skills/webassessment/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Web security assessment. USE WHEN web assessment, pentest, security testing, vulnerability scan. SkillSearch('webassessment') for docs.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

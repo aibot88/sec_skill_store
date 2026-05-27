@@ -1,0 +1,18 @@
+{
+  "name": "tam-mapping",
+  "slug": "tam-mapping",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tam-mapping/",
+  "download_url": "https://claudskills.com/skills/tam-mapping/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build TAM databases from scratch using a 7-phase methodology (Source Discovery → Keyword Expansion → Config → Collection → Dedup → Exclusion → Enrichment hand-off). Triggers \"tam map\", \"build tam\", \"total addressable market\", \"scrape industry\", \"map the market\", \"build a lead database\", \"venue partnerships tam\", \"labs tam\", \"residential tam\", \"installer tam\". Entity-routed — Nites residential (Google Maps ZIP), Supply installer (SAM.gov + Houzz + state license dbs), Labs venue partnerships (Spider.cloud + AI Ark + Discolike + IcyPeas + BlitzAPI + Prospeo + MillionVerifier). Phase 4.5 cross-workspace EB exclusion is MANDATORY (HARD-FAIL on either workspace unreachable). Phase 5 enrichment is pluggable per ADR-008. Distinct from `list-building` (BC-2717 — assumes a TAM already exists via dbt audience views).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

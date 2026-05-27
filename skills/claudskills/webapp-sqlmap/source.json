@@ -1,0 +1,18 @@
+{
+  "name": "webapp-sqlmap",
+  "slug": "webapp-sqlmap",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/webapp-sqlmap/",
+  "download_url": "https://claudskills.com/skills/webapp-sqlmap/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Automated SQL injection detection and exploitation tool for web application security testing. Use when: (1) Testing web applications for SQL injection vulnerabilities in authorized assessments, (2) Exploiting SQL injection flaws to demonstrate impact, (3) Extracting database information for security validation, (4) Bypassing authentication mechanisms through SQL injection, (5) Identifying vulnerable parameters in web requests, (6) Automating database enumeration and data extraction.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:35+00:00"
+}

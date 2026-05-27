@@ -1,0 +1,18 @@
+{
+  "name": "sales-hubspot",
+  "slug": "sales-hubspot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-hubspot/",
+  "download_url": "https://claudskills.com/skills/sales-hubspot/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "HubSpot platform help — Smart CRM with Marketing Hub, Sales Hub, Service Hub, Content Hub, Data Hub, Commerce Hub, and Breeze AI. Covers deal pipeline setup, email sequences, workflow automations, lead scoring, marketing email campaigns, landing pages, forms, live chat, chatbots, reporting dashboards, and API integration (REST, OAuth 2.0, date-versioned endpoints, webhooks, 5 SDKs). Use when HubSpot workflows aren't firing, email sequences not sending, lead scoring feels off, reports don't show what you need, marketing contacts are too expensive, trying to connect HubSpot to other tools, or not sure which Hub or tier you need. Do NOT use for CRM comparison and selection (use /sales-crm-selection), outbound cadence design across platforms (use /sales-cadence), or CRM data cleanup strategy (use /sales-data-hygiene).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

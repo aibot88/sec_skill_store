@@ -1,0 +1,18 @@
+{
+  "name": "qa-db",
+  "slug": "qa-db",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/qa-db/",
+  "download_url": "https://claudskills.com/skills/qa-db/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate and manage Q&A database for Topical Authority content. Use when user wants to create structured answers for cluster questions or export JSON-LD for GEO.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

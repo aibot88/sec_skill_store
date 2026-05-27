@@ -1,0 +1,18 @@
+{
+  "name": "groq-deploy-integration",
+  "slug": "groq-deploy-integration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/groq-deploy-integration/",
+  "download_url": "https://claudskills.com/skills/groq-deploy-integration/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Deploy Groq integrations to Vercel, Cloud Run, and containerized platforms. Use when deploying Groq-powered applications to production, configuring platform-specific secrets, or setting up deployment pipelines. Trigger with phrases like \"deploy groq\", \"groq Vercel\", \"groq production deploy\", \"groq Cloud Run\", \"groq Docker\".",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:10+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "kairos:evoluir",
+  "slug": "evoluir",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/evoluir/",
+  "download_url": "https://claudskills.com/skills/evoluir/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Evolui autonomamente os prompts dos agentes de runtime usando assertions binárias definidas pelo squad negocial. Inspirado no AutoResearch + binary evals. Use quando o usuário disser \"kairos evoluir\", \"melhorar prompt\", \"evoluir agente\", \"evoluir diana\", \"otimizar prompts\", \"melhorar classificação\", \"melhorar acurácia dos agentes\", ou quiser que os system prompts dos agentes melhorem automaticamente com base em cenários de teste do domínio.",
+  "category": "science",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "science-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

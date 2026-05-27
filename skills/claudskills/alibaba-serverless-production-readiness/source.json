@@ -1,0 +1,18 @@
+{
+  "name": "alibaba-serverless-production-readiness",
+  "slug": "alibaba-serverless-production-readiness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibaba-serverless-production-readiness/",
+  "download_url": "https://claudskills.com/skills/alibaba-serverless-production-readiness/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review Function Compute 3.0 (FC3), SAE (Serverless App Engine), and EDAS for production readiness — cold start optimization, VPC binding, RAM role injection, ARMS distributed tracing, security group rules, concurrency limits, and SLA-readiness.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

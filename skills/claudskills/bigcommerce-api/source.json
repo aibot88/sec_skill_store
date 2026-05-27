@@ -1,0 +1,18 @@
+{
+  "name": "bigcommerce-api",
+  "slug": "bigcommerce-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bigcommerce-api/",
+  "download_url": "https://claudskills.com/skills/bigcommerce-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "BigCommerce API expert for building integrations, apps, headless storefronts, and automations. Full lifecycle - REST APIs, GraphQL Storefront, webhooks, authentication, app development, and multi-storefront. Use when working with BigCommerce platform APIs.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:06+00:00"
+}

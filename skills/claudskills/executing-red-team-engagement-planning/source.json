@@ -1,0 +1,18 @@
+{
+  "name": "executing-red-team-engagement-planning",
+  "slug": "executing-red-team-engagement-planning",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/executing-red-team-engagement-planning/",
+  "download_url": "https://claudskills.com/skills/executing-red-team-engagement-planning/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Red team engagement planning is the foundational phase that defines scope, objectives, rules of engagement (ROE),",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:52+00:00"
+}

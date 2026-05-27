@@ -1,0 +1,18 @@
+{
+  "name": "loom-prompt-engineering",
+  "slug": "loom-prompt-engineering",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/loom-prompt-engineering/",
+  "download_url": "https://claudskills.com/skills/loom-prompt-engineering/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Designs and optimizes prompts for large language models including system prompts, agent signals, and few-shot examples. Use for instruction design, prompt security, chain-of-thought reasoning, and in-context learning for orchestrated agents.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:34+00:00"
+}

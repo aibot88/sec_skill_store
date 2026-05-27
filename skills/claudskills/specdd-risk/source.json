@@ -1,0 +1,18 @@
+{
+  "name": "specdd-risk",
+  "slug": "specdd-risk",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/specdd-risk/",
+  "download_url": "https://claudskills.com/skills/specdd-risk/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use when Claude Code needs to classify risk before SpecDD work starts, especially around write authority, public contracts, security, data, migrations, dependencies, verification gaps, rollback, or destructive operations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:21+00:00"
+}

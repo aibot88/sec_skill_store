@@ -1,0 +1,18 @@
+{
+  "name": "parallel",
+  "slug": "parallel",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/parallel/",
+  "download_url": "https://claudskills.com/skills/parallel/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Run multiple Ralph loops concurrently for independent tasks. Supports all 6 ralph-* teammates (coder, reviewer, tester, researcher, frontend, security). Manages parallel agent execution with proper isolation and result aggregation. Use when: (1) multiple independent fixes needed, (2) parallel reviews required, (3) batch processing tasks. Triggers: /parallel, 'parallel loops', 'concurrent execution', 'run in parallel', 'batch'.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

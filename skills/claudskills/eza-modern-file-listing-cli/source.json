@@ -1,0 +1,18 @@
+{
+  "name": "eza-modern-file-listing-cli",
+  "slug": "eza-modern-file-listing-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/eza-modern-file-listing-cli/",
+  "download_url": "https://claudskills.com/skills/eza-modern-file-listing-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "A modern, maintained replacement for the ls command, written in Rust. eza provides colorized output, Git integration, tree views, symlink awareness, and extended attribute support in a single fast binary.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:54+00:00"
+}

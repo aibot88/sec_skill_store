@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "joylarkin-openclaw-security-news-.",
+  "source": "github",
+  "source_url": "https://github.com/joylarkin/openclaw-security-news/blob/655d72c7c868fcc2b33865c73b0584ef32918224/SKILL.md",
+  "download_url": "https://github.com/joylarkin/openclaw-security-news/blob/655d72c7c868fcc2b33865c73b0584ef32918224/SKILL.md",
+  "external_source_url": "https://github.com/joylarkin/openclaw-security-news/blob/655d72c7c868fcc2b33865c73b0584ef32918224/SKILL.md",
+  "license": "",
+  "description": "A collection of global government warnings, vendor advisories, and news headlines about OpenClaw Security for AI developers and investors. Updated regularly.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "joylarkin/openclaw-security-news",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

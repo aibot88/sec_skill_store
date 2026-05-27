@@ -1,0 +1,18 @@
+{
+  "name": "conducting-spearphishing-simulation-campaign",
+  "slug": "conducting-spearphishing-simulation-campaign",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/conducting-spearphishing-simulation-campaign/",
+  "download_url": "https://claudskills.com/skills/conducting-spearphishing-simulation-campaign/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Spearphishing simulation is a targeted social engineering attack vector used by red teams to gain initial access.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:25+00:00"
+}

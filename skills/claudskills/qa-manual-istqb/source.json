@@ -1,0 +1,18 @@
+{
+  "name": "qa-manual-istqb",
+  "slug": "qa-manual-istqb",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/qa-manual-istqb/",
+  "download_url": "https://claudskills.com/skills/qa-manual-istqb/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "ISTQB Foundation Level (CTFL) aligned QA toolkit for manual and automated testing. Use when asked to create test plans, test strategies, test conditions, test cases, bug reports, defect logs, regression suites, traceability matrices, or exploratory charters. Supports risk-based testing, test design techniques (equivalence partitioning, boundary value analysis, decision tables, state transitions), test estimation, static testing reviews, and test process management. Includes Playwright automation guidance for test implementation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "zero-trust",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:00+00:00"
+}

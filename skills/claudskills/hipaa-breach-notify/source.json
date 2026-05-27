@@ -1,0 +1,18 @@
+{
+  "name": "hipaa-breach-notify",
+  "slug": "hipaa-breach-notify",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hipaa-breach-notify/",
+  "download_url": "https://claudskills.com/skills/hipaa-breach-notify/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implements HIPAA breach notification requirements under 45 CFR §164.400-414. Covers individual notification within 60 days, HHS reporting thresholds (500+ immediate, under 500 annual), state attorney general notification, media notification for 500+ in a state, and breach risk assessment. Keywords: HIPAA breach notification, HHS reporting, OCR breach portal, individual notice, state attorney general.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:13+00:00"
+}

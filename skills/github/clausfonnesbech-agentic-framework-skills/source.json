@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "clausfonnesbech-agentic-framework-skills",
+  "source": "github",
+  "source_url": "https://github.com/clausfonnesbech/agentic-framework/blob/725676ba2f1c74c24580adfdbe30296d3ea6dfa5/skills/secure-coding-skill.md",
+  "download_url": "https://github.com/clausfonnesbech/agentic-framework/blob/725676ba2f1c74c24580adfdbe30296d3ea6dfa5/skills/secure-coding-skill.md",
+  "external_source_url": "https://github.com/clausfonnesbech/agentic-framework/blob/725676ba2f1c74c24580adfdbe30296d3ea6dfa5/skills/secure-coding-skill.md",
+  "license": "",
+  "description": "Production-ready framework for orchestrating specialized AI agents in software development workflows. 10 agents, 21 skills, 9 templates, 12 MCP servers. Security-first development with iteration control.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "clausfonnesbech/agentic-framework",
+    "path": "skills/secure-coding-skill.md",
+    "query": "filename:SKILL.md \"CVE\""
+  },
+  "collected_at": "2026-05-27T03:44:54+00:00"
+}

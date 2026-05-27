@@ -1,0 +1,18 @@
+{
+  "name": "compliance-audit",
+  "slug": "compliance-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/compliance-audit/",
+  "download_url": "https://claudskills.com/skills/compliance-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Performs regulatory gap analysis across 7 compliance frameworks with a scored report card and prioritized remediation roadmap. Use when assessing a website or application for GDPR, CCPA, ADA, PCI-DSS, CAN-SPAM, COPPA, or SOC 2 compliance. Trigger with \"/compliance-audit\" or \"audit my website for regulatory compliance\".",
+  "category": "product",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "roadmap",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

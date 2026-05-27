@@ -1,0 +1,18 @@
+{
+  "name": "collecting-open-source-intelligence",
+  "slug": "collecting-open-source-intelligence",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/collecting-open-source-intelligence/",
+  "download_url": "https://claudskills.com/skills/collecting-open-source-intelligence/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Collects and synthesizes open-source intelligence (OSINT) about threat actors, malicious infrastructure, and",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:22+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-auth-and-security-review",
+  "slug": "nodejs-auth-and-security-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nodejs-auth-and-security-review/",
+  "download_url": "https://claudskills.com/skills/nodejs-auth-and-security-review/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when adding authentication and authorization to a Node.js service, hardening its HTTP surface, or running an OWASP-style security review after the service scaffold exists and the auth provider decision is approved or intentionally deferred. Implements the authentication flow (Passport / JWT / OAuth2 / OIDC per architecture/security), the authorization model, secure HTTP headers (helmet), boundary input validation, CSRF and rate-limiting for auth endpoints, secret handling via the config seam, and a security test suite (authz matrix and negative cases). Do not use for the service shell, config, logging, or error tiers, observability vendor wiring, queue or event integration, or performance and resilience gating; use the other Node.js archetype skills instead.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

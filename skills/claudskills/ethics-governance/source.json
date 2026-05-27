@@ -1,0 +1,18 @@
+{
+  "name": "ethics-governance",
+  "slug": "ethics-governance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ethics-governance/",
+  "download_url": "https://claudskills.com/skills/ethics-governance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Bias detection and mitigation, fairness metrics, privacy frameworks, consent models, transparency requirements, and accountability structures for data science practice. Covers algorithmic bias sources, disparate impact testing, differential privacy, GDPR principles, model cards, datasheets for datasets, responsible AI frameworks, and the organizational governance needed to make ethics actionable. Use when auditing models for bias, designing privacy-preserving systems, establishing governance processes, or evaluating the social impact of data-driven decisions.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "testing",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:51+00:00"
+}

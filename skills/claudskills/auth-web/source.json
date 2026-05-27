@@ -1,0 +1,18 @@
+{
+  "name": "auth-web-cloudbase",
+  "slug": "auth-web",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-web/",
+  "download_url": "https://claudskills.com/skills/auth-web/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Complete guide for CloudBase Auth v2 using Web SDK (@cloudbase/js-sdk@2.x) - all login flows, user management, captcha handling, and best practices in one file.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

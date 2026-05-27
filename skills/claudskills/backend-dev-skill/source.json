@@ -1,0 +1,18 @@
+{
+  "name": "backend-dev",
+  "slug": "backend-dev-skill",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/backend-dev-skill/",
+  "download_url": "https://claudskills.com/skills/backend-dev-skill/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache 2.0",
+  "description": "Comprehensive backend development workflow that orchestrates expert analysis, architecture design, implementation, and deployment using the integrated toolset. Handles everything from API design and database architecture to security implementation and DevOps automation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:02+00:00"
+}

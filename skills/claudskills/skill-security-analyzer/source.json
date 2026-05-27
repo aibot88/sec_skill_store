@@ -1,0 +1,18 @@
+{
+  "name": "skill-security-analyzer",
+  "slug": "skill-security-analyzer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skill-security-analyzer/",
+  "download_url": "https://claudskills.com/skills/skill-security-analyzer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Comprehensive security risk analysis for Claude skills. Use when asked to analyze security risks, review security stance, audit skills for vulnerabilities, check security before deployment, or evaluate safety of skill files. Triggers include \"analyze security,\" \"security risks,\" \"security audit,\" \"security review,\" \"is this skill safe,\" or \"check for vulnerabilities.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

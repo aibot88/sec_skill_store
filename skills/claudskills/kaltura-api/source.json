@@ -1,0 +1,18 @@
+{
+  "name": "kaltura-api",
+  "slug": "kaltura-api",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kaltura-api/",
+  "download_url": "https://claudskills.com/skills/kaltura-api/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build applications on Kaltura — The Agentic Digital Experience Platform. 48 guides covering authentication (sessions, AppTokens, SSO/SAML), content management (upload, search, categories, metadata, captions), playback, AI services (captions, translation, agents, conversational AI), virtual events, user management, multi-stream, cue points & interactive video (hub + 5 dedicated type guides), content distribution, syndication feeds, analytics, gamification, webhooks, messaging, content moderation (flagging, AI-powered via REACH), experience components (Player, Express Recorder, Captions Editor, Genie Widget, Media Manager, Content Lab, Agents Widget, VOD Avatar Studio, Conversational Avatar, Chat & Collaborate, Embeddable Analytics), Unisphere framework, multi-account management. 912 tests validated against live API. API v3 (form-encoded) and modern JSON APIs with curl examples.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "translation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:26+00:00"
+}

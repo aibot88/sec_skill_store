@@ -1,0 +1,18 @@
+{
+  "name": "android-telemetry-pipeline",
+  "slug": "android-telemetry-pipeline",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/android-telemetry-pipeline/",
+  "download_url": "https://claudskills.com/skills/android-telemetry-pipeline/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "High-frequency sensor data pipeline for Android: hybrid storage (Room for session metadata + CSV/binary files for sample data), StateFlow-based streaming to UI, session lifecycle management, and offline-first write patterns. Covers atomic session creation, buffered CSV writes, telemetry normalization across sources (BLE device vs phone GPS+IMU), and post-session data analysis. Use this when: ingesting 10-100Hz sensor data, designing a session storage schema, streaming live telemetry to a Compose ViewModel, building a session list/review flow, handling source switching mid-session, or implementing post-session analysis pipelines.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

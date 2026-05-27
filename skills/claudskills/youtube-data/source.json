@@ -1,0 +1,18 @@
+{
+  "name": "youtube-data",
+  "slug": "youtube-data",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/youtube-data/",
+  "download_url": "https://claudskills.com/skills/youtube-data/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Access YouTube video data — transcripts, metadata, channel info, search, and playlists. A lightweight alternative to Google's YouTube Data API with no quota limits. Use when the user needs structured data from YouTube videos, channels, or playlists without dealing with Google API setup, OAuth, or daily quotas.",
+  "category": "content",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "content-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "performing-adversary-in-the-middle-phishing-detection",
+  "slug": "performing-adversary-in-the-middle-phishing-detection",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/performing-adversary-in-the-middle-phishing-detection/",
+  "download_url": "https://claudskills.com/skills/performing-adversary-in-the-middle-phishing-detection/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detect and respond to Adversary-in-the-Middle (AiTM) phishing attacks that use reverse proxy kits like EvilProxy,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:51+00:00"
+}

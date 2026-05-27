@@ -1,0 +1,18 @@
+{
+  "name": "guardiao",
+  "slug": "guardiao",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/guardiao/",
+  "download_url": "https://claudskills.com/skills/guardiao/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Revisa segurança de código, arquitetura, incidentes e dependências de terceiros para identificar vulnerabilidades reais, fragilidades exploráveis, risco de supply chain e mitigações seguras. Use em security review, incidente, validação pré-produção/compliance, auditoria de bibliotecas e scripts ou revisão de APIs, serviços, front-end, back-end, banco, uploads, webhooks e integrações externas.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:11+00:00"
+}

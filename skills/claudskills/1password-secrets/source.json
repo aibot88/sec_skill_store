@@ -1,0 +1,18 @@
+{
+  "name": "1password-secrets",
+  "slug": "1password-secrets",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/1password-secrets/",
+  "download_url": "https://claudskills.com/skills/1password-secrets/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Secure secret management using 1Password CLI. Detect plaintext secrets in files and codebases, convert environment files to 1Password templates, inject secrets securely using op inject, and audit codebases for security compliance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

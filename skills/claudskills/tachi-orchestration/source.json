@@ -1,0 +1,18 @@
+{
+  "name": "tachi-orchestration",
+  "slug": "tachi-orchestration",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tachi-orchestration/",
+  "download_url": "https://claudskills.com/skills/tachi-orchestration/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Domain knowledge for the tachi orchestrator agent: input format detection, DFD classification, trust boundary notation, STRIDE-per-Element dispatch rules, coverage requirements per component type, coverage matrix model, SARIF 2.1.0 generation specification, output schema tables for threats.md, baseline correlation, structural validation checklist, and error handling templates. Loaded on-demand by the orchestrator during specific pipeline phases.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "zero-trust",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:25+00:00"
+}

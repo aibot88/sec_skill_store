@@ -1,0 +1,18 @@
+{
+  "name": "1password-credential-lookup",
+  "slug": "1password-credential-lookup",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/1password-credential-lookup/",
+  "download_url": "https://claudskills.com/skills/1password-credential-lookup/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "This skill should be used when agents need to log into websites, retrieve passwords, or access credentials. CRITICAL - always use find_credential with the website URL, never guess item names.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:33+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "aws-cloudformation",
+  "slug": "aws-cloudformation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aws-cloudformation/",
+  "download_url": "https://claudskills.com/skills/aws-cloudformation/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Author, validate, and troubleshoot AWS CloudFormation templates. Covers template authoring with secure defaults, pre-deployment validation (cfn-lint, cfn-guard, change sets), and root-cause diagnosis of failed stacks using CloudFormation events and CloudTrail correlation.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:59+00:00"
+}

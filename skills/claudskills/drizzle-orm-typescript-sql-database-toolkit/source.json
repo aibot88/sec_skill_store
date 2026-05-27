@@ -1,0 +1,18 @@
+{
+  "name": "drizzle-orm-typescript-sql-database-toolkit",
+  "slug": "drizzle-orm-typescript-sql-database-toolkit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/drizzle-orm-typescript-sql-database-toolkit/",
+  "download_url": "https://claudskills.com/skills/drizzle-orm-typescript-sql-database-toolkit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Drizzle ORM is a lightweight TypeScript ORM that provides type-safe SQL schema declarations, relational and SQL-like query builders, and automatic migration generation. At only 7.4kb minified and gzipped with zero dependencies, it supports PostgreSQL, MySQL, and SQLite including serverless databases like Neon, Turso, and Cloudflare D1.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:46+00:00"
+}

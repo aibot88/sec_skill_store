@@ -1,0 +1,18 @@
+{
+  "name": "hunt-new-program",
+  "slug": "hunt-new-program",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/hunt-new-program/",
+  "download_url": "https://claudskills.com/skills/hunt-new-program/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Initialize a threat hunting program with an environment map, tool inventory, huntmap, and empty execution directories",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:15+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "agent-django-developer",
+  "slug": "agent-django-developer",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agent-django-developer/",
+  "download_url": "https://claudskills.com/skills/agent-django-developer/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert Django developer mastering Django 4+ with modern Python practices. Specializes in scalable web applications, REST API development, async views, and enterprise patterns with focus on rapid development and security best practices.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "backend",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:38+00:00"
+}

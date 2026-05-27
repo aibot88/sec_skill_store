@@ -1,0 +1,18 @@
+{
+  "name": "sales-clean-email",
+  "slug": "sales-clean-email",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-clean-email/",
+  "download_url": "https://claudskills.com/skills/sales-clean-email/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Clean Email platform help — cross-platform inbox cleanup tool with bulk actions, Auto Clean rules, True Unsubscriber, Smart Folders, and Privacy Monitor ($9.99/mo or $29.99/yr, works with Gmail/Outlook/Yahoo/iCloud/any IMAP). Use when inbox is overloaded with thousands of old emails and need bulk cleanup, newsletters and promotional emails burying important messages, setting up Auto Clean rules to automatically sort incoming emails, Unsubscriber not actually removing you from mailing lists, accidentally deleted important emails during bulk cleanup, email storage full and need to free space fast, comparing Clean Email to SaneBox or Unroll.me or Mailstrom for inbox cleanup, or Privacy Monitor alerting about data breaches. Do NOT use for AI email reply drafting or voice-trained composition (use /sales-fyxer or /sales-superhuman). Do NOT use for meeting note-taking (use /sales-note-taker).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "sales-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:07+00:00"
+}

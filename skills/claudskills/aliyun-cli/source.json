@@ -1,0 +1,18 @@
+{
+  "name": "阿里云 CLI 操作",
+  "slug": "aliyun-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/aliyun-cli/",
+  "download_url": "https://claudskills.com/skills/aliyun-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "阿里云 CLI (aliyun) 安装配置、ECS 管理、OSS 操作、安全组、DNS、SLB 常用命令",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:46+00:00"
+}

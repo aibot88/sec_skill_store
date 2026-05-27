@@ -1,0 +1,18 @@
+{
+  "name": "tool-security",
+  "slug": "tool-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tool-security/",
+  "download_url": "https://claudskills.com/skills/tool-security/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "MCPツールとAPI統合のセキュリティ設計を体系化するスキル。 脅威整理、制御設計、設定検証を通じて安全なツール運用を支援する。",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

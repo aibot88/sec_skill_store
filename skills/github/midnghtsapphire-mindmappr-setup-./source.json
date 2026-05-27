@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "midnghtsapphire-mindmappr-setup-.",
+  "source": "github",
+  "source_url": "https://github.com/midnghtsapphire/mindmappr-setup/blob/cc9d94df89b1bac51c6ca77a39ec7bd14c5ef914/AGENT_SECURITY_SKILL.md",
+  "download_url": "https://github.com/midnghtsapphire/mindmappr-setup/blob/cc9d94df89b1bac51c6ca77a39ec7bd14c5ef914/AGENT_SECURITY_SKILL.md",
+  "external_source_url": "https://github.com/midnghtsapphire/mindmappr-setup/blob/cc9d94df89b1bac51c6ca77a39ec7bd14c5ef914/AGENT_SECURITY_SKILL.md",
+  "license": "",
+  "description": "MindMappr/OpenClaw droplet documentation, workspace backup, job queue system, and configuration",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "midnghtsapphire/mindmappr-setup",
+    "path": "AGENT_SECURITY_SKILL.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

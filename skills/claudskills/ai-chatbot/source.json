@@ -1,0 +1,18 @@
+{
+  "name": "ai-chatbot",
+  "slug": "ai-chatbot",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ai-chatbot/",
+  "download_url": "https://claudskills.com/skills/ai-chatbot/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Full-featured AI chatbot with Next.js 15, Auth.js, Drizzle ORM, and multi-model support.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:43+00:00"
+}

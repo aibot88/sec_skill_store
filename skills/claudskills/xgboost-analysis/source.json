@@ -1,0 +1,18 @@
+{
+  "name": "xgboost-analysis",
+  "slug": "xgboost-analysis",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/xgboost-analysis/",
+  "download_url": "https://claudskills.com/skills/xgboost-analysis/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when building XGBoost models on tabular data and returning feature importance ranking outputs. Supports binary classification and regression with automatic task detection, train-test split, performance tables, feature importance ranking tables, and PNG importance plots.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:38+00:00"
+}

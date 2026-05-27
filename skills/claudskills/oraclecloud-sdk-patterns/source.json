@@ -1,0 +1,18 @@
+{
+  "name": "oraclecloud-sdk-patterns",
+  "slug": "oraclecloud-sdk-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/oraclecloud-sdk-patterns/",
+  "download_url": "https://claudskills.com/skills/oraclecloud-sdk-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Production-grade OCI SDK patterns for client lifecycle, retry logic, and memory leak avoidance. Use when building long-running OCI services, fixing memory leaks with Instance Principal auth, or implementing retry/backoff. Trigger with \"oci sdk patterns\", \"oci retry\", \"oci memory leak\", \"oraclecloud client lifecycle\".",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "tools-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:47+00:00"
+}

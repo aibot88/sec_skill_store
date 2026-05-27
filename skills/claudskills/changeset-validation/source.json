@@ -1,0 +1,18 @@
+{
+  "name": "changeset-validation",
+  "slug": "changeset-validation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/changeset-validation/",
+  "download_url": "https://claudskills.com/skills/changeset-validation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Validate changesets in openai-agents-js using LLM judgment against git diffs (including uncommitted local changes). Use when packages/ or .changeset/ are modified, or when verifying PR changeset compliance and bump level.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

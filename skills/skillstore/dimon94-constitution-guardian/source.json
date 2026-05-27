@@ -1,0 +1,18 @@
+{
+  "name": "constitution-guardian",
+  "slug": "dimon94-constitution-guardian",
+  "source": "skillstore",
+  "source_url": "https://skillstore.io/skills/dimon94-constitution-guardian",
+  "download_url": "https://github.com/Dimon94/cc-devflow/tree/main/.claude/skills/constitution-guardian",
+  "external_source_url": "https://github.com/Dimon94/cc-devflow/tree/main/.claude/skills/constitution-guardian",
+  "license": "https://opensource.org/licenses/MIT",
+  "description": "Real-time Constitution compliance checker for devflow documents. Blocks partial implementations and hardcoded secrets during file editing.",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "application_category": "DeveloperApplication",
+    "github_source": "https://github.com/Dimon94/cc-devflow/tree/main/.claude/skills/constitution-guardian"
+  },
+  "collected_at": "2026-05-27T03:44:44+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "dsql",
+  "slug": "dsql",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dsql/",
+  "download_url": "https://claudskills.com/skills/dsql/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Build with Aurora DSQL — manage schemas, execute queries, handle migrations, diagnose query plans, and develop applications with a serverless, distributed SQL database. Covers IAM auth, multi-tenant patterns, MySQL-to-DSQL migration, DDL operations, query plan explainability, and SQL compatibility validation. Triggers on phrases like: DSQL, Aurora DSQL, create DSQL table, DSQL schema, migrate to DSQL, distributed SQL database, serverless PostgreSQL-compatible database, DSQL query plan, DSQL EXPLAIN ANALYZE, why is my DSQL query slow.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

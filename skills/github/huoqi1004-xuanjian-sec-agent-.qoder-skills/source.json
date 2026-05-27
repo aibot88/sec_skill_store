@@ -1,0 +1,19 @@
+{
+  "name": "skills",
+  "slug": "huoqi1004-xuanjian-sec-agent-.qoder-skills",
+  "source": "github",
+  "source_url": "https://github.com/huoqi1004/Xuanjian-Sec-Agent/blob/cea1b2f2a99a01b3545a63ce622511f70e9d2de8/.qoder/skills/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1.skill.md",
+  "download_url": "https://github.com/huoqi1004/Xuanjian-Sec-Agent/blob/cea1b2f2a99a01b3545a63ce622511f70e9d2de8/.qoder/skills/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1.skill.md",
+  "external_source_url": "https://github.com/huoqi1004/Xuanjian-Sec-Agent/blob/cea1b2f2a99a01b3545a63ce622511f70e9d2de8/.qoder/skills/%E4%BB%A3%E7%A0%81%E5%AE%A1%E8%AE%A1.skill.md",
+  "license": "",
+  "description": " 玄鉴安全智能体是一个基于AI和MCP (Model Context Protocol) 架构的网络安全解决方案，通过集成多种主流安全工具和大语言模型，实现智能化的威胁检测、漏洞扫描、防御响应和取证分析。  ### 核心特性  - 🤖 **AI双模型架构**   - 监督模型 (DeepSeek): 战略规划、结果审查、安全合规   - 执行模型 (本地Qwen/DeepSeek-Code/Claude等): 工具调用、实时响应  。",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "huoqi1004/Xuanjian-Sec-Agent",
+    "path": ".qoder/skills/代码审计.skill.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:56+00:00"
+}

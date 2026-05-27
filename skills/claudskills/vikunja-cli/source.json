@@ -1,0 +1,18 @@
+{
+  "name": "vikunja-cli",
+  "slug": "vikunja-cli",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/vikunja-cli/",
+  "download_url": "https://claudskills.com/skills/vikunja-cli/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Vikunja görev yönetimi için CLI wrapper skill. Kullanıcı \"vikunja task ekle\", \"görevleri listele\", \"task'i tamamlandı işaretle\", \"vikunja proje oluştur\", \"açık görevleri göster\", \"vikunja-cli ile görev al\", \"/vikunja-cli\" dediğinde tetiklenir. vikunja-cli Rust binary'sini doğru komutlarla çağırır - task list/get/create/update/delete, project list/get/create, label list, comment list/create, assign/unassign, label set. Her zaman --json kullanıp parse eder.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "cli-builders",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:34+00:00"
+}

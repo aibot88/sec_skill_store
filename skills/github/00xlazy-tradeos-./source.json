@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "slug": "00xlazy-tradeos-.",
+  "source": "github",
+  "source_url": "https://github.com/00xLazy/TradeOS/blob/88fc6a236f38ea340047aa34615f1872dc804613/SKILL.md",
+  "download_url": "https://github.com/00xLazy/TradeOS/blob/88fc6a236f38ea340047aa34615f1872dc804613/SKILL.md",
+  "external_source_url": "https://github.com/00xLazy/TradeOS/blob/88fc6a236f38ea340047aa34615f1872dc804613/SKILL.md",
+  "license": "",
+  "description": "Institutional-grade CEX trading infrastructure for AI agents. 100+ exchanges via natural language.",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "00xLazy/TradeOS",
+    "path": "SKILL.md",
+    "query": "filename:SKILL.md \"security\""
+  },
+  "collected_at": "2026-05-27T03:44:53+00:00"
+}

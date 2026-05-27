@@ -1,0 +1,18 @@
+{
+  "name": "codebase-profiler",
+  "slug": "codebase-profiler",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/codebase-profiler/",
+  "download_url": "https://claudskills.com/skills/codebase-profiler/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Generate a comprehensive codebase profile — architecture topology, dependency graph, code quality metrics, security surface, test posture, and infrastructure snapshot. Stack-agnostic. Outputs to .anthril/codebase-profile.md.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:21+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "add-security-audit",
+  "slug": "add-security-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/add-security-audit/",
+  "download_url": "https://claudskills.com/skills/add-security-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Security audit: OWASP Top 10, multi-tenancy, injection, auth, XSS, dependencies.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:37+00:00"
+}

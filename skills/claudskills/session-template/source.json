@@ -1,0 +1,18 @@
+{
+  "name": "session-template",
+  "slug": "session-template",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/session-template/",
+  "download_url": "https://claudskills.com/skills/session-template/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Apply task-specific templates to AI session plans using ai-update-plan. Use when starting a new task to load appropriate plan structure (feature, bugfix, refactor, documentation, security).",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

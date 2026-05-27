@@ -1,0 +1,19 @@
+{
+  "name": "docs",
+  "slug": "siyuey-roboagent-docs",
+  "source": "github",
+  "source_url": "https://github.com/SiYueY/roboagent/blob/de2f58485b26057bfa09fdc19e85c282d738b94d/docs/agent_skill.md",
+  "download_url": "https://github.com/SiYueY/roboagent/blob/de2f58485b26057bfa09fdc19e85c282d738b94d/docs/agent_skill.md",
+  "external_source_url": "https://github.com/SiYueY/roboagent/blob/de2f58485b26057bfa09fdc19e85c282d738b94d/docs/agent_skill.md",
+  "license": "",
+  "description": "The Brain of an Autonomous Robot System",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "SiYueY/roboagent",
+    "path": "docs/agent_skill.md",
+    "query": "filename:SKILL.md \"安全\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

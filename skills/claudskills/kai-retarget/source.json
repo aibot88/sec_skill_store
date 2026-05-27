@@ -1,0 +1,18 @@
+{
+  "name": "kai-retarget",
+  "slug": "kai-retarget",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/kai-retarget/",
+  "download_url": "https://claudskills.com/skills/kai-retarget/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Design retargeting and remarketing campaign architecture across platforms — audience segmentation, creative strategy, frequency caps, and platform-specific setup with ad policy compliance. Use when \"retargeting\", \"remarketing\", \"retarget\", \"re-engage visitors\", \"abandoned cart\", \"pixel setup\", or any request to bring back visitors who didn't convert.",
+  "category": "ads",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "strategy",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:25+00:00"
+}

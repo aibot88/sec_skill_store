@@ -1,0 +1,18 @@
+{
+  "name": "actionista",
+  "slug": "actionista",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/actionista/",
+  "download_url": "https://claudskills.com/skills/actionista/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Creates, debugs, and optimizes GitHub Actions workflow YAML files. Recommends current action versions with SHA pinning from a daily-updated index of 120+ actions. Configures matrix builds, dependency caching, reusable workflows, OIDC authentication, secrets management, and runner selection. Reviews existing workflows for outdated actions, security issues, and performance problems. Use when the user asks about GitHub Actions, workflows, CI/CD, .github/workflows, any action by name (actions/checkout, setup-node, setup-python, etc.), or workflow optimization.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "burp-suite-testing",
+  "slug": "burp-suite-testing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/burp-suite-testing/",
+  "download_url": "https://claudskills.com/skills/burp-suite-testing/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Execute comprehensive web application security testing using Burp Suite's integrated toolset, including HTTP traffic interception and modification, request analysis and replay, automated vulnerability scanning, and manual testing workflows.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:11+00:00"
+}

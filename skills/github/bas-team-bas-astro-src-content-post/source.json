@@ -1,0 +1,19 @@
+{
+  "name": "post",
+  "slug": "bas-team-bas-astro-src-content-post",
+  "source": "github",
+  "source_url": "https://github.com/BAS-Team/bas-astro/blob/97d8f9f39d1ccdfd7480e9508997262ba21e19bc/src/content/post/sepuluh-hard-skill.md",
+  "download_url": "https://github.com/BAS-Team/bas-astro/blob/97d8f9f39d1ccdfd7480e9508997262ba21e19bc/src/content/post/sepuluh-hard-skill.md",
+  "external_source_url": "https://github.com/BAS-Team/bas-astro/blob/97d8f9f39d1ccdfd7480e9508997262ba21e19bc/src/content/post/sepuluh-hard-skill.md",
+  "license": "",
+  "description": "Company Profile Web for Bina Anugerah Sukses Company",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "BAS-Team/bas-astro",
+    "path": "src/content/post/sepuluh-hard-skill.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

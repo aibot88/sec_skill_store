@@ -1,0 +1,19 @@
+{
+  "name": "it",
+  "slug": "miziomon-claude-code-guide-src-it",
+  "source": "github",
+  "source_url": "https://github.com/miziomon/claude-code-guide/blob/b6ce14316d0ab1526dcbbc0e883a733f4be7b324/src/it/10-skill.md",
+  "download_url": "https://github.com/miziomon/claude-code-guide/blob/b6ce14316d0ab1526dcbbc0e883a733f4be7b324/src/it/10-skill.md",
+  "external_source_url": "https://github.com/miziomon/claude-code-guide/blob/b6ce14316d0ab1526dcbbc0e883a733f4be7b324/src/it/10-skill.md",
+  "license": "",
+  "description": "",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "miziomon/claude-code-guide",
+    "path": "src/it/10-skill.md",
+    "query": "filename:SKILL.md \"vulnerability\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

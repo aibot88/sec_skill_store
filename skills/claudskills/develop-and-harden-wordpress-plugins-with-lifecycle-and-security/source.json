@@ -1,0 +1,18 @@
+{
+  "name": "develop-and-harden-wordpress-plugins-with-lifecycle-and-security",
+  "slug": "develop-and-harden-wordpress-plugins-with-lifecycle-and-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/develop-and-harden-wordpress-plugins-with-lifecycle-and-security/",
+  "download_url": "https://claudskills.com/skills/develop-and-harden-wordpress-plugins-with-lifecycle-and-security/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use Automattic’s official wp-plugin-development skill when an agent needs to build, refactor, secure, or package a WordPress plugin with correct activation hooks, settings handling, uninstall behavior, and data hygiene. This is a plugin engineering playbook, not a generic WordPress listing.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:41+00:00"
+}

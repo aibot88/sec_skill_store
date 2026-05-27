@@ -1,0 +1,18 @@
+{
+  "name": "parsh-files",
+  "slug": "parsh-files",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/parsh-files/",
+  "download_url": "https://claudskills.com/skills/parsh-files/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "How to use @parshjs/files for typed JSON file storage in a parsh CLI. Use when adding persistent config or state to a CLI (credentials, user prefs, cached state) — anything written as JSON on disk. Pairs with the parsh skill — read that first if you don't know how parsh CLIs are structured.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:49+00:00"
+}

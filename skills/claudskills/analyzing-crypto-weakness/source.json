@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-crypto-weakness",
+  "slug": "analyzing-crypto-weakness",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-crypto-weakness/",
+  "download_url": "https://claudskills.com/skills/analyzing-crypto-weakness/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Identifies weak cryptographic algorithms, hardcoded keys, and insecure key management practices in binary code. Use when analyzing encryption/decryption, authentication mechanisms, or reviewing cryptographic implementations.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

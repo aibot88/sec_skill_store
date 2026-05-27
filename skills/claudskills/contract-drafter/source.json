@@ -1,0 +1,18 @@
+{
+  "name": "Contract Drafter",
+  "slug": "contract-drafter",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/contract-drafter/",
+  "download_url": "https://claudskills.com/skills/contract-drafter/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Generate legal contracts from templates with variable substitution and clause management",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "legal-compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:27+00:00"
+}

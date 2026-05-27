@@ -1,0 +1,18 @@
+{
+  "name": "alibaba-resilience-bcdr-review",
+  "slug": "alibaba-resilience-bcdr-review",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/alibaba-resilience-bcdr-review/",
+  "download_url": "https://claudskills.com/skills/alibaba-resilience-bcdr-review/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Review Alibaba Cloud workload HA and BCDR designs — RDS High-Availability Edition failover, PolarDB Global Database Network, ACK multi-zone, ECS disaster recovery cross-region, RTO/RPO target analysis, and HBR (Hybrid Backup Recovery) coverage.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:45+00:00"
+}

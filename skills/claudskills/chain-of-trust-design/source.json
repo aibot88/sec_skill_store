@@ -1,0 +1,18 @@
+{
+  "name": "chain-of-trust-design",
+  "slug": "chain-of-trust-design",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/chain-of-trust-design/",
+  "download_url": "https://claudskills.com/skills/chain-of-trust-design/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Decision-aid skill for bootstrap and verification chains; forces the \"what authenticates the code that authenticates everything else\" question and provides patterns for signed bootstrap, measured boot, signed live images, and recovery",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "languages",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:14+00:00"
+}

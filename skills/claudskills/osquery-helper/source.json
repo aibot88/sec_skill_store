@@ -1,0 +1,18 @@
+{
+  "name": "osquery-query-helper",
+  "slug": "osquery-helper",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/osquery-helper/",
+  "download_url": "https://claudskills.com/skills/osquery-helper/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Help users write, validate, and troubleshoot osquery SQL queries using provided osquery table schemas as the authoritative source.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

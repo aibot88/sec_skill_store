@@ -1,0 +1,18 @@
+{
+  "name": "prompt-injection-detector",
+  "slug": "prompt-injection-detector",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/prompt-injection-detector/",
+  "download_url": "https://claudskills.com/skills/prompt-injection-detector/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Prompt injection detection and prevention for secure LLM applications",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:59+00:00"
+}

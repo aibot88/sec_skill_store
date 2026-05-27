@@ -1,0 +1,18 @@
+{
+  "name": "analytics",
+  "slug": "analytics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analytics/",
+  "download_url": "https://claudskills.com/skills/analytics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Queries local analytics across OrchestKit projects for agent usage, skill frequency, hook timing, team activity, session replay, cost estimation, and model delegation trends. Privacy-safe with hashed project IDs. Supports time-range filtering and comparative analysis. Use when reviewing performance, estimating costs, or understanding usage patterns.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:47+00:00"
+}

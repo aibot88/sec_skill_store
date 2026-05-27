@@ -1,0 +1,18 @@
+{
+  "name": "android-supabase",
+  "slug": "android-supabase",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/android-supabase/",
+  "download_url": "https://claudskills.com/skills/android-supabase/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Supabase integration patterns for Android - authentication, database, realtime subscriptions. Use when setting up Supabase SDK, implementing OAuth, querying database, or setting up realtime.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "mobile",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

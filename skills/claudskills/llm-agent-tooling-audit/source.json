@@ -1,0 +1,18 @@
+{
+  "name": "llm-agent-tooling-audit",
+  "slug": "llm-agent-tooling-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/llm-agent-tooling-audit/",
+  "download_url": "https://claudskills.com/skills/llm-agent-tooling-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use this skill to audit LLM agents, tool calling, MCP integrations, prompt injection, data exfiltration, and tool permissions. Do not use it for ordinary backend authz unless agent/tooling is involved.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "ai-tooling",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

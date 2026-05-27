@@ -1,0 +1,18 @@
+{
+  "name": "add-gmail-tool",
+  "slug": "add-gmail-tool",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/add-gmail-tool/",
+  "download_url": "https://claudskills.com/skills/add-gmail-tool/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Add Gmail as an MCP tool (read, search, send, label, draft) using OneCLI-managed OAuth. The agent gets Gmail tools in every enabled group; OneCLI injects real tokens at request time so no raw credentials are ever in the container or on disk in usable form.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "identity-access",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:36+00:00"
+}

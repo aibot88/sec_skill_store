@@ -1,0 +1,18 @@
+{
+  "name": "tls-security",
+  "slug": "tls-security",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/tls-security/",
+  "download_url": "https://claudskills.com/skills/tls-security/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Expert skill for TLS/SSL implementation and certificate management. Generate and validate TLS configurations, create and manage X.509 certificates, analyze cipher suite security, debug TLS handshake failures, and implement certificate pinning.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:29+00:00"
+}

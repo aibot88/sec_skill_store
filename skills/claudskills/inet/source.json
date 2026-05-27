@@ -1,0 +1,18 @@
+{
+  "name": "inet",
+  "slug": "inet",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/inet/",
+  "download_url": "https://claudskills.com/skills/inet/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Overzicht van alle internetstandaarden die internet.nl test. Routing naar sub-skills voor web, mail, API en toolbox. Triggers: internet.nl, internet standaarden, website compliance, mail compliance, internetstandaarden, open standaarden, Forum Standaardisatie, pas-toe-of-leg-uit",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:20+00:00"
+}

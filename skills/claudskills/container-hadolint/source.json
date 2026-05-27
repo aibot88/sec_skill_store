@@ -1,0 +1,18 @@
+{
+  "name": "container-hadolint",
+  "slug": "container-hadolint",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/container-hadolint/",
+  "download_url": "https://claudskills.com/skills/container-hadolint/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Dockerfile security linting and best practice validation using Hadolint with 100+ built-in rules aligned to CIS Docker Benchmark. Use when: (1) Analyzing Dockerfiles for security misconfigurations and anti-patterns, (2) Enforcing container image security best practices in CI/CD pipelines, (3) Detecting hardcoded secrets and credentials in container builds, (4) Validating compliance with CIS Docker Benchmark requirements, (5) Integrating shift-left container security into developer workflows, (6) Providing remediation guidance for insecure Dockerfile instructions.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:26+00:00"
+}

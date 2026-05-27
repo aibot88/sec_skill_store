@@ -1,0 +1,18 @@
+{
+  "name": "req-change-workflow",
+  "slug": "req-change-workflow",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/req-change-workflow/",
+  "download_url": "https://claudskills.com/skills/req-change-workflow/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Standardize requirement/feature changes in an existing codebase (especially Chrome extensions) by turning \"改需求/需求变更/调整交互/改功能/重构流程\" into a repeatable loop: clarify acceptance criteria, confirm current behavior from code, assess impact/risk, design the new logic, implement with small diffs, run a fixed regression checklist, and update docs/decision log. Use when the user feels the change process is chaotic, when edits tend to sprawl across files, or when changes touch manifest/service worker/OAuth/storage/UI and need reliable verification + rollback planning.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "operations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:04+00:00"
+}

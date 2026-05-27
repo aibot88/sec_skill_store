@@ -1,0 +1,18 @@
+{
+  "name": "agentprivacy-forgemaster",
+  "slug": "agentprivacy-forgemaster",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/agentprivacy-forgemaster/",
+  "download_url": "https://claudskills.com/skills/agentprivacy-forgemaster/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Specialist persona for blade configuration and forge operations. Activates for blade creation, 6D configuration, hexagram mapping, forge mechanics, constellation-guided forging, or blade evolution guidance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:41+00:00"
+}

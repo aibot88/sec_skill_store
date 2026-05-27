@@ -1,0 +1,18 @@
+{
+  "name": "nist-pf-govern",
+  "slug": "nist-pf-govern",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/nist-pf-govern/",
+  "download_url": "https://claudskills.com/skills/nist-pf-govern/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Implement the NIST Privacy Framework GOVERN function covering GV.AT awareness and training, GV.MT monitoring and review, GV.PO policy development, and GV.RR roles and responsibilities. Provides governance structure templates, training programs, and accountability frameworks for privacy governance.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "orchestration-frameworks",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:43+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "auth-flows",
+  "slug": "auth-flows",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/auth-flows/",
+  "download_url": "https://claudskills.com/skills/auth-flows/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Authentication patterns for React apps — Auth.js (NextAuth), Clerk, Supabase Auth. Covers session management, protected routes, role-based access, and OAuth flows.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:56+00:00"
+}

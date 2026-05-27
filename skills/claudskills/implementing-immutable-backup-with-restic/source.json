@@ -1,0 +1,18 @@
+{
+  "name": "implementing-immutable-backup-with-restic",
+  "slug": "implementing-immutable-backup-with-restic",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-immutable-backup-with-restic/",
+  "download_url": "https://claudskills.com/skills/implementing-immutable-backup-with-restic/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implements immutable backup strategy using restic with S3-compatible storage and object lock for ransomware-resistant",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:18+00:00"
+}

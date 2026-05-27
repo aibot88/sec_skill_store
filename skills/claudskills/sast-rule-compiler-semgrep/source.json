@@ -1,0 +1,18 @@
+{
+  "name": "sast-rule-compiler-semgrep",
+  "slug": "sast-rule-compiler-semgrep",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sast-rule-compiler-semgrep/",
+  "download_url": "https://claudskills.com/skills/sast-rule-compiler-semgrep/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Compiles and validates custom Semgrep SAST rules using the semgrep-core engine. Tests pattern matching against sample codebases and generates rule performance benchmarks with p/ci rulesets.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-tools",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:10+00:00"
+}

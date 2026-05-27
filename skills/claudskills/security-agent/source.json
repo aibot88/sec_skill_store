@@ -1,0 +1,18 @@
+{
+  "name": "performing-security-code-review",
+  "slug": "security-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/security-agent/",
+  "download_url": "https://claudskills.com/skills/security-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "This skill enables Claude to conduct a security-focused code review using the security-agent plugin. It analyzes code for potential vulnerabilities like SQL injection, XSS, authentication flaws, and insecure dependencies. Claude uses this skill when the user explicitly requests a security audit, asks for a code review with a focus on security, or mentions security concerns related to code. The security-agent plugin then provides structured security findings with severity ratings, code locations, impact assessments, and remediation guidance.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:13+00:00"
+}

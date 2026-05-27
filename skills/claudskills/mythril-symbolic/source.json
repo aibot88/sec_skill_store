@@ -1,0 +1,18 @@
+{
+  "name": "mythril-symbolic",
+  "slug": "mythril-symbolic",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mythril-symbolic/",
+  "download_url": "https://claudskills.com/skills/mythril-symbolic/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Symbolic execution analysis using Mythril for deep vulnerability detection in smart contracts. Supports configurable transaction depth, timeout settings, and proof-of-concept exploit generation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "red-team",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:41+00:00"
+}

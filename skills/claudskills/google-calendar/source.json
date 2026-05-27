@@ -1,0 +1,18 @@
+{
+  "name": "google-calendar",
+  "slug": "google-calendar",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/google-calendar/",
+  "download_url": "https://claudskills.com/skills/google-calendar/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Interact with Google Calendar - list calendars, view events, create/update/delete events, and find free time. Use when user asks to: check calendar, schedule a meeting, create an event, find available time, list upcoming events, delete or update a calendar event, or respond to meeting invitations. Lightweight alternative to full Google Workspace MCP server with standalone OAuth authentication.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "personal-productivity",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:08+00:00"
+}

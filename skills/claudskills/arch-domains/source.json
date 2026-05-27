@@ -1,0 +1,18 @@
+{
+  "name": "arch-domains",
+  "slug": "arch-domains",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/arch-domains/",
+  "download_url": "https://claudskills.com/skills/arch-domains/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Required for any work in src/domains/. Covers business rule ownership, port type placement, two injection styles, and intra-domain composition.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:52+00:00"
+}

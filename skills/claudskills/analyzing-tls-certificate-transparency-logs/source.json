@@ -1,0 +1,18 @@
+{
+  "name": "analyzing-tls-certificate-transparency-logs",
+  "slug": "analyzing-tls-certificate-transparency-logs",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/analyzing-tls-certificate-transparency-logs/",
+  "download_url": "https://claudskills.com/skills/analyzing-tls-certificate-transparency-logs/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Queries Certificate Transparency logs via crt.sh and pycrtsh to detect phishing domains, unauthorized certificate",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "network-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:48+00:00"
+}

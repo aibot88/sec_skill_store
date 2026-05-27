@@ -1,0 +1,18 @@
+{
+  "name": "security-bluebook-builder",
+  "slug": "shadowpr0-security-bluebook-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/shadowpr0-security-bluebook-builder/",
+  "download_url": "https://claudskills.com/skills/shadowpr0-security-bluebook-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Create or refine a concise, normative security policy (\"Blue Book\") for sensitive applications. Use when users need a threat model, data classification rules, auth/session policy, logging and audit requirements, retention/deletion expectations, incident response, or security gates for apps handling PII/PHI/financial data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:16+00:00"
+}

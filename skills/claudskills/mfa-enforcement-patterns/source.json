@@ -1,0 +1,18 @@
+{
+  "name": "mfa-enforcement-patterns",
+  "slug": "mfa-enforcement-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/mfa-enforcement-patterns/",
+  "download_url": "https://claudskills.com/skills/mfa-enforcement-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Design MFA enforcement: auto-enablement, Salesforce Authenticator rollout, exceptions, service accounts, API-only users, SSO interop, and audit. Trigger keywords: MFA, multi-factor, two-factor, Salesforce Authenticator, MFA exception, MFA SSO, api-only MFA. Does NOT cover: end-user password policies, device-trust posture, or non-Salesforce IdP configuration.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:38+00:00"
+}

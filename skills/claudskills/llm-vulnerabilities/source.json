@@ -1,0 +1,18 @@
+{
+  "name": "llm-vulnerabilities",
+  "slug": "llm-vulnerabilities",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/llm-vulnerabilities/",
+  "download_url": "https://claudskills.com/skills/llm-vulnerabilities/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "OWASP Top 10 for LLM Applications (2025) vulnerability knowledge base for identifying, assessing, and remediating security risks in large language model systems.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:32+00:00"
+}

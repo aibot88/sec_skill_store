@@ -1,0 +1,18 @@
+{
+  "name": "when-auditing-code-style-use-style-audit",
+  "slug": "when-auditing-code-style-use-style-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/when-auditing-code-style-use-style-audit/",
+  "download_url": "https://claudskills.com/skills/when-auditing-code-style-use-style-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Code style and conventions audit with auto-fix capabilities for comprehensive style enforcement",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "compliance",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:36+00:00"
+}

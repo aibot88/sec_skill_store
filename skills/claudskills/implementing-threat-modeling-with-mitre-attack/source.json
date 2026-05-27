@@ -1,0 +1,18 @@
+{
+  "name": "implementing-threat-modeling-with-mitre-attack",
+  "slug": "implementing-threat-modeling-with-mitre-attack",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/implementing-threat-modeling-with-mitre-attack/",
+  "download_url": "https://claudskills.com/skills/implementing-threat-modeling-with-mitre-attack/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Implements threat modeling using the MITRE ATT&CK framework to map adversary TTPs against organizational assets,",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:19+00:00"
+}

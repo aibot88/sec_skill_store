@@ -1,0 +1,18 @@
+{
+  "name": "drizzle-orm-patterns",
+  "slug": "drizzle-orm-patterns",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/drizzle-orm-patterns/",
+  "download_url": "https://claudskills.com/skills/drizzle-orm-patterns/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Provides comprehensive Drizzle ORM patterns for schema definition, CRUD operations, relations, queries, transactions, and migrations. Proactively use for any Drizzle ORM development including defining database schemas, writing type-safe queries, implementing relations, managing transactions, and setting up migrations with Drizzle Kit. Supports PostgreSQL, MySQL, SQLite, MSSQL, and CockroachDB.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:47+00:00"
+}

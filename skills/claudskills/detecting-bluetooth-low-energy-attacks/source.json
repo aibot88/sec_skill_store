@@ -1,0 +1,18 @@
+{
+  "name": "detecting-bluetooth-low-energy-attacks",
+  "slug": "detecting-bluetooth-low-energy-attacks",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/detecting-bluetooth-low-energy-attacks/",
+  "download_url": "https://claudskills.com/skills/detecting-bluetooth-low-energy-attacks/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Detects and analyzes Bluetooth Low Energy (BLE) security attacks including sniffing, replay attacks, GATT enumeration",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:39+00:00"
+}

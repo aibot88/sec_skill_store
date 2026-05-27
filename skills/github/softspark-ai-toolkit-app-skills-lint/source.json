@@ -1,0 +1,19 @@
+{
+  "name": "lint",
+  "slug": "softspark-ai-toolkit-app-skills-lint",
+  "source": "github",
+  "source_url": "https://github.com/softspark/ai-toolkit/blob/c8a0fd90433277ee3bbba7debad1de2e300d35cf/app/skills/lint/SKILL.md",
+  "download_url": "https://github.com/softspark/ai-toolkit/blob/c8a0fd90433277ee3bbba7debad1de2e300d35cf/app/skills/lint/SKILL.md",
+  "external_source_url": "https://github.com/softspark/ai-toolkit/blob/c8a0fd90433277ee3bbba7debad1de2e300d35cf/app/skills/lint/SKILL.md",
+  "license": "",
+  "description": "Professional-grade AI coding toolkit: 94 skills, 44 agents, multi-platform (Claude, Cursor, Windsurf, Copilot, Gemini, Cline, Roo Code, Aider, Augment, Antigravity, Codex CLI, opencode).",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "softspark/ai-toolkit",
+    "path": "app/skills/lint/SKILL.md",
+    "query": "filename:SKILL.md \"SAST\""
+  },
+  "collected_at": "2026-05-27T03:44:57+00:00"
+}

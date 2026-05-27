@@ -1,0 +1,18 @@
+{
+  "name": "CTF Web Solver",
+  "slug": "ctf-web-solver",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ctf-web-solver/",
+  "download_url": "https://claudskills.com/skills/ctf-web-solver/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "当用户正在进行 CTF 比赛或练习，遇到 Web 类型题目时触发此 Skill。 适用场景包括： - 用户描述了 SQL 注入、XSS、SSRF、SSTI、XXE、文件包含、命令执行等 Web 安全问题 - 用户需要进行信息搜集、目录扫描、端口扫描等渗透前期工作 - 用户遇到 PHP 特性利用、反序列化、JWT 伪造等高级攻击场景 - 用户提及 \"CTF\"、\"Web\"、\"渗透\"、\"注入\"、\"绕过\"、\"漏洞\" 等关键词 - 用户需要分析 Java 代码审计、区块链安全、组件漏洞利用等问题 - 用户需要构造 payload、编写 exploit、分析 WAF 绕过策略",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:33+00:00"
+}

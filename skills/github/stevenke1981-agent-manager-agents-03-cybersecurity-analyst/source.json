@@ -1,0 +1,19 @@
+{
+  "name": "cybersecurity-analyst",
+  "slug": "stevenke1981-agent-manager-agents-03-cybersecurity-analyst",
+  "source": "github",
+  "source_url": "https://github.com/stevenke1981/agent-manager/blob/83af0abb76bc228cbe8a9946deaed7c343e509a0/agents/03-%E7%A7%91%E6%8A%80%E8%B3%87%E8%A8%8A/cybersecurity-analyst/SKILL.md",
+  "download_url": "https://github.com/stevenke1981/agent-manager/blob/83af0abb76bc228cbe8a9946deaed7c343e509a0/agents/03-%E7%A7%91%E6%8A%80%E8%B3%87%E8%A8%8A/cybersecurity-analyst/SKILL.md",
+  "external_source_url": "https://github.com/stevenke1981/agent-manager/blob/83af0abb76bc228cbe8a9946deaed7c343e509a0/agents/03-%E7%A7%91%E6%8A%80%E8%B3%87%E8%A8%8A/cybersecurity-analyst/SKILL.md",
+  "license": "",
+  "description": "管理 300+ 職業 AI Agent (SKILL.md 規格) 的 Python tkinter GUI 應用，支援模板建立、驗證、AI 生成、自我進化",
+  "category": "GitHub Search",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "repo": "stevenke1981/agent-manager",
+    "path": "agents/03-科技資訊/cybersecurity-analyst/SKILL.md",
+    "query": "filename:SKILL.md \"cybersecurity\""
+  },
+  "collected_at": "2026-05-27T03:44:58+00:00"
+}

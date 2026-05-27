@@ -1,0 +1,18 @@
+{
+  "name": "firebase-data-connect",
+  "slug": "firebase-data-connect",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/firebase-data-connect/",
+  "download_url": "https://claudskills.com/skills/firebase-data-connect/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Build and deploy Firebase Data Connect backends with PostgreSQL. Use for schema design, GraphQL queries/mutations, authorization, and SDK generation for web, Android, iOS, and Flutter apps.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "databases",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:57+00:00"
+}

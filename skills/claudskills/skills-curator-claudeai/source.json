@@ -1,0 +1,18 @@
+{
+  "name": "skills-curator",
+  "slug": "skills-curator-claudeai",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/skills-curator-claudeai/",
+  "download_url": "https://claudskills.com/skills/skills-curator-claudeai/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when the user mentions a skill or plugin by name, asks \"should I install X?\", asks \"what skills fit this project?\", asks to audit installed skills, asks whether a skill is safe to use, or wants to customize an external skill for their stack. Evaluates skills against the user's actual project (pros / cons / conflicts / ADOPT-PARTIAL-SKIP verdict), recommends what fits, scans for security red flags before adoption, persists every decision to a registry the user keeps in Project Knowledge, and forks stack-mismatched skills into project-tailored versions. Decide once, never re-decide.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:18+00:00"
+}

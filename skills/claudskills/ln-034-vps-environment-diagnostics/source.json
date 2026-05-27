@@ -1,0 +1,18 @@
+{
+  "name": "ln-034-vps-environment-diagnostics",
+  "slug": "ln-034-vps-environment-diagnostics",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ln-034-vps-environment-diagnostics/",
+  "download_url": "https://claudskills.com/skills/ln-034-vps-environment-diagnostics/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Use when inspecting health, drift, logs, auth, ports, systemd, tmux, or safe repair needs for one VPS project environment.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:33+00:00"
+}

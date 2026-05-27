@@ -1,0 +1,18 @@
+{
+  "name": "stepped-demo-script",
+  "slug": "stepped-demo-script",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/stepped-demo-script/",
+  "download_url": "https://claudskills.com/skills/stepped-demo-script/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Author a self-contained bash script that walks a human through a multi-step demo – pausing between steps so they can read output before proceeding, and asserting expected vs. actual so pass/fail is visible at a glance. Use whenever the user wants a runnable repro, walkthrough, or demonstration with discrete steps: reproducing a bug on a sandbox, showing off correct behavior of an API, narrating a CLI flow, making a script an engineer or a stakeholder can paste into a terminal and run top-to-bottom. Phrases that should trigger: \"repro script\", \"demo script\", \"case script\", \"walkthrough\", \"step-through\", \"show me the steps\", \"script I can run to demonstrate\", \"paste-and-run\", \"script I can share\", \"script they can run themselves\", \"reproduction for the team\", \"whip one up\". This skill owns the *authoring* step even when the subject is a specific product/API (SCAPI, cQuotient/Einstein, GitHub, kubectl, git) – if the output is \"a script\" and the verb is \"write/make/draft/build/generate\", this is the right skill. For Salesforce-specific scenario *planning* without writing a script (e.g. \"what do I need to call before createOrder\", \"prereqs for addItemToBasket\"), use `dsc-scenario` instead. Not for: non-interactive pipelines (CI, one-shot batch jobs) – those shouldn't pause for human input. Not for: generating the domain-specific payloads themselves (API bodies, SQL, etc.) – that's the user's content; this skill authors the scaffolding around it.",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "crm-systems",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:22+00:00"
+}

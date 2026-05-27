@@ -1,0 +1,18 @@
+{
+  "name": "flow-error-eslint-compliance",
+  "slug": "flow-error-eslint-compliance",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/flow-error-eslint-compliance/",
+  "download_url": "https://claudskills.com/skills/flow-error-eslint-compliance/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Fix ESLint issues in migrated Output SDK code. Use when seeing lint errors after migration, or when writing new Output SDK code that needs to follow project conventions.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "linters-formatters",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:59+00:00"
+}

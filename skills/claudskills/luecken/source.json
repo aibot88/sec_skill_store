@@ -1,0 +1,18 @@
+{
+  "name": "luecken",
+  "slug": "luecken",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/luecken/",
+  "download_url": "https://claudskills.com/skills/luecken/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Offenen Gap-Tracker anzeigen und verwalten. Laden, um zu sehen, welche Compliance-Lücken gemeldet wurden, was noch offen ist und was in Bearbeitung ist.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:34+00:00"
+}

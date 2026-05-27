@@ -1,0 +1,18 @@
+{
+  "name": "create-architecture-description",
+  "slug": "create-architecture-description",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/create-architecture-description/",
+  "download_url": "https://claudskills.com/skills/create-architecture-description/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Analyze a codebase and draft stakeholder-focused architecture description documents in Swedish from a supplied template, architecture brief, or output path. Use when Codex needs to inspect project structure, processes, integrations, data flows, deployment, identity, security, testing, or migration concerns and synthesize only the relevant architecture perspectives with overview-level text, concrete component references, forward-looking notes, mermaid diagrams, and ArchiMate-style sketches.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "architecture",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:30+00:00"
+}

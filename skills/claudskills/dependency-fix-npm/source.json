@@ -1,0 +1,18 @@
+{
+  "name": "dependency-fix-npm",
+  "slug": "dependency-fix-npm",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dependency-fix-npm/",
+  "download_url": "https://claudskills.com/skills/dependency-fix-npm/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Action findings from dependency-audit-npm. Detects npm / pnpm / yarn (classic or berry), respects Corepack, uses overrides / resolutions for transitive vulns. Local commits only.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:38+00:00"
+}

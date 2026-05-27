@@ -1,0 +1,18 @@
+{
+  "name": "libtv-video",
+  "slug": "libtv-video",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/libtv-video/",
+  "download_url": "https://claudskills.com/skills/libtv-video/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Seedance 2.0 video & image generation via LibTV Gateway - AI text-to-video, image-to-video, video continuation, style transfer, and text-to-image using Seedance 2.0 model. Also supports Kling 3.0, Wan 2.6, Midjourney, Seedream 5.0. Trigger phrases: seedance, generate video, make a video, generate image, make an image, draw, libtv, liblib.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gesellschaftsgruender-geschaeftsordnung-gf",
+  "slug": "gesellschaftsgruender-geschaeftsordnung-gf",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gesellschaftsgruender-geschaeftsordnung-gf/",
+  "download_url": "https://claudskills.com/skills/gesellschaftsgruender-geschaeftsordnung-gf/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Geschaeftsordnung der Geschaeftsfuehrung. Zustimmungspflichtige Geschaefte Berichtspflichten Meeting-Rhythmus Entscheidungs-Prozesse Eskalations-Matrix bei Mehrgliedrigkeit. Abgrenzung Satzung SHA Geschaeftsordnung. Aenderbarkeit Form. Beispiel-Kataloge fuer Standard-GmbH und Tech-Startup.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:05+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "fedramp-rev5-expert",
+  "slug": "fedramp-rev5-expert",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/fedramp-rev5-expert/",
+  "download_url": "https://claudskills.com/skills/fedramp-rev5-expert/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "FedRAMP Rev 5 authorization expert. Provides guidance on traditional authorization paths, SSP/SAP/SAR/POA&M documentation, NIST 800-53 Rev 5 control implementation, and 3PAO assessment preparation.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:55+00:00"
+}

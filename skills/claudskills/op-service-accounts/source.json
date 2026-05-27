@@ -1,0 +1,18 @@
+{
+  "name": "op-service-accounts",
+  "slug": "op-service-accounts",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/op-service-accounts/",
+  "download_url": "https://claudskills.com/skills/op-service-accounts/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Use this skill when the user is setting up 1Password for headless / CI / production environments — anything involving service accounts (`op service-account create`), service account tokens, `OP_SERVICE_ACCOUNT_TOKEN`, Connect servers (`op connect`), `OP_CONNECT_HOST`/`OP_CONNECT_TOKEN`, GitHub Actions integration, deploying with 1Password secrets, the events-api integration, or scoping 1Password access for automation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "automation",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:46+00:00"
+}

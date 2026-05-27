@@ -1,0 +1,18 @@
+{
+  "name": "ipr",
+  "slug": "ipr",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/ipr/",
+  "download_url": "https://claudskills.com/skills/ipr/SKILL.md",
+  "external_source_url": "",
+  "license": "CC0-1.0",
+  "description": "Create a GitHub issue and pull request in oracle/graalvm-reachability-metadata, link the PR to the issue, and request reviews from the standard reviewer set except the PR author.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:23+00:00"
+}

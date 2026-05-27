@@ -1,0 +1,18 @@
+{
+  "name": "outlook-email-automation",
+  "slug": "outlook-email-automation",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/outlook-email-automation/",
+  "download_url": "https://claudskills.com/skills/outlook-email-automation/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Authenticates to Microsoft Graph API using MSAL with Mail.ReadWrite and Calendars.ReadWrite permissions. Reads, classifies, and responds to emails via GET /me/messages and POST /me/sendMail. Moves processed messages into folders and tracks reply SLAs in a local SQLite store.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "web-security",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:48+00:00"
+}

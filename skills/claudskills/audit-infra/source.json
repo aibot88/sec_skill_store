@@ -1,0 +1,18 @@
+{
+  "name": "audit-infra",
+  "slug": "audit-infra",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/audit-infra/",
+  "download_url": "https://claudskills.com/skills/audit-infra/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit infrastructure — secrets, Docker, deps, CORS, webhooks, migrations, CI/CD, monitoring",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:41:54+00:00"
+}

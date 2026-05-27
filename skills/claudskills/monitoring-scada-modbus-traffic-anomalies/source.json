@@ -1,0 +1,18 @@
+{
+  "name": "monitoring-scada-modbus-traffic-anomalies",
+  "slug": "monitoring-scada-modbus-traffic-anomalies",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/monitoring-scada-modbus-traffic-anomalies/",
+  "download_url": "https://claudskills.com/skills/monitoring-scada-modbus-traffic-anomalies/SKILL.md",
+  "external_source_url": "",
+  "license": "Apache-2.0",
+  "description": "Monitors Modbus TCP traffic on SCADA and ICS networks to detect anomalous function code usage, unauthorized",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:40+00:00"
+}

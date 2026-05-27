@@ -1,0 +1,17 @@
+{
+  "name": "feelgoodbot",
+  "slug": "feelgoodbot-29ga2x",
+  "source": "openclawdir",
+  "source_url": "https://openclawdir.com/skills/feelgoodbot-29ga2x",
+  "download_url": "https://github.com/openclaw/skills/tree/main/skills/kris-hansen/feelgoodbot/SKILL.md",
+  "external_source_url": "https://github.com/openclaw/skills/tree/main/skills/kris-hansen/feelgoodbot/SKILL.md",
+  "license": "",
+  "description": "Set up feelgoodbot file integrity monitoring for macOS.",
+  "category": "Security",
+  "download_status": "failed",
+  "download_note": "HTTP Error 404: Not Found",
+  "metadata": {
+    "listing_page": "https://openclawdir.com/skills?category=Security&sort=popular&page=2"
+  },
+  "collected_at": "2026-05-27T03:44:42+00:00"
+}

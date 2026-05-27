@@ -1,0 +1,18 @@
+{
+  "name": "cv-pipeline-builder",
+  "slug": "cv-pipeline-builder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/cv-pipeline-builder/",
+  "download_url": "https://claudskills.com/skills/cv-pipeline-builder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Computer vision ML pipelines for image classification, object detection, semantic segmentation, and image generation. Activates for \"computer vision\", \"image classification\", \"object detection\", \"CNN\", \"ResNet\", \"YOLO\", \"image segmentation\", \"image preprocessing\", \"data augmentation\". Builds end-to-end CV pipelines with PyTorch/TensorFlow, integrated with SpecWeave increments.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "workflow-pipelines",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:34+00:00"
+}

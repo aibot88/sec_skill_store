@@ -1,0 +1,18 @@
+{
+  "name": "odoo-18.0",
+  "slug": "odoo-18-0",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/odoo-18-0/",
+  "download_url": "https://claudskills.com/skills/odoo-18-0/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Odoo 18 development reference for Python models and ORM (search, domain, read_group, compute fields), XML/CSV data and views, OWL/JS client code, QWeb reports, security (ACL, record rules, groups), cron and server actions, migrations and module upgrades, tests, i18n, and performance. Use this skill whenever work involves Odoo 18 or custom addons—even if the user only pastes a traceback, mentions addons/ or __manifest__.py, describes form/list/kanban/XML errors, HTTP controllers, or business rules on models—including building features, fixing bugs, refactoring, or reviewing addon code.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:45+00:00"
+}

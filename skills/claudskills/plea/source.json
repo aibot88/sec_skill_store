@@ -1,0 +1,18 @@
+{
+  "name": "plea",
+  "slug": "plea",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/plea/",
+  "download_url": "https://claudskills.com/skills/plea/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Synthetic user advocate that role-plays as end users to generate authentic feature requests, surface unmet needs, and challenge team assumptions. Don't use for real feedback analysis (Voice) or UI evaluation (Echo).",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:55+00:00"
+}

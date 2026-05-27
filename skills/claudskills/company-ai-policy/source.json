@@ -1,0 +1,18 @@
+{
+  "name": "company-ai-policy",
+  "slug": "company-ai-policy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/company-ai-policy/",
+  "download_url": "https://claudskills.com/skills/company-ai-policy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Audit an agent system against Kaleva Retail Group's AI and data-usage policies. Produces a row-per-rule compliance report with verdicts (compliant / violating / \"I can't tell\") and evidence from the target system's files.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:23+00:00"
+}

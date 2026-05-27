@@ -1,0 +1,18 @@
+{
+  "name": "sales-influencer-marketing",
+  "slug": "sales-influencer-marketing",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/sales-influencer-marketing/",
+  "download_url": "https://claudskills.com/skills/sales-influencer-marketing/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Influencer marketing strategy across platforms — creator discovery, audience vetting, campaign tracking, ROI measurement, outreach, gifting, and affiliate programs. Covers platform comparison (Modash, influData, Creator.co, Hypefy, LTK, Influencity, Meltwater, Skeepers, Heepsy, CreatorIQ, NeoReach, Afluencer, Collabstr, Cloutboost, House of Marketers, Famesters, inBeat, HypeAuditor, Aspire, Influencer Hero, InstaJet, Open Influence, Viral Nation, trendHERO, Upfluence, GRIN, PlutoBa), discovery workflow (search, filters, lookalikes, audience analysis), vetting framework (fake followers, engagement authenticity, audience demographics), campaign setup and tracking (EMV, ROAS, CPM, sales attribution), creator outreach (email templates, negotiation, rate cards), product gifting and seeding, influencer affiliate programs, and creator payments. Use when unsure which influencer platform to pick, can't find the right creators for your niche, worried about fake followers or inflated metrics, campaign results aren't being tracked properly, creators aren't responding to outreach, or influencer spend isn't showing ROI. Do NOT use for platform-specific config (use /sales-modash, /sales-infludata, /sales-creatorco, /sales-hypefy, /sales-ltk, /sales-influencity, /sales-meltwater, /sales-brandwatch, /sales-skeepers, /sales-heepsy, /sales-creatoriq, /sales-neoreach, /sales-afluencer, /sales-collabstr, /sales-cloutboost, /sales-houseofmarketers, /sales-famesters, /sales-inbeat, /sales-hypeauditor, /sales-aspire, /sales-influencer-hero, /sales-instajet, /sales-openinfluence, /sales-viralnation, /sales-trendhero, /sales-upfluence, /sales-grin, or /sales-plutoba), TikTok marketing strategy (use /sales-tiktok-marketing), gaming influencer marketing strategy (use /sales-gaming-marketing), ad campaign strategy (use /sales-retargeting), or email marketing to subscribers (use /sales-email-marketing).",
+  "category": "sales",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "outreach",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:08+00:00"
+}

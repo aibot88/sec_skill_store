@@ -1,0 +1,18 @@
+{
+  "name": "bedrock-agentcore-multi-agent",
+  "slug": "bedrock-agentcore-multi-agent",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/bedrock-agentcore-multi-agent/",
+  "download_url": "https://claudskills.com/skills/bedrock-agentcore-multi-agent/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Amazon Bedrock AgentCore multi-agent orchestration with Agent-to-Agent (A2A) protocol. Supervisor-worker patterns, agent collaboration, and hierarchical delegation. Use when building multi-agent systems, orchestrating specialized agents, or implementing complex workflows.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "threat-hunting",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:04+00:00"
+}

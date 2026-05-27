@@ -1,0 +1,18 @@
+{
+  "name": "truthfinder",
+  "slug": "truthfinder",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/truthfinder/",
+  "download_url": "https://claudskills.com/skills/truthfinder/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Always-active web search safety skill. Classifies every website into SAFE, CAUTION, RISKY, or BLOCKED before reading or citing it. Reads and evaluates real user reviews and feedback to surface genuine sentiment. Detects fake, paid, or astroturfed reviews. Filters misinformation, malware, phishing, and data-harvesting sites. Never visits or relays content from dangerous sources. Protects the user's personal data and software from any site that could steal or exploit it.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "malware-analysis",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:44:30+00:00"
+}

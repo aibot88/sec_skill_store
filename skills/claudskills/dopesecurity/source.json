@@ -1,0 +1,18 @@
+{
+  "name": "dopesecurity",
+  "slug": "dopesecurity",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/dopesecurity/",
+  "download_url": "https://claudskills.com/skills/dopesecurity/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Dope.security integration. Manage data, records, and automate workflows. Use when the user wants to interact with Dope.security data.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "security-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:45+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "libpolicy",
+  "slug": "libpolicy",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/libpolicy/",
+  "download_url": "https://claudskills.com/skills/libpolicy/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "libpolicy - Policy engine for access control. PolicyIndex stores and evaluates authorization policies. createPolicyIndex factory loads policies from storage. Planned OPA-WASM integration for complex policy evaluation. Use for access control, authorization decisions, and resource permissions.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "integrations",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:31+00:00"
+}

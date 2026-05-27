@@ -1,0 +1,18 @@
+{
+  "name": "gift-evaluator",
+  "slug": "gift-evaluator",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/gift-evaluator/",
+  "download_url": "https://claudskills.com/skills/gift-evaluator/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "The PRIMARY tool for Spring Festival gift analysis and social interaction generation. Use this skill when users upload photos of gifts (alcohol, tea, supplements, etc.) to inquire about their value, authenticity, or how to respond socially. Integrates visual perception, market valuation, and HTML card generation.",
+  "category": "general",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "general-misc",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:06+00:00"
+}

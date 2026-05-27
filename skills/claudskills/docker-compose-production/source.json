@@ -1,0 +1,18 @@
+{
+  "name": "docker-compose-production",
+  "slug": "docker-compose-production",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/docker-compose-production/",
+  "download_url": "https://claudskills.com/skills/docker-compose-production/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Use when deploying Docker Compose applications to production including security hardening, resource management, health checks, logging, monitoring, and high-availability patterns.",
+  "category": "engineering",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "devops",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:44+00:00"
+}

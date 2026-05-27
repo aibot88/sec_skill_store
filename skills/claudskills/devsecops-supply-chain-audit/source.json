@@ -1,0 +1,18 @@
+{
+  "name": "devsecops-supply-chain-audit",
+  "slug": "devsecops-supply-chain-audit",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/devsecops-supply-chain-audit/",
+  "download_url": "https://claudskills.com/skills/devsecops-supply-chain-audit/SKILL.md",
+  "external_source_url": "",
+  "license": "MIT",
+  "description": "Audit software supply chain across every ecosystem (npm, pip, Go, Ruby, Cargo, Maven, Docker, Terraform) — pinning, vulnerabilities, secrets, SBOM, signing, branch protection, CODEOWNERS. One sub-agent per ecosystem. Three modes.",
+  "category": "security",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "appsec-build",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:42:42+00:00"
+}

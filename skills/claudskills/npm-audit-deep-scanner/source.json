@@ -1,0 +1,18 @@
+{
+  "name": "npm-audit-deep-scanner",
+  "slug": "npm-audit-deep-scanner",
+  "source": "claudskills",
+  "source_url": "https://claudskills.com/skills/npm-audit-deep-scanner/",
+  "download_url": "https://claudskills.com/skills/npm-audit-deep-scanner/SKILL.md",
+  "external_source_url": "",
+  "license": "",
+  "description": "Extends npm audit with deep transitive dependency analysis using the npm Registry API. Generates fix PRs via GitHub API and cross-checks advisories against the OSV.dev vulnerability database.",
+  "category": "tools",
+  "download_status": "downloaded",
+  "download_note": "cached",
+  "metadata": {
+    "subcategory": "package-mgmt",
+    "featured": false
+  },
+  "collected_at": "2026-05-27T03:43:44+00:00"
+}
