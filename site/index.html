@@ -9,87 +9,118 @@
   </head>
   <body>
     <header class="topbar">
-      <div>
-        <p class="eyebrow">Codex · Claude Code · OpenClaw</p>
-        <h1>Sec Skills Store</h1>
-      </div>
-      <nav aria-label="Repository links">
-        <a href="../data/skills.json">JSON</a>
-        <a href="../skills/">Skills</a>
+      <a class="brand" href="./" aria-label="Sec Skills Store">
+        <span class="brand-mark">S</span>
+        <span>
+          <strong>Sec Skills</strong>
+          <small>Store</small>
+        </span>
+      </a>
+      <nav class="nav-links" aria-label="Repository links">
+        <a href="../data/skills.json" data-i18n="navJson">Data</a>
+        <a href="../skills/" data-i18n="navSkills">Skills</a>
         <a href="https://github.com/aibot88/sec_skill_store">GitHub</a>
       </nav>
+      <div class="language-switch" aria-label="Language">
+        <button class="lang-button active" type="button" data-lang="en">EN</button>
+        <button class="lang-button" type="button" data-lang="zh">中文</button>
+      </div>
     </header>
 
     <main>
-      <section class="summary-grid" aria-label="Catalog summary">
-        <div class="metric">
-          <span id="metric-total">0</span>
-          <strong>skills</strong>
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow" data-i18n="eyebrow">Security Skill Intelligence</p>
+          <h1 data-i18n="heroTitle">Discover defensive AI skills by security coverage.</h1>
+          <p class="hero-text" data-i18n="heroText">Browse Codex, Claude Code, OpenClaw and GitHub security skills with CWE, OWASP and workflow classification.</p>
+          <div class="hero-actions">
+            <a class="primary-action" href="#catalog" data-i18n="browseCatalog">Browse catalog</a>
+            <a class="secondary-action" href="https://github.com/aibot88/sec_skill_store" data-i18n="viewRepository">View repository</a>
+          </div>
         </div>
-        <div class="metric">
-          <span id="metric-downloaded">0</span>
-          <strong>downloaded</strong>
-        </div>
-        <div class="metric">
-          <span id="metric-cwe">0</span>
-          <strong>CWE tags</strong>
-        </div>
-        <div class="metric">
-          <span id="metric-sources">0</span>
-          <strong>sources</strong>
-        </div>
-      </section>
-
-      <section class="controls" aria-label="Catalog filters">
-        <label class="search">
-          <span>Search</span>
-          <input id="search" type="search" placeholder="security, CWE-89, OWASP, privacy, skill guard">
-        </label>
-        <label>
-          <span>Source</span>
-          <select id="source-filter"></select>
-        </label>
-        <label>
-          <span>Security Domain</span>
-          <select id="security-filter"></select>
-        </label>
-        <label>
-          <span>Workflow</span>
-          <select id="business-filter"></select>
-        </label>
-        <label>
-          <span>Status</span>
-          <select id="status-filter">
-            <option value="">All statuses</option>
-            <option value="downloaded">Downloaded</option>
-            <option value="partial">Partial</option>
-            <option value="failed">Failed</option>
-          </select>
-        </label>
-      </section>
-
-      <section class="taxonomy">
-        <div>
-          <h2>CWE and OWASP Coverage</h2>
-          <div id="coverage-list" class="chip-list"></div>
-        </div>
-        <div>
-          <h2>Workflow Classes</h2>
-          <div id="workflow-list" class="chip-list"></div>
+        <div class="market-panel" aria-label="Catalog summary">
+          <div class="market-panel-head">
+            <span data-i18n="marketSnapshot">Market snapshot</span>
+            <strong id="snapshot-status" data-i18n="loading">Loading</strong>
+          </div>
+          <div class="summary-grid">
+            <div class="metric">
+              <span id="metric-total">0</span>
+              <strong data-i18n="metricSkills">skills</strong>
+            </div>
+            <div class="metric">
+              <span id="metric-downloaded">0</span>
+              <strong data-i18n="metricDownloaded">downloaded</strong>
+            </div>
+            <div class="metric">
+              <span id="metric-cwe">0</span>
+              <strong data-i18n="metricCwe">CWE tags</strong>
+            </div>
+            <div class="metric">
+              <span id="metric-sources">0</span>
+              <strong data-i18n="metricSources">sources</strong>
+            </div>
+          </div>
         </div>
       </section>
 
-      <section class="results-head">
-        <h2 id="results-count">Loading catalog...</h2>
-        <button id="reset" type="button">Reset filters</button>
-      </section>
+      <section id="catalog" class="catalog-shell">
+        <section class="controls" aria-label="Catalog filters">
+          <label class="search">
+            <span data-i18n="searchLabel">Search</span>
+            <input id="search" type="search" data-i18n-placeholder="searchPlaceholder" placeholder="security, CWE-89, OWASP, privacy, skill guard">
+          </label>
+          <label>
+            <span data-i18n="sourceLabel">Source</span>
+            <select id="source-filter"></select>
+          </label>
+          <label>
+            <span data-i18n="securityLabel">Security Domain</span>
+            <select id="security-filter"></select>
+          </label>
+          <label>
+            <span data-i18n="workflowLabel">Workflow</span>
+            <select id="business-filter"></select>
+          </label>
+          <label>
+            <span data-i18n="statusLabel">Status</span>
+            <select id="status-filter"></select>
+          </label>
+        </section>
 
-      <section id="cards" class="cards" aria-live="polite"></section>
+        <section class="taxonomy">
+          <div class="taxonomy-card">
+            <div>
+              <p class="section-kicker" data-i18n="coverageKicker">Coverage</p>
+              <h2 data-i18n="coverageTitle">CWE and OWASP Coverage</h2>
+            </div>
+            <div id="coverage-list" class="chip-list"></div>
+          </div>
+          <div class="taxonomy-card">
+            <div>
+              <p class="section-kicker" data-i18n="workflowKicker">Workflows</p>
+              <h2 data-i18n="workflowTitle">Security Workflows</h2>
+            </div>
+            <div id="workflow-list" class="chip-list"></div>
+          </div>
+        </section>
+
+        <section class="results-head">
+          <div>
+            <p class="section-kicker" data-i18n="leaderboardKicker">Leaderboard</p>
+            <h2 id="results-count" data-i18n="loadingCatalog">Loading catalog...</h2>
+          </div>
+          <button id="reset" type="button" data-i18n="resetFilters">Reset filters</button>
+        </section>
+
+        <section id="cards" class="cards" aria-live="polite"></section>
+      </section>
     </main>
 
     <template id="card-template">
       <article class="card">
         <div class="card-top">
+          <span class="rank"></span>
           <div>
             <p class="source"></p>
             <h3></h3>
@@ -99,9 +130,9 @@
         <p class="description"></p>
         <div class="tags"></div>
         <div class="links">
-          <a class="source-link">Source</a>
-          <a class="download-link">Download</a>
-          <a class="local-link">Local</a>
+          <a class="source-link" data-link-key="sourceLink">Source</a>
+          <a class="download-link" data-link-key="downloadLink">Download</a>
+          <a class="local-link" data-link-key="localLink">Local</a>
         </div>
       </article>
     </template>
