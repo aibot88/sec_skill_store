@@ -21,9 +21,15 @@
         <a href="../skills/" data-i18n="navSkills">Skills</a>
         <a href="https://github.com/aibot88/sec_skill_store">GitHub</a>
       </nav>
-      <div class="language-switch" aria-label="Language">
-        <button class="lang-button active" type="button" data-lang="en">EN</button>
-        <button class="lang-button" type="button" data-lang="zh">中文</button>
+      <div class="top-actions">
+        <a class="star-nav" href="https://github.com/aibot88/sec_skill_store" target="_blank" rel="noopener">
+          <span data-i18n="starRepo">Star repo</span>
+          <strong data-github-stars>0</strong>
+        </a>
+        <div class="language-switch" aria-label="Language">
+          <button class="lang-button active" type="button" data-lang="en">EN</button>
+          <button class="lang-button" type="button" data-lang="zh">中文</button>
+        </div>
       </div>
     </header>
 
@@ -31,12 +37,27 @@
       <section class="hero">
         <div class="hero-copy">
           <p class="eyebrow" data-i18n="eyebrow">Security Skill Intelligence</p>
-          <h1 data-i18n="heroTitle">Discover defensive AI skills by security coverage.</h1>
-          <p class="hero-text" data-i18n="heroText">Browse Codex, Claude Code, OpenClaw and GitHub security skills with CWE, OWASP and workflow classification.</p>
+          <h1 data-i18n="heroTitle">Stop hunting for security skills. Star the map that keeps them organized.</h1>
+          <p class="hero-text" data-i18n="heroText">A living catalog of Codex, Claude Code, OpenClaw and GitHub security skills, ranked by CWE, OWASP and real security workflow coverage.</p>
           <div class="hero-actions">
-            <a class="primary-action" href="#catalog" data-i18n="browseCatalog">Browse catalog</a>
-            <a class="secondary-action" href="https://github.com/aibot88/sec_skill_store" data-i18n="viewRepository">View repository</a>
+            <a class="primary-action" href="https://github.com/aibot88/sec_skill_store" target="_blank" rel="noopener" data-i18n="starOnGithub">Star on GitHub</a>
+            <a class="secondary-action" href="#catalog" data-i18n="browseCatalog">Browse catalog</a>
           </div>
+          <div class="proof-strip" aria-label="Community metrics">
+            <div>
+              <span data-github-stars>0</span>
+              <strong data-i18n="metricStars">GitHub stars</strong>
+            </div>
+            <div>
+              <span data-site-visitors>0</span>
+              <strong data-i18n="metricVisitors">site visitors</strong>
+            </div>
+            <div>
+              <span data-github-forks>0</span>
+              <strong data-i18n="metricForks">forks</strong>
+            </div>
+          </div>
+          <p class="star-note" data-i18n="starNote">If this saves you one search, star it so more security builders can find it.</p>
         </div>
         <div class="market-panel" aria-label="Catalog summary">
           <div class="market-panel-head">
@@ -62,6 +83,15 @@
             </div>
           </div>
         </div>
+      </section>
+
+      <section class="star-banner" aria-label="Star the repository">
+        <div>
+          <p class="section-kicker" data-i18n="starBannerKicker">Open security catalog</p>
+          <h2 data-i18n="starBannerTitle">Help this become the default map for agent security skills.</h2>
+          <p data-i18n="starBannerText">A GitHub star makes the catalog easier to discover, signals which corpus should stay maintained, and helps future contributors trust the project faster.</p>
+        </div>
+        <a class="primary-action" href="https://github.com/aibot88/sec_skill_store" target="_blank" rel="noopener" data-i18n="starOnGithub">Star on GitHub</a>
       </section>
 
       <section id="catalog" class="catalog-shell">

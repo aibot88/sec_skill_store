@@ -124,6 +124,46 @@ a:hover {
   background: #f7f9fc;
 }
 
+.top-actions {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  justify-self: end;
+}
+
+.star-nav {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 40px;
+  padding: 8px 12px;
+  border-radius: 12px;
+  background: #101820;
+  color: #ffffff;
+  font-weight: 900;
+  box-shadow: 0 10px 22px rgba(17, 24, 39, 0.12);
+}
+
+.star-nav::before {
+  content: "★";
+  color: var(--accent);
+}
+
+.star-nav:hover {
+  background: #0b1118;
+  color: #ffffff;
+}
+
+.star-nav strong {
+  min-width: 24px;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #05210e;
+  text-align: center;
+  font-size: 12px;
+}
+
 .lang-button,
 button {
   border: 0;
@@ -193,6 +233,44 @@ h1 {
   flex-wrap: wrap;
   gap: 12px;
   margin-top: 28px;
+}
+
+.proof-strip {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+  max-width: 620px;
+  margin-top: 24px;
+}
+
+.proof-strip div {
+  min-height: 88px;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: #ffffff;
+  box-shadow: 0 10px 26px rgba(17, 24, 39, 0.055);
+}
+
+.proof-strip span {
+  display: block;
+  font-size: clamp(24px, 4vw, 36px);
+  font-weight: 950;
+  line-height: 1;
+}
+
+.proof-strip strong {
+  display: block;
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.star-note {
+  max-width: 620px;
+  margin: 14px 0 0;
+  color: #344054;
+  font-weight: 850;
 }
 
 .primary-action,
@@ -284,6 +362,33 @@ h1 {
 .catalog-shell {
   max-width: 1440px;
   margin: 0 auto;
+}
+
+.star-banner {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 20px;
+  align-items: center;
+  max-width: 1440px;
+  margin: 0 auto 20px;
+  padding: 20px;
+  border: 1px solid #bceccf;
+  border-radius: 22px;
+  background:
+    radial-gradient(circle at 8% 20%, rgba(0, 200, 83, 0.16), transparent 30%),
+    linear-gradient(135deg, #ffffff 0%, #f3fff7 100%);
+  box-shadow: 0 18px 40px rgba(17, 24, 39, 0.07);
+}
+
+.star-banner h2 {
+  max-width: 880px;
+}
+
+.star-banner p:not(.section-kicker) {
+  max-width: 860px;
+  margin: 10px 0 0;
+  color: var(--muted);
+  font-weight: 750;
 }
 
 .controls {
@@ -540,6 +645,11 @@ h3 {
     justify-self: start;
   }
 
+  .top-actions {
+    justify-self: start;
+    flex-wrap: wrap;
+  }
+
   main {
     padding-inline: 16px;
   }
@@ -554,6 +664,8 @@ h3 {
 
   .summary-grid,
   .taxonomy,
+  .proof-strip,
+  .star-banner,
   .cards,
   .controls {
     grid-template-columns: 1fr;

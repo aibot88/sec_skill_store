@@ -4,11 +4,20 @@ const translations = {
     description: "A static catalog of cybersecurity-related Codex, Claude Code, and OpenClaw skills.",
     navJson: "Data",
     navSkills: "Skills",
+    starRepo: "Star repo",
     eyebrow: "Security Skill Intelligence",
-    heroTitle: "Discover defensive AI skills by security coverage.",
-    heroText: "Browse Codex, Claude Code, OpenClaw and GitHub security skills with CWE, OWASP and workflow classification.",
+    heroTitle: "Stop hunting for security skills. Star the map that keeps them organized.",
+    heroText: "A living catalog of Codex, Claude Code, OpenClaw and GitHub security skills, ranked by CWE, OWASP and real security workflow coverage.",
+    starOnGithub: "Star on GitHub",
     browseCatalog: "Browse catalog",
     viewRepository: "View repository",
+    metricStars: "GitHub stars",
+    metricVisitors: "site visitors",
+    metricForks: "forks",
+    starNote: "If this saves you one search, star it so more security builders can find it.",
+    starBannerKicker: "Open security catalog",
+    starBannerTitle: "Help this become the default map for agent security skills.",
+    starBannerText: "A GitHub star makes the catalog easier to discover, signals which corpus should stay maintained, and helps future contributors trust the project faster.",
     marketSnapshot: "Market snapshot",
     loading: "Loading",
     liveIndex: "Live index",
@@ -50,11 +59,20 @@ const translations = {
     description: "面向 Codex、Claude Code 与 OpenClaw 的网络空间安全 Skill 静态目录。",
     navJson: "数据",
     navSkills: "技能库",
+    starRepo: "点亮 Star",
     eyebrow: "安全 Skill 情报",
-    heroTitle: "按安全覆盖范围发现防御型 AI Skills。",
-    heroText: "浏览 Codex、Claude Code、OpenClaw 和 GitHub 安全技能，并按 CWE、OWASP 与安全工作流分类。",
+    heroTitle: "别再到处找安全 Skills。Star 这个持续维护的地图。",
+    heroText: "一个持续更新的 Codex、Claude Code、OpenClaw 与 GitHub 安全技能目录，按 CWE、OWASP 和真实安全工作流排序。",
+    starOnGithub: "去 GitHub 点 Star",
     browseCatalog: "浏览目录",
     viewRepository: "查看仓库",
+    metricStars: "GitHub Stars",
+    metricVisitors: "网站访问人数",
+    metricForks: "Forks",
+    starNote: "如果它帮你少搜一次，就点个 Star，让更多安全开发者也能找到它。",
+    starBannerKicker: "开放安全目录",
+    starBannerTitle: "一起把它变成 Agent 安全 Skills 的默认地图。",
+    starBannerText: "GitHub Star 会让目录更容易被发现，也能让后来贡献者更快判断这个项目值得维护和信任。",
     marketSnapshot: "索引概览",
     loading: "加载中",
     liveIndex: "索引已加载",
@@ -132,6 +150,10 @@ const state = {
 };
 
 const MAX_RENDERED_CARDS = 240;
+const REPO_API_URL = "https://api.github.com/repos/aibot88/sec_skill_store";
+const VISITOR_COUNTER_GET_URL = "https://countapi.mileshilliard.com/api/v1/get/sec_skill_store_home";
+const VISITOR_COUNTER_HIT_URL = "https://countapi.mileshilliard.com/api/v1/hit/sec_skill_store_home";
+const VISITOR_COUNTED_KEY = "sec-skills-visitor-counted-v1";
 const $ = (selector) => document.querySelector(selector);
 const cards = $("#cards");
 const template = $("#card-template");
@@ -222,6 +244,42 @@ function renderMetrics() {
   $("#metric-downloaded").textContent = formatNumber(state.skills.filter((skill) => skill.download_status === "downloaded").length);
   $("#metric-cwe").textContent = formatNumber(uniq(state.skills.flatMap((skill) => skill.cwe || [])).length);
   $("#metric-sources").textContent = formatNumber(uniq(state.skills.map((skill) => skill.source)).length);
+}
+
+function updateText(selector, value) {
+  document.querySelectorAll(selector).forEach((node) => {
+    node.textContent = value;
+  });
+}
+
+async function loadGithubMetrics() {
+  try {
+    const response = await fetch(REPO_API_URL, { cache: "no-store" });
+    if (!response.ok) throw new Error(`GitHub ${response.status}`);
+    const repo = await response.json();
+    updateText("[data-github-stars]", formatNumber(repo.stargazers_count || 0));
+    updateText("[data-github-forks]", formatNumber(repo.forks_count || 0));
+  } catch (error) {
+    updateText("[data-github-stars]", "0");
+    updateText("[data-github-forks]", "0");
+  }
+}
+
+async function loadVisitorCount() {
+  try {
+    const isProduction = location.hostname === "aibot88.github.io";
+    const alreadyCounted = localStorage.getItem(VISITOR_COUNTED_KEY) === "1";
+    const url = isProduction && !alreadyCounted ? VISITOR_COUNTER_HIT_URL : VISITOR_COUNTER_GET_URL;
+    const response = await fetch(url, { cache: "no-store" });
+    if (!response.ok) throw new Error(`Counter ${response.status}`);
+    const payload = await response.json();
+    if (isProduction && !alreadyCounted && typeof payload.value === "number") {
+      localStorage.setItem(VISITOR_COUNTED_KEY, "1");
+    }
+    updateText("[data-site-visitors]", formatNumber(payload.value || 0));
+  } catch (error) {
+    updateText("[data-site-visitors]", "0");
+  }
 }
 
 function renderTaxonomy() {
@@ -382,6 +440,8 @@ async function init() {
   wireControls();
   applyStaticTranslations();
   fillStatusSelect();
+  loadGithubMetrics();
+  loadVisitorCount();
   try {
     const response = await fetch("../data/skills.json", { cache: "no-store" });
     state.skills = await response.json();
