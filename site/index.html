@@ -8,144 +8,231 @@
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
-    <header class="topbar">
-      <a class="brand" href="./" aria-label="Sec Skills Store">
-        <span class="brand-mark">S</span>
-        <span>
-          <strong>Sec Skills</strong>
-          <small>Store</small>
-        </span>
-      </a>
-      <nav class="nav-links" aria-label="Repository links">
-        <a href="../data/skills.json" data-i18n="navJson">Data</a>
-        <a href="../skills/" data-i18n="navSkills">Skills</a>
-        <a href="https://github.com/aibot88/sec_skill_store">GitHub</a>
-      </nav>
-      <div class="top-actions">
-        <a class="star-nav" href="https://github.com/aibot88/sec_skill_store" target="_blank" rel="noopener">
-          <span data-i18n="starRepo">Star repo</span>
-          <strong data-github-stars>0</strong>
+    <div class="app-shell">
+      <aside class="sidebar" aria-label="Primary navigation">
+        <a class="brand" href="./" aria-label="Sec Skills Store">
+          <span class="brand-mark">S</span>
+          <span>
+            <strong>Sec Skills</strong>
+            <small>Store</small>
+          </span>
         </a>
-        <div class="language-switch" aria-label="Language">
-          <button class="lang-button active" type="button" data-lang="en">EN</button>
-          <button class="lang-button" type="button" data-lang="zh">中文</button>
-        </div>
-      </div>
-    </header>
 
-    <main>
-      <section class="hero">
-        <div class="hero-copy">
-          <p class="eyebrow" data-i18n="eyebrow">Security Skill Intelligence</p>
-          <h1 data-i18n="heroTitle">Stop hunting for security skills. Star the map that keeps them organized.</h1>
-          <p class="hero-text" data-i18n="heroText">A living catalog of Codex, Claude Code, OpenClaw and GitHub security skills, ranked by CWE, OWASP and real security workflow coverage.</p>
-          <div class="hero-actions">
+        <nav class="side-nav" aria-label="Catalog navigation">
+          <a class="active" href="#overview">
+            <span class="nav-icon">⌂</span>
+            <span data-i18n="navHome">Home</span>
+          </a>
+          <a href="#catalog">
+            <span class="nav-icon">⌕</span>
+            <span data-i18n="navExplore">Explore Skills</span>
+          </a>
+          <a href="#trending">
+            <span class="nav-icon">↗</span>
+            <span data-i18n="navTrending">Trending Now</span>
+          </a>
+          <a href="#rankings">
+            <span class="nav-icon">#</span>
+            <span data-i18n="navRankings">Rankings</span>
+          </a>
+          <a href="../data/skills.json">
+            <span class="nav-icon">{ }</span>
+            <span data-i18n="navJson">Data</span>
+          </a>
+          <a href="../skills/">
+            <span class="nav-icon">⇩</span>
+            <span data-i18n="navSkills">Skills</span>
+          </a>
+        </nav>
+
+        <div class="sidebar-card" aria-label="GitHub star call to action">
+          <p data-i18n="sideCardKicker">Open corpus</p>
+          <strong data-i18n="sideCardTitle">Make this the map security builders star first.</strong>
+          <a href="https://github.com/aibot88/sec_skill_store" target="_blank" rel="noopener">
+            <span>★</span>
+            <span data-i18n="starOnGithub">Star on GitHub</span>
+          </a>
+        </div>
+      </aside>
+
+      <div class="page-frame">
+        <header class="top-searchbar">
+          <label class="global-search" for="global-search">
+            <span aria-hidden="true">⌕</span>
+            <input id="global-search" type="search" data-i18n-placeholder="globalSearchPlaceholder" placeholder="Search security skills, CWE, OWASP, tools">
+          </label>
+          <div class="top-actions">
+            <a class="star-nav" href="https://github.com/aibot88/sec_skill_store" target="_blank" rel="noopener">
+              <span data-i18n="starRepo">Star repo</span>
+              <strong data-github-stars>0</strong>
+            </a>
+            <div class="language-switch" aria-label="Language">
+              <button class="lang-button active" type="button" data-lang="en">EN</button>
+              <button class="lang-button" type="button" data-lang="zh">中文</button>
+            </div>
+          </div>
+        </header>
+
+        <main>
+          <section id="overview" class="hero">
+            <div class="hero-copy">
+              <p class="eyebrow" data-i18n="eyebrow">Security Skill Intelligence</p>
+              <h1 data-i18n="heroTitle">The security skills map worth starring.</h1>
+              <p class="hero-text" data-i18n="heroText">Track Codex, Claude Code, OpenClaw and GitHub security skills in one searchable catalog, ranked by CWE, OWASP and practical security workflow coverage.</p>
+              <div class="hero-actions">
+                <a class="primary-action" href="https://github.com/aibot88/sec_skill_store" target="_blank" rel="noopener" data-i18n="starOnGithub">Star on GitHub</a>
+                <a class="secondary-action" href="#catalog" data-i18n="browseCatalog">Browse catalog</a>
+              </div>
+            </div>
+
+            <div class="hero-metrics" aria-label="Catalog metrics">
+              <div class="metric hero-proof">
+                <span data-github-stars>0</span>
+                <strong data-i18n="metricStars">GitHub stars</strong>
+              </div>
+              <div class="metric hero-proof">
+                <span data-site-visitors>0</span>
+                <strong data-i18n="metricVisitors">site visitors</strong>
+              </div>
+              <div class="metric hero-proof">
+                <span data-github-forks>0</span>
+                <strong data-i18n="metricForks">forks</strong>
+              </div>
+              <div class="metric">
+                <span id="metric-total">0</span>
+                <strong data-i18n="metricSkills">skills</strong>
+              </div>
+              <div class="metric">
+                <span id="metric-cwe">0</span>
+                <strong data-i18n="metricCwe">CWE tags</strong>
+              </div>
+              <div class="metric">
+                <span id="metric-sources">0</span>
+                <strong data-i18n="metricSources">sources</strong>
+              </div>
+            </div>
+          </section>
+
+          <section class="live-strip" aria-label="Live catalog status">
+            <div>
+              <span data-i18n="marketSnapshot">Market snapshot</span>
+              <strong id="snapshot-status" data-i18n="loading">Loading</strong>
+            </div>
+            <div>
+              <span data-i18n="metricDownloaded">downloaded</span>
+              <strong id="metric-downloaded">0</strong>
+            </div>
+            <p data-i18n="starNote">If this saves you one search, star it so more security builders can find it.</p>
+          </section>
+
+          <section id="trending" class="trending">
+            <div class="section-head">
+              <div>
+                <p class="section-kicker" data-i18n="trendKicker">Trending Projects</p>
+                <h2 data-i18n="trendTitle">Security coverage people can scan in seconds.</h2>
+              </div>
+              <a class="secondary-action" href="#catalog" data-i18n="openRankings">Open rankings</a>
+            </div>
+
+            <div class="ranking-grid">
+              <article class="ranking-card">
+                <div class="ranking-card-head">
+                  <span class="board-number">01</span>
+                  <div>
+                    <p class="section-kicker" data-i18n="coverageBoardKicker">CWE and OWASP</p>
+                    <h3 data-i18n="coverageBoardTitle">Top Security Coverage</h3>
+                  </div>
+                </div>
+                <div id="top-coverage-board" class="ranking-list"></div>
+              </article>
+
+              <article class="ranking-card">
+                <div class="ranking-card-head">
+                  <span class="board-number">02</span>
+                  <div>
+                    <p class="section-kicker" data-i18n="workflowBoardKicker">Workflows</p>
+                    <h3 data-i18n="workflowBoardTitle">Top Security Workflows</h3>
+                  </div>
+                </div>
+                <div id="top-workflows-board" class="ranking-list"></div>
+              </article>
+
+              <article class="ranking-card">
+                <div class="ranking-card-head">
+                  <span class="board-number">03</span>
+                  <div>
+                    <p class="section-kicker" data-i18n="sourceBoardKicker">Sources</p>
+                    <h3 data-i18n="sourceBoardTitle">Skill Source Index</h3>
+                  </div>
+                </div>
+                <div id="source-board" class="ranking-list"></div>
+              </article>
+            </div>
+          </section>
+
+          <section class="star-banner" aria-label="Star the repository">
+            <div>
+              <p class="section-kicker" data-i18n="starBannerKicker">Open security catalog</p>
+              <h2 data-i18n="starBannerTitle">Help this become the default map for agent security skills.</h2>
+              <p data-i18n="starBannerText">A GitHub star makes the catalog easier to discover, signals which corpus should stay maintained, and helps future contributors trust the project faster.</p>
+            </div>
             <a class="primary-action" href="https://github.com/aibot88/sec_skill_store" target="_blank" rel="noopener" data-i18n="starOnGithub">Star on GitHub</a>
-            <a class="secondary-action" href="#catalog" data-i18n="browseCatalog">Browse catalog</a>
-          </div>
-          <div class="proof-strip" aria-label="Community metrics">
-            <div>
-              <span data-github-stars>0</span>
-              <strong data-i18n="metricStars">GitHub stars</strong>
-            </div>
-            <div>
-              <span data-site-visitors>0</span>
-              <strong data-i18n="metricVisitors">site visitors</strong>
-            </div>
-            <div>
-              <span data-github-forks>0</span>
-              <strong data-i18n="metricForks">forks</strong>
-            </div>
-          </div>
-          <p class="star-note" data-i18n="starNote">If this saves you one search, star it so more security builders can find it.</p>
-        </div>
-        <div class="market-panel" aria-label="Catalog summary">
-          <div class="market-panel-head">
-            <span data-i18n="marketSnapshot">Market snapshot</span>
-            <strong id="snapshot-status" data-i18n="loading">Loading</strong>
-          </div>
-          <div class="summary-grid">
-            <div class="metric">
-              <span id="metric-total">0</span>
-              <strong data-i18n="metricSkills">skills</strong>
-            </div>
-            <div class="metric">
-              <span id="metric-downloaded">0</span>
-              <strong data-i18n="metricDownloaded">downloaded</strong>
-            </div>
-            <div class="metric">
-              <span id="metric-cwe">0</span>
-              <strong data-i18n="metricCwe">CWE tags</strong>
-            </div>
-            <div class="metric">
-              <span id="metric-sources">0</span>
-              <strong data-i18n="metricSources">sources</strong>
-            </div>
-          </div>
-        </div>
-      </section>
+          </section>
 
-      <section class="star-banner" aria-label="Star the repository">
-        <div>
-          <p class="section-kicker" data-i18n="starBannerKicker">Open security catalog</p>
-          <h2 data-i18n="starBannerTitle">Help this become the default map for agent security skills.</h2>
-          <p data-i18n="starBannerText">A GitHub star makes the catalog easier to discover, signals which corpus should stay maintained, and helps future contributors trust the project faster.</p>
-        </div>
-        <a class="primary-action" href="https://github.com/aibot88/sec_skill_store" target="_blank" rel="noopener" data-i18n="starOnGithub">Star on GitHub</a>
-      </section>
+          <section id="catalog" class="catalog-shell">
+            <section class="controls" aria-label="Catalog filters">
+              <label class="search">
+                <span data-i18n="searchLabel">Search</span>
+                <input id="search" type="search" data-i18n-placeholder="searchPlaceholder" placeholder="security, CWE-89, OWASP, privacy, skill guard">
+              </label>
+              <label>
+                <span data-i18n="sourceLabel">Source</span>
+                <select id="source-filter"></select>
+              </label>
+              <label>
+                <span data-i18n="securityLabel">Security Domain</span>
+                <select id="security-filter"></select>
+              </label>
+              <label>
+                <span data-i18n="workflowLabel">Workflow</span>
+                <select id="business-filter"></select>
+              </label>
+              <label>
+                <span data-i18n="statusLabel">Status</span>
+                <select id="status-filter"></select>
+              </label>
+            </section>
 
-      <section id="catalog" class="catalog-shell">
-        <section class="controls" aria-label="Catalog filters">
-          <label class="search">
-            <span data-i18n="searchLabel">Search</span>
-            <input id="search" type="search" data-i18n-placeholder="searchPlaceholder" placeholder="security, CWE-89, OWASP, privacy, skill guard">
-          </label>
-          <label>
-            <span data-i18n="sourceLabel">Source</span>
-            <select id="source-filter"></select>
-          </label>
-          <label>
-            <span data-i18n="securityLabel">Security Domain</span>
-            <select id="security-filter"></select>
-          </label>
-          <label>
-            <span data-i18n="workflowLabel">Workflow</span>
-            <select id="business-filter"></select>
-          </label>
-          <label>
-            <span data-i18n="statusLabel">Status</span>
-            <select id="status-filter"></select>
-          </label>
-        </section>
+            <section class="taxonomy">
+              <div class="taxonomy-card">
+                <div>
+                  <p class="section-kicker" data-i18n="coverageKicker">Coverage</p>
+                  <h2 data-i18n="coverageTitle">CWE and OWASP Coverage</h2>
+                </div>
+                <div id="coverage-list" class="chip-list"></div>
+              </div>
+              <div class="taxonomy-card">
+                <div>
+                  <p class="section-kicker" data-i18n="workflowKicker">Workflows</p>
+                  <h2 data-i18n="workflowTitle">Security Workflows</h2>
+                </div>
+                <div id="workflow-list" class="chip-list"></div>
+              </div>
+            </section>
 
-        <section class="taxonomy">
-          <div class="taxonomy-card">
-            <div>
-              <p class="section-kicker" data-i18n="coverageKicker">Coverage</p>
-              <h2 data-i18n="coverageTitle">CWE and OWASP Coverage</h2>
-            </div>
-            <div id="coverage-list" class="chip-list"></div>
-          </div>
-          <div class="taxonomy-card">
-            <div>
-              <p class="section-kicker" data-i18n="workflowKicker">Workflows</p>
-              <h2 data-i18n="workflowTitle">Security Workflows</h2>
-            </div>
-            <div id="workflow-list" class="chip-list"></div>
-          </div>
-        </section>
+            <section id="rankings" class="results-head">
+              <div>
+                <p class="section-kicker" data-i18n="leaderboardKicker">Leaderboard</p>
+                <h2 id="results-count" data-i18n="loadingCatalog">Loading catalog...</h2>
+              </div>
+              <button id="reset" type="button" data-i18n="resetFilters">Reset filters</button>
+            </section>
 
-        <section class="results-head">
-          <div>
-            <p class="section-kicker" data-i18n="leaderboardKicker">Leaderboard</p>
-            <h2 id="results-count" data-i18n="loadingCatalog">Loading catalog...</h2>
-          </div>
-          <button id="reset" type="button" data-i18n="resetFilters">Reset filters</button>
-        </section>
-
-        <section id="cards" class="cards" aria-live="polite"></section>
-      </section>
-    </main>
+            <section id="cards" class="cards" aria-live="polite"></section>
+          </section>
+        </main>
+      </div>
+    </div>
 
     <template id="card-template">
       <article class="card">

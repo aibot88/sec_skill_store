@@ -2,12 +2,19 @@ const translations = {
   en: {
     title: "Sec Skills Store",
     description: "A static catalog of cybersecurity-related Codex, Claude Code, and OpenClaw skills.",
+    navHome: "Home",
+    navExplore: "Explore Skills",
+    navTrending: "Trending Now",
+    navRankings: "Rankings",
     navJson: "Data",
     navSkills: "Skills",
     starRepo: "Star repo",
+    sideCardKicker: "Open corpus",
+    sideCardTitle: "Make this the map security builders star first.",
+    globalSearchPlaceholder: "Search security skills, CWE, OWASP, tools",
     eyebrow: "Security Skill Intelligence",
-    heroTitle: "Stop hunting for security skills. Star the map that keeps them organized.",
-    heroText: "A living catalog of Codex, Claude Code, OpenClaw and GitHub security skills, ranked by CWE, OWASP and real security workflow coverage.",
+    heroTitle: "The security skills map worth starring.",
+    heroText: "Track Codex, Claude Code, OpenClaw and GitHub security skills in one searchable catalog, ranked by CWE, OWASP and practical security workflow coverage.",
     starOnGithub: "Star on GitHub",
     browseCatalog: "Browse catalog",
     viewRepository: "View repository",
@@ -25,6 +32,16 @@ const translations = {
     metricDownloaded: "downloaded",
     metricCwe: "CWE tags",
     metricSources: "sources",
+    trendKicker: "Trending Projects",
+    trendTitle: "Security coverage people can scan in seconds.",
+    openRankings: "Open rankings",
+    coverageBoardKicker: "CWE and OWASP",
+    coverageBoardTitle: "Top Security Coverage",
+    workflowBoardKicker: "Workflows",
+    workflowBoardTitle: "Top Security Workflows",
+    sourceBoardKicker: "Sources",
+    sourceBoardTitle: "Skill Source Index",
+    skillsUnit: "skills",
     searchLabel: "Search",
     searchPlaceholder: "security, CWE-89, OWASP, privacy, skill guard",
     sourceLabel: "Source",
@@ -57,12 +74,19 @@ const translations = {
   zh: {
     title: "Sec Skills Store",
     description: "面向 Codex、Claude Code 与 OpenClaw 的网络空间安全 Skill 静态目录。",
+    navHome: "首页",
+    navExplore: "探索 Skills",
+    navTrending: "趋势榜",
+    navRankings: "排行榜",
     navJson: "数据",
     navSkills: "技能库",
     starRepo: "点亮 Star",
+    sideCardKicker: "开放语料",
+    sideCardTitle: "让它成为安全开发者首先 Star 的地图。",
+    globalSearchPlaceholder: "搜索安全技能、CWE、OWASP、工具",
     eyebrow: "安全 Skill 情报",
-    heroTitle: "别再到处找安全 Skills。Star 这个持续维护的地图。",
-    heroText: "一个持续更新的 Codex、Claude Code、OpenClaw 与 GitHub 安全技能目录，按 CWE、OWASP 和真实安全工作流排序。",
+    heroTitle: "值得点 Star 的安全 Skills 地图。",
+    heroText: "把 Codex、Claude Code、OpenClaw 与 GitHub 安全技能放进一个可搜索目录，并按 CWE、OWASP 与真实安全工作流排序。",
     starOnGithub: "去 GitHub 点 Star",
     browseCatalog: "浏览目录",
     viewRepository: "查看仓库",
@@ -80,6 +104,16 @@ const translations = {
     metricDownloaded: "已下载",
     metricCwe: "CWE 标签",
     metricSources: "来源",
+    trendKicker: "趋势项目",
+    trendTitle: "几秒钟看懂安全覆盖重点。",
+    openRankings: "打开排行榜",
+    coverageBoardKicker: "CWE 与 OWASP",
+    coverageBoardTitle: "热门安全覆盖",
+    workflowBoardKicker: "工作流",
+    workflowBoardTitle: "热门安全工作流",
+    sourceBoardKicker: "来源",
+    sourceBoardTitle: "Skill 来源索引",
+    skillsUnit: "技能",
     searchLabel: "搜索",
     searchPlaceholder: "安全、CWE-89、OWASP、隐私、skill guard",
     sourceLabel: "来源",
@@ -157,6 +191,7 @@ const VISITOR_COUNTED_KEY = "sec-skills-visitor-counted-v1";
 const $ = (selector) => document.querySelector(selector);
 const cards = $("#cards");
 const template = $("#card-template");
+const searchInputs = () => [$("#global-search"), $("#search")].filter(Boolean);
 
 function t(key, params = {}) {
   const dictionary = translations[state.lang] || translations.en;
@@ -189,6 +224,14 @@ function countValues(items, getter) {
     }
   }
   return [...counts.entries()].sort((a, b) => b[1] - a[1] || displayLabel(a[0]).localeCompare(displayLabel(b[0])));
+}
+
+function syncSearchInputs(sourceInput = null) {
+  for (const input of searchInputs()) {
+    if (input !== sourceInput) {
+      input.value = state.query;
+    }
+  }
 }
 
 function fillSelect(select, label, values, selectedValue = "") {
@@ -288,6 +331,33 @@ function renderTaxonomy() {
 
   $("#coverage-list").innerHTML = coverage.map(([name, count]) => `<span class="chip">${escapeHtml(displayLabel(name))} · ${formatNumber(count)}</span>`).join("");
   $("#workflow-list").innerHTML = workflows.map(([name, count]) => `<span class="chip">${escapeHtml(displayLabel(name))} · ${formatNumber(count)}</span>`).join("");
+}
+
+function renderRankingBoard(selector, rows, filterType) {
+  const container = $(selector);
+  if (!container) return;
+
+  container.innerHTML = rows.map(([name, count], index) => `
+    <button class="ranking-row" type="button" data-rank-filter="${filterType}" data-rank-value="${escapeHtml(name)}">
+      <span class="ranking-index">${String(index + 1).padStart(2, "0")}</span>
+      <span class="ranking-name">${escapeHtml(displayLabel(name))}</span>
+      <strong>${formatNumber(count)} ${t("skillsUnit")}</strong>
+    </button>
+  `).join("");
+}
+
+function renderTrendBoards() {
+  const coverage = countValues(state.skills, (skill) => [
+    ...(skill.cwe || []),
+    ...(skill.owasp || []),
+    ...(skill.security_domains || []),
+  ]).slice(0, 6);
+  const workflows = countValues(state.skills, (skill) => skill.business_domains || []).slice(0, 6);
+  const sources = countValues(state.skills, (skill) => [skill.source]).slice(0, 6);
+
+  renderRankingBoard("#top-coverage-board", coverage, "coverage");
+  renderRankingBoard("#top-workflows-board", workflows, "business");
+  renderRankingBoard("#source-board", sources, "source");
 }
 
 function escapeHtml(value) {
@@ -396,14 +466,39 @@ function setLanguage(lang) {
   refreshSelects();
   renderMetrics();
   renderTaxonomy();
+  renderTrendBoards();
   applyFilters();
 }
 
+function applyBoardFilter(type, value) {
+  state.query = "";
+  state.source = type === "source" ? value : "";
+  state.business = type === "business" ? value : "";
+  state.security = "";
+  state.status = "";
+
+  if (type === "coverage") {
+    const securityValues = new Set(state.skills.flatMap((skill) => skill.security_domains || []));
+    if (securityValues.has(value)) {
+      state.security = value;
+    } else {
+      state.query = value;
+    }
+  }
+
+  syncSearchInputs();
+  refreshSelects();
+  applyFilters();
+  $("#catalog")?.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
 function wireControls() {
-  $("#search").addEventListener("input", (event) => {
+  const handleSearch = (event) => {
     state.query = event.target.value;
+    syncSearchInputs(event.target);
     applyFilters();
-  });
+  };
+  searchInputs().forEach((input) => input.addEventListener("input", handleSearch));
   $("#source-filter").addEventListener("change", (event) => {
     state.source = event.target.value;
     applyFilters();
@@ -426,9 +521,14 @@ function wireControls() {
     state.security = "";
     state.business = "";
     state.status = "";
-    $("#search").value = "";
+    syncSearchInputs();
     refreshSelects();
     applyFilters();
+  });
+  document.addEventListener("click", (event) => {
+    const row = event.target.closest("[data-rank-filter]");
+    if (!row) return;
+    applyBoardFilter(row.dataset.rankFilter, row.dataset.rankValue);
   });
   document.querySelectorAll(".lang-button").forEach((button) => {
     button.addEventListener("click", () => setLanguage(button.dataset.lang));
@@ -449,6 +549,7 @@ async function init() {
     refreshSelects();
     renderMetrics();
     renderTaxonomy();
+    renderTrendBoards();
     applyFilters();
   } catch (error) {
     $("#snapshot-status").textContent = t("failed");
